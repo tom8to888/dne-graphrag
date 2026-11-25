@@ -465,9 +465,8 @@ questions, the setting of limited budgets that motivated this study.
 \section*{Code and Data}
 \label{sec:code}
 The code is available at \url{https://github.com/tom8to888/dne-graphrag}. New relative to the \texttt{graphrag} library are:
-a Kaggle pipeline that serves Qwen2.5-14B and bge-m3 with vLLM on two T4 GPUs and runs indexing,
-querying, the conversational agent and the second judge from one kernel, with watchdogs that stop a run within its budget, and resumption across sessions from
-graphrag's cache; a fix for the empty answers of graphrag~3.3's basic search; the pairwise judge, the
+a Kaggle pipeline (vLLM on two T4 GPUs) that runs indexing, querying, the conversational agent and the
+second judge, with budget watchdogs and resumption from graphrag's cache; a fix for the empty answers of graphrag~3.3's basic search; the pairwise judge, the
 correctness grader and the statistics (sign test, Wilcoxon, Holm, $\kappa$); and the code that draws
 the blinded human sample. A README and \texttt{run\_all.sh} reproduce every stage, and
 the tables in this report are generated from the result files. The corpus is licensed CC BY 4.0.
