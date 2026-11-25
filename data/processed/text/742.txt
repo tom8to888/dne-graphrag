@@ -1,0 +1,546 @@
+Title: Reaching the baseline: A comparative case study of anthropometric extremes in Division I female tennis players
+Authors: BJ Lehecka
+Year: 2026
+Issue: Vol. 34 No. 98 (2026)
+Article id: 742
+
+ABSTRACT
+Shoulder asymmetry is a frequent finding in tennis players and has often been
+misinterpreted as a clinical sign of scoliosis. This assumption derives from traditional
+orthopaedic paradigms in which differences in shoulder height were considered
+secondary indicators of spinal deformity. However, current biomechanical and sport
+science evidence suggests that, in tennis players, shoulder asymmetry predominantly
+reflects a functional, sport-specific adaptation rather than a structural spinal pathology.
+Tennis is a highly asymmetric overhead sport characterized by repetitive, high-velocity
+movements of the dominant upper limb, particularly during the serve and forehand.
+These actions promote selective hypertrophy and strength dominance of the shoulder
+internal rotators, combined with relative weakness of the external rotators and scapular
+stabilizers. The resulting muscular imbalance and inertial loading contribute to altered
+scapular positioning and apparent shoulder depression. This article examines the
+biomechanical basis of shoulder asymmetry in tennis players and discusses practical
+implications for screening, prevention, and training.
+INTRODUCTION
+Asymmetrical musculoskeletal adaptations are a wellrecognized consequence of long-term participation in
+unilateral and overhead sports. Disciplines such as tennis,
+baseball, volleyball, and handball require repetitive, highvelocity movements predominantly executed with the same
+upper limb, leading to sport-specific structural and functional
+adaptations of the shoulder girdle and trunk (Kibler, 1998;
+Ellenbecker & Roetert, 2003; Elliott, 2006). In tennis players,
+these adaptations are particularly evident at the level of the
+dominant shoulder, where selective hypertrophy, strength
+imbalances, and changes in scapular positioning are commonly
+observed across different levels of play.
+One of the most visible manifestations of these adaptations
+is shoulder height asymmetry, often characterized by an
+apparent lowering of the dominant shoulder. Historically, this
+clinical sign has generated diagnostic uncertainty and has
+frequently been interpreted as a possible indicator of spinal
+pathology, particularly scoliosis. This interpretation originates
+from traditional orthopedic paradigms in which shoulder
+asymmetry was considered a secondary sign of structural
+spinal deformity. However, accumulating evidence from sport
+science, biomechanics, and clinical sports medicine suggests
+that, in athletes, shoulder asymmetry more often represents
+a functional adaptation rather than a manifestation of true
+scoliosis (Priest, 1988; Kibler, 1995; Negrini et al., 2018).
+www.itfcoachingreview.com
+April 2026. 34th  Year. Issue 98. 21-26
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i98.755
+Shoulder asymmetry in tennis players: functional
+adaptation or misinterpreted indicator of scoliosis?
+Rodolfo Lisi
+Ministry of Education and Merit, IMT Varrone, Cassino (FR), Italy
+Key words: Tennis, Shoulder
+asymmetry, Shoulder
+biomechanics, Functional
+adaptation, Scoliosis
+Received: 2 February  2026
+Accepted: 15 April  2026
+Corresponding author: Rodolfo
+Lisi. Email: rodolfo.lisi@libero.it
+COACHING & SPORT
+SCIENCE REVIEW
+Recent systematic reviews and narrative syntheses in
+tennis and overhead athletes have further confirmed that
+shoulder asymmetries are primarily related to sport-specific
+loading patterns, strength imbalances, and range-of-motion
+adaptations rather than structural spinal pathology (Johnson
+et al., 2018; Moreno-Pérez et al., 2018; Keller et al., 2020).
+The distinction between structural scoliosis and functional
+or posture-dependent asymmetries is therefore crucial in the
+evaluation of athletes. Structural scoliosis is defined as a fixed,
+three-dimensional deformity of the spine, characterized by
+vertebral rotation and persistence of the curve irrespective
+of posture, whereas functional asymmetries are typically
+flexible, reversible, and strongly influenced by asymmetric
+loading patterns, muscular imbalances, and neuromuscular
+adaptations induced by sport-specific training (Nachemson &
+Lonstein, 1995; Negrini et al., 2018).
+Contemporary evidence emphasizes that screening in
+overhead athletes should focus on modifiable functional
+factors, including shoulder strength balance, internal-toexternal rotator ratios, and range-of-motion adaptations
+such as glenohumeral internal rotation deficit (GIRD), which
+have been consistently associated with shoulder injury risk
+(Johnson et al., 2018; Moreno-Pérez et al., 2018; Keller
+et al., 2020). Dominant-arm adaptations in tennis players
+typically include reduced internal rotation range of motion
+and alterations in total arc, reflecting chronic exposure to
+asymmetric loading. These features are clinically relevant
+because deficits in external rotator strength and altered ER/
+IR ratios have been associated with a history of shoulder pain
+in elite tennis players (Moreno-Pérez et al., 2018).
+Tennis represents a paradigmatic model of asymmetric loading,
+as match-play analyses have shown that approximately
+70–80% of all strokes performed during competitive play
+consist of the serve and the forehand, both predominantly
+executed with the dominant arm (Johnson & McHugh, 2006).
+These strokes are characterized by extremely high angular
+velocities of shoulder internal rotation, particularly during
+the acceleration phase of the serve, where peak values
+exceeding 2,000°/s have been reported in elite players (Elliott
+et al., 1986; Elliott, 1988). Such biomechanical demands
+impose substantial mechanical stress on the shoulder girdle
+musculature, especially on the internal rotators, which play a
+primary role in power generation.
+Isokinetic and electromyographic studies have consistently
+demonstrated a strength dominance and hypertrophy of the
+shoulder internal rotators in tennis players, accompanied
+by relatively lower strength and endurance of the external
+rotators
+and
+scapular
+stabilizers
+(Ellenbecker,
+1991;
+Ellenbecker & Roetert, 2003; Kibler et al., 2007). During the
+serve and forehand, internal rotators act concentrically to
+accelerate the arm, whereas external rotators are primarily
+engaged eccentrically during the deceleration and followthrough phases, where they are exposed to high mechanical
+loads (Ryu et al., 1988; Elliott et al., 2003). This functional
+imbalance is considered a key factor in both performance
+enhancement and injury risk.
+From a biomechanical perspective, rapid arm rotation
+generates substantial inertial forces proportional to the
+moment of inertia of the upper limb and the angular velocity
+achieved during the stroke (Lisi, 2007). Repeated exposure to
+these forces promotes adaptive hypertrophy of the muscles
+primarily involved in acceleration, while the stabilizing and
+decelerating muscles are subjected to chronic eccentric
+overload (Bahamonde & Knudson, 2003; Farthing & Chilibeck,
+2003). Over time, these neuromuscular adaptations may
+contribute to altered resting scapular positioning and an
+apparent depression of the dominant shoulder, without
+implying any underlying structural spinal abnormality.
+Despite early observations reporting the frequent coexistence
+of shoulder asymmetry and mild spinal deviations in tennis
+players, no consistent evidence has demonstrated a causal
+relationship between shoulder height differences and true
+structural scoliosis (Priest, 1988; Steinbrück & Mauch, 2000).
+Rather, the available data support the interpretation of
+shoulder asymmetry as a sport-specific functional adaptation
+driven by asymmetric muscular development and repetitive
+biomechanical loading.
+The purpose of this article is therefore to analyze the
+biomechanical and neuromuscular mechanisms underlying
+shoulder asymmetry in tennis players, to critically re-examine
+its historical association with scoliosis, and to provide
+practical implications for screening, prevention, and training.
+Emphasis is placed on the importance of distinguishing
+functional adaptations from pathological conditions to avoid
+misdiagnosis and to guide evidence-based practice in tennis
+coaching and sports medicine.
+The conceptual distinction between functional shoulder
+asymmetry in tennis players and structural spinal deformity
+is illustrated in Figure 1.
+Shoulder Asymmetry in Tennis Players: Biomechanical
+Interpretation
+The term “tennis player’s shoulder” has long been used to
+describe the characteristic asymmetry observed at the level
+of the shoulder girdle in tennis players, typically involving
+an apparent lowering of the dominant shoulder (Rieder et
+al., 1983; Priest, 1988; Steinbrück & Mauch, 2000). Early
+observational studies reported a high prevalence of shoulder
+height asymmetry in competitive players, sometimes
+associated with mild lateral deviations of the thoracic spine.
+These findings contributed to the hypothesis that shoulder
+asymmetry might represent a clinical sign of underlying
+scoliosis.
+However, early critical analyses questioned this interpretation
+and proposed an alternative explanation based on sportspecific biomechanical adaptations rather than structural
+spinal pathology (Lisi, 2007). Subsequent investigations
+failed to demonstrate a statistically significant correlation
+between shoulder depression and true scoliosis. Although
+mild thoraco-lumbar deviations were occasionally observed,
+these deviations were often flexible, posture-dependent, and
+not consistently oriented toward the dominant arm (Priest,
+1988; Steinbrück & Mauch, 2000). Such characteristics are
+incompatible with the definition of structural scoliosis and
+instead suggest the presence of functional or apparent spinal
+adaptations.
+Limitations of Early Etiological Hypotheses
+Two main mechanisms were originally proposed to explain
+dominant-side shoulder depression in tennis players (Priest
+& Nagel, 1976; Priest, 1988). The first attributed the
+phenomenon to repetitive stretching of the shoulder elevators
+during the serve, particularly during the acceleration and
+follow-through phases, leading to progressive elongation and
+reduced resting tone of these muscles. The second hypothesis
+suggested that the increased mass of the dominant upper
+limb, resulting from hypertrophy, would exert a gravitational
+effect sufficient to lower the shoulder.
+Figure 1. Comparison between functional shoulder asymmetry in tennis
+players and structural spinal adaptation. Shoulder asymmetry observed
+in tennis players represents a sport-specific functional adaptation
+related to asymmetric loading, whereas scoliosis is characterized by a
+structural, three-dimensional spinal deformity.
+A biomechanical critique of these hypotheses highlighted
+their limitations (Lisi, 2007). During arm elevation, the
+scapula does not elevate passively but is actively stabilized by
+coordinated contraction of scapular depressors and rotators,
+providing a stable base for humeral motion (Boccardi &
+Lissoni, 1977; 1978; 1984). The modest degree of scapular
+depression typically observed (approximately 1–2 cm) is
+unlikely to induce pathological elongation of the elevator
+muscles, which are subsequently engaged concentrically
+during arm lowering. This interpretation is further supported
+by studies on scapular kinematics showing that resting
+scapular position is maintained primarily by tonic muscular
+activity rather than by gravitational loading (Ludewig & Cook,
+2000). Consequently, the “gravitational mass” hypothesis
+appears biomechanically implausible.
+Role of Inertial Forces and Muscle Imbalance
+A more coherent explanation emerges when the dynamic
+characteristics of tennis strokes are considered (Lisi, 2007).
+Rapid arm rotation generates inertial forces proportional
+to the moment of inertia of the upper limb and the angular
+velocity achieved during the movement. An increase in limb
+mass or movement speed therefore results in a proportional
+increase in the mechanical load sustained by the muscles
+responsible for controlling these motions.
+In tennis, both the serve and the forehand rely heavily on highvelocity internal rotation of the shoulder and account for the
+majority of strokes performed during match play (Johnson &
+McHugh, 2006). These strokes are characterized by extreme
+angular velocities, particularly during the acceleration phase
+of the serve, where peak values exceeding 2,000°/s have been
+reported in elite players (Elliott et al., 1986; Elliott, 1988). As
+originally proposed, repeated exposure to such inertial loads
+promotes selective hypertrophy and strength dominance
+of the shoulder internal rotators, while placing the external
+rotators at a relative mechanical disadvantage (Lisi, 2007).
+Recent studies and systematic reviews have confirmed that
+these strength and range-of-motion adaptations persist across
+different competitive levels and age groups in overhead and
+racket sports, supporting the concept of long-term functional
+remodelling rather than pathological alteration (Silva et al.,
+2025; Madroñal-Sotomayor et al., 2025).
+Isokinetic studies have consistently confirmed a functional
+imbalance between shoulder internal and external rotators
+in tennis players, demonstrating significantly greater strength
+of the internal rotators on the dominant side, while external
+rotator strength often shows minimal side-to-side differences
+(Ellenbecker, 1991; Ellenbecker & Roetert, 2003; Kibler et
+al., 2007). The functional imbalance between internal and
+external rotators in tennis players is schematically illustrated
+in Figure 2.
+This imbalance is further accentuated by biomechanical
+factors, including thoracic kyphosis and the oblique
+orientation of the scapula relative to the frontal plane, which
+reduce the mechanical efficiency of the external rotators
+during high-velocity movements (Kibler, 1998; Ludewig &
+Cook, 2000). As a result, the external rotators are required
+to operate under unfavourable length–tension and momentarm conditions, particularly during the deceleration phase
+of the serve. The relationship between angular velocity,
+inertial forces, and eccentric control demands at the shoulder
+is central to understanding tennis-related adaptations.
+High angular velocities generated during the acceleration
+phase are followed by a rapid deceleration phase, during
+which substantial eccentric loading is required to dissipate
+inertial forces and protect the glenohumeral joint (Figure 3)
+(Bahamonde & Knudson, 2003; Elliott et al., 2003).
+Figure 2. Conceptual vector model illustrating the functional dominance
+of shoulder internal rotators compared with external rotators in tennis
+players. High-velocity strokes generate predominant internal rotation
+forces, while the external rotators are primarily involved in eccentric
+control and deceleration.
+Figure 3. Conceptual representation of the relationship between
+rotational velocity and eccentric control demands at the shoulder
+during tennis strokes. High angular velocities generated during the
+acceleration phase are followed by a rapid deceleration phase, during
+which substantial eccentric loading is required to control inertial forces.
+Electromyographic Evidence and Stroke-Specific Loading
+Electromyographic analyses of the tennis serve indicate that
+scapular stabilizers are activated early to position and stabilize
+the scapula, while rotator cuff activation timing shifts across
+stroke phases, supporting the need for sequenced scapular–
+cuff conditioning rather than isolated muscle strengthening
+(Ryu et al., 1988; Kibler et al., 2007).
+Repeated exposure to high-velocity internal rotation during
+serving and forehand strokes promotes selective hypertrophy
+and strength dominance of the shoulder internal rotators,
+including the pectoralis major, latissimus dorsi, teres major,
+and subscapularis (Ryu et al., 1988; Elliott et al., 2003;
+Ellenbecker & Roetert, 2003). Over time, this neuromuscular
+pattern leads to stable, sport-specific adaptations rather than
+transient functional changes.
+These chronic adaptations provide a plausible biomechanical
+explanation for altered resting scapular positioning and the
+apparent depression of the dominant shoulder frequently
+observed in tennis players, without implying any underlying
+structural spinal abnormality (Kibler, 1998; Lisi, 2007).
+Clinical interpretation: functional vs structural asymmetry
+Structural scoliosis is defined as a fixed, three-dimensional
+spinal deformity characterized by vertebral rotation and
+persistence of curvature irrespective of posture, whereas
+the asymmetries observed in tennis players are flexible,
+reversible, and strongly influenced by sport-specific loading
+patterns (Nachemson & Lonstein, 1995; Negrini et al., 2018).
+Despite early reports describing the coexistence of shoulder
+asymmetry and mild spinal deviations in tennis players, no
+consistent evidence supports a causal relationship between
+shoulder height differences and true structural scoliosis
+(Priest, 1988; Steinbrück & Mauch, 2000). Observed spinal
+deviations are typically mild, posture-dependent, and nonfixed, characteristics incompatible with the definition of
+structural scoliosis.
+DISCUSSION
+The present analysis reinforces the interpretation of shoulder
+asymmetry in tennis players as a functional, sport-specific
+adaptation rather than a clinical indicator of structural
+scoliosis. While early observational studies documented a
+frequent coexistence of shoulder height asymmetry and mild
+spinal deviations, subsequent biomechanical and clinical
+investigations have failed to establish a causal relationship
+between these findings and true scoliosis (Priest, 1988;
+Steinbrück & Mauch, 2000). Instead, the available evidence
+consistently supports a model based on asymmetric loading,
+muscular imbalance, and inertial forces inherent to tennis
+performance.
+A key contribution to this reinterpretation was the
+biomechanical framework originally proposed by Lisi (2007),
+which reframed the so-called “tennis player’s shoulder” as
+an adaptive response to repetitive, high-velocity upper limb
+actions. To the author’s knowledge, this interpretation was
+first explicitly proposed in the context of tennis by Lisi (2007),
+anticipating concepts that have since been supported by
+electromyographic, isokinetic, and clinical injury-risk studies
+in overhead athletes.
+This biomechanical model anticipated several concepts now
+widely accepted in sport science, including the central role
+of internal rotator dominance, the mechanical disadvantage
+of the external rotators, and the importance of eccentric
+capacity during high-velocity deceleration. This aligns with
+evidence showing that external rotator strength deficits and
+altered ER/IR ratios are associated with shoulder pain history
+in elite tennis players (Moreno-Pérez et al., 2018), highlighting
+the clinical relevance of these functional imbalances.
+Electromyographic analyses of the tennis serve demonstrate
+that scapular stabilizers are activated early to appropriately
+position the scapula, while rotator cuff activation timing shifts
+across stroke phases, supporting the need for sequenced
+scapular–cuff conditioning rather than isolated muscle
+strengthening (Kibler et al., 2007). During acceleration,
+internal rotators dominate force production, whereas
+external rotators are primarily engaged eccentrically during
+deceleration (Ryu et al., 1988).
+Dominant-arm adaptations in tennis players typically include
+reduced internal rotation range of motion and alterations
+in total rotational arc. These features are clinically relevant
+because deficits in external rotator strength and altered ER/
+IR ratios have been associated with shoulder pain history in
+elite tennis players (Moreno-Pérez et al., 2018), reinforcing
+the importance of monitoring functional asymmetries rather
+than static postural signs alone.
+The strength of this functional interpretation lies in its
+consistency with neuromuscular evidence. Studies examining
+the tennis serve and forehand consistently report high
+activation levels of the pectoralis major, latissimus dorsi,
+and subscapularis during acceleration phases, contrasted
+with intense eccentric loading of the external rotators during
+deceleration (Ryu et al., 1988; Kibler et al., 2007; Ellenbecker
+& Roetert, 2003). Over time, this loading pattern promotes
+selective hypertrophy and strength dominance of the internal
+rotators, while exposing the external rotators and scapular
+stabilizers to chronic overload and fatigue.
+Such neuromuscular adaptations provide a plausible
+explanation for altered scapular positioning and apparent
+shoulder depression at rest. Rather than reflecting structural
+deformity, these postural features are consistent with
+long-term functional remodeling driven by asymmetric
+loading and repetitive inertial demands, as observed across
+overhead and racket sports (Kibler, 1998; Silva et al., 2025).
+Importantly, this functional perspective also explains why
+shoulder asymmetry in tennis players is often flexible,
+posture-dependent, and poorly correlated with the direction
+or magnitude of spinal deviations. These characteristics are
+incompatible with the definition of structural scoliosis, which
+requires fixed vertebral rotation and persistence of curvature
+independent of posture (Nachemson & Lonstein, 1995;
+Negrini et al., 2018).
+Misinterpreting functional adaptations as pathological
+deformities may lead to unnecessary diagnostic procedures,
+inappropriate clinical labelling, and misguided interventions.
+In athletic populations, particularly young players, such
+misclassification
+risks
+diverting
+attention
+away
+from
+modifiable performance-related factors toward non-indicated
+medical management (Negrini et al., 2018).
+During the deceleration and follow-through phases of the
+serve and forehand, the external rotators are exposed to
+substantial eccentric demands required to dissipate inertial
+forces generated during acceleration (Ryu et al., 1988; Elliott
+et al., 2003). Enhancing eccentric capacity may improve
+deceleration control, reduce cumulative overload, and
+support long-term shoulder health (LaStayo et al., 2003;
+Farthing & Chilibeck, 2003).
+Effective management of shoulder asymmetry requires an
+integrated approach that prioritizes scapular control within
+the kinetic chain. Early activation of scapular stabilizers
+is essential to position the glenoid optimally and to allow
+efficient force transfer from the trunk to the upper limb
+during high-velocity strokes (Kibler, 1998; Kibler et al.,
+2007). Off-court strengthening of the serratus anterior, lower
+trapezius, and rotator cuff should therefore be combined
+with stroke-specific on-court drills to reinforce appropriate
+scapulohumeral sequencing.
+Dominant-arm adaptations in tennis players typically
+include reductions in glenohumeral internal rotation and
+alterations in total rotational arc. While these changes are
+recognized as common sport-specific adaptations, excessive
+or asymmetrical range-of-motion deficits warrant attention,
+particularly when accompanied by strength imbalance or
+impaired scapular control (Johnson et al., 2018; Keller et
+al., 2020). Monitoring shoulder range of motion, especially
+unilateral internal rotation deficits, may facilitate early
+identification of maladaptive patterns.
+From a preventive standpoint, a function-oriented screening
+framework is recommended. Rather than relying on static
+postural signs, clinicians and coaches should integrate
+assessments of strength balance, eccentric external rotator
+capacity, scapular control, and sport-specific movement
+patterns. When shoulder asymmetry is identified, it should
+prompt functional testing and targeted intervention rather
+than immediate referral for imaging or spinal evaluation.
+Education of players, parents, and coaching staff is
+essential. Clear communication that certain asymmetries
+represent normal adaptations to tennis practice may reduce
+unnecessary concern, discourage premature medicalization,
+and support more appropriate performance-oriented and
+preventive strategies.
+CONCLUSION
+Shoulder asymmetry in tennis players should be interpreted
+primarily as a functional adaptation resulting from the
+asymmetric biomechanical demands of the sport rather than
+as a clinical sign of scoliosis. The repetitive, high-velocity
+actions of the serve and forehand impose substantial inertial
+loads on the dominant upper limb, promoting selective
+hypertrophy and strength dominance of the shoulder internal
+rotators and altering scapular resting position (Elliott, 1988;
+Bahamonde & Knudson, 2003).
+The biomechanical interpretation originally proposed by Lisi
+(2007) provides a coherent framework for understanding this
+phenomenon and remains fully consistent with contemporary
+findings in electromyography, isokinetic, and movement
+analysis.
+Distinguishing
+functional
+adaptations
+from
+structural pathology is essential to avoid misdiagnosis and to
+guide appropriate training, prevention, and clinical decisionmaking in tennis players.
+Future research should investigate shoulder asymmetry
+using integrated biomechanical models that consider the
+entire kinetic chain, individual playing styles, and modern
+equipment characteristics. Such approaches may further
+clarify the boundary between adaptive responses and
+pathological conditions and support evidence-based practice
+in tennis coaching and sports medicine.
+Practical Implications for Coaches and Practitioners
+Shoulder asymmetry in tennis players should be interpreted
+primarily as a sport-specific functional adaptation rather
+than as an isolated indicator of spinal pathology. In the
+absence of pain, neurological signs, or progressive deformity,
+the presence of a lowered dominant shoulder does not
+justify automatic suspicion of scoliosis. Instead, it should
+be understood within the context of asymmetric loading
+and long-term neuromuscular adaptation inherent to tennis
+performance (Priest, 1988; Lisi, 2007; Negrini et al., 2018).
+Static postural assessment alone is insufficient to evaluate
+shoulder asymmetry in tennis players. Observation of
+shoulder height at rest does not capture the dynamic
+demands imposed by high-velocity strokes and may lead
+to misinterpretation of normal sport-related adaptations.
+Therefore, assessment should prioritize functional evaluation,
+including shoulder range of motion, scapular control during
+dynamic tasks, and strength balance between internal and
+external rotators (Kibler, 1998; Ellenbecker & Roetert, 2003;
+Kibler et al., 2007).
+Imbalance between shoulder internal and external rotators
+represents a key modifiable factor in tennis players.
+Isokinetic
+and
+field-based
+studies
+consistently
+show
+dominant-side internal rotator strength to exceed that of the
+external rotators, resulting in altered ER/IR strength ratios
+(Ellenbecker, 1991; Ellenbecker & Roetert, 2003). Importantly,
+deficits in external rotator strength and altered ER/IR ratios
+have been associated with a history of shoulder pain in elite
+tennis players, underscoring their clinical relevance for injury
+prevention and monitoring (Moreno-Pérez et al., 2018).
+Training programs should systematically include targeted
+strengthening of the external rotators and scapular stabilizers,
+with particular emphasis on eccentric loading (Figure 4).
+Figure 3. Example of a side-lying eccentric external rotation exercise
+performed with the shoulder abducted to 90°. This exercise targets the
+deceleration function of the external rotators and is recommended to
+counterbalance internal rotator dominance in tennis players.
+Kibler, W. B. (1995). Biomechanical analysis of the shoulder during tennis
+activities. Clinics in Sports Medicine, 14(1), 79–85.
+Kibler, W. B. (1998). The role of the scapula in athletic shoulder function. The
+American Journal of Sports Medicine, 26(2), 325–337.
+Kibler, W. B., et al. (2007). Muscle activation in coupled scapulohumeral
+motions in the high performance tennis serve. British Journal of Sports
+Medicine, 41(11), 745–749.
+LaStayo, P. C., Woolf, J. M., Lewek, M. D., Snyder-Mackler, L., Reich, T., &
+Lindstedt, S. L. (2003). Eccentric muscle contractions: their contribution
+to injury, prevention, rehabilitation, and sport. Journal of Orthopaedic &
+Sports Physical Therapy, 33(10), 557–571.
+Lisi, R. (2007). Tennis and scoliosis: state of the art. Roma: Lombardo Editore.
+Ludewig, P. M., & Cook, T. M. (2000). Alterations in shoulder kinematics
+and associated muscle activity in people with symptoms of shoulder
+impingement. Physical Therapy, 80(3), 276–291.
+Madroñal-Sotomayor, Á., Martínez-Aranda, L. M., & Ortega-Becerra, M. (2025).
+Shoulder rotational and dynamic stability profiles in elite and nationallevel tennis players. Sensors, 25(10), 3164.
+Moreno-Pérez, V., Moreside, J. M., Barbado, D., & Vera-Garcia, F. J. (2018).
+Comparison of shoulder rotation range of motion in professional tennis
+players with and without history of shoulder pain. International Journal of
+Sports Physical Therapy, 13(1), 39–49.
+Nachemson, A., & Lonstein, J. (1995). Scoliosis: diagnosis, natural history, and
+treatment. Spine, 20, 234–241.
+Negrini, S., et al. (2018). 2016 SOSORT guidelines: orthopaedic and
+rehabilitation treatment of idiopathic scoliosis. Scoliosis and Spinal
+Disorders, 13, 3.
+Priest, J. D. (1988). The shoulder in sports. Orthopedic Clinics of North
+America, 19, 123–134.
+Priest, J. D., & Nagel, D. A. (1976). Tennis shoulder: pathophysiology and
+treatment. The American Journal of Sports Medicine, 4(1), 28–34.
+Rieder, H., et al. (1983). Postural adaptations in competitive tennis players.
+International Journal of Sports Medicine, 4, 45–50.
+Ryu, R. K. N., McCormick, J., Jobe, F. W., Moynes, D. R., & Antonelli, D. J. (1988).
+An electromyographic analysis of shoulder function in tennis players. The
+American Journal of Sports Medicine, 16(5), 481–485.
+Silva, J. R., et al. (2025). Chronic adaptations of shoulder range of motion
+and strength in overhead and racket sports: a systematic review. Sports
+Medicine, 55, 1–18.
+Steinbrück, K., & Mauch, F. (2000). Spinal changes in high-level tennis players.
+International Journal of Sports Medicine, 21, 423–427.
+CONFLICTS OF INTEREST
+The author declares the absence of conflicts of interest.
+FUNDING
+The author declares that no funding was received.

@@ -1,0 +1,314 @@
+Title: Model for determining playing competencies for different levels of beginner and intermediate tennis players – Part 1
+Authors: Taj Dolenc, Ales Filipcic
+Year: 2025
+Issue: Vol. 33 No. 95 (2025)
+Article id: 683
+
+ABSTRACT
+A competence model that covers various aspects of the game of tennis and enables tennis
+coaches to design and review their training programs for beginners and intermediate
+tennis players. The model considers the learning level of the students, the tactical
+aspects (perception, anticipation, decision factors, 5 game situations, and tactical intent),
+the technical aspects (stroke mechanics), and the training aspects (development fields).
+INTRODUCTION
+Tennis is a globally popular sport that combines skill,
+strategy and athleticism. It appeals to a wide range of ages
+and skill levels and offers both recreational enjoyment and
+competitive opportunities at various levels. The International
+Tennis Federation (ITF) encourages teachers and coaches to
+use innovative teaching and learning methods by simplifying
+procedures and modifying the sport to better meet the needs
+of new learners.
+To address this issue, alternative teaching methods focused
+on specific tennis situations and tactics have been developed.
+These approaches are commonly referred to in the literature
+as “game-based approach” (GBA) (Manninen et al., 2024).
+In recent years, the GBA has been supported and practiced
+by many practitioners across Europe and the United States.
+Furthermore, the authors confirmed strong support from the
+ITF and leading tennis federations worldwide as well.
+Turner et al. (2002) suggest that GBA emphasizes tactical
+demands rather than technical skills when teaching tennis
+to beginners. These lightweight balls are easier to hit, and
+as players master basic strokes, they transition to 'soft' balls
+(red, orange, or green) inflated to lower pressures, resulting
+in slower flight and lower bounce (Pluim, 2014). It allows
+intermediate players more time to return shots, extends
+rallies, and enhances their overall experience. This structure
+facilitates a gradual development in technical skills and
+tactical understanding for young players.
+Training models should integrate elements of learning and
+enjoyment, allowing coaches to evaluate and enhance the
+skills of less skilled and skilled players through play activities.
+The GBA emphasizes experiential learning, where players
+uncover game strategies through participation, reinforcing
+that "the game is the best teacher" (Harvey & Light, 2015).
+GBA, which incorporates elements of both complex and
+non-linear pedagogy, can be used to more holistically
+www.itfcoachingreview.com
+April 2025. 33th Year. Issue 95. 21-24
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i95.683
+Model for determining playing competencies
+for different levels of beginner and intermediate
+tennis players – Part 1
+Taj Dolenc & Ales Filipcic
+Faculty of Sport, University of Ljubljana, Slovenia
+Key words: competency model,
+teaching, game-based approach.
+Received: 24 December 2024
+Accepted: 17 February 2025
+Corresponding author: Taj Dolenc,
+dolenc.taj@gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+shape and enhance students' learning of movement skills.
+Nonlinear pedagogy (NLP) is advocated as an approach that
+views movement skill acquisition with a strong emphasis
+on exploratory behavior and the development of individual
+movement skills (Chow et al., 2021). In NLP, the design of
+the exercise microstructure is based on the continuous,
+intertwined relationships between decision-making, action,
+perception and cognition in sport performance and learning
+contexts, which is extremely useful for tennis instruction.
+The aim of the first part of the article is to create a
+comprehensive model of tennis teaching/development by
+integrating different aspects, areas, and skills (see Figure 1).
+The individual parts of the model are explained in more detail
+below.
+THE LEARNING PROGRESS IN TENNIS
+As with any other sport, there are three stages in learning to
+play tennis: Understanding the basics of tactical principles,
+developing perception, motor skills and technique, and
+gaining playing experience.
+Level 1: Understanding the tactical principles
+At the basic level, it is crucial that players understand the basic
+objectives of the game. Minimal distractions are required at
+this stage. In the beginning, the racket can be an obstacle.
+Being unfamiliar with the weight, grip, and size of the racket,
+it is often difficult to control, which hinders the development
+of proper technique. This can lead to frustration and slow
+progress as beginners find it difficult to concentrate on their
+swing and the ball at the same time (Banwell et al., 2013).
+At this level, the beginner tennis players must intuitively
+grasp the basic tactical principles. They should reach a
+decisive "eureka" moment and, as a first step, understand
+three primary strategies for winning points, such as staying in
+contested rallies to force the opponent into errors, exploiting
+open spaces on the court, or reducing the opponent's time
+to perceive, prepare and execute the shot. Understanding
+the logic behind any tactical intent is paramount; without
+this understanding, players will struggle to apply their
+skills effectively in real-game situations. Strengthening this
+foundation is the cornerstone for long-term success in tennis.
+Level 2: Developing perceptual, motor, and technical skills
+The acquisition of new technical skills for each of the three
+main strategies begins with an understanding that forms the
+basis for the development of perceptual, movement, and
+technical skills. The goal is to translate understanding into actual
+performance. Initially, the performance will not be perfect, but
+through countless repetitions, players will refine their techniques
+and develop the skills required to execute the instructions
+effectively. It is important to realize that while perfecting skills
+takes time, the basic logic of movements and strategies should
+not simply be forgotten (Rosenbaum et al., 2001).
+Level 3: Gaining Experience
+The final stage of learning progression is gaining game
+experience. The ability to use skills and game knowledge to
+find the best solutions in certain game situations can make
+a difference for players. While much of this experience is
+gained in competition, coaches play a crucial role in shaping
+this experience through targeted adjustments in training. One
+of the most important adaptations is the regular introduction
+of different conditions. Players must learn to adapt not only
+to the opponent’s style of play but also to different surfaces,
+balls, weather conditions, and other external factors (Williams
+& Hodges, 2023).
+DECISION FACTORS IN TENNIS
+As already emphasized, decision-making is crucial to success
+in tennis. Players must consider several factors when
+determining their next move on the court. We can identify
+three important decision-making factors that significantly
+influence a player's decision: the opponent, the incoming ball,
+and the player’s position (García-González et al., 2014).
+GAME SITUATIONS IN TENNIS
+Players must perform their technical characteristics in
+a tennis-specific situation. They must adapt their stroke
+selection to the tactical situation. There are five main scenarios
+in which players can develop different tactical intentions:
+serving, returning, both on the baseline, approaching or at
+the net, and passing (Crespo & Miley, 2002). Each situation
+is unique and requires a specific strategic approach. Young
+and beginner players need to be taught the importance of
+adapting their tactics; they should learn to have at least two
+options for each situation to avoid becoming predictable.
+In summary, game situations need to be practiced in an
+environment very similar to official games to build confidence
+and experience, especially for younger players and beginners.
+By focusing on serving, returning, both on the baseline,
+approaching or at the net, and passing, players can develop
+comprehensive skills that allow for greater adaptability and
+success on the court.
+TACTICAL INTENTIONS
+Strategy and tactics are related concepts in sports
+performance. Tennis players should have a tactical intention
+(i.e. what they hope to achieve) for each stroke that affects
+movement, preparation, execution and retreat on the court
+after the stroke. Tactical intent can also be influenced by the
+state of the game; depending on the game situation, intent
+can change several times during a point. Tactical intentions
+are: trade, build, create an opportunity, finish the point,
+neutralize the opponent's advantage, stay in the point, play
+defensively, and turn the point around (LTA, 2024). For this
+article, we have used tactical intentions that are suitable for
+beginners and intermediate tennis players.
+Figure 1. A comprehensive model of tennis teaching/development by integrating different aspects, areas, and skills.
+STROKE MECHANICS
+In several sports, fast and precise movements lead to high
+performance and success. Successful tennis players show
+greater accuracy when hitting fast balls than their less
+successful opponents. The tennis movement, a complex
+whole-body exercise, is performed under time pressure and
+unpredictable, variable, and dynamic conditions.
+The optimal technique can be defined as that which provides
+the most efficient combination of power and control in stroke
+and movement technique. Player development based on
+scientific knowledge allows for an individualized approach
+that takes into account the key mechanical characteristics of
+each skill, while also promoting feel and considering a player's
+physical attributes. An understanding of biomechanics from
+a sports medicine perspective is also important if player
+development is to occur with minimal risk of injury. The
+technique of strokes and movements, both groundstrokes
+and serves and returns, is changing and tennis players and
+coaches are constantly looking for solutions to increase
+efficiency and economy. The most important biomechanical
+principles for tennis can be easily recalled with the acronym
+BIOMEC, which means: balance, inertia, opposite force,
+impulse force, elastic energy, and coordination chain (Crespo
+& Miley, 2002).
+Three shoulder rotations (use of angular momentum) are
+important for an effective serve, namely: twist (frontal plane),
+shoulder over shoulder (transverse plane), and somersault
+(horizontal plane). The coordination chain comprises “the
+segments of the body that act like a system of chain links,
+whereby the force generated by one link or part of the body
+is successively transmitted to the next link” (Crespo & Miley,
+2002). The optimal coordination (timing) of these body
+segments enables an efficient transfer of speed through the
+body from one body segment to the next. Another important
+aspect of the effective application of biomechanical principles
+is the loading and execution of the lower limb drive (leg drive),
+which, according to coaches, is crucial for serves and baseline
+shots and significantly influences upper body movements. The
+lower and upper body have completely different requirements
+when executing tennis strokes and movements (Lester et al.,
+2023). Tennis players also use the elastic energy principle to
+“recharge" (pre-stretch) themselves in the preparation phase
+of the serve, return, and groundstrokes, which leads to more
+power. When muscles are stretched, the muscles and tendons
+store energy, just as a rubber band stores energy when it is
+stretched.
+In a GBA, technique is simply a way of executing a tactic. With
+every stroke in tennis, the racket must pass the impact zone.
+Elderton (2024) introduces the concept of PAS principles,
+which define the path, angle, and speed of the racket. The
+path of the racket can be from low to high (topspin), from high
+to low (underspin), at the same height, and in the direction
+of the target (as opposed to a circular swing path). The angle
+of the racket can be vertical: open to the sky (racket face
+pointing upwards), vertical (racket face pointing straight up
+and down), and "closed" (racket face pointing downwards).
+At a horizontal angle, the racket can be oriented as follows:
+outside, inside, or parallel. The racket can be in the impact
+zone: accelerating, decelerating, or maintaining its speed.
+The concepts of BIOMEC and PAS are closely linked, the first
+determines the effectiveness of the performance, and the
+second influences the success of the strokes and movements.
+FIELD OF DEVELOPMENT
+The development of a tennis player can be traced through five
+key areas: tactical, technical, motor, mental, and biological
+development (Liu et al., 2024). Psychological components
+such as self-confidence, self-esteem, personality, and
+motivation are important in tennis, but technical and tactical
+skills are often considered the most important. The technique
+is necessary to execute movements precisely, while tactics
+means making quick and correct decisions during the game.
+While talented players usually develop these skills more
+effectively than average players, continuous development
+during youth and adolescence is essential for progression to
+a professional level.
+Playing competencies
+Tactical development involves learning strategies, different
+tactical intentions, and decision-making skills required for
+success on the court. For beginners, this means understanding
+how to position themselves effectively, where to place
+their strokes, and how to read their opponent's movements
+(Kolman et al., 2019).
+Technical development focuses on building the fundamental
+skills required to play tennis. Beginners work on their
+balance, timing, rhythm, as well as the trajectory, angle, and
+speed of the racket to ensure they can execute each stroke
+effectively. Good technical skills provide a solid foundation
+for all aspects of the game and make it easier for players to
+progress (Elderton, 2010).
+Tactical and technical development is a long-term, neverending process that is based on the consideration of
+biomechanical laws, the level of motor skills, the fundamentals
+of motor learning, the individual physical and personal
+characteristics of the athlete, etc. Even top tennis players
+refine their tactical and technical skills to the unattainable
+limits of perfection.
+Motor development
+Motor development refers to physical skills that are essential
+for athletic performance. These include coordination, agility,
+balance, and speed. For beginner tennis players, improving
+motor skills is crucial as these skills will help them move more
+efficiently on the court. Good motor skills also contribute to
+overall athleticism, which is beneficial in all sports.
+Mental development
+Tennis players benefit from psychological skills to constantly
+and successfully control their thoughts. Psychological skills
+are made up of a variety of different elements, such as
+motivation, concentration, stress management, and anxiety.
+To perform better, they need to develop their psychological
+skills. Players can control their behavior, thoughts, and
+physical sensations using psychological skills, which helps
+them to play better. Research has shown that tennis coaches
+are increasingly interested in learning about and incorporating
+mental training approaches into their daily work with players,
+and are gradually becoming aware of the importance of mental
+skills for performance in tennis Mental training is the practice
+of developing internal skills that help athletes achieve their
+goals by teaching them to control their psychological states
+in line with those goals. The main goals of mental training
+for athletes are to improve their performance and overall
+well-being. According to experts, young athletes who have
+strong psychological traits and skills can better cope with
+these difficulties and stresses and prevent burnout or early
+retirement from sport.
+Biological factors
+The growth and maturity status of young athletes have a
+significant impact on their body size, and individual differences
+in the growth and maturity status of young athletes could
+have an impact on selection, as larger physical characteristics
+can provide advantages in most sports (Söğüt et al., 2023).
+Individual differences in growth and maturation appear to
+contribute to the selection of elite junior players in tennis,
+favoring males and females with advanced maturation and
+comparatively high height and weight for their age. This has
+important implications for the identification and development
+of tennis talent (Myburgh et al., 2016).
+Biological age plays a crucial role in tennis performance and
+athlete development, as physical characteristics such as
+size, strength, and power are closely linked to maturation,
+especially during puberty.  Changes in body composition can
+vary with early or advanced maturity, especially in females.
+Considering the demands that sport places on coordinative
+abilities and aerobic and anaerobic conditioning, coaches
+need to create a development plan that is tailored to each
+athlete’s maturation and respects their biological individuality
+(Vilela Brito, 2020).
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+this research.

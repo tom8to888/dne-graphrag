@@ -1,0 +1,3 @@
+kind,n_questions,basic_8k_mean,basic_mean,global_8k_mean,global_mean,basic_8k_contradicts,basic_contradicts,global_8k_contradicts,global_contradicts
+connecting,15,1.6,1.6,1.333,1.267,1,1,0,2
+lookup,15,1.733,1.933,0.933,1.0,2,2,5,5

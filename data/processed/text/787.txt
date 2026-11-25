@@ -1,0 +1,717 @@
+Title: The contributing factors to a tennis first serve: Exploring the differences between able-bodied and wheelchair tennis players’ technique
+Authors: Victoria Goosey-Tolfrey, Mark King, Alex Cockram, Cristina D’Angeli
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 787
+
+Introduction
+Wheelchair tennis (WCT) has grown rapidly, sharing
+rules, court dimensions, and equipment with ablebodied tennis (ABT). The key distinction is the
+“double bounce” rule, allowing two bounces before
+return (ITF, 2012). Moreover, competing from a seated
+position fundamentally changes the sport’s physical
+and technical demands (Sánchez-Pay et al., 2015).
+Eligibility for WCT requires a medically diagnosed
+permanent
+mobility-related
+disability
+causing
+significant lower-limb function loss (ITF, 2020).
+Players with only lower-limb impairments compete in
+the Open class, while those with additional upper-body
+dysfunction enter the Quad class. Common conditions
+include spinal cord injury (SCI), which reduces muscle
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 25-34
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.787
+The contributing factors to a tennis first serve:
+Exploring the differences between able-bodied
+and wheelchair tennis players’ technique
+Vicky Goosey-Tolfrey1,2, Mark King1, Alex Cockram3 and Cristina D’Angeli1
+1Loughborough University, School of Sport, Exercise and Health Sciences, UK.
+2Centre for Para and Disability Sport Innovation, Loughborough University, School of Sport, Exercise
+and Health Sciences, UK.
+3Lawn Tennis Association, London, UK.
+Abstract
+Wheelchair tennis (WCT) shares rules with able-bodied tennis (ABT) but serving from a seated position
+imposes unique biomechanical constraints. This study explored the kinematic factors influencing a WCT
+serve, compared them with an ABT, and examined the impact of impairment severity. One elite ABT
+player and three elite WCT players with varying functional capacities performed first serves. Threedimensional motion analysis captured upper-body, racket, ball, and wheelchair kinematics, and the six
+fastest successful serves per participant were analysed descriptively. Ball speed and spin were lower in
+WCT (61.3 - 81.9 mph; ~1403 rpm) than ABT (128.3 mph; 2767 rpm), decreasing with impairment severity.
+WCT players exhibited lower toss heights, backward ball displacement, restricted thorax motion, and
+compensatory strategies such as increased trunk twist and shoulder elevation. Shoulder internal rotation
+and wrist flexion were the primary contributors to racket speed, with greater reliance on wrist motion
+in WCT. Serve projection angles for the WCT players were positive due to lower impact height. Findings
+highlight that while fundamental serve principles apply across tennis formats, impairment-specific
+adaptations are essential. Coaches should tailor training to trunk mobility, upper-limb mechanics, and
+wheelchair positioning to optimise performance and reduce injury risk for WCT players.
+Key words: paralympic, skill, biomechanics, serve, technique.
+Received: 28 May 2026. Accepted: 1 August  2026.
+Corresponding author: Victoria Goosey-Tolfrey, V.L.Tolfrey@lboro.ac.uk
+power based on injury level (Bhambhani, 2002), and
+cerebral palsy (CP), which impairs coordination
+through abnormal brain development or damage.
+Symptoms such as spasticity, dyskinesia, or ataxia vary
+widely. Understanding these impairments and their
+impact on performance is key to effective training
+(Paulson & Goosey-Tolfrey, 2017).
+The tennis serve is widely regarded as the most
+complex and influential stroke in competitive play
+(Kovacs & Ellenbecker, 2011). Serve effectiveness is
+primarily determined by post-impact ball velocity
+(Cavedon et al., 2014; Elliott et al., 1995). In ABT,
+numerous factors contribute to a powerful serve,
+including racket speed and orientation at impact, toss
+characteristics, ball impact location, launch angle, and
+international levels. The WCT players represented
+different classifications:
+•	 WCT1 (Open class): Transverse myelitis with
+incomplete lesion at L1, resulting in impaired
+muscle power.
+•	 WCT2 (Quad class): Cerebral palsy of mild severity,
+with residual trunk and upper-limb function but
+impaired muscle coordination.
+•	 WCT3 (Quad class): Spinal cord injury with
+complete lesion at C7, leading to impaired muscle
+power.
+To maintain confidentiality, individual demographic
+details (e.g., age, height, body mass) for players are
+not disclosed. All procedures were approved by the
+Loughborough University Ethical Advisory Committee,
+and written informed consent was obtained from all
+participants.
+Data were collected at indoor standard-sized, acrylic
+tennis court facilities with the number of serves
+performed dictated by the LTA National wheelchair
+tennis coach. Prior to testing all players completed
+a 15-minutes standardised warm-up and were given
+time to familiarise themselves with the testing
+environment. Participants used their own racket and
+personal sports wheelchair when applicable and served
+with new Slazenger Wimbledon 1 tennis balls. The ABT
+player performed 24 serves first serves from the deuce
+side, directed to the T. The WCT players performed
+a total of 15 first serves from the right (deuce)
+tennis court and 15 from the left (advantage) court,
+aiming to the T. For the ABT player 14 mm reflective
+markers were positioned over body bony landmarks
+(Worthington, 2010) along with patches of reflective
+tape onto the surface of the ball (n = 4), racket head
+frame (n = 5) and handle (n = 2). For the WCT players
+the markers on the upper body, pelvis and head, racket
+and ball were the same along with four markers on the
+lower limbs (outside of the knee and ankle joints) and
+nine markers on the wheelchair (D’Angeli, 2021). 3D
+markers trajectories were recorded at 400 Hz using an
+eighteen camera Vicon MX13 motion analysis system
+(Vicon Motion Systems, Oxford, UK). A right-handed
+spin (Chow et al., 2003; Gordon et al., 2006; Xavier
+et al., 2017). Among these, racket velocity remains
+the predominant determinant (Gordon et al., 2006).
+Achieving high racket speeds relies on coordinated
+upper-body segmental motion within a “kinetic
+chain,” enabling optimal racket position and velocity
+within approximately two seconds (Elliott et al.,
+1995). Lower-limb propulsion plays a critical role in
+initiating this chain, enhancing racket displacement
+and subsequent segmental actions (Elliott et al., 1986;
+Bartlett et al., 1995; Girard et al., 2005; Reid et al.,
+2007a).
+In WCT, serve speeds are lower than ABT when
+measured in competition-relevant research and radarbased studies, yet elite WCT players still generate
+relatively high ball velocities despite no effective
+lower-limb contribution (Mecheri et al., 2016;
+Cavedon et al., 2014; Sánchez-Pay et al., 2021). For
+example, elite wheelchair players achieve pre-impact
+racket velocities of approximately 32 m/s compared
+to 42 m/s in ABT (Reid et al., 2007b). This difference
+is largely attributed to compensatory strategies
+involving upper-body strength and coordination,
+as the kinetic chain is truncated and trunk motion
+restricted. Coaches often assume that contributors
+identified in ABT research apply to WCT; however,
+biomechanical adaptations such as increased reliance
+on shoulder internal rotation and wrist extension are
+evident (Reid et al., 2007b; Goosey-Tolfrey & Moss,
+2005). Despite these adaptations, few studies have
+examined how impairment severity influences serve
+performance. Evidence suggests that players with less
+severe impairments produce significantly higher serve
+speeds (Cavedon et al., 2014), and shoulder kinetics
+vary according to spinal cord injury level (Reid et al.,
+2007b). Furthermore, upper-body power, measured
+through medicine-ball throws, strongly predicts
+serve velocity (r ~ 0.92) and accuracy, highlighting its
+critical role in compensating for reduced trunk and
+leg involvement (Sánchez-Pay et al., 2021; Alim et al.,
+2023).
+Few studies have systematically identified the factors
+that contribute to a powerful serve in wheelchair
+tennis or examined how these vary with impairment
+severity. Understanding these factors is crucial
+for coaches, as it enables them to tailor training
+programs to individual functional capacities, optimise
+performance, and reduce injury risk. Therefore, this
+study aims to investigate the key kinematic factors
+that characterise a fast and effective wheelchair tennis
+serve; compare these with those observed in an elite
+ABT player and explore how differences in functional
+capacity influence serve technique and performance.
+Methods
+One British elite male ABT player and three elite
+male WCT players voluntarily participated in the
+study. All players competed regularly at national and
+Results
+There was a decreasing trend in both post-impact
+ball speed and spin with the increase of impairment
+severity (Table 1). The AB player hit considerably
+faster serves with around 40% more spin (128.3 ± 8.8
+mph; 2767 ± 177 rpm) compared to WCT players. Ball
+displacement in the antero-posterior and vertical
+directions during the toss were consistent with less
+repeatability in the medio-lateral component, where
+the ball in flight moved further to the left of the
+wheelchair-seat midpoint, towards the centre of the
+baseline, for all players except WCT3 (Figure 1). The
+WCT players had a common pattern in the forward
+direction, with the ball travelling backwards from
+release to impact, whereas for the AB player the ball
+travelled forwards. The BZ relative to BR and the
+pre-impact ball downwards vertical velocity were
+generally higher in WCT than AB player, apart from
+WCT2 where the vertical velocity was almost zero
+(Table 1). All participants showed a consistent toss
+duration (Table 1) although WCT1 and WCT3 serves
+were characterised by a slightly longer flight phase
+than AB, the length of both the preparation and
+acceleration stages expressed as a percentage of the
+toss time were similar (Table 1, Figure 2). On the other
+hand, a substantial variation in toss time was evident
+for WCT2 where the duration of the toss was 50%
+shorter along with an abbreviated preparation phase
+(Table 1).
+orthogonal global coordinate system was set with
+the Y-axis pointing forward in the serve direction,
+the Z-axis vertically upwards and the X-axis to the
+right.  A serve was considered successful when the
+ball landed in the targeted T area (1 m wide and 2 m
+long) of the opponents’ service box. Post-impact ball
+speed was determined for all successful trials and for
+each participant the fastest six serves were selected.
+To maintain movement consistency throughout the
+analyses, the fastest serves from the deuce side were
+taken for right-handed players, whereas for lefthanded players the trials from the advantage court
+were chosen.
+Toss time (TT) was calculated as the time intercurred
+between ball release (BR) and ball contact with the
+racket (IMP). In all trials the key events were identified;
+racket lowest point (RLP), racket highest point (RHP),
+maximum shoulder external rotation (MER), as well
+as the preparation and acceleration phase durations
+as a percentage of the toss time. The highest point
+reached by the ball during the toss ball zenith (BZ)
+was calculated relatively to the ball release point. 3D
+upper body kinematics, ball impact location on the
+racket, post-impact ball velocity, ball projection angle
+and ball spin were calculated for each trial (D’Angeli,
+2021). Descriptive statistics were calculated (mean ±
+SD) for all the variables.
+Table 1. Post-impact ball speed, spin and ball toss characteristics (mean ± SD).
+AB
+WCT1
+WCT2
+WCT3
+Ball speed (mph)
+128.3 ± 8.8
+81.9 ± 11.6
+68.1 ± 7.3
+61.3 ± 3.9
+Ball spin (rpm)
+2767 ± 177
+1639 ± 276
+1565 ± 573
+1146 ± 180
+Ball zenith relative to BR (m)
+1.46 ± 0.05
+2.24 ± 0.10
+1.64 ± 0.09
+2.32 ± 0.08
+Ball vertical velocity preimpact (mph)
+-5.22 ± 0.24
+-11.69 ± 0.58
+0.12 ± 0.43
+-9.54 ± 0.43
+Total toss time (s)
+0.77 ± 0.02
+1.18 ± 0.02
+0.43 ± 0.02
+1.02 ± 0.02
+Preparation phase (% of TT)
+0-88
+0-91
+0-68
+0-92
+Acceleration phase (% of TT)
+88-100
+91-100
+68-100
+92-100
+Note. TT – Toss time, BR – Ball release.
+Figure 1. Ball displacement during the toss from BR (0 s) to impact. The blue line represents the fastest trial and
+the red line the slowest trial. The vertical lines indicate the instants of RHP (dashed) and RLP (dotted) positions
+and MER (dashed & dotted), BR - Ball release; RHP - racket highest point; RLP - racket lowest point; MER -
+maximum shoulder external rotation.
+Figure 2. Graphical representations for each participant defining the preparation and acceleration phases.
+alignment lateral flexion across the four players (Table
+2). In comparison to AB and WCT1, WCT2 and WCT3
+range of elbow extension in the acceleration phase
+was limited preventing them from achieving complete
+extension at impact (Table 2). All participants
+appeared to pronate their elbow to a similar value at
+impact (Table 2). The acceleration phase of all players
+was characterised by a change in direction of wrist
+movements, going from dorsal to palmar flexion and
+from ulnar to radial deviation. However, while AB and
+WCT2 wrist joints were close to the neutral position
+of 180° at impact, a dorsal flexion was observed at this
+point for WCT1 and WCT3 (Table 2).
+Thorax flexion-extension range of motion (ROM)
+was very limited in WCT players compared to AB,
+especially for the player affected by C7 level spinal
+cord injury (Table 2). The overall thorax ROM in the
+frontal plane was restricted in WCT participants,
+whereas the range of twist was larger in comparison
+to AB (Table 2). External and internal rotation of the
+upper arm were similar across all players (Table 2)
+with varying amounts of upper arm elevation (Table
+2) although there was a surprisingly higher MER peak
+of approximately 10° developed by the most impaired
+player (Table 2). Shoulder alignment forward flexion
+ROM decrease with increasing impairment although
+there was variability in the amount of shoulder
+Table 2. Thorax, shoulder, elbow and wrist kinematics (mean ± SD).
+AB
+WCT1
+WCT2
+WCT3
+Thorax, phase-instant
+Flexion ROM, prep.+ acc. (°)
+31 ± 1
+14 ± 2
+15 ± 2
+10 ± 7
+Lateral tilt ROM acc. (°)
+27 ± 1
+2 ± 1
+7 ± 2
+12 ± 4
+Twist ROM acc. (°)
+19 ± 1
+31 ± 1.5
+31.5 ± 2
+20 ± 6
+Shoulder, phase-instant
+External rotation, MER (°)
+128 ± 2
+124 ± 3
+127 ± 1
+138 ± 3
+Plane of elevation, IMP (°)
+-158 ± 1
+-123 ± 2
+-152 ± 2
+-105 ± 1
+Elevation, IMP (°)
+-127 ± 2
+-107 ± 1
+-116 ± 2
+-113 ± 7
+Internal rotation, IMP (°)
+61 ± 7
+77 ± 6
+72 ± 3
+92 ± 7
+Shoulder alignment forward flexion
+ROM, prep. + acc. (°)
+119 ± 4
+94 ± 5
+69 ± 2
+50 ± 7
+Shoulder alignment lateral flexion
+ROM, BR-RHP (°)
+31 ± 2
+52 ± 3
+10 ± 2
+13 ± 1
+Shoulder alignment rotation, IMP (°)
+-37 ± 3
+-28 ± 5
+-53 ± 3
+-61 ± 5
+Elbow, phase-instant
+Flexion/extension ROM, acc. (°)
+88 ± 2
+59 ± 2
+45 ± 3
+47 ± 3
+Flexion, IMP (°)
+181 ± 1
+174 ± 2
+152 ± 1
+147 ± 5
+Pronation, IMP (°)
+-70 ± 1
+-85 ± 2
+-65 ± 1
+-68 ± 5
+Wrist, phase-instant
+Palmar/dorsal flexion ROM, acc. (°)
+48 ± 2
+35 ± 3
+53 ± 2
+18 ± 4
+Radial ulnar deviation ROM, prep. +
+acc. (°)
+9 ± 1
+22 ± 1
+15 ± 1
+10 ± 2
+Palmar flexion, IMP (°)
+180 ± 2
+214 ± 5
+184 ± 2
+199 ± 5
+Radial/ulnar deviation, IMP (°)
+-11 ± 1
+-16 ± 2
+-27 ± 1
+-8 ± 2
+ROM - range of motion; acc. - acceleration; MER maximum shoulder external rotation; IMP - impact;
+BR - ball release; RHP - racket highest point.
+WCT players (Table 4). Unsurprisingly the global ball
+vertical location at impact was lower for the WCT
+players. Nevertheless, WCT1 (Open player) tended to
+hit the ball downwards, just like in the standing game
+whereas WCT3 served the ball upwards, with a positive
+vertical angle above the horizontal (Table 4).
+The most remarkable difference in the vertical racket
+movement pattern is relative to WCT3 (Figure 3). In
+both WCT1 and WCT2 the racket tip reached a similar
+lowest level (0.63 ± 0.5 m), from where a full swing
+was performed to intercept the ball at impact. The
+racket vertical displacement from RLP to IMP was
+comparable between all players (1.70 ± 0.4 m) except
+for WCT3. A truncated racket swing with a vertical
+displacement almost 40% smaller than others.
+Shoulder internal rotation and wrist flexion were
+identified as the major contributors to the generation
+of the post-impact horizontal racket speed in all
+participants (Table 3). There was a reducing trend
+from AB to WCT3 for the contribution from shoulder
+horizontal flexion and for WCT3 shoulder elevation
+made a substantial contribution (Table 3).
+Wheelchair players developed lower racket head
+horizontal velocity, which declined to almost 45%
+in the player with the highest level of impairment
+compared to AB player (Table 4). At ball-racket
+contact, AB, WCT1 and WCT2 racket head orientation
+was rotated towards the direction of the serve by an
+average horizontal angle of 14.7 ± 5.7°. All players
+hit the ball with the racket slightly flexed backwards,
+behind the vertical, however, this angle was bigger in
+Table 3. Percentage joint contributions to horizontal racket head speed (mean ± SD).
+AB
+WCT1
+WCT2
+WCT3
+Shoulder internal/external
+rotation %
+35.5 ± 2.3
+28.8 ± 3.4
+36.9 ± 2.5
+22.5 ± 10.7
+Shoulder horizontal flexion %
+23.1 ± 2.7
+11.8 ± 2.4
+7.1 ± 1.9
+5.2 ± 4.9
+Shoulder elevation %
+0.8 ± 4
+1.2 ± 0.7
+0.0 ± 0.2
+13.4 ± 7.7
+Elbow flexion/extension %
+3.2 ± 5.0
+11.9 ± 6.8
+0.1 ±0.8
+5.0 ± 3.1
+Wrist flexion/extension %
+31.5 ± 2.6
+40.2 ± 5.2
+43.7 ± 1.7
+39.3 ± 3.6
+Table 4. Racket/ball outcome kinematics (mean ± SD).
+AB
+WCT1
+WCT2
+WCT3
+Racket head horizontal
+velocity (m/s)
+42.91 ± 0.89
+30.02 ± 1.90
+26.74 ± 0.47
+22.04 ± 0.63
+Horizontal racket orientation
+at impact (°)
+12.3 ± 3.6
+21.1 ± 4.9
+10.7 ± 5.9
+5.3 ± 3.04
+Vertical racket orientation at
+impact (°)
+3.09 ± 3.06
+6.8 ± 2.6
+5.9 ± 1.12
+16.2 ± 1.9
+Projection angle (°)
+-7 ± 2
+-2 ± 2
+-1 ± 2
+3 ± 1
+medio-lateral displacement to AB, while WCT3
+laterally, likely as a compensatory strategy for poor
+trunk function.  Wheelchair configuration and position
+appear critical for WCT toss mechanics, WT2’s toss
+differed markedly, with shorter flight affecting vertical
+displacement and pre-impact velocity. Impairment
+type influenced lateral toss displacement, impact
+location, and toss duration.
+Thorax motion differed in all directions. AB flexionextension ROM was substantially greater than WCT,
+decreasing with impairment severity. Wheelchair
+backrest and trunk/waist straps restricted the thorax
+extension, especially in WCT3. Lateral tilt was limited
+in WCT, reducing its role in generating ball speed
+(Bahamonde, 2000; Martin et al. 2012). WCT1 and
+WCT2 compensated with increased thorax twist,
+enabling near-full racket swing, unlike WCT3, whose
+truncated swing reduced serve speed. Upper limb
+kinematics had  ̴ 15° greater horizontal shoulder
+flexion at impact, possibly compensating for limited
+thorax motion, but potentially increasing injury risk
+(Reid et al. 2007b). WCT players exhibited less internal
+rotation at impact and incomplete elbow extension,
+reducing impact height. Wrist adjustments (dorsal
+flexion, radial deviation) likely prepared the racket for
+impact.
+Joint contributions to racket forward velocity were
+similar to the AB literature (Sprigings et al., 1994;
+Elliott et al., 1995; Tanabe & Ito, 2007), a major
+contribution of shoulder internal rotation and wrist
+palmar flexion. In WCT, wrist flexion contributed
+~10% more than shoulder rotation, consistent with
+Discussion
+This study provides an initial descriptive analysis of
+kinematic parameters influencing a 1st serve in WCT.
+The six fastest serves from three WCT players with
+varying impairments were examined, alongside an AB
+player for comparison. As expected, ball speed and
+spin in WCT were lower than ABT and decreased with
+impairment severity. The AB player’s serve velocities
+(average 128.3 ± 8.8 mph) aligned with previous
+research (Chow et al., 2003; Fleisig et al., 2003).
+WCT speeds ranged from 81.9 ± 11.4 to 61.5 ± 3.9
+mph, similar to Sanchez-Pay et al., (2021). Spin rates
+averaged 2767 rpm for AB and ~1403 rpm for WCT,
+with the least functional players hitting nearly flat
+serves. These findings agree with previous AB studies
+(Goodwill et al., 2006; Kelley et al., 2008). Overall,
+seated position reduced post-impact ball linear and
+angular velocity despite maximal effort.
+The acceleration phase represented the final 10% of
+the serve for all players, except WCT2 who used a
+considerably shorter ball toss duration. AB player toss
+characteristics matched previous findings for a first
+serve (Chow et al. 2003; Reid et al. 2011). For AB, the
+ball released at 1.65 m and 0.29 m right of the left foot,
+moving forward towards the baseline while in WCT
+release height ranged 0.49 - 0.74 m and was lower
+with greater impairment. Seated posture, wheelchair
+design/configuration, and anthropometrics likely
+explain observed variability. Notably, WCT tosses
+moved backwards from release to impact, opposite
+to AB, likely due to limited thorax flexion and static
+wheelchair position. WCT1 and WCT2 showed similar
+Figure 3. Racket swing patterns during the preparation (from BR to RLP - blue line) and acceleration (from RLP
+until impact -purple line) phases. BR – ball release; RLP - racket lowest point.
+The results also suggest that impairment severity
+influences the movement strategies used during
+the serve. WCT players with greater functional
+limitations appear to compensate through increased
+shoulder elevation and altered racket trajectories.
+Coaches should avoid applying a single technical
+model across all WCT players and instead adopt an
+individualised approach that reflects each player's
+functional capacity and impairment profile. Finally,
+wheelchair configuration may substantially influence
+serve mechanics by affecting trunk movement, ball
+toss characteristics and impact position. Coaches and
+equipment specialists should work collaboratively to
+optimise wheelchair setup, including seating position,
+backrest height and strapping, to balance stability
+with functional range of motion during serving.
+Collectively, these findings support a player-centred
+approach to WCT serve development, where technical
+instruction, physical preparation and wheelchair
+configuration are tailored to the athlete's specific
+functional abilities to maximise performance while
+minimising injury risk.
+Summary
+Most factors influencing ABT serve also apply to WCT,
+though impairment type alters thorax and shoulder
+mechanics, ball toss, and joint contributions. WCT
+players compensate for limited trunk motion through
+greater shoulder and wrist movement. Wheelchair
+configuration and toss technique are critical and
+warrant further study. Despite a small sample, this
+work provides a foundation insight into WCT serve
+kinematics for coaches. Future work should expand on
+this work across divisions and impairment types and
+sexes, supporting evidence-based coaching strategies.
+Conflicts Of Interest
+The authors declare no conflicts of interest.
+Funding
+Doctoral student Christina D’Angeli was funded
+through a matched PhD studentship by the Lawn
+Tennis Federation (LTA) and Loughborough University.
+Acknowledements
+Thanks to the support of Dr Barry Mason who
+supported the PhD while at Loughborough University.
+slower ABT serves (Tanabe & Ito, 2007). WCT3
+showed notable shoulder elevation contribution
+(13.4%) perhaps suggesting compensation for lack of
+trunk functionality. Racket forward velocity mirrored
+previous fundings (Reid et al., 2007b) lower in WCT
+and decreasing with impairment severity, reinforcing
+its link to serve speed. ABT projected at zero or
+positive angles to clear the net, aided by an upward
+racket orientation. WCT1 and WCT2 added slight slice
+spin; WCT3, with taped racket, hit flat serves.
+PRACTICAL APPLICATIONS
+The findings of this study have several practical
+implications for WCT coaches, athletes, and support
+practitioners. While the fundamental biomechanical
+principles underpinning serve performance appear
+similar to those in AB tennis, the seated position
+and varying levels of functional impairment require
+individualised technical and physical interventions.
+1.	Coaches should place particular emphasis on
+optimising ball toss mechanics. The lower release
+height and backward ball displacement observed
+in WCT highlight the importance of developing
+a consistent toss that maximises impact height
+while remaining achievable within the athlete’s
+functional capabilities. Individual adaptations
+may be required according to trunk control, upperlimb function and wheelchair configuration.
+2.	Our observations confirm that trunk function
+appears to play a critical role in tennis serve
+performance,
+as
+also
+indicated
+in
+recent
+work by Hakariya et al., (2026). WCT players
+with greater thorax mobility achieved larger
+racket displacements and higher serve speeds.
+Consequently,
+training
+programmes
+should
+aim to maximise available trunk rotation, side
+flexion, stability and control, where appropriate
+and safe. This may include rotational and sideflexion focused trunk exercises, as well as
+overhead trunk stability work where possible,
+to enhance the contribution of the trunk within
+the wider biomechanical chain. For athletes with
+impaired trunk function, the emphasis should be
+on maximising the function they have available,
+while using technical and physical strategies
+that support effective shoulder and upper-limb
+contribution. Throwing-based exercises, such as
+a Nerf Vortex, tennis ball or small light medicine
+ball, may also provide a practical way to develop
+upper-limb speed and power relevant to the serve.
+3.	Shoulder internal rotation and wrist flexion were
+major contributors to racket head velocity in all
+participants, with WCT players demonstrating an
+even greater reliance on wrist motion. Strength
+and conditioning programmes should therefore
+target the shoulder rotators, scapular stabilisers
+and forearm musculature, while also being
+aware of gradually building up serve volume and
+intensity to manage injury risk.
+Girard, O., Micallef, J. P., & Millet, G. P. (2005). Lowerlimb activity during the power serve in tennis: Effects
+of performance level. Medicine and Science in Sports
+and Exercise, 37(6), 1021-1029. DOI: https://doi.
+org/10.1249/01.mss.0000171619.99391.bb.
+Paulson, T., & Goosey-Tolfrey, V. (2017). Current perspectives
+on profiling and enhancing wheelchair court sport
+performance. International Journal of Sports Physiology
+and Performance, 12(3), 275–286. DOI: https://doi.
+org/10.1123/ijspp.2016-0231.
+Kelley, J., Goodwill, S. R., Capel-Davies, J., & Haake, S. (2008).
+Ball spin generation at the 2007 Wimbledon qualifying
+tournament. The Engineering of Sport 7, 571-578. DOI:
+https://doi.org/10.1007/978-2-287-99054-0_67.
+Kovacs, M. S., & Ellenbecker, T. S. (2011). A performance
+evaluation of the tennis serve: Implications for strength,
+speed, power, and flexibility training. Strength and
+Conditioning Journal, 33(4), 22–30. DOI: https://doi.
+org/10.1519/SSC.0b013e318225d59a.
+Martin, C., Bideau, B., Nicolas, G., Delamarche, P., & Kulpa,
+R. (2012). How does the tennis serve technique influence
+the serve-and-volley? Journal of Sports Sciences, 30(11),
+1149–1156. DOI: https://doi.org/10.1080/02640414.201
+2.695079.
+Mecheri, S., Rioult, F., Mantel, B., Kauffmann, F. and
+Benguigui, N. (2016), The serve impact in tennis: First
+large-scale study of big Hawk-Eye data. Statistical
+Analysis and Data Mining: The ASA Data Science Journal,
+9: 310-325. DOI: https://doi.org/10.1002/sam.11316.
+International
+Tennis
+Federation
+(ITF)
+(2012).
+ITF
+Wheelchair Tennis Regulations. http://tenniscoaching.
+com/resources/ITF%20Wheelchair%20Tennis%20
+Regulations%20-%20English.pdf
+International Tennis Federation (ITF) (2020). Wheelchair
+Tennis Classification Rules (updated 15 May 2020).
+https://www.itftennis.com/media/7289/itf-wheelchairtennis-classification-rules-updated-15may2020.pdf
+Xavier, A. P., Ivo, F. F., Neto, L. B., & Ervilha, U. F. (2017).
+Ball position during the tennis serve toss performed by
+junior athletes: Comparison between the first and second
+service. Journal of Physical Education and Sport, 17(1),
+424–430. DOI: https://doi.org/10.7752/jpes.2017.01063.
+Reid, M., Elliott, B., & Alderson, J. (2007a). Shoulder joint
+loading in the high performance flat and kick tennis
+serves. British Journal of Sports Medicine, 41(12), 884889. DOI: https://doi.org/10.1136/bjsm.2007.036657.
+Reid, M., Elliott, B., & Alderson, J. (2007b). Shoulder joint
+kinetics of the elite wheelchair tennis serve. British
+Journal of Sports Medicine, 41(11), 739-744. DOI:
+https://doi.org/10.1136/bjsm.2007.036145.
+Reid, M., Whiteside, D., & Elliott, B. (2011). Serving to
+different locations: Set-up, toss, and racket kinematics
+of the professional tennis serve. Sports Biomechanics,
+10(4), 407–414. DOI: https://doi.org/10.1080/14763141.
+2011.629206.
+Sánchez-Pay, A., Palao, J. M., Torres-Luque, G., & SanzRivas, D. (2015). Differences in set statistics between
+wheelchair and conventional tennis on different types
+of surfaces and by gender. International Journal of
+Performance Analysis in Sport, 15(3), 1177-1188. DOI:
+https://doi.org/10.1080/24748668.2015.11868860.

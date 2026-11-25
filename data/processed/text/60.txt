@@ -1,0 +1,263 @@
+Title: Measurement and control of tennis training load: a case study
+Authors: Cyril Genevois, Isabelle Rogowski, Tom Le Solliec
+Year: 2020
+Issue: Vol. 28 No. 80 (2020)
+Article id: 60
+
+www.itfcoachingreview.com
+April 2020. 28th Year. Issue 80. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v28i80.60
+
+Measurement and control of tennis training
+load: a case study
+Cyril Genevois a, Isabelle Rogowski, a & Tom Le Solliec
+a Claude Bernard University Lyon 1, Lyon, France.
+
+ABSTRACT
+
+The objective of this study was to quantify the training load involved in tennis training using
+relatively simple tools to provide practical information to coaches on the calculation and
+optimization of the training load, paying particular attention to the session-RPE method, the
+calculation of the monotony index and the acute to chronic workload ratio calculation. This
+article presents a case study of a 16-year-old player combining his education with his training in
+a tennis academy as well as with competition. The daily and weekly training load as well as the
+other indicators were calculated over 31 weeks and then explained, interpreted and discussed
+in this article.
+
+Key words:  RPE, training load,
+monitoring, monotony, ACWR.
+Received: 26 November 2019
+Accepted: 10 January 2020
+Corresponding author: Cyril
+Genevois, 6 Grande rue de
+Saint Clair, Caluire-et-Cuire,
+Lyon, France 69300. Email:
+cyril.genevois@aol.fr
+
+INTRODUCTION
+The appropriate application of the training load (TL) is one of
+the fundamental factors in inducing beneficial physiological
+adaptations and improved performance. Insufficient loads do
+not bring about physiological adaptations, and excessive loads
+lead to harmful adaptations, such as a state of non-functional
+fatigue and/or a state of overtraining.
+Considering the wide variety of exercises used both in
+technical-tactical training and in the physical conditioning of
+the tennis player, the measurement of TL is a challenge. The
+session-RPE (Rating of Perceived Exertion) method proposed
+by Foster et al. (2001), which is based on the post-session
+perception of the session’s intensity and its duration, makes it
+possible to quantify the TL of different types of training by
+expressing it in arbitrary units (AU). It has been validated in
+several sports with men and women of different age
+categories and with various levels of expertise (Haddad et al,
+2017), and in tennis with Elite players (Gomes et al, 2015).
+From a practical point of view, 30 minutes after the session,
+the player answers the question: "How did you feel the
+session on a scale of 1 to 10?” – the scale proposed by Borg et
+al. (1982). The TL of the session is then calculated as the
+product of the duration of the session (expressed in minutes)
+and the RPE. As a result, the higher the result obtained in the
+RPE, the higher the perceived TL.
+
+Training load control is important from one session to the next
+but also from week to week and month to month to find a
+balance between fatigue and recovery. Since tennis injuries
+are mainly over-stress injuries, the goal is to find a threshold
+that allows both the optimization the player's training
+capacity while protecting him or her from the risk of injury.
+The Monotony Index provides an overview of the variability in
+training throughout the week. It is calculated by dividing the
+average daily TL for the week by its standard deviation. A
+weak index with large variations from one day to the next is to
+be sought, and it is advisable not to exceed a value of 2
+(Foster, 1998). The acute load / chronic workload ratio
+(ACWR) is an indicator that compares the training load of the
+current week (acute) with the average of the previous 4 weeks
+(chronic). A ratio between 0.8 and 1.3 would be considered a
+target area in which the TL is high enough to cause beneficial
+adaptations but not enough to generate harmful adaptations
+like increasing the risk of injury (Blanch & Gabett, 2016).
+The objective of this study was to quantify the size and the
+variation of the TL using the RPE session method, the
+monotony index and the acute load / chronic load ratio over
+31 weeks in a 16-year-old high school player.
+
+METHOD
+The case studied a tennis player training in an academy (16
+years old, weighing 51 kg, measuring 168 cm, with 9 years of
+practice, 10 hours of weekly training and an ITN3 ranking)
+following a traditional high school schedule (30 hours of
+lessons including 2 hours of P.E. per week). During the 31
+weeks of the study, the player accumulated 78 technicaltactical training sessions, 75 physical training sessions and 50
+competitive matches. Physical endurance (30/15 IFT) and
+strength (Squat and Deadlift) tests were performed in weeks
+1, 16 and 29 to assess the effectiveness of the training. The EC
+for each session was calculated by multiplying the RPE score
+by the duration of the session in minutes. These data were
+then used to calculate the weekly monotony index and the
+acute to chronic workload ratio (ACWR).
+
+RESULTS
+Table 1 presents an example of a summary table used to
+calculate and analyse the training loads per session, daily and
+weekly.
+Table 1: Example of a weekly training workload summary
+Figure 1 shows the distribution of weekly training loads as
+well as the change in the monotony index and the acute to
+chronic workload ratio (ACWR) throughout the 31 weeks.
+
+Figure 1: Total weekly workload (bars), monotony index (grey
+curve) and ACWR ratio (black curve) for 31 weeks. The
+underlined weeks (VS) are holiday weeks outside the
+academy.
+The average weekly training load during the 31 weeks was
+2105 ± 787 UA, varying from 720 UA to 3440 UA. The
+average monotony index was 1.2 ± 0.4 (minimum: 0.64;
+maximum: 1.98). The ACWR ratio was 0.97 ± 0.39. Values
+outside the theoretical target area (0.8-1.3) were observed for
+11 weeks out of the 31 studied: three higher values (between
+1.49 and 1.63) for weeks 9, 20 and 22 and eight lower values
+(between 0.34 and 0.60) for weeks 6, 10, 14, 15, 23, 25, 30 and
+31.
+Figure 2 shows the distribution of average RPE values,
+duration and training load for the different types of session.
+
+Figure 2: Average values ( standard deviations) in RPE (A),
+volume (B) and load (C) for technical-tactical sessions,
+conditioning sessions and competitive matches over the 31
+weeks.
+Day
+Session
+Session
+RPE
+Session
+duration
+Session
+workload
+Daily
+workload
+Monday
+8/10
+Tennis
+Strength
+Tuesday
+9/10
+Tennis
+Endurance
+Wednesday
+10/10
+Rest day
+Thursday
+11/10
+Tennis
+Endurance
+Friday
+12/10
+Tennis
+Strength
+Saturday
+13/10
+Competition
+Sunday
+14/10
+Rest day
+
+Weekly workload
+2940
+
+Higher average values of RPE, duration and training load were
+observed for the matches when compared with technicaltactical sessions and the physical conditioning sessions. A
+greater average value of session duration was observed for
+the technical-tactical sessions in comparison with the physical
+preparation sessions.
+Table 2 presents the results of the player's physical tests and
+highlights an increase in endurance and strength.
+Tests
+Week 1
+Week 16
+Week 29
+Squat (% BW)
+57.7
+115.4
+134.6
+Deadlift
+(%
+BW)
+57.7
+79.6
+105.8
+30/15
+ITF
+(km/h)
+18.5
+Table 2: Summary table of physical strength as a percentage
+of bodyweight (BW) and endurance (in km/h) test results at
+three moments during the season.
+
+DISCUSSION
+The aim of this case study was to quantify the training load
+with the session-RPE method and analyse its evolution over
+31 weeks using the acute to chronic workload ratio in a 16year-old player at high school. The results revealed an average
+weekly training load of 2105 AU, and an average ACWR of
+0.97 with 35% of the total training weeks outside the target
+zone. They also revealed that the values of RPE and average
+load of the technical-tactical and physical sessions were
+significantly lower than those of the matches.
+Our results are relatively comparable to those of other studies
+in tennis (Gomes et al, 2015; Murphy et al, 2016; Coutts et al,
+2010; Gomes et al, 2011) or on physical preparation (Lockie et
+al, 2012; Kilpatrick et al, 2015; Singh et al, 2007). They can
+therefore be used as a reference for planning training loads.
+On the other hand, it is important to understand that the
+weekly TLs depend on the number of hours of training and
+that they can therefore vary greatly depending on the level of
+involvement of players in practice (Fett et al, 2017). However,
+the average values of RPE and training loads for technicaltactical sessions and matches are lower than those observed
+for a very similar average duration for players of the same age
+at national level (Perri et al, 2018; Murphy et al, 2015). In
+addition, as previously presented, the RPE and average load
+values of the technical-tactical sessions were significantly
+lower than those of the matches, suggesting a lack of
+adaptation of the training to the levels of competition.
+However, the value of the post-session RPE can be impacted
+by physical exercises in technical-tactical sessions (Murphy et
+al, 2014). It would therefore be interesting to consider the
+relative RPE and the duration of the exercises in order to
+prescribe situations which allow approximation of training to
+the levels of competition.
+The weekly monotony index reflects the daily change in TL.
+The highest values were obtained during holiday weeks when
+training was significantly reduced and therefore posed no
+significant risk. It is interesting to note that the RPE values of
+the physical preparation sessions are more dispersed than
+those of the technical-technical sessions and could therefore
+be the main factor of variability. In view of these results,
+coaches could be advised to bring more variety in the intensity
+of the technical-tactical sessions.
+The acute to chronic workload ratio (AWCR) remains mainly
+in the targeted area (0.8-1.3). The values below this threshold
+correspond to weeks of school holidays (weeks 6, 15 and 23)
+where the player was not present at the academy and had to
+perform sessions independently. The values above the
+threshold correspond to weeks with several competitive
+matches. As the variability in the duration and intensity of
+competitive matches is difficult to predict, an analysis a
+posteriori should allow coaches to adapt training sessions for
+the following week to stay within optimal ratio values.
+During the 31 weeks, the player was never absent (no
+injuries), progressed on physical tests, and had a win / loss
+ratio of 1.9 including 13 wins against players ranked higher
+than him. We can therefore conclude that, in addition to the
+player´s development being linked to his growth, the
+organisation of its training load has enabled him to adapt
+effectively by improving his performance and avoiding injury.
+
+CONCLUSION
+The purpose of this case study was to introduce coaches to a
+simple method of quantifying tennis training load and its
+indicators in order to analyse variations over time. More
+research involving different levels of play and age categories
+is needed to establish benchmarks and to improve and
+develop workload planning methods in our sport.

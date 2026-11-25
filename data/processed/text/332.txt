@@ -1,0 +1,478 @@
+Title: Public relations strategy in a Japanese college tennis team during COVID-19: Factors for joining the team
+Authors: Shion Hotta, Kazuki Hioki
+Year: 2023
+Issue: Vol. 31 No. 91 (2023)
+Article id: 332
+
+ABSTRACT
+The spread of the novel coronavirus infection that began in 2020 has forced the
+cancellation of many competitive sports events. This has made it difficult for college
+sports teams to recruit top athletes at athletic venues and has also forced the cancellation
+of face-to-face recruiting activities for general freshmen. Under these unprecedented
+circumstances, online publicity strategies have become particularly important. In this
+study, we attempted to analyze the effectiveness of the public relations strategy of the Y
+tennis team of K University by focusing on the factors that were decisive in new students’
+decisions to join the team. The results showed that the decisive factors were “enriched
+practice environment” and “compatibility with academic work.” It was also found
+that approximately 40% of the new members decided to join the team after receiving
+information on Twitter and participating in online information sessions. In this paper, we
+propose effective public relations strategies while drawing actual examples from public
+relations strategies in practice.
+INTRODUCTION
+In recent years, the activities of college student athletes in
+particular have been attracting a great deal of social attention,
+and colleges have been expanding entrance examinations
+with sports recommendations as part of their public relations
+strategies to attract top athletes (Tomozoe, 2006). In fact,
+87% of all universities in Japan have a sports recommendation
+entrance examination system (Japanese Association of
+University Physical Education and Sports, 2014), and
+accordingly, coaches and managers of college athletic teams
+conduct rigorous recruiting activities, such as visiting athletic
+competition venues, in an effort to enroll excellent athletes
+(Shimizu et al., 2011).
+However, the spread of the novel coronavirus infection that
+began in 2020 (Ministry of Health, Labour and Welfare, 2021)
+deprived us of our daily lives and led to the cancellation of
+many competitive sporting events. This not only made it
+difficult to recruit top athletes at competition venues, but
+also led to the cancellation of in-person recruiting activities
+of new students (Yoshida, 2021).
+Under these unprecedented circumstances, online publicity
+strategies have become particularly important. It is reported
+that 95.6% of high school students own a smartphone today,
+and that 53.6% of them have increased the amount of time
+they spend using it as a result of voluntary restraints on faceto-face activities following the spread of the novel coronavirus
+infection (Tokyo Metropolitan Government, 2021). Under
+such circumstances, it is beneficial for college athletic clubs
+www.itfcoachingreview.com
+December 2023. 30th Year. Issue 91. 13-17
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i91.332
+Public relations strategy in a Japanese college
+tennis team during COVID-19: Factors for
+joining the team
+Shion Hotta1,2
+  & Kazuki Hioki1
+1Keio University, Japan. 2The University of Tokyo, Japan.
+Key words: Public relations
+strategy, college sports, tennis
+Received: 21 June 2022
+Accepted: 12 May 2023
+Corresponding author: Shion
+Hotta. Email: shotta@g.ecc.utokyo.ac.jp
+to execute online publicity strategies using social networking
+services (SNS), as an alternative to face-to-face recruiting
+and club enrollment activities. Regardless, it is expected that
+online public relations strategies will become increasingly
+important in the future, even after the novel coronavirus
+outbreak is under control.
+Nevertheless, there have been few academic studies on public
+relations strategies of student-led college athletic teams. In
+fact, Amiso (2008), who examined public relations strategies
+for student recruitment in colleges, Taninouchi (2020), who
+studied college public relations departments, and Takeuchi
+(2010), who analyzed college public relations media, all
+COACHING & SPORT
+SCIENCE REVIEW
+have studies focused on public relations strategies in larger
+organizations.
+In this study, in order to examine effective publicity strategies
+for college athletic clubs, we analyze the effectiveness of the
+publicity strategy implemented by the K University Y Tennis
+Club (Y Tennis Club), which has its training base in Kanagawa
+Prefecture, Japan (Hotta et al., 2022a), with a focus on the
+factors that were influential in the decision of new students
+to join the club. The Y Tennis Club has a history of more than
+80 years and is based at the tennis courts on the campus of
+K University. The club is characterized by the diversity of
+its members, and although it does not conduct entrance
+examinations with sports recommendations, it is known for its
+high competitiveness in the Kanto Polytechnic College Tennis
+League (Hotta et al., 2022b). The men’s team belongs to the
+first division out of 13 divisions and won the second place
+in 2019, and the women’s team also won the first place the
+second division in 2018. In addition, the team is also making
+efforts to nurture “supporting” personnel (Hotta, 2021),
+and has the largest number of certified officials of the Japan
+Tennis Association among Japanese college tennis clubs, with
+many members of the team having been hired as management
+staff at competitive international sporting events (Hotta,
+2023). Furthermore, there are other college tennis teams at
+K University, such as K University H Tennis Club (H Tennis
+Club) and K University Tennis Circle (Circle). Considering how
+Y tennis club and the other tennis teams are in a competitive
+relationship in terms of recruiting new members, the Y
+tennis club is optimal for studying the effectiveness of public
+relations strategies, which is the objective of this study.
+PROCEDURE AND DATA ANALYSIS
+55 members of Y tennis club were targeted (Table 1). 46
+responses (83.6%) were received, all of which were valid
+(100.0%). In the Y tennis club, the teams are divided into A,
+B, C, and D in order of the competitiveness of the members.
+The survey period was from June 16, 2021, to June 23, 2021.
+Table 1
+Demographics.
+Count
+%
+Grade (n=46)
+Freshman
+43.5
+Sophomore
+28.3
+Junior
+28.3
+Gender (n=46)
+Men
+78.3
+Women
+21.7
+Competitiveness
+(n=46)
+A
+19.6
+B
+26.1
+C
+30.4
+D
+23.9
+The survey items consist of their demographics, items related
+to the operation of SNS and official homepages, items related
+to the brand image, and items related to the recruiting. All the
+items were filled out on the web using a survey form with Keio
+University Authentication System enabled. The survey form
+was protected by SSL/TLS encryption, server certification,
+firewall access control, and other security and privacy
+protection measures. Simple tabulations were performed for
+all survey items. Data collected was the following:
+•	 Demographics: Grade, gender, and competitiveness
+were asked.
+•	 Items related to the operation of SNS and official
+homepages: The respondents were asked to evaluate the
+frequency and content of their team’s SNS such as Twitter
+and YouTube, as well as their official website, using a
+five-point scale from “1: evaluate lowly” to “5: evaluate
+highly.” The respondents were also asked to provide
+free comments regarding their specific evaluations, if
+necessary.
+•	 Items related to the brand image: The respondents were
+asked to evaluate brand image, including the contents of
+the logo and catchphrase, using a five-point scale from “1:
+evaluate lowly” to “5: evaluate highly.” The respondents
+were also asked to respond to multiple-choice questions
+(Goto et al., 2003) and to provide free descriptions
+regarding their specific evaluations, if necessary.
+•	 Items related to the recruiting: The respondents were
+asked to respond to multiple-choice and open-ended
+questions regarding the media they used to gather
+information and the types of events they participated in
+before joining the club.
+Regarding the ethical considerations of the study, prior to
+the survey, the purpose of the survey, the survey method,
+and the protection of information were explained in writing
+to the representatives of Y tennis club, and the method
+of conducting the survey was discussed. Then, the URL of
+the survey form was distributed to the 55 members of the
+Y tennis club through the representatives of the Y tennis
+club. In the survey form, the following explanatory text was
+written in a position easily recognizable by the respondents:
+(1) the purpose of the survey, (2) the voluntary nature of the
+responses, and (3) the fact that the information would not be
+disclosed to the public as personally identifiable information.
+RESULTS
+Items related to the operation of SNS and official homepages.
+First, Twitter is a social networking service with 320 million
+users worldwide and 45 million users in Japan (Onodera,
+2018), and the majority of high school and college students
+use it daily (Toyoda, 2015; Aoyama, 2018). In this respect,
+it is the most important medium for the Y tennis club in
+terms of publicity strategy to attract new members and to
+communicate with the outside world. In fact, in the survey
+of Y tennis club members, 39.1% of the total respondents
+answered that they first learned about the Y tennis club
+through Twitter posts. Therefore, during the period from
+October 2019 to September 2020, including periods amidst
+the COVID-19 Disaster, 330 posts were made. This is the
+highest number of posts per year since the account was
+opened in 2015, and 6.6 times the number of posts made from
+October 2018 to September 2019, periods unaffected by
+the COVID-19 Disaster. The posts were designed to appear
+at the top of Twitter’s algorithm (Onodera, 2018) by adding
+images and video content. This was also done in order to
+provide a more concrete understanding of the expressions
+and activities of the club members in the absence of face-toface recruiting activities during the COVID-19 Disaster. In
+addition, in the period immediately prior to the September
+university enrollment, the information was also provided
+in English, since the the September university enrollment is
+mainly for foreign students. In terms of content, they sought
+to enhance the introduction of the club members, facilities,
+and events, as well as the style of writing to make it seem more
+familiar to younger readers. In addition, the communication
+with the viewers was also emphasized by replying to all direct
+messages and comments on posts.
+As a result, the number of followers increased from 440 as
+of October 2019 to 563 as of May 2021, and the cumulative
+number of postings viewed exceeded 1 million during that
+period. In fact, in a survey of Y tennis club members, the content
+of Twitter posts received a high rating of 4.50 on average. In
+the free comments section, the following comments were
+also made by the respondents: “It was very good that there
+were posts on a wide range of topics, such as introductions
+of members, events, and reports on external competitions,”
+“It was easy to understand what kind of events were held and
+where to contact during the new member period.”
+Next, YouTube is a medium mainly for posting videos and is
+used by many high school and college students (Toyoda, 2015;
+Aoyama, 2018). Therefore, in addition to distributing videos
+of matches, the Y tennis club also focused on creating and
+posting image videos. The image video expresses the history
+of the Y tennis club and the diversity of its members, and it also
+tries to convey the atmosphere of respect for all the players,
+supporters, coaches, referees, ball players, and alumni (MEXT,
+2017) who “experience, watch, and support” (MEXT, 2017).
+The video is composed mainly of images taken by individual
+members before the COVID-19 disaster, and was edited by
+the Public Relations Strategy Committee members using the
+standard Windows 10 application “Photos.” The image video
+was completed in March 2021, and the completed video was
+posted not only on YouTube but also on Twitter.
+As a result, as of May 2021, the video has been viewed
+more than 10,000 times in total. In a survey of Y tennis club
+members, the video received a high overall evaluation of
+4.35 on average, and the following comments were also given
+by the respondents in the free comments section: “It was
+good that the passion for tennis was conveyed,” “Many new
+students waver between joining the Y tennis club or a circle,
+but the former has more focus on tennis itself, while the latter
+is more about socializing.”
+Next, the official website of the Y tennis club was completely
+revised in February 2020, because the visibility of the website
+was not good. The design of the official website was mainly
+yellow and black, referring to the color tone of the official
+website of K University, and in terms of contents, the history
+and activity records of Y Tennis Club were enriched.
+As a result, the site was viewed 6,086 times cumulatively from
+October 1, 2019 to September 30, 2020 (Period A), including
+the post-renovation period. This is 2.07 times as many as
+the cumulative number of views during the period from
+October 1, 2018 to September 30, 2019 (Period B) before
+the renovation. The average time spent in period A was also
+3 minutes and 09 seconds, which is 1.3 times longer than that
+in period B. In fact, in the survey of Y tennis club members,
+the content of the official website was rated extremely high
+with an average of 4.59, and the design was also rated high
+with an average of 4.57. In addition, in the free comments,
+respondents reported that “the website is easy to read and
+provides a variety of information,” and “the Q&A about joining
+the club helped me to resolve my doubts and concerns before
+joining the club.”
+Items related to brand image.
+In the operation of SNS and official homepages, an important
+public relations strategy is how to present the Y tennis club
+to the target audience, i.e., the brand image of the club. In the
+case of Y Tennis Club, in order to win the championship in the
+Kanto Polytechnic College University Tennis League for both
+men and women, it was necessary to recruit new members
+with high competitiveness, and to recruit women in order to
+secure the number of members necessary for the women’s
+team to participate in the team competition.
+Therefore, when recruiting new members for the 2020 and
+2021 academic years, we targeted (1) those who have played
+tennis before and (2) female members in our public relations
+strategy. In order to differentiate the Y-tennis club from
+competing clubs such as the H tennis club and circles, we
+created a catchphrase, “a club for anyone who values the joy
+of tennis,” reflecting the characteristics of the Y tennis club as
+described in the introduction, and displayed it with the logo
+in each media. The catchphrase was displayed in each media
+along with the logo and logotype. In addition, the contents
+of each media were also considered to be in line with this
+catchphrase. The catchphrase received a high evaluation in
+a survey of Y tennis club members, with an average rating
+of 4.37. The results were as follows: “It is good that the rigid
+impression of an athletic association is dispelled,” “It is good
+that we can enjoy tennis on the premise of having fun,” and
+“It is good that we are firmly oriented toward competitions”
+and “It was easy to convey the attitude of facing competition
+firmly while assuming the enjoyment of tennis.”
+Next, 40 (87.0%) of the respondents chose “enriched practice
+environment” as the deciding factor in their decision to join the
+club, followed by 27 (58.7%) for “compatibility with academic
+work,” 13 (28.3%) for “little difference in opportunities to
+participate in matches and practices based on ability.”
+The most common characteristic of the Y tennis club, which
+was not found in the H tennis club, was “Balance with
+schoolwork” with 30 (65.2%), followed by “Fewer differences
+in participation in matches and practices depending on tennis
+ability” with 24 (52.2%), “Social contribution activities such
+as refereeing” with 24 (52.2%), and “Interaction with various
+club members and friendly atmosphere” with 22 respondents
+(47.8%).
+As for the characteristics of the Y-tennis club that were not
+found in the circle, 40 (87.0%) of the respondents selected
+“enriched practice environment” the most, followed by 35
+(76.1%) for “good teaching environment,” 30 (65.2%) for
+“social contribution activities such as refereeing,” and 27
+(58.7%) for “connection with alumni.”
+Based on these results, it can be seen that “enriched
+practice environment” and “good coaching environment”
+were recognized as superior characteristics by the Y
+tennis club members compared to the circle, and “balance
+with schoolwork” and “little difference in participation
+opportunities in matches and practices depending on the level
+of tennis ability” were recognized as superior characteristics
+compared to the H tennis club. These characteristics also
+appeared at the top of the decisive factors for the decision
+to join the Y tennis club, and the agreement between the
+characteristics of the Y tennis club and the decisive factors for
+the decision to join the Y tennis club was confirmed.
+From the above, it can be concluded that the Y-tennis club’s
+publicity strategy using SNS and official homepages has been
+effective in promoting the membership of the Y tennis club,
+as the club has been able to build up its contents with an
+awareness of the characteristics of prospective members and
+its differentiation from other clubs.
+Items related to the recruiting.
+Finally, we examined how the members of the Y tennis club
+decided to join the club. First, when the members were asked
+how they first heard about the Y tennis club before joining,
+the most common answer was “from an acquaintance” at 27
+(58.7%), followed by “Twitter” at 18 (39.1%), “official website”
+at 7 (15.2%), and “Instagram” at 6 (13.0%) (Table 2).  Based
+on the above, it can be understood that the Y tennis club’s
+emphasis on publicity strategies using Twitter and Instagram
+has been effective. It should be noted here that none of the
+members of the Y tennis club had the opportunity to learn
+about the Y tennis club through the online welcome party
+officially conducted by K University amidst the COVID-19
+Disaster. This implies that the Y tennis club could not have
+obtained new members unless they voluntarily carried out
+the public relations strategy. However, the most common
+answer was “from an acquaintance,” which indicates that
+it is important not only to publicize the Y tennis club
+comprehensively through SNS, but also for each member to
+solicit his/her acquaintances to join the club personally.
+Next, we asked the 22 members who joined the Y tennis club
+in FY2020 and FY2021 about the types of events organized
+by the Y tennis club that they attended during the welcome
+period during the COVID-19 disaster and found that “online
+information sessions” was the most frequent event with 18
+respondents (81.8%), followed by “online exchange meeting”
+with 17 respondents (77.3%) (Table 2).
+The online information sessions were a plan to explain about
+the Y tennis club in a format similar to a real-time lecture
+at college. Those who participated in the event said, “It was
+good that I was able to resolve my questions during the
+question-and-answer session at the explanatory meeting
+on club activities,” “I felt the atmosphere of the club was
+well balanced, and I was attracted to the fact that it had not
+only the strictness of an athletic club but also an easy-going
+atmosphere.”
+The online exchange meetings are meetings between current
+club members and new students before they join the club,
+and those who participated in this meeting reported that the
+atmosphere was “homey and lively” and “very cheerful and
+reassuring.” On the other hand, some of the participants said
+that they would like to have more individualized meetings.
+ The “Practice Experience” was a plan to have students
+participate in actual club activities, but most of the new
+students did not have a chance to participate in this program
+due to the declared state of emergency caused by the COVID
+disaster.
+Table 2
+Simple tabulation results of multiple-choice responses to items related
+to the recruiting.
+Items related to the
+recruiting
+Options
+Count
+%
+How they first heard about
+the Y tennis club
+From an
+acquaintance
+58.7
+Twitter
+39.1
+Official
+website
+15.2
+Instagram
+13.0
+Youtube
+2.2
+Facebook
+Page
+0.0
+Online
+welcome
+party
+conducted
+by K
+University
+0.0
+The types of events
+organized by the Y tennis
+club that they attended
+during the welcome period
+(answer only freshman)
+Online
+formation
+sessions
+81.8
+Online
+exchange
+meeting
+77.3
+Practice
+experience
+4.5
+CONCLUSIONS
+The process of deciding where to enter a college is generally
+divided into five stages: (1) learning about the college, (2)
+becoming interested in the college, (3) researching the college,
+(4) taking the entrance exam, and (5) sharing the information
+with others (Iwata, 2013). Applying this process to the case of
+the Y tennis club, we can observe the following:
+1.	Members learn about Y tennis club through SNS,
+acquaintances, and other publicity media,
+2.	The applicants become interested in Y tennis club
+through catchphrases, postings, videos, etc. on the SNS,
+3.	Those who are interested in Y tennis club visit the official
+website and online information sessions to obtain
+information,
+4.	Those who are interested in Y tennis club participate in
+online exchange meeting and practice sessions to get to
+know Y tennis club firsthand,
+5.	Those who are interested in Y tennis club exchange
+information with other prospective members and new
+students at the online exchange meeting and practice
+sessions.
+Normally, steps (4) and (5) would all be conducted in person,
+but this was not possible during the COVID disaster. Even
+with such limitations, it can be evaluated that Y tennis club
+compensated for this problem of recruitment through online
+publicity strategies and events. From the above, we suggest
+that college tennis clubs should understand the characteristics
+of prospective members, disseminate information with the
+awareness to differentiate from other clubs, and provide
+opportunities to share information through social gatherings
+and other occasions.
+ACKNOWLEDGEMENTS
+We would like to express our deepest gratitude to Hiroaki
+Imai, Professor of Keio University, Yoshiharu Yamamoto,
+Professor of The University of Tokyo, Ms. Kaya Kudo, Mr.
+Bradley Suzuki and Mr. Myles Hirozumi Shiotsu of Keio
+University for their cooperation throughout the execution
+of this study. We would also like to express our gratitude to
+Kazuma Okura, captain of the men’s team, Yuzuka Kuronuma,
+captain of the women’s team, and Masayuki Kumashiro,
+Yuki Tatsuma, Kana Takada, Yuta Matsushita, Yuto Yasui,
+and Yuri Akiyama, members of the Public Relations Strategy
+Committee, for their cooperation in conducting the research.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest. This study was supported by the ICT Management
+Association Research Grant and the Keio Yagami Tennis
+Association Research Support Fund.

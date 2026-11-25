@@ -1,0 +1,1130 @@
+Title: Designing representative wheelchair tennis practice drills: Stage-specific recommendations for representative practice design
+Authors: Tayla Mounter
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 758
+
+Introduction
+Wheelchair tennis is a dynamic, open-skill sport in
+which performance emerges from the interaction
+of propulsion, braking, chair orientation, and stroke
+production under time pressure. Skilled behaviour
+is therefore not reducible to isolated technical
+execution; rather, it reflects the athlete’s ability
+to coordinate mobility and striking in response
+to specifying information such as ball trajectory,
+opponent positioning, and available space. Matchplay evidence indicates substantial intermittent
+upper-limb propulsion demands, with movement
+characteristics varying by level and context (Sindall
+et al., 2013; Williamson et al., 2024). These demands
+highlight the need for training environments that
+develop integrated, adaptable solutions rather than
+decontextualised technique. Despite this, many
+coaching environments rely on blocked repetition
+and predictable feeding. While such approaches
+increase repetition volume, they may remove
+informational variability and reduce exposure to
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 35-47
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.758
+Designing representative wheelchair tennis
+practice drills: Stage-specific recommendations
+for representative practice design
+Tayla Mounter
+University of Edinburgh, Scotland
+Abstract
+Wheelchair tennis performance emerges from tightly coupled propulsion, chair orientation, stroke
+production, and tactical decision-making under temporal constraint. However, applied coaching
+environments frequently rely on decontextualised technical repetition that may weaken perception–
+action coupling and reduce transfer to competition. This applied technical note integrates ecological
+dynamics (Davids et al., 2013), representative learning design (Pinder et al., 2011), and the constraints-led
+approach (Renshaw et al., 2019) to provide structured guidance for designing representative wheelchair
+tennis practice drills. Five key performance demands are identified as essential to representativeness:
+mobility–stroke integration, tactical utilisation of the two-bounce rule, serve and return specificity,
+contextual shot selection, and fatigue-representative performance (Sindall et al., 2013; Williamson
+et al., 2024). Stage-specific recommendations are presented for beginner, intermediate, and elite
+contexts, aligned with inclusive and non-linear development pathways (Mounter, 2026). Practical
+evaluation indicators and strength and conditioning considerations are provided to support sustainable,
+transferable, and classification-aware skill acquisition.
+Key words: wheelchair tennis; representative learning design; ecological dynamics; constraints-led approach.
+Received: 13 February  2026. Accepted: 22 June 2026.
+Corresponding author: Tayla Mounter, s1918193@ed.ac.uk
+opponent-derived cues that regulate competitive
+behaviour. Representative learning design suggests
+that when practice fails to preserve key informational
+constraints, learning may become task-specific and
+degrade under pressure (Pinder et al., 2011). This
+reflects a broader theory–practice mismatch in
+coaching contexts (Mounter et al., 2025). In wheelchair
+tennis, where propulsion and stroke mechanics are
+tightly coupled, non-representative training may
+stabilise coordination patterns that do not survive the
+tempo and uncertainty of match play. Practice design
+is further complicated by non-linear developmental
+pathways. Many athletes enter following injury or
+illness, and progression is influenced by impairment
+adaptation, equipment access, classification, and
+psychosocial transition (Dehghansai et al., 2017;
+Mounter, 2026). Early performance variability may
+therefore reflect adaptation rather than limited
+potential. Training environments must support both
+performance development and inclusive participation
+through scalable, tactically meaningful challenges.
+Performance
+reflects
+continuous
+perception
+of
+specifying information—ball trajectory, opponent
+kinematics, spatial affordances—and regulation of
+movement accordingly. Skill acquisition involves
+attunement to relevant information and stabilisation
+of adaptable coordination patterns. For coaches,
+this implies preserving perception–action coupling.
+Athletes must coordinate propulsion, braking, and
+stroke production in response to competitionrelevant information rather than predictable feeds.
+When drills remove key informational constraints,
+coordination patterns may become technically stable
+yet functionally brittle (Davids et al., 2013; Renshaw
+et al., 2019). Match-play research supports this view.
+Wheelchair tennis involves intermittent propulsion
+and significant physiological demand, varying by level
+and context (Sindall et al., 2013; Williamson et al.,
+2024). Coordination solutions are therefore contextsensitive rather than fixed technical templates. Static
+hitting drills that eliminate propulsion demands may
+fragment propulsion–stroke coupling and reduce
+transfer.
+Representative learning design (RLD)
+Representative
+learning
+design
+(RLD)
+extends
+ecological principles by arguing that training tasks
+must preserve the key informational variables and
+action possibilities that define the competitive
+environment (Pinder et al., 2011). Importantly,
+representativeness does not require full replication
+of match complexity at all times. Rather, it requires
+retention of those informational constraints that
+shape perception, decision-making, and coordination
+in performance contexts. RLD can be operationalised
+in
+several
+practical
+ways.
+First,
+incorporating
+opponent-derived information enhances perceptual
+attunement. Live serve-and-return scenarios, variable
+rally exchanges, and unpredictable directional feeds
+preserve the uncertainty inherent in competition.
+Second, embedding task consequences through
+scoring and tactical objectives increases decision
+salience. For example, awarding bonus points for
+returns landing beyond the service line aligns drill
+incentives with match-relevant outcomes. Preserving
+realistic
+mobility
+patterns
+ensures
+propulsion
+routes, braking demands, and recovery timing mirror
+competition, while maintaining temporal pressure
+through appropriate ball speed, spacing, and recovery
+intervals reduces the risk of over-stabilising slowtempo solutions that fail under match intensity
+(Broadbent et al., 2015; Pinder et al., 2011). These
+principles are especially salient in wheelchair tennis
+because mobility and striking are inseparable, meaning
+stationary repetition can reduce ecological validity and
+limit transfer when tempo and uncertainty increase.
+RLD also aligns with inclusive pathway realities:
+because wheelchair tennis development is often nonlinear and shaped by rehabilitation, classification,
+equipment, and psychosocial adaptation (Dehghansai
+et al., 2017; Mounter, 2026), representative tasks
+Accordingly, this paper integrates ecological dynamics
+(Davids et al., 2013), representative learning design
+(Pinder et al., 2011), and the constraints-led approach
+(Renshaw et al., 2019) to provide coach-facing
+guidance for designing representative wheelchair
+tennis practice drills. Five performance demands
+are proposed as essential for representativeness—
+mobility–stroke integration, two-bounce affordances,
+serve and return specificity, contextual shot selection,
+and fatigue-influenced performance (Sindall et
+al., 2013; Williamson et al., 2024). Stage-specific
+recommendations
+are
+presented
+for
+beginner,
+intermediate, and elite contexts, alongside practical
+evaluation indicators and strength and conditioning
+considerations.
+Methods and procedure
+This paper is based on a narrative synthesis of
+literature from ecological dynamics (Davids et al.,
+2013), representative learning design (Pinder et al.,
+2011), the constraints-led approach (Renshaw et al.,
+2019), wheelchair tennis match analysis (Sindall et al.,
+2013; Williamson et al., 2024), classification research
+(Tweedy & Vanlandewijck, 2011), and wheelchair
+tennis strength and conditioning practice (Roetert
+et al., 2024). The aim was to integrate theoretical
+foundations with applied coaching realities to produce
+implementable design principles.
+Synthesis of key performance domains
+Five interconnected domains underpin representative
+wheelchair tennis practice design. First, mobility–
+stroke integration requires coordinated propulsion,
+braking, chair orientation, and racquet acceleration.
+Second, the two-bounce rule shapes spacing and
+defensive problem-solving. Third, serve and return
+exchanges
+require
+preservation
+of
+stationary
+acceleration
+constraints
+and
+early
+perceptual
+attunement.
+Fourth,
+contextual
+shot
+selection
+depends on interacting informational constraints
+including time, chair angle, opponent positioning,
+and score. Fifth, repeated high-intensity propulsion
+efforts introduce fatigue-related changes influencing
+coordination and injury risk. These domains provide
+the structural foundation for representative drill
+design.
+Discussion
+Theoretical foundations for representative drill
+design
+Ecological dynamics and perception–action
+coupling
+Ecological dynamics conceptualises skilled behaviour
+as
+emergent
+and
+adaptive
+under
+interacting
+constraints (Araújo et al., 2006; Davids et al., 2013).
+modifying starting positions can alter temporal
+pressure while maintaining objectives. However, CLA
+does not advocate random variability; manipulation
+must align with clearly defined performance questions.
+If the aim is to improve return depth under pressure,
+drills must retain serve variability, realistic tempo, and
+scoring consequence. By embedding these principles
+structurally, CLA offers a practical solution to the
+theory–practice mismatch identified by Mounter et
+al. (2025), ensuring coherence between theory and
+applied training design. Taken together, ecological
+dynamics, RLD, and CLA specify how learning emerges
+and how practice tasks should be constructed. The
+next step is therefore to identify the wheelchair tennis
+performance constraints that must be preserved for
+practice to remain representative.
+Performance demands in wheelchair
+tennis: “What must be represented?”
+Designing representative practice in wheelchair tennis
+requires first identifying the performance problems
+that decide points and the interacting constraints
+that shape functional solutions. Representative drill
+construction should not begin with technique, but
+with an understanding of the ecological demands
+of competition. Match-play analyses, classification
+research, and applied strength and conditioning
+literature collectively highlight five interconnected
+performance domains that must be preserved within
+training tasks: mobility–stroke integration, tactical
+implications of the two-bounce rule, serve and return
+specificity, contextual shot selection, and fatiguerepresentative performance (Sindall et al., 2013;
+Reina et al., 2021; Williamson et al., 2024; Mayrhuber
+et al., 2022).
+prioritise adaptability and decision quality over
+isolated technical proficiency, reducing premature
+deselection based on early variability.
+Constraints-led approach (CLA)
+The constraints-led approach (CLA) provides a
+practical framework for implementing ecological
+dynamics and RLD principles in coaching contexts
+(Renshaw et al., 2019). CLA proposes that behaviour
+emerges from the interaction of task, environmental,
+and individual constraints, and that manipulating
+these constraints can shape coordination without
+prescribing explicit technical solutions. In wheelchair
+tennis, task constraints include court dimensions,
+scoring systems, target zones, serve and return
+conditions, bounce allowances, and rally-length
+requirements,
+while
+environmental
+constraints
+may involve surface characteristics, lighting, or
+competitive noise. Individual constraints encompass
+strength, trunk stability, range of motion, injury
+history, classification profile, and chair configuration.
+The interaction among these factors shapes the
+coordination patterns that emerge in practice.
+CLA is particularly valuable in wheelchair tennis
+given the heterogeneity of functional ability across
+athletes. Impairment profile influences trunk control,
+propulsion efficiency, and stroke mechanics (Tweedy &
+Vanlandewijck, 2011), while chair configuration—such
+as camber angle, seat height, and strapping—further
+shapes movement affordances (Roetert et al., 2024).
+Uniform drill prescriptions may therefore impose
+inequitable challenge. Through intentional constraint
+manipulation, coaches can individualise difficulty
+while preserving tactical meaning. For example,
+adjusting bounce allowance can scale defensive
+challenge without removing decision-making, and
+Table 1. Key performance demands that should be represented during wheelchair tennis practice.
+Performance
+demand
+Match
+characteristic
+Representative
+practice constraint
+Example drill
+Coaching emphasis
+Mobility–stroke
+integration
+Propulsion and
+stroke occur
+simultaneously
+Require at least one
+propulsion adjustment
+before every shot
+Continuous
+crosscourt rally
+with movement
+Encourage movement
+before stroke
+preparation
+Two-bounce
+affordance
+Creates additional
+defensive time
+Award points for
+effective secondbounce recovery
+Defensive
+recovery game
+Recognise tactical use
+of the second bounce
+Serve and return
+Early rally often
+determines point
+outcome
+Begin every rally with
+a live serve
+Serve + first ball
+drill
+Read server cues and
+recover quickly
+Shot selection
+Decisions depend
+on space and
+opponent
+Variable target zones
+and scoring rewards
+Attack vs defend
+decision game
+Encourage tactical
+choice rather than
+predetermined shots
+Fatigue
+Reduced
+movement quality
+late in rallies
+Perform
+representative
+drills after repeated
+movement bouts
+Fatigue rally
+challenge
+Maintain technique
+and decision-making
+under fatigue
+displacement,
+and
+score
+context.
+Decisionmaking cannot be separated from these variables.
+Representative drills must embed choice rather than
+prescribe fixed stroke directions without tactical
+justification. Players should evaluate when to attack
+short versus reset deep and when to displace an
+opponent versus play behind them. Scoring systems
+can reinforce pattern logic, such as rewarding depth
+before attack. Removing tactical consequence risks
+distorting competitive decision rules.
+Repeated high-intensity efforts and fatigue
+Wheelchair tennis involves repeated high-intensity
+propulsion efforts interspersed with brief recovery.
+Upper-body fatigue influences propulsion efficiency,
+braking control, and stroke stability, with implications
+for performance and injury risk (Mayrhuber et al.,
+2022). Physiological demands vary by rally length and
+classification (Williamson et al., 2024), supporting
+context-sensitive
+conditioning.
+Representative
+sessions should incorporate realistic fatigue patterns
+while maintaining controlled work-to-rest ratios.
+However, representativeness does not equate to
+excessive volume; structured recovery and load
+management remain essential.
+Implications for Representative Drill Design
+These domains clarify what must be represented in
+practice: integrated mobility and stroke production,
+tactical use of the second bounce, serve–return
+informational dynamics, contextual decision-making,
+and fatigue-influenced performance. Drill design
+that omits these elements risks limiting transfer.
+Representative practice is defined not by surface
+resemblance to match play but by preservation of the
+constraints that regulate competitive behaviour.
+Inclusive pathways and structural limitations
+Representativeness also has pathway implications
+because
+development
+in
+wheelchair
+tennis
+is
+often
+non-linear.
+Traditional
+models
+assuming
+uninterrupted progression are poorly aligned with
+rehabilitation-driven entry and access constraints
+(Brittain, 2016; Mounter, 2026). Representative tasks
+enable evaluation of adaptability rather than early
+performance markers, supporting inclusive retention.
+Classification influences propulsion mechanics and
+stroke production (Tweedy & Vanlandewijck, 2011),
+requiring drill design to be classification-aware
+without imposing uniform expectations. Autonomy
+and perceived competence further support sustained
+engagement (Richardson et al., 2010; Martin, 2017),
+suggesting that game-based, tactically meaningful
+practice may enhance motivation.
+Strength and Conditioning integration
+Representative practice must also be sustainable.
+The same constraints shaping performance influence
+Mobility–stroke integration
+Mobility–stroke
+integration
+is
+foundational
+to
+wheelchair
+tennis.
+Unlike
+able-bodied
+tennis,
+wheelchair
+performance
+requires
+continuous
+coordination
+between
+propulsion,
+deceleration,
+trunk stabilisation, chair orientation, and racquet
+acceleration. Stroke quality is inseparable from how
+the athlete arrives at the ball: chair angle shapes shot
+affordances, ineffective braking compromises balance,
+and inefficient propulsion reduces preparation time.
+Representative drills must therefore capture not only
+ball outcome but arrival mechanics and orientation
+at contact. Match-play research confirms substantial
+intermittent propulsion demands and variability
+across playing levels and contexts (Sindall et al., 2013;
+Williamson et al., 2024), indicating that coordination
+solutions are adaptive rather than fixed templates.
+Static hitting drills that remove propulsion demands
+fail to represent competition, as repeated stationary
+striking may stabilise coordination patterns that do
+not transfer to match conditions.
+Two-bounce rule and spacing decisions
+The two-bounce rule introduces a distinctive tactical
+affordance that expands defensive possibilities by
+increasing temporal margin and enabling repositioning
+(Reina et al., 2021). Players may intentionally use
+the second bounce to regain central coverage or
+neutralise
+pace.
+Consequently,
+representative
+practice should not consistently demand first-bounce
+contact. Overemphasising immediate contact may
+limit defensive adaptability under pressure. Instead,
+training should reflect the dual tactical reality of
+wheelchair tennis: first-bounce aggression when space
+permits and deliberate second-bounce management
+when
+constrained.
+Excluding
+either
+affordance
+reduces ecological validity.
+Serve and return specificity
+Serve and return phases are especially influential due
+to constrained acceleration from a stationary base.
+Wheelchair athletes must generate court coverage
+through upper-limb propulsion from rest, increasing
+the importance of early cue pickup and efficient first
+pushes. Return effectiveness depends on attunement
+to toss motion, racquet kinematics, and trajectory.
+Early exchanges shape tactical and physical demands
+(Williamson et al., 2024), reinforcing the need to
+preserve serve–return dynamics in practice. Initiating
+rallies from predictable mid-court feeds removes
+defining informational constraints. Representative
+serve and return practice should therefore include
+realistic serve speeds, directional uncertainty, and
+scoring consequences aligned with match objectives.
+Shot selection under constraint
+Shot selection emerges from interacting constraints
+including chair orientation, available time, opponent
+that regulate behaviour in the targeted scenario.
+For return training, this includes the server’s toss
+motion, racquet kinematics, ball trajectory, and early
+opponent movement following contact. For defensive
+scenarios, specifying information includes ball depth,
+angle,
+time-to-contact,
+second-bounce
+location,
+and available recovery lanes. Without preserving
+these cues, practice risks losing representativeness
+regardless of how physically demanding it appears.
+Third, constraints should be selected to preserve those
+informational variables. Opponent-based feeds are
+generally preferable because they maintain uncertainty
+and live decision-making. However, mechanical feeds
+can still be representative if variability in placement,
+tempo, and trajectory is preserved and scoring
+consequences are embedded. The critical issue is not
+the source of the feed, but whether the drill retains
+the cues that regulate competitive behaviour. Fourth,
+difficulty should be scaled without removing tactical
+meaning. Scaling must adjust how challenging it is
+to execute a good decision, not whether a decision
+is required. This may involve manipulating starting
+positions, narrowing target zones, altering bounce
+allowances, or adjusting court dimensions. Such
+injury risk, requiring integration with strength
+and conditioning principles. Organisational and
+multidisciplinary support can enhance outcomes
+and reduce injury prevalence (Roetert et al., 2024).
+Applied guidance emphasises conducting needs
+analyses, acknowledging chair setup as a performance
+constraint, prioritising posterior-chain balance to
+offset anterior loading from propulsion and stroke
+production,
+and
+addressing
+thermoregulation
+and hydration challenges (Mounter, 2026). Such
+integration ensures representative training is both
+transferable and sustainable.
+Proposal – Drills – Exercises
+Effective representative practice design in wheelchair
+tennis begins with clarifying the point-deciding
+performance problems and the interacting constraints
+that shape functional solutions in competition.
+Drill construction should therefore be grounded in
+the ecological demands of match play rather than
+isolated technical rehearsal. Match-play analyses,
+classification research, and applied strength and
+conditioning literature highlight five interconnected
+domains that must be preserved within training:
+mobility–stroke integration, tactical implications
+of the two-bounce rule, serve and return specificity,
+contextual shot selection, and fatigue-representative
+performance (Sindall et al., 2013; Reina et al., 2021;
+Williamson et al., 2024; Mayrhuber et al., 2022).
+Framework
+for
+Designing
+Representative
+Practice
+To support coaches in translating representative
+learning principles into practice, Figure 1 presents
+a six-step framework for designing representative
+wheelchair tennis practice. The framework provides
+a structured process that begins with identifying a
+match-relevant performance problem and progresses
+through the identification of key informational
+cues, constraint manipulation, scaling of challenge,
+feedback strategies, and evaluation of transfer. Each
+step is intended to guide coaches towards designing
+practice tasks that preserve the informational and
+tactical demands of competition while remaining
+appropriate for the athlete's stage of development.
+Effective
+representative
+drill
+design
+can
+be
+conceptualised as a six-step iterative process. First,
+practice design should begin with a clearly defined,
+match-relevant
+performance
+question.
+Rather
+than asking, “How do we improve the backhand?”,
+coaches should ask, “Can the player defend a wide
+ball and recover to protect the middle?” or “Can the
+player return serve deep under time pressure?” or
+“Can the player transition from defence to neutral
+using the second bounce?” These questions anchor
+practice in functional problems rather than isolated
+technical components. Second, coaches must identify
+the key informational cues and action possibilities
+Figure 1. Representative drill design framework.
+observable indicators. Coaches should monitor return
+depth percentage, recovery time to a reference position,
+forced errors created, rally outcome under constraints,
+and successful completion of intended patterns. Video
+analysis and simple notation can support this process.
+If drill performance improves without corresponding
+match improvement, informational constraints may
+be insufficient (Pinder et al., 2011). This framework
+provides the structural foundation upon which stagespecific recommendations can be layered.
+modifications preserve ecological validity while
+ensuring
+developmental
+appropriateness.
+Fifth,
+feedback should support exploration and perceptual
+attunement rather than over-prescribe kinematics.
+Outcome-oriented
+feedback—such
+as “Did
+you
+create time?”, “Did you protect the middle?”, or “Did
+your shot make the opponent hit up?”—reinforces
+functional decision rules. Excessive early focus on
+mechanical correction may narrow exploration and
+destabilise adaptive coordination (Davids et al., 2013).
+Finally, representativeness must be evaluated using
+Table 2. Stage-specific representative practice recommendations.
+Step
+Coach question
+Example
+Define performance problem
+What match problem?
+Wide defensive recovery
+Identify information
+What cues regulate behaviour?
+Ball trajectory
+Select constraints
+How preserve information?
+Live opponent
+Scale challenge
+How increase difficulty?
+Smaller targets
+Feedback
+What reinforces learning?
+Outcome-based
+Evaluate
+Has transfer occurred?
+Return depth %
+Beginner stage: exploration, confidence, and
+coupled coordination.
+Entry into wheelchair tennis is frequently nonlinear and often occurs following rehabilitation or
+significant life transition (Mounter, 2026). At this
+stage, performance variability reflects adaptation
+to impairment, chair-handling acquisition, and
+psychosocial adjustment rather than stable technical
+ceiling. Consequently, practice design must prioritise
+confidence, autonomy, and integrated coordination
+rather than early performance benchmarking. A
+central design principle at this stage is coupling chair
+movement and stroke production from the outset.
+Foundational drills should incorporate propel–brake–
+rotate–hit sequences even at low intensity.
+For example, in a half-court crosscourt lane drill,
+players may be required to execute at least one
+propulsion adjustment and controlled braking action
+before contact. Scoring can reward balls landing beyond
+the service line, with additional points awarded if the
+athlete returns to a designated “home base” position
+prior to the next feed. This embeds both directional
+intent and recovery awareness while preserving
+manageable load. The two-bounce rule should be
+legitimised early as a tactical affordance rather than
+framed as compensatory failure. A defensive reset game
+may involve variable feeds across full baseline width,
+where points are awarded for deep, high-trajectory
+balls that successfully regain time and positioning.
+Progressions may include transitioning from coachcontrolled feeds to live opponent exchanges, thereby
+increasing informational uncertainty. Small-sided
+games are particularly effective in this stage. Reduced
+court width lowers propulsion load while preserving
+decision-making. Short bouts (30–60 seconds) help
+manage upper-limb loading, consistent with injury
+prevention considerations highlighted by Mayrhuber
+et al. (2022). Strength and conditioning integration
+at this level should emphasise braking mechanics
+instruction and posterior chain activation, aligning
+with recommendations from Roetert et al. (2024).
+Importantly, traditional blocked drills that isolate
+technique without movement risk reproducing the
+theory–practice mismatch described by Mounter et al.
+(2025). Drills may appear structured yet fail to represent
+match demands. Ensuring that even beginner tasks
+embed decision-making and recovery requirements
+helps avoid this early fragmentation. Figure 2
+illustrates an example representative beginner drill,
+showing the court layout, movement path, recovery
+position, target zone and scoring constraints. The
+drill demonstrates how representative practice can be
+simplified while preserving the essential movement
+and decision-making demands of wheelchair tennis.
+Intermediate stage: Tactical pattern development
+and classification-aware progression
+Intermediate athletes typically increase competitive
+exposure and begin consolidating tactical identity.
+However,
+development
+remains
+influenced
+by
+impairment
+profile,
+classification,
+equipment
+configuration, and structural access (Mounter, 2026).
+Progression should therefore be contextual rather
+than benchmarked against able-bodied timelines.
+At this stage, constraint-gated pattern development
+Figure 2. Representative Beginner Drill.
+becomes central. For instance, in a depth-to-angle
+drill, a player may only be permitted to attack after a
+preceding ball lands beyond the service line.
+This “depth gate” preserves tactical logic by reinforcing
+construction before aggression. Bonus scoring may
+reward depth followed by angle or depth followed by
+playing behind the opponent, while attacking without
+prior depth receives no additional incentive. Such
+constraint manipulation invites functional pattern
+emergence rather than prescribing fixed sequences.
+Serve and return drills should increasingly mirror
+competitive tempo and consequence. In a returnunder-pressure task, the receiver may earn two points
+for a return landing beyond the service line, one point
+for a return in play but short, and zero for an error.
+The server may earn bonus points for winning within
+the first three shots. This structure reflects early-point
+importance documented by Williamson et al. (2024)
+and maintains tactical salience. Defence-to-offence
+transition drills can include conditional “licence to
+attack” constraints. For example, after successfully
+defending a wide ball and achieving depth, the next
+shot may be designated as an attacking opportunity.
+This approach preserves the adaptive flow of match
+play. Equipment literacy should also be progressively
+integrated. Chair configuration influences turning
+radius, stability, and propulsion efficiency (Roetert
+et al., 2024). Under controlled supervision, minor
+adjustments in camber or seat positioning may be
+explored to increase athlete awareness of affordances.
+Such
+experimentation
+reinforces
+the
+athlete–
+chair–environment system central to ecological
+dynamics. Psychosocially, autonomy and perceived
+competence
+remain
+important
+(Richardson
+et
+of pre-defined +1 patterns, while returners earn
+bonuses for denying those patterns with deep returns.
+Incorporating game scoring (0–15–30–40) enhances
+emotional representativeness. Micro-variability in
+spin, height, and pace should be embedded to prevent
+over-stabilisation of coordination solutions (Renshaw
+et al., 2019). Pressure simulations, such as break-point
+scenarios or time constraints, further align practice
+with
+competitive
+volatility.
+Load
+management
+remains critical. Propulsion intensity should be
+periodised,
+and
+posterior
+chain
+strengthening
+emphasised in accordance with Roetert et al. (2024).
+Representativeness does not require maximal volume;
+it requires alignment with performance demands
+while sustaining athlete health (Mayrhuber et al.,
+2022). At the elite stage, practice should closely
+replicate the perceptual, tactical and physical
+demands of competition. Figure 4 demonstrates
+how pressure, fatigue, opponent-specific scenarios
+and multiple tactical options can be integrated
+within a representative practice task while retaining
+measurable performance indicators for coaches.
+The progression of representative practice should not
+be viewed as a series of unrelated drills, but as the
+systematic manipulation of constraints to match the
+athlete's stage of development. Rather than changing
+the fundamental performance objective, coaches
+can progressively increase representative challenge
+by modifying court space, target size, opponent
+involvement, decision-making requirements, scoring
+constraints, pressure and fatigue demands. Figure
+al., 2010). Incorporating athlete-led reflection on
+cues noticed and options perceived strengthens
+perceptual attunement and ownership. As athletes
+develop, representative practice should progressively
+increase tactical complexity rather than simply
+increase repetition. Figure 3 provides an example of
+an intermediate drill in which opponent behaviour,
+multiple target options and constraint-based scoring
+encourage decision-making and adaptable tactical
+responses.
+Elite
+stage:
+Tactical
+specificity,
+fatigue
+representation, and adaptability.
+At
+elite
+levels,
+marginal
+gains
+differentiate
+outcomes, yet environments may revert to volumeheavy repetition, exemplifying the theory–practice
+mismatch identified by Mounter et al. (2025).
+Given the inseparability of mobility and striking
+in wheelchair tennis, fragmentation at this level is
+particularly costly. Elite practice should incorporate
+opponent-specific constraints derived from scouting
+analysis. Serve direction bias, preferred rally shapes,
+and movement strengths can inform drill design. For
+example, a fatigue-rally-to-return drill may involve
+a 45-second high-intensity rally block followed
+immediately by a live return scenario, with return depth
+percentage, forced errors, and recovery time recorded.
+Such tasks simulate late-set decision-making under
+physiological load. Serve +1 and +2 drills should occur
+under live resistance rather than isolated serving.
+Bonus scoring may reward successful execution
+Figure 3.  Representative Intermediate Drill.
+Figure 4.  Representative Elite Drill.
+Figure 5. Different demands of the same drill.
+and successful completion of intended tactical
+patterns. Where drill performance improves without
+corresponding
+match
+transfer,
+informational
+constraints may be insufficient (Pinder et al., 2011).
+Systematic session auditing can support alignment
+between theory and practice. Coaches should assess
+whether opponent interaction, scoring consequence,
+recovery requirements, classification-aware scaling,
+and fatigue representation are embedded within each
+training week. This structured evaluation approach
+directly addresses the theory–practice mismatch
+identified by Mounter et al. (2025) by ensuring that
+ecological principles are operationalised through task
+design rather than merely endorsed conceptually.
+5 illustrates how the same representative practice
+task can evolve across beginner, intermediate and
+elite stages while maintaining the perception–action
+couplings and informational constraints that underpin
+transfer to competitive performance.
+Monitoring transfer and addressing the theorypractice mismatch
+Representative practice must be evaluated through
+observable transfer indicators rather than aesthetic
+similarity to match play. Coaches should monitor
+metrics such as return depth percentage, recovery
+time to a reference position, forced error rate,
+Table 3. Stage-specific representative practice characteristics.
+Feature
+Beginner
+Intermediate
+Elite
+Main objective
+Movement confidence
+Tactical consistency
+Match performance
+Representative challenge
+Couple movement and
+stroke
+Link tactical patterns
+Opponent-specific
+scenarios
+Court size
+Half court
+Three-quarter court
+Full court
+Target zones
+Large
+Medium
+Small
+Decision-making
+Single option
+Multiple options
+Open decision-making
+Opponent
+Coach feed
+Live rally
+Match simulation
+Two-bounce use
+Encouraged
+Tactical choice
+Tactical weapon
+Scoring
+Simple success count
+Constraint-based scoring
+Match scoring
+Recovery position
+Fixed home base
+Variable recovery
+Situation dependent
+Progression
+Increase movement
+Increase uncertainty
+Increase pressure
+Coach feedback
+Confidence and
+movement
+Tactical understanding
+Performance optimisation
+Pressure
+None
+Moderate
+High
+Table 4. Linking coaching objectives, representative constraints, and evaluation metrics.
+Coaching objective
+Representative
+constraint
+manipulation
+Evaluation indicator
+Example success
+criterion
+Improve mobility–stroke
+integration
+Require at least one
+propulsion adjustment
+before each shot
+Recovery position
+achieved before next feed
+≥80% successful
+recoveries
+Improve tactical use of
+the second bounce
+Award bonus points for
+effective second-bounce
+defence
+Rally continuation
+≥70% successful
+defensive resets
+Improve serve return
+Variable serve placement
+and speed
+Return depth
+≥70% beyond service line
+Improve shot selection
+Multiple target zones
+with tactical scoring
+Appropriate decisionmaking
+≥80% correct tactical
+choice
+Improve performance
+under fatigue
+High-intensity rally block
+before point play
+Shot accuracy and
+movement quality
+<10% reduction compared
+with baseline
+2011). Scalable scoring systems preserve inclusivity
+while maintaining tactical relevance. To facilitate
+implementation
+in
+applied
+coaching
+settings,
+Table 5 provides a practical checklist that coaches
+can use when designing, adapting and evaluating
+representative wheelchair tennis practice tasks. The
+checklist is intended as a quick-reference tool to
+complement the six-step representative drill design
+framework.
+Load management and classification awareness
+Upper-limb overuse risk necessitates periodised
+propulsion intensity (Mayrhuber et al., 2022). Courtsize modification and rest interval structuring
+can scale load while preserving decision-making.
+Classification awareness remains essential. Athletes
+with reduced trunk control may require modified
+recovery expectations (Tweedy & Vanlandewijck,
+Table 5. Representative Drill Design Checklist for Coaches.
+Checklist item
+✓
+Performance Objective
+Is the drill designed to address a clearly defined match-related performance problem?
+☐
+Is the objective focused on improving performance rather than isolated technique?
+☐
+Representative Information
+Does the drill preserve the key informational cues present during competition (e.g.,
+opponent, ball trajectory, space, time)?
+☐
+Does the athlete need to perceive and respond to changing information rather than
+execute predetermined movements?
+☐
+Constraint Design
+Have task, environmental, and/or individual constraints been manipulated to shape
+learning?
+☐
+Do the constraints encourage functional movement solutions rather than prescribe a
+single technique?
+☐
+Wheelchair Tennis Specificity
+Does the drill integrate wheelchair propulsion and stroke production?
+☐
+Does the drill incorporate realistic recovery movements?
+☐
+Is the two-bounce rule represented where appropriate?
+☐
+Does the drill include serve and return situations where relevant?
+☐
+Representative Challenge
+Does the drill require tactical decision-making?
+☐
+Are movement paths and court positioning representative of match play?
+☐
+Are scoring systems or performance consequences included to encourage tactical
+behaviours?
+☐
+Can the challenge be progressed or regressed while maintaining representativeness?
+☐
+Feedback and Evaluation
+Is feedback focused on decision-making and performance outcomes rather than only
+technique?
+☐
+Can success be evaluated using observable performance indicators (e.g., recovery
+time, target accuracy, decision quality, rally outcome)?
+☐
+Is there evidence that improvements transfer into competitive performance?
+☐
+sport. Talent Development & Excellence, 5(1), 21–34.
+Dehghansai, N., Lemez, S., Wattie, N., & Baker, J. (2017).
+A systematic review of influences on the development
+of athletes with disabilities. Adapted Physical Activity
+Quarterly, 34(1), 72–90. DOI: https://doi.org/10.1123/
+apaq.2016-0030
+Fliess-Douer, O., Vanlandewijck, Y. C., & Van der Woude, L.
+H. V. (2012). Most essential wheeled mobility skills for
+daily life: An international survey among Paralympic
+wheelchair athletes with spinal cord injury. Archives of
+Physical Medicine and Rehabilitation, 93(4), 629–635.
+DOI: https://doi.org/10.1016/j.apmr.2011.11.017
+Martin, J. J. (2017). Handbook of disability sport and exercise
+psychology. Oxford University Press.
+Mayrhuber, L., Rietveld, T., de Vrie L. H. V., de Groot, S., &
+Vegter, R. J. K. (2022). Shoulder injuries of wheelchair
+tennis players: Potential risk factors and musculoskeletal
+adaptations. Frontiers in Rehabilitation Sciences, 3,
+862233. DOI: https://doi.org/10.3389/fresc.2022.862233
+Mounter, R. (2026). Rethinking talent pathways in wheelchair
+tennis: Inclusive and evidence-informed development
+models. In press this issue.
+Mounter, T., Collins, D., & Nash, C. (2025). Practice regimes
+in squash – A mismatch between theory and practice.
+Journal of Physical Education and Sports Management,
+11, Article 4. DOI: https://doi.org/10.15640/jpesm.v11a3
+Papathomas, A., Williams, T. L., & Smith, B. (2015).
+Understanding physical activity participation in spinal
+cord injury: A qualitative study. Sport, Exercise, and
+Performance Psychology, 4(3), 190–205.
+Pinder, R. A., Davids, K., Renshaw, I., & Araújo, D. (2011).
+Representative learning design and functionality of
+research and practice in sport. Journal of Sport and
+Exercise Psychology, 33(1), 146–155. DOI: https://doi.
+org/10.1123/jsep.33.1.146
+Reina, R., Sánchez-Pay, A., & Sanz-Rivas, D. (2021).
+Wheelchair tennis: From health to competitive analysis.
+Journal of Human Sport and Exercise. DOI: https://doi.
+org/10.14198/jhse.2021.162.05
+Renshaw, I., Davids, K., Newcombe, D., & Roberts, W. (2019).
+The constraints-led approach: Principles for sports
+coaching and practice design. Routledge.
+Richardson, E. V., Smith, B., & Papathomas, A. (2010).
+Disability sport and exercise psychology: A critical
+review. Psychology of Sport and Exercise, 11(6), 1–10.
+Roetert, E. P., Allen, J., Davies, K., Harnett, J., & Ochi, S.
+(2024). Training wheelchair tennis players: A strength
+and conditioning approach. Strength & Conditioning
+Journal, 46(2), 117–124. DOI: https://doi.org/10.1519/
+SSC.0000000000000797
+Sindall, P., Lenton, J., Whytock, K., & Goosey-Tolfrey, V. L.
+(2013). Wheelchair tennis match-play demands: Effect
+of player rank and result. International Journal of Sports
+Physiology and Performance, 8(1), 28–37. DOI: https://
+doi.org/10.1123/ijspp.8.1.28
+Sindall, P., Tolfrey, K., & Goosey-Tolfrey, V. L. (2021).
+Practice improves court mobility and self-efficacy in
+tennis-specific wheelchair propulsion. Disability and
+Rehabilitation.
+Conclusions
+Representative wheelchair tennis practice design
+requires preservation of the informational cues,
+mobility–stroke
+couplings,
+temporal
+pressures,
+and tactical affordances that define competition.
+Ecological dynamics, representative learning design,
+and the constraints-led approach provide a coherent
+theoretical foundation for aligning daily practice with
+performance demands. Stage-specific implementation
+is essential. Beginners require exploratory yet coupled
+tasks that legitimise second-bounce solutions and
+build confidence. Intermediate athletes benefit from
+constraint-gated pattern development and integrated
+conditioning. Elite athletes require opponent-specific,
+fatigue-representative, pressure-informed practice
+while maintaining sustainable load management.
+By embedding representativeness within inclusive,
+classification-aware
+pathways
+and
+integrating
+strength and conditioning considerations, coaches
+can enhance adaptability, transfer, and long-term
+athlete development. Bridging theory and practice
+in this manner supports not only performance
+enhancement but sustainable engagement across the
+athlete lifespan.
+Conflict of Interest
+The author declares that she has no conflicts of
+interest.
+Funding
+The study received no external funding.

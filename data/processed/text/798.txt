@@ -1,0 +1,684 @@
+Title: How to educate Coaches to work in Para Tennis
+Authors: Niklas Höfken, Vera Tillmann, Elisa Weber, Thomas Abel
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 798
+
+Introduction
+A dedicated tennis coach can be the linchpin of
+club life, maintaining contact both with the active
+members they coach and, in the other direction, with
+the club's executive board and external bodies such
+as the regional and national tennis association. Given
+that the quality and variety of a coach's programmes
+considerably influence the club's public image and the
+broader development of the sport, continuing education
+for this group is crucial (Cushion et al., 2003; Gilbert
+et al., 2006; Werthner & Trudel, 2006) – presumably
+even more so for niche topics such as the structural
+promotion of inclusion in sport and the participation
+and performance of Para Tennis players.
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 121-127
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.798
+Evaluating para tennis coach education in germany:
+Effects on coach confidence and programme
+implementation
+Niklas Höfken1 & Vera Tillmann2 & Elisa Weber2 & Thomas Abel1
+1 Institute of Movement and Neuroscience, German Sports University Cologne, Germany.
+2 Research Institute for Inclusion through Physical Activity and Sports, affiliate institute German Sports
+University Cologne, Germany.
+Abstract
+Coaches play one of the most important roles in sport and act as catalysts for new initiatives and the
+development of new programmes. To enable them to work with athletes with disabilities, the German
+Tennis Federation and the ‘Tennis for All’-Project of Gold-Kraemer-Foundation designed a coaches
+education module for licensed tennis coaches, comprising 15 teaching units on the topics of inclusion,
+managing diversity and specific rules, equipment and methodology. All five Para Tennis disciplines are
+covered – Wheelchair Tennis, Blind and Visually Impaired Tennis, Para Standing Tennis, Deaf Tennis
+and Learning Disability Tennis. The research project focused on two questions: How do participants
+rate the general format and content of the course? Do participants feel that the course has given them
+long-term ability to offer inclusive or disability-specific tennis training? Four of these courses, with a
+total number of 56 participants, have been surveyed with two questionnaires; a first measurement took
+place directly at the end of the course and a second one half a year later. The research findings indicate
+a high level of satisfaction with the combination of theoretical background knowledge with practical
+hands-on units and self-experience, such as using sports wheelchairs or Blind Tennis balls. Over 90%
+of the participants self-report to feel able, following the course, to organise tennis training for players
+with disabilities. Eight out of 56 coaches launched Para Tennis training programmes at their clubs within
+the first six month after taking part.
+Key words: Coaches Education; Inclusion; Para Tennis; Tennis Coaching.
+Received: 17 July  2026. Accepted: 10 August 2026.
+Corresponding author: niklas.hoefken@gold-kraemer-stiftung.de
+A scoping review (Shaikh et al., 2021) underscores the
+value of specific, parasport-related further training
+programmes for both already active and prospective
+coaches. Townsend, Huntley, Cushion and Culver
+(2021) similarly argue that, in order to ensure that
+para-athletes have access to sport and high-quality
+sporting experiences, there is a need – and an ongoing
+challenge in sports politics – to design and implement
+the optimal structure for coach education, given that
+such programmes are under-represented. Additionally,
+these courses are largely not accompanied by scientific
+research. This project is as a structured evaluation of
+a specific continuing education module for tennis
+coaches on teaching the Para Tennis disciplines and
+thus represents an effort to address this general
+research gap through a controlled efficacy study.
+aged from 20 to 66 years. Fifteen of them work full time
+in independent tennis schools or academies, nine are
+employed as coaches by their clubs, 23 work part-time
+or as volunteers in Clubs and nine weren’t working at
+that time as a tennis coach.
+Two questionnaires, measurement M1 and M2, were
+developed. M1 consists of a total of 16 close-ended
+and two open-ended questions, initially to collect
+demographic information and background data on
+previous experience, subsequent to assess the course,
+using a 6-point scale ranging from ‘I fully agree’ to
+‘I don’t agree at all’ as well as ‘I don’t know’ and ‘No
+answer’.  This design of the Likert scale was chosen to
+avoid regression to the mean and to show more clearly
+the direction in which respondents tend to lean (Chang,
+1994). The questionnaire for M2 consists of a total
+of nine close-ended and two open-ended questions.
+Questions one to four relate to experiences since the
+training course and can be answered with the options
+‘yes’ or ‘no’, ‘I don’t know’ or ‘No answer’. Furthermore,
+participants can elaborate on their experiences in
+relation to the individual questions. Questions five to
+nine deal with the effects of the coach education, with
+the same 6-point response scale as in M1. Finally, there
+are two open-ended questions designed to identify
+wishes regarding the course and the implementation of
+set objectives. Both questionnaires were pre-tested and
+further refined based on feedback from experts. The
+form for M1 was handed out to the participants printed
+and completed directly after the course, using the
+paper-and-pencil-method (Lucia et al., 2007). Everyone
+was required to sign a consent form and generate
+a personalised code so that both M1 and M2 could
+be compared at the end and a progression of results
+could be presented in a targeted manner. Six months
+after each course, M2 was conducted via a sent link to
+the accessible questionnaire tool ‘Unipark’ by E-Mail,
+with a reminder after two weeks (Caspers, 2011). M1
+was manually entered, M2 could be exported into
+SPSS. Closed questions were analysed quantitatively
+by carrying out a statistical analysis. The open-ended
+questions were analysed qualitatively. Categories were
+developed for this purpose so the responses could be
+grouped, and main categories be defined based on
+the frequency of mentions. All open-ended questions
+regarding wishes and goals were analysed using both
+qualitative content analysis and quantitative methods
+(Mayring, 2015; 2016).
+Various statistical methods were applied to survey
+the quantitative results. The statements assessing
+the course to be evaluated scalarly in M1 (e.g. ‘The
+selection of content was thematically appropriate’)
+and M2 (e.g. ‘The coaches education prepared me for
+my role as a Coach in inclusive tennis’) were analysed
+using descriptive statistics, also the median, minimum,
+maximum and standard deviation were calculated.
+In addition, a Mann-Whitney-U-Test was carried
+out to determine whether central tendencies of two
+independent samples differed. In this case, full-time
+The German Tennis Federation (DTB) operates a threetier licensing system (C, B, and A), under which coaches
+renew their licence by completing further qualification
+modules of their choosing (DTB, 2022). Against this
+background, the course "Putting Inclusion into Tennis
+Practice" was developed: a weekend programme
+comprising 15 units of 45 minutes each, covering the
+following key topics:
+•	 Sociological foundations of inclusion and a
+contemporary understanding of disability, situated
+within global political, societal, educational, and
+sport-specific developments, including the tennis
+landscape specifically
+•	 Facts and figures on people with disabilities as a
+target group and their participation in organised
+sport
+•	 Structural
+characteristics
+of
+parasport:
+the
+Paralympic movement, classification, national
+and international tour formats
+•	 Types of disability and the corresponding Para
+Tennis disciplines
+	▪Physical impairments: Wheelchair Tennis &
+Para Standing Tennis
+	▪Sensory impairments: Blind and Visually
+Impaired Tennis & Deaf Tennis
+	▪Intellectual Disability
+•	 Methodological
+approaches
+to
+managing
+heterogeneity and designing inclusive tennis
+games and drills for all abilities and skill levels
+•	 Exemplary series of methodological drills across
+all Para Tennis disciplines, an introduction
+to specific equipment and hands-on practical
+experience, for example with sports wheelchairs
+and rattling Blind Tennis balls
+•	 Approaches to the target group and strategies for
+implementing inclusion in club life; funding and
+organising an inclusive try-out day
+This content is organised into theoretical and practical
+units designed to overcome unfounded reservations
+about parasport, build confidence in planning training
+sessions, and, in the long term, expand the range
+of training opportunities available in Para Tennis
+disciplines nationwide. With its structured approach,
+the course represents a novel conceptual offering
+in Germany, as does its accompanying scientific
+evaluation; following the resulting findings and
+subsequent refinements, it is now offered approximately
+twice a year across different regions of the country.
+Methods and procedures:
+The research project was approved by the ethics
+committee of the German Sports University Cologne. A
+total of 56 coaches attended the 4 surveyed courses and
+completed the questionnaires, 38 male and 18 female,
+Results
+A total of 56 people (m=38; f=18) aged between 20 and
+66 (M=41.96; SD=13.74) completed the questionnaire
+on M1, 17 participants from the first measurement
+completed M2 after half a year. To provide a descriptive
+overview of the responses regarding the training
+programme evaluation at M1 and 2, all variables relating
+to the training programme evaluation are presented in
+tables, showing the frequency of agreement with the
+statements. Furthermore, the median and standard
+deviation were calculated for the 12 assessment
+variables at M1 and the 5 assessment variables at M2.
+As the variables are Likert scales and therefore ordinal
+scales, the median is calculated as the mean.
+The analysis results of M1 with descriptive statistics
+are shown in Table 1.
+employment or part-time coaching were compared as
+well as an investigation of an influence of the type of
+coaching licence. Also, a correlation was calculated
+using Phi/Cramers V. This is intended to show whether
+there are correlations between the statements ‘The
+course prepared me for the tasks of a coach in inclusive
+tennis’ in M1 and ‘Did you continue to engage with the
+theoretical aspects of Para Tennis training after the
+course?’ as well as the statement ‘Have you continued
+to engage with the topic in your coaching practice
+following the course?’ in M2. Finally, a WilcoxonTest was carried out to examine whether there were
+any differences in the responses to the statement
+‘The coaches education prepared me for my role as
+a coach in inclusive tennis’ between M1 and M2. To
+this end, the statement ‘Thanks to the course, I feel
+capable of working with specialised equipment such
+as sports wheelchairs and Blind Tennis balls’ was also
+examined for differences between the first and second
+measurement 6 month later, using the Wilcoxon-Test.
+Table 1. Evaluation of M1 with median and standard deviation (1=fully agree; 6=not agree at all), means the
+lower the median, the greater the overall level of agreement.
+I fully
+agree
+I
+agree
+I tend
+to agree
+I tend not
+to agree
+I don’t
+agree
+I don’t
+agree at all
+Median
+Standard
+Deviation
+The content selection was
+thematically appropriate.
+1.0
+0.73
+I found the tie frame to be
+appropriate.
+1.0
+0.89
+The amount of theoretical
+content was appropriate.
+1.0
+0.83
+The amount of practical content
+was appropriate.
+1.5
+0.88
+The course prepared me for my
+role as a coach in inclusive and/or
+Para Tennis.
+2.0
+0.92
+Thanks to the course, I feel
+confident working with special
+equipment such as sports
+wheelchairs or Blind Tennis balls
+2.0
+0.99
+Thanks to the course, I feel
+confident working in designing
+training programmes for athletes
+with disabilities.
+2.0
+0.97
+Thanks to the course, I feel able
+the promote inclusive practices
+within my club or tennis school.
+2.0
+0.74
+Thanks to the course, I can reach
+out to new target groups for my
+tennis lessons or club.
+2.0
+0.73
+The content of the course also has
+a positive impact on my overall
+professionalism as a coach.
+1.0
+0.87
+The course met my expectations.
+1.0
+0.79
+Overall, I enjoyed the course.
+1.0
+0.75
+Table 2. Evaluation of M2 with median and standard deviation (1=fully agree; 6=not agree at all), means the
+lower the median, the greater the overall level of agreement
+I fully
+agree
+I
+agree
+I tend
+to agree
+I tend not
+to agree
+I don’t
+agree
+I don’t
+agree at all
+Median
+Standard
+Deviation
+The course prepared me for my
+role as a coach in inclusive and/or
+Para Tennis.
+2.0
+0.97
+The course enabled me to work
+with special equipment such as
+sports wheelchairs and tennis
+balls for the blind.
+2.0
+1.05
+The course enabled me to design
+training programmes for athletes
+with disabilities.
+2.0
+0.95
+Thanks to the training, I
+encouraged inclusive practices
+within my club or tennis school.
+3.0
+1.68
+The content of the course also has
+a positive impact on my overall
+professionalism as a coach.
+2.0
+1.28
+The results of M2 (17 participants), carried out six
+months later, are illustrated in Table 2.
+As the participants held different licences, the
+Mann-Whitney U test was used to examine whether
+the responses to the training course evaluation (12
+questions) differed between licence holders A and
+B and those with licence C. The distribution of the
+licence groups showed no significant differences in M1
+when compared across all 12 questions. Similarly, the
+results of M2, when comparing the licence types across
+the respective five questions assessing the training
+course, showed no differences. However, there was a
+trend towards significance (p = .059) for the statement
+in M2 ‘The course prepared me for my role as a coach
+in inclusive and/or Para Tennis’ as holders of a higher
+licence agree more with the statement (MRank = 6.00)
+than holders of a lower licence (MRank = 10.00).
+To examine correlations between the question one to
+four ‘The course prepared me for my role as a coach in
+inclusive and/or Para Tennis.’ (M1) and the question
+‘Have you continued to engage with the topic in
+your coaching practice following the course?’ (M2),
+a correlation was calculated using Phi/Cramers’ V.
+The results of the calculation are not significant (p =
+0.38), meaning that there is no statistical correlation
+at this point. In addition, the correlations between the
+questions ‘The course prepared me for my role as a
+coach in inclusive and/or Para Tennis.’  (M1) and ‘Have
+you continued to engage with the theoretical aspects
+of the course in your coaching practice following the
+course?’ (M2) were also examined by calculating the
+correlation using Phi/Cramér’s V and is likewise not
+significant (p = .227). Following the same principle,
+the two questions from the second measurement
+point, ‘Have you continued to engage with the topic
+in your coaching practice following the course?’ and
+‘Have you continued to explore the theoretical aspects
+of the training in more depth following the course?’,
+were also analysed. The correlation calculation using
+Phi/Cramér’s V was not significant (p = .302) as well.
+At the first and second measurement points,
+participants in the course were asked to rate the extent
+to which they agreed with the statement: ‘The course
+prepared me for my role as a coach in inclusive or Para
+Tennis training’. The ratings of 14 participants could be
+compared with one another. A comparison of the ranks
+shows that there are five positive ranks, seven negative
+ranks and two ties. Consequently, in five cases, the
+assessment of the statement was better at the second
+measurement point than at the first, and in seven cases
+it was worse. In two cases, the assessment remained
+the same. The Wilcoxon test was used to examine
+whether the assessments of the statement differed
+significantly between the two measurement points.
+The p-value of p = .614 indicates that the assessment
+of this statement does not differ significantly between
+the two measurement points. Another statement on
+which the participants were asked to comment at
+both measurement points is: ‘Thanks to the course,
+I feel able to work with special equipment such as
+sports wheelchairs and Blind Tennis balls.’ To test
+whether there were differences in the assessment of
+this statement between the measurement points, the
+Wilcoxon test was carried out again. The sample size
+was N=14. Seven participants rated the statement
+the same at both measurement points; four rated it
+more favourably at the first measurement point; and
+three rated the course more favourably at the second
+measurement point. The Wilcoxon test confirms that
+there is no significant difference between the two
+measurement points (p=0.263).
+In addition, participants had the opportunity to
+formulate specific further requests via an openended questionnaire, which approximately half
+of the participants took advantage of. These were
+categorised, enabling five main categories to be
+defined for both measurement times:
+•	 Content
+•	 Support
+•	 Implementation
+•	 Organisation
+•	 Framework conditions
+At the end of course M1, 14 people expressed a desire
+for an even greater proportion of practical work
+within the ‘Content’ category, whilst five people
+requested more specific practical content relating
+to club accessibility or learning disability tennis.
+Related to this, there were calls for even more
+training demonstrations and a wider range of detailed
+presentations on specific training drills. Six months
+later, at M2, the most frequent request was for more
+practical work. In addition, participants called for
+more information on training programme design,
+guidance on entering competitions, and the possibility
+of an integration of disabled athletes directly during
+the course, additionally to the self-experience.
+The ‘Support’ category, based on M1, covers assistance
+with community integration, support from clubs and
+federations, and the desire for financial support for
+participation in further courses. At M2, there was a
+renewed call for financial support through grants, as
+well as for materials and campaigns from the regional
+tennis associations.
+On the topic of implementation, in M1 participants
+also asked whether it would be possible to implement
+practical trials with the target group as part of the
+education. At M2, requests were made for workshadowing
+opportunities
+with
+the
+instructor,
+further practical trials in small groups and ongoing
+preparation for an implementation within a club.
+Regarding organisation, the participation of people
+with disabilities was highlighted during M1. It was
+also called for more regular coaches education on
+the topic of inclusion during the standard licensing
+system in Germany, easier access to materials and
+greater networking between Para Tennis coaches. Six
+months later (M2), participants expressed a desire for
+digital access to the theoretical sections. In addition,
+they requested more materials for follow-up work,
+more regular updates and a more intensive learning
+experience.
+Under the final main heading ‘Framework conditions’
+for M1, comments were made regarding a longer
+duration and the organisation of breaks. At M2, the
+desire for a longer duration remained. Regarding
+the question of objectives following the course,
+the responses (from 54 people) were again divided
+into various main categories. The ‘practical/active
+implementation’ category includes the following
+objectives: (further) implementing inclusion within
+the club, encouraging people with disabilities to take
+up tennis, gaining practical experience, considering
+the implementation of a tennis training for players
+with disabilities, taking on a part-time role as a tennis
+coach, concrete offering Wheelchair Tennis at the
+club, and coaching school classes with pupils with
+and without disabilities together. Further objectives,
+summarised under the heading ‘organisation’ include
+raising awareness of inclusion within the club,
+expanding networks, and engaging the club executives
+with the issue and raising their awareness. Another
+objective is to publicise inclusive programmes, identify
+and remove barriers, and reach out to special needs
+schools.  In addition, objectives relating to events were
+set, e.g. ‘come and try’ days. Finally, personal goals of
+the participants were also discussed. The aim is to
+gain practical experience to contribute personally to
+sport for people with disabilities, to undertake further
+trainings, and to acquire training equipment.
+At M2, eight people reported, in response to the
+question about the objectives implemented, that
+they had implemented them. This related to a tennis
+training session that had taken place, an inclusive
+try out day, introducing Para Tennis groups within
+the club, planning Para Tennis training sessions,
+and improving accessibility at the club. Four people
+reported that they had not yet been able to implement
+anything due to a lack of support from the club or the
+regional association.
+Finally, the questionnaire for M2 was expanded to
+include an open-ended question on the need for
+further information material. The following requests
+were made:
+•	 Coaching resources detailing training design,
+exercises, more examples and suggestions
+•	 Practical instructional video-tutorial or more
+written online material, separated by specific
+Para Tennis disciplines or medical conditions of
+participants
+In summary, the quantitative and qualitative analysis
+yields the following results:
+•	 Overall, the ‘Putting Inclusion into Tennis
+practice’ coaches education module was very
+well received by participants in terms of both
+the choice of content and the structure of the
+theoretical and practical components
+•	 Over 96% of participants agree with the statement,
+‘Overall, I enjoyed the course’
+•	 Over 92% feel able, following the course, to
+organise basic tennis training for athletes with
+disabilities; over 98% feel able to implement
+inclusive processes within their club
+•	 In 68 out of 73 questionnaires received,
+participants agreed with the statement: “The
+content of the training has also had a positive
+effect on my overall professionalism as a coach.”
+•	 17 out of 56 participants also completed the
+questionnaire six months after the course. Half of
+them had initiated inclusive training programmes
+by that point
+•	 The participating coaches would like to see more
+training and further education opportunities, as
+well as a wide range of information materials on
+the topic of coaching athletes with disabilities
+Discussion
+As the participants were given a questionnaire
+to complete using the paper-and-pencil method
+immediately after the course, and were given
+sufficient time to answer it, a complete data collection
+was recorded in M1. For M2, participants were
+contacted by E-Mail after six months and sent a link
+to the questionnaire. Despite a reminder E-Mail, the
+response rate was low and the sample size small.
+A study by Kordts-Freudinger and Geithner (2011)
+shows that an online survey reaches fewer evaluation
+participants than a direct paper-based survey.
+The findings relating to the main research question
+“How do participants rate the format and content of
+the training course?” show high levels of satisfaction,
+as the majority of responses to the questionnaire
+were ‘fully agree’ and ‘agree’. Regarding the wishes
+expressed, there is a desire for even more practical
+content. In particular, the feedback from M2 indicated
+a need for even more case studies and specific
+information on training design. It can be assumed
+that, whilst attempting to put what they had learnt
+into practice afterwards, the participants realised
+uncertainties in some areas. This is consistent with
+findings that coaches mainly learn most effectively
+through practical doing and hands-on self-experience
+(Cushion, 2003), as well as through peer support and
+mentoring (Gilbert et al., 2006).
+The question was also raised, if it would be possible
+to work with the target group, tennis players with
+disabilities, during the course itself, e.g. to conduct a
+specific Wheelchair Tennis training session with active
+players, which also refers to the approach of educating
+coaches directly in their practice environment. As
+the module puts a focus on self-experiencing the
+equipment, it does include practical experience using
+sports wheelchairs or wearing blindfolds as part of its
+practical content. Inviting athletes with disabilities
+facilitates such encounters, though at the expense of
+greater preparatory complexity and potentially higher
+costs.
+The participants goals following the course mainly
+related to a desire to bring change within their own
+clubs, to address the issue of inclusion there, and to
+apply the knowledge they had newly acquired. Eight
+people (half of the participants in M2) implemented
+that goal within six months. Some other participants
+were keen to develop inclusion but received no support
+from clubs. In such cases, it may be helpful if concrete
+support for the clubs is made available at the level of
+the regional associations. This would ensure that a
+club is not left to face major changes on its own and
+receive support, which can further encourage those
+who are often volunteers.
+The low rate of direct implementation in the first
+half of the year may be due to the sheer number and
+complexity of the tasks faced by a club coach. As a
+coach, setting up completely new programmes and
+establishing contact with new target groups takes
+(unpaid) time and effort. Another hypothesis for the
+low response rate to M2 could reflect a certain sense of
+embarrassment among participants about admitting
+– to themselves and to the researchers through the
+evaluation – that they had not yet put the course
+content into practice during the first six months.
+Consequently, they avoided this by not participating
+in M2. Hypothetically, therefore, it takes more than
+half a year or more than just one course or even
+more external support mechanisms to implement
+new topics into practical settings. This aligns with
+the desire for ongoing engagement with the material
+and exchange within experts and a coaches’ network,
+even if it is only continued in digital form. A further
+structured follow-up with all participants one or two
+years after the course could prove worthwhile. A
+larger longitudinal sample would generally increase
+the validity of the results, so it is recommended that
+additional courses will be evaluated. To avoid relying
+only on self-reported measures of competence and
+implementation, complementary methods such as
+interviews with participants and experts should be
+considered. Quantitative indicators – such as the
+number of participating athletes with disabilities or
+the number of Para Tennis lessons in the clubs – could
+provide an additional measure of effectiveness.
+Copyright © The Author(s) 2026
+This text is under a Attribution 4.0 International (CC BY 4.0).
+You are free to Share - copy and redistribute the material in any medium
+or format – and Adapt the content - remix, transform, and build upon the
+material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license,
+and indicate if changes were made. You may do so in any reasonable manner,
+but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms.
+RECOMMENDED WORLD TENNIS ACADEMY CONTENT (CLICK BELOW)
+As the way coaches learn can sometimes be kind of
+idiosyncratic (Werthner & Trudel 2006), this research
+highlights the importance of a well-structured
+education programme and high-quality learning
+materials, as well as a delivery by a skilled instructor.
+The fact that the coaches are becoming aware of their
+important role and signed up for the course on their
+own initiative should already be seen as a positive first
+step towards more inclusion.
+Conclusion
+The coach education module "Putting Inclusion into
+Tennis Practice" developed jointly by the German
+Tennis Federation (DTB) and the Gold-KraemerFoundation's "Tennis for All" project, was very
+positively received by participants across all licence
+levels, both in content and delivery. Particularly
+well received were the balance between theory and
+practice and the training in Para Tennis specific
+methodology and equipment, although participants
+expressed a desire for further practical examples and
+direct try-outs with para-athletes during the course.
+Participants subsequently feel confident to reach out
+to new target groups, design training for players with
+disabilities, and promote inclusive practices within
+their clubs. There was also widespread agreement
+that the module enhances participants' overall
+professionalism as tennis coaches more broadly.
+Participants further expressed interest in additional
+qualification
+opportunities,
+including
+follow-up
+courses, work-shadowing with experienced colleagues,
+and illustrative materials to support their ongoing
+professional development. The scientific evaluation
+of the format contributes to its professionalisation
+and may support an increase in the number of such
+courses offered – a development that could positively
+affect reducing barriers in tennis. Designed to prepare
+licensed coaches to work with athletes across all five
+Para Tennis disciplines, this novel module addresses
+an important area of coach development under the
+responsibility of the national association. The high
+levels of participant satisfaction and increased selfreported confidence reported here suggest a promising
+foundation for strengthening this field in Germany
+over the long term.
+The concept of this module could be implemented
+in other countries and tennis associations with
+minimal effort. It also seems worthwhile to adapt this
+approach and the research findings to other sports.
+Ultimately, coaches' confidence in parasport-specific
+methodology
+and
+equipment,
+fostered
+through
+structured education, is essential for promoting the
+participation of people with disabilities in sport and
+in society alike.

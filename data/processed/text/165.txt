@@ -1,0 +1,333 @@
+Title: Different types of variability in tennis practice
+Authors: Michael Davis Higuera
+Year: 2018
+Issue: Vol. 26 No. 76 (2018)
+Article id: 165
+
+www.itfcoachingreview.com
+Dec. 2018. 26th Year. Issue 76. 40-44
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i76.165
+
+Different types of variability in tennis
+practice
+Michael Davis-Higuera
+
+ABSTRACT
+
+Variability is a term that is gaining traction in the tennis coaching world;
+traditional approaches which emphasise either a oneapproach-fits-all ‘text’-
+book’ model of instruction are being abandoned as a result of the
+acknowledgement that people have differences and the acknowledgement
+that even the top players show variability. This article summarises some of the
+different types of variability that might occur in tennis practice, and gives
+recommendations for coaches
+
+Key words: Variability, tennis
+practice, dynamic systems,
+differential learning
+Received: 10 September 2018
+Acepted: 3 November 2018
+Corresponding author:.
+Michael Davis-Higuera.
+Email:
+mdavis.higuera@yahoo.com
+
+INTRODUCTION
+Approaches that emphasise variability are fast gaining support
+over more traditional approaches to learning and training,
+which are linear and therefore ultimately (and obviously
+incorrectly) suggest that the same instruction to a group of
+players will result the same for all players. Traditional
+approaches have also sought the reduction of error (variability
+in a skill) so that the skill corresponds to a putative text-book
+model. This obviously no longer to stands to reason because it
+is known that top players have varied technique (although they
+all make use of effective biomechanical concepts). Also,
+individual differences imply that everyone learns differently.
+Furthermore, modern tennis training has evolved in a way that
+makes it more holistic, as this can create more complete players
+(Crespo, 2009).
+
+At a glance, variability could occur in tennis practice through
+varying: the incoming ball, tactical situations, technique or shot
+outcome (height, spin, spin, direction or depth). Drawing from
+many theories and definitions of variability, which often
+overlap, this article gives practitioners recommendations and
+the theoretical grounding that they could use to better their
+sessions.
+
+DIFFERENT TYPES OF VARIABILITY
+Variable, varied and random practice
+One of the precursors to all other types of variability, Schmidt
+(1975) suggested that with increased and wider experience, we
+develop a generalised motor programme, constantly updating
+rules of how to recall and use skills better. Similarly, contextual
+interference (Shea and Morgan, 1979) suggests that by
+switching skills in a random order (and possibly different
+variations of skillscor different situations), more conscious
+effort is used to recall the different skills, which in turn leads to
+better and longer term learning. The result in tennis practice is
+that coaching should be variable, varied and random as it leads
+to learning skills faster and more robustly (Reid et al., 2007;
+Schmidt et al., 2018) but also mimics match conditions
+(Pankhurst, 2013).
+
+Recommendation for Coaches:
+• Vary the situation in which a skill is practiced (variable
+practice), i.e. position, incoming ball and possibly shot outcome
+• Have players switch between skills in practice (varied
+practice), and vary the order of practice (random practice).
+• Apply these types of variability even when focusing on a
+specific skill or with beginners, although maybe to a lesser
+degree in these cases and in closed practice.
+
+Discovery or guided-discovery learning
+Discovery learning involves a learner exploring different
+solutions in order to find effective solutions usually through the
+use of task/goal constraints such as targets and then the player
+testing hypothesis about skills to achieve the desired outcome.
+Thus variability is encouraged through trial and error. As a
+teaching methodology it contrasts to the traditional
+prescriptive method (Reid et al., 2007) and it has been argued
+that discovery learning is implicit and therefore allows for
+learning quicker as the learner adapts without as much
+conscious control or intention as if they were instructed (Liao
+and Masters, 2001; Masters and Poolton, 2012). This may not
+be the case fully as discovery learning involves hypothesising
+about solutions in order to achieve an outcome; however, the
+joint focus on task as well as solution may make this approach
+as least semi-implicit, allowing for some of benefits of implicit
+learning. Whilst discovery learning might imply that the coach
+should not impart any knowledge onto the learner, this should
+not be the case (Reid et al., 2007) and coaches should still
+impart knowledge and direction. Hence the more apt term
+guided discovery where a coach will guide solutions within
+effective ranges, biomechanical principles and concepts.
+
+Recommendations for Coaches:
+•
+Set tasks which force players to find effective and
+efficient technical solutions
+
+•
+Use physical targets, impediments or modifications, i.e.
+ropes going parallel over the net in order to encourage
+height.
+
+•
+Instruct players to force a certain effect on the opponent
+(i.e. push them back at the baseline or hit a low volley at
+the net) (Buszard et al., 2013).
+
+•
+Give players parameters or concepts to work within, e.g.
+for a player working on an attacking forehand it would
+be important that the player make use of the BIOMEC
+principles and have a flatter swing but configurations of
+the swing may differ player to player within this.
+
+Dynamical systems and the constraints-based approach
+(adaptability)
+Dynamical systems theory and the constraints-based approach
+take the discovery learning approach further, suggesting that
+expert performance can be a direct result of variability and
+adaptability (Seifert et al., 2013), whereas discovery learning
+could be taken to suggest that once a correct solution is found,
+variability is decreased. From a dynamic systems or constraints
+based approach (Davids et al. 2008; Crespo, 2009) the player
+has an internal movement pattern landscape based on
+interacting task (tactics, objectives, etc.), individual (abilities,
+attitudes, training, etc.) and environmental factors (weather,
+oncoming ball, etc.), which govern skills and success. In tennis
+terms, a new situation creates an imbalance in the movement
+landscape which the player tries to resolve by reorganising the
+skill components (Sanz and Moreno, 2013). Improvement
+occurs as the landscape where these factors meet is explored
+(through practice and variability) and stable states or
+‘attractors’ are developed (states where the different
+components of the system meet for a successful response).
+Many movement patterns can be developed, allowing for
+successful switching between skills and variations of skills,
+which in turn allows for the creation of more complete players
+as a player is actively able to adapt better to different or even
+new conditions.
+
+Recommendations for coaches:
+•
+Encourage constant adaptation and variability even
+when effective solutions are found but also encourage
+‘attunement’
+to
+‘affordances’,
+i.e.
+awareness
+of
+opportunities dictated by the situation (Davids et al.,
+2008)
+
+•
+Use targets, goals, court modifications and impediments
+for drills to force exploration of new solutions
+
+•
+Use the tactical effects against other players to guide
+exploration
+
+•
+Guide solutions within solid biomechanical principles
+
+Structured task-goal variability
+Structured task-goal variability is a newer theory and an
+offshoot of variable practice and possibly the constraintsbased approach, and it involves changing the skill outcome in
+practice. Research has shown that will allow for more control in
+a test of changing outcome; however, the individual who
+practices the same outcome over and over will be better at that
+constant test (Ranganathan and Newell, 2010; 2013). This
+might seem simple but it partly contradicts the variability of
+practice theory posited by Schmidt (1975) because it suggests
+that practice at one outcome is best for learning if variability is
+not needed in competition; although, given the need to
+constantly vary outcomes constantly in tennis, deliberate
+variability of the outcome in practice seems more suitable than
+constant practice.
+
+Recommendations for coaches:
+•
+Have players actively vary outgoing shot properties such
+as height, speed, spin, depth and direction (even during
+practice of a specific situation) as this will allow the player
+to vary the outcome better under pressure, effectively
+improving their general accuracy
+
+•
+Use targets, impediments and goals to induce variation
+of outgoing ball flight characteristics
+
+•
+Be aware that this approach may not be best when one
+specific outcome of shot needs to be practised such as a
+flat 1st serve
+
+Differential learning
+Differential learning draws on some of the aspects of a dynamic
+systems
+approach
+but
+emphasises
+perturbations
+and
+disturbances (Sanz and Moreno, 2013) through no repetition
+or even random instruction, which allows the player to refine
+their technique unconsciously. This is due to the signal from
+the noise or the randomness resonating against the signal of
+the movement pattern, which allows for greater feedback to
+the player (Schollhorn et al., 2006; 2009) or forces the player to
+develop their movement dynamics (Sanz and Moreno, 2013).
+The emphasis here is to bring external noise to a level where it
+interferes with the internal noisy signal of the skill, thus forcing
+the player to refine the skill. Beginner players already have this
+large amount of noise from a lack of a yet developed motor
+pattern and so this might not be appropriate for them. This
+type of practice might be better suited in warm-ups or in short
+coordination exercises given its lack of realism to a match.
+
+Recommendations for coaches:
+•
+Coaches should encourage a no-repetition policy in
+practice, or even add in ‘noise’ with random instruction
+
+•
+Set instructions of different body and arm finishing
+positions for strokes
+
+•
+Set instructions to never repeat shots exactly
+
+•
+Tell players to wear temporary sight impairment devices
+
+•
+Have players use other rackets with different weight,
+sizes, materials and strings
+
+•
+Tell players to start facing the other way or run round
+cones between shots
+
+•
+Be aware that too much of this type of practice is not very
+realistic to match situations
+
+•
+Still ensure players act within the tactical context
+
+•
+Use this type of practice in warm-ups and for
+coordination drills only.
+
+Execution redundancy
+Execution redundancy (Ranganathan and Newell, 2010; 2013)
+refers to changing technique for a given outcome, and is
+related to differential learning and a dynamic systems
+approach, and could be seen as another type of perturbation
+to the dynamic movement system (Sanz and Moreno, 2013)
+which further develops player’s ability to adapt. It has been
+suggested that execution redundancy in practice might allow
+for the benefits of finding optimal solutions but also generating
+more flexibility (Ranganathan and Newell, 2010; 2013).
+Thinking of the top players, the level of the game dictates that
+players will need to improvise and hit with control in situations
+where time and space has been taken away from them; it has
+been said that experts are more able to do this (Seifert et al.,
+2013; Unierzyski et al., 2018). In a study of experienced club
+tennis players, the group asked to vary technique whilst rallying
+improved in accuracy significantly wheras the group not asked
+to vary technique, the constant condition, did not (DavisHiguera, 2018).
+
+Recommendations for coaches:
+•
+Encourage players to actively change their technique for
+a given outcome as this will lead to the player being more
+flexible as well as refining their skills.
+
+•
+Ensure technique is still within accepted biomechanically
+correct ranges
+
+•
+Ensure that the technique is attuned to the tactical
+situation
+
+•
+Vary different swing configurations (grip, contact
+position/ height, arm angle at contact, swing size, etc.)
+
+CONCLUSIONS AND FINAL RECOMMENDATIONS FOR
+COACHES
+Variability in tennis practice can develop players who are free
+of injury, have effective and efficient technical skills, but also
+
+have personalized and adaptable skills, which is likely to allow
+for more enjoyment, greater success as well as a longer career.
+A lot of the theories of the different types of variability overlap
+and are not mutually exclusive in practice, and this is likely to
+be because they all have similar mechanisms, conceptualised in
+different ways. Coaches should use common sense, using the
+level of the player and goals to dictate where variability should
+take place in practice. All of the types of variability can be used
+within currently accepted methodologies for conducting
+sessions, which usually involve (once a warm-up, observation
+and evaluation has been carried out) picking a technical or
+tactical aspect to work on, starting from closed practice, and
+then adding levels of realism until the skill is ready to be tested
+in match play.
+
+Adding layers of realism to drills with follow up shots or
+different decisions, naturally adds variability to practice in some
+ways but coaches should be aware of all the ways that
+variability could be induced in closed practice when working on
+a specific skill, situation or intention. Table 1 shows how to
+introduce the different types of variability for the closed
+practice of rally neutral baseline groundstroke skills and a wide
+attacking 1st serve.

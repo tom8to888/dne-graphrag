@@ -1,0 +1,301 @@
+Title: The influence of non-verbal body language on sport performance in professional tennis
+Authors: Rafael Martínez-Gallego, David Carrillo Molina
+Year: 2019
+Issue: Vol. 27 No. 79 (2019)
+Article id: 83
+
+www.itfcoachingreview.com
+December 2019. 27th Year. Issue 79. 34-37
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i79.83
+
+The influence of non-verbal body language on
+sport performance in professional tennis
+Rafael Martínez-Gallego a         & David Carrillo Molina
+a University of Valencia, Valencia, Spain.
+
+ABSTRACT
+
+The main objective of this study was to analyse the relationship between players´ nonverbal body language and their performance in sport. The sample consists of a total of 477
+actions from 40 players competing in the ATP Tour. All actions were taken from tiebreaks in official tournaments. The categories that were analyzed were previous
+performance, dominant non-verbal body language, submissive non-verbal body language,
+and performance later on. Results show how the players´ non verbal body language
+impacts on their performance later on.  Thus, we can conclude that following dominant
+non-verbal body language, the probabilities of better performance in the next point are
+greater than following submissive non-verbal body language. Therefore, it is important to
+train these aspects as an extra tool to improve players´ performance.
+
+Key words:  non verbal body
+language, performance, tennis,
+analysis.
+Received: 14 November 2019
+Accepted: 10 December 2019
+Corresponding author: Rafael
+Martínez-Gallego, Faculty of
+Physical Activity and Sport
+Sciences, University of
+Valencia, Spain. Email:
+ramargal@hotmail.com
+
+INTRODUCTION
+Body language or non verbal body language (NVB) had not
+been deeply studied until a few years ago, in spite of its
+importance for sport in general, and for tennis in particular.  In
+fact, authors like Furley, Dicks & Memmert (2012) state that it
+is surprising that until not long ago research had neglected the
+analysis of non-verbal body language in sporting contexts.
+Motos (cited in Lara & Moral, 2008) conclude that elementary
+communication takes place through verbal language, but body
+language relates with the latter, confirming or denying its
+message.  He adds that between 50-65% of the information
+transmitted in a message is body coded.  Thus, it confirms the
+existence and validation of a specialized non-verbal language
+in sport (Vallejo et al., 2004).
+The main conclusions of relevant research in this area,
+expressing the importance of body language in sport, are
+presented below.
+Lara & Moral (2008) analysed communication through
+behaviour and the use of the body by 12 top level female
+volleyball players.  The main conclusion drawn was that after
+winning a point, there is a feeling of joy, and it is not important
+to share it with the others, but, when losing a point there is a
+feeling which is closer to sadness and they prefer not to
+communicate it. Therefore, it has been demonstrated that
+there exists a kind of body language (non-verbal body
+language) when losing a point, and a different one when
+
+winning a point. These authors state that when the point is
+lost, players bow their heads with a passive expression in their
+faces and with asymmetric and closed body forms, in a way
+that usually expresses anger and rage which last for a  short
+time since they quickly try to forget . On the contrary, when
+they win the point, their head position is up, the head is raised,
+the trunk is erect and open and symmetrical body forms
+express joy.  Energetic, quick and intense movements last
+longer. Finally, these authors come to the relevant conclusion
+that most of the time, this body language is unconscious
+(communication
+expression
+through
+body
+movement).
+Accordng to Buscombe, Greenlees, Holder, Thelwell &
+Rimmer (2006), tennis players cause initial impressions on
+their opponents during warm-up on the bases of their
+opponent´s body language, which impacts on their level of
+confidence.
+On the other hand, Furley et al. (2012) analysed body
+language in football penalty shots and came to the conclusion
+that goal keepers had a more positive impression than those
+players whose body language is submissive, that is to say, they
+were more confident on the possibilities of stopping the
+penalty against players whose body language was meek,
+compared to players whose body language was dominant.
+
+Furley y Dicks (2012) in their research with amateur baseball
+players in Germany concluded that athletes should be advised
+to avoid expressing or showing submissive body language,
+since it can instil confidence in the opponent, and therefore
+give them a sporting performance.
+Greenlees, Buscombe, Thelwell, Holder & Rimmer (2005)
+analysed the impact of body language, watching videos in
+which tennis players were warming up.  Their main conclusion
+was that tennis players expect a better performance against
+those whose body language is negative, in contrast to those
+whose body language is positive.
+This research also concludes that athletes can gain an
+advantage over their opponents by using an appropriate body
+language. Therefore, coaches and sport psychologists should
+develop techniques to improve athletes´ body language.
+It should be noted that body language analysis is closely
+related to sport performance. In spite of this, there is very
+little information regarding elite tennis. Thus, this study
+analyses the relationship between body language between
+points and its relationship with the performance in the
+previous and the following points.
+
+METHOD
+Sample:
+The sample consists of 477 actions from 40 ATP Tour players,
+who, at the time of the research were ranked between 1 and
+382 in the ATP Tour. All actions were taken from tie-breaks in
+official tournaments between 2010 and 2018.
+Variables analyzed:
+The variables analyzed were classified into five categories,
+and in each category we identified more specific actions or
+behaviours. These categories and actions are:
+
+Dominant NVB: upright with good posture, head up
+and 90% of the time looking at the opponent.
+
+
+Submissive NVB: hunched posture, shrunken body,
+shoulders forward and eyes looking down.
+
+
+PRE-Performance:
+good
+own
+action,
+good
+opponent action, bad own action, bad opponent
+action and performance does not change.
+
+
+POST-Performance:
+good
+own
+action,
+good
+opponent action, bad own action, bad opponent
+action and performance does not change.
+Statistical analysis:
+The statistical analysis was performed using SPSS statistic
+pack, version 21. The Kolmogorov Smirnov test was
+performed to test the normality of data in each variable, and
+in all variables a significance level of less than 0.05 was
+obtained which indicates that the distribution was not normal,
+therefore, we used non-parametric tests.  The Chi squared
+test was conducted, in order to investigate if a relationship
+existed between the different variables analyzed, and to
+check if there were significant differences in these variables.
+
+FINDINGS AND DISCUSSION
+Predominant NVB
+The predominant NVB in top tennis competition is submissive,
+representing 56.71% of the total actions analysed, while the
+dominant represents 43.29% of all actions.
+
+Figure 1. Frequency of dominant and submissive NVB
+Relationship between previous performance and non-verbal
+body language of players
+With regard to the relationship between the previous
+performance and the non-verbal body language type, Table 1
+shows that there is no relationship between performance in
+the previous point, either succeeding (good own action) or
+failing (bad own action) (p>0.05), and the non-verbal body
+language or body language that will be expressed later, once
+the action is finished. Therefore, it is possible to conclude that
+previous performance does not impact on the body language
+of professional players.
+
+        Table 1.Relationship between pre-performance actions and NVB variables.
+
+Submissive NVB
+62.9 %
+66.34 %
+Negative action
+37.1 %
+33.66%
+2=0,293; p=0,588
+
+Relationship between post-performance and non-verbal body
+language of the players
+As Table 2 shows, there is a correlation between the postperformance and non-verbal body language (p<0,05). This
+means that verbal language has a clear impact on the postperformance of the player. Therefore, given a submissive
+NVB, there will be a greater probability of negative
+performance and vice versa.
+
+Table 2. Relationship between Post performance and NVB
+variables.
+
+Submissive
+NVB
+46.3 %
+53.7 %
+Negative
+action
+87.9 %
+12.1 %
+2=73,27; p<0,001
+
+CONCLUSIONS
+No
+relationship
+has
+been
+found
+between
+previous
+performance and non verbal body language (NVB).
+There is a relationship between non-verbal body language and
+post-performance. When there is a show of submissive NVB,
+it is followed by a greater number of negative actions later,
+but when there is a show of dominant NVB, , it is followed by a
+greater number of positive actions.
+
+COACHING IMPLICATIONS
+Given the aforementioned conclusions, the following plan for
+coaching dominant NVB is proposed in order to foster
+dominant verbal behaviours that favour enhanced sport
+performance.
+
+Week 1
+
+Week 2
+
+Week 3
+
+Week 4
+
+Imagined
+practice
+Routine Work
+Routine Work
+SERVE TASK
+Routine Choice
+(consensus)
+(Analytically)
+(Analytically)
+(Routine
+between
+serves)
+Routine
+After finishing the point:
+-
+Accept the result
+-
+Go to towel and dry off whilst controlling breathing
+-
+Get back to my serve or return position
+-
+Grip the racket securely and with confidence
+-
+Hit the ball well (on next point)
+Week 5
+
+Week 6
+
+Week 7
+
+Week 8
+
+Routine Work
+(Analytically)
+Play a match
+only
+with
+forehands
+Play a tie-break
+Match
+to
+games
+Perform
+routine when I
+win a point
+Perform
+routine
+after
+every point
+Perform
+routine
+after
+every point
+Table 3. Summary of the Dominant NVB coaching proposal
+Table 3 shows the breakdown of the NVB coaching plan.
+There is a progression over time, beginning with more
+analytical work routines and ending up introducing routines in
+coaching work, that is to say, more global work, i.e. match
+routines. The length of the coaching proposal is two months,
+putting aside 20 minutes per day, three days a  week, during
+coaching sessions.

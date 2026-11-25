@@ -1,0 +1,336 @@
+Title: The optimal ready position in tennis
+Authors: Abdelrahman Mokhtar
+Year: 2024
+Issue: Vol. 32 No. 94 (2024)
+Article id: 588
+
+ABSTRACT
+The purpose of this study was to develop a bio-kinematic model for the optimal ready
+position in tennis by identifying five bio-kinematic variables of the lower limb joints.
+Additionally, this research aimed to quantify the contribution of these variables to the
+response time of tennis players. The descriptive method was used in this study based on
+bio-kinematic analysis as it suits the nature of the study. The study sample consisted of
+two players who were intentionally selected from high-level tennis players. The study
+was conducted using video recording with the Kinovea program for five different stances
+per player in six directions, with a total of sixty attempts for the ready positions. The
+main findings were: 1- the response time was significantly affected when changing the
+technique of the ready position, the effectiveness of the ready position significantly
+impacts the efficiency of the movement, reaching the ball, and performing the stroke
+well which increases the players’ success rate. 2-the angle between thighs is the most
+contributing bio-kinematic variable in the performance of the ready position, with
+contribution rate of 88.33%. When the angle between thighs is within range of 70° to 80°
+the optimal ready position is achieved.
+INTRODUCTION
+The ready position in tennis can be loosely defined as the
+position a player assumes in preparation for (and during) the
+split step. The literature agrees that a ready position should
+be balanced and sufficiently ‘active’ to allow for a dynamic
+movement response to any stimuli (Aviles, 2002).Correct
+body position produces power angles in the lower body,
+these help produce force and speed of movement (Dawes
+& Roozen, 2012).All movement production in tennis can be
+considered to fall into one of four categories: baseline to
+net, close rang movement, wide ball and recovery and sprint
+(Farrauti & Weber, 2001), the precursors to all of these
+tennis movements are the ready position and the split step.
+(Elliott, Reid & Crespo, 2003, p. 73). Thus, an effective ready
+position is essential for an effective movement pattern. The
+ready position in tennis requires an athletic stance with feet
+positioned shoulder-width apart (Crespo, 2008), however,
+this study shows that the optimal ready position in tennis
+requires a wider stance to achieve the best response time. Biokinematics is the measurement of the motion of living things.
+The bio-kinematics of tennis could be useful in providing the
+coach with more specific and precise information about the
+timing and motion of the player’s body. (Elliott, Reid, & Crespo,
+2003, p. 149). Response time is defined as the duration from
+the appearance of the stimulus until the completion of the
+movement (Brekaa, 2015). This study employed bio-kinematic
+analysis to determine the optimal angles at which tennis
+players should position themselves in the ready position to
+achieve the most efficient response time, by analyzing five
+www.itfcoachingreview.com
+December 2024. 32th Year. Issue 92. 22-25
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i94.588
+The optimal ready position in tennis
+Abdelrahman Ashraf Mokhtar Hamed
+Egyptian Tennis Federation, Egypt.
+Key words: optimal ready
+position, bio-kinematic model,
+bio-kinematic variables, response
+time.
+Received: 19 June  2024
+Accepted: 22 October  2024
+Corresponding author:
+Abdelrahman Mokhtar,
+abdelrahman.amh92@gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+different ready positions and assessing their effectiveness
+in response time across all six directions (3 forehand and 3
+backhand), starting with the feet shoulder-width position
+and incrementally increasing the distance between feet by 15
+cm for each subsequent position, a total 60 ready positions
+(N=60).
+METHODOLOGY AND PROCEDURE
+Subjects
+The study sample comprised two International Tennis
+Federation (ITF) players, aged 17, with high national rankings
+(ranked 1st and 3rd in Egypt under 18 category). Each player
+executed the five ready positions in six directions, 30 attempts
+per player.
+Materials
+2 cameras with 60 frame/sec speed, cones, meter measuring
+tape to determine the distance between feet in each ready
+position, the movement analyzing program Kinovea, version
+0.9.5 and the statistical program SPSS version 29.
+Analysis variables
+6 variables were extracted from the lower limp in each ready
+position.
+Procedure and statistical analysis
+In this study, a customized test was used. The player stood in
+the middle of the court behind the baseline, approximately
+50 cm from the center, surrounded by six cones placed 2.5
+meters apart, with three on the forehand side and three on the
+backhand side. This setup ensured that the player operated
+within the area where 80% of all shots are played (Kovacs,
+2009). The player began in their ready position, executed
+a split step, and responded to visual stimuli, prompting
+movement towards any of the cones
+After completing the on-court test, videos were captured and
+analyzed using Kinovea software. Each ready position was
+analyzed to determine the variables, followed by initiating
+a timing sequence from the moment the player reacted with
+their split step until their loading leg reached the designated
+cone. After that the results were statically analyzed using
+stepwise regression to determine the contribution percentage
+of variables (A1, A2, A3, DK, and DF) to the response time (T).
+RESULTS AND DISCUSSION
+Based on the statistical analysis results (Table 2), the average
+contribution percentage of measured kinematic variables
+was 99.224%. Variable (A1) achieved an average percentage
+of 88.334%, while all other measured variables averaged
+10.89%. The average response time was 0.944 seconds.
+Front Angle between thighs (A1)
+Table 2 indicates that angle (A1) is the most contributing
+kinematic variable, contributing to an average of 88.33%.
+Comparing the lowest response times achieved by the samples
+with the angle (A1), as per the bio-kinematic analysis results
+obtained from Kinovea software (Table 3), we found that the
+angle (A1) ranged between 70° to 80°, with an average of 77°.
+Side angle between thigh and tibia (A2)
+Also, table 2 indicates that angle (A2) is the second most
+contributing kinematic variable, contributing to an average
+of 8.474% comparing the lowest response times achieved
+by the samples with the angle (A2), as per the bio-kinematic
+analysis results obtained from Kinovea software (Table 4), we
+found that the angle (A2) ranged between 110° to 145°, with
+an average of 122.5°.
+Side angle between tibia and foot (A3)
+Also, table 2 indicates that angle (A3) is the third most
+contributing kinematic variable, contributing to an average
+1.828% comparing the lowest response times achieved by
+the samples with the angle (A3), as per the bio-kinematic
+analysis results obtained from Kinovea software (Table 5), we
+found that the angle (A3) ranged between 50° to 95°, with an
+average of 72.5°.
+Distance between feet (DF)
+The distance between feet (DF) is considered an unessential
+and unaffected kinematic variable in widening angle (A1). For
+instance, while (DF) may be wide, if the distance between
+knees (DK) is short, it will result in a small angle (A1). However,
+the opposite is not true; if (DK) widens, (DF) will expand.
+Table 1
+Variables symbols and measuring units.
+Variable
+symbol
+Measuring unit
+Front Angle between thighs
+degree
+Side angle between thigh and
+tibia
+degree
+Side angle between tibia and
+foot
+degree
+Distance between knees
+cm
+Distance between feet
+DF
+cm
+Time
+sec
+Figure 1. Kinematic variables of ready position.
+Figure 2. Study suggested on-court test.
+S
+ZONE
+Contribution percentage
+TIME
+TOTAL
+RANK
+Cone 1
+87.369
+9.278
+1.743
+0.562
+1.023
+98.952
+Cone 2
+87.747
+8.647
+1.778
+0.514
+1.002
+98.686
+Cone 3
+90.126
+6.852
+2.094
+0.714
+0.876
+99.786
+Cone 4
+88.610
+8.432
+1.782
+0.550
+0.881
+99.374
+Cone 5
+87.978
+8.922
+1.743
+0.567
+0.951
+99.210
+Cone 6
+88.172
+8.712
+1.827
+0.623
+0.930
+99.334
+AVERAGE
+88.334
+8.474
+1.828
+0.588
+0.944
+99.224
+Cone6
+Cone5
+Cone4
+Cone3
+Cone2
+Cone1
+PLAYER 1
+0.69
+0.66
+0.69
+0.69
+0.85
+0.85
+PLAYER 2
+0.89
+0.92
+0.85
+0.85
+0.85
+0.92
+Cone6
+Cone5
+Cone4
+Cone3
+Cone2
+Cone1
+PLAYER 1
+0.69
+0.66
+0.69
+0.69
+0.85
+0.85
+PLAYER 2
+0.89
+0.92
+0.85
+0.85
+0.85
+0.92
+Cone6
+Cone5
+Cone4
+Cone3
+Cone2
+Cone1
+PLAYER 1
+0.69
+0.66
+0.69
+0.69
+0.85
+0.85
+PLAYER 2
+0.89
+0.92
+0.85
+0.85
+0.85
+0.92
+Table 2
+The percentage contributions of kinematic variables according to the time in the six-performance region.
+Table 3
+Comparison between the lowest response times achieved by the samples and the angle (A1).
+Table 4
+Comparison between the lowest response times achieved by the samples and the angle (A2)
+Table 5
+Comparison between the lowest response times achieved by the samples and the angle (A3)
+Distance between knees (DK)
+Statistical analysis reveals that the distance between knees
+(DK) exerts a greater influence and significance compared to
+the distance between feet (DF), with (DF) being considered
+a dependent variable of (DK). (DK) emerges as the pivotal
+variable for expanding the player base, as it is directly
+impacted by the angle (A1). Specifically, widening the angle
+(A1) results in an expansion of the distance between knees
+(DK), which subsequently leads to a widening of the distance
+between feet (DF).
+Figure 3. Relationship between angle (A1) and (DK).
+Balance pyramid
+Variables (A1, A2, DK) form a pyramid shape we named it
+the 'Balance pyramid' (Figure 4), wherein point 1 represents
+the center of gravity (CG), points 2 and 3 denote the knees,
+and point 4 lies vertically below CG and horizontally behind
+the knees. Angle (A1), the angle between sides 1-2 and
+1-3, emerges as the most influential variable based on
+statistical analysis. Changes in this angle alter the base
+space, represented by the distance between knees (DK) side
+2-3. According to biomechanical principles, a widening base
+enhances body balance and stability. Therefore, angle (A1)
+is crucial in determining the extent of stability and balance
+in the ready position, optimizing efficiency and reducing
+response time
+Figure 4. Balance pyramid.
+Figure 5. The difference of Q-angle between male and female (Becker, 2016).
+2-The angle between the thighs (A1) emerges as the most
+influential variable in determining the optimal ready position.
+When this angle falls within the range of 70° to 80°, the
+distance between knees (DK) widens, subsequently leading
+to an expansion of the distance between feet (DF) beyond the
+width of the player's shoulders. As a result, the ready position
+becomes more effective.
+3-The variables (A1, A2, and DK) form a pyramid shape that
+we have termed 'The Balance Pyramid'. This structure serves
+as an indicator of the quality of the player's ready position
+when controlling for all other variables to achieve the optimal
+ready position.
+SUGGESTIONS FOR FUTURE STUDIES
+1. Examine the kinematic variables of the optimal ready
+position compared to other positions in tennis, with a focus
+on the kinematic variable angle (A1).
+2. Investigate the optimal ready position in other sports that
+have similar movement patterns.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that he does not have any conflict of
+interest and that he did not  receive  any  funding  to  conduct
+the research.

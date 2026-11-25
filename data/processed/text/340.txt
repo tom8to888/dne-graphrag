@@ -1,0 +1,506 @@
+Title: Developing a performance management toolkit for Botswana tennis clubs
+Authors: Lobone Lloyd Kasale, Tapiwa Marobela-Masunga, Nonofo Othusitse, Moagi Mbise
+Year: 2022
+Issue: Vol. 30 No. 87 (2022)
+Article id: 340
+
+www.itfcoachingreview.com
+August 2022. 30th Year. Issue 87. 52-58
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i87.340
+fostering and promoting healthy lifestyles among people in
+their communities. Their pursuit of profit maximisation and
+quality service delivery prompts them to pay attention to the
+efficiency and effectiveness of their processes and activities
+in the attainment of their goals. This can be achieved though
+performance management. However, tennis clubs are unique,
+INTRODUCTION
+There has been research interest on organisational
+performance, performance measurement and performance
+management among sport organisations over the last four
+decades (Bayle & Madella, 2002; Čingiene, 2019; Diaz &
+Rossi, 2017; Frisby, 1986; O’Boyle & Hassan, 2014; Hulme et
+al., 2019; Omondi-Ochieng, 2018; Solntsev & Osokin, 2018).
+Much research attention was paid towards National Sport
+Organisations, their reliance on stakeholder resources, and
+how they measure and implement organisational performance.
+Furthermore, while for-profit sport organisations such as
+clubs and professional teams have also been studied, much of
+the attention was directed towards aspects of organisational
+performance such as financial performance (OmondiOchieng, 2019), managing quality (Zülch et al., 2020) and
+organisational effectiveness (Hulme et al., 2019). How clubs
+and teams manage their organisational performance can still
+be explored in research, to establish how they can optimally
+attain their purpose.
+Sport clubs can be described as entities that provide
+recreational and elite sport opportunities and services to
+consumers for profit. With regards to tennis clubs, Pluim
+et al., (2014) reported that they play an important role in
+ABSTRACT
+Performance management facilitates the attainment of goals in sport organisations.
+tennis clubs should implement performance management practices to maximise their
+profit, improve their services delivery and stakeholder satisfaction. In Botswana, tennis
+does not have a large followership or high participation rate. Therefore, Botswana tennis
+Clubs could use performance management initiatives to improve their organisational
+practices, participation rates and profitability. Thus, the aim of this paper was to develop
+and propose a performance management toolkit for Botswana tennis clubs. The paper
+relied on a review of the Balanced Scorecard, the Performance Prism, and components
+of performance management. Based on the review, a performance management
+toolkit for Botswana tennis clubs was developed. The toolkit comprises of planning
+for the external environment, planning for the internal environment, implementation,
+and performance measurement. The toolkit recognises the cyclic nature of the
+performance management process therefore, the feedback and feedforward obtained
+from performance measurement are used to inform future performance management
+plans. This paper can benefit Botswana sport managers and help them to implement
+performance management practices. This paper can also contribute towards sport
+management research on performance management in sports clubs.
+Developing a performance management toolkit
+for Botswana tennis clubs
+Lobone Lloyd Kasalea , Tapiwa Marobela-Masungab, Nonofo Othusitsec and Moagi
+Mbisea
+aUniversity of Botswana, Gaborone, Botswana. bDevelopment Department, International Tennis Federation, London,
+UK. cBotswana Accountancy College, Gaborone, Botswana.
+Key words: performance
+management, tennis, Botswana.
+Received: 3 June 2022
+Accepted: 4 July 2022
+Corresponding author: Lobone
+Lloyd Kasale, University of
+Botswana. Private Bag 0022.
+Gaborone, Botswana. Email:
+kasalel@ub.ac.bw
+COACHING & SPORT
+SCIENCE REVIEW
+and they operate differently from mainstream organisations.
+For instance, As Zhang (2015) and Heere (2010) have noted
+the uniqueness of sport products, and that by merely adopting
+practices with a one size fits all approach may not be prudent
+for these organisations. Therefore, it is imperative that
+context specific and organisationally relevant performance
+management models are designed and implemented in tennis
+clubs.
+Performance management is a process that provides a
+proactive closed loop control system, where strategies are
+deployed to all business processes and feedback is obtained
+through a performance measurement system to enable
+appropriate management decisions (Bititci et al., 1997).
+Performance management can be regarded from different
+perspectives including a human resource (Byers et al., 2012;
+McLean, 2016), a system resource (Chelladurai et al., 1987;
+Winand et al., 2010), or even a strategy, structure, or an
+organisational culture perspective. In this study, it is regarded
+as a strategy and operations issue that considers the use of
+resources and the efficiency and effectiveness of activities
+and processes in the attainment of organisational goals
+and objectives (Ferreira & Otley, 2009). This perspective
+describes how organisations can engage active measurement,
+management, and continuous improvement of their processes
+and activities in the attainment of their organisational goals
+(Bititci et al., 2013; Pavlov et al., 2017).
+It
+should
+be
+noted
+that
+performance
+management
+models, systems, and frameworks have been designed and
+implemented over time (Bititci et al., 2013; Ferreira & Otley,
+2009; Kasale et al., 2018). These models, systems, and
+frameworks are management control systems that track
+the use of organisational resources, and the efficiency and
+effectiveness of processes and activities in the attainment
+of organisational goals and objectives (Chelladurai et al.,
+1987; Winand et al., 2010). These management control
+systems rely on performance measurement and feedback
+to improve future performance cycles (Bititci et al., 1997;
+Kaplan & Norton, 1996; Ferreira & Otley, 2009).  For
+instance, performance management models such as Total
+Quality Management (TQM), Six-Sigma, Lean Manufacturing,
+Balanced Scorecard and Performance Prism monitor the
+efficiency and effectiveness of organisational processes and
+the attainment of goals and objectives in different industries.
+While much of these models have been used in a myriad of
+organisations, Kasale et al., (2018) have noted the importance
+of developing performance management models that account
+for the influence of their environments, the uniqueness of
+sport organisations and their operating systems. Therefore,
+it becomes essential to develop performance management
+toolkits that improve the efficiency and effectiveness of
+organisational processes, leading to the attainment of the
+goals of tennis clubs.
+The aim of this study is to develop a context specific and
+organisationally relevant performance management toolkit
+for Botswana tennis clubs that will help them ensure
+quality service delivery and the fulfilment of their purpose.
+Using performance management toolkits may facilitate
+sustainability and profitability in tennis clubs, enhancing
+stakeholder confidence and their overall organisational
+performance. This study will provide knowledge on
+performance management in tennis clubs and to initiate
+dialogue on effective performance management endeavours
+for these organisations. Additionally, this study will inform
+sport managers on ways to engage comprehensive, robust,
+and coherent performance management systems in their
+tennis clubs.
+TENNIS CLUBS IN BOTSWANA AND PERFORMANCE
+MANAGEMENT
+The sport of tennis has been in existence in Botswana before
+the country gained independence in 1966. Bechuanaland
+Lawn Tennis Association was one of the first two sport
+organisations to affiliate to Botswana National Sports Council
+when it was formed in 1965 (Botswana National Sports
+Council Handbook, 2010). Tennis was played by Botswana
+authorities in recreational clubs when the administrative
+capital of Botswana was in Mahikeng, in South Africa, a
+country that administered a system of apartheid (Hudson,
+2018).  According to Hudson (2018), Notwane Tennis Club,
+was the first tennis club to be established in Botswana with
+the aim of creating an all-inclusive tennis club that welcomed
+people of all races. Notwane Tennis Club eventually led to
+the establishment of Botswana Tennis Association and the
+subsequent growth of the sport in the country (Hudson,
+2018). To date, there are around nine (9) active tennis clubs
+in Botswana. While tennis as a sport has a history of over 50
+years, it has not gained much prominence in terms of a large
+followership, nor a high rate of participation, with 0.24% of
+the population playing tennis as of 2019 (ITF Global tennis
+report, 2019).  In addition, the performance of the national
+teams and elite athletes at international competitions such
+as the All-Africa Games remains below par, and Botswana
+tennis players are yet to make a grand slam appearance. To
+that end, tennis clubs in Botswana may need to implement
+performance management systems that would ensure that
+they increase their fan base, participation rates, membership,
+and their capacity to meet the needs of their stakeholders
+while remaining profitable.
+Figure 1. Components of a performance management toolkit.
+With regards performance management in Botswana,
+different forms of Performance Management Systems (PMS)
+were introduced to improve productivity and service delivery
+among different sectors of the Public Service since the 1990s
+(Bulawa, 2011; Mosware 2011). While these initiatives helped
+the public service to improve their service delivery systems,
+they may have permeated into organisational practices of other
+industry sectors in Botswana. For instance, many volunteers
+who administer sport in National Sport Organisations and
+clubs are members of Botswana public service. Kasale et
+al. (2019), argues that these volunteers would have been
+exposed to performance management practices in their
+workplace, and may consequently adopt and implement these
+practices in the National Sport Organisations and clubs that
+they administer. Therefore, performance management may
+not be new to sport administrators in Botswana tennis clubs.
+Thus, a performance management tool kit may be useful for
+Botswana tennis clubs.
+METHODOLOGY
+Developing a performance management toolkit for Botswana
+tennis clubs relied on a review of the Balanced Scorecard,
+the Performance Prism, components of a Performance
+Management model as outlined by Otley (1999), Ferreira
+and Otley (2009) and Bayle and Robinson, (2007). In
+addition, performance management model developed and
+proposed for National Sport Organisations by Kasale et
+al., (2018) was also reviewed. A review of the Balanced
+Scorecard and the Performance Prism revealed that
+the satisfaction of customers, stakeholder contribution,
+organisational processes, competencies, profits, growth,
+increasing shareholder value and the ability to improve
+are essential components in performance management
+(Kaplan & Norton, 1996). Ferreira and Otley (2009) and
+Otley (1999) stated that the vision and mission of the
+organisation, its structure, strategic plans, key performance
+indicators, targets, evaluation processes, rewards, feedback,
+feedforward, learning curve, environmental influences and
+the interdependence of the organisation’s operating system
+all played a role in performance management. Bayle and
+Robinson (2007) and Kasale et al. (2018) noted the importance
+of developing performance management models that account
+for the uniqueness of sport organisations. Moreover, Kasale
+et al. (2018) proposed a holistic model for performance
+management that accounts for the influence of the external
+and internal environments, uniqueness of the context of sport
+organisations as well as the interdependence of its operating
+system.
+Based on the review of the Balanced Scorecard (Kaplan &
+Norton, 1996), the Performance Prism, (Neely et al., 2001)
+essential components of performance management (Ferreira
+& Otley, 2009; Otley, 1999) and requirements of performance
+management to a sport organisation (Bayle & Robinson,
+2007; Kasale et al., 2018) a performance management toolkit
+for Botswana tennis clubs is developed. The toolkit is based
+on components of a Performance Management Toolkit as
+illustrated in Figure 1.
+Based on the components of a performance management
+toolkit as illustrated above, a performance management tool
+kit for Botswana tennis clubs was developed and is presented
+in the results section.
+RESULTS AND DISCUSSIONS
+Based on the components of the performance management
+toolkit illustrated in Figure 1, the Performance Management
+Toolkit for Botswana tennis clubs was developed.
+The Performance Management Toolkit for Botswana tennis
+clubs is herein proposed and presented in Figure 2.
+Figure 2. Performance Management Toolkit for Botswana tennis clubs.
+Figure 2 illustrates that the performance management
+toolkit comprises of the external environmental influences,
+the internal environmental influences, implementation, and
+review. The arrows in the middle of the Figure 2 illustrate
+that performance management is a cyclic process that starts
+with planning for the external environment, planning for the
+internal environment, the implementation of the plan, the
+review of the process through performance measurement the
+use of feedback and feedforward to learn from the process
+and prepare for future performance cycles (Ferreira & Otley,
+2009; Kaplan & Norton, 1996; Kasale et al., 2018; Otley 1999).
+Thus after the review, the process goes back to planning.
+The external environmental influences
+It is important to note that the external environment of a
+tennis club is dynamic, and it evolves and changes over time
+(Melnyk et al., 2014). Therefore, sport organisations such as
+a tennis club should adequately plan and adapt to changes in
+their external environment (Kasale et al., 2018). This can be
+achieved through scanning the environment where the tennis
+club exists to establish political, economic, sociocultural,
+technological, environmental, and legal factors and how they
+can potentially affect how the tennis club operates (Ferreira &
+Otley, 2009; Kasale et al., 2018).
+Political factors are external to the tennis club but have the
+capacity to influence its functions and operations (Robinson,
+2010). Political factors comprise of a framework of rules
+and regulations that affect how a tennis club operate. These
+include laws, rules, regulations, and statutes that govern
+sport in Botswana such as the Botswana National Sport
+Commission Act, the National Sport and Recreation Policy, and
+the Olympic Charter. Botswana tennis clubs should observe
+these political instruments, and this may implicate their
+processes and activities (Kasale et al., 2019; Robinson, 2010).
+Therefore, there is need for Botswana tennis clubs to ask and
+answer questions that include what is the prevailing political
+environment? Does the political environment favour our
+club? Which specific political factors affect our organisation.
+With regards to the economic environment, the prevailing
+economic environment can to a large extent affect how a
+tennis club operates. For instance, an economic recession
+can affect the amount of sponsorship that corporate partners
+can make available to a club. Thus, sport organisations should
+account for the dynamics of the economic environment and
+need to adapt to the prevailing conditions to succeed (O’Boyle
+& Bradbury, 2017). Therefore, Botswana tennis clubs should
+ask questions that include what is the prevailing economic
+condition? and how does it affect our club? Specifically, what
+are the economic factors that affect our operations as tennis
+clubs.
+Socio-cultural factors play an important role in the type
+of services that sport organisations offer, and hence these
+organisations should pay attention to them (Robinson, 2010;
+O’Boyle & Bradbury, 2017). For instance, the demographic
+characteristics of a community in which a tennis club exists
+including population trends, age and income distribution can
+affect the type of programmes that a tennis club implements.
+Therefore, a tennis club should ask and answer the question
+which socio-cultural issues should we pay attention to? On
+technological factors, it is important to note that technological
+advancements have a way of affecting how organisation
+implements their operations. Organisations have taken
+advantage of technology and innovations to improve the
+efficiency and effectiveness of their processes (Blakey, 2011;
+O’Boyle & Bradbury, 2017). However, these advancements
+can also be inhibitors. It is therefore essential for tennis clubs
+to ask and answer questions such as what are the prevailing
+advancements in technology and innovations? To what extent
+do the technological advancements favour our tennis club?
+How can we use technological advancements and innovations
+to optimise our processes?
+Environmental issues and environmental sustainability
+have gained prominence as the world has moved towards
+the sustainability of the planet over the last few years.
+There is need for nations to comply with environmental and
+ecological targets around climate change, carbon footprint,
+pollution, transportation, and energy. Therefore, Botswana
+tennis clubs should account for environmental issues by
+asking and answering the questions that include What are
+the environmental sustainability and ecological targets
+that Botswana has set? How do these targets affect our
+organisation? What environmental issues should we pay
+attention to? On legal factors, it is important to note that
+there are many legal issues that are prevalent in the sport
+sector (Robinson, 2010; O’Boyle & Bradbury, 2017). These
+include discrimination, match fixing, doping, and corruption.
+It is important for tennis clubs to account for these issues by
+asking and answering questions that include: What are the
+legal issues that our clubs face? What legal issues should we
+particularly pay attention to?
+External environmental issues including political, economic,
+socio-cultural,
+technological,
+environmental,
+and
+legal
+factors are important because they describe changes in the
+environment. It is important to highlight that a tennis club
+does not have any control over these influences. However,
+the ability of tennis clubs to respond to these environmental
+influences will to a large extent influence how they implement
+their performance management initiatives (Kasale et al.,
+2018).
+Another key factor of the external environment is consumers
+including the customers and clients that consume the services
+that are offered by the tennis club. According to Kaplan and
+Norton, (1992) it is important to ask the question how do our
+customers and clients view us? Answering this question will
+ensure that a good relationship is created between the tennis
+club and the consumers. This ensures that consumers continue
+to benefit from the services offered by the tennis club thereby
+ensuring the profitability of the club over a longer term.
+The internal environmental influences
+The internal environment of the tennis club comprises
+vision, mission, values, organisational structural design
+characteristics, resources available, goals and objectives,
+key performance indicators (KPIs) targets, individuals within
+tennis clubs including paid staff members, volunteers, and
+partners. It is important for a tennis club to ensure that
+their internal environment is arranged in an effective way
+to respond to the dynamic external environment so that
+they may achieve good performance (Fereirra & Otley, 2009;
+Kasale et al., 2018).
+The vision, mission and values are important in performance
+management because they spell out the strategic plan that a
+tennis club wants to attain (Ferreira & Otley, 2009; Kasale et
+al., 2018). Therefore, questions that include What do we want
+to achieve? How will we achieve our big picture? What values
+will we not compromise to attain our big picture? should be
+asked and answered by the tennis Club. Based on the vision,
+mission and values of the tennis club, organisational goals and
+objectives are set. Based on the set goals and objectives, the
+Key Performance Indicators (KPIs) are developed (Ferreira &
+Otley, 2009; Kasale et al., 2018). Key performance indicators
+are critical success factors that the tennis club aims to achieve
+(Bititci et al., 1997; Ferreira & Otley, 2009). Based on the Key
+Performance Indicators, targets are drawn to elaborate on
+what should be achieved. These targets are used to measure
+performance (Ferreira & Otley, 2009). Kasale et al. (2018)
+notes the need to consider resources when goals, objectives,
+Key Performance Indicators, and targets are developed.
+Because in most cases clubs in developing countries have
+resource constraints, questions that should be asked and
+answered include do we have enough resources for what we
+want to achieve? How can we utilise resources at our disposal
+optimally to attain our goals? Furthermore, Ferreira and Otley
+(2009) highlighted the importance for all members within the
+tennis club to have a common understanding of the goals,
+objectives, Key Performance Indicators, and targets. This
+makes for united effort in attaining the vision and mission of
+the tennis club and, hence improving the overall organisational
+performance.
+It is important to account for the organisational structure
+of the tennis club to ensure that it allows for efficiency
+and effectiveness (Parent et al., 2018; Perck et al., 2016).
+The structural arrangement of a tennis club involves
+the specialisation of tasks, the centralisation of decision
+making, and standardisation/ formalisation of the rules and
+regulations within tennis club (Parent et al., 2018). The tennis
+club should ask and answer the questions to what extent is
+our organisational structure suitable for our purpose? How
+does our organisational structure affect our efficiency and
+effectiveness to attain goals?
+Individuals within a tennis club comprise paid staff,
+volunteers, and partners. Each of them should perform
+specific roles that make the club successful in its endeavours.
+However, it should be noted that most times individuals
+within these clubs are volunteers therefore, it may be difficult
+to expect them to perform at certain levels without rewards.
+Notwithstanding, a tennis club relies on these individuals to
+facilitate organisational processes and activities to ensure
+the attainment of the purpose of the club, and stakeholder
+satisfaction. Therefore, it is important for a tennis club to ask
+and answer questions that include, who are individuals within
+our club? What roles do they play in the club? What issues
+regarding individuals within the club should we pay attention
+to?
+Planning for the internal environmental includes accounting
+for the vision, mission, values, organisational structural
+design, resources, goals and objectives, key performance
+indicators, targets and individuals within the club should
+prepare the tennis club for a performance management
+cycle. To implement a performance management cycle, it is
+important for the tennis club to consider how they implement
+organisational processes and activities.
+Implementation
+It has been stated that sport organisations are unique, and
+their unique characteristics may lead to them implementing
+their organisational processes differently from mainstream
+organisations. Nonetheless, tennis clubs should be cognisant
+of, and pay particular attention to how they implement
+processes that include leadership, communication, and
+motivation. These organisational processes are essential to a
+tennis club and should be implemented effectively for gainful
+results. Leadership serves to provide guidance to a sport
+organisation’s processes (Arnold et al., 2012). Communication
+serves as a channel to provide a common understanding of
+what is to be achieved within the organisation (Ferreira &
+Otley, 2009). Motivation ensures that individuals are driven to
+pursue the goals and objectives of the tennis club. Kasale et al.
+(2018) and Bayle and Robinson (2007) have also highlighted
+that there is need for sport organisations to facilitate an
+environment that support organisational performance to
+effectively implement the process. Therefore, tennis clubs
+should ask and answer the question what issues regarding
+our organisational processes should we pay attention to? Do
+the prevailing practices on leadership, communication and
+motivation serve our efforts to attain high performance?
+Regarding activities, tennis clubs facilitate mass participation
+or recreational and elite sport programmes. They should
+ensure that they develop and implement programmes
+to effectively satisfy their consumers and build lasting
+relationship that foster the sustainability and profitability
+of the tennis club. Therefore, the tennis club should ask and
+answer the question, what issues should we pay attention to
+with regards to our recreational and elite sport activities?
+Review
+A performance cycle should be reviewed at its end. Ordinarily
+this will be in line with the duration stipulated in the goals
+and objectives. A performance cycle is reviewed through
+a performance measurement process (Biticti et al., 1997;
+Ferreira & Otley, 2009). This process entails measuring or
+comparing the difference between envisaged performance
+or the targets set against the actual performance attained
+(Ferreira & Otley, 2009). The results obtained from this
+performance measurement process serve as feedback or
+feedforward (Kasale et al., 2018). Feedback is used to inform
+stakeholders and individuals within the tennis club on what
+was achieved and how it was achieved. On the other hand,
+feedforward provides details of what is learned from the
+performance cycle and ways in which the tennis club can
+improve its efficiency and effectiveness. Therefore, when
+facilitating the review process, the tennis club should ask and
+answer the questions what did we achieve against the goals and
+targets that we set? What can we learn from the performance
+cycle to improve and optimise future performance cycles?
+CONCLUSIONS AND FURTHER RESEARCH
+The goal of this research endeavour was to develop a
+performance management toolkit for tennis clubs. This
+entailed reviewing the Balanced Scorecard, the Performance
+Prism, components of Performance Management (Otley
+(1999, Ferreira & Otley, 2009; Bayle & Robinson, 2007) and
+the Holistic Model for Performance Management of National
+Sport Organisations (Kasale et al., 2018). Based on this review
+exercise, a performance management toolkit for Botswana
+tennis clubs was developed and proposed. The toolkit
+comprises of a cyclic process that begins with planning for the
+external environment, followed by planning for the internal
+environment, then the implementation, followed by a review
+exercise. The review facilitates feedback and feedforward
+processes that initiate another performance cycle. This
+performance management toolkit was developed from
+literature and has not been tested. Thus, further research
+could consider testing this performance management
+toolkit to scrutinise the suppositions made from literature.
+Additionally, it is envisaged that this paper will initiate
+further research into how the efficiency and effectiveness
+of tennis clubs can be optimised and improved to foster their
+sustainability.
+FINANCING AND CONFLICT OF INTEREST
+The authors declare that they have received no funding for
+the research and have no conflict of interest in relation to the
+research.

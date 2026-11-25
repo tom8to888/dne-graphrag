@@ -1,0 +1,243 @@
+Title: The effect of natural preferences on serving biomechanics: a new approach to the motor skills of tennis players
+Authors: Kaies Deghaies, Caroline Martin, Pierre Touzard, Cyril Brechbuhl, Jean Marc Duboscq, Thibault Lussiana, Cyrille Gindre
+Year: 2021
+Issue: Vol. 29 No. 84 (2021)
+Article id: 201
+
+ABSTRACT
+Research has demonstrated the existence of two 'natural preference' profiles in running.
+The objective of this study was to determine the influence of the natural preferences
+of terrestrial (with a "posterior and flexion" movement) and aerial (with an "anterior
+and extension" movement) on the ball speed and impact position during the service of
+19 professional players. The results allow to propose a new reading grid of the service
+technique to consider the preferential motricity of each player while respecting the
+biomechanical principles.
+INTRODUCTION
+The serve is the only tennis shot that does not depend
+directly on the opponent. It allows the player to fully express
+his coordination. Service performance is often measured by
+ball speed. To hit a hard the serve, players must generate a
+significant amount of movement that can be captured through
+the shift in centre of mass (Elliott, 2003). Different motor
+strategies were highlighted by Elliott et al. (2003) in terms of
+centre of mass displacement and the amount of movement
+created in three servers of the same level. Some players
+will favour a more vertically oriented amount of movement
+and centre of mass displacement, while others will create a
+more forward oriented amount of movement related to the
+displacement of their centre of mass in that direction (Figure
+1). The quality of the service also seems to be determined by
+mechanical principles independent of coordination. This is the
+case for the height of the ball at contact (Vaverka & Cernosek,
+2013). As height is a non-modifiable factor in players, it is
+possible to discuss the combined skills of balancing and aiming
+high at the ball (extension) to improve service performance.
+To investigate this issue in depth, it is interesting to consider
+the theory of natural preferences® highlighted in running
+(Gindre et al., 2016) (Lussiana et al., 2017).
+This theory links the efficiency of the runner's stride to
+their natural motor skills of balance (more anterior or
+posterior) and coordination (more flexion or extension).
+Research has shown that there are two "natural preference"
+profiles in running. The "aerial" profile would optimise stride
+performance by favouring rebound-extension coordination
+and anterior balance. Conversely, the coordination of the
+"terrestrial" profile is oriented towards push-flexion and
+posterior balance. The explanation could lie in the preferential
+activation of muscles that are more anterior in “terrestrial”
+and posterior in “aerial” athletes (Lussiana et al., 2017). These
+www.itfcoachingreview.com
+August 2021. 29th Year. Issue 84. 15-17.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i84.201
+The effect of natural preferences on serving
+biomechanics: a new approach to the motor skills
+of tennis players
+Kaies Deghaiesa, Caroline Martina, Pierre Touzarda, Cyril Brechbuhlc, Jean Marc
+Duboscqc, Thibault Lussianab & Cyrille Gindreb
+aLaboratory M2S, University Rennes 2, Bruz, France. bVolodalen Company, Research and Development Department,
+Chavéria, France. cFrench Tennis Federation, National Technical Directorate, Paris, France.
+Key words: service, performance,
+biomechanics, natural
+preferences.
+Received: 10 May 2021
+Accepted: 12 June 2021
+Corresponding author: Caroline
+Martin. Email: caroline.martin@
+univ-rennes2.fr
+COACHING & SPORT
+SCIENCE REVIEW
+preferential muscle groups could jointly ensure balance
+and the dominant muscle action of athletes. “Terrestrial”
+athletes would primarily use the anterior muscles to maintain
+posterior balance (flexion) and to act primarily by pushing
+forward (concentric pushing). “Aerial” athletes, on the other
+hand, use their posterior muscle chain to maintain a more
+anterior balance and a more upward movement (plyometric
+rebound) (Figure 2).
+To date, no studies have focused on exploiting these natural
+preference models to refine the understanding of tennis
+players' motor skills. Therefore, the aim of this preliminary
+exploratory study is to determine the influence of the
+terrestrial (with a "posterior and flexion" motor pattern)
+and aerial (with an "anterior and extension" motor pattern)
+profiles on ball speed and impact position during the serve.
+Figure 1: Centre of mass shift on serve for three different players (Elliott,
+2003).
+servers lifted their centre of mass at impact more than the
+TER (24 ± 6 cm vs. 18 ± 4.0 cm; p=0.02). TER servers impacted
+the ball more forward than AER (0.37 ± 0.04 x height versus
+0.31 ± 0.08 x height, p=0.03). The maximum vertical velocity
+of the rear hip of the AER servers during the leg thrust was
+significantly higher (2.44 ± 0.24 m.s-1 versus 2.14 ± 0.26
+m.s-1; p=0.01). Fisher's exact test revealed no significant
+difference in the distribution of support techniques between
+the two groups (p=0.211).
+DISCUSSION
+This research is the first to address the issue of natural
+preferences® in tennis. In this study, the normalized values of
+ball speed and impact height tell us that AER and TER players
+serve equally hard and hit the ball at the same height. However,
+the TER servers impact the ball further forward than the AER.
+Conversely, the maximum vertical velocity of the rear hip of
+the AER servers during the leg drive is significantly higher
+than that of the TER, causing them to take off more from
+the terrestrial. As the statistical analysis does not show any
+difference in the distribution of the serve foot-up or foot-back
+stance between the two groups, the results obtained for the
+AER and TER servers seem to be independent of the stance
+technique used.
+Natural preferences may help us to explain the differences
+obtained between AER and TER servers. Indeed, the AER
+servers showed a higher take-off height and a higher
+maximum vertical hip velocity indicating a better ability to
+propel themselves upwards during the service due to their
+natural preference based on an extension pattern. Contrary
+to expectations, the impact height was not significantly
+higher for the AER servers but is in line with the literature
+which indicates an optimal impact height around 1.5 x player
+height. The results concerning the take-off height and the
+Figure 2. Schematic presentation of the characteristics of the air and
+ground models in running (Volodalen®).
+METHODS
+Nineteen professional tennis players participated in this study
+(age: 20.9 ± 3.0 years; height: 1.86 ± 0.08 m; body mass: 75.7
+± 6.8 kg; International Tennis Number 1). The experiments
+took place on a tennis court surrounded by a motion capture
+system comprising of 23 optoelectronic cameras (Oqus
+7+, Qualisys, Sweden). The players were classified into the
+"terrestrial" (TER) or "aerial" (AER) group by a Volodalen®
+expert using the Vscore scale which is based on running
+observation criteria (Gindre et al., 2016) (Table 1).
+Table 1
+Characteristics of the aerial (AER) and terrestrial (TER) groups.
+AER (n=9)
+TER (n=10)
+Age (years)
+20,8 ± 2,9
+21,0 ± 3,1
+Height (m)
+1,91 ± 0,07*
+1,80 ± 0,08
+Weight (kg)
+79,2 ± 6,9*
+72,2 ± 6,7
+Ranking (ATP)
+507 ± 591 (n°17 à
+n°1571)
+605 ± 436 (n°81 à
+n°1230)
+Serve technique
+Foot-up (n=9)
+Foot-up (n=7) and footback (n=3)
+p<0,01*
+Next, the players and their racquets were equipped with
+reflective body markers to calculate the trajectory of the
+joint centres and the racquet head (Figure 3). The players
+performed 5 flat serves (first ball) in a target area (1 m x 2
+m at the T) in deuce box. The ball speed was measured with
+a radar (StalkerPro, USA). The impact position in height and
+depth, the take-off height of the centre of mass at impact and
+the maximum vertical velocity of the rear hip during the leg
+thrust were calculated. Given the differences in height and
+mass between our two groups, a number of variables were
+standardised. Student's t tests were performed to compare
+kinematic variables and ball speed between the terrestrial
+and aerial groups (Statistica 12 software). A Fisher's exact
+test was used to compare the distribution of serve techniques
+between the two groups of players (foot-up or foot-back). The
+significance threshold was set at p < 0.05.
+RESULTS
+Ball speed (relative to subject height and mass) was similar
+between the 2 groups (1.3 ± 0.1 versus 1.4 ± 0.1 km/h/m/kg;
+p=0.059). The height of impact relative to the height of the
+players was identical between AER and TER servers (1.49 ±
+0.02 x height versus 1.49 ± 0.04 x height; p=0.903). The AER
+Figure 3. Player and racquet equipped with reflective body
+markers.
+vertical speed of the rear hip are in agreement with the
+work carried out on natural preferences in running. Indeed,
+Lussiana and Gindre (2016) have shown that AER runners
+possess coordination based on a preferential upward shift
+of the centre of mass and muscle functioning in a "rebound"
+mode (plyometric contraction) (Lussiana & Gindre, 2016).
+AER servers have also been shown to produce higher maximal
+vertical force than TER ones (Gindre et al., 2016) (Lussiana
+et al., 2017). TER servers have a coordination based on a
+preferential forward shift of the centre of mass and a "push"
+mode of operation (concentric contraction) (Lussiana &
+Gindre, 2016). The difference in forward impact position on
+the serve for our two groups tends to confirm the forward
+"push" mode of operation of TER servers in tennis.
+PRACTICAL APPLICATIONS
+In terms of practical applications, this work in connection with
+the Natural Preference Theory® opens up new perspectives in
+the field of technical and physical training. Indeed, it is possible
+to imagine that coaches can provide technical advice adapted
+to the natural preferences of their players while considering
+the biomechanical principles of service performance. For
+example, depending on the "aerial" and "terrestrial" profile, it
+seems relevant to individualise the advice on the amplitude,
+duration of the flexion and extension phases of the lower
+limbs or the orientation of the terrestrial reaction forces
+during the service, independently of the chosen technique
+(foot-up or foot-back). Furthermore, since it is known that the
+progress of each athlete at a given strength training is highly
+variable and specific (Radnor et al., 2017) (Damas et al., 2019),
+it appears possible to individualise this advice also during
+off-court strength training exercises (i.e., much more flexed
+squats for terrestrial servers).
+CONCLUSION AND PERSPECTIVES
+The results of this study for the serve need to be extended
+to other strokes with reliable data ideally obtained in a
+competitive ecological context so that the motor skills
+adopted by the players are as natural as possible. Further
+work is needed to analyse other parameters related to the
+"terrestrial" and "aerial" profiles, such as angular velocities,
+plantar pressures, ball trajectory and lower limb flexion and
+extension amplitudes. In addition, natural preferences in
+the way upper body rotations are coordinated have been
+demonstrated in golf. An associated body is characterised
+by a rotation in which the shoulder line and the pelvis line
+work in synergy (e.g., Federer). Conversely, a dissociated
+body is characterised by an independent rotation between
+the shoulder and pelvic lines (e.g., Murray) (Figure 4). The
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2021 Kaies Deghaies, Caroline Martin, Pierre Touzard, Cyril Brechbuhl, Jean Marc Duboscq,
+Thibault Lussiana & Cyrille Gindre
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms
+"associated" and "dissociated" profiles and their influence on
+the service technique deserve to be investigated in the future.
+In our opinion, the Natural Preference Theory® is a tool that
+can help coaches to determine the key points on which to act
+according to the specificities of each athlete. By no means,
+this is a question of replacing the dogma of a technical model
+that would apply in the same way to all by another model,
+but instead the proposal of a new reading grid that allows
+the preferential motor skills of each athlete to be considered
+while respecting the biomechanical principles.

@@ -1,0 +1,513 @@
+Title: Tennis game development pathway
+Authors: Hrvoje Zmajic
+Year: 2026
+Issue: Vol. 34 No. 98 (2026)
+Article id: 753
+
+ABSTRACT
+The Pathway describes how the game evolves over time, progressing through specific
+stages shaped by the interactions of various factors that influence the game. When
+players remain in competitive tennis, they will go through six distinct stages of game
+development — "leaps" — with each stage marked by the emergence of something
+qualitatively new that wasn’t present before. "Leaps" are a familiar concept when we
+look at human development. For instance, as children grow and acquire new skills,
+their ability to think abstractly or engage in complex social relationships emerges
+from earlier, simpler behaviors. When applying the Game Development Pathway, the
+coach evaluates the current level of the player’s game and identifies the "drivers"
+essential for progressing to the next stage(s) of game development. Understanding
+the 'Pathway' should help coaches recognize these stages and adjust their training
+approach to develop the player's game.
+INTRODUCTION
+Have you ever experienced a scenario as a coach where,
+despite working hard with a player, there seems to be little
+improvement — or even a decline in performance? Then,
+unexpectedly, just when you lose faith in their abilities, the
+player achieves remarkable progress. According to learning
+theory, to demonstrate improved performance, a player must
+integrate different elements or add a new quality, which are
+typically not developed simultaneously (Andrilović & Čudina,
+1996).
+Given that both the tennis game and human development are
+complex systems influenced by various factors, it's reasonable
+to expect that players will experience periods of rapid
+improvement, combined with fluctuations in performance,
+and sometimes even declines (Qiu et al., 2021; Gray, 2017).
+This article proposes the tennis game development pathway
+based on dynamic systems theory, consisting of six distinct
+stages through which players progress. Each stage is
+characterized by the emergence of new patterns, behaviours,
+or abilities not explicitly present in earlier stages.
+At each stage of game development, players demonstrate the
+competencies required to perform effectively in the match
+environment. These competencies result from integrating
+the knowledge and skills acquired during practice (Takahashi,
+2022).
+By identifying the stages of game development, associated
+playing competencies, and essential skills for player
+progression, coaches can anticipate individual player
+development and define an optimal development pathway.
+www.itfcoachingreview.com
+April 2026. 34th  Year. Issue 98. 5-10
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i98.753
+Tennis game development pathway
+Hrvoje Zmajic
+Croatia
+Key words: Game development,
+complex systems, body and mind
+development, planning.
+Received: 11 June  2025
+Accepted: 27 January 2026
+Corresponding author:
+zmajic@me.com
+Long-term development of tennis game considered as
+dynamic system
+When considered as a dynamic system, the long-term
+development of a tennis game refers to how the competitive
+ability evolves and changes over time, not only during a single
+match but also across a player’s career (Crespo, 2009). The
+evolution of competitive ability is influenced by numerous
+interrelated factors that shift and transform continuously,
+often leading to nonlinear changes.
+It incorporates multiple interacting elements such as physical
+growth, psychological development, adaptations to external
+conditions, tactical evolution, coaching, and competition
+(Torrents & Balague, 2006). Over time, these factors interact
+in complex and sometimes unpredictable ways, leading to
+shifts in how the game is played at various levels. Viewing
+this process through the lens of dynamic systems theory
+(DST) helps us understand how a player’s game evolves, not
+through a single, linear trajectory, but through a constantly
+shifting, interactive set of variables (Farrow & Robertson,
+2016).
+•	 Physical Growth: A player’s body changes as they
+grow, and their physical abilities (e.g., speed, strength,
+endurance, flexibility) evolve. Children may experience
+rapid changes in these factors, influencing their motor
+abilities in a non-linear manner. During adolescence,
+physical changes related to puberty, such as growth
+spurts or hormonal changes, interact with brain
+structure and function, affecting behavior, cognition,
+and emotional responses (Schoenborn, 2001).
+COACHING & SPORT
+SCIENCE REVIEW
+•	 Cognitive Development: Shifts in cognitive development
+enable
+players
+to
+understand
+and
+apply
+more
+sophisticated tactical concepts (Rosenbaum et al., 2001).
+DST suggests that cognitive abilities, such as memory,
+reasoning, and problem-solving, develop in a non-linear
+way and are influenced by both biological maturation
+(e.g., brain growth) and environmental experiences (e.g.,
+interactions with caregivers, education, culture) (Riley &
+Holden, 2012; Brito, 2020).
+•	 Emotional Maturation: Emotional regulation helps
+players cope with the psychological pressure of the
+game (Mansel et al., 2023). This process is shaped by
+biological factors (such as the maturation of brain regions
+like the prefrontal cortex) and environmental influences
+(such as coaching, peer relationships, and socio-cultural
+expectations).
+•	 Motivation and Drive: A player’s motivation evolves
+over the course of their career. Early on, a player enjoys
+being with peers; as a teenager, the desire to improve
+intensifies; later, motivation becomes more about the
+passion to excel in competition (Elderton, 2022).
+•	 Tactical Evolution: Over time, strategies and tactics
+employed in the game evolve (Sanchez-Mencia et al.,
+2023). A shift occurs from simple “just returning the ball”
+to using space, shortening response times, and applying
+individual patterns of play according to body type and
+preferred playing style.
+•	 Tennis Skills: A player’s skills (e.g., serve, forehand,
+backhand, volleys, movement) develop depending on
+teaching methods, environment, and equipment. The
+environment, such as playing on different surfaces
+(e.g., clay, hard courts, grass), and equipment like
+smaller rackets or softer balls, significantly impacts skill
+acquisition (Farrow & Reid, 2010; Buszard et al., 2020).
+•	 Competition: The level of competition also affects
+player evolution (Perri et al., 2023). As players progress,
+they gain a better understanding of their strengths and
+weaknesses. Success and failure in competitions provide
+feedback that refines their techniques, mental resilience,
+and strategies, creating a self-improving cycle. For
+example, a player may adjust their style after losing to a
+specific type of opponent.
+By considering these factors, we can understand why the
+competitive ability changes over time and moving toward
+specific stages. These stages are the result of interactions
+among various factors influencing game development,
+which, according to DST, fundamentally revolves around the
+emergence of something qualitatively new that wasn’t there
+before (Spencer, 2011).
+The qualitative change occurs when a new “driver” or
+combination of “drivers” is integrated into the game (Chart 1).
+The “drivers” relate to areas such as growth and maturation,
+mental skills, tactics, techniques, and motor skills.
+For instance, for a beginner player to establish the
+“Cooperative rally” (Zmajic, 2003), they must integrate the
+ability to judge and respond to different ball trajectories,
+develop footwork precision for establishing balanced hitting
+positions, and control racket face orientation to manage the
+ball's direction while understanding the value of cooperation.
+ Whether it’s perfecting stroke techniques, adjusting strategies
+during a match, or improving motor coordination, “drivers”
+guide a player’s progression and facilitate their adaptation
+to the demands of various stages in game development. By
+focusing on developing the essential “drivers” at the right
+time, a player will be prepared to be able to demonstrate the
+required playing competencies during match play.
+Stages of game development
+Traditionally, “game development” relates to the generic
+model of athlete development — known as the “Long-Term
+Player Development Model” (LTPDM) (Tennis Canada, 2011).
+This model is directly tied to the physical and psychological
+standards of different stages in child and human development.
+LTPDM provides insights into the causes of change between
+generic stages by identifying common laws of human
+growth and maturation. As a result, it defines “windows of
+opportunity” for developing skills needed in a particular sport.
+By considering these “windows of opportunity,” the “Tennis
+Game Development Pathway” identifies the “drivers” and
+“playing competencies” that enable a coach to anticipate and
+recognize a player's “leaping” to the next stage of the game
+(Table 1).
+Figure 1. Accumulation of the ‘drivers’ needed for the leap to the
+next level of the game.
+Figure 2. Drivers related to ‘Cooperative rally’.
+Development of competitive ability is characterized by the
+phenomenon of emergence, where new patterns, behaviours,
+or abilities arise that were not explicitly present in earlier
+stages of a player's game (Spencer et al., 2011). As players
+integrate new skills, techniques, and mental strategies, they
+undergo a qualitative leap that significantly transforms their
+performance. The evolving mental and physical capabilities of
+a player—combined with newly acquired technical skills and
+the specific characteristics of the performance environment
+(such as court size and equipment)—create opportunities for
+the emergence of novel solutions in information processing
+and action execution (Gibson, 1996).
+This shift is not a gradual, linear progression, but rather
+occurs suddenly at key moments in a player’s development—
+these are the "leaps" referenced earlier in the article. Such
+qualitative changes are not merely the result of improving
+isolated skills, but the outcome of complex, adaptive changes
+driven by the dynamic interaction between the child and their
+environment (Warren, 2006).
+The stages outlined in the Tennis Game Development Pathway
+reflect these developmental leaps of competitive ability
+in a structured way. Each leap corresponds to a new set of
+drivers—physical, mental, tactical and technical—that enable
+players to transition to the next stage of their development.
+Table 2 presents the six stages of competitive ability that
+young tennis players typically progress through, from
+beginner to advanced levels. Each stage highlights specific
+essential driver(s) and the new qualities that emerge as
+players mature in their game.
+Application of the Tennis Game Development Pathway
+When applying the Game Development Pathway (Chart 3),
+the coach should begin by evaluating the player’s current
+level of play. The next step is to focus on acquiring the
+essential ‘drivers’ that enable progression to the next stage(s)
+of game development. Once these drivers are identified and
+consistently demonstrated in practice, a transition to the next
+level can be anticipated.
+Table 1
+Comparison of Long-term player development model (LTPDM) and Tennis game development pathway (TGDP).
+Long term player development model
+Tennis Game Development Pathway
+Stages of development
+Described by characteristics of kids mental
+and body development
+Described by game characteristics
+Source of change
+Describes causes of change
+Describes qualitative changes in the Game
+Elements' development
+Describes
+possibilities
+(„windows
+of
+opportunities “)
+Describes
+criteria
+(‘drivers’
+and
+‘playing
+competencies) for recognizing development
+Standards
+Related to average mental and body
+development
+Related to achieved stage of game development
+Process
+Development of elements with the hope that
+the next level of the game will be achieved
+Identify elements needed for particular Game
+level
+Game
+Look at the skills and abilities separately
+Relates the skills and abilities to the game
+development
+Consequences
+„User manual“– What can be done at certain
+age!
+„Process manual “– What to do to reach next
+level “
+Figure 3. Application of the Tennis Game Development Pathway.
+However, the leap to the next level is confirmed through
+(official) competitions, where the coach can evaluate
+whether the required playing competencies have been
+achieved. These playing competencies reflect the integration
+of several ‘drivers’ into observable behaviours during (official)
+matches and serve as evidence that the player has reached
+the subsequent stage of game development (see Table 3).
+Playing competencies can be assessed through either
+subjective expert evaluation or objective, measurable
+indicators that help determine the playing level of different
+tennis players (Kovalchik & Reid, 2018). These competencies
+are identified through the analysis and observation of
+performance indicators (e.g., stroke efficiency) and other data
+(e.g., temporal characteristics) that offer objective insights
+into a player’s efficiency and effectiveness (Takahashi, 2022).
+The enclosed table below presents the standards of
+playing competencies for the “Competitive rally” stage
+across different game situations. Each playing competency
+incorporates multiple underlying ‘drivers’ that manifest as
+observable behaviour patterns within the match context.
+August 2025, 33th Year, Issue 96
+Table 2
+The ages in the table indicate timeframe from which the essential ‘drivers' are usually ready to enable the leap to the next level of the game. These ages should be viewed as guidelines only, as individual variations can occur
+depending on factors such as talent, training volume, and other circumstances.
+Stage of Game development
+Description
+Essential driver(s) and ‘new qualities’
+Competitive Rally (from 6/7 years)
+At this stage, the outcome of a rally becomes important to players, and they
+begin to show a strong desire to return even very difficult balls back into the
+court. From a tactical perspective, consistency and accuracy become the key
+strategies for winning points.
+Driver(s): Understanding the value of competition—players start to
+recognize the importance of the score and playing to win.
+New Quality: Playing for the score—players understand that rallies
+have a purpose beyond simply hitting the ball back and forth.
+Using open space (from 8/9 years)
+At this stage, players can create and exploit open space. By combining
+different ball trajectories and short balls, players can move opponents out of
+their comfort zones and provoke errors.
+Driver(s): Inductive thinking— the cognitive process of drawing
+conclusions from specific observations or patterns.
+New Quality: Understanding/using shot combinations—players start
+to recognize how they can combine different shots (e.g., directions,
+spins) to move opponents around and dominate the point.
+Using space and time (from 11/12
+years)
+In addition to creating pressure by using space, players at this stage are also
+capable of dominating their opponents by taking time away using offensive
+techniques. As a result, the opponent’s available response time to react and
+prepare for the next shot is significantly reduced. Examples of such offensive
+techniques include playing on the rise and using drive volleys from the midcourt.
+Driver(s): Offensive technique—playing on the rise, drive volleys etc.
+New Quality: Taking time away from the opponent—players use
+'offensive technique' that reduce the opponent's ability to react and
+prepare for the next shot.
+Using a weapon  (from 13/14
+years)
+As players grow and gain strength, they become capable of hitting the ball
+with greater power. However, this power is often misused, leading to a high
+number of errors.
+Players who have reached this level begin to adopt high-percentage
+strategies and focus on creating situations where they can effectively use
+their strengths—or "weapons"—at critical moments in the match.
+Driver(s): Physical growth and self-awareness—players become aware
+of their strengths - “weapons”.
+New Quality: Players deliberately creating opportunity to use their
+most successful shots - weapons (serve, forehand, etc.) at critical
+moments in the match (i.e game or set point).
+Imposing own Game Style (from
+15/16 years)
+At the beginning of this stage, players are already aware of their weapons
+and begin to build their game around them. They become more ‘match wise,’
+playing percentage tennis and taking advantage of opponents’ weaker serves.
+By the end of this stage, both boys and girls are capable of effectively applying
+their personal tactics by considering opponent’s strengths and weaknesses
+and adapting their game when competing on different surfaces.
+Driver(s): Abstract (strategic) thinking and developing personal playing
+patterns—players develop a deeper understanding of tennis strategy.
+New Quality: Ability to adapt their game—players can adapt their
+strategies to different opponents and situations.
+Managing
+Match
+Flow
+(from
+18/19 years)
+The final stage of game development is characterized by a player’s ability to
+apply their personal best option based on the specific situation in the match,
+particularly in relation to the score. To do this effectively, players must be
+able to manage their emotions, accept both their strengths and limitations,
+and demonstrate respect toward their opponents and the broader tennis
+environment.
+Driver(s): Emotional regulation—manage emotions and maintain focus
+when under pressure.
+New Quality: Rapid, appropriate response to changing circumstances
+in the match—adjust their tactics and mental approach in reaction to
+the flow of the match.
+
+Table 3
+Competitive rally stage of game development with related playing competencies and the relevant drivers.
+
+Competitive rally stage
+
+PLAYING COMPETENCIES
+(observable behaviours
+during match play)
+Serving & returning
+Base line game
+Net game
+In 4 out of 5 points, the
+player can start a rally
+using overarm throw or
+underarm serve.
+In neutral situation during
+the rally, the player
+returns at least 70% of the
+received balls back into
+the court.
+In (at least) 50% of
+‘difficult’ situations, the
+player remains in the
+point after the opponent
+unintentionally hits
+toward the corners, by
+aiming their shots
+toward the centre of the
+court.
+When in favourable
+position, the player is  able
+to intercept 70% of the
+balls at the net with the
+intention of staying in the
+point by aiming at the ‘big
+target’ (centre of the
+court).
+D
+R
+I
+V
+E
+R
+S
+Supporting
+environment
+Smaller (red) court with a lower net (60-65cm), softer ball and an appropriate racket*.
+
+* Appropriate equipment should be selected based on the player's age and motor skill level.
+Mental aspects
+
+Understand the value of competition by showing emotions (joy / disappointment).
+Can keep score (up to 10 points) and recall it.
+Tactical
+understanding
+and decision-making
+skills
+Understands and applies the concept of 'big target'
+(player deliberately aims shots toward the centre of the court)
+Recognizes and reacts appropriately to different ball trajectories
+(direction, height and depth)
+Understanding the benefit of returning back toward the 'middle' of the court
+(same distance from opponent's possible shots)
+Stroke mechanics
+
+Demonstrates racket face control at impact
+(for controlling height, direction and depth of the outgoing ball)
+Maintains alert ready
+attitude (position) for
+returning
+Initiates backswing with
+trunk rotation as the ball
+crosses the net
+Controls shot height and
+depth using an open
+racket face
+To bring the racket above
+the contact point and
+meet the ball with
+‘blocking action’
+Uses underarm serve
+with synchronized toss
+and backswing
+Executes smooth
+continuous swing aligned
+with the incoming ball
+
+Applies consistent
+overarm throw to start
+the rally
+Uses a convenient grip
+that facilitates effective
+rallying, with changing
+between forehand and
+backhand grips.
+
+Motor and physical
+aspects
+Maintains head-over-shoulders posture and straight trunk during movement and stopping (core control)
+Shows precise footwork (in order to establish balanced hitting position)
+Use tennis-specific movements: side steps, cross steps and back pedalling
+The Game Development Pathway connects the principles
+of biological development with the progression of tennis
+skills, enabling coaches to anticipate an individual player’s
+development more effectively. The younger the player,
+the greater the uncertainty—but also the greater the
+developmental potential.
+Development of competitive ability is a dynamic and nonlinear
+process, where sudden improvements or "leaps" occur once a
+player integrates the necessary physical, mental, tactical, and
+technical prerequisites (referred to as ‘drivers’). Understanding
+the stages within the Game Development Pathway allows
+coaches to design long-term, adaptable training plans that
+keep players motivated and steadily progressing.
+By understanding the Pathway, coaches are better equipped
+to recognize a player’s current stage and adjust their training
+approach accordingly. The goal is to support players in
+developing competitive ability by focusing on developing the
+right skills at the right time.
+Advantages of Applying the Game Development Pathway:
+•	 Recognizing the player's current stage of game
+development.
+•	 Identifying both short-term and long-term development
+priorities.
+•	 Aligning competition with training objectives.
+•	 Planning improvement of competitive abilities.
+As a coach, I was always looking for ways to improve my
+players’ game. I remember, when I was a young coach, my
+mentor once asked me: "Do you know how your player should
+play in order to succeed at top national junior tournaments
+and reach a 'top 5' ranking?" I started to think and realized
+that, although I knew which strokes or tactics I wanted to
+improve, I couldn’t clearly define the kind of game the player
+needed to play to succeed.
+As a coach educator, I’ve also realized that while coaches can
+often identify which strokes or tactics need improvement,
+they frequently struggle to define how their players should
+play to succeed at a specific level of competition.
+Understanding the Game Development Pathway helps
+coaches identify the stages of game development and guide
+players in finding their own solutions to meet the challenges
+at each stage.
+Limitations and future research
+The Game Development Pathway is an original framework
+for outlining the developmental trajectory in tennis. Further
+research is required to validate the proposed stages of game
+development and to more precisely identify the sets of
+‘drivers’ that prepare a player to leap from one developmental
+stage to the next.
+DECLARATION OF CONFLICT OF INTEREST AND FUNDING
+The author declares that he is not aware of any conflict of
+interest in writing this article and that he has not received any
+funding for this study.

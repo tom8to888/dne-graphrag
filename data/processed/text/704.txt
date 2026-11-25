@@ -1,0 +1,464 @@
+Title: An updated assessment of the predictive accuracy of World Tennis Number and Universal Tennis Ratings
+Authors: Lucas Kiely, Rebecca Mayew, William Mayew
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 704
+
+www.itfcoachingreview.com
+December 2025. 33rd  Year. Issue 97. 53-61
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i97.704
+INTRODUCTION
+On September 11, 2024, the International Tennis Federation
+(ITF) introduced enhancements to the World Tennis Number
+(WTN).  This WTN update incorporated match results from
+over 80 nations, drawing on more than 30 million recorded
+matches, alongside feedback from players, coaches, and
+national federations (ITF, 2024).  The purpose of this paper is
+to evaluate the ability of the newly updated WTN to predict
+match outcomes relative to the Universal Tennis Rating (UTR)
+for elite level tournaments in junior categories and at the ITA
+All American Championships.
+Prior research investigating the ability of WTN and UTR
+to predict match outcomes has generally documented that
+WTN and UTR are equivalent predictors of match outcomes
+(Im & Lee, 2023; Krall et al., 2024; Mayew & Mayew, 2023).
+However, these studies focus exclusively on matches from
+the United States Tennis Association (USTA) Junior National
+Championships prior to the 2024 WTN algorithm change,
+making it unclear whether existing insights regarding match
+prediction are generalizable.  The USTA Junior National
+Championships is the premier junior tournament for players in
+the United States, spanning ages 16U and 18U for both boys
+and girls.  To increase external validity, we analyze premier
+non-professional tournaments beyond the USTA Junior
+National Championships to assess WTN and UTR predictive
+accuracy in samples that are not confined to U.S. players and
+in age ranges that come both before and after the age ranges
+of the USTA Junior National Championship.
+ABSTRACT
+In 2024, the World Tennis Number (WTN) algorithm was updated to enhance its
+predictive accuracy. This study analyzes 3,727 matches involving elite-level junior
+development players in the 12-and-under (12U) and 14-and-under (14U) categories, as
+well as Intercollegiate Division 1 players, from tournaments sanctioned by the United
+States Tennis Association (USTA), United Kingdom Lawn Tennis Association (LTA), Tennis
+Europe (TE), and the Intercollegiate Tennis Association (ITA). We compare the updated
+WTN and Universal Tennis Rating (UTR) classification accuracy in predicting match
+winners across these competitions. Our findings reveal no consistent evidence that
+WTN outperforms UTR in any category. UTR exhibits superior predictive accuracy in
+junior tournaments and in prequalifying rounds at the collegiate level, which highlights
+rating differences when players transition into new competitive environments. This
+study provides new evidence on the predictive accuracy of WTN and UTR in the context
+of young elite junior players and top collegiate talent.
+An updated assessment of the predictive
+accuracy of World Tennis Number and Universal
+Tennis Ratings
+Lucas A. Kiely¹, Rebecca L. Mayew² & William J. Mayew³
+¹University of Chicago, ²RSPA Tennis Coach, ³Duke University
+Key words: World Tennis Number
+(WTN), Universal Tennis Rating
+(UTR), Junior Tennis, Match
+Forecasting
+Received: 10 April 2025
+Accepted: 11 November 2025
+Corresponding author: William J.
+Mayew, wmayew@duke.edu
+For
+players
+older
+than
+the
+USTA
+Junior
+National
+Championship sample, we study the 2024 Intercollegiate
+Tennis Association (ITA) Division 1 Men's and Women's
+All-American Championships. For players younger than the
+USTA Junior National Championships sample, we study elite
+tournaments across USTA, Lawn Tennis Association (LTA),
+and Tennis Europe (TE) sanctioned events including the
+2024 Lexus British Indoor National Championships, 2024
+Junior Orange Bowl, 2025 Les Petits As Mondial Wilson, and
+2025 Open Super 12 Auray.  These tournaments are highly
+selective which helps ensure the players have extensive
+match histories upon which a WTN or UTR could be based.
+Updating the academic record regarding the predictive
+accuracy of WTN and UTR is important as tennis organizations
+around the world debate whether to adopt WTN or UTR as
+the preferred rating system and as WTN becomes more widely
+used for tournament entry and seeding criteria.  Whether
+WTN or UTR will predict match outcomes differentially in our
+sample is an open empirical question.  Given the ITF’s stated
+expectation that WTN algorithm change effects should be
+most pronounced in junior divisions (ITF, 2024), we may
+observe superior WTN classification accuracy in 12U and
+14U events.  At the collegiate level, the Intercollegiate Tennis
+Association (ITA) adopted WTN as its official rating system
+in 2023 from UTR (ITA, 2023).  This may imply that WTN is
+superior at the college level.
+COACHING & SPORT
+SCIENCE REVIEW
+METHODS
+Sample
+We obtain match and player information by reviewing
+publicly displayed match draws on the ITA, USTA, LTA and TE
+websites for the tournaments summarized in Table 1.
+Table  1
+List of categories and subcategories.
+AUC (AUCWTN) and UTR AUC (AUCUTR), as well as WTN
+Brier score (BRIERWTN) and UTR Brier score (BRIERUTR).  We
+consider p-values < 0.05 to be statistically significant.
+RESULTS
+In Panel A of Table 2, we provide WTN and UTR values for
+players in the 2024 ITA All-American Championships overall,
+followed by a decomposition by both gender and draw stage.
+Consistent with prior research for similarly aged players,
+males have higher (lower) UTR (WTN) values than females
+(Krall et al. 2024; Mayew and Mayew 2023).  Additionally,
+the main draw players have higher (lower) UTR (WTN) than
+the pre-qualifying and qualifying draw, consistent with higher
+quality players making it further in the tournament than lower
+quality players.
+In Panel B we tabulate how often the favored player wins the
+match.  Overall, we find the favored player based on WTN
+wins 59.83% of the time.  This is statistically smaller than
+what is observed for UTR, where the favored player wins
+between 66.50% of the time.  These proportions differ from
+the existing literature examining the USTA Junior National
+Championships, where the favored player won about 75% of
+the time regardless of whether WTN or UTR was used (Im &
+Lee, 2023; Krall et al. 2024; Mayew and Mayew 2023). These
+proportions are also smaller than the proportions ranging from
+71.2% and 81.8% in Grand Slam professional tournaments
+(Boulier and Stekler, 1999; del Corral and Prieto-Rodriguez,
+2010). We note that these accuracy rates at the professional
+level were derived using player rankings to determine the
+favored player, not UTR or WTN ratings.  These studies
+predated the availability of UTR and WTN ratings and as a
+result accuracy rates are not perfectly comparable.
+We observe similar inferences as the overall sample when we
+consider matches by gender.  The favored player based on
+UTR wins more often than the favored player based on WTN,
+suggesting the overall sample proportion differences do not
+appear to be driven by gender. However, when we partition
+by draw stage, we find the overall difference in predictive
+accuracy is driven by the pre-qualifying and qualifying
+matches, not main draw matches.  In the main draw, the
+favored player based on WTN and UTR wins 61.95% and
+62.44% of the time respectively and these proportions do
+not statistically differ (p-value = 1.00).  However, in the prequalifying and qualifying draw, the favored player based on
+WTN wins the match 58.68% of the time, which is statistically
+smaller than the 68.68% based on UTR (p-value < 0.0001).
+Proportions only consider the sign of the rating difference
+between players, not the magnitude.  To ascertain whether
+these patterns hold when we formally consider the magnitude
+of the difference between player ratings, we perform two
+different analyses. First, we sort the entire sample by the
+absolute difference in UTR and partition the sorted sample
+into quintiles from smallest differences to largest differences
+and report the percentage of the time the favored player
+wins.  We repeat the exercise using WTN and display the
+results in Figure 1.  Each quintile therefore is comprised of
+approximately 117 matches. We find that in four of the five
+quintiles, UTR outperforms WTN, suggesting that the overall
+outperformance of UTR over WTN is consistent across most
+quintiles, with UTR outperforming WTN in the first, second,
+fourth, and fifth quintiles, while WTN slightly outperforms
+UTR in the third quintiles.
+Table 1 presents information about the tournaments analyzed.  ITA is
+the Intercollegiate Tennis Association. USTA is the United States Tennis
+Association.  LTA is the Lawn Tennis Association.  TE is Tennis Europe.
+M (F) is male (female) gender. 12U (14U) indicates 12 (14) years old
+or younger.  Collegiate competition is not based on age but rather
+eligibility.  College players are typically aged between 18-23 years old.
+*This tournament also has an 11U division which is combined with 12U
+for analysis.
+These tournaments result in a sample of 4,174 potential
+matches, including main draw, qualifying, and consolation
+events for both male and female players, where applicable.
+After excluding matches affected by byes, pre-match
+withdrawals, retirements, missing UTR or WTN values for
+either player, and matches where both players had identical
+WTN or UTR ratings, the final sample consisted of 3,727
+matches involving 3,020 players.
+Player WTN and UTR ratings were recorded on the day
+before the tournament began. UTR values were sourced
+through a power subscription to the UTR Sports App (UTR,
+2023), while WTN ratings were obtained from the ITF WTN
+rating website (ITF, 2023) or official tournament federation
+websites. The collected WTN values reflect the updated
+2024 algorithm.
+Statistical Analysis
+For each match played, we follow Im & Lee (2023) and
+randomly choose one player from the match as the reference
+player.  We then regress an indicator variable for whether
+the randomly chosen reference player won the match on
+the difference between the reference player’s rating versus
+the rating of the other player.  Separate bivariate logistic
+regressions are estimated for UTR and WTN ratings using
+STATA/SE 18.5 statistical software.  From each logistic
+regression we obtain two measures of classification accuracy
+utilized in the tennis match forecasting literature:  the area
+under the receiver operator characteristic curve (AUC) (Im &
+Lee 2023; Krall et al 2024; Mayew and Mayew 2023), and
+the Brier score (Boulier and Stekler, 1999; del Corral and
+Prieto-Rodriguez, 2010; Krall et al 2024; Mayew and Mayew
+2023).  An AUC (Brier score) value of 0.50 (0.25) represents
+random chance levels of classification accuracy, and an AUC
+(Brier score) of 1.00 (0.00) represents perfect classification
+accuracy.  We statistically test for equality between WTN
+Table  2
+Analysis of 2024 ITA All-American Championships.
+Table 2 presents data for 438 sample players in Panel A and 585 sample matches in Panels B and C from the 2024 ITA All-American Championships.
+UTR is the UTR value as of the start of the tournament, which ranges from 1.00 (lowest skill) to 16.50 (highest skill).  WTN is the WTN value as of
+the start of the tournament and ranges from 40.00 (lowest skill) to 1.00 (highest skill).  FAVORED PLAYER WINSWTN(UTR) indicates the player with the
+lower (higher) WTN (UTR) won the match.  AUCWTN and BRIERWTN represent the area under the receiver operator curve and Brier score, respectively,
+derived from a bivariate logistic regression where the dependent variable is an indicator for whether a randomly chosen reference player from the
+pair wins the match and the independent variable is the reference player WTN minus the WTN of the other player.  AUCUTR and BRIERUTR represent
+the area under the receiver operator curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent variable is
+an indicator for whether a randomly chosen reference player from the pair wins the match and the independent variable is the reference player UTR
+minus the UTR of the other player.  AUC (Brier score) values of 0.50 (0.25) represent chance levels of classification accuracy and 1.00 (0.00) represent
+perfect classification accuracy.  EST is the derived estimate, and 95% CI indicates the 95% confidence interval using bootstrap method. All reported
+p-values are two tailed.   +McNemar test of equal proportions; ++DeLong et al. (1998) test of equal areas called via the roccomp command in STATA;
++++Paired t-test.
+Figure 1.  Favored Player Win Percentage at the 2024 ITA All-American
+Championships.
+Figure 1 shows the percentage of the time the favored player won based
+on UTR and WTN for 585 matches examined in Table 1.  The x-axis
+shows the proportion of matches won by the player with the higher
+(lower) UTR (WTN). Each quintile of the absolute difference in rating
+between players is displayed from lowest (quintile 1) to highest (quintile
+5) on the y-axis, with the minimum and maximum values of the absolute
+rating difference range indicated on each bar.
+A second method to consider the magnitude of the difference
+in rating is to estimate logistic regressions where the
+dependent variable equals 1 if a randomly chosen player from
+the pair wins the match as a function of the magnitude of
+the rating difference between that randomly chosen player
+and the opponent.  Such regressions allow for the derivation
+of AUC and Brier scores to assess classification accuracy.  In
+Panel C, overall, we observe AUC values (AUCUTR = 0.704
+versus AUCWTN = 0.636, p-value = <0.001) and Brier scores
+(BRIERUTR = 0.218 versus BRIERWTN = 0.236 p-value =
+<0.001) that statistically differ in a manner consistent with
+UTR offering better classification accuracy than WTN.  As
+with the proportions in Panel B, both AUC and Brier scores
+show statistically stronger classification accuracy for UTR
+over WTN for both males and females.  Also consistent with
+the proportions in Panel B, we find WTN and UTR exhibit
+statistically equivalent classification accuracy in the main
+draw using either AUC (AUCUTR = 0. 669 versus AUCWTN =
+0.655, p-value = 0.522) or Brier scores (BRIERUTR = 0.227
+versus BRIERWTN = 0.232, p-value = 0.327). In pre-qualifying
+and qualifying matches, however, UTR exhibits superior
+classification accuracy over WTN using both AUC (AUCUTR =
+0.727 versus AUCWTN = 0.628, p-value = <0.001) and Brier
+scores (BRIERUTR = 0.211 versus BRIERWTN = 0.238, p-value
+= <0.001).
+Thus far, we have only considered gender and draw stage
+separately.  To ascertain whether there are interactive effects
+we examine subsamples conditioned by both draw stage
+and gender in Table 3.  Panel B reveals that the proportion
+of matches won by the favored player based on WTN and
+UTR is statistically identical for both men and women in the
+main draw but statistically differs in the pre-qualifying and
+qualifying draw.  The difference in proportions is similar in
+magnitude at 9.23% for men and 10.81% for women. Similar
+inferences are obtained using AUC and Brier Scores in Panel
+C.  We therefore conclude that for the ITA sample, draw stage
+but not gender is responsible for the overall superiority of
+UTR over WTN for predicting match outcomes.
+Table 4 extends this ITA analysis to elite junior development
+tournaments (LTA, USTA and TE). Similarly to the ITA data and
+consistent with prior research for similarly aged players, panel
+A shows that males have higher (lower) UTR (WTN) values
+than females (Krall et al. 2024; Mayew and Mayew 2023). We
+find in Panel B that across 3,142 junior matches, the WTN
+favored player wins 74.57% of the time, while UTR favored
+players win 78.87% (p-value < 0.001). The magnitudes of
+these proportions are in a range similar to the USTA Junior
+National Championships and to professional tennis results
+(Mayew & Mayew 2023).
+Figure 2 displays the percentage of the time the favored
+player wins by quintile of the absolute difference ratings
+between opponents.  Each quintile contains approximately
+628 matches.  In all quintiles, UTR outperforms WTN,
+suggesting the overall superiority of UTR is not concentrated
+in any particular part of the rating difference distribution.
+Moreover, the proportion of the time the favored player wins
+generally decreases as the magnitude of the difference in
+rating decreases, similar to the results documented in Im &
+Lee (2023).
+Figure 2.  Favored Player Win Percentage in 2024/25 World Junior
+Development Tournaments
+Figure 2 shows the percentage of the time the favored player won based
+on UTR and WTN for 3,142 examined in Table 4.   In Figure 2, the x-axis
+shows the proportion of matches won by the player with the higher
+(lower) UTR (WTN). Each quintile of the absolute difference in rating
+between players is displayed from lowest (quintile 1) to highest (quintile
+5) on the y-axis, with the minimum and maximum values of the absolute
+rating difference range indicated on each bar.
+Considering the magnitude of rating differences via logistic
+regression (Table 4, Panel C) also suggests UTR superiority.
+UTR significantly outperforms WTN overall (AUC: 0.868 vs.
+0.817, p-value < 0.001; Brier Score: 0.148 vs. 0.175, p-value
+< 0.001).  We also find UTR statistically outperforms WTN
+in each subsample, regardless of whether we partition by
+gender or by age.
+In Panel C of Table 5 we further decompose the sample
+by both age and gender, revealing that UTR consistently
+outperforms WTN in all categories. The largest disparity
+also emerges in 14U Boys, where UTR provides significantly
+higher classification accuracy (AUC: 0.858 vs. 0.785, p-value
+< 0.001; Brier Score: 0.154 vs. 0.189, p-value < 0.001),
+whereas 12U Girls (AUC: 0.900 vs. 0.849, p-value < 0.001;
+Brier Score: 0.128 vs. 0.157, p-value < 0.001) and 14U Girls
+(AUC: 0.844 vs. 0.807, p-value < 0.001; Brier Score: 0.161
+vs. 0.180, p-value < 0.001) show smaller magnitude but still
+statistically significant differences.
+
+Table  3
+Analysis of 2024 ITA All-American Championships (Draw Stage x Gender).
+Table 3 presents data for 438 sample players in Panel A and 585 sample matches in Panels B and C from the 2024 ITA All-American Championships.
+UTR is the UTR value as of the start of the tournament, which ranges from 1.00 (lowest skill) to 16.50 (highest skill).  WTN is the WTN value as of
+the start of the tournament and ranges from 40.00 (lowest skill) to 1.00 (highest skill).  FAVORED PLAYER WINSWTN(UTR) indicates the player with the
+lower (higher) WTN (UTR) won the match.  AUCWTN and BRIERWTN represent the area under the receiver operator curve and Brier score, respectively,
+derived from a bivariate logistic regression where the dependent variable is an indicator for whether a randomly chosen reference player from the
+pair wins the match and the independent variable is the reference player WTN minus the WTN of the other player.  AUCUTR and BRIERUTR represent
+the area under the receiver operator curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent variable is
+an indicator for whether a randomly chosen reference player from the pair wins the match and the independent variable is the reference player UTR
+minus the UTR of the other player.  AUC (Brier score) values of 0.50 (0.25) represent chance levels of classification accuracy and 1.00 (0.00) represent
+perfect classification accuracy.  EST is the derived estimate, and 95% CI indicates the 95% confidence interval using bootstrap method. All reported
+p-values are two tailed.   +McNemar test of equal proportions; ++DeLong et al. (1998) test of equal areas called via the roccomp command in STATA;
++++Paired t-test.
+Table  4
+Analysis of 2024/25 World Junior Development Tournaments.
+Table 4 presents data for 2,582 sample players in Panel A and 3,142 sample matches in Panels B and C from the Junior Development tournaments.
+UTR is the UTR value as of the start of the tournament, which ranges from 1.00 (lowest skill) to 16.50 (highest skill). WTN is the WTN value as of
+the start of the tournament and ranges from 40.00 (lowest skill) to 1.00 (highest skill). FAVORED PLAYER WINSWTN(UTR) indicates the player with the
+lower (higher) WTN (UTR) won the match. AUCWTN and BRIERWTN represent the area under the receiver operator curve and Brier score, respectively,
+derived from a bivariate logistic regression where the dependent variable is an indicator for whether a randomly chosen reference player from the
+pair wins the match and the independent variable is the reference player WTN minus the WTN of the other player. AUCUTR and BRIERUTR represent
+the area under the receiver operator curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent variable is
+an indicator for whether a randomly chosen reference player from the pair wins the match and the independent variable is the reference player UTR
+minus the UTR of the other player. AUC (Brier score) values of 0.50 (0.25) represent chance levels of classification accuracy and 1.00 (0.00) represent
+perfect classification accuracy. EST is the derived estimate, and 95% CI indicates the 95% confidence interval using bootstrap method. All reported
+p-values are two-tailed. +McNemar test of equal proportions; ++DeLong et al. (1998) test of equal areas; +++Paired t-test.
+Table  5
+Analysis of 2024/25 World Junior Development Tournaments (Age Group + Gender).
+Table 5 presents data for 2,582 sample players in Panel A and 3,142 sample matches in Panels B and C from the Junior Development tournaments.
+UTR is the UTR value as of the start of the tournament, which ranges from 1.00 (lowest skill) to 16.50 (highest skill). WTN is the WTN value as of
+the start of the tournament and ranges from 40.00 (lowest skill) to 1.00 (highest skill). FAVORED PLAYER WINSWTN(UTR) indicates the player with the
+lower (higher) WTN (UTR) won the match. AUCWTN and BRIERWTN represent the area under the receiver operator curve and Brier score, respectively,
+derived from a bivariate logistic regression where the dependent variable is an indicator for whether a randomly chosen reference player from the
+pair wins the match and the independent variable is the reference player WTN minus the WTN of the other player. AUCUTR and BRIERUTR represent
+the area under the receiver operator curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent variable is
+an indicator for whether a randomly chosen reference player from the pair wins the match and the independent variable is the reference player UTR
+minus the UTR of the other player. AUC (Brier score) values of 0.50 (0.25) represent chance levels of classification accuracy and 1.00 (0.00) represent
+perfect classification accuracy. EST is the derived estimate, and 95% CI indicates the 95% confidence interval using bootstrap method. All reported
+p-values are two-tailed. +McNemar test of equal proportions; ++DeLong et al. (1998) test of equal areas; +++Paired t-test.
+DISCUSSION
+This study evaluates the predictive accuracy of the WTN
+following its 2024 algorithm update versus UTR, using match
+data from the ITA All-American Championships and elite junior
+development tournaments across USTA, LTA, and Tennis
+Europe circuits. Our findings indicate that WTN does not
+significantly outperform UTR in predicting match outcomes
+at either the collegiate or junior development levels.  Instead,
+except for the main draw stage at the collegiate level, UTR
+exhibits higher predictive accuracy than WTN.
+We can only put forward conjectures as to why WTN ratings
+exhibit less ability to predict match outcomes versus UTR.
+The results from the ITA All-American Championships may be
+driven by variation in the players country of origin.  Collegiate
+tennis is comprised of a substantial fraction of international
+players (Grabb, 2023). The differential predictive accuracy
+may, therefore, be driven by collegiate players from countries
+that are not fully onboarded to WTN and may experience
+inferior WTN performance relative to UTR.  Any such
+effects may also be exacerbated by class standing, whereby,
+underclassmen have more of their prior record tied to their
+historical origin country record, which dissipates as the
+player engages in more and more matches at the college level
+over time.  Future research might therefore consider player
+country of origin and the role of collegiate class standing in
+explaining the predictive accuracy differences we observe at
+the collegiate level.
+At the junior level, since the oldest age group we analyze
+is 14U, one possible explanation for the inferiority of WTN
+relative to UTR in all of our analysis is the extent of match
+histories.  UTR analyzes matches on a rolling one-year basis.
+WTN, on the other hand, considers full match histories,
+and so for young players, it may be that enough time has
+not passed to accumulate a sufficient match history.  This
+potential problem is, of course, exacerbated if a junior player
+is from a geographic location not onboarded fully to WTN.
+The largest discrepancy occurs in the 14U boys’ division,
+where UTR classification accuracy superiority is 7.4% based
+on AUC.  WTN may underperform particularly in this setting
+as this is the age elite boys increasingly transition from
+national to international competition, facing a broader range
+of opponents outside their domestic circuits. This change
+in player network may inhibit the ability of WTN to predict
+match outcomes much like new collegiate players entering
+the ITA setting.  Moreover, puberty begins to play a role with
+larger serve speed changes for boys versus girls around this
+age (Fernndez-Fernndez et al., 2019).  If puberty also plays a
+role in transitioning a player to a new player network due to
+increased size and skill, WTN may take longer to adapt because
+of the longer match histories it considers relative to UTR.
+Future research might begin to consider whether differences
+in competitor physical attributes that occur during puberty
+explain the UTR and WTN predictive accuracy differential we
+observe, as has been considered at the professional level (del
+Corral and Prieto-Rodriguez, 2010). To date public data on
+physical characteristics of junior players is, unfortunately, not
+readily available.
+While we find evidence that UTR outperforms WTN in
+predictive accuracy in the sample of elite tournaments
+we analyze, we cannot ascertain how UTR and WTN will
+perform in other settings.  For example, UTR and WTN have
+repeatedly performed equivalently well in the USTA Junior
+National Championship two years in row (Im & Lee, 2023;
+Krall et al, 2024; Mayew & Mayew 2023).  If the reason
+for this equivalent predictive accuracy is the homogenous
+nature of the players analyzed, it may well be the case that
+ITF tournaments containing players primarily from the same
+country will also exhibit UTR and WTN predictive accuracy
+that does not differ.  Future research should extend our
+analysis to other settings.  Moreover, we acknowledge that
+WTN has been in existence for a shorter period of time
+relative to UTR.  As future algorithm enhancements occur
+and more countries onboard the accuracy differences we
+observe may dissipate.
+CONCLUSION
+We provide insights on whether the classification accuracy of
+WTN improved after the 2024 algorithm change using 3,727
+matches from elite tennis events primarily comprised of 12U
+and 14U players.  We find UTR generally outperforms WTN
+in predicting match outcomes, potentially due to our elite
+level tournaments containing players that are integrating into
+new competitive structures and due to players from countries
+who have not fully onboarded to WTN.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare no conflicts of interest and did not
+receive funding to conduct this research.
+ACKNOWLEDGEMENTS
+We thank members of the LTA, ITF and USTA for helpful
+discussions and for facilitating access to the WTN data.
+We also thank UTR Sports for helpful discussions and for
+facilitating access to the UTR data.  We appreciate helpful
+comments from Will Mayew and Ian Mayew and data
+collection efforts from Nate Krall and Nick Maroulis. The views
+expressed in this paper are those of the authors and do not
+represent positions of the United States Tennis Association,
+International Tennis Federation, Lawn Tennis Association,
+Tennis Europe or Racquet Sports Professionals Association.
+This paper is based in part upon Lucas Kiely's Master's
+thesis, Evaluating the Predictive Accuracy of Tennis Rating
+Systems: A Comparative Study of National Ranking, Universal
+Tennis Rating (UTR), and World Tennis Number (WTN) in
+Junior Tennis Events in the United Kingdom, submitted to
+the University of Chicago Graham School. We express our
+gratitude to Dr. Abid Ali, Millie Rey and Tim Murphy for their
+guidance and insights during the research process.

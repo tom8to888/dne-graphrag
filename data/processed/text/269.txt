@@ -1,0 +1,189 @@
+Title: Winning or losing in wheelchair Grand Slam tournaments
+Authors: Alejandro Sánchez, Antonio Ortega, David Sanz
+Year: 2018
+Issue: Vol. 26 No. 74 (2018)
+Article id: 269
+
+www.itfcoachingreview.com
+April 2018. 26th Year. Issue 74. 33 - 37
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i74.269
+
+Winning or losing in wheelchair Grand Slam
+tournaments
+Alejandro Sánchez, Antonio Ortega and David Sanz
+University of Murcia, Murcia, Spain
+ABSTRACT
+
+In 2016, Wimbledon included Wheelchair Tennis within their competition
+programme for the first time. Thus, today, this sport is present in all three main
+types of surface (hard, clay and grass). Competition statistics can help to
+understand the differences in the game depending on the surface. Therefore,
+the objective of this study will be to observe the possible differences in service
+between winners and losers in elite wheelchair tennis, both masculine and
+feminine players, in different surfaces. 42 matches that consisted of 101 sets in
+three of the 2016 Grand Slams were analysed: Australian Open (AO), Roland
+Garros (RG) and Wimbledon (W). Results showed that between winners and
+losers performance varies depending on the surface. The conclusions of this
+study can help coaches to adapt their training sessions in relation to the
+competition surface.
+
+Key words: Adapted sport,
+performance, surfaces, tennis
+Received: 29 Dec 2017
+Acepted: 10 Mar 2018
+Corresponding author:
+Alejandro Sánchez, University
+of Murcia, Murcia, Spain.
+Email: aspay@um.es
+
+INTRODUCTION
+Wheelchair Tennis can be played on different surfaces (cement,
+carpet, grass and clay). Since 2016, wheelchair tennis has been
+played in all 4 Grand Slams (GSs) (Australian Open, Roland
+Garros, US Open and Wimbledon). There are differences in
+these tournaments concerning the speed of the ball after
+bounce, and the characteristics of the movement of the players,
+all that can be summarized as what we call the rhythm, which
+is imposed by the surface on which the game is played. 1
+(paused rhythm), 2 (semi-paused rhythm), 3 (medium rhythm),
+4 (medium accelerated rhythm, and 5 (accelerated rhythm). In
+this sense, the study of competition statistics offered important
+information to determine the possible differences depending
+on the surface (Sánchez-Pay, Palao, Torres-Luque, & SanzRivas, 2015) or, to set possible performance indicators between
+winners and losers (Sánchez-Pay, Torres-Luque, Cabello
+Manrique, Sanz-Rivas, & Palao, 2015).
+
+Some studies show significant differences in the four GS
+tournaments when observing the speed on the different
+surfaces. Roland Garros is played on clay (slow surface),
+Wimbledon is played on a faster grass surface, and the US
+Open and Australia are played on a hard surface of average
+speed, so technical efficiency and effectiveness vary. (Cross &
+Pollard, 2009).
+
+Wimbledon 2016 saw the first singles wheelchair tournament
+played on grass, no studies have compared the influence of this
+surface on competition statistics. Therefore, the objective of
+this research will be to observe the possible performance
+differences among elite wheelchair players in the different
+surfaces, and we will concentrate on one of the strokes that can
+make the difference: the service, both the first and the second,
+to prove its efficiency as a performance indicator in wheelchair
+tennis singles and on the different surfaces.
+
+METHODOLOGY
+The sample consisted of 48 wheelchair tennis players (24
+masculine and 24 feminine). 100% of the matches played,
+during the 2016 season, in the Australian Open, Roland Garros
+and Wimbledon were analysed (table 1). It is important to point
+out that wheelchair Grand Slams are only played by the top 8
+players in the ITF ranking (ITF, 2018). The study was made
+according to the Helsinki declaration, and all procedures were
+approved by the Bio-ethics and Research Commission of
+Murcia University.
+
+The sample was divided into sub-groups for analysis: a)
+tournament: Australian Open (AO), Roland Garros (RG) and
+Wimbledon (W), and, b) result: winner of the set, or loser of the
+set.
+
+All statistical data of the competition were drawn from the
+information published in the Official Websites of each
+tournament (www.usopen.org, www.rolandgarros.com and
+www.wimbledon.com), like previous studies of the analysis of
+competition statistics in tennis (Cross & Pollard, 2009; Knight
+& O’Donoghue, 2012). Wilcoxon test was performed to analyse
+the differences between winners and losers. The set was the
+analysis unit and the significance was set in p <.05.
+
+RESULTS
+The following figures show the differences in the variables that
+are the object of the research (% first service, % points won with
+the first and second services, and % of break points won) both,
+for men and women, and for those in which there are
+statistically significant differences (p<.05).
+
+COMMENTS
+The analysis of competition statistic data provides information
+about the player requirements during matches, and helps to
+improve the quality of training in order to increase
+performance. (Lago-Peñas, Lago-Ballesteros, Dellal, & Gómez,
+2010; Ortega, Villarejo, & Palao, 2009). Wheelchair tennis can
+be played on different surfaces, and up to now there existed
+no data about matches played on grass, so this work will try to
+determine the possible differences among the surfaces used,
+(hard, clay and grass) in Grand Slam tournaments, and to
+analyse the differences in service performance of elite winners
+and losers.
+
+The % of first services of masculine wheelchair tennis players is
+slightly higher for the winner of the set than for the loser, even
+though there are no statistically significant differences (Figure
+1). Still, the differences in the % of points won with the first
+service (Figure 2) are over 10% in all tournaments (p<.05). This
+difference of a little more than 10% is lower than the values
+found in literature between winners and losers (47vs72%) on
+hard courts in Paralympic Games (Sánchez-Pay, Torres-Luque,
+Fernandez-García, Sanz-Rivas, & Palao, 2017). This may be due
+to the equality in Grand Slam tournaments where only the top
+8 of the international ranking are competing, that is why parity
+maybe greater among players. As to the second service, the
+values follow the same trend as with the first, except in
+Wimbledon, where the difference between winners and losers
+is higher (p<.05).
+
+As to the % of break points won, Roland Garros shows no
+difference between the winner of the set and the loser;
+however, Australian Open and Wimbledon show percentages
+close to 30%, demonstrating that fast surfaces seem to have
+greater impact on the differences in level between the two
+players. This can be understood as an indicator of equality in
+the result of the matches, in which the greatest number of
+points per game are played, and more breaking opportunities
+happen in slow surfaces (RG) than in fast surfaces (Australia
+and US Open) (Sánchez-Pay, Palao, et al., 2015). Likewise, the
+fact that the service speed is not very high due to the position
+of the players, (hitting plane) and their restriction to use their
+lower limbs for the mechanics of the movement (Cavedon,
+Zancanaro, & Milanese, 2014; Reid, Elliott, & Alderson, 2007),
+cause the service to be more vulnerable than, for example, in
+conventional tennis, and on top of it, if the surface is slower, it
+equally contributes for the service not to be so tough to return,
+and start the rally.
+
+On the other hand, we must bear in mind that wheelchair
+players, after service, have a greater difficulty to react and
+move quickly than able players, so the return can become a
+definitive stroke in many cases, mainly, when the surface
+contributes to the travelling speed of the ball after bounce,
+something, which, again, reduces the leadership of the service.
+
+In relation to feminine wheelchair tennis, the differences
+between winners and losers are in line with what was said for
+men, even though there are more outstanding differences for
+the % of points won with the first and the second services, as
+well as the % of breaks won in all three tournaments. This can
+be due to the fact that there is less homogeneity in the level of
+the participants and matches are less even.
+
+CONCLUSIONS
+Taking into account the findings obtained from this study
+related to competition statistics for wheelchair tennis between
+
+winners and losers in the different playing surfaces, the
+following conclusions can be drawn:
+
+• The % of playing with the first service is similar between
+winners and losers, for men and women, regardless of the
+tournament.
+• The % of points won with the first and second service in
+masculine wheelchair tennis is higher for the winners of the
+set than it is for the losers. In feminine wheelchair tennis,
+the differences are evident, therefore, even though less
+crucial in wheelchair tennis, it is very important to get an
+advantage with it, either in power and accuracy or in terms
+of moving the opponent using effect.
+• Fast surfaces (Australian Open and Wimbledon) seem to
+impact on the level differences to a greater extent between
+winners and losers than in slow surfaces (Roland Garros).-

@@ -1,0 +1,205 @@
+Title: Neuromuscular Fatigue in Tennis: Mind Over Muscle?
+Authors: Olivier Girard
+Year: 2014
+Issue: Vol. 22 No. 63 (2014)
+Article id: 499
+
+www.itfcoachingreview.com
+August 2014. 22th Year. Issue 63. 10-13
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i63.499
+
+Neuromuscular fatigue in tennis: Mind over
+muscle?
+Olivier Girard.
+University of Lausanne, Switzerland.
+ABSTRACT
+
+To successfully endure tournament competition, tennis players must accelerate,
+decelerate, change direction, move quickly, maintain balance and repeatedly
+generate optimum stroke production during several hours. This review paper
+outlines how fatigue manifests during prolonged match play and discusses the
+neural and muscular factors that may compromise tennis skill and performance.
+Scientific findings are presented as the basis for practical recommendations to
+help players to better resist fatigue during intense and extended matches.
+
+Key words: Neuromuscular function,
+Tiredness, Performance alteration.
+Received: 10 January 2014
+Acepted: 8 June 2014
+Corresponding author: Olivier Girard,
+University of Lausanne, Switzerland.
+Email: oliv.girard@gmail.com
+
+INTRODUCTION
+Muscle fatigue is often quantified as a reduction in the maximal
+force that a muscle can exert, but its aetiology is complex,
+especially under conditions of high-intensity intermittent
+exercise involving the whole body such as playing tennis. The
+inability to produce and/ or maintain the required force, which
+has the potential to alter on- court movement and stroke
+production, can be attributed to several potential mechanisms
+occurring within cortical regions to muscular contractile
+elements. However, the neuromuscular adjustments to fatigue
+in tennis have received little attention until recently.
+Manifestation of fatigue - Activity-specific protocols
+During the last decades, several studies have provided scientific
+evidences to support the observations made by coaches that
+fatigue impairs performance as shown by mis-timed shots (i.e.
+power and precision) and altered on-court movements (i.e.
+speed, positioning to the ball). Fatigue-inducing protocols have
+been developed to determine the effects of fatigue on stroke
+production in specific conditions close to competition (Davey
+et al. 2002; Hornery et al. 2007a; Vergauwen et al. 1998).
+These studies have reported conflicting results regarding
+change in stroke velocity and accuracy. For example, Davey et
+al. (2002) observed a large decrease in the accuracy of shots
+played (69% and 30% for groundstroke and serve, respectively)
+during an exhausting tennis simulation test, whereas conversely
+the accuracy was only slightly reduced (groundstroke) or
+unchanged (serve) after a two hour on-court strenuous training
+session (Vergauwen et al. 1998). However, the lack of
+sensitivity and the large variability in selected variables limit
+considerably the generalisation of these findings. Another
+shortcoming is that fatigue levels experienced by players failed
+to reflect those recorded in match play (i.e. format of the
+protocol, using a ball machine to administer pre- and postfatigue on-court skill assessment (Davey et al. 2002). For
+example, it is questionable how an intermittent test leading to
+volitional exhaustion in 35 minutes could induce a comparable
+degree of physiological strain as in actual competitions.
+Matchplay
+To overcome these limitations, several investigators have
+evaluated the effects of fatigue on performance during
+simulated match conditions. For example, Mitchell et al. (1992)
+reported that fatigue after a three hour tennis match is
+manifested by a decreased velocity of the serve and longer time
+to complete tennis pattern shuttle- runs. Girard et al. (2006)
+recently reported progressive reductions in maximal voluntary
+strength (10-13% in quadriceps) and leg stiffness highly
+correlated with increases in perceived exertion and muscle
+soreness throughout a three hour tennis match, whereas
+explosive strength was maintained and decreased only after the
+exercise. Immediately after the exercise, similar (-15%) in
+strength loss was observed for plantar flexors using the same
+match protocol (Girard et al. 2011). However, the time course
+of these adaptations differs between knee extensors
+(progressive) and plantar flexors (biphasic pattern with a
+marked loss after 90 min) muscles (Figure 1).
+
+Figure 1. Maximal isometric voluntary contraction (MVC) torque of the
+knee extensor and plantar flexor muscles before (T0), during (T30: 30th
+min; T60: 60th minute; T90: 90th min; T120: 120th min; T150: 150th
+min), immediately after (T180), and 30 minutes after (T+30) a three hours
+tennis match (see Girard et al. 2008 and Girard et al. 2011).
+
+FACTORS RESPONSIBLE FOR FATIGUE
+Defining and quantifying neuromuscular fatigue
+Fatigue is a complex phenomenon, which aetiology depends on
+the characteristics of the task performed (task dependency
+principle). The inability to produce/maintain the required force
+can be attributed to several potential mechanisms from cortical
+region (neural factors) to contractile elements (muscular
+factors). Each of these stages is a possible limiting factor for
+force production and eventually on-court performance. The
+traditional approach used to identify the causes of muscle
+fatigue has been to distinguish `central´ (i.e. an exerciseinduced decrease of muscle force due to a reduction in
+recruitment) and `peripheral´ (i.e. decrease in force due to a
+decrease in muscle fibre contractility induced predominantly by
+metabolic events within the muscle) mechanisms. This can be
+performed by applying an electrical stimulus to the peripheral
+nerve (tibial or femoral nerve) and analysing changes in
+electromyograms (EMG), voluntary and evoked forces (Figure
+2). By using this approach, it has been possible to show that
+both nervous (impaired muscle activation) and contractile
+(muscle contractility) mechanisms contribute to the alteration
+in neuromuscular function as match progresses after three hour
+tennis (Girard et al. 2008; Girard et al. 2011).
+Central vs. peripheral fatigue mechanisms
+Reduced central activation has been linked to changes in
+neurotransmitters metabolism or in response to afferent
+sensory feedbacks (i.e. inhibition of motoneuron excitability),
+possibly due to changes in metabolic and/or mechanical
+properties within the muscle (Gandevia, 2001). Practically, a
+suboptimal neural drive to the muscle might impair the rate of
+force development (i.e. ability to reach higher levels of muscle
+force within the initial phase of muscle contraction) believed to
+be a crucial determinant of fast limb movements. Several
+factors including decreased phosphocreatine availability,
+increased muscle acidity, decreased muscle carbohydrate
+(glycogen) stores or a low blood glucose level have been
+suggested as causes of fatigue at the muscle level (Fitts, 1994).
+Fatigue observed temporarily after the periods of exhausting
+exercise as long or consecutive intense rallies is probably linked
+directly to disturbances in muscle ion homeostasis, impaired
+excitation of the sarcolemma (increase in extra-cellular
+potassium)
+or
+accumulation
+metabolites
+(i.e.
+phosphocreatine, lactate).
+
+Figure 2. Reliable assessment of muscle fatigue can be studied using the
+neuro-stimulation technique. By comparing the twitch superimposed to a
+maximal voluntary contraction and the twitch evoked on the relaxed
+muscle (i.e. femoral nerve percutaneous, supra-maximal stimulation), the
+twitch interpolation technique in conjunction with surface
+electromyography (EMG) can be a reliable non-invasive technique to
+characterise muscle activation (neural factors). In examining modification
+of resting twitch it is possible to clarify whether a loss of muscle
+contractile properties (muscular factors) can also contribute to the
+impaired neuromuscular function (see Girard and Millet, 2008).
+
+Additional homeostatic perturbations
+Hot environments and dehydration are worsening fatigue
+factors whereas carbohydrate supplementation before or
+during competitions would eventually contribute to delay
+fatigue (Hornery et al. 2007b). When tennis is played in the
+heat, it is likely that the attainment of a high core temperature
+(> 38.5°C) can impair central nervous system function, resulting
+in a reduced level of central cognitive or neural drive to the
+muscle (e.g. wrong tactical choices, strength losses). Leg
+stiffness regulation is believed to be another important
+determinant in the optimisation of locomotor performance
+(sprint running). The progressive reduction in leg stiffness
+throughout three hour tennis match play suggests that some of
+the observed fatigue-induced decrements in on-court tennis
+movements might be partially explained by alterations in the
+mechano-characteristics of the muscle-tendon complex (Girard
+et al. 2006). Moreover, Hornery et al. (2007c) reported a
+significant increase in circulating creatine kinase, which appears
+to be indicative of acute muscle damage. Thus, muscle damage
+invoked by the numerous eccentric contractions associated
+
+with on court-movements might represent an important factor
+underlying the fatigue observed during tennis.
+
+CONCLUSION
+Fatigue impairs tennis performance, and can be manifested by
+mistimed shots, altered on-court movements, wrong cognitive
+(i.e. tactical) choices. The aetiology of muscle fatigue is a
+complex phenomenon (i.e. distinction between temporary
+fatigue and fatigue occurring in the final stage of a competition)
+that might involve impairment in both neural (suboptimal
+muscle
+activation)
+and
+contractile
+(accumulation
+metabolites) processes.
+Practical applications
+• Neural factors are largely responsible for the training-induced
+strength gains after electromyostimulation and/or resistance
+programs. By respecting the movement patterns and specific
+demands of the game (Bennie and Hrysomallis, 2005), such
+training modalities could be efficient in improving tennisrelated variables and in delaying`central´ fatigue.
+• Tennis players are required to repeatedly generate large
+amounts of power during explosive stroke actions and fast oncourt movements. Therefore, improving the structural (e.g.
+hypertrophic adaptations) and biochemical processes (e.g.
+regulation of plasma potassium, twitch contractile properties)
+at the muscle level is expected to offer an advantage for fatigue
+resistance (Behm and St Pierre, 1998).
+• The use of pre-fatiguing situation (e.g. bouncing, in-depth
+jumping, plyometric exercises, medicine-ball) followed by oncourt high-intensity interval-training would be efficient for
+reducing the observed impairment in muscle contractility
+(excitation–contraction uncoupling).

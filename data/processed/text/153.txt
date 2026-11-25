@@ -1,0 +1,271 @@
+Title: Using technology to improve practice and performance: A practical summary
+Authors: Mark Gellard, Matko Jelcic, Alejandro Vial
+Year: 2018
+Issue: Vol. 26 No. 76 (2018)
+Article id: 153
+
+www.itfcoachingreview.com
+Dec. 2018. 26th Year. Issue 76. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i76.153
+
+Using technology to improve practice and
+performance: A practical summary
+Mark Gellard, Matko Jelcic  and Alejandro Vial
+
+ABSTRACT
+
+The purpose of this article is to outline the evolution of science and technology
+within the sport of tennis, while simultaneously providing players and coaches
+with some specific practical applications that can be utilized by players of all
+ages and abilities.
+
+Key words: technology,
+practice, court efficiency,
+evolution of technology,
+practical application
+Received: 31 April 2018
+Acepted: 13 June 2018
+Corresponding author: Mark
+Gellard.
+Email:
+mark@firststriketennis.us
+
+INTRODUCTION
+In 2006, tennis witnessed its biggest technological revolution
+since graphite rackets forever changed the game in 1980
+(Lammer & Kotze, 2003) when Hawk-eye technology was
+officially introduced at the Miami-Nasdaq 100 ATP event. This
+revolutionary technology not only set a technological
+precedent within the sport but also served as an invaluable tool
+for referees, players and coaches, allowing objective
+observations to be made regarding performance (Boadong,
+2014), and essentially opening the floodgates to a barrage of
+technological innovation.
+
+Technological applicability has unquestionably widened its
+frontiers to include sports in the 21st century as we can now
+see technology reigning supreme over institutions such as the
+World Anti-Doping Agency (WADA), Fédération Internationale
+de Football Association (FIFA), International Tennis Federation
+(ITF), Women’s Tennis Association (WTA) and the Association
+of Tennis Professionals (ATP), etc., not only to uphold the
+regulations and policies of their respective sports (Loland,
+2009) but also assist in making enhanced observations and
+improved data collection (Giblin, Tor, & Parrington, 2016).
+
+Qualitative analysis is the most commonly employed strategy
+by most tennis coaches to identify and diagnose deficiencies in
+strategy and technique but this can be problematic due to the
+rapid speeds at which the game is played (Elliott et al., 2003).
+Furthermore, strength and conditioning specialists are far too
+often dependent on a subjective opinion regarding a player’s
+physical status, health and performance, rather than an
+objective analysis, which can often lead to overtraining, fatigue
+injury.
+The
+obvious
+disadvantages
+with
+the
+aforementioned ‘subjective analysis’ techniques have been
+widely documented (Hughes and Franks, 2004) and so the
+urgency within the sport to integrate modern technology has
+become imperative. According to Omoregie (2016), to better
+understand how technology assists a sport, it is possible to
+categorize them into six sub-categories; selftechnologies,
+rehabilitative technologies, landscape technologies, movement
+technologies,
+implement
+technologies
+database
+technologies.
+
+The purpose of this paper is to illustrate how both database
+and movement technologies can vastly improve the
+effectiveness of coaching and player performance on-court,
+improve physical performance and injury prevention off court,
+and simultaneously provide some specific training devices
+while cautioning users to the potential pitfalls associated with
+the abundance of current information and at our disposal.
+
+TECHNOLOGY ‘ON-COURT’
+From an on court perspective, coaches primarily focus on two
+key components of development; maximizing technical
+efficiency (Schönborn, 2000) so as strokes can be repeatedly
+performed, and implementing a correct strategical foundation
+that maximizes the physical and mental capacities of the
+individual. As much as 75% of all information processed by the
+brain is in visual format (Williams, 2009) and so the advent of
+so slow-motion video analysis applications that are readily
+available on mobile devices, are actively assisting players and
+coaches alike. Moreover, multiple studies (Jones & Stuth, 1997)
+have demonstrated that the use of mental imagery (pictures,
+
+video, etc.) combined with physical practice can significantly
+increase the efficiency of the motor action being acquired.
+
+Practical, cost effective, and easy to use, applications such as
+‘Coaches’ Eye’, ‘HUDL Technique’ and ‘CoachMyVideo’ are fast
+becoming ubiquitous amongst the tennis population offering
+a myriad of popular functions including ‘split-screen
+comparison’, ‘transparency/side by side viewing’ as well as
+some
+more
+esoteric
+features
+such
+as
+‘timers
+chronometers’, ‘measurement tools’, ‘joint angles’, ‘zoom
+capabilities’, ‘mirror imaging’, ‘screen captures’ and ‘composite
+picture sequence display’ (photo sequencing). More robust
+options such as Dartfish and Siliconcoach have long been
+considered the ‘gold-standard’ of video-analysis as they
+provide users with a host of additional features such as HD
+‘video’ and match ‘tagging’ which allows users to view entire
+matches while simultaneously grouping points in to specific
+categories such as ‘forehand winners’, ‘backhand errors’ or
+‘aces out wide’ so that occurrences can be enumerated and
+patterns of play from both the subject player and opponent can
+be ascertained. However, such programs are considerably more
+expensive and time consuming to use than the aforementioned
+mobile applications making them somewhat less relevant in
+today’s market.
+
+When attempting to improve a players understanding of the
+game, implement specific patterns of play or increase general
+strategic awareness, coaches are relying more and more on
+statistical analysis and data collection. A staggering 90% of the
+world’s data has been generated in just the last 2 years
+(ScienceDaily, 2013) and tennis recently demonstrated its
+commitment to technological modernization as the WTA tour
+recently partner with SAP analytics to provide ‘real-time’
+statistics and data measurement during matches to assist
+coaches with game plans and strategy. Additionally, the ITF has
+implemented detailed match statistics for all main draw
+matches at its pro-circuit events, which are available (in real
+time) through its ‘ITF Pro-Circuit’ application (iOS and Android)
+allowing many ‘transitional’ players the unique opportunity to
+gain insights into their own performance.
+
+With an increased desire for statistics and data, numerous
+applications have become available for match ‘tracking’
+including Tennis Stats HD, Pro Tennis Tracker, Tennis Trakker,
+Tennis Math, TennisStats and SmashPoint, all of which provide
+a vast array of information such as unforced errors, winners,
+serve %, and break points saved, as well as a multitude of other
+pertinent information that has become highly regarded and
+prevalent in professional sports (Haigh, 2009). These
+applications are typically available for a nominal fee and assist
+coaches in objectively evaluating performance which is
+imperative as studies suggest (Franks & Miller, 1991) that a
+coach’s ability to accurately recall events post-match is
+relatively poor (less than 40%) and so the need for data
+accumulation has increased. Craig O’Shannessy (2014) has
+become a modern pioneer of tennis analytics, data collection
+and strategy implementation as he has emphasized, in
+particular, the importance of first exchange, and for example
+how the most commonly occurring rally length (the mode) in
+professional tennis is just 1 shot.
+
+Qualitative feedback is rapidly becoming more redundant as
+quantitative analysis is now more accessible than ever
+providing unbiased objective fact as opposed to subjective
+opinion. Play Sight has rapidly become synonymous with
+modern tennis technology as its camera-and-kiosk system
+transforms a traditional tennis court in to a technological
+marvel through its interactive touch-screen kiosks, HD cameras,
+advanced image processing and unique analytical algorithms
+that provide players with a complete practice/match evaluation
+that objectively details key areas such as stroke type, ball
+trajectory, speed ,spin, and player movement and can even
+offer line calling, real-time video streaming and multi-angle
+video replays.
+
+Furthermore, a host of companies such as Babolat, Head, Zepp,
+Yonex, Sony and Wilson are now exploiting modern technology
+by affording players the opportunity to convert their tennis
+racket in to an ‘analytical machine’ through the use of ‘clip-on’
+racket sensors. According to Daniel Becker who is senior
+marketing manager of Babolat, the built in sensor uses an
+“accelerometer that analyzes the direction of the racket and a
+gyroscope that analyzes the rotation of the racket” in addition
+to “a piezoelectric sensor that analyzes the vibration of the
+racket to inform the location of the ball on the racquet”
+(marketwatch.com, 2015).
+
+TECHNOLOGY ‘OFF-COURT’
+As trainers attempt to increase their athletes overall athletic
+ability while simultaneously eliminating injury, the quest for a
+
+competitive advantage has crossed in to the strength and
+conditioning domain. From an athlete assessment standpoint,
+a useful tool for trainers to utilize is Omegawave; a small
+portable device which asseses a range of short and long-term
+adaptational changes that occur in the human body. The device
+calculates a range of pertinent information including heart
+activity (ECG), ultraslow brain wave activity (DC potential),
+neuromuscular fatigue, and reaction rate measurements, all of
+which can be viewed and instantly analyzed. By monitoring
+specific changes, trainers are able to modify training protocols
+as Omegawave's system provides applicable information that
+can help the athlete improve his/her stress resistance and work
+capacity, avoid overtraining, and reduce the risk of injury
+(Fomin, Nasedkin, 2013). All measurements are stored in a
+cloudbased system that provide results and recommendations
+that are relevant to the athlete’s cardiac, metabolic, Central
+Nervous System (CNS) and hormonal readiness, which are all
+primary markers when determining if an athlete is ready to
+perform successfully at any given time in a season.
+
+From an athlete monitoring perspective the use of Velocity
+Based Training (VBT) has become the industries primary
+method for determining strength training load. The ‘Push Band’
+is a wireless wearable device that measures movement velocity
+via the use of a 3D accelerometer and Gyroscope allowing
+trainers to instantly monitor fatigue and readiness by
+identifying reductions in movement velocity and power output.
+Power is often overlooked by strength trainers and athletes, but
+strength is only one factor of the equation (F=ma), (Zatsiorsky,
+1995), and different strengths have different velocities
+(Verkhoshansky, 1982) so this portable device ensures that
+proper development is exhibited throughout the entire forcevelocity continuum. A variety of factors such as current training
+status, chosen periodization model, power, velocity, and
+average/maximal repetitions are automatically accounted for
+by said device, and the information generated helps trainers
+determine optimal loading without relying on the naked eye or
+rates of perceived exertion (RPE).
+
+CONCLUSIONS
+Each of these technological advancements provides coaches,
+players, parents and trainers with useful information that can
+significantly alter training protocols, match evaluations,
+tournament scheduling, injury prevention and more. However
+the dangers presented are palpable, as now more than ever
+‘educators’ must ensure that their advice is sound, the
+information they provide is objectively supported, and the
+interpretation of the collected data is candid, as in the 21st
+century ‘everyone’ can readily access detailed information and
+statistics assuming the role of ‘expert’.
+
+Whether using video analysis, power output processors, or any
+other similar apparatus, it is important to exploit technology in
+a way that will be beneficial to all members of the sport's
+industry.
+Improved
+data/measurement
+acquisition
+processing, enhanced observations and testing, and improved
+equipment and training aids alone are not sufficient feedback
+to substantially improve performance (Giblin, Tor, &
+Parrington, 2016). An educated interpretation of the data
+provided by technology will ultimately be one of the most
+important aspects of the process as we strive for more efficient
+practice environments (Liebermann, et.al. 2002). The current
+technological revolution creates unfathomable opportunities
+associated with it, but also creates an abundance of dangers.
+Technology and coaching are only effective when there is an
+established and well defined culture, where disciplined people
+and disciplined thought co-exist. After all, this is only the
+beginning.

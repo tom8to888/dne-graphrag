@@ -1,0 +1,273 @@
+Title: The differences in energy system demands of competitive male tennis play between fast and slow courts
+Authors: Аnna Skorodumova, Igor Baranov
+Year: 2019
+Issue: Vol. 27 No. 79 (2019)
+Article id: 75
+
+www.itfcoachingreview.com
+December 2019. 27th Year. Issue 79. 11-14
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i79.75
+
+The differences in energy system demands of
+competitive male tennis play between fast and
+slow courts
+Аnna Skorodumova a        & Igor Baranov a
+a Federal Science Center for Physical Culture and Sport, Moscow, Russia.
+
+ABSTRACT
+
+This study investigated the energy system demand differences between matches played on fast
+courts and on slow courts of high-performance male players. Matches of Grand Slam matches
+played by Russian players were analysed. External indicators as such in-point playing time as a
+proportion of total match time were used to conduct the analysis. Data analysis found
+significant differences in all measured external indicators such as average match playing time,
+number of points and in-point time. Results also found a significant difference between match
+motor density (the percentage of total match time that made up effective playing time) for the
+two surface types, with the slow surface (clay) match motor density being significantly higher
+than that of the fast surface (grass and hard court), 14.5% and 12.9%, respectively. Subsequent
+analysis of point length reveals clay courts that slow courts had a significantly higher
+percentage of points that lasted more than 10 seconds whilst fast courts has a higher
+percentage of points under 10 seconds in length. It can be concluded that due to the length of
+the points, tennis primarily employs the ATP-PCr energy system for energy use, dipping into the
+anaerobic lactic acid energy pathways more on clay court matches. Whilst the aerobic pathways
+are not employed heavily in-point, they are still essential, possibly even more on clay court due
+to greater taxation on the anaerobic lactic acid pathway, as they provide the basis for ATP resynthesis between points. This signals toward endurance as a major component of fitness in
+tennis.
+
+Key words:  energy systems,
+fast and slow courts,
+metabolism, tactics.
+Received: 20 August 2019
+Accepted: 07 October 2019
+Corresponding author: Аnna
+Skorodumova, Federal Science
+Center for Physical Culture and
+Sport, Moscow, Russia. Email:
+apskorodumova@mail.ru
+
+INTRODUCTION
+Staff at the FSBI Federal Science Centre for Physical Culture
+and Sport conducted a study of the external indicators of
+energy system demands of male tennis players during
+competitive matches played on slow surfaces (clay courts) and
+fast surfaces (hard and grass courts). Grand Slam tournament
+matches, including the finals and semi-finals as well, in which
+Russian male tennis players participated, were researched
+and analysed.
+
+RESULTS
+
+The average external indicators of energy demands
+obtained from the study of the matches are presented in table
+1.
+
+Table 1. Average external indicators of energy system demand
+of male competitive play on fast and slow courts
+Indicator
+Surface Type
+
+Difference
+s
+
+Slow
+Fast
+P value (* =
+significant)
+Total
+match
+duration,
+min
+148.6±41,98
+125.43±55.05
+0.01*
+“Clean”
+match
+time
+(Actual
+in-point
+play
+time), s
+1293.20±520.7
+978.10±457.8
+0.01*
+Number
+of sets
+per
+match
+3.4±0.97
+3.13±0.94
+0.01*
+Number
+of games
+per
+match
+32.8±10.48
+29.87±1.84
+0.01*
+Number
+of points
+per
+match
+206.10±62.10
+193.20±73.93
+0.05*
+Total
+number
+of shots
+per
+match
+1066.92±436.4
+974.83±406.9
+0.01*
+Average
+point
+length, s
+6.27±1.13
+5.05±0.80
+0.01*
+Motor
+density,
+%
+14.5±2.25
+12.9±2.35
+0.01*
+Point
+rally
+pace,
+shots/mi
+n
+24.40±1.58
+27.09±1.28
+0.01*
+
+The average values of match motor density (the ratio of actual
+in-point play time to the total match time, expressed as a
+percentage) demonstrate that for only 14.5% and 12.9% of
+match time on average, depending on court surface type, are
+tennis players actually engaged within a point. For the rest of
+the time, players prepare for the serve or return, change sides
+of the court, or rest, etc.
+During actual in-point play time, 193-206 points are played
+depending on court surface type on average, and the profile of
+the duration of the points played on each court type is also
+different.
+The percentage profile of whether the points were less than
+or more than 10s in length for each surface type are presented
+in table 2. Research from recent years shows that after 6-10s
+of close to maximum intensity work, stocks of creatine
+phosphate diminish to the point that the creatine phosphate
+reaction stops being the main mechanism of ATP resynthesis
+(Cheremisinov ,2016;  Jansen et al., 2016), and the longer the
+work is, the bigger the role of lactic acid anaerobic sources in
+power supply.
+Table 2. Table 2. Percentage profile of points being either less
+or more than 10 seconds in length in matches of male tennis
+players on fast and slow courts
+Surface type
+Different duration points quantity, %
+≤10 s
+>10 s
+Fast
+Slow
+86,82 ± 4,36
+83,20 ± 5,31
+13,18 ± 4,36
+16,80 ± 5,31
+Differences
+Significant
+Significant
+
+DISCUSSION
+Thus, in a game on fast-paced courts, tennis players play larger
+percentages of points less than 10s in length, than on slow
+courts, and on slow courts, the percentage of the points
+played lasting more than 10 s was more than on fast courts. It
+is important to note that the differences between the
+percentages of points played that are under 10s and over 10s
+on fast and slow courts are statistically significant and they
+need to be considered when drawing up plans of training.
+
+Figure 1. The use of different energy systems for ATP re-synthesis during tennis matches of men on different surfaces, split by
+length of point (% of time)
+
+Therefore, of 14.5 % of match time on a slow and 12.9 % on a
+fast pace court surface (clean match time or in-point effective
+playing time), 83.2-86.8 % depending on court surface type
+could be seen to be met primarily with the anaerobic lactic
+acid free energy system – the ATP-PCr pathway, whilst 16.813.18% of effective play time energy needs are provided by
+lactic acid anaerobic systems (Cheremisinov,2016;  Jansen et
+al., 2016). 85.5-87.1 % of match time (out-of-point time),
+depending on the type of court surface, is provided with
+aerobic abilities and, of course, readiness of the athlete to play
+the following point will depend on their power and efficiency.
+Schonborn (1987) considers that the different energy systems
+are involved in tennis in the ratios of: anaerobic lactate free
+(ATP-PCr) – 70 %, anaerobic lactic acid – 20 %, and aerobic 10
+%). It would be possible to agree with this statement if a match
+was only one point in length.
+However, in our opinion, big requirements are imposed on
+aerobic abilities in a match due to the fact that for more than
+80 % of match time, they provide the player with ATP
+resynthesis after each point. The more intense and the longer
+the point, the higher the rate of aerobic transformations. The
+leading contributor in rate of aerobic process speed is the
+ATP/ADP ratio - from the beginning of intense muscular
+activity and with further increases in intensity, concentration
+of ATP decreases, and ADP increases.
+
+It is necessary to pay tribute to Roger Federer and experts
+working with him. Training is conducted in such a way that in a
+match, on average 73 % of all points are 4 shots or less. Points
+5-8 shots in length occur 19 % of the time. Only in 8 % of cases
+is a point 9 shots or longer (Perov, 2019). It means that 92 %
+of all points are conducted at the expense of the lactic free
+anaerobic abilities (ATP–PCr) and only in 8 % of cases, the
+lactic anaerobic energy system begins to become more active.
+For comparison, the author provides average values of
+number of points at different lengths for Novak Djokovic - up
+to 4 shots in 55 % of cases, 5-8 shots in 26 % of cases and 9 or
+more shots in 19% of cases, which testifies to a larger
+possibility of lactic acid build-up, so and bigger requirements
+to the aerobic productivity of the athlete.
+It should be noted that a game on a slow surface shows to
+have even bigger requirements on the aerobic abilities of
+tennis players, than on fast, since a higher proportion of time
+is spent actually in-point play. Even though points may be
+longer on slow-paced courts, with bigger expenditure of
+creatine phosphate stores, according to rules of competition, a
+breaks in play are the same length. During this pause it is
+necessary to resynthesise creatine phosphate. The greatest
+contributor to ATP resynthesis is played by aerobic oxidation
+processes in this case.
+Movements during a point can be characterised as high in
+reaction speed, acceleration, single movement speed,
+movement frequency (Godik, 2006; Zatsiorsky, 1966 ); the
+movements are high-speed and powerful requiring a full array
+of developed coordination abilities (balance, accuracy,
+
+differentiation of muscular efforts, etc.). But tennis players do
+not play just one point but on average more than 190 points
+during the match, and this means that the emphasis on the
+importance of qualities changes. High-speed, power and
+coordination abilities should be maintained at a high level for
+long periods of time.
+Endurance is the ability to perform work without a change in
+parameters (in tennis – without reducing intensity, accuracy,
+variability of actions, speed and explosiveness, etc.) despite
+the arising exhaustion (Matveev, 1977; Farfel,  1949;
+Mikhaylov, 1967; Platonov, 2014) and it begins to prevail as
+the most necessary component of fitness. It is also necessary
+for the tennis player once the match reaches about 2 hours in
+duration.
+Another aspect that signals to endurance as a major
+component of fitness is tennis is that the qualities which are
+necessary for a single point have to be met throughout the
+entire duration of the competitive activity, which means that
+high-speed, power, coordination and other abilities have to be
+maintained not just for a short period of time but long ones.
+The conducted factorial analysis of physical and functional
+fitness of high-performance tennis players and the calculated
+correlation coefficients between indicators of physical and
+functional fitness and results of competitive activity confirm
+the conclusions drawn.

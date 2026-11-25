@@ -1,0 +1,20 @@
+{
+    "total_runtime": 3432.624341726303,
+    "num_documents": 0,
+    "update_documents": 0,
+    "input_load_time": 0,
+    "workflows": {
+        "create_community_reports": {
+            "overall": 2255.9025757312775,
+            "peak_memory_bytes": 36068576,
+            "memory_delta_bytes": 7228178,
+            "tracemalloc_overhead_bytes": 5027152
+        },
+        "generate_text_embeddings": {
+            "overall": 1176.6228580474854,
+            "peak_memory_bytes": 35492406,
+            "memory_delta_bytes": 19939110,
+            "tracemalloc_overhead_bytes": 15355552
+        }
+    }
+}

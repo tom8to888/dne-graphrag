@@ -1,0 +1,161 @@
+Title: Tennis at the elite level – An ITF technical centre review
+Authors: Jaime Capel-Davis
+Year: 2017
+Issue: Vol. 25 No. 73 (2017)
+Article id: 297
+
+www.itfcoachingreview.com
+December 2017. 25th Year. Issue 73. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.297
+
+Tennis at the elite level – An ITF technical
+centre review
+Jamie Capel-Davies
+ABSTRACT
+
+In order to fulfil its mission, the Technical Centre strives to quantify the
+parameters that describe the current nature of tennis at the elite level, and thus
+constitute ‘the state of the game’. The Technical Centre’s annual review of the
+state of the game consists of player analysis, including match statistics, and
+monitoring the equipment used by players.
+
+Key words: player analysis,
+equipment analysis, match
+statistics
+Received: 26 May 2017
+Acepted: 01 Nov 2017
+Corresponding author: Jamie
+Capel-Davies, International
+Tennis Federation
+Email: jamie.capeldavies@itftennis.com
+PLAYER ANALYSIS
+Physiology
+Figure 1 shows that the average height of the top 50 women
+has increased by 1 cm since 2002, compared to an increase of
+4 cm for the top 50 men. This increase in the average height of
+the men was due to the number of players over 200 cm tall that
+are currently active – in 2002 there were none – and a general
+increase in height across all 50 players (figure 2).
+
+Taller players typically have a greater arm span, which results
+in a higher racket head speed (for a constant swing speed), and
+hence faster serve. In addition, taller players are able to serve
+with a steeper trajectory and with a greater margin for error. In
+2002, women in the top 50 were 12 cm shorter, on average,
+than their male counterparts. This difference has now increased
+to 15 cm. The tallest woman in the current top 50 is 4 cm
+shorter than the average height of the top 50 men (189 cm).
+
+Figure 2. Individual heights of the top 50 men (blue) and women
+(red) in 2002 and 2016.
+
+Figure 3 shows that since 2002 the average age of the top 50
+women has increased by 2 years, while the average age of the
+top 50 men rose by 3 years. In 2002, few players in the men’s
+or women’s top 50 were over 30 years old. Currently, nearly half
+of the top 50 men are in their thirties (figure 4). This suggests
+that the careers of the top players are being extended and
+fewer younger players breaking into the top 50 than did
+previously.
+
+Serve speed and success
+In both the men’s and women’s game, serve speed increased
+between 2002 and 2005, before reaching a plateau in most of
+the Grand Slams (figure 5). Since 2012, serve speed at the
+Australian Open has been increasing (for both men and
+women). Over the past decade, the top 20 fastest serving men
+served, on average, at 220 km.h-1 and the women at 185 km.h1. The only major deviation from these values during this
+period was in the women’s 2010 competition at Roland Garros,
+which appears to have been an anomaly (at 195 km.h 1).
+
+Figure 6 shows that the incidence of aces in the women’s game
+has been reasonably stable since 2002. In the men’s game the
+frequency of aces at Wimbledon has increased, and was
+roughly double that of Roland Garros for much of the period.
+Throughout the period, men served aces at twice the rate of
+women, which can be attributed to the 35 km.h-1 average
+difference in serve speed between the genders. Figures 5 and
+6 suggest that the increase in stature in the men’s game has
+not greatly impacted the speed of serve, but may have
+influenced the numbers of aces (as the additional height could
+have been used to improve the placement of the serve).
+
+The serve has been most potent at Wimbledon, which is
+testament to the influence of the speed of the court (figure 7).
+
+The recent increase in serve speed at the Australian Open
+correlates with an increase in ace rate and serve points won.
+Surprisingly, the 10 km.h-1, or so, increase in serve speed
+between 2002 and 2005 had little impact on serve points won
+
+(or aces). It is also remarkable that although the aces served
+were less frequent at Roland Garros serve points won were
+comparable to those at both the Australian Open and US Open
+between 2006 and 2013.
+
+Figure 8 shows the impact of serve points won on games
+broken. The serve has been less dominant in the women’s
+game than it has been in the men’s. In the past 10 years, the
+average percentage of games broken in men’s matches has
+been less than 25% at all of the Grand Slams and below 20% at
+Wimbledon.
+
+EQUIPMENT ANALYSIS
+Rackets
+Figure 9 shows the variation in strung mass of the rackets used
+by the top 50 men and women in 2016 . The most common
+racket mass for both men and women was 322 g, although the
+men’s average racket mass was 6 g heavier (325 g compared to
+319 g).
+
+There was little difference in the variation in swingweight
+(distribution of mass within the frame) of rackets used by the
+top 50 men and women in 2016 (figure 12). The average
+swingweight for men was 324 kg·cm2, compared to an average
+of 322 kg·cm2 for women. Greater racket mass and
+swingweight generate faster serve speeds (for a given swing
+speed).
+
+Balls
+Figure 11 shows a general trend of increasing bounce height
+for balls obtained from tournaments up to 2013, which would
+increase serve speed (all other factors being equal). However,
+in each of the last three years the average bounce height of
+tournament balls has decreased. The average bounce height of
+tournament balls is now the same as that for balls submitted
+for approval (which has typically remained close the midpoint
+of the specifications since 2002).
+
+Figure 12 indicates that the mass of tournament balls has
+increased slightly over time, which has negligible impact on the
+speed of the serve (at the point it reaches the receiver), and has
+been continually greater than that for balls submitted for
+approval by manufacturers. The average values for tournament
+and approval balls have remained within 0.5 g of the midpoint
+of the specifications (57.7 g).
+
+CONCLUSION
+The average height of the top 50 has increased since 2002: by
+1 cm, to 174 cm, for women; and by 4 cm, to 189 cm, for men.
+These increases in stature have not had a noticeable impact on
+serve speeds of the top 20 fastest servers at the Grand Slams.
+The men served, on average, 35 km.h-1 faster than the women,
+resulting in double the frequency of aces. The effectiveness of
+the serve has increased at Roland Garros, and more recently at
+the Australian Open, but continues to be most potent at
+Wimbledon. The serve is a key shot in the game and
+constituted over a quarter of all shots in the Davis Cup and Fed
+Cup.
+
+The top 50 men tended to use only marginally heavier rackets
+than their female counterparts in 2016, and was little difference
+in the swing weight of the rackets between the genders.
+Therefore, the choice of racket is unlikely to be responsible for
+the difference in men’s and women’s serve speed. The average
+bounce height of balls used in tournaments has decreased
+over the last three years, to the point where it is close to the
+midpoint of the specification (and the value for balls submitted
+for approval). The average mass of balls used in tournaments
+has increased slightly, but remains close to the midpoint of the
+specifications.

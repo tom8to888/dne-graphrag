@@ -1,0 +1,483 @@
+Title: The comparison of a top-level Japanese tennis player's serve-performance evolution between two seasons
+Authors: Bumpei Sato, Hiroki Yamaguchi, Shuhei Sato, Jin Eshita
+Year: 2022
+Issue: Vol. 30 No. 88 (2022)
+Article id: 347
+
+www.itfcoachingreview.com
+December 2022. 30th Year. Issue 88. 29-33
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i88.347
+INTRODUCTION
+In tennis, the serve is the only skill that allows a player
+to initiate play at his or her own discretion (Chow et al.,
+2003; Fitzpatrick et al., 2019; Gillet et al., 2009; Kovacs &
+Ellenbecker, 2011; Roetert et al., 2009). It is an important
+skill that can determine the result of the match. Tennis
+serve performance has been found to be greatly influenced
+by the racket (frame material and string tension) and player
+competitive level (Sato & Funato, 2020) and body composition
+(Brody, 1987; Colomar et al., 2022; Trabert & Hook, 1984).
+It is customary for studies on servers to consider the type
+of serve (i.e., flat, slice, and kick) the player is attempting
+to perform. According to Sato (2021b), the flat serve is an
+offensive stroke with high speed and low rotation speed. The
+slice rotates in the lateral direction inducing the receiver
+to be pushed out of the court after bouncing. The kick, also
+known as a spin serve, has the characteristic of bouncing high
+because it is a top spin serve. The rotation of the ball causes
+a big change after bouncing, which may lead to an error in
+the opponent’s receiving technique, so spin is an important
+factor in evaluating serve performance. Studies on tennis
+serves also tend to use speed guns and high-speed cameras
+to analyze ball speed (Chow et al., 2003; Elliott et al., 2003).
+However, it is known that the behavior produced by each of
+the three types of serve is different (Sakurai et al. 2013), and
+since the change in bounce direction that occurs after landing
+could be influenced by different behaviors among serve types,
+we should consider the types of serves the player is trying to
+perform. In evaluating serve performance, in addition to the
+ABSTRACT
+This study sought to determine the impact of changes in serve performance (relationship
+between speed, spin rate, reproducibility, and impact height) on world rankings for
+one top-level Japanese tennis player in 2017, when he became the All Japan Student
+Champion, and in 2022, when he represented Japan in the Davis Cup and won the ITF
+tournament (M25 Monastir: 10 Jan - 16 Jan 2022). This study clarifies the impact of
+changes in serve performance on world rankings in 2022. The results showed that,
+among the three types of serves (flat, slice, and kick), there were higher values for slice
+and kick in 2022 compared to 2017. Higher ball speed values were found for flat in
+2022 and lower values for slice and kick in 2017. In 2022, all serve heights were higher,
+resulting in an increase in the flat success rate, which had the lowest reproducibility.
+These results suggest that longitudinal measurement and evaluation of the relationship
+between speed, spin rate, reproducibility, and impact height when serving is important
+for improving competitive performance.
+The comparison of a top-level Japanese tennis
+player's serve-performance evolution between
+two seasons
+Bumpei Sato1, Hiroki Yamaguchi2, Shuhei Sato3 & Jin Eshita4
+1Meiji University, Japan. 2Doshisha University, Japan. 3Sendai University, Japan. 4Aoyamagakuin High School, Japan.
+Key words: serve performance,
+impact height, ball speed
+& number of revolutions,
+reproducibility.
+Received: 25 June 2022
+Accepted: 29 July 2022
+Corresponding author: Bumpei
+Sato. Email: bsato@meiji.ac.jp
+speed of the ball, ball spin rate is thought to be an important
+indicator, because the spin rate, which causes the trajectory
+of the ball to change, is the factor that induces errors in the
+opponent’s prediction of how the ball will bounce and thus in
+his or her receiving skills.
+In recent years, with the development of the TRACKMAN
+device to measure ball behavior, serve performance is now
+evaluated and analyzed comprehensively according to
+factors such as ball behavior (speed and spin rate), course,
+and reproducibility, and these data can be used by coaches
+for feedback (Murata & Takahashi, 2020; Sato et al., 2017;
+Murakami et al., 2016). Applying these experimental
+instruments, it was reported that high-quality serve can
+be evaluated and determined by analyzing the relationship
+between ball speed and spin rate (Sato, 2021b; Sato & Funato,
+2020; Muramatsu et al., 2010; Muramatsu et al., 2015;
+Murakami et al., 2016). Sato and Funato (2020) attempted
+to quantify the relationship between players’ competition
+level and serve performance in terms of serve speed and spin
+rate. They analyzed the data cross-sectionally by comparing
+the serve performance among male tennis players at three
+levels (i.e., professional, college student athlete, and junior
+athlete). They found differences in serve performance at
+the top level of each category, and performance could be
+evaluated by quantifying speed, spin rate, and the number
+of attempts required to make a successful serve. Expanding
+on this research and collecting data from wider levels, Sato
+(2021b), gathered serve performance data from Japanese
+COACHING & SPORT
+SCIENCE REVIEW
+top tennis players at various levels (including male and female
+professional players, student athletes, junior athletes, and
+wheelchair athletes) and measured the differences in serve
+performance (serve speed, spin rate, and reproducibility). The
+statistical analysis showed that players at higher competition
+levels tended to have a higher score for speed and spin rate
+in each type of serve (i.e., the male professional players’
+performance index was located in the upper right of the
+approximate curve obtained from the analysis). They also
+found that, for most players, the serve speed differed by serve
+type, ranked from fastest to slowest: flat, slice, and then kick.
+A rather different trend was seen for spin rate, which was
+highest for kick, slice, and lowest for flat). They also found that
+a negative correlation (or trade-off) between serve speed and
+spin rate for all three serve types. The results of their study
+were congruent with previous studies, such as Muramatsu
+et al. (2015). However, the significance of the study of Sato
+(2021b) was that they implemented a experimental data
+collection method. The data analyzed in Muramatsu et al.
+(2015) was a partial extract of the actual match and did not
+consider strategic bargaining in the match. In an actual game,
+the 1st serve is not always hit with a fast ball because players
+bargain with the opponent. In some cases, the 2nd serve,
+which requires a high success rate, is not hit with a rotating
+system. With regard to these issues, their studies were not
+strictly controlled. Judging from these previous studies, Sato
+(2021b) was a significant study that provided new evidence on
+the relationship of players’ competitive level, the serve speed,
+and the spin rate. From the different studies, Sato (2021b)
+organized the “Serve Performance Evaluation Table,” which
+quantitatively measures serve speed, spin rate, and success
+probability rate based on these findings.
+Other than ball speed and spin rate, the impact height of the
+serve is also a major factor in improving serve performance,
+and there is a correlation between impact height and serve
+performance (Vaverka & Cernosek, 2013). Vaverka and
+Cernosek (2007) found that when the impact height increased
+by 10 cm from 2.7 m, which is the minimum to hit the service
+line with a straight ball, the landing point moved 25–30 cm
+from the service line toward the net for each 10 cm. Japanese
+tennis players (in ATP Tour Inc. 2021) tend, on average, to be
+shorter than the world’s top tennis players. According to the
+ATP Tour website, concerning the height of the world's top 10
+and Japan's top 10 ranked players in 2021, the average height
+of the top Japanese players tended to be about 11cm shorter
+than that of the world's top players. In this regard, a conscious
+approach to raising the impact point higher than now seems
+to be an essential task since this improvement would lead to a
+higher success rate and improved quality of the serve, which
+in turn would support Japanese players to take advantage of
+the game.
+What was interesting about prior studies was that serve
+performance was compared multidimensionally (speed, spin
+rate, and reproducibility) between different competition levels
+to gain rich information about estimated serve performance
+for researchers, coaches, and the players themselves. Having
+an index of this kind will be beneficial because they can
+draw inferences about serve performance and learn from an
+objective data source. Although such cross-sectional studies
+are beneficial in that they provide a better understanding of
+players’ performance level and serve performance, they did
+not measure serve performance at different stages in the
+players’ career. Limited studies on the relationship between
+serve performance and players’ competitive performance
+have continuously measured, analyzed, and evaluated tennis
+players longitudinally at two different career stages.
+In this study, the serve performance (relationship between
+speed, spin rate, reproducibility, and impact height) of a toplevel Japanese tennis player A (hereafter, Subject A) was
+assessed at two time points: (a) in 2017, when he became the
+All Japan Student Champion, and (b) in 2022, when he became
+a professional tennis player, represented Japan in the Davis
+Cup, and won the ITF Tournament. This study sought to clarify
+the impact of serve performance changes on performance
+level. Such data, together with those of Sato and Funato
+(2020) and Sato (2021b), provide additional knowledge, with
+both cross-sectional and longitudinal data, about players’
+competitive level and serve performance.
+METHODS AND PROCEDURES
+Subjects
+The subject was a current Davis Cup player representing
+Japan, Subject A. Subject A’s physical characteristics and
+changes in ranking are shown in Table 1. Subject A adopted
+the foot-up type (FU) stance technique for the lower limbs.
+Table 1
+The change in subject’s physical characteristics and ranking.
+Year
+2017
+2022
+Age (yrs)
+Body height (cm)
+182.2
+182.4
+Body Mass (kg)
+76.7
+79.5
+JTA Ranking*
+ATP Ranking**
+*JTA Ranking: Domestic ranking of the Japan Tennis Association (at
+the time of measurement). **ATP Ranking: International ranking of the
+Association of Tennis Professionals (at the time of measurement).
+Procedure
+Before the experiment, the subject had sufficient time to hit
+three types of serves (flat, slice, and kick) as a warm-up. We
+asked the subject to use the racket to which he was accustomed
+for experimental trials. The ball used for the experiment was
+a Dunlop Fort (International Tennis Federation ITF Certified
+Ball/ Japan Tennis Association JTF Certified Ball, Pressure
+Rise Tennis Ball, manufactured by Dunlop). The subject was
+required to hit flat and kick serves toward the center (T zone),
+and the slice serve to the wide direction with maximum effort,
+and the ten fastest serves for each type were analyzed. Each
+serve was considered a successful trial if it landed in the target
+area (2 m long × 1 m wide). Reproducibility (serve probability)
+was measured from the start of the trial until each of the
+serves successfully landed in the targeted area five times.
+Measurement material
+We used a TRACKMAN Tennis Rader (TRACKMAN Inc), a
+measuring device that can track and measure Doppler radar
+from the launching to the landing of the ball, to measure
+the ball speed and the spin rate of the serve. The accuracy
+of TRACKMAN was examined by Sato et al. (2017), who
+compared the ball speed and spin rate calculated from
+TRACKMAN and Vicon, and the results showing a high
+correlation for both speed and spin rate (speed, r = 0.9969;
+spin rate, r = 0.9788). During measurement, the center of the
+TRACKMAN was placed on the extension of the center mark,
+5.26 m behind the baseline and 2.65 m in height, so that the
+range of the doppler radar emitted could sufficiently cover
+the sideline of the court.
+Methods used for the analysis
+Ball speed and spin rate calculated from TRACKMAN were
+analyzed statistically using Spearman’s rank correlation
+coefficient. We measured how the values of the speed, spin
+rate, and impact height of the subject’s serve performance
+changed from 2017 to 2022 by calculating the rate of change
+of those values.
+Ethical considerations
+This study was approved by the Meiji University Ethics
+Review Committee (Approval No. 557). The subject was
+provided with written and verbal information regarding
+the purpose and contents of the study. It explained that the
+results would not be used for anything other than the purpose
+of this study and that participation in the experiment was
+voluntary. In addition, an explanation that there would be
+no disadvantage for not participating in this study was also
+included. Finally, the subject could cancel participation even
+during the measurement.
+RESULTS AND DISCUSSION
+Ball speed and spin rate
+Prior research has shown that there is a trade-off relationship
+between ball speed and spin rate, with higher speeds resulting
+in lower spin rates (Sakurai et al., 2013). Muramatsu et al.
+(2015) also found that the higher the level of competition,
+Figure 1. The Relationship Between Ball Speed and Spin Rate (2017
+vs 2022).
+Figure 2. The Speed (km/h) of the Serves (2017 vs 2022)
+Figure 3. The Spin Rate (rpm) of the Serves (2017 vs 2022).
+the higher the serve speed (x-axis) and the spin rate (y-axis),
+which were located in the upper right of the curve of the
+regression line. Some studies have stated that the same ball
+speed shows a tendency for a greater spin rate and the same
+spin rate shows a tendency for higher speed (Murakami et al.,
+2016; Muramatsu et al., 2015; Sato & Funato, 2020). However,
+focusing on the values of Subject A’s flat serve in 2017 and
+2022, we found a significant increase in spin rate (47%),
+while only a slight decrease in speed (1%), which indicates
+that speed and spin rate do not necessarily follow a trade-off
+relationship, which commonly occurs when evaluting serves
+(fig. 2, 3). This positive development may be one indicator
+showing higher performance for Subject A’s serves (and for
+the flat serve in particular) in 2022 compared with 2017. The
+increase in spin rate for the flat serves, the so-called fastball
+type, affects the behavior of the ball both in the air and after
+it lands in the service area, making it more difficult for the
+opponent to hit the ball back and contributing to the server
+proceeding in the game favorably. Given that the approximate
+line in 2022 went up to the upper right location compared
+with that from 2017, it can be presumed that this indicates an
+improvement in the quality of Subject A’s serves, in line with
+Muramatsu et al. (2015) (fig. 1). In addition, when this value
+was assessed using the serve rubric (3-point scale) created by
+Sato (2021a, b), we can assume that the improvement from a
+score of 2 to a score of 3 has made it possible for the subject
+of this study to take advantage of the game having a higher
+quality of serve.
+Reproducibility and impact height
+The relationship between ball speed, spin rate, and
+reproducibility is an important indicator for assessing
+competition level (Sato & Funato, 2020; Sato, 2021b). When
+looking at Subject A’s impact height in 2022, we found that it
+was higher than in 2017 (an average increase of 5.6%) (fig. 4). In
+addition, in the flat serve, where the trade-off between speed
+and reproducibility (Chow et al., 2003) generally indicates a
+tendency toward lower reproducibility, the reproducibility
+improved from 10 serves required for a successful attempt
+for the serve task in 2017 to 6 serves in 2022. Vaverka and
+Cernosek (2013) found a correlation between impact height
+and serve performance, and Brody et al. (1987) stated that
+a higher impact height increases the opponent’s margin of
+error. In fact, the success probability of the first serve (which
+is said to often be hit in a fastball type) by the two players
+ranked first (J.I.: Body height; 2.08m) and second (R.O.: Body
+height; 2.11m) in the Serve Rating calculated by the ATP Tour
+in 2022 was 68.8% for J.I. and 65.9% for R.O. (ATP Tour, 2022),
+with an average of 2.3 to 2.4 double faults per match (i.e., an
+extremely low probability rate). The estimated impact height
+is said to be about 150% of the height of the player (Whiteside
+et al., 2013), and because the impact height of J.I., the world’s
+No. 1 server, is estimated to be 3.16 m, the margin of error is
+extremely high.
+It can be inferred that an increase in body weight (+2.8
+kg) brought about an improvement in overall physical
+performance, although there was no increase in height
+between the two measurement points. The leg drive during
+the loading phase (hereafter referred to as leg drive) resulted
+in a large ground reaction force (GRF; Elliott & Wood, 1983).
+This large GRF may have enhanced the movement linking
+knee flexion to jumping, resulting in a higher impact height
+compared to 2017. Subject A’s use of FU in the lower limb
+stance technique is another important technique for improving
+serve performance among Japanese players (Konishi et al.,
+1997), who are generally relatively short in stature. It has
+been suggested that FU tends to increase vertical GRF during
+the loading phase and may increase impact height (Elliott &
+Wood, 1983). This would be one essential process to include
+when the change in impact height is used as an evaluation
+indicator following Sato (2021b) and Sato and Funato (2020),
+and could be a reason for Subject A’s improved competition
+level (i.e., world ranking). Increased impact height is a major
+factor (Bartlett et al., 1995) in producing higher ball speed
+and higher serve performance. How the player uses the chain
+of mechanical energy to hit the ball with the racket is a major
+factor for the speed and spin rate of the serve. As mentioned,
+the minimum impact height for a straight ball to land on the
+service line is 2.7 m (Brody, 1987; Chow et al., 2003; Trabert
+& Hook, 1984), and increasing the impact height by 10 cm
+moves the point of impact 25–30 cm closer to the net from the
+service line (Vaverka & Cernosek, 2007). For Japanese tennis
+players, the approach to impact height is a critical issue for
+performance improvement. The average height of the world’s
+top-level tennis players (ATP Ranking 1–10) is significantly
+higher than that of the top-level Japanese tennis players (JTA
+Ranking 1–10) (ATP Tour, 2021). According to Whiteside et
+al. (2013), the estimated 2017 and 2022 impact height for
+Subject A can be estimated as 2.73 m. Adding the increase in
+impact height (5.6%) obtained in this study, the impact height
+would have been raised to approximately 2.87 m. These
+results suggest that Subject A consciously focused on the
+relationship between the net and impact height, which may
+be a factor for the higher probability of successful attempts
+(Bartlett et al., 1995), mainly by strengthening the lower
+limb muscle groups and improving loading technique, thus
+leading to a higher vertical GRF than in 2017. The increase
+in impact height may have increased the margin of error and
+contributed to the improvement in the reproducibility of flat
+serve values (2017: 10 balls vs. 2022: 6 balls).
+CONCLUSION
+Longitudinal measurement and quantification of serve
+performance in tennis players will reveal how serve
+performance improvements affect competitive performance
+(i.e., ranking). This study sought to clarify the impact of changes
+in serve performance on world rankings by comparing and
+examining the speed, spin rate, reproducibility, and impact
+height of a Japanese top-level tennis player in 2017 and 2022.
+There are four key findings. First, higher values were found
+for slice and kick in 2022 compared to 2017. Second, higher
+values were observed for speed in 2022 for flat and lower
+values for slice and kick compared to 2017. Third, higher
+values for impact height in all three serve types were observed
+in 2022 compared to 2017. Fourth, high reproducibility
+(based on the number of attempts required for success) in
+the flat serve, together with an increase in speed and spin
+rate, was observed in 2022, although this type of serve is
+highly influenced by the trade-off relationship between
+speed and spin rate. These results suggest that longitudinal
+measurement and evaluation of serve performance (speed,
+spin rate, repeatability, and impact height) is important for
+improving competitive performance.
+LIMITATIONS AND FUTURE ISSUES
+This study examined the relationship between serve
+performance and world ranking by focusing on the serve
+performance of a Japanese top-level tennis player (Subject
+A) in 2017 and 2022 in terms of four variables: speed, spin
+rate, reproducibility, and impact height. In addition to the
+measurements used in this study, future studies could
+also analyze movement, body composition (muscle length,
+thickness, body fat percentage, etc.), and the energy flow
+generated by the upper and lower limbs to contribute to
+further improvement of athletic performance.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.
+RERERENCES
+ATP Tour, I. (2021) ATP RANKINGS. https://www.atptour.com/en/rankings/
+singles (Accessed 10, January, 2021)
+ATP Tour, I. (2022) ATP Stats Leaderboards
+Bartlett, R.M., Filler, J., & Miller, S. (1995) A three-dimensional analysis of
+the tennis serves of national (British) and county standard male players.
+Science and racket sports, 98-102
+Brody, H. (1987) Tennis science for tennis players; University of Pennsylvania
+Press. https://doi.org/10.9783/9780812201468
+Chow, J., Carlton, L., Lim, Y.T., Chae, W.S., Shim, J.H., KUENSTER, A., &
+Kokubun, K. (2003) Comparing the pre-and post-impact ball and
+racquet kinematics of elite tennis players' first and second serves: a
+preliminary study. Journal of sports sciences, 21(7), 529-537. https://doi.
+org/10.1080/0264041031000101908
+Colomar, J., Corbi, F., Brich, Q., & Baiget, E. (2022) Determinant Physical Factors
+of Tennis Serve Velocity: A Brief Review. International Journal of Sports
+Physiology and Performance, 17(8), 1159-1169. https://doi.org/10.1123/
+ijspp.2022-0091
+Elliott, B.C. & Wood, G.A. (1983) The biomechanics of the foot-up and foot-back
+tennis service techniques. Aust J Sports Sci, 3(2), 3-6
+Fitzpatrick, A., Stone, J.A., Choppin, S., & Kelley, J. (2019) Important performance
+characteristics in elite clay and grass court tennis match-play. International
+Journal of Performance Analysis in Sport, 19(6), 942-952. https://doi.org/
+10.1080/24748668.2019.1685804
+Gillet, E., Leroy, D., Thouvarecq, R., & Stein, J.-F. (2009) A notational analysis
+of elite tennis serve and serve-return strategies on slow surface. The
+Journal of Strength & Conditioning Research, 23(2), 532-539. https://doi.
+org/10.1519/JSC.0b013e31818efe29
+Figure 4. The Impact Height of the Serves (m) (2017 vs 2022).
+Konishi, H., Oki, F. & Matsumoto, K. (1997) A Study of Growth in the Height of
+Children by the International Comparative Method - In the cases of Japan
+and Switzerland -. Japan Society of Human Growth and Development
+Research (25), 29-33. https://doi.org/10.5332/hatsuhatsu.1997.29
+Kovacs, M.S. & Ellenbecker, T.S. (2011) A performance evaluation of the tennis
+serve: implications for strength, speed, power, and flexibility training.
+Strength & Conditioning Journal, 33(4), 22-30. https://doi.org/10.1519/
+SSC.0b013e318225d59a
+Murakami, S., Takahashi, H., Muramatsu, T., Sato, B., Sato, M., Koya, N., Kitamura,
+T., & Maeda, A. (2016) Analyzing the speed and spinning frequency of tennis
+serves: measurements with an instrument that uses radar technology.
+Japan Society of Sports Performance Research, 8, 361-374
+Muramatsu, T., Ikeda, R., Takahashi, H., Michikami, S., Iwashima, T., & Umebayashi,
+K. (2010) Ball spin in the serve of the world's top 50 tennis players at an
+international tournament. Japan Society of Sports Performance Research,
+2, 220-232
+Muramatsu, T., Takahashi, H., & Umebayashi, K. (2015) Relationship between
+speed and spin of tennis serve in world-class tennis players. Japanese
+journal of tennis sciences, 23, 1-7
+Murata, M. & Takahashi, H. (2020) Verification of the accuracy and reliability of
+the TrackMan tennis radar. Proceedings of the Institution of Mechanical
+Engineers, Part P: Journal of Sports Engineering and Technology,
+1754337120953005. https://doi.org/10.1177/1754337120953005
+Roetert, E.P., Ellenbecker, T.S., & Reid, M. (2009) Biomechanics of the tennis
+serve: implications for strength training. Strength & Conditioning Journal,
+31(4), 35-40. https://doi.org/10.1519/SSC.0b013e3181af65e1
+Sakurai, S., Reid, M., & Elliott, B.C. (2013) Ball spin in the tennis serve: spin rate
+and axis of rotation. Sports Biomech, 12(1), 23-29. https://doi.org/10.108
+0/14763141.2012.671355
+Sato, B. (2021a) Evaluating the quality of the tennis serve ~The relationship
+between the velocity of the ball and the number of revolutions~. Strength
+& conditioning journal, 28 (8), 4-13
+Sato, B. (2021b) Relationship between ball velocity and spin rate in tennis
+service for Japanese top athletes by means of doppler radar tracking
+system.; Nippon Sport Science University
+Sato, B. & Funato, K. (2020) A Study on Quantification and Application of Serve
+Ball Speed and Spin Rate of Each Competition Level in Japanese Male Top
+Tier Tennis Player : Special Emphasis on Level of Competition and Service
+Success Rate. Journal of physical exercise and sports science, 25(2), 85-92
+Sato, B., Sato, S., Eshita, J., & Funato, K. (2021) Attempt to evaluate serve
+performance of Japanese top level tennis players using a doppler radar
+device-Focusing on the ball speed, the spin rate, and the number of trials
+required to achieve the task. Human Performance Measurement, 18, 1-11
+Sato, B., Wakatsuki, R., Kashiwagi, Y., & Funato, K. (2017) Ball velocity and spin
+at the impact of tennis serves: Reliability of a ball motion measurement
+instrument (TRACKMAN). ITF Coaching and Sport Science Review, 73(25),
+24-26. https://doi.org/10.52383/itfcoaching.v25i73.305
+Trabert, T. & Hook, J. (1984) The serve: Key to winning tennis; Dobb, Mead
+Vaverka, F. & Cernosek, M. (2007) Za'kladnı' teˇlesne' rozmeˇry a tenis [Basic
+body dimensions and tennis]. Olomouc: Palacky University
+Vaverka, F. & Cernosek, M. (2013) Association between body height and serve
+speed in elite tennis players. Sports Biomechanics, 12(1), 30-37. https://
+doi.org/10.1080/14763141.2012.670664
+Whiteside, D., Elliott, B.C., Lay, B., & Reid, M. (2013) A kinematic comparison
+of successful and unsuccessful tennis serves across the elite development
+pathway. Human Movement Science, 32(4), 822-835. https://doi.
+org/10.1016/j.humov.2013.06.003
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2022 Bumpei Sato, Hiroki Yamaguchi, Shuhei Sato & Jin Eshita
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms

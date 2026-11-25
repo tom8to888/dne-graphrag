@@ -1,0 +1,185 @@
+Title: The PIQ: a Tool for Assessing Parental Involvement in Tennis
+Authors: Virginie Hurtel
+Year: 2010
+Issue: Vol. 18 No. 52 (2010)
+Article id: 582
+
+www.itfcoachingreview.com
+December 2010. 18th Year. Issue 52. 35-37
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v18i52.582
+
+The PIQ: a tool for assessing parental
+involvement in tennis.
+Virginie Hurtel.
+Bourgogne University, France.
+ABSTRACT
+Success in tennis is based on a combination of different social (e.g. parents,
+coach) and individual (e.g. training, genetics) factors. To date French tennis has
+no tool to evaluate the role of parents. In order to fill in this gap in the literature,
+the present study puts forward the creation and validation of a Parental
+Involvement Questionnaire (PIQ) measuring the three aspects of long term
+parental support: their logistical involvement (transport), their emotional
+involvement (encouragement) and their informational involvement (advice).
+
+Key words: Parental involvement,
+Parent-children relationship, Factorial
+exploratory analysis, Questionnaire.
+Received: 8 October 2010.
+Acepted: 25 November 2010.
+Corresponding
+author:
+Virginie
+Hurtel,
+Bourgogne
+University,
+France.
+Email: hurtel_v@hotmail.fr
+
+INTRODUCTION
+In spite of the great number of people playing tennis, there is
+no denying that only a small percentage of them will reach the
+elite level. Indeed, success in tennis is determined by a
+combination of various environmental and social factors (Côté,
+Salmela, Trudel & Baria, 1995). Though talent (ITF CSSR 39,
+2006) might determine success in tennis to some extent, factors
+such as the number of hours spent on court (training and
+competition) as well as the role of the coach and the parents
+also appear essential (Bloom, 1985; Côté, 1999 ; Durand-Bush,
+Salmela & Thompson, 2004).
+Furthermore, research has shown that tennis players usually
+reach top-level performance after approximately 10 years or
+10,000 hours of deliberate practice. This type of extended
+activity demands that the player be able to overcome three
+constraints: Firstly, they must develop a strong and constant
+motivation, sustaining prolonged and intense efforts – which
+are not always a pleasure. They must also gather all the
+necessary resources and be exposed to the appropriate
+environmental conditions - chiefly logistical and financial. As a
+result, the presence, help, and support of an athlete’s relatives
+play an important part in his or her rise to the elite level (Hurtel,
+2009), a fact that players don’t hesitate to emphasise:
+“My father would support me and follow me everywhere. He
+would pick me up from school and take me to training sessions
+and matches… […] he had organised his professional life
+according to that. He was there all the time. You could say that
+he saved my career when I was young (Michaël Llodra ).”
+Parents play a significant role in the long term. They get
+involved in their children’s activities logistically (transport),
+emotionally (moral support) and informationally (advice),
+during each progressive step to the elite level (Wolfenden &
+Holt, 2005).
+The results from this research and identification of these
+characteristics was primarily achieved through retrospective
+interviews. The literature in this subject area, also makes use of
+of questionnaires, albeit to a lesser extent. These, however,
+generally relate to British and American cultures and deal very
+little with tennis. When the present researcher identifited the
+absence of a French equivalent to these questionnaires, it was
+decided to undertake the creation and validation of one. The
+aim of this article is therefore to describe the formulation
+process of this measurement tool.
+PIQ (PARENTAL INVOLVEMENT QUESTIONNAIRE)
+This questionnaire was created based on the existing literature
+on the role of family with regard to sport. In addition, interviews
+conducted with 36 parents of young tennis players (aged 11 to
+16; either leisure or competitive players) have contributed to
+the enrichment and specification of the tennis-related
+questions. Particular attention was also directed to the wording
+of the different sentences of the questionnaire that was to be
+filled out later by the parents of the players.
+Version 1
+The first Parental Involvement Questionnaire that was put
+forward was divided into three parts: Logistical Parental
+Involvement (LPI), Emotional Parental Involvement (EPI) and
+
+Informational Parental Involvement (IPI), each of which
+consisted of 1O questions. The LPI focuses on the frequency at
+which parents take their children to training sessions or
+competitions, on their presence throughout these events and
+on the efforts in terms of time to allow the player to play tennis.
+The EPI focuses on the moral support, reassurance, praise or
+encouragements that parents provide for their children. Finally,
+the IPI corresponds to parent-child discussions about tennis, in
+particular to the advice parents give to their children before,
+during and after training sessions or competitions. Note : The
+numbers at the beginning of the questions correspond to the
+order they follow on the document distributed to parents.
+
+Table 1. Version 1, PIQ.
+Version 2
+In order to
+be validated, the Parental Involvement
+Questionnaire was completed by 209 parents (103 men and
+106 women) of tennis players aged 13.5 years-old on average.
+The collected data was submitted to a Factorial Exploratory
+Analysis in order to reduce the number of questions for a better
+internal coherence and to allow the tool to be used easily on
+court. The results of the analysis show that less questions
+makes for a more reliable questionnaire. Thus, the LPI
+questions that were retained are the following:
+•I invest a great deal of myself in terms of time to allow him
+to play tennis.
+•I help him with transport.
+•I take him to his practice sessions and competitions.
+•I make efforts to take him to tournaments and/or training
+sessions.
+•I adjust my working schedule in order to take him to play
+tennis.
+The EPI includes the following questions:
+•I congratulate him on his efforts after his lessons or matches.
+•I congratulate him on his initiatives after his lessons and
+matches.
+•I provide moral support.
+•I cheer him up when he is down.
+•I comfort him when he is not well.
+And lastly, the IPI contains the following:
+•I provide technical and tactical advice.
+•I give him recommendations before and after his lessons
+and/or matches.
+•I make fair and constructive comments that help him
+progress.
+•I am someone he can turn to to talk about the technical and
+tactical issues in his game.
+•I talk with him about his tennis game.
+
+This second version of the PIQ developed through the first
+analysis was distributed to 1200 parents and is currently
+awaiting for final approval (Confirmatory Analysis in progress).
+PRELIMINARY RESULTS
+Even though the questionnaire hasn’t yet reached its definitive
+form, this second version foreshadows interesting results.
+Indeed, the analysis of averages and graphs has revealed
+differences related to the gender and involvement of the
+parents. Notes. LPI = Logistical Parental Involvement; EPI =
+Emotional Parental Involvement; IPI: Informational Parental
+Involvement. The scale of answers ranges from 1 to 7.
+
+Table 2. Averages of the answers to the sub-parts of the
+questionnaire according to gender.
+
+At first glance, there appears to be a meaningful correlation
+between the three kinds of parental involvement, meaning that
+regardless of gender, the more parents involve themselves
+emotionally, the more they become involved from an logistical
+and informational point of view, and vice-versa. However,
+mothers seem to provide more emotional support (comfort,
+reassurance) than fathers but give less technical and tactical
+advice than the latter.
+Fathers therefore appear to be more interested in the
+performance- related aspect of the activity in the present
+sample, and strive to foster the success of their children,
+whereas mothers have more consideration for their well-being
+and are more concerned about the problems they might
+encounter during the activity.
+CONCLUSION
+It seems important to put more emphasis on the role of parents
+in relation to the progression of young tennis players towards
+the elite level. The Parental -logistical, emotional and
+informational- Involvement Questionnaire attempts to answer
+the need to measure this role. In the long term (after the
+completion of the validation of this tool), it will allow coaches
+to have a better understanding of the family environment of
+the player and to adapt their relationships to parents out of
+concern for positive, coherent and harmonious player
+development.

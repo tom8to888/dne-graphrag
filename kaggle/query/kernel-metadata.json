@@ -1,0 +1,17 @@
+{
+  "id": "<your-kaggle-username>/dne-graphrag-query",
+  "title": "dne-graphrag-query",
+  "code_file": "run_index.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "<your-kaggle-username>/dne-graphrag-code",
+    "<your-kaggle-username>/itf-ccsr-graphrag-index",
+    "<your-kaggle-username>/dne-graphrag-answers"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

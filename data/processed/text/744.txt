@@ -1,0 +1,466 @@
+Title: From Brain to Court: How Executive Functions Shape Self-Regulation in Tennis
+Authors: Francesco Di Muccio, Lionel Grossenbacher
+Year: 2026
+Issue: Vol. 34 No. 98 (2026)
+Article id: 744
+
+ABSTRACT
+Tennis places high demands on player’s cognitive and emotional capacities, requiring
+continuous attention, fast decision-making, emotional control, and sustained effort.
+This conceptual and narrative review examines the role of executive functions;
+specifically inhibitory control, working memory, and cognitive flexibility in supporting
+tennis performance. Drawing from research in cognitive neurosciences and sport
+psychology, we describe how executive functions influence performance both directly
+and indirectly through self-regulation. Self-regulation is described as a multidimensional
+process involving the regulation of attention, emotion, and effort, with each component
+influenced by underlying executive capacities. For coaches, the practical implication
+is that executive functions can be easily trained within regular tennis practice by
+manipulating cues, rules, and contextual demands to challenge these functions. We
+provide guidelines and concrete examples for integrating the training of inhibition,
+working memory, and cognitive flexibility into on-court exercises. Developing executive
+functions offers an accessible, evidence-informed approach to enhancing player’s mental
+stability, adaptability, and overall performance.
+INTRODUCTION
+Tennis is one of the most cognitively and emotionally
+demanding sports. Performance depends heavily on a player’s
+ability to make fast decisions, regulate emotions, and sustain
+attention over time under unpredictable and high-pressure
+conditions. Today, success at high levels of play depends also
+on the ability to adapt efficiently to changing situations, rather
+than on purely physical or technical advantages (Vestberg et
+al., 2012).
+Over the past decade, research in sport and cognitive
+neurosciences has highlighted the crucial role of executive
+functions (a set of mental processes that help us control our
+attention, emotions and behavior) (Diamond, 2013). They
+include inhibition (the ability to resist impulses or frustration),
+working memory (the ability to keep relevant information
+active while executing actions), and cognitive flexibility (the
+ability to adapt strategies when needed). Although these
+skills are not directly visible, they are deeply involved in how
+players manage their thoughts and actions during matches
+(and practices).
+Beyond cognitive performance, these capacities form the
+foundation of mental self-regulation which is defined as the
+capacity to guide one’s behavior toward the desired goals
+over time (Hofmann et al., 2012). For example, when a player
+stays calm after a double fault, adjusts their tactics during
+the point, or keeps concentration despite the noise and the
+pressure, executive functions are strongly engaged. In this
+www.itfcoachingreview.com
+April 2026. 34th  Year. Issue 98. 11-15
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i98.744
+From Brain to Court: How Executive Functions
+Shape Self-Regulation in Tennis
+Francesco Di Muccio & Lionel Grossenbacher
+EDGE International, Brain & Body Focus, Switzerland.
+Key words: Tennis, Neurocognitive
+functions, Executive Functions,
+Self-Regulation
+Received: 4 December 2025
+Accepted: 27 March 2026
+Corresponding author: Francesco
+Di Muccio - brainbodyfocus@
+gmail.com
+sense, executive functions are not only cognitive capacities
+but also mechanisms of mental consistency.
+Building on existing theoretical models and empirical findings,
+this article presents a conceptual and narrative review
+aimed at introducing executive functions in the context of
+tennis, clarifying their relationship with self-regulation, and
+discussing practical implications for coaching and player
+development.
+EXECUTIVE FUNCTIONS AND TENNIS PERFORMANCE
+In open-skill sports such as tennis, players must continually
+adapt their perception, decision-making, and motor responses
+to rapidly changing and unpredictable situations. These
+demands place a crucial importance on executive functions.
+A growing body of evidence suggests that athletes who
+regularly engage in open-skill sports show higher executive
+functioning compared with those in closed-skill sports (where
+the environment is stable and movement patterns planned)
+(Krenn et al., 2018; C. H. Wang et al., 2013). The mental
+challenges inherent in open-skill contexts (anticipating
+opponent’s behaviors, shifting between offensive and
+defensive modes, unpredictability etc.) seem to strengthen
+neural networks associated with executive functions. Within
+tennis, these processes are activated continuously. Indeed,
+performance relies on the ability to execute a tactical plan
+with precision while adapting to the fast pace of play and
+COACHING & SPORT
+SCIENCE REVIEW
+Successful self-regulation requires three key elements
+according to Hofmann et al. (2012):
+1.	People have clear ideas about how they want to think,
+feel, and act, which help guide them toward their goals.
+2.	They are motivated to reduce the gap between how
+things are and how they want them to be.
+3.	They can make those changes, even when it’s difficult or
+tempting to give up. As well as resisting distractions and
+impulses that interfere with the goal pursuit.
+In tennis, self-regulation refers to a player’s ability to maintain
+control over attention, emotions, and effort to stay aligned
+with performance goals. Below, we outline how executive
+functions provide the cognitive foundation for self-regulation
+by influencing each of these three key domains.
+Attention regulation
+Attention regulation is an essential component in tennis.
+Players must track the ball, anticipate the opponent’s
+intentions, and filter out irrelevant information such as
+previous mistakes, noise, or intrusive thoughts. Executive
+functions support this attentional stability by enabling players
+to maintain task-relevant goals in mind (working memory)
+and suppress distractions (inhibitory control). In this way,
+research showed a positive relationship between executive
+functions and visual attention capacity in sport (Brimmell et
+al., 2024) . More specifically, Furley & Wood, (2016) showed
+that strong working memory improves athlete’s ability to
+maintain attentional focus during dynamic tasks. Also, metaanalytic evidence suggests that athlete generally outperform
+non-athlete in both inhibition and attentional task (Ren et
+al., 2025). Overall, these findings highlight that attentional
+regulation depends strongly on executive control. When
+players can efficiently suppress distractions and maintain
+task-relevant information, they are better able to perform
+consistently.
+Emotion regulation
+Tennis exposes players to frequent emotional challenges:
+frustration, anxiety, anger, pressure. Effective emotional
+regulation requires the ability to inhibit impulsive emotional
+reactions and maintain a clear focus on performance goals.
+Hofmann et al. (2012), identify inhibitory control as a central
+mechanism for resisting emotional impulses. Working
+memory is also increasingly recognized as a key resource
+for managing emotional responses. It provides the mental
+workspace necessary to regulate unwanted emotions and
+impulses. For example, research showed that higher working
+memory capacity supports cognitive reappraisal which is
+the ability to reinterpret a situation to reduce its emotional
+impact (Schmeichel & Demaree, 2010). In parallel, cognitive
+flexibility plays a protective role in emotional regulation.
+Recent evidence shows that individuals with higher cognitive
+flexibility experience better emotional regulation during
+stress exposure (X. Wang et al., 2025). Taken together, these
+findings show that emotional regulation depends strongly on
+executive control.
+For tennis players, these executive capacities are essential.
+Strong inhibitory control helps suppress impulsive emotional
+reactions allowing them to pause, breathe, and avoid rushing
+into the next point. High working memory capacity enables
+athletes to hold their tactical goals in mind while processing
+the constant flow of information on court. Players who can
+efficiently manage these demands, such as staying aligned
+with their tactical intentions and minimized the impact of
+external or match-related distractions, tend to maintain
+greater competitive consistency.
+Empirical findings support this connection between executive
+functions and tennis performance. For example, a recent
+scoping review highlighted that athletes (from different sports)
+exhibit faster and more efficient inhibitory control than nonathletes, and that higher expertise levels are associated with
+superior inhibitory performance (Simonet et al., 2023). More
+specifically, (Ishihara et al., 2019) showed that young tennis
+players with higher executive function scores had greater
+ranking improvements over an 18-month period compared to
+those with lower executive function scores. This suggest that
+these capacities may facilitate learning, tactical adaptation,
+and long-term skill consolidation. Moreover, (Kuroda et al.,
+2023) reported that a decline in executive functions over the
+course of a tennis exercise was associated with a reduced
+second-serve precision in college tennis players. This finding
+illustrates how mental fatigue can directly affect technical
+execution under pressure. Together, these studies suggest
+that executive functions contribute positively to tennis
+performance in two ways: first, moment-to-moment decision
+making, and second, by maintaining performance consistency
+across extended periods of competition and training.
+Table 1
+Definitions of the core executive functions and their functional
+relevance to performance in tennis.
+Executive
+Function
+Definition
+Match Play Example
+Inhibitory
+Control
+The ability to control
+attention, behavior,
+thoughts, and
+emotions to override
+distractions.
+After an error, the
+player controls
+frustration and
+avoids rushing the
+next point.
+Working
+Memory
+The ability to hold
+and manipulate
+information mentally
+(e.g., planning,
+decision making).
+The player
+remembers key
+information about
+the opponent and
+match situation and
+uses it to choose the
+best tactical option.
+Cognitive
+Flexibility
+The ability to adapt
+and shift tactics
+based on changing
+situations.
+The player switches
+tactic when needed
+without increased
+mental strain.
+HOW
+EXECUTIVE
+FUNCTIONS
+UNDERPIN
+SELFREGULATION
+Beyond their direct impact on performance, executive
+functions also play a role in supporting the self-regulation
+processes that underpin consistent and resilient play. Selfregulation capacity is defined by the ability to manage
+thoughts, emotions and behaviors to maintain goal-directed
+performance under pressure (Hofmann et al., 2012). Studies
+show that in competitive contexts, mental self-regulation is
+often what separates consistent performers from those who
+fluctuate in their level of play (Englert, 2025).
+emotional cues. In parallel, cognitive flexibility supports a
+more adaptative emotional response during momentum
+swings or stressful phases of a match, helping players shift
+from frustration to tactical adjustments.
+Effort regulation
+Maintaining effort and motivation across long matches
+or
+difficult
+moment
+requires
+self-regulation.
+Players
+need to hold long-term goals in mind, inhibit the urge to
+disengage or reduce effort as well as deal with challenges
+continuously. According to the strength model of selfregulation, maintaining effort under pressure relies on limited
+resources that can become depleted through stress, fatigue,
+and emotions (Baumeister et al., 2007). A growing body of
+research shows that executive functions play a central role
+in sustaining effort, especially under conditions of fatigue
+or psychological strain. Studies using endurance or exertion
+paradigms consistently show that when executive resources
+are depleted, athletes tend to disengage earlier. For example,
+Marcora et al. (2009) showed that mental fatigue induced by
+cognitive task targeting inhibitory control, working memory,
+and sustained attention reduced endurance performance,
+despite no physiological changes. Similarly, a systematic
+review by Van Cutsem et al. (2017) confirmed these findings,
+showing that mental fatigue consistently impairs physical
+performance by overloading executive mechanisms involved
+in effort regulation.
+For tennis players, these findings highlight that the ability to
+sustain effort during demanding phases of a match depends
+partly on executive functioning. When executive resources
+are still available, players are better able to stay engaged,
+tolerate discomfort, and maintain intensity during demanding
+phase of a match.
+Importantly,
+executive-function
+training
+should
+be
+implemented progressively and in a controlled manner.
+Rather than being applied systematically in every session,
+cognitively demanding drills may be introduced one to two
+times per week, or in short sequences within a session,
+depending on the player’s level and training phase. Excessive
+or constant cognitive load may lead to mental fatigue and
+reduced learning efficiency.
+Coaches are therefore encouraged to carefully manage
+dosage by gradually increasing task complexity over time. In
+this process, monitoring mental load is particularly important.
+Simple tools such as a subjective mental RPE (Rating of
+Perceived Exertion) scale can help coaches identify at what
+level of intensity or complexity a player begin to experience
+cognitive overload. This information allows coaches to
+better individualize training, alternating between cognitively
+demanding and more automatic drills, and progressively
+increasing the player’s tolerance to mental load. The
+objective is not to push player into constant overload, but to
+systematically build their cognitive reserve.
+Finally, coaches are encouraged to clearly explain the
+cognitive objective of each drill and its relevance to tennis
+performance. Clarifying why a drill is important helps players
+better understand its purpose, increases engagement, and
+supports motivation. Moreover, in exercises where players
+are required to follow a specific direction or game plan,
+it is essential that these rules are respected regardless of
+how well they align with the immediate situational context.
+Without this consistency, the cognitive demands of the task
+are reduced, and the effectiveness of the training may be
+substantially diminished.
+In the following sections, we outline practical ways for
+coaches to integrate executive function training directly into
+tennis practice.
+Inhibitory control
+Inhibitory control can be trained through exercises that
+require players to suppress automatic reactions (motor,
+attentional, or emotional). Inhibitory demands are highly
+important when players need to avoid rushing between
+points, prevent over-hitting under pressure, or resist the urge
+to react emotionally after a mistake. In practice, inhibitory
+control can be trained not only by imposing constraints, but
+also by designing situations that encourage players to inhibit
+impulsive decisions through meaningful incentives that
+preserve their autonomy.
+Key elements to include in drills that target inhibitory control:
+• Use of distractions (visual or auditory).
+o Example: During a rally, the coach randomly introduces
+visual or auditory distractions (clapping, calling the player’s
+name, moving an object in the visual field of the player
+etc.). The player must continue to play while ignoring the
+distractions and maintaining a high precision.
+• A rule that encourages inhibition of an automatic pattern
+in course.
+o Example: During a rally, the player always hits crosscourt
+unless the coach says “switch” then plays down the line.
+Decreasing the switch signal delay leads to a higher level
+of task difficulty (announced before, during, or after the ball
+bounces).
+Figure 1. This conceptual model illustrates how executive functions
+may contribute to tennis performance both directly and indirectly.
+Executive functions support performance by enabling players to
+manage cognitive demands leading to efficient decision-making,
+and tactical adaptation. They may also influence performance
+indirectly through their role in shaping self-regulation capacity,
+which encompasses the regulation of attention, emotions, and
+effort during competition.
+PRACTICAL IMPLICATIONS FOR TENNIS COACHING
+For tennis coaches, understanding executive functions is
+essential because these cognitive skills directly affect a
+player’s ability to stay focused, manage emotions, and make
+efficient decisions under pressure. Technical or tactical drills
+alone cannot guarantee consistent performance if a player
+struggles to inhibit frustration, maintain tactical plan, or
+adapt to changing match situations. Executive functions are
+not abstract constructs, they are measurable, trainable and
+influence the match-play intelligence, emotional stability and
+adaptability.
+o Example: During a rally, the player is encouraged to attack
+any short ball, but when the coach raises a hand or claps,
+the player is also allowed to play a drop shot. A bonus
+point is awarded if he succeeds in the drop shot. In this
+exercise, the coach must choose carefully when to make the
+announcement.
+• Emotional or competitive pressure.
+o Example: During points situations, the coach may
+deliberately award the point to the opponent if a technical
+execution is judged imprecise, thereby encouraging the
+player to manage their frustration.
+Working memory
+Working memory is engaged when players must hold
+information in mind while playing, maintain a tactical
+intention, or update rules during action. Drills that require
+remembering sequences load this system effectively.
+Key elements to include in drills that target working memory:
+• A tactical instruction to maintain throughout the drill.
+o Example: Play only cross with the backhand and change
+the direction (right/left) of your forehand on every shot. The
+change of direction on the forehand must alternate from
+point to point and at each change of game. This means that
+if the last forehand of the previous point was played to the
+right, the first forehand of the next point or game must be
+played on the left.
+• A rule that must be updated based on cues.
+o Example: The coach calls a color: red = defend, blue =
+attack, green = play a slice, yellow = play a dropshot etc.
+and the player must adjust instantly. The task can be further
+complexified by associating each color with an additional
+number that matches a color (1 = Red, 2 = blue, 3 = green, 4
+= yellow).
+• Short sequences to remember and execute during the
+whole match or set.
+o Example: Serve on T  play deep crosscourt / Serve Wide
+ play the opposite direction. The goal of this exercise is to
+maintain a game plan in working memory over an extended
+period (e.g. an entire set or match).
+• A dual task combining hitting and cognitive load.
+o Example: Play a point after memorizing a sequence of
+numbers announced by the coach. Winning the point is only
+validated if the player can accurately recall the sequence
+afterward.
+Cognitive flexibility
+Cognitive flexibility is trained when players must switch
+strategies, adapt to sudden changes, or shift their mental
+state based on context. In tennis, this includes adjusting to
+different ball trajectories, tactical changes from the opponent,
+or shifts in momentum.
+Key elements to include in drills that target cognitive
+flexibility:
+• Switching between strategies within the same drill.
+o Example: The player and the coach predetermine three
+playing styles. Before each point, the coach informs the
+player which style must be adopted for the upcoming point.
+• Contextual changes requiring immediate adaptation.
+o Example: When the coach raises a cone, the player must
+win the point within his next 2 shots.
+• Mental state shift.
+o Example: Whenever the player perceives a drop in intensity
+or attentional focus, they must deliberately modify their
+mental state by engaging in a predetermined behavioral
+strategy (e.g. shouting on every shot, intentionally slowing
+their steps between points, or adopting an exaggeratedly
+relaxed hitting style).
+• Situations requiring reinterpretation or reframing.
+o Example: The player adopts a highly aggressive playing style
+for the first three shots; if the rally continues (from the fourth
+shot onward), the player must switch to a more conservative
+style (e.g., playing crosscourt only).
+CONCLUSION
+Executive functions and self-regulation play a central role
+in tennis performance, shaping a player’s capacity to stay
+focused, adapt tactically, manage emotions, and sustain
+effort under pressure. Although these processes operate
+“behind the scenes”, their influence on consistency, resilience
+and decision-making is evident during a match. The evidence
+reviewed in this article highlight that executive functions
+support performance both directly by enabling players to
+process information efficiently, and indirectly through their
+contribution to self-regulation abilities.
+For coaches, acknowledging the cognitive dimension of
+tennis allows them to actively contribute to their player’s
+mental training in partnership with other sport professionals.
+Indeed, executive functions can be easily integrated into oncourt drills by manipulating cues, constraints, and tactical
+demands to challenge inhibition, working memory, and
+cognitive flexibility. Such training can help to enhance not
+only cognitive skills on court, but also the mental stability and
+adaptability required for high-level performance.
+However, several limitations and open questions should be
+acknowledged. Most existing studies examining executive
+functions in sport rely on laboratory-based or generic cognitive
+tasks, which may only partially reflect the complex and
+dynamic demands of real tennis environments. Moreover, the
+causal relationship between executive-function training and
+long-term performance improvements remains insufficiently
+established, particularly in tennis-specific contexts. Individual
+differences related to age, expertise level, and training history
+may also moderate the effectiveness of such interventions.
+Future research should therefore aim to develop more
+ecologically assessment tools, examine longitudinal effects of
+executive-function training, and clarify how these capacities
+interact with technical, physical, and psychological factors in
+player development.
+As the game continues to evolve in speed, physical intensity,
+and tactical complexity, developing executive functions
+may represent a promising avenue for supporting player’s
+long-term development. Rather than being viewed as a standalone solution, executive-function training may complement
+existing technical, physical, and psychological approaches by
+helping player better cope with the cognitive and emotional
+demands of competition. Training the brain alongside the body
+offers a promising practical, evidence-informed approach to
+improving the quality and consistency of tennis performance.
+DECLARATION OF CONFLICT OF INTEREST AND FUNDING
+The authors declare that they are not aware of any conflict of
+interest in writing this article and that they have not received
+any funding for this study.

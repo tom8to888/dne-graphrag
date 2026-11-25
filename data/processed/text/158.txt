@@ -1,0 +1,256 @@
+Title: Effects of an 8-week mini tennis coaching intervention on children’s groundstroke performance
+Authors: Anna Fitzpatrick, Keith Davids, Joseph Antony Stone
+Year: 2018
+Issue: Vol. 26 No. 76 (2018)
+Article id: 158
+
+www.itfcoachingreview.com
+Dec. 2018. 26th Year. Issue 76. 12-16
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i76.158
+
+Effects of an 8-week mini tennis coaching
+intervention on children’s groundstroke
+performance
+
+Anna Fitzpatrick, Keith Davids and Joseph Antony Stone
+Sheffield Hallam University, England
+
+ABSTRACT
+
+Evidence suggests that modified versions of tennis (e.g. LTA mini tennis)
+positively influence children’s technical and tactical development. However,
+Fitzpatrick, Davids and Stone (2017) highlighted that mini tennis may not
+afford children as many opportunities to develop the backhand, as it does the
+forehand, potentially leading to a skill imbalance. Here, we investigated effects
+of an 8-week coaching intervention, designed to alleviate the asymmetry
+between forehand and backhand performance, on children’s match-play and
+skills test performance (Fitzpatrick, Davids & Stone 2018). After the
+intervention, the experimental group performed a higher percentage of
+backhands than the control group during match-play. The experimental group
+also demonstrated superior improvements in forehand and backhand technical
+proficiency compared to the control group and in their ability to maintain a
+rally with a coach. Findings suggested the modifications applied during our
+intervention may enhance children’s skill development and afford more
+opportunities to develop the backhand.
+
+Key words: Constraints-based
+coaching, mini tennis;
+intervention, task constraints,
+backhand
+Received: 29 August 2018
+Acepted: 2 October 2018
+Corresponding author:. Anna
+Fitzpatrick, Sheffield Hallam
+University, England Sheffield
+Hallam University, England.
+Email:
+Anna.Fitzpatrick@shu.ac.uk
+
+INTRODUCTION
+Modified versions of tennis, such as mini tennis and tennis play
+and stay, have been designed to enhance children’s skill
+development and to reduce the speed of the game, such that
+children’s behaviours closely reflect those needed in standard
+(i.e. adult) tennis (Buszard et al., 2016). Despite considerable
+evidence to suggest that these modified versions of tennis do
+indeed facilitate children’s technical and tactical development
+(e.g. Larson & Guggenheimer, 2013; Timmerman et al., 2015),
+claims that they enable children’s performance behaviours to
+closely resemble those of standard tennis have been largely
+speculative. Fitzpatrick et al. (2017) investigated this concept
+within mini tennis (MT); although MT elicited longer rallies and
+fewer errors than standard tennis, analysis revealed that MT
+players
+performed
+considerably
+more forehands
+than
+backhands during match-play (i.e. 2:1 ratio). In contrast, the
+ratio of forehands to backhands performed in standard tennis
+is closer to 1:1 (Reid, Morgan & Whiteside, 2016). Crucially, the
+asymmetry between groundstrokes observed in MT matchplay may be even greater within children’s coaching sessions,
+where Farrow and Reid (2010) reported a ratio of approximately
+6:1 in favour of the forehand. It has been highlighted that such
+asymmetry between forehand and backhand performance may
+lead to a skill imbalance over time, possibly to the detriment of
+children’s performance development (Fitzpatrick et al., 2017).
+For example, if MT players are not afforded sufficient
+opportunity to perform backhands, the stroke may not
+
+adequately develop, potentially allowing weaknesses to
+emerge; weaknesses that can be exploited by opponents. Here,
+we implemented an 8-week MT Red coaching intervention,
+designed to enhance children’s skill development, while
+simultaneously alleviating the asymmetry between forehand
+and backhand performance.
+
+METHOD
+Participants
+Sixteen children were randomly assigned to one of two groups;
+control (n = 8, age 7.2 ± 0.6 years, tennis playing experience
+1.9 ± 0.6 years) and experimental (n = 8, age 7.4 ± 0.4 years,
+tennis playing experience 2.1 ± 0.6 years). All children were
+right-handed, with two-handed backhands.
+
+Procedure
+Pre- and post-testing comprised two elements: match-play and
+tennis-specific skills testing (TSST).
+
+Pre-test: match-play
+Each player was filmed completing three standard MT Red
+matches of ‘first to 10 points’ (LTA, 2017), against three
+randomly assigned opponents.
+
+Pre-test: TSST
+Players attempted to maintain three rallies for as long as
+possible with the coach. The mean rally length of the three
+attempts produced a ‘rally performance score’. Additionally,
+two LTA Level 3 coaches qualitatively assessed four aspects of
+players’ stroke production for forehands and backhands,
+respectively:
+movement
+to
+the
+ball,
+backswing,
+ball
+impact/follow-through, and recovery, using a
+7-point scale (Farrow & Reid, 2010). The four scores were
+summed for players’ forehand and backhand, respectively,
+producing a maximum achievable ‘technical proficiency score’
+of 28 points per stroke.
+Intervention
+Both groups attended an 8-week MT coaching programme (1hour per week). Both groups were taught by the same coach
+and performed the same activities throughout, but the
+experimental group’s learning environment was modified (see
+Figure 1).
+
+Experimental group players were asked to attempt to play a
+backhand if the ball landed to the left of the adjusted centre
+line (Hopper, 2011), and to return to the recovery box after
+each shot (Bryant, 2012). Additionally, during the experimental
+group’s points-based activities, the coach awarded bonus
+points (i.e. added incentive) if a player put their opponent
+under pressure using their backhand (Hopper, 2011).
+
+Post-test
+Each player was filmed completing three MT Red matches,
+against the same three opponents as pre-testing, and repeated
+the TSST.
+
+Data Analysis
+Match-play video data were coded using a custom-notational
+analysis system (inter-rater reliability k = 0.95). The match-play
+variables in Table 1 were subsequently calculated (for full list
+see Fitzpatrick et al., 2018); TSST technical proficiency scores
+and rally performance scores were reduced to mean values.
+
+Two-way, mixed design analyses of variance (ANOVAs)
+(practice condition x time) were performed, to investigate
+intervention effects. No statistical difference was detected
+between the total number of shots performed by each group
+during the intervention, so intervention effects were not
+attributable to differences in frequency of actions practised.
+
+RESULTS
+Key findings are presented here (for all reported results, see
+Fitzpatrick et al., 2018).
+
+Match-play shot type
+Figure 2 shows that the percentage of backhands played by the
+experimental group increased by 17.0% after the intervention;
+the percentage played by the control group decreased by 1.8%.
+The percentage of forehands played by the experimental group
+decreased by 17.3% after the intervention; the percentage
+played by the control group did not change.
+
+TSST technical proficiency and rally performance score
+Figure 3 shows that the experimental group’s forehand and
+backhand technical proficiency scores improved by 3.3 points
+and 4.0 points, respectively, after the intervention; the control
+group’s improved less, by 1.5 points (forehand) and 0.8 points
+(backhand). Additionally, the experimental group’s rally
+performance score increased by 7.6 shots after the intervention
+(from 16.2 to 23.8 shots); the control group’s increased by 2.9
+shots (from 14.3 to 17.2 shots).
+
+DISCUSSION
+Pre-test match-play data replicated the asymmetry found by
+Fitzpatrick et al. (2017), with both groups performing a
+disproportionately high number of forehands compared to
+backhands. During post-testing, the experimental group
+demonstrated greater symmetry (46.7% backhands, 50.8%
+forehands), compared to the control group’s continued
+asymmetry
+(74.0%
+forehands,
+22.4%
+backhands).
+The
+experimental group’s post-test values corresponded closely to
+the forehand-tobackhand ratios observed in standard tennis
+(close to 1:1). The ratios observed in standard tennis
+demonstrate that it is crucial for learners to develop both
+groundstrokes if they are to successfully transition through the
+stages of tennis.
+
+The standard MT Red environment affords players sufficient
+time to move around the ball to perform a forehand, when a
+backhand may be more appropriate (Fitzpatrick et al., 2017).
+However, this is an inefficient movement (using more time and
+energy), unlikely to elicit optimal technique (Hodgkinson,
+2015), and detrimental to players’ recovery movements
+(Hughes & Moore, 1998). Positioning the experimental group’s
+recovery box slightly towards the forehand side of the court
+increased the distance players were required to move, to
+position themselves to the left of the ball and play a forehand,
+making this behaviour less likely to emerge. Instead, our
+modifications encouraged players to adapt and explore
+different solutions (i.e. playing a backhand), which may
+facilitate more functional technique.
+
+Accordingly, the experimental group’s backhand technical
+proficiency improved more than the control group’s.
+Interestingly however, the experimental group’s forehand
+technical proficiency also improved more than the control
+group’s, despite hitting fewer forehands during match-play.
+This suggests that after the intervention, the experimental
+group elected to play each respective shot only when it was
+appropriate,
+and
+therefore
+exhibited
+more
+functional
+technique. In contrast, the control group continued to attempt
+to move around the ball and perform a forehand, when a
+backhand may have been more appropriate; so, although the
+control group performed more forehands, the technique
+elicited was often poor. Notably, the scoring system
+incorporated movement to the ball and recovery movement, so
+it is possible that the intervention improved the experimental
+group’s movement around the court as well as their swing
+technique.
+
+The experimental group’s rally performance score (i.e. rallying
+with a coach) also improved more than the control group’s,
+however both groups demonstrated similar improvements in
+match-play rally length (i.e. rallying with fellow players) (see
+Fitzpatrick et al., 2018). Rallying with a coach, who can control
+the direction and pace of each shot, is easier for children.
+Accordingly, it appears the intervention enhanced the
+experimental group’s rally ability enough to elicit longer rallies
+with a coach, but not enough to replicate this during matchplay with fellow players.
+
+CONCLUSION
+Results suggested that our intervention effectively alleviated
+the asymmetry found between forehand and backhand
+performance during children’s match-play. Simultaneously, the
+experimental group demonstrated improved rally ability when
+rallying with a coach, and enhanced technical proficiency,
+offering strong support for the modifications applied here.
+Coaches may wish to implement similar modifications during
+coaching sessions, to enhance children’s skill development and
+reduce the disparity between the percentages of forehands and
+backhands typically played.

@@ -1,0 +1,247 @@
+Title: Fitness testing and players’ development: Are we going the right way?
+Authors: Jaime Fernandez-Fernandez, David Sanz-Rivas, Hrvoje Zmajic
+Year: 2017
+Issue: Vol. 25 No. 71 (2017)
+Article id: 221
+
+Fitness testing and players’ development: Are
+we going the right way?
+Jaime Fernandez-Fernandez, David Sanz-Rivas (ESP) and Hrvoje Zmajic (CRO)
+ITF Coaching and Sport Science Review 2017; 71 (25): 12 - 15
+ABSTRACT
+
+The aim of this study was to analyse existing testing procedures and to establish initial
+recommendations and guidelines based on a survey which compared and analysed the
+testing procedures applied in the world leading tennis nations.
+
+Key words: Physical testing,
+development, performance
+Received: 25 oct 2016
+Accepted: 21 Feb 2016
+Corresponding author:
+Jaime Fernandez-Fernandez
+Email:
+jaime.fernandez@umh.es
+INTRODUCTION
+Tennis has evolved from a sport in which technical and tactical
+skills were the primary prerequisite for successful play into a
+sport that also requires a complex profile of physical
+performance (Fernandez- Fernandez, Sanz-Rivas, & MendezVillanueva, 2009). To achieve a maximum improvement, the
+training programme should be prepared based on the analysis
+of the most important performance factors and the individual
+needs. The preparation of optimal training plans requires
+objective information, especially in the area of the physical
+training, including specific goals and measurable feedback in
+order to direct and evaluate the training process (Svensson &
+Drust, 2005).
+At present the tennis community generally accept that
+development of the player ́s performance is a long-term
+process which includes the regular application of physical
+performance testing (MacDougall, Wenger, & Green, 1991;
+Reilly, Morris, & Whyte, 2009). Successful performance in
+tennis demands a complex interaction of several physical
+components such as strength, agility, speed as well as aerobic
+and anaerobic endurance (Fernandez-Fernandez et al., 2009).
+In this regard, the assessment of the key physical and
+physiological parameters of performance is an integral part of
+sports science support for performance-oriented athletes.
+Thus, complexity exists in the identification of physiological
+determinants of performance in tennis.
+It can be distinguished between single testing procedures and
+complex test batteries mapping the whole structure of physical
+performance. All testing procedures, single tests or complex
+test batteries should consider the following criteria:
+1. Validity, reliability and objectivity (Reilly et al., 2009).
+2. The results should be assessed in relation to standardized
+and representative norms / profiles.
+3. The frequency and dates for testing should be aligned with
+the training schedule (Fernandez-Fernandez, Ulbricht, &
+Ferrauti, 2014).
+In tennis, research has been conducted with athletes of various
+backgrounds (e.g., age, sex, performance level), and using
+different testing protocols, with the aim to identify the most
+influencing factors on tennis performance (i.e., ranking) (Birrer,
+Levine, Gallippi, & Tischler, 1986; Girard & Millet, 2009;
+William J Kraemer et al., 1995; E. Roetert, Piorkowski, Woods,
+& Brown, 1995; P. Roetert & Ellenbecker, 2007).
+Results are not consistent, with some studies suggesting that
+physical qualities are weak predictors of overall tennis
+performance (Birrer et al., 1986) and others suggesting that
+specific qualities, such as agility (E. P. Roetert, Garrett, Brown,
+& Camaione, 1992) or speed and vertical power , are important
+for predicting tennis performance. Moreover, there is not a
+general agreement among the scientific community about
+which are the most useful tests in this sport and earlier studies
+did not systematically investigate (i.e. using a standardised test
+battery)
+the impact of fitness characteristics on tennis performance
+across a large sample of young male and female tennis players
+(Ulbricht, Fernandez-Fernandez, & Ferrauti, 2013). In the last
+few years, and in an attempt to standardize test procedures in
+tennis, several protocols have been documented, mainly by
+national tennis federations (Buckeridge et al., 2000; P. Roetert
+& Ellenbecker, 2007) (For more detailed information reading of
+(Fernandez-Fernandez et al., 2014) is recommended).
+The aim of this study was to analyse existing testing procedures
+and to establish initial recommendations and guidelines based
+on a survey which compared and analysed the testing
+procedures applied in the world leading tennis nations.
+
+FITNESS TESTING FOR 14&UNDER PLAYERS - SURVEY FOR
+NATIONAL ASSOCIATIONS
+The persons responsible for strength and conditioning in 14
+National Associations filled out the survey consisted on 8 main
+points or questions, including:
+1. A description of the physical tests used in their National
+Federations.
+2. Description of measurement tools (i.e., simple (stopwatch))
+or more sophisticated (light gates).
+
+3. If they were evaluating the testing results independently or
+by using group percentiles, etc.
+4. The purpose of conditioning tests for the National
+association (i.e., Testing should focus coaches on developing
+particular abilities; track players’ improvement; for talent
+identification).
+5. How results are communicating (i.e., send the information to
+coach/player; fitness coach is creating individual training plans
+for conditioning; fitness coach is sending guidelines for
+individual training; creating a database and norms).
+6. Observed benefits of applied system (i.e., Conditioning
+becameimportantpartofplayer’straining;Playersimprovedin
+observed abilities; Testing results are used for construction of
+the conditioning training plans).
+7. Identified (system) challenges in applying conditioning tests.
+8. Suggestions about the possible improvements of the applied
+system.
+
+RESULTS
+• Sixty-two percent of the Federations used simple
+measurement tools, while in the case of using more
+sophisticated tools, 62% used force platforms, all of the
+Federations asked used light cells, and 38% used isokinetic
+measurements or physiological assessments (i.e., treadmill tests
+with gas analyses).
+• Fifty-five percent answered positively about the evaluation
+of the results independently or by using group percentiles, with
+85% agreeing that testing should focus coaches on developing
+particular abilities, all of them used the tests for track player’s
+improvement, and 62% for talent identification purposes.
+• All the Federations sent the information to coaches/players
+and created databases and norm profiles, with 30% using the
+data to create individual training plans for conditioning, and 69%
+sending guidelines for individual training.
+• Sixty-nine percent of the specialists asked felt that
+conditioning is an important part of player’s training, and 77%
+reported that testing results are used for construction of the
+conditioning training plans and those players improved in
+observed abilities.
+After summarizing the main physical tests used in the different
+National Federations, we have compared the tests depending
+on the physical quality analysed and if they were general (i.e.,
+non-specific physical qualities) or tennis-specific tests (Table 1).
+Details of each test are not provided as some of them are
+confidential.
+As part of the survey, there were also two “open” questions
+about challenges and possible improvements of the applied
+testing structures or systems. Below the reader will find the
+most interesting ideas reported by the different experts:
+
+Identified (system) challenges in applying conditioning tests:
+- Combine laboratory and on-court tests (Difficult to
+implement with consistency, given that laboratories are usually
+located far from the training centres).
+- Not often able to conduct tests when players are rested due
+to camp/tournament scheduling. Therefore it is difficult to
+standardised protocols.
+- The communication to the coach/player is always a challenge
+because there are many “truths” out there.
+- Importance of test protocol.
+- Difficulties in maintaining a systematic and periodic
+evaluation, (i.e., availability of centres and players, costs)
+
+Possible improvements of the applied system
+- Good software to analyse and evaluate results. The need of
+man-power to systematically collect, analyse and interpret data,
+as well as for creating reliable norms.
+- Don’t over interpret the results: growth and maturation itself
+can improve results.
+- Players practice in what they get tested, so test what you
+believe is important to practice.
+- To make physical trainers of the national clubs understand
+that a systematic evaluation of the players’ training/practice
+through
+regular
+testing
+is
+necessary.
+
+CONCLUSIONS AND THE “WAY FORWARD”
+The most important conclusion here is that although there is
+general agreement about the abilities that should be tested, at
+the same time there is a complete lack of agreement in terms
+of which are the most useful/recommended tests in tennis,
+when the physical/ physiological demands of the sports have
+been well described in the literature (Fernandez, MendezVillanueva,
+&
+Pluim,
+2006;
+Kovacs,
+2007).
+The
+recommendation here would be to reach an agreement
+regarding test batteries which can follow the growth and
+maturation process.
+According to the survey, self-made tests are still often used
+even though they lack validity (are they measure what we
+expect to measure?) and reliability (the results can be
+reproduced by repeating the tests under the same conditions),
+both important conditions a test must accomplish. In this
+regard, communication with the coach/ player is a challenge,
+because there are many “truths” out there, and the link
+between the scientific knowledge and the “reality” of the sport
+is sometimes missing.
+We believe that including sport-scientists in fitness testing and
+profiling of players’ physical and physiological capacities would
+ensure optimal application and interpretation of the test results.
+It would be also beneficial to create efficient databases and
+data analyses enabling comparison among countries, if an
+agreement regarding the previously mentioned issues is made.
+Based on the results obtained in the study, we believe that the
+development and application of physical performance
+assessment should be integrated into a complex scientific
+approach, which can be used to construct a long-term
+individual and sport specific training optimization model (Figure
+1).
+Figure 1. Schematic representation of the sport specific
+training optimization model (Fernandez-Fernandez et al., 2014)
+In this approach, a major first step is the knowledge about the
+workload profile during competition (i.e., athletes’ movement
+patterns combined with physiological responses (i.e., heart rate
+(HR), sources of muscular energy)) to provide a better insight
+into the physiological demands of the sport (Bangsbo, Mohr,
+Poulsen, Perez-Gomez, & Krustrup, 2006; FernandezFernandez et al., 2009; Gabbett, 2005; Kovacs, 2007; Stolen,
+Chamari, Castagna, & Wisloff, 2005). This data can be used as
+external criteria for the validation (design and evaluation) of
+
+tennis specific test procedures, and standardized with
+representative
+data
+samples
+(e.g.
+different
+levels
+of
+performance, age and sex-groups) (Girard & Millet, 2009; W. J.
+Kraemer et al., 2003).
+This is directly related to the specificity training principle, which
+states that to target these performance characteristics or
+components, and elicit specific adaptations, training must be
+focussed on the desired elements of performance (Reilly et al.,
+2009). At the final stage of the schematic representation of the
+sport specific training optimization model, tennis players
+should complete a regular test
+battery which allows an individual performance profiling and an
+individual prescription of training intervention. This process
+must be repeated in a regular feedback loop, while adapting
+training interventions to changes in physical performance.

@@ -1,0 +1,202 @@
+Title: Plantar pressures differences between the flat, slice and topspin serves
+Authors: Christos Mourtzios, Eleftherios Kellis, Konstantinos Salonikidis
+Year: 2019
+Issue: Vol. 27 No. 78 (2019)
+Article id: 92
+
+www.itfcoachingreview.com
+August 2019. 27th Year. Issue 78. 32-34
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i78.92
+
+Plantar pressures differences between the flat,
+slice and topspin serves
+Christos Mourtzios a, Eleftherios Kellis a, & Konstantinos Salonikidis a
+a Aristotle University of Thessaloniki, Greece.
+
+ABSTRACT
+
+Analysis of plantar pressure during sport movement performance can provide significant
+information to athletes and coaches regarding sport performance and plantar loads. In
+tennis, the serve is one of the most difﬁcult and most important strokes. The purpose of
+this study was to examine the plantar pressure differences between the flat, slice and
+topspin serves with the “foot back” serving technique on greenest tennis surfaces of
+junior athletes aged 10 to 16. The results showed that the loads were higher on the rear
+(right) back foot of all the three serves. The Fmax was higher in foot toes for all types of
+serve and the peak pressure was higher in slice serve in the metatarsal forefoot region of
+the back right foot. The results showed that the technique applied, mainly to the
+footwork, varies between types of serves. So, each type of the three serves has different
+loads.
+
+Key words:  plantar pressures,
+serve, flat, slice, topspin.
+Received: 06 March 2019
+Accepted: 20 June 2019
+Corresponding author: Christos
+Mourtzios, Laboratorio de
+Neuromecánica, Departamento
+de Educación Física y Ciencias
+del Deporte de Serres,
+Universidad Aristóteles de
+Salónica, Grecia.  Email:
+christosmourtzios@hotmail.gr
+
+INTRODUCTION
+In the game of tennis, the serve is recognized as the most
+important offensive weapon. Αccording to Elliot & Colett
+(1993) the primary source of power is generated from the
+ground in the form of ground reaction force, which is emitted
+by the ground on the body as the server pushes against it.
+
+Αccording to Hutchinson et al., (1995), injuries that required
+physical or medical assistance were recorded for participants
+at the United States Tennis Association National Boys' Tennis
+Championships. The analysis of injuries showed a higher rate
+of lower than upper extremity injuries. When evaluated by
+injury type, strains and sprains were most common (71% of all
+injuries) with fractures and dislocations being rare (1.3% of all
+injuries). The lower extremity provided the majority of sprain
+type injuries with 87.5% of ligament sprains coming from the
+knee and ankle.
+
+In the back foot, the relative loads are distributed across the
+foot more equally and with a lower variability (smaller
+coefﬁcient of variation) than in the front foot. This suggests
+that the back foot is a large base for force production and the
+starting point for the kinetic chain that goes from the ground
+to the leg, trunk, upper body segments, and ﬁnally the racquet
+(Bahamonde, 2000).
+
+Analysis of plantar pressures, allowing documentation of a
+very powerful prognostic model in the initial functional ability
+
+of an athlete. Using the measurements and monitoring
+possible changes, positive or negative in the effort to improve
+technique, these data can greatly enhance improve athletic
+condition. The identification of the differences between the
+three types of serve may be the regulation of the intensity of
+training, the control of these variables in order to prevent the
+development of injuries and improve technique. Girard et al.
+(2010) concluded that, the type of serve and the stance style
+adopted have a significant effect on foot loading. Such findings
+might help improve mechanical efficiency of the serve.
+
+has been published for junior athletes for the tennis serve. The
+aim of this study was to measure and examine the plantar
+pressures, of junior tennis athletes during the three different
+serves, flat, slice and topspin, on green set surface with the
+“foot back” serving technique.
+
+METHODS
+
+Fifteen (8 males, 7 females) right handed tennis players, aged
+10-16 years (three under-10 years, four under-12 years, four
+under-14 years, four under-16 years, participated in this
+study, that are playing in tournaments of the Hellenic Tennis
+Federation. All experiments were conducted on an outdoor
+greenset tennis court.
+
+Instrumentation
+
+Plantar pressures and vertical ground reaction forces were
+recorded using the footscan insole 2.39 system (RSscan
+International, Paal, Belgium). During data collection, the
+insoles were placed between the shoe and the surface of the
+sole on both feet. The data logger for storing the data was
+secured around the waist of the athlete's body. The data was
+transferred to a laptop at a sampling rate of 500 Hz.
+
+Experimental set-up
+
+Players performed a standardized warm-up which was
+followed by a 10-min of practice with each of the three serves.
+All serve trials were completed from the deuce court. Three
+successful trials were collected for each type of serve.
+During data collection, the insole was placed between the
+shoe and the surface sole of both feet. The data logger for
+storing the data was located around the waist of the athlete's
+body.
+
+Data analysis
+
+A regional analysis of the foot was performed on the recorded
+plantar pressure data by dividing the foot into four separate
+areas: Toes, Forefoot, Midfoot and Heel. Subsequently, the
+following parameters were determined for the whole foot and
+the four selected regions: maximum and mean force, peak and
+mean pressure.
+
+RESULTS WITH DISCUSSION
+
+during tennis movements have been published for tennis
+junior athletes. Furthermore, differences in plantar pressures
+between the flat, slice and topspin serves have not been
+previously investigated.
+
+Table 1: Fmax (N) in flat, slice and topspin serves for different
+areas of the foot
+
+The results showed that the loads were higher on the rear
+(right) back foot of all the three serves. The rear leg provides
+the bulk of the upward and forward push, while the front foot
+provides a stable position to allow angular momentum
+development. Consequently, it appears that when right
+handed tennis junior athletes perform a tennis serve the right
+foot displays highest plantar pressures, which result in the
+initiation of sequence of serve movements as the foot
+contacts the ground and subsequently contribute to the leg
+drive. So, coaches have to explain to their athletes for this
+phase of loading the importance of the rear foot, so they can
+achieve a better result of the upward and forward push and a
+better transfer of forces. The Fmax was higher in foot toes for
+all types of serve, with the highest value observed in the flat
+serve, then in topspin and last in slice serve. This can be
+attributed to the usage of each serve, as the flat serve is
+frequently used as first serve, and, hence it is executed with
+more power and speed. Also, Fmax in the region of the foot
+was higher in midfoot, then in forefoot and last in heels.
+The peak pressure was higher in slice serve in the metatarsal
+forefoot region of the back foot, because of a higher knee
+bend (≥20°) during the preparation phase of second serves as
+slice and topspin that are used (Lo, Wang, Wu, & Su, 2004).
+Also, the peak pressure was higher in the metatarsal forefoot
+region in all 3 types of serves in both feet. Finally, the peak
+pressures were higher in the back right foot in all 3 types of
+serves.
+
+The results of the present study indicate that both the front
+and back foot are loaded differently for junior athletes, based
+on the type of serve. Coaches must understand the
+mechanical basis of the three types of tennis serves. So, when
+the junior players are performing tennis serves to be able to
+generate more racquet speed, they must work hard on the
+loading phase specifically at the time when the maximum
+loads are on the toes as this results in transfer of as much
+force as possible to the upper part of the body, thus optimising
+the kinetic chain.
+
+PROPOSALS
+
+Research in plantar pressure distribution when performing
+tennis movements may continue in-depth, because it can help
+athletes of all levels (i.e. beginners or advanced players), to
+improve their skills, in cooperation with the biomechanics in
+order to have higher performance, better results and fewer
+injuries in the sport of tennis.
+Finally, the study of lower limbs and plantar pressures is
+important for young tennis athletes, because this research will
+extend the knowledge about the technique and the type of
+service so that specific strategies for training, prevention and
+rehabilitation of injuries, are very important for the
+development of young athletes.
+
+CONCLUSIONS
+
+This study is the first that analyzes plantar pressures through
+the three different basic serves for junior athletes. The results
+showed that the technique applied, mainly to the footwork,
+varies between types of serves. The study of plantar pressure
+loads can effectively help athletes and coaches to produce
+better results allowing for a better start  of the kinetic chain
+and allowing for leg drive that produces more powerful serves
+with better technique and fewer injuries.

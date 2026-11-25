@@ -1,0 +1,4 @@
+,sys_1,sys_2,n_questions,n_first_better,n_first_worse,n_equal,mean_diff,p_wilcoxon,p_holm
+0,basic_8k,global_8k,30,14,3,13,0.533,0.005,0.014
+1,basic_8k,basic,30,6,8,16,-0.1,0.467,0.934
+2,global_8k,global,30,3,3,24,0.0,1.0,1.0

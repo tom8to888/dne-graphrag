@@ -1,0 +1,386 @@
+Title: The "Sigma Test": a new methodology for evaluating a tennis player
+Authors: Salvatore Buzzelli
+Year: 2020
+Issue: Vol. 28 No. 82 (2020)
+Article id: 7
+
+www.itfcoachingreview.com
+December 2020. 28th Year. Issue 82. 3-6
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v28i82.7
+
+The "Sigma Test": a new methodology for
+evaluating a tennis player
+Salvatore Buzzelli
+
+ABSTRACT
+
+This article aims to illustrate an innovative and absolutely functional method of
+assessing the fitness of a tennis player, based on the registration of an
+incremental metabolic effort, under attentive aegis.
+
+Key words: sigma test, tennis,
+assessment test, physical form,
+attention energy cost.
+Received: 15 May 2020
+Accepted: 18 September 2020
+Corresponding author:
+Salvatore Buzzelli, Italy. Email:
+salvatorebuzzelli1@gmail.com
+
+INTRODUCTION
+In the functional evaluation of the tennis player, especially when
+one wants to investigate his Maximum Power Aerobics (VO2max),
+it is customary to resort to evaluation tests already widely known
+and equipped with a considerable amount of scientific and
+methodological documentation.
+The most used tests in this field range from the Cooper test (12
+minutes of continuous and linear running) (Fox, 1973); to the
+Leger test (increasing levels of running rhythms every minute, in
+linear running and changes of direction every 20m, until
+exhaustion) (Léger,1988); to the YoYo Test (linear runs of 20m
+with change of direction, at increasing rates guided by an audio
+track, until exhaustion) (Krustrup, 2003).
+These tests, although predictive of the Maximum Aerobic
+Performance Capacity, have a structural and methodological limit
+of great importance in a sport such as Tennis, in fact in their
+execution they run in non-specific mode, always over distances
+not suitable for tennis movements and above all not account is
+taken of the attentional aspect, which plays a decisive role in
+competitive performance (Tamorri, 2000; Buzzelli, 2007; Smith,
+2016).
+In fact, unlike other athletes of other situation sports, the tennis
+player moves over short distances (80% of the movements are
+within a radius of 4-5m) in the direction of the incoming ball and
+will have to raise attention levels if he wishes respect the right
+times to hit the best and in the best position.
+Starting from these last fundamental considerations, in 2007, a
+specific test (Sigma Test) (Buzzelli, 2007), was developed that
+would respond in a more functional way to what you really
+
+needed to know, that is what is the maximum capacity of organic
+resistance in an attentive form, on which develop very specific
+training plans.
+DESCRIPTION
+The "Sigma Test" is a test designed and developed to investigate
+the specific resistance of a tennis player. The development of the
+test was inspired by multistage fitness test, such as the Legér test
+or the YoYo test, but unlike these tests, the participants are
+running shuttles on 5,5 meters, repeated until the physical and
+mental abilities of reaction and specific stroke, are exhausted.
+It is performed in one half of the tennis court and both metabolic
+and attentional aspects are involved in its realization. It is guided
+by an electronic track based on visual and acoustic signals. It is
+possible to carry out 2 types of sigma test; one with only acoustic
+trace (default, non-attentional), the other with acoustic and visual
+trace (original, attentive). The difference in terms of the results of
+the two tests, will provide us with the "Energy Cost of Attention"
+(Buzzelli, 2014). However, we will not deal with this possibility in
+this article which we may defer to another occasion.
+MATERIALS AND METHODS
+To carry out this test, starting from 2007 (Buzzelli, 2007), a special
+tool
+called
+initially
+"SensoTouch"
+and
+then
+definitively
+"SensoBuzz", was used but currently it is possible to use a
+smartphone application, also called "SensoBuzz" (Buzzelli, 2019),
+
+which emits visual and acoustic signals in a random mode with a
+pre-established time scan.
+The exercise is performed on one half of the tennis court
+organized as shown in figure 1. The correct execution of the test
+involves shuttle movements, in which the chaining of the runstop-restart action towards and from a target corresponding to
+the signal emitted must be correctly managed, starting from a
+point called "base" and avoiding remains still on it, waiting for the
+next signal.
+The introductory minute is just to allow the student to correctly
+adapt the speed of movement to the rhythm of the signals. Each
+minute the “SensoBuzz” decreases the emission rhythm by 0.2
+seconds, causing the movement speed to be increased. Each signal
+corresponds to a complete round trip of 11 meters, that is 5.50
+meters to go and as many to return to the "base". The instrument
+counts the number of "shuttles" and the total working time.
+The errors of moving to a target other than the one indicated, are
+allowed and will be recorded by the examiner during the
+execution of the test. It is also possible that the student sees the
+error and corrects himself by heading in the right direction. Of
+course, errors cause uncertainty and hesitancy in moving,
+requiring the student to take small shots to recover space and
+remain in the rhythm of the test.
+At the end of the test, a large number of errors will have resulted
+in a supplementary effort determined by the sum of the
+accelerations, with the consequence of a reduction in the overall
+performance capacity. The test ends when the athlete is still in the
+vicinity of a finish line while a new signal is emitted, therefore in
+considerable delay that he can no longer fill with any running
+accelerations.
+The following are recorded: the number of shuttle runs performed
+correctly (corresponding to the number shown on the instrument
+display) as well as the chronological calculation of any errors made
+during the whole test.
+
+Figure 1. Test set up on-court.
+The test, which is carried out by carrying out specific stroke
+movements, also involves the ability to pay attention and maintain
+concentration. The examinee, following the rhythm imposed by
+“SensoBuzz”, must move with shuttle runs (round trip) from a
+central point called "base" to a goal called "target" and return. The
+return to the "base" must correspond to the reception of a new
+signal issued by “SensoBuzz”.
+The targets are five, and are placed in a semicircle at a distance of
+5.50 meters radially from the "base" and placed randomly in the
+fixed points of the portion of the tennis court used, as shown in
+figure 1. The targets are associated with five different signals,
+which by convention have been set in three visual (red, blue,
+yellow) and two audible: one acute and one double.
+The test is incremental starting from a rhythm of signal emission
+one every 5 seconds; this rhythm allows the examinee to adapt to
+the test, being able to move quite easily and enter the test
+rhythm, during the first minute. At each minute, the emission time
+between one signal and the other (split time) decreases by 0.2
+seconds, with consequent adjustment of the movement speed by
+the examining member.
+TEST PROTOCOL
+The examining member places himself in a standing position on
+the "base" ready to activate at the first signal. When the first
+signal is emitted, he will run towards the corresponding target,
+touch the space immediately facing the "goal" with his foot and
+with a decisive change of direction without turning his back on the
+midfield network, he returns to the “base”, preparing to perform
+the shift relative to the next signal.
+The movements must follow the specific running technique, as if
+you were playing tennis, according to the rhythm defined by the
+instrument. To have a reliable assessment of the organic
+resistance, the test must be carried out for at least 3 minutes. The
+test ends when the examining member's inability to sustain the
+rhythm imposed by the instrument will be manifested, precisely
+when the student is on a target and the instrument emits another
+signal.
+When this event occurs, the “SensoBuzz” application will be
+stopped by the operator and the total duration of the test, the
+number of signals performed, the meters travelled (according to
+the formula Meters = Cycles x 11) will automatically be highlighted
+in a screen. , where 11 represents the base-target-base route
+expressed in meters), the specific speed reached in the test in
+Km/h and m/s and the theoretical value of the Maximum Oxygen
+Consumption according to the formula:
+VO2max =33,3 + (3,3 * Speed) – (3,25 * Age) + ((0,2 * Speed) *
+Age), (Lèger, 1988)
+With these data available, the coach can then suggest
+personalized training according to the motor and metabolic
+capacity he wants to develop in the athlete. The data shown in
+Table 1, show the values corresponding to the result expressed in
+cycles, obtained in the test.
+
+Table 1.
+Sigma
+Test
+Values.
+
+Duration of
+the Test
+Test
+step
+Interval between
+signals (sec.)
+Total n°
+signals
+Total meters
+paths
+Average speed
+(Km / h)
+VO2 max
+(ml/Kg/min)
+(theoretical)
+(average values for ages
+between 17-19 years)
+0’00“
+---
+---
+---
+---
+---
+0’30“
+0,5
+“
+7,92
+---
+1’00“
+4,8
+
+29,86
+1’30“
+1,5
+“
+8,25
+30,43
+2’00”
+4,6
+
+31,68
+2’30”
+2,5
+“
+8,58
+32,23
+3’00”
+4,4
+
+33,51
+3’30”
+3,5
+“
+8,91
+35,35
+4’00”
+4,2
+
+37,17
+4’30”
+4,5
+“
+9,24
+38,22
+5’00”
+4,0
+
+40,83
+5’30”
+5,5
+“
+9,9
+41,12
+6’00”
+3,8
+
+42,66
+6’30”
+6,5
+“
+10,56
+44,71
+7’00”
+3,6
+1056
+
+46,32
+7’30”
+7,5
+“
+1147
+10,89
+47,83
+8’00”
+3,4
+1237
+
+49,97
+8’30”
+8,5
+“
+1333
+11,55
+52,54
+9’00”
+3,2
+1430
+
+55,46
+9’30”
+9,5
+“
+1532
+12,21
+57,85
+10’00”
+3,0
+1633
+
+60,95
+10’30”
+10,5
+“
+1743
+13,20
+63,07
+11’00”
+2,8
+1853
+
+66,43
+11’30”
+11,5
+“
+1972
+14,19
+69,34
+12’00”
+2,6
+2090
+
+73,75
+12’30”
+12,5
+“
+2216
+15,18
+76,03
+13’00”
+2,4
+2343
+
+78,45
+
+The following are the average values of the cycles performed and
+Dev.St. divided by age, relating to the two genders (male and
+female).
+Age
+11-12
+13-14
+15-16
+17-18
+19 and
+more
+ Male
+56,9
+76,3
+94,1
+116,7
+124,6
+Dev.St.
+21,8
+14,2
+17,3
+10,6
+11,3
+Female
+59,2
+70,2
+83,4
+92,3
+97,2
+Dev.St.
+10,4
+24,6
+16,3
+19,4
+14,1
+                                                                                       (p<0,05)
+Table 2. "Sigma Test" and age: average reference values of cycles.
+CONCLUSIONS
+The "Sigma test" is a simple test even for very young athletes (at
+least 10 years of age). It is performed on a portion of the tennis
+court and consequently does not need special measurements,
+provided that the court is approved. Alternatively, it can be
+performed in a space delimited by a semicircle with a radius of 5.5
+meters from the centre, on which 5 targets are arranged randomly
+which must be positioned as the cardinal points North, East, West,
+North-East and North-West.
+Data processing takes place automatically and shown to the user,
+in a final screen after stopping the test, from the “SensoBuzz”
+application. A fit tennis player performs a large number of
+shuttles, recording none or very few sequence errors.

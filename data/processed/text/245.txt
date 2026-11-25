@@ -1,0 +1,181 @@
+Title: Intelligent devices for tennis rackets
+Authors: Ángel Iván Fernández-García, Gema Torres-Luque
+Year: 2018
+Issue: Vol. 26 No. 75 (2018)
+Article id: 245
+
+www.itfcoachingreview.com
+August 2018, 26th Year, Issue 75, 7-10
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i75.245
+
+Intelligent devices for tennis rackets
+Ángel Iván Fernández-García and Gema Torres-Luque
+University of Jaén, Spain
+
+ABSTRACT
+
+The current technological advance within the field of sport is an undeniable
+fact, and this includes a speciallist sport such as tennis. In line with these
+changes, there are different devices in the market today to help players’
+technical and kinetic analysis. Coaches sometimes cast doubt about these
+devices’ performance and technical characteristics. This article intends to
+ntroduce the tools that are currently marketed that offer technical and kinetic
+information about tennis players.
+
+Key words: technology,
+intelligent devices, player
+statistics, game analysis
+Received: 26 October 2017
+Acepted: 10 January 2018
+Corresponding author:
+Ángel Iván Fernández-García
+Universidad de Jaén, Apain.
+Email:
+angelivanfg@hotmail.com ;
+gtluque@ujaen.es
+
+INTRODUCTION
+The use of technology in tennis, just as in other sports, has been
+booming over the last years. There are more and more
+powerful and affordable tools available in the market, whose
+objective is to improve tennis players’ performance, and to help
+to improve training programmes. Perhaps one of the most
+exponential current advances is the availability of “intelligent
+courts” for training and competition such as Play-Sight (PlaySight, USA), which, by means of a camera system, provides data
+about tactical and kinetic parameters, in real time, with
+continuous storage, videos, information about type and
+duration of points, and a long list of other possibilities for the
+technical team. It is true that this is advanced technology, which
+mainly due to its price, is not accessible to all coaches.
+
+However, it is interesting to highlight that there are lots of
+devices in the market, chips or other instruments, that are
+attached to the racquet and provide a great deal of information
+in real time about performance, game statistics, etc.; there are
+free or low cost apps for portable devices that are easy to use,
+in tablets or smart phones (Quinlan, 2013). They all have the
+same objective, to provide players and coaches with a number
+of technical, tactical, physiological, kinetic or statistical
+parameters, in a timely and direct manner.
+
+Because of this, the amount of data that players and coaches
+can gather using these tools is amazing. Still, for the scientific
+and technological contribution to be transmitted to improve
+performance, it is key for coaches to know how to select the
+relevant information, depending on their goals; and they
+should know how to interpret and convey it to the player
+(Barnett & Clarke, 2005; Barnett et al., 2008; Gillet et al., 2009;
+Martín, et al., 2014; O´Donoghue, 2001; Pollard et al., 2010; Reid
+et al., 2010, Over, & O’Donoghue, 2008; 2010; Pestre, 2009),
+given that just plain data can be meaningless for athletes.
+
+This article intends to introduce the tools which are currently
+marketed and offer technical and kinetic information about the
+action of the racket on the ball.
+
+METHODS AND PROCEDURES
+A revision of the current market was carried out in order to
+identify the existing tools that provide technical and kinetic
+information. The results are framed within 3 options: a) built-in
+chips in the racket. b) devices that are externally placed on the
+racket, and, c) devices that are placed on the player´s wrist.
+Once all the devices have been selected, official websites of
+each product are analysed, in order to get more detailed
+information about the technical characteristics and possibilities
+of each tool.
+
+DESCRIPTION OF THE DEVICES
+Artengo Personal Coach
+
+Artengo
+Personal
+Coach
+(https://www.decathlon.es/personalcoach-artengo-sensor-
+
+para-la-raqueta-id_8247319.html) is an external sensor that is
+placed on the racket´s throat, just at the end of the grip, to
+which it is attached by two Velcro tapes., There is also a watch
+which is connected to the sensor by means of waves with which
+it shares information immediately when the distance between
+them is less than 20 m. Its main disadvantages with respect to
+its competitors are: a) the attachment of the sensor to the
+racket is unstable, reducing reliability of the data, b) because it
+has a considerable size, and it is placed on the throat of the
+racket, it modifies the racket’s balance and impacts on technical
+execution of the stroke (see figure 1).
+
+Babolat Play System
+Babolat Play System (http://es.babolatplay.com) is made up of
+several sensors that have been built-in the racket handle
+without altering its initial weight. This is its main advantage;
+however at the same time it may be used only on a single
+racket, an important aspect for those competition players who
+break strings all the time. In the butt cap there are two buttons
+and a USB port. The buttons are used for turning the device on
+and off, and for the Bluetooth connection; the USB port, is used
+to charge the battery and transfer the information recorded. It
+offers Bluetooth technology and an application for tablets and
+smart phones with which you can see the data instantly. Play
+technology is available in Babolat Pure Drive, Pure Drive Lite
+and Pure Aero (see figure 2).
+
+Babolat Pop
+Babolat Pop (http://es.babolatplay.com/pop), from same brand
+as the above, is a sensor that is placed on a specially designed
+wrist-band, which the player must wear on his dominant hand.
+Just like Babolat Play, it transfers the information through a USB
+port or via Bluetooth, and there is an app for tablets and smart
+phones. Its main advantage is that because it is outside the
+racket structure, it does not alter its weight or balance, and it
+can be used with all racket models and brands. At the same
+time, this might pose as a disadvantage, since it may reduce
+the reliability of its measurements, and it may not be
+comfortable for the player (Figure 3).
+
+Sony Smart Tennis Sensor
+It is a small device that is placed on the butt of the racket and
+consists of something that is inserted (Figure 4). This device has
+an internal sensor, and just like the others above: it has
+Bluetooth technology; a USB port, to charge and to transfer the
+information; and, a specific application, as well. These
+characteristics are an asset when compared to Babolat Play
+system, as it can be attached to the structure of the racket, and
+therefore can be used with a variety of brands; however, not
+too often, since it increases the weight. This can slightly alter
+the sensations of the tennis player, and therefore affect their
+performance, although not so much as the Artengo Personal
+Coach,
+because
+of
+the
+position
+of
+the
+sensor.
+(https://www.sony.es/electronics/dispositivosinteligentes/ssetn1w)
+
+Zepp Tennis
+Zepp Tennis and Zepp Tennis 2 (http://www.zepp.com/en-us/
+tennis/), are two devices of a different brand, which have the
+same specifications as those detailed for the Sony Smart Tennis
+Sensor. That is, they are external devices, have a USB port and
+Bluetooth functionality, and can be used in different racket
+models. Therefore, they have the same advantages and
+disadvantages mentioned before (Figure 5).
+
+CHARACTERISTICS OF THE DEVICES
+Table 1 below illustrates, in a simple way, the technical and
+working characteristics of the different devices selected.
+
+CONCLUSION
+After the final revision of scientific literature, and product
+websites, the conclusion is that the use of the technology is
+very positive, it gives a great deal of information in real time
+that will provide more quality, efficiency and motivation to the
+training programme. These tools must always be used as a
+complement to provide added value to the coaches´ task, but
+they will never become a suitable substitute. Thus, coaches
+must be updated as to developments in, and invest in the new
+technologies, if they want to improve their performance, and
+that of their athletes.

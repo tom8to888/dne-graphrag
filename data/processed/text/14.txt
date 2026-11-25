@@ -1,0 +1,446 @@
+Title: Tennis masters. Nitto vs Next Generation ATP Finals
+Authors: Alejandro Sánchez-Pay, José Julián Navarro-Cuenca, Bernardino J. Sánchez- Alcaraz
+Year: 2020
+Issue: Vol. 28 No. 82 (2020)
+Article id: 14
+
+www.itfcoachingreview.com
+December 2020. 28th Year. Issue 82. 14-17
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v28i82.14
+
+Tennis masters. Nitto vs Next Generation ATP
+Finals
+Alejandro Sánchez-Pay a
+, José Julián Navarro-Cuenca, & Bernardino J. Sánchez- Alcaraz a
+a Department of Physical Activity and Sports, Universidad de Murcia, Murcia, Spain.
+
+ABSTRACT
+
+The objective of this study was to know the influence of the modification of the
+tournament regulations between the 2019 Nitto ATP Finals and Next Gen
+tournaments in relation to physical and technical parameters. In order to do
+this, 100% of the sets played (34 of the Nitto ATP Finals and 55 of the Next Gen)
+of a total of 30 matches were analysed. The data was selected from the
+(https://atp.com/). The results of this study show that the specific tournament
+regulations in the Next Gen ATP Finals (matches to the best of 5 sets of four
+games, elimination of the advantages and use of the "golden point", and the no-let
+rule) could influence the duration of the match and the number of total break
+opportunities, although not significantly. The percentage of first serves was
+similar between both tournaments, so despite including the no-let rule, the time
+interruptions between the first and second serves were equivalent.
+
+Key words: performance
+analysis, racquet sports,
+professional tennis,
+competition, statistics.
+Received: 30 June 2020
+Accepted: 20 September 2020
+Corresponding author:
+Alejandro Sánchez-Pay,
+Faculty of Sport Science,
+University of Murcia, Murcia,
+Spain.
+Email: aspay@um.es
+
+INTRODUCTION
+Performance analysis (notational
+analysis, match
+analysis or performance analysis) aims to record and analyse
+behaviours and actions of athletes in real game situations. These
+types of indicators or variables that best represent the winner of a
+match may vary depending on the playing surface (Barnett, Meyer,
+& Pollard, 2008; Collinson & Hughes, 2003) or the gender of the
+players, among other aspects (Brown & O'Donoghue, 2008).
+ATP, as
+well
+as
+different
+Grand
+Slam
+tournaments, include
+on
+their
+websites very
+detailed
+information on the actions that take place during the course of
+the match (Cross & Pollard, 2009). These data allow for
+subsequent further analysis of higher quality (Katić, Milat,
+Zagorac, & Durovic, 2011) which can be used to determine
+different influential aspects in the game.
+The Masters Cup (current Nitto ATP Final) is the tournament
+that includes the 8 best players classified by ranking and has
+special intereturn due to its particular format (two groups of
+four players face each other in league format, the two being
+classified first of each group for the semi-finals), as well as the
+competition between the best players of the season. Since
+2017, the ATP created a tournament similar to the masters Cup,
+which is played by the top 8 ranked in the ATP ranking under
+the age of 21, called Next Generation (Next Gen) ATP Final. This
+tournament has different regulations, such as: a) games played
+to the best of five set s, b) shorter sets format, best of four
+games with
+tie-break
+at
+3-3,
+c) “golden
+point”, and d) continuous
+play
+with
+serve
+(no-let
+rule). These changes have the intention of creating a highspeed, cutting-edge format, to suit the needs and demands of
+television, and which is aimed to attract new and young sports
+fans. However, there is currently no study that has analysed the
+influence
+regulation
+changes of
+21&U
+tournament on the statistics of the competition. Therefore,
+the objective of this research will be to observe the differences
+between the Nitto and Next Gen ATP Finals tournaments, as
+well as to analyse the influence of the modification of the
+tournament regulations on the demands of the competition.
+
+METHOD
+Sample
+The sample consisted of a total of 89 sets from the 2019 ATP
+Final tournaments (34 sets of Nitto and 55 sets of Next Gen). All
+matches included in each tournament were recorded and
+analysed.
+Procedure
+The statistics of the matches played in the Nitto ATP Finals
+tournament
+(n
+=
+matches;
+sets) and
+the Next Gen ATP Finals tournament (n = 15 matches; 55
+sets) were collected. The data was selected from the
+(https://atp.com/). The selected variables were grouped into
+three blocks: temporal variables and game actions, variables
+related to performance on the serve and variables related to
+performance on the return of serve.
+Statistical analysis
+Firstly, the mean (M) and standard deviation (DT) were
+calculated on all the variables in the sample. Normality analysis
+was performed using the Kolmogorov-Smirnov test. The t-
+ Student test was used to identify the differences between
+tournaments (Nitto ATP Finals and Next Gen ATP Finals) as well
+as to calculate the mean and percentage difference between
+the winner and loser between both tournaments. A significance
+level of p <.05 was established. The data was analysed using the
+IBM SPPS 20.0 statistical package for Macintosh (Armonk, NY:
+IBM Corp.).
+RESULTS
+Table 1 shows the differences in the physical parameters (points
+played, match duration, etc.) and in the variables related to the
+serve and the return depending on the tournament (Nitto and
+Next Gen ATP Finals).
+
+Table 1. Differences between Nitto and Next Gen ATP Finals.
+
+Nex t Gen
+Dif
+
+Match duration (min)
+106.8
+(39.51)
+84.53
+(20.88)
+22.27
+.064
+Set duration (min)
+47.12
+(12.14)
+23.05 (5.24)
+24.06
+.000
+Sets palyed
+2.35
+(0.49)
+3.71 (0.60)
+-1.36
+.000
+Total P. played (per
+match)
+(43.5)
+122.27
+(28.77)
+24.73
+.077
+Total P. played (per
+set)
+64.85
+(14.13)
+33.35 (7.09)
+31.50
+.000
+Games played (per
+set)
+10.35
+(2.00)
+5.93 (0.94)
+4.24
+.000
+Service-related
+variables
+
+13.8
+(4.71)
+9.6 (4.97)
+4.20
+.025
+Double faults
+3.47
+(2.07)
+3.00 (2.07)
+0.47
+.542
+Ratio ace : double
+faults
+5.24
+(3.46)
+4.65 (4.47)
+0.59
+.691
+Points played 1st serve
+96.47
+(25.36)
+78.07
+(17.29)
+18.40
+.028
+1 st serve (%)
+66.24
+(4.11)
+64.54 (7.32)
+1.70
+.439
+P. Won 1st serve
+71.33
+(20.97)
+56.67
+(13.69)
+14.66
+.031
+P. Won 1st serve (%)
+73.49
+(6.6)
+72.33 (5.71)
+1.15
+.613
+P. Played 2nd serve
+50.53
+(19.27)
+44.2 (15.61)
+6.33
+.331
+P. Won 2nd serve
+27.00
+(10.4)
+23.53 (9.72)
+3.46
+.354
+P. Won 2nd serve (%)
+53.53
+(5.88)
+52.24 (6.08)
+1.28
+.561
+98.33
+(30.23)
+80.2 (19.65)
+18.13
+.062
+P. Won serving (%)
+66.73
+(5.17)
+65.47 (4.05)
+1.25
+.465
+the return
+
+P. Break points won
+3.4 (1.8)
+4.27 (1.71)
+-0.87
+.118
+P.
+Break
+points
+8.6 (4.36)
+11.47 (5.05)
+-2.86
+.107
+P. Break points won
+(%)
+44.33
+(23.05)
+43.83
+(22.19)
+0.49
+.953
+48.67
+(15.64)
+42.07
+(10.82)
+6.60
+.190
+P. Won returning (%)
+33.27
+(5.17)
+34.53 (4.05)
+-1.25
+.465
+Legend. M: mean; DT: standard deviation; Q: points.
+
+Table 2 shows the difference in average values between the
+winner and the loser of each tournament, as well as the
+comparison between both tournaments. The winners in Next
+Gen had 17% more points won per set than the losers,
+while the winners in Nitto had 11% more points than the losers,
+showing significant differences between both winners (p =.037).
+Table 2. Comparison between tournaments depending on
+the d half performance differences players (win / lose).
+Variables
+Next Gen
+F
+
+Games won
+2. 24 (1. 13) 2. 16 (0. 9 0) 0.110 .741
+P. Won per match
+6. 44 (4. 15) 5. 09 (3. 03) 3,135 .080
+P. Won per set (%)
+11. 69
+(9. 99)
+17. 22
+(13. 04)
+4,487 .037
+service performance
+
+0. 5 (3. 05)
+-0. 15 (1. 86) 1,544 .217
+Double fautls
+-0. 24 (1. 33) -0. 16 (1.00) 0.084 .773
+Aces / double faults
+ratio
+0. 74 (3. 44) 0. 02 (2. 04) 1,527 .220
+1st serve (%)
+0. 13(12. 84)
+0. 47(19. 13) 0.008 .928
+P. Won 1st serve (%) 11. 09
+(14. 1 0)
+17. 41
+(19. 53)
+2,691 .105
+P. Won 2nd serve (%) 13. 9
+(28. 61)
+18. 81
+(26. 9)
+0.663 .418
+3. 21 (4. 16) 2. 35 (2. 09) 1,675 .199
+return performance
+
+Break point (%)
+35. 88
+(46. 38)
+50. 48
+(44. 48)
+2,192 .142
+3. 24 (5. 57) 2. 75 (2. 98) 0.292 .591
+Legend. M:
+mean; DT:
+standard
+deviation; p = level
+significance.
+
+DISCUSSION
+rules and systems of competition
+in professional tennis have evolved in recent years. Some of the
+most significant changes include: the Davis Cup changed the
+system of playoff teams in 2019, the four Grand Slam had in
+2019 a different regulation for the tie-break on the fifth set, or
+the inclusion of the golden point in all games of the doubles
+competition, with a supertiebreak in the third set. However,
+perhaps the tournament Next Gen ATP Finals is the one which
+includes more differentiating regulation changes to the Nitto
+ATP Finals, with matches played to the best of 5 sets with four
+games per set, the elimination of the advantages with the
+"golden point", and the inclusion of the no-let rule.
+As expected, the new competition format of the Next Gen
+tournament reduced the number and duration of sets, as well
+as the number of points and games played per set (Table 1). On
+the other hand, and although the duration of the match and
+the number of total points were lower in the Next Gen
+tournament when compared to the Nitto ATP Finals, these
+differences
+were
+not
+significant
+(p >.05). Thus, it could
+be argued the rule of including shorter sets of four games
+decreases the duration of the set, but not so significantly the
+duration of the match.
+With regard to the serve statistics, fewer points played and won
+with the 1st serve were observed in the Next Gen as compared
+to
+ATP
+Finals, which could be
+cause
+also of the fewer
+number
+aces in
+tournament. However, the data collected did not analyse the
+information related to the situation of the not let rule in the
+service, therefore, it cannot be concluded that these results are
+produced by the let rule. However, despite being able to
+serve without a let, in Next Gen matches no more aces were
+made, nor were higher values obtained in the number of points
+played with the first service or in the percentage of points won
+with the first service.
+On the other hand, in the Next Gen event the number of break
+points won and played increased when compared to the
+Nitto (though not significantly). Therefore, despite including the
+golden point rule and playing fewer games per set (6 vs
+10), from a statistical point of view, the number of opportunities
+to break in a match does not seem to increase.
+Furthermore, the data from this study showed differences in the
+statistics between the winners and losers of the matches, as
+analysed by previous studies (Ferjan, 2001; Quereda-Sánchez,
+Courel-Ibáñez, Sánchez-Pay, Alfonso-Asencio & SánchezAlcaraz, 2020). It was observed that the winners of the
+matches in the Nitto tournament won approximately more than
+two games and six points per match than the losers, with very
+similar differences in the Next Gen tournament (Table
+2). Significant differences were only found in the percentage of
+points won per set, with a difference of 5.5% between
+both tournaments. Therefore, in general, and given the
+similarity of values about the mean difference of winners over
+losers in each one of the two tournaments, the data confirmed
+a similarity in the statistics related to the performance of the
+players
+according
+to
+match
+result
+both
+tournaments (table 2).
+The results of this study have an important practical application
+for coaches and players in the design of training sessions and
+the preparation of matches adapted to the specific demands of
+the competition. For example, a good tactical and mental
+preparation of the points called key moment (such as the
+golden point) seems decisive, since it has been shown to be the
+influence of the marker (winning, drawing or losing), in addition
+to the importance of the type of Contested point can influence
+decision-making at pressure, affecting performance (Mesagno,
+Geukes & Larkin, 2015).
+
+CONCLUSIONS
+The results of this study show that the special regulations of
+the Next Gen ATP Finals tournament could influence the
+duration of the match and the number of total break
+opportunities, although not significantly. The percentage of first
+serves was similar between both tournaments, so despite
+including the no-let rule, the time interruptions between the
+first and second serves were equivalent.

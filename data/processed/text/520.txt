@@ -1,0 +1,177 @@
+Title: What Are the Key Points to Win in Tennis?
+Authors: Cédric Roure
+Year: 2014
+Issue: Vol. 22 No. 64 (2014)
+Article id: 520
+
+www.itfcoachingreview.com
+December 2014. 22nd Year. Issue 64. 18-20
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i64.520
+
+What are the key points to win in tennis?
+Cedric Roure.
+University of Western Brittany, France.
+ABSTRACT
+
+The purpose of this study is to understand the tennis scoring system in order to
+highlight the points that have the most influence on the chances of winning a
+match. Based on the analysis of point sequences played during men’s singles
+matches at the last French Open, it has been possible to show the importance of
+winning points at 30-all and being the first to have the advantage in deuce
+situations. This article also discusses the consequences of these findings on
+tennis players’ training.
+
+Key words: Big points, Match win,
+Training, French Open.
+Received: 12 September 2014.
+Acepted: 20 October 2014.
+Corresponding author: Cedric Roure,
+University
+of
+Western
+Brittany,
+France.
+Email:  Cedric.roure@univ-brest.fr
+
+INTRODUCTION
+When tennis experts are asked about what differentiates the
+world’s top players (the likes of Djokovic, Nadal and Federer)
+from the others, they generally mention the mental aspect as
+being a key factor in success. Coaches and players alike also
+agree that these players are better at playing the big points of
+a tennis match, thus increasing their chances of winning. Even
+though there appears to be a consensus that the ability to play
+big points well is vital, determining exactly what those points
+are remains difficult. Are “big points” break points at the end of
+a set? Having the advantage on serve at 6-5? Points played at
+5-all in tie-breakers? In order to obtain some preliminary
+answers, we can first take a look at statistical models specific to
+tennis to see if these bring new insight into what big points are.
+STATISTICAL MODELS IN TENNIS
+The first statistical analyses based on the distribution of points
+in tennis and the probability of winning matches date back to
+the 1970s with the introduction of the Markov chain (Schutz,
+1970). Further to these studies, the 2000s saw a series of
+studies attempting to model the probability of winning
+matches. Without claiming to be exhaustive, we can mention
+the work of Clarke & Dyte (2000) which used the ATP ranking
+point system as well as the differences in players’ ranking points
+to predict the outcome of head-to-head contests. In a similar
+fashion, Barnett & Clarke (2005) used the official statistical data
+published by the ATP to assess each player’s chance of victory
+in a tennis match. Finally, Barnett, Brown & Clarke (2006)
+developed a revised Markov chain model to predict the
+outcome of matches and determine each player’s probability of
+winning in a head-to-head contest. Thanks to all these models,
+it is currently possible to track each player’s chance of winning
+a tennis match in real time. However, these models do not give
+a picture of the importance that some points have compared to
+others.
+In addition to these studies, the ATP publishes and updates a
+set of statistics on matches played by professional players.
+Coaches thus have valuable information, allowing them to
+analyse their players and their opponents with great precision.
+Among these statistics, some are considered as playing a major
+role in the probability of winning a match. This applies
+specifically to the number of break points converted, the first
+serve percentage, or the percentage of points won on first and
+second serves. However, no data is available at the present time
+to identify the key statistic that could help determine the
+probability of winning a match.
+Our objective is therefore to identify a statistic that has a major
+effect on the probability of winning a match. By analysing point
+sequences played in tennis matches, we want to determine the
+big points that players should pay special attention to.
+METHODOLOGY FOR THE ANALYSIS OF SEQUENCES OF
+PLAY
+Our method is based on the analysis of point sequences played
+in matches of the 2014 French Open men’s draw. We analysed
+all the matches played during the tournament, i.e. a total of 127
+matches. In order to get point-by-point score lines, we referred
+to the “flashresultats” Website. We took into account three
+types of data to carry out our analyses, namely, the player who
+wins the point at 30-all, the player who has the advantage
+(following a deuce situation), and the player who has the
+advantage first in the game (without the score being 30-all).
+These three data were studied against the number of games
+won by each player and their role (server or returner). For
+example, we looked at what player won the point at 30-all, the
+server or the returner, and examined the impact of that point
+win on the win/loss of the game (a similar approach was used
+for the other two data).
+
+RESULTS
+The results are shown in tables indicating the chance of winning
+the game from several possible situations. Probabilities are
+expressed as percentages and the possible situations
+correspond to the three types of data collected using our
+method, added to which are the chances of winning a game
+regardless of the initial conditions. Table 1 shows the data for
+the matches of the first three rounds (N=112).
+
+Table 1. Probabilities of winning a game during the first week of the
+tournament.
+
+Table 2 shows the data for the matches played from the fourth
+round to the final (N= 15).
+
+Table 2. Probabilities of winning a game during the second week of the
+tournament.
+
+Results show that in two out of three situations, the player who
+wins the point has a higher probability of winning the game
+compared to the percentage of games usually won during the
+tournament. Whether the player is serving or returning, the two
+most favourable situations to win the game are winning the
+point at 30-all and being the first to have the advantage. In the
+first week, the server who wins the point at 30-all has 14.27
+percent more chance of winning the game compared to the
+normal (88.87% against 74.60%). In the same condition, the
+returner increases his chance by 35.74% (61.14% against
+25.4%). The player who has the advantage first (following a
+score of deuce) has 18.01 and 39.78 percent more chance of
+winning the game as a server and as a returner, respectively.
+Results found for the second week of the tournament confirm
+those observed for the early rounds. When serving, if the player
+wins the point at 30-all, he has 16.16 percent more chance of
+winning the game compared to the percentage of games usually
+won on serve. When returning, the player has 47.74 percent
+more chance of winning the game if he wins that particular
+point. As for the player who has the advantage first, he
+increases his chance of winning the game by 12.23% and
+54.57% when serving and returning, respectively.
+
+DISCUSSION
+The point-by-point analysis of sequences of play highlights two
+situations that play a particularly crucial role in the probability
+of winning games in tennis. Indeed, players who succeed in
+winning points at 30-all or those who have the advantage first
+greatly increase their chance of winning the match. Compared
+to the percentages of games usually won during the
+tournament, servers increase their chance of winning by 15%
+on average in these two situations. As for the returners, the
+advantage given by these situations is crucial since their chance
+of winning increases by more than 44% on average. These
+results highlight two matchplay situations that can be
+considered as big points in tennis since they increase players’
+chances of winning games.
+CONCLUSION
+The point-by-point analysis of sequences of play during men’s
+matches at the 2014 French Open brings new knowledge on
+the handling of big points in tennis. This research uncovers a
+hitherto unknown dimension in terms of statistics and analysis
+of high- level tennis matches. It encourages tennis coaches to
+adopt a new approach by teaching how to play big points from
+the perspective of typical matchplay situations. Indeed, learning
+how to handle the big points will prove more effective if the
+player is put in a 30-all situation rather than in the context of
+head-to-head contests where the first player to 5 is the winner
+(as is too often the case). Furthermore, it is recommended for
+coaches to help players improve on serve and return of serve in
+the deuce court, i.e. where points are played when the score is
+30-all or deuce. Tactical training methods aimed at improving
+game plans in the deuce court should therefore be considered.
+It will be interesting to do a similar analysis of sequences of play
+during Wimbledon to compare results and verify if big points
+arise in the same matchplay situations.

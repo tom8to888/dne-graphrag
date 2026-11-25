@@ -1,0 +1,192 @@
+Title: The Many Colours of Match Analysis in Tennis
+Authors: Natasha Bykanova-Yudanov
+Year: 2011
+Issue: Vol. 19 No. 53 (2011)
+Article id: 550
+
+www.itfcoachingreview.com
+April 2011. 19th Year. Issue 53. 36-38
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i53.550
+
+The many colours of match analysis in tennis
+Natasha Bykanova-Yudanov
+Påvelund TBK- Gothenburg, Sweden
+ABSTRACT
+This article introduces a new method of match analysis, which could serve as a
+useful and simple tool in learning to understand the game. The described method
+can be applied to all levels of players – from beginners to advanced.
+
+Key words: Match analysis, Point
+tracking.
+Received: 10 February 2011.
+Acepted: 15 April 2011.
+Corresponding
+author:
+Natasha
+Bykanova-Yudanov,
+Påvelund
+TBK- Gothenburg, Sweden.
+Email: natby2003@gmail.com ,
+
+INTRODUCTION
+A former top-ten Swedish player, Joachim ’Pim Pim’ Johansson
+was often asked the same question: “Why, having one of the
+most effective serves in the game he wouldn’t rush to the net
+behind it?”
+What puzzled the others, was a logical choice for Johansson.
+He knew that his forehand was much better than his net game
+and preferred to take the ball early and on the bounce with his
+strongest groundstroke. In 2004, Johansson showed the best
+serve results on the ATP Tour- he won more games on his serve
+than any other ATP Tour player. The Swede’s stats were even
+better than Pete Sampras’s - a strong argument in favour of
+Johansson's serve tactics. Johansson followed his powerful
+delivery by a big forehand from mid-court to finish the point.
+“All the players can play really good, it’s a question of using the
+right tactics- insists Johansson- we have to teach them in the
+right way from a younger age, we need to talk about tactics so
+they understand the logics of the game and help them develop
+their own individual styles”. This is what the game based
+approach to match analysis is all about. At beginner and
+intermediate levels, new teaching methodologies (the ‘game
+based approach’ or ‘teaching for understanding’) place a great
+emphasis on the importance of understanding the game (the
+strategic and tactical aspects) as opposed to simply hitting balls
+(Crespo & Reid 2010).
+The major challenge the coach faces while guiding kids
+through that “discovery of tennis” is in the adaptation of what
+they teach, so that it is appropriate to the age, level and
+cognitive abilities of the learner. A coach’s knowledge should
+be“relayed to players...such that they are not deterred by
+overcomplicated analysis” (Over & O'Donoghue, 2008). In
+other words, discussion of match strategy with a beginner
+should be a bit different from that you might have with a pro.
+
+• With a beginner you might apply “five balls over the net”
+tactics.
+• With advanced beginner it could be“long and high to the
+backhand”
+• With an intermediate player you might use a combination of
+“one top-spin one slice to the same side”.
+To work out strategies on the pro level, players often need
+much more information. ITF, WTA and ATP tournaments
+provide a great number of useful match stats. There are also
+special firms and coaches who specialise in processing the
+match data and working out recommendations on how to play
+a certain player – what to expect and which strategy to apply.
+
+Young aspiring players are often just as interested in their
+match performance as the professionals, if not more. And
+understandably they are very eager to listen and absorb
+anything the coach wants to share with them. This useful time
+period in a player’s development, however short it could be,
+has to be used to the utmost.
+THE POINT TRACKING METHOD
+Score line: 3, 4, 0, 5, 5, 1
+What is suggested here is a novel “match recording” (point
+tracking) method, adaptable for any level of play, that would
+help young players better understand the game and provide
+coaches with facts they can use in creating individual training
+plans for their students.
+Here are the advantages of this particular“match recording”if
+compared to the many good match analysis techniques already
+in existence:
+1. Simple to follow
+2. Understandable and conveniently presented
+3. Gives a good picture of the match flow, from start to finish
+4. Provides data for match analysis and thus for practice
+planning
+5. Keeps parents from being overstressed
+6. Could be adjusted according to the needs of a specific player
+The base for this “match recording” is keeping count of the
+number of shots hit in each rally. It is imperative to count only
+the shots that are in the court.
+Thus, instead of :
+15-0, 15-15, 15-30, 30-30, 40-30, game;
+You will be getting:
+3, 4, 0, 5, 5, 1.
+What does this particular line of digits tell us?
+1. Even though we don't see the regular score line, the score is
+followed very easily: an uneven number of shots indicates a
+winning point for the serving player, and an even number of
+shots indicates a winning point for the player returning the
+serve.
+2. We can see that in the third point (at 15-15), the server made
+a double fault - «0».
+3. We can also see that this double fault didn't discourage the
+player, but instead triggered his resistance level, and he won
+the next three points and took the game.
+4. In the middle of the game we see the two longest points –
+this could be an indication of fierce fighting. Both of these went
+to the same player.
+5. The game's shortest rally was on the game point. That can
+tell us that the return player was too discouraged or tired to
+offer better resistance.
+6. To the credit of the losing player, we can say that his return
+was quite stable – he only missed it once. Unfortunately, this
+happened on the game point. As juniors seldom hit aces, we
+can guess that it was an unforced error and might think about
+planning special stress-related drills into training sessions.
+There are numerous variations of how this data could be
+interpreted. It is important though to look for actual positive
+details, even in a lost match. Kids are smart, and if you just say
+“good effort” after a bad result, they won't believe you. But
+when looking at your notes, if you can specify with examples,
+there will be more weight behind your words:
+- Look, you made him/her really fight for every game, you never
+lost on the first game-point and always stretched him/her to
+the longest rallies in that situation. Once, you went for 24
+strokes and won that point!
+Hearing that the junior will sense that you really cared, and be
+more trusting of the message you're getting across.
+Some other useful data that can be deduced from our “match
+tracking” system is:
+- Dynamics of important points (for example break or game
+points). Whether they were won easily or after a long struggle.
+- Serve progression. At what stage of the match the serve (or
+return) was most effective, or in which square the receiving
+player always got the return in. This can be an indicator of two
+things: the weakness of serve in a particular square, or the
+strength of the returner's forehand or backhand.
+By counting the occurrences of the number “1” as opposed to
+“2” for every player we can easily see what was more effective,
+serve or return. “1” indicates a point won on serve, “2” suggests
+a good return.
+
+A near complete picture
+The suggested match recording can expose not only technical
+and tactical level of the player but can give us some ideas about
+his mental and physical form.
+Thus the player who was winning most of the long rallies could
+be applauded for his good physical shape. A game that goes
+13, 2, 2, 4 and 6 might expose the server's lack of physical form.
+After winning the longest point of the game, he went on to lose
+two quick points and was able to get “back in the saddle” only
+towards the end of the game (where there was a 6-stroke
+point). On the other hand, it can be said to the server’s credit
+that there were no double faults in that game, despite the
+server being obviously physically drained after the first point.
+That’s an indication of a stable serve!
+By paying attention to how the first point in every game was
+played we might get some information about a competitor’s
+frame of mind. It can perhaps tell us something about his
+attitude, how charged he was to get into battle gear.
+If a player starts each of his own service games with a double
+fault, it could be a sign of an inability to self-correct, or it might
+indicate too much dependence on the coach. The most basic
+self-correction on serve is this: when the ball keeps going into
+the net, think “chin up”, as Terry Rocavert, a famous Australian
+coach used to say. If the ball sails long time after time, think
+“snap it down”.
+Of course the system can be further developed to include other
+aspects of the game the coach is interested in - by adding an
+apostrophe after the digit, we can mark a second serve. So 3’
+would mean that the point started with a second serve.
+It’s up for a user to adapt it to his needs.
+CONCLUSION
+The simplicity of this system allows not only a coach, but even
+an inexperienced parent or a fellow player to follow it, and its
+diversity fills post-match discussions with colour and meaning.
+Thus the score of the match becomes not a final sentence, but
+a step in the tennis learning process.

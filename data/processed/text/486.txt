@@ -1,0 +1,390 @@
+Title: Important Performance Characteristics at Wimbledon: Implications for Coaches
+Authors: Anna Fitzpatrick
+Year: 2024
+Issue: Vol. 32 No. 92 (2024)
+Article id: 486
+
+INTRODUCTION
+My research has sought to address the lack of performance
+analysis investigations into elite grass court tennis. In
+addition to introducing and validating a new, coach-friendly
+data analysis method, designed to encourage coaches to
+embrace performance analysis (Fitzpatrick et al., 2018),
+our research has advanced knowledge on the important
+aspects of elite grass court tennis match-play, and provided
+new insight into how matches are won at Wimbledon. This
+evidence-informed article summarises the key findings and
+then, crucially, considers the practical applications from a
+coaching perspective.
+KEY FINDINGS
+Longitudinal analysis of men’s and women’s matches at
+Wimbledon showed that although the characteristics of matchplay evolved between 1992 and 2017, short points (points of
+between 0 and 4 shots) remained the most important aspect
+throughout. Informed by coaches’ knowledge of the sport,
+we then defined ‘closely contested’ and ‘one-sided’ tennis
+matches, with analysis revealing that short points remain
+highly important in both closely contested and one-sided
+matches (Fitzpatrick et al., 2024). With only 3 weeks typically
+separating Roland Garros and Wimbledon, a comparison of
+the two Grand Slams provided important context to inform
+players’ training strategies during the crucial, but timepressured, clay-to-grass surface transition (Fitzpatrick et al.,
+2019). Interestingly, despite the slower nature of clay courts,
+short points prevailed again, as the most important aspect
+of match-play, on both surfaces, with players who won more
+short points than their opponent winning the match in 8592% of cases (Fitzpatrick et al., 2019; see Table 1). Note that
+a higher PWOL value indicates a stronger positive association
+with match outcome (i.e., with winning matches).
+Researchers and coaches have consistently acknowledged
+the serve as the most important shot in tennis, with some also
+highlighting the vital nature of the return (Ruder, 2019).  ‘Serve
+plus one’ strategies (where a player executes a serve and then
+aims to put the ball away with their next shot) are also considered
+crucial components of a players’ arsenal (O’Shannessy, 2019a), and
+therefore feature heavily in practice sessions. These practitioner
+observations along with the clear importance of short points led
+us to investigate points of 0-4 shot rally length in more depth.
+Our analysis reaffirmed the importance of effective serving and
+www.itfcoachingreview.com
+April 2024. 32th Year. Issue 92. 14-17
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i92.486
+Important performance characteristics at
+Wimbledon: Implications for coaches
+Anna Fitzpatrick
+Loughborough University, UK.
+Key words: Successful performance; Elite tennis; Wimbledon; Performance analysis.
+Received: 10 August 2023. Accepted: 26 November 2023
+Corresponding author: Anna Fitzpatrick. Email: a.fitzpatrick@lboro.ac.uk
+returning strategies for winning matches at Wimbledon, but also
+indicated that serve plus one strategies (i.e., points of 3 shots)
+do not differentiate winning and losing players (Fitzpatrick et
+al., 2021; see Table 2), which could cast doubt over their current
+prioritisation within training. Note that a PWOL value close to 50%
+indicates no association with match outcome.
+Tactical analysis of Hawk-Eye ball-tracking data provided insight
+into the most common and most effective serving and returning
+strategies for men and women at Wimbledon (Fitzpatrick et al.,
+2023). Perhaps unsurprisingly, serves and returns that landed
+in more lateral areas of the court (i.e., closer to the sidelines)
+were more successful than those that landed more centrally, and
+winning players executed both serves and returns more accurately
+to lateral areas than losing players.
+IMPLICATIONS FOR COACHES
+Findings revealed that points of 0-4 shot rally length (i.e., short
+points) was the most important performance characteristic in
+terms of winning matches at Wimbledon, irrespective of sex (male/
+female), time (from 1992 to 2017) and match closeness (closely
+contested/one-sided) (Fitzpatrick et al., 2024). Coaches should
+be aware of the prevalence and importance of short points, and
+design players’ training accordingly. Guided by Pinder et al.’s (2011)
+representative learning design framework, coaches should ensure
+that short rallies and point-ending strategies are fundamental
+aspects of players’ grass court training sessions. However,
+tennis strategy analyst, Craig O’Shannessy, has suggested that
+elite players spend around 90% of their practice time engaging
+in long, baseline rallies (O’Shannessy, 2019b). This type of
+practice develops rhythm and consistency, and should therefore
+not be abandoned, but the importance of providing a training
+environment that is representative of the performance context
+should not be overlooked. Our findings therefore suggest that the
+amount of time spent practicing long baseline rallies should be
+reconsidered and potentially reduced, due to the high prevalence
+and unconditional importance of short points (Fitzpatrick et al.,
+2021). Where necessary, coaches can be guided on how to design
+more representative baseline rallies, to ensure high levels of
+specificity within players’ training; strategies for this are presented
+shortly.
+Our results consistently highlighted the crucial role of serving and
+returning strategies at Wimbledon. According to O’Shannessy
+(2020), the serve and particularly the return are drastically
+under-practised skills, relative to their prevalence in elite matchplay. Although this has not yet been investigated empirically in
+COACHING & SPORT
+SCIENCE REVIEW
+professional tennis, Krause et al. (2019) analysed junior players’
+training sessions and demonstrated that serves and returns
+comprise only 10% and 3% of total practice time, respectively. With
+our findings demonstrating that serving and returning strategies
+are highly influential to the outcome of matches (Fitzpatrick et al.,
+2021), serves and returns should undoubtedly be prioritised during
+grass court training. Results showed that, for male players, returns
+may in fact be more important than serves (Fitzpatrick et al., 2021),
+so it is particularly important for men’s coaches to ensure that
+returns are afforded sufficient practice time. Additionally, players
+tend to practise the serve by repeatedly hitting balls from a basket,
+often engaging in conversation simultaneously (Meffert et al.,
+2018) and without a returning player present (Krause et al., 2019);
+it is important to address the limited representativeness of such
+practice designs. To more accurately represent the performance
+context, serves and returns should not be practised in isolation,
+but rather as they occur during match-play – as part of a series of
+strokes, beginning with a first or second serve (Krause et al., 2019).
+Therefore, serving practices in which players are dissuaded from
+talking, a returning ‘opponent’ is active, and the serving player is
+required to perform the next stroke if the return is successful, are
+advised.
+Serve plus one strategies (i.e., 3-shot rallies) did not differentiate
+winning and losing players, casting doubt on previous claims that
+they are crucial in elite tennis. However, this finding must be
+considered in context; 3 shots was found to be the second most
+common rally length, and changing the amount of practice time
+afforded to serve plus one strategies could lead to players becoming
+less proficient at executing them. So, it would be unwise to suggest
+that serve plus one strategies should not be practised, but coaches
+could ensure specificity, affording time to the specific strategies
+that their player executes either more or less successfully during
+matches.
+Serves and returns landing close to the lateral edges of the
+court were more successful than those landing in central zones
+(Fitzpatrick et al., 2023). The importance of short points, the
+importance of serving and returning strategies, and the success of
+serving and returning to lateral zones (compared to central zones)
+collectively indicate that success is typically attained at Wimbledon
+by executing attacking strategies that put the opponent under
+pressure early in the point. In line with these findings, coaches
+should design practices that elicit proactive behaviours and foster
+attacking strategies, such as playing on the front foot, stepping
+inside the baseline, taking the ball early (i.e., on the rise), and
+putting the opponent under positional and/or time pressure.
+Newell’s constraints-led model is an effective pedagogical
+approach for promoting desirable emergent behaviours (Renshaw
+& Chow, 2019), and can therefore underpin coaches’ development
+of such practice designs. Below are four task designs that coaches
+could explore, whereby constraints are manipulated to encourage
+functional behaviours. These suggestions are informed by our
+research findings and derived from tennis coaching literature.
+1. Time-restricted rallies
+Players rally for 60 seconds, with the aim of hitting as many strokes
+as possible (ideally within one rally). As players explore behavioural
+adaptations to achieve the goal, they learn to reduce the amount
+of time between strokes, and therefore hit more strokes within
+the time limit, by taking the ball early and executing an attacking
+ball trajectory. Time-constrained tasks can also improve players’
+capacity to play at a high tempo while maintaining consistency, a
+vital skill in tennis (Antoun, 2007). Informed by the finding that
+short points are closely associated with success, this task will
+encourage players to put their opponent under time pressure
+early in the point. In time, this task could also progress to become
+direction-based (i.e., cross-court or down-the-line), to be more
+representative of match-play scenarios.
+Table 1. Men’s and women’s PWOL values (i.e., importance in terms of winning matches) for the most important performance characteristics
+at Roland Garros and Wimbledon (derived from Fitzpatrick et al., 2019).
+Performance characteristic
+Roland Garros
+Wimbledon
+Average PWOL
+Men’s PWOL
+Women’s PWOL
+Men’s PWOL
+Women’s PWOL
+Points won of 0-4 rally length
+89%
+85%
+92%
+87%
+88%
+First serve points won
+85%
+83%
+85%
+84%
+84%
+Baseline points won
+82%
+84%
+79%
+90%
+84%
+Second serve points won
+77%
+76%
+73%
+79%
+76%
+Points won of 5-8 rally length
+65%
+68%
+69%
+72%
+69%
+Points won of 9+ rally length
+66%
+56%
+61%
+58%
+60%
+Table 2. Mean (± sd) number of points won of each rally length by winning and losing players of both sexes at Wimbledon, and corresponding
+PWOLs (i.e., importance in terms of winning matches) (derived from Fitzpatrick et al., 2021).
+ Rally Length
+Men
+Women
+Winning
+players
+Losing players
+PWOL
+Winning
+players
+Losing players
+PWOL
+0 shots
+4.2 ± 2.7
+3.2 ± 2.4
+56%
+3.5 ± 2.2
+2.7 ± 2.3
+55%
+1 shot
+41.3 ± 15.5
+35.0 ± 16.2
+71%
+18.9 ± 7.0
+15.4 ± 7.5
+71%
+2 shots
+15.1 ± 5.9
+10.4 ± 5.3
+77%
+11.0 ± 4.3
+8.1 ± 4.4
+71%
+3 shots
+18.3 ± 7.2
+18.0 ± 7.7
+48%
+11.0 ± 4.3
+9.9 ± 4.8
+54%
+4 shots
+10.6 ± 3.7
+7.1 ± 3.7
+72%
+7.8 ± 3.5
+5.9 ± 3.2
+66%
+0-4 shots (combined)
+89.5 ± 25.7
+73.7 ± 28.6
+92%
+52.3 ± 14.3
+41.8 ± 16.7
+87%
+2. Adapted playing space
+Use masking tape or markers to create a line 10 cm behind the
+server’s baseline, demarcating the effective playing space that
+players must stay within. Under this adaptation, incoming balls
+that land near the baseline must be taken on the rise to satisfy
+the task demands. Over time, players learn that this imposes
+time pressure on the opponent. During points-based activities,
+this manipulation ensures that players do not retreat after
+serving, in turn promoting active consideration of an appropriate
+serving strategy, as an added benefit. This task is informed by the
+importance of serving strategies, and the finding that winning
+players hit a higher proportion of their serves to lateral areas of
+the service box than losing players. A similar adaptation could be
+applied for the returning player, to encourage increased focus on
+returning strategies.
+3. Two steps forward
+During return-focused tasks, ask players to take two steps
+forward after each stroke. This promotes hitting on the front foot
+and moving through the ball, and fosters an attacking mentality,
+as it is difficult to play defensively when moving forwards. With
+the importance of returning strategies (particularly for men), this
+will encourage players to attack the return, to try to prevent the
+server from dominating the start of the point. This manipulation
+can also be used during baseline rallies to improve players’
+forward and backward movement skills, which are typically
+weaker than their lateral movement skills.
+4. Bonus points for creating perturbations
+Coaches can award a bonus point if players miss by a small margin
+while attempting to create a perturbation (i.e., apply time or
+positional pressure) early in the point, to promote positive intent.
+For example, if a player serves wide to the advantage court, then
+moves into the court and attempts but misses (clipping the tape)
+an aggressive down-the-line backhand on their next stroke, they
+could be awarded a bonus point for controlled, positive intent.
+Informed by the importance of short points, this task fosters an
+attacking (rather than passive or defensive) approach to the first
+few shots of each point, by negating the psychological pressure
+associated with committing an error. Bonus and/or penalty
+points can be applied to many activities, to promote desirable
+behaviours or dissuade less-desirable behaviours.
+Relevant verbal instruction and feedback (i.e., clear, simple
+statements) can be provided by coaches to supplement these
+manipulations (Reilly & Williams, 2003). Examples that reflect
+our findings include ‘hit through the ball’, ‘take their time away’
+or ‘strike first’ to encourage proactive play (Ruder, 2019). Where
+possible, practice environments should also elicit the cognitions
+and emotions associated with competition, to better support
+the emergence of functional behaviours and exhibit fidelity with
+the performance context (McCosker et al., 2019). Coaches can
+aim to re-create the high-pressure environment of competition
+using forfeits and rewards (Stoker, 2017), or by implementing
+time restrictions and/or situational scoring manipulations (e.g.,
+the player must start each game 0-30 down). As tennis is an
+individual sport, putting players into teams, whereby everyone’s
+performance affects the success of the wider team may also help
+to simulate pressure.
+For the successful implementation of practice designs, players
+must understand the purpose, relevance and context, to ensure
+they adopt an appropriate mindset (Ruder, 2019). Based on
+our findings, players should approach practice prepared to actively
+search for and create opportunities to win the point, rather than
+passively waiting for opportunities to arise or for their opponent to
+commit an error. To facilitate this mentality, coaches could ask players
+to verbalise their tactical intention as they perform each stroke, by
+calling out ‘defend’, ‘neutral’, or ‘attack’, for example. Self-evaluation,
+an important skill for athletes, has been shown to improve focus,
+and enhance particularly those areas within players’ control, such as
+the serve (Taylor & Wilson, 2005). Self-assessing the effectiveness
+of serves and returns during training, by scoring them out of ten,
+based on how difficult the player perceives each stroke to be for an
+opponent to retrieve, could encourage exploration of different ways
+to execute serves and returns to increase the likelihood of creating a
+perturbation (i.e., putting their opponent under pressure).
+Crucially, the coaching application outlined in this article is not ‘one
+size fits all’, and must be individualised. Given the array of game
+styles in tennis, and players’ individual personalities, coaches have
+an inherent responsibility to know their own player’s game and
+character well enough to determine how, and the extent to which,
+they should implement these recommendations (Reilly & Williams,
+2003). In this way, the tactical strategies of an individual player
+should maximise their strengths, while limiting the opportunities
+for opponents to exploit their weaknesses. (Antoun, 2007). How
+coaches communicate the context of findings and associated
+adaptations is also important (Jones et al., 2004). For example, with
+a male player whose weapon is their powerful serve, a coach could
+highlight the strengths of this game style on grass courts, based on
+the critical importance of serving and the importance of first serve
+speed and aces uncovered in our research, to instil confidence and
+self-belief (Wilkins & McBrien, 2018). However, for a player whose
+strengths are movement and shot consistency, the coach expressing
+that their game style is not ideal for grass courts (as long points are
+not important for winning matches at Wimbledon) is unlikely to be
+beneficial. So, clearly, coaches must consider players’ gamestyles and
+personalities before deciding how best to design sessions and explain
+adaptations to them.
+SUMMARY
+•	 Based on our research findings, coaches should design grass
+court practices that elicit proactive behaviours and foster
+attacking strategies (e.g. playing on the front foot, taking
+the ball early, and putting the opponent under positional
+and/or time pressure).
+•	 To
+reflect
+match-play,
+coaches
+should
+develop
+representative and specific serve, return and serve plus
+one based practice, and consider the amount of time
+players spend engaging in long, baseline rallies.
+•	 The four constraints-led task designs presented here
+demonstrate how coaches can apply the current findings,
+complemented by appropriate instruction and feedback, to
+ensure representative practice.
+•	 Coaches should tailor the implementation of such task
+designs, based on individual players’ game styles and
+characters.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that she does not have any conflict of
+interest and that she did not receive any funding to conduct the
+research.

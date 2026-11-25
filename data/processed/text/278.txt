@@ -1,0 +1,260 @@
+Title: Research inspired by Tennis Play and Stay: What have we learnt about equipment modification in tennis?
+Authors: Tim Buszard, Machar Reid, Damian Farrow
+Year: 2017
+Issue: Vol. 25 No. 72 (2017)
+Article id: 278
+
+www.itfcoachingreview.com
+August 2017. 25th Year. Issue 72. 8-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i72.278
+
+Research inspired by Tennis Play and Stay:
+What have we learnt about equipment
+modification in tennis?
+Tim Buszard, Machar Reid and Damian Farrow
+Victoria University Melbourne, Australia
+
+ABSTRACT
+
+Since the inception of the Tennis Play and Stay campaign in 2007, considerable
+research has focused on the effect of modifying equipment on children’s tennis
+experience. Most studies have examined equipment modification from a motor
+skill perspective, with the typical experiment examining the effect of
+manipulating equipment on children’s performance. Indeed, evidence
+consistently supports equipment modification as a viable method to improve
+tennis performance (Buszard, Reid, Masters & Farrow, 2016; Farrow, Buszard,
+Reid, & Masters, 2016).
+
+Key words: Tennis Play and
+stay, equipment, modification,
+performance
+Received: 25 Jan 2017
+Acepted: 20 Jun 2017
+Corresponding author: Tim
+Buszard, Victoria University
+Melbourne, Australia.
+Email: tim.buszard@vu.edu.au.
+INTRODUCTION
+Research inspired by Play and Stay: What have we learnt
+about equipment modification in tennis?
+
+This article reviews studies that have examined equipment
+modification in junior tennis. We divided research into five
+areas: (1) the acute effect of equipment modification on
+beginners, (2) the acute effect of equipment modification on
+skilled players, (3) the effect of equipment modification on skill
+development, (4) the effect of equipment modification on
+implicit processes when executing a skill, and (5) the
+identification of key variables to guide equipment modification.
+
+Acute
+effect
+on
+beginners.
+When 6-year-old children attempt to play a forehand, their
+ability to hit the ball accurately is influenced by the racket and
+ball that they use. In a study of children aged 6 to 9 years, the
+combination of a 48 cm racket and a low compression “red”
+ball resulted in superior hitting accuracy in a forehand task
+compared to other racket and ball combinations (see Figure 1;
+Buszard, Farrow, Reid, & Masters, 2014a). Nine racket-ball
+combinations were examined, including and 3 rackets (48 cm,
+58 cm and 68 cm) and 3 balls (red, green and yellow). In the
+same study, children swung the racket with a low-tohigh
+trajectory and made contact with the ball in front and to the
+side of their body more often when using the “red” ball. Hence,
+simplifying the skill by modifying the equipment had a positive
+effect on children’s performance. Similar results were reported
+in a study of children aged 7 to 9 years rallying with a
+professional coach (note: these children had 2.5 ± 1.2 years
+experience playing tennis). When children used a lower
+compression ball, compared to a standard ball, they struck the
+ball 6.5 km/h faster and with better accuracy (Larson &
+Guggenheimer, 2013).
+
+A limitation of these studies is that they examined tennis skills
+in an environment away from a matchplay context. This issue
+was rectified in an examination of matchplay performance
+across the four stages within the Play and Stay campaign (red,
+orange, green and yellow). Results revealed a trend of longer
+rallies under conditions of greater scaling (Fitzpatrick, Davids,
+& Stone, 2016). This suggests that children learning to play
+tennis on the red stage are exposed to more hitting
+opportunities (note: in this study, children in the red stage had
+2.1 ± 0.9 years experience playing tennis). This is consistent
+with the argument that modifying tennis equipment can
+heighten the likehood of player’s achieving success.
+
+Acute effect of equipment modification on skilled
+players
+The rule change mandating all 10 and under tournaments to
+use lower compression balls had a significant impact on junior
+tennis. Despite some public criticism for the rule change,
+research focusing on skilled 10 and under players supports the
+change. Compared to a standard yellow ball, playing matches
+with the lower compression “green” ball resulted in skilled
+players striking the ball at a comfortable height more often (i.e.,
+between the upper leg and shoulder) and approaching the net
+on more occasions (Kachel, Buszard, & Reid, 2015). The
+duration of time between each shot (sometimes referred to as
+racket-to-racket time) was also faster when using the green ball
+compared to the yellow ball. Notably, the time between shots
+more closely resembled that of a professional match. This is
+assumed to aid skill development, as children will learn to
+become attuned to the constraints of matchplay that also
+feature in matchplay as they grow.
+
+Extensions to this study have focused on the effect of
+manipulating court size and net height for talented 10 and
+under players. Whilst court size had minimal effect on
+matchplay performance, lowering net height by 22 cm was
+found to increase winners, volleys and shots played at a
+comfortable height, at the same time as fewer shots were
+played behind the baseline (Timmerman et al. 2015). The
+authors concluded that a lower net height promoted a more
+aggressive style of matchplay.
+
+Effect of equipment modification on skill development
+Three studies have examined the effect of modifying
+equipment on children’s motor skills over a practice period.
+Hammond et al. (2006) revealed no differences in skill
+improvements between children exposed to a lower
+compression ball and children exposed to a standard ball after
+8 weeks of practice. However, we should interpret this result
+with caution, as skill level and age were not controlled for
+between experimental groups.
+
+More compelling evidence came from a study of 8 year old
+children who were divided into four practice groups: a scaled
+court-low compression ball group, a scaled court-standard ball
+group, a full-size court-low compression ball group, and a full
+size courtstandard ball group (Farrow & Reid, 2010). The only
+group to show no performance improvement following 5
+weeks of practice was the full size court-standard ball group.
+Evidently, the adult (or full size) conditions limited hitting
+opportunities during practice, which seemingly limited the
+learning experience.
+
+The effect of modifying tennis equipment was also examined
+during Physical Education classes in primary school (Buszard,
+Reid, Masters, & Farrow, 2016). The aim was to identify if
+modifying equipment also facilitates enhanced performance
+and learning when children practiced in large groups.
+Surprisingly, however, children displayed similar improvements
+in hitting performance regardless of whether they practiced
+with a 48 cm racket or a 68 cm racket. The lack of difference
+was possibly due to insufficient hitting opportunities during
+practice. Nonetheless, children who practiced with the 48 cm
+racket did display greater improvements in hitting technique
+(according to a checklist that described what a desirable
+forehand should look like).
+
+Effect of equipment modification on implicit processes
+when executing a skill
+Modifying tennis equipment was examined through the lens of
+implicit motor learning. Implicit motor learning refers to the
+acquisition of a motor skill with minimal conscious awareness
+of the step-by-step processes of how the skill is performed
+(Masters & Poolton, 2012). One method to encourage implicit
+motor learning is to reduce errors accumulated during practice.
+When errors are infrequent, the performer is less inclined to
+analyse their movements, as there is no error to correct
+(Maxwell, Masters, Kerr, & Weedon., 2001). It was therefore
+hypothesised that the modification of equipment to simply
+
+skills would encourage a more implicit style of learning
+(Buszard, Farrow, Reid, & Masters, 2013). Whilst no research
+has examined implicit motor learning per se, it was observed
+that lesser skilled children maintained stable performance on a
+forehand task whilst simultaneously counting backwards when
+using modified equipment (Buszard, Farrow, Reid, & Masters,
+2014). When using adult equipment, however, performance
+declined significantly. Consequently, it was concluded that the
+modification of sports equipment to simplify skills promotes
+implicit processes when executing a motor skill. Research
+needs to investigate whether the simplification of skills via
+equipment modification encourages implicit motor learning
+over a period of practice.
+
+Identifying
+key
+variables
+to
+guide
+Whilst it is clear that modifying equipment simplifies the
+execution of skills and therefore leads to better performance, it
+unclear as to how equipment should be modified. For instance,
+should rackets be scaled based on a child’s height? Or are other
+variables, such as grip size or strength, more relevant? Gagen,
+Haywood and Spaner, (2005) attempted to answer this
+question by asking children aged 4 to 10 years to strike a ball
+as hard as possible with four different rackets that varied in
+length and mass. To the authors’ surprise, however, no physical
+characteristic predicted the optimal racket for each child. The
+optimal racket was defined as the racket that resulted in the
+ball being struck closest to the centre of the strings coupled
+with increased racket velocity.
+
+Timmerman et al. (2015) investigated whether scaling the court
+size and net height based on racket-to-racket time (i.e., mean
+time between each player striking the ball) of a professional
+match would result in desirable matchplay performance. A
+racket-to-racket time ratio between a 10-year-old match and a
+professional match was calculated. This ratio was then used to
+scale court size and net height. Contrary to the authors’
+hypothesis, however, lowering the net height based on this
+ratio did not decrease racket-to-racket time, indicating that this
+rationale was not appropriate.
+
+Recently net height scaling was also examined from the
+perspective of children’s height. The standard net height is
+approximately 50% of a professional tennis player’s height (see
+Figure 2). It was therefore hypothesised that 50% of a child’s
+height would represent the optimal net height (Limpens,
+Buszard, Shoemaker, Savelsbergh, & Reid, unpublished).
+Results offered support for this hypothesis, with desirable
+matchplay characteristics emerging when the net height was
+approximately 40% and 50% of children’s height. These
+included more first-serves in, more winners and more shots
+played from inside the baseline. Significantly, however, rally
+length was unrealistically short when the net height was closer
+to 40% of children’s height.
+
+Figure 2. Net height viewed as a percentage of a player’s height.
+The average height of a 10 year old is compared with the average
+height or a professional tennis player (male and female
+combined). The standard net height is 50% of the average
+professional player’s height. Limpens et al. (unpublished)
+hypothesised that the optimal net height for children would
+therefore be 50% of their height. For the average 10 year old, this
+equates to a 65 cm net height.
+
+CONCLUSION
+Studies consistently provide support for children playing tennis
+with modified equipment. For this research to advance, studies
+need to focus more on skill development, as opposed to
+merely performance. Understanding the effect of progressing
+through each stage of the Play and Stay pathway should be a
+key focus moving forward. More emphasis also needs to be
+placed on the measurement of motor skills. Specifically, the use
+of three-dimensional motion analysis software to measure
+movement kinematics will provide more compelling data
+regarding the effect of equipment on coordination. For
+instance, preliminary data from a recent study highlights the
+movement adaptations that take place when children use a 68
+cm racket compared to a 53 cm racket. As expected, children
+adapted to the larger racket by choking the racket (i.e., holding
+the racket higher. on the grip) and swinging with reduced
+velocity – both of which are considered undesirable
+adaptations. The use of more sensitive measures of movement
+kinematics might also indicate a link, if one exists, between
+equipment and injuries. Finally, more attention needs to be
+directed towards the key variables to guide equipment
+modification, such as the ratio between physical characteristics
+and equipment size.
+
+In summary, the Play and Stay campaign has inspired a large
+body of research on equipment modification, yet, more work
+remains if the tennis community is to reap the rewards from
+modifying the game.

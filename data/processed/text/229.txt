@@ -1,0 +1,168 @@
+Title: An examination of the factorial structure of the unforced-error measure in collegiate women tennis players in Japan: A comparison between players and coaches
+Authors: Daisuke Hirata, Shuhei Sato, Kiso Murakami
+Year: 2017
+Issue: Vol. 25 No. 71 (2017)
+Article id: 229
+
+www.itfcoachingreview.com
+April 2017. 25th Year. Issue 71 9-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i71.229
+
+An examination of the factorial structure of
+the unforced-error measure in collegiate
+women tennis players in Japan:
+A comparison between players and coaches
+Daisuke Hirata, Shuhei Sato, Kiso Murakami (JAP), et al.
+ITF Coaching and Sport Science Review 2017; 71 (25): 9 - 11
+ABSTRACT
+Unforced errors are a significant issue in producing high performance in tennis.
+Identifying the causes of these errors in important to guide interventions to reduce
+unforced errors. The purpose of this study was to examine the different causes of
+unforced errors (UE) of Women’s Collegiate tennis players from the perspectives of
+coaches and players. Specifically, and based on previous research (Hirata, Sato,
+Murakami, Sato, & Saijo, in press; Shibahara, Tamaki, Hirata, Sonobe, Morii, & Saijo,
+2015), a measure was developed to collect data on UE. The factor structure was
+examined using data collected from 283 Collegiate women tennis players and 77 coaches
+of women tennis players. These participants were divided into High-Skilled (HS) and LowSkilled (LS), where the criteria for such selection was based in the competition level
+played in different Competitions. In order to access the HS competition, players needed
+to be winners of the LS competition. Comparing and contrasting both groups are in the
+basis of the current research study.
+
+Key words: Tennis, error,
+factor analysis,
+Received: 12 Dec 2016
+Accepted: 07 Feb. 2017
+Corresponding author:
+Daisuke Hirata
+Email:
+hiratadaisuke47@gmail.com
+INTRODUCTION
+There are two types of error in tennis, an unforced-error (UE)
+and a forced-error. The unforced-error is caused in the
+situation the player is able to select the shot and is in control
+of a point or a game. On the other hand, the forced-error is
+characterized as a miss caused by an opponent’s superior play.
+It is important for coaches to assist players to reduce UE in
+tennis.
+
+Hirata et al. (2014) found several causes of UE in collegiate
+women
+tennis
+players:
+(a)
+situational
+decision-making
+processes, (b) skill issues, and (c) psychological issues (see
+Figure1).
+There were differences in players’ and coaches’ perceptions of
+UE. It was considered that the cause of the UE was different
+when coaches thought the cause of player’s UE. The cause of
+this as the UE is the variety, to know the cause of the UE of
+players and coaches are considered to be a valid information
+for coaching.
+In the present study, several items representing the different
+elements of UE as identified in previous research (Hirata et al.,
+2017; Shibahara, Tamaki, Hirata, Sonobe, Morii, & Saijo, 2015)
+study were developed. Subsequently, the factor structure of a
+measure of UE was examined to establish validity of the tool
+using data from women’s collegiate tennis in Japan.
+
+METHOD
+The participants included 283 of collegiate women tennis
+players who belonged to a university tennis team and 77 of
+coaches who coached women tennis players in Japan (see
+Table 1 for demographic details the study participants). The
+criteria adopted to peer up players into High skilled (HS) and
+low skilled (LS) was based in their participation in Japan
+intercollegiate tennis championship or state tennis tournament,
+recognizing
+that
+access
+intercollegiate
+tennis
+championship is reserved for the winners of state tennis
+tournament. Coaches were also organized depending on the
+Championship played by their athletes. Ethical approval for this
+study was granted by Senshu University institute of sport
+ethics committee.
+Table 1. Groups details of players and coaches.
+
+Based on previous research (Hirata e al., in press; Shibahara et
+al., 2015), 47 items were developed representing four factors
+(Distraction, Delay, Hesitation, and Anxiety). Sample items
+from the Distraction factor were: “I played sloppy” and “I was
+careless”. “I was too confident with my shot” and “I was
+uncertain with my shot selection” were sample items of the
+Hesitation factor. Sample items from the third factor (Delay in
+the ready) included: “I was slow to regain possession” and “My
+timing was late with my stroke”. The fourth factor (Anxiety)
+included the following sample items: “I was unconfident with
+my shot” and “I was anxious to play”.
+In the measure, players responded to the following stem: Player
+answered to remember the cause of UE in singles game and
+coaches responded to the following stem: Coach answer about
+UE of player coached by coach.
+For each item, players and coaches were asked to rate Likert
+scale 1-5 with 1 representing “not at all” and 5 representing
+“always”.
+The analysis of items was analysed using exploratory factor
+analysis (EFA) was conducted. After this initial EFA, a
+Confirmatory Factor Analysis (CFA) was conducted to examine
+the factor structure of the measure using Amos 23.0. A
+comparison of players’ and coaches’ scores were analysed by a
+one-way ANOVA using SPSS 23.0.
+RESULTS
+The results of the EFA identified four factors contributing to
+UE
+(see
+Table
+2).
+
+From the EFA, it was found that all four items for each of the
+four factors loaded appropriately onto their expected factor.
+Furthermore, the four factors did not show high inter-factor
+correlations, partially supporting construct validity. Therefore,
+a CFA was conducted on the same data set. In the CFA, the
+goodness of fit indices showed a satisfactory fit of the data to
+this model (GFI=.910, AGFI=.877, CFI=.901, RMSEA=.070).
+Therefore, there is partial support for the construct validity of
+this measure of UE in tennis. The one-way Factorial ANOVA
+showed there were no statistical differences between the
+mean scores for low versus HS players for any of the four
+factors of UE. (see Table 3). However, there were significant
+differences between mean scores for coaches of HS versus LS
+players on three factors: Distraction (F (75) =2.26, p.<.05),
+Delay in the ready (F (75) =2.71, p.<.01), and Anxiety (F (75)
+=2.33,
+p.<.05).
+
+An examination of the data between coaches of LS players and
+LS players only showed statistically different results for the
+Distraction factor (F (230) =4.92, p.<.05) (see Figure 2).
+
+DISCUSSION
+The causes of UE are considered an important issue in
+producing high performance in tennis. In present study, we
+found support for the four-factor structure of the UE measure:
+Distraction, Hesitation, Delay in the ready, and Anxiety. This
+initial examination of the psychometric structure of the UE
+measure has shown support for its structure, partially
+supporting the construct validity of UE. However, further
+examination of this measure is necessary to provide sufficient
+evidence of its reliability and validity as measure of UE.
+
+This measure is useful for researchers and coaches because it
+is important for coaching that coaches identify the causes of
+such errors. Mainly for LS players that struggle to attribute
+distraction as a reason for unforced-errors. Due to the
+simplicity of tactics and strategies in collegiate women tennis
+(Hirata et al., 2005) provide more space and opportunity for
+distractions. The role of coaches in such contexts must
+recognize
+n
+eed to emphasize the importance to remain focus.
+
+Authors: Daisuke Hirata, Shuhei Sato, Kiso Murakami, Kentaro
+Shibahara, Daiji Morii, Daisuke Mitsuhashi, Junichi Sato,
+Msayuki Sato, Masamitsu Ito, Osamitsu Saijo.

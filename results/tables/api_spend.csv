@@ -1,0 +1,4 @@
+stage,calls,input_tokens,output_tokens,usd,usd_per_call
+correctness,200,326768,67081,2.6487,0.0132
+judge,600,1826986,286227,13.0325,0.0217
+total,800,2153754,353308,15.6812,0.0196

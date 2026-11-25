@@ -1,0 +1,636 @@
+Title: World Tennis Number: The new gold standard, or a failure?
+Authors: SangHyuk Im, Chang-Hoon Lee
+Year: 2023
+Issue: Vol. 31 No. 91 (2023)
+Article id: 371
+
+ABSTRACT
+The United States Tennis Association (USTA) has recently implemented World Tennis
+Number (WTN), as their official rating system. It is unknown if this rating system is
+accurate, therefore, the objective of this study is to determine the predictability of
+WTN in match outcomes, comparing it to the accuracy at which Universal Tennis
+Rating (UTR) predicts match outcomes. We collected matches from the 2022
+USTA Boys’ 16 & 18 National Championships. For WTN, UTR, and USTA ranking,
+we compared the predictability of match results using the Area-Under-ReceiverOperating-Characteristic (AUROC) Curve. Of the 806 matches analyzed, players with
+better WTNs, better UTRs, and better USTA rankings won in 76.8%, 76.7%, and 64.3%
+of matches, respectively. The predictability of WTN difference between players was
+comparable to that of UTR difference between players (AUROC, WTN: 0.847 vs UTR:
+0.859, P-value = 0.14), and was superior to that of the difference in USTA rankings
+between players (P-value < 0.001). As WTN was superior to USTA ranking and was
+as accurate as UTR in terms of predicting match results, its use as a rating system
+is validated. This result can support the use of WTN for seeding criteria in USTA
+tournaments.
+INTRODUCTION
+In the world of sports, rating systems are derived from
+competitive matches, and are used to determine the
+competitive level of play that a team or player competes at.
+Rating systems can be used in various scenarios, whether
+by fans and sports bettors for recreation, or by sporting
+associations to determine their rankings.
+Tennis players often determine who they practice with based
+on their ratings. The closer their ratings, the more likely
+there will be a competitive environment, allowing for optimal
+practice. In tournaments, seeds, derived based on ratings
+and rankings, are of substantial significance, as they can
+change the outcome of the tournament. Inaccurate ratings
+can cause inaccurate seeding, which could result in unfair
+circumstances. When colleges recruit tennis players, coaches
+will initially look at the player’s rating in order to grasp the
+level of the player. Ultimately, if a player’s rating is accurate, it
+can lead to optimal practice environments, adequate seeding
+in tournaments, and proper college recruitment processes.
+Currently in the sport of tennis, the most prominent player
+rating system is known as Universal Tennis Rating (UTR).
+UTR is on a 1.00 to 16.50 scale based on match results,
+where 1.00 is a rating for beginners, and 16.50 is a rating
+for top professionals (Vernon, 2022). It has been widely
+acknowledged as a gold standard of rating systems for tennis
+players (Kramer, 2017). The United States Tennis Association
+(USTA) has USTA Rankings for players, based on the amount of
+www.itfcoachingreview.com
+December 2023. 30th Year. Issue 91
+ISSN 2225-4757
+World Tennis Number: The new gold standard,
+or a failure?
+SangHyuk Im1 & Chang-Hoon Lee1,2
+1University of California, Irvine (USA) & 2Seoul National University Hospital (South Korea).
+Key words: Tennis rating, World
+Tennis Number (WTN), Universal
+Tennis Rating (UTR), United States
+Tennis Association (USTA)
+Received: 18 December  2022
+Accepted: 16 May  2023
+Corresponding author:  ChangHoon Lee. kauri670@empal.com
+points that a player has. Points are amassed based on how far
+into the draw a player reaches, and the level of the tournament
+(USTA, n.d.). As this is a ranking system, not a rating system,
+players in the same age division cannot have the same USTA
+Ranking. The International Tennis Federation (ITF) developed
+a rating system called World Tennis Number (WTN), which is
+on a 40-point scale, where 40 is a rating for beginners, and 1 is
+a rating for top professionals (Tennis New Brunswick, 2022).
+Recently, the USTA implemented WTN as the official rating
+system for the USTA, and it will be used as an aid for seeding in
+tournaments (USTA, 2022). However, as WTN has been newly
+introduced to the USTA community, one may doubt using
+WTN as the official rating system. In fact, there is no study
+supporting WTN as an accurate rating system, specifically
+when predicting match outcomes. Therefore, it is necessary
+to investigate the validity of WTN as a rating system. If WTN
+is shown to accurately predict match outcomes, not only
+does the decision by the USTA to implement WTN become
+supported, but using WTN as a rating system, just like UTR,
+also becomes supported.
+Therefore, we conducted this study to determine if WTN is an
+accurate rating system in terms of the predictability of match
+outcomes by comparing it with UTR and USTA Rankings.
+METHODS
+We collected matches from the 2022 USTA Boys’ 16 & 18
+National Championships in Kalamazoo, Michigan, which
+started on August 5, 2022, and ended on August 14, 2022. The
+COACHING & SPORT
+SCIENCE REVIEW
+reason we chose to retrieve match data from this tournament
+was due to several factors. We chose this tournament because
+it is a junior USTA tournament, which is relevant in the
+perspective of our study. Not only that, but the volume of data
+that can be collected from this tournament also surpasses
+nearly all other junior USTA tournaments. Also, as this is the
+biggest junior USTA tournament of the year, there are high
+level players, high level stakes, and as a result, there are many
+college coaches present. Consequently, these players are
+most likely to give it their all, and not “throw,” meaning that
+the skill levels between players in a match would not differ far
+from the ratings between the players, if the ratings are indeed
+accurate. In addition, the level of play at this tournament is
+very concentrated. Any good rating system should be able
+to easily predict match outcomes between players of vastly
+differing skill levels. However, the best rating systems are
+accurate at predicting match outcomes between players
+with similar skill levels. Therefore, through the data collected
+from a high volume of matches with highly concentrated skill
+levels, we will be able to have an accurate determination of
+the predictability of match outcomes by rating systems. In
+order to analyze anything, we needed to first determine the
+matches that would be analyzed. In the tournament, not every
+match would result in an accurate analysis of the predictability
+of the rating systems. If the match didn’t start, there was no
+data. If opposing players had the same WTN or UTR rating,
+it would cause errors in the analysis. Therefore, to determine
+the matches that would be analyzed, we gathered all the
+matches, and then removed the matches that did not start,
+the matches where players had equal WTNs, and the matches
+where players had equal UTRs. The remaining matches would
+be used in our analysis.
+We retrieved match data from the official USTA tournament
+website, including the draw stage, the round, games won
+by each player, sets won by each player, and the winner. We
+retrieved player data from the USTA and UTR websites,
+including name, residency, and section, and in addition, each
+player’s WTN, UTR and USTA rankings, both prior to the
+tournament’s start and after the tournament’s conclusion.
+Between the players in a matchup, the higher the numerical
+value of the UTR, the better the player, and the lower the
+numerical value of the WTN and USTA ranking, the better the
+player. The main outcome was the match results of players
+with better WTNs, UTRs, and USTA rankings.
+For each of the 806 matches, we collected data about the
+match and about the players in the match. In every match, we
+randomly assigned a player as “Player 1,” and the other player
+would be “Player 2.” Categorical data is shown as Frequency
+(Percentage) in the table. Quantitative data is shown as
+Mean (Standard Deviation) in the table. For matches, we
+collected the age division (16s or 18s), the draw stage (main
+or consolation), the round, number of games won and lost
+by Player 1, number of sets won and lost by Player 1, the
+match result in Player 1’s perspective (win or lose), and if a
+player retired (yes or no). For players, we collected the USTA
+Rankings of Player 1 and Player 2, the UTRs of Player 1 and
+Player 2, the WTNs of Player 1 and Player 2, and the sections
+of Player 1 and Player 2.
+Firstly, characteristics of included matches were analyzed.
+Categorical variables were presented as numbers (%
+proportions), and continuous variables were presented
+by means (standard deviations).  Then we analyzed the
+correlation between difference in WTN and difference in
+UTR by using a correlation analysis. When calculating the
+values, the differences were based on how much better Player
+1’s rating was in comparison to Player 2’s rating. As stated
+before, the lower the numerical value of the WTN, the better
+the rating, and the higher the numerical value of the UTR,
+the better the rating. Therefore, the difference in WTN was
+calculated by (Player 2’s WTN) - (Player 1’s WTN), and the
+difference in UTR was calculated by (Player 1’s UTR) - (Player
+2’s UTR). We created one graph for all matches.
+The main outcome was the match results of players with
+better WTNs, UTRs, and USTA rankings. We calculated
+the proportion of matches won according to the difference
+in rating (accuracy). To calculate accuracy, we divided the
+number of matches won by Player 1 within the particular
+rating difference, by the total number of matches within
+the particular rating difference. Using a classical confusion
+matrix model, we calculated the sensitivity and specificity of
+Player 1 match outcome predictions according to WTN, UTR,
+and USTA Ranking. To calculate sensitivity, we divided the
+number of correctly predicted wins by the sum of the number
+of correctly predicted wins and incorrectly predicted losses.
+To calculate specificity, we divided the number of correctly
+predicted losses by the sum of the number of incorrectly
+predicted wins and correctly predicted losses.
+We calculated the win percentage based on whether Player
+1’s rating was higher or lower for each of WTN, UTR, and
+USTA Ranking. We also calculated the accuracy, sensitivity,
+and specificity with 95% confidence intervals (CIs) of each
+rating when predicting match results for all matches, for
+the Boys’ 16 Singles Division, and for the Boys’ 18 Singles
+Division. We compared the predictability of match results
+between WTN, UTR, and USTA ranking by comparing the Area
+Under Receiver-Operating-Characteristic (AUROC) Curve
+with Bonferroni corrected P-values. When interpreting the
+results of an AUROC curve, the higher the AUROC, the better
+the prediction of the model. Bonferroni corrected P-values
+were calculated by multiplying the number of comparisons
+with the P-values to reduce type I error. A P-Value < 0.05
+was considered statistically significant. All statistical
+analyses were performed by using R software and State 17.0
+(Statacorp, TX, US).
+RESULTS
+At the 2022 USTA Boys’ 16 & 18 National Championships,
+there were a total of 886 singles matches in the tournament,
+with 443 matches in the Boys’ 16 Singles Division and 443
+matches in the Boys’ 18 Singles Division. In 66 matches, the
+match did not start, due to players withdrawing or defaulting.
+In 11 matches, opposing players had the same WTN. In 3
+matches, opposing players had the same UTR. There were no
+matches where opposing players had the same WTN and same
+UTR. Therefore, a total of 80 matches were excluded from the
+data, resulting in a total of 806 matches being analyzed, with
+413 matches in the Boys’ 16 Singles Division and 393 matches
+in the Boys’ 18 Singles Division. This information is shown in
+Figure 1.
+Figure 1. Flowchart for inclusion of matches. (WTN abbreviates World Tennis Numbers, UTR Universal Tennis Rating).
+In Table 1, the characteristics of the 806 matches played
+are shown. On average, Player 1 won more games, sets, and
+matches, and had better USTA rankings, UTRs, and WTNs.
+Table 1
+Characteristics of the 806 matches played.
+Total number
+Matches
+806 (100%)
+Age Division (16 : 18)
+413 (51.2%) : 393 (48.8%)
+Match Distributions
+     Main Draw Stage
+433 (53.7%)
+     Consolation Draw Stage
+373 (46.3%)
+Main Draw Stage Rounds
+     Round of 256
+191 (44.1%)
+     Round of 128
+126 (29.1%)
+     Round of 64
+64 (14.8%)
+     Round of 32
+30 (6.9%)
+     Round of 16
+13 (3.0%)
+     Quarterfinals
+5 (1.2%)
+     Semifinals
+2 (0.5%)
+     3rd Place Playoff
+1 (0.2%)
+     Final
+1 (0.2%)
+Consolation
+Draw
+Stage
+Rounds
+     Round of 128 Qualifier
+58 (15.5%)
+     Round of 128
+117 (31.4%)
+     Round of 64 Qualifier
+59 (15.8%)
+     Round of 64
+53 (14.2%)
+     Round of 32 Qualifier
+31 (8.3%)
+     Round of 32
+22 (5.9%)
+     Round of 16 Qualifier
+15 (4.0%)
+     Round of 16
+5 (1.3%)
+     Quarterfinals Qualifier
+8 (2.1%)
+     Quarterfinals
+3 (0.8%)
+     Semifinals
+0 (0%)
+     Final
+2 (0.5%)
+Match Information
+     Games won by Player 1
+9.73 (4.09)
+     Games lost by Player 1
+9.27 (4.17)
+     Sets won by Player 1
+1.18 (0.91)
+     Sets lost by Player 1
+1.04 (0.92)
+     Match won by Player 1
+434 (53.8%)
+     Retired
+32 (4.0%)
+Player Information
+     Player 1 USTA* Ranking
+144.61 (240.79)
+     Player 2 USTA Ranking
+146.80 (172.82)
+     Player 1 UTR
+11.21 (0.95)
+     Player 2 UTR
+11.09 (0.92)
+     Player 1 WTN
+12.51 (3.80)
+     Player 2 WTN
+12.97 (3.61)
+Section of Player 1 : Player 2
+     Caribbean
+2 (0.2%) : 2 (0.2%)
+     Eastern
+81 (10.0%) : 90 (11.2%)
+     Florida
+89 (11.0%) : 68 (8.4%)
+     Hawaii Pacific
+8 (1.0%) : 5 (0.6%)
+     Intermountain
+22 (2.7%) : 30 (3.7%)
+     Mid-Atlantic
+33 (4.1%) : 36 (4.5%)
+     Middle States
+31 (3.8%) : 27 (3.3%)
+     Midwest
+82 (10.2%) : 63 (7.8%)
+     Missouri Valley
+29 (3.6%) : 33 (4.1%)
+     New England
+30 (3.7%) : 27 (3.3%)
+     Northern
+15 (1.9%) : 18 (2.2%)
+     Northern California
+69 (8.6%) : 63 (7.8%)
+     Pacific Northwest
+22 (2.7%) : 21 (2.6%)
+     Southern
+120 (14.9%) : 136 (16.9%)
+     Southern California
+86 (10.7%) : 88 (10.9%)
+     Southwest
+19 (2.4%) : 19 (2.4%)
+     Texas
+68 (8.4%) : 80 (9.9%)
+Categorical variables were presented as number (%
+proportions), and continuous variables were presented by
+means (standard deviations). (USTA abbreviates United
+States Tennis Association, UTR Universal Tennis Rating, WTN
+World Tennis Number).
+The difference in UTR and the difference in WTN were
+strongly correlated (r = 0.892, P < 0.001) (Figure 2). Also,
+there are several outliers, suggesting that there may be
+disagreement between the rating systems for certain pairs of
+players.
+Figure 1. Scatter plot for correlation between difference in WTN and
+difference in UTR.
+For both WTN and UTR, as the absolute difference in rating
+increases, the proportion of matches won by the player with
+the better rating increases. More than 80% of matches were
+won by the player with the better rating when the absolute
+difference in WTN ≥ 3, and when the absolute difference in
+UTR ≥ 0.8.
+Figure 3. Relationship between the absolute difference in rating, and
+the proportion of matches won by the player with the better rating at
+those differences.
+More than three quarters of players with better WTNs
+(77.9%) and those with better UTRs (78.0%) won the match.
+Differences in WTN and differences in UTR have comparable
+accuracy (76.8% [95% CI, 73.7%-79.7%] vs 76.7%[95% CI,
+73.6%-79.6%]), sensitivity (79.5% [95% CI, 75.4%-83.2%]
+vs 79.0%[95% CI, 74.9%-82.8%]) and specificity (73.7%
+[95% CI, 68.9%-78.1%] vs 73.9% [95% CI, 69.2%-78.3%]) in
+predicting match results. Results were similar in the analysis
+for each division. However, USTA ranking has lower accuracy,
+sensitivity, and specificity when compared with WTN or UTR
+(Table 2).
+
+Player 1 wins the
+match, number (%)
+Accuracy
+(95% CI)
+Sensitivity
+(95% CI)
+Specificity
+(95% CI)
+Total
+(n = 806)
+Player 1 WTN < Player 2
+WTN
+345 (77.9%)
+76.8%
+(73.7%-79.7%)
+79.5%
+ (75.4%-83.2%)
+73.7%
+ (68.9%-78.1%)
+Player 1 WTN > Player 2
+WTN
+89 (24.5%)
+Player 1 UTR > Player 2
+UTR
+343 (78.0%)
+76.7%
+(73.6%-79.6%)
+79.0%
+(74.9%-82.8%)
+73.9%
+ (69.2%-78.3%)
+Player 1 UTR < Player 2
+UTR
+91 (24.9%)
+Player 1 USTA < Player 2
+USTA
+292 (66.7%)
+64.3%
+(60.9%-67.6%)
+67.3%
+(62.7%-71.7%)
+60.8%
+(55.6%-65.8%)
+Player 1 USTA > Player 2
+USTA
+142 (38.6%)
+16s
+(n = 413)
+Player 1 WTN < Player 2
+WTN
+175 (79.5%)
+76.8%
+(72.4%-80.8%)
+77.4%
+(71.4%-82.7%)
+75.9%
+(69.2%-81.9%)
+Player 1 WTN > Player 2
+WTN
+51 (26.4%)
+Player 1 UTR > Player 2
+UTR
+173 (79.4%)
+76.3%
+(71.9%-80.3%)
+76.6%
+(70.5%-81.9%)
+75.9%
+(69.2%-81.9%)
+Player 1 UTR < Player 2
+UTR
+53 (27.2%)
+Player 1 USTA < Player 2
+USTA
+162 (68.6%)
+66.6%
+ (61.8%-71.1%)
+71.7%
+(65.3%-77.5%)
+60.4%
+ (53.0%-67.5%)
+Player 1 USTA > Player 2
+USTA
+64 (36.2%)
+18s
+(n = 393)
+Player 1 WTN < Player 2
+WTN
+170 (76.2%)
+76.8%
+(72.4%-80.9%)
+81.7%
+(75.8% -86.7%)
+71.4%
+(64.3%-77.8%)
+Player 1 WTN > Player 2
+WTN
+38 (22.4%)
+Player 1 UTR > Player 2
+UTR
+170 (76.6%)
+77.1%
+(72.6%-81.2%)
+81.7%
+(75.8%-86.7%)
+71.9%
+(64.8%-78.2%)
+Player 1 UTR < Player 2
+UTR
+38 (22.2%)
+Player 1 USTA < Player 2
+USTA
+130 (64.4%)
+61.8% (56.8%-
+66.7%)
+62.5%
+(55.5%-69.1%)
+61.1%
+(53.7%-68.2%)
+Player 1 USTA > Player 2
+USTA
+78 (40.8%)
+Table 2
+The accuracy, sensitivity, and specificity of predicting match results based on the differences of WTN, UTR, and USTA rankings between Player 1 and
+Player 2.
+Figure 4. Receiver-Operating-Characteristic (ROC) Curves for match
+outcome predictability of WTN, UTR, and USTA in Boys’ 16 Singles,
+Boys’ 18 Singles, and All Matches. (A) All Matches (B) Boys' 16 Singles
+(C) Boys' 18 Singles. A classification model using WTN difference has
+a statistically comparable AUROC with that using UTR and has a
+significantly higher AUROC compared with that using USTA ranking.
+The results were similar regardless of age groups. (*WTN abbreviates
+World Tennis Number, UTR Universal Tennis Rating, USTA United States
+Tennis Association (ranking)).
+WTN abbreviates World Tennis Number, UTR Universal
+Tennis Rating, USTA United States Tennis Association
+(ranking), CI Confidence Interval.
+There were no significant differences in AUROCs between
+difference in WTN and difference in UTR in predicting match
+results. (0.847 [95% CI, 0.820-0.873] vs 0.859 [95% CI, 0.8350.884]; P=0.14) However, differences in USTA Ranking had
+lower AUROC. Results were similar in analysis for each age
+division.
+DISCUSSION
+From our results, we can determine that WTN and UTR have
+similar predictability of match results, whereas USTA Ranking
+falls behind. WTN and UTR are consistent in predictability
+regardless of age division, whereas USTA Ranking has slight
+variations in predictability between age divisions.
+To our knowledge, there has been no prior published study
+that investigated the predictability of WTN or UTR. Our study
+is the first to compare and analyze the predictability of those
+two rating systems. Although there is no other study for us
+to compare with, we will identify this study’s strengths and
+limitations.
+The main strength of this research is the reliability of the
+data. In this research, we were able to gather match data
+from 806 matches. In addition, all these matches were from a
+single tournament. This means that each player will have the
+same rating throughout the tournament, regardless of round.
+Therefore, this provides stability for the analysis. However,
+what really makes our research reliable is the reliability of
+the players’ ratings. The tournament which we gathered data
+from is the biggest national tournament of the year for junior
+USTA players. This means that only the top players from
+around the nation would be able to play in the tournament, as
+selections were based mainly off of USTA ranking, and a few
+were selected based on UTR (USTA, n.d.). All these top players
+not only have high USTA Rankings, but in order to amass
+these points, they would have had to play a lot of matches.
+And for both rating systems, the more matches a player
+plays, the more reliable their rating can be. Therefore, by
+collecting match data from matches played between players
+with reliable ratings, our analysis becomes more accurate and
+reliable.
+We acknowledge limitations of this study. We collected data
+from matches between high level players who frequently play
+matches, which means that this research provides definite
+validity for the aforementioned group of players. However,
+the results of this study may not guarantee validity for
+recreational players who play matches less frequently and
+at a lower level. Therefore, future research, spanning more
+tournaments of various levels, will be needed in order to
+guarantee validity for all groups of players.
+WTN and UTR use similar algorithms to calculate ratings for
+players. Both rating systems analyze the pre-match ratings of
+the players. Then each respective algorithm predicts what the
+match outcome will be, with WTN predicting sets won by each
+player, and UTR predicting the percentage of games won by
+each player. Each player’s rating will go up or down, based on
+the match results, when compared to the prediction based on
+ratings (Lawn Tennis Association [LTA], 2022).
+Although WTN and UTR were very similar in match outcome
+predictability, they were not identical. This means that WTN
+and UTR did not agree all the time. If this were to be true,
+then the two rating systems would essentially be equal. That
+means that there must be factors to why there are similarities,
+but also differences between WTN and UTR.
+WTN bases player ratings using match results from 2016
+onwards. UTR bases player ratings on the thirty most recent
+matches played within the past year. For both rating systems,
+what matters is not the outcome of the match itself, but
+instead the number of sets won by each player, for WTN, and
+the number of games won by each player, for UTR. For UTR, if
+the difference between UTRs is +2, the match is not counted
+towards UTR. Also for UTR, each player is given a reliability
+of their rating. The more matches a player has, the more the
+reliability of their rating increases.
+For both rating systems, recent matches carry more weight,
+whereas older matches carry less weight. For WTN, results
+from sanctioned competitions carry more weight, as opposed
+to results from club or recreational events (Tennis New
+Brunswick, 2022). For UTR, the longer the match format,
+the more weight is given. Also for UTR, the more reliable the
+opponent’s UTR is, the more weight is given.
+Both rating systems use nearly identical methods to
+determine player ratings. Therefore, it makes sense that they
+would be very similar. However, each system has its own way
+of choosing matches, and also weighing matches, which can
+cause a slight difference when rating players.
+Reasons why WTN and UTR are similar, with USTA ranking
+lagging behind, could be explained by the difference between
+rating and ranking systems. WTN and UTR are rating systems,
+dependent on the player’s match performance and opponent’s
+rating, whereas USTA Ranking is a ranking system, dependent
+on the number of points a player has. Although it may not
+seem like a vast difference, it very much is. WTN and UTR,
+as rating systems, make it so that every player is “connected,”
+in a way. Your rating is dependent on your performance, and
+also your opponent’s ratings, which allows accuracy within
+relative skill. Although there may be a bit of “luck” played into
+it, such as certain players having strengths or weaknesses
+against others, ultimately, that is all part of skill. USTA Ranking
+is based on how many points a player has, and points are
+collected based on how far into the tournament a player gets
+to, and the tournament level. The further a player progresses
+into a tournament, the more points they will acquire, and the
+higher level a tournament is, the more points will be available.
+It may be true that the best player will win the tournament,
+therefore winning the most points. However, depending on
+where a player is placed in the draw, they could win varying
+amounts of points. This means that, although skill is obviously
+a factor in obtaining points for USTA Ranking, luck of the draw,
+which has nothing to do with skill, could very much change the
+outcome of the number of points a player comes out of the
+tournament with.
+CONCLUSION
+From this study, it is shown that WTN and UTR are similar,
+and both ratings are better than USTA Ranking, in predicting
+match outcomes. Therefore, as WTN is similar to UTR, the
+use of WTN as a rating system is validated. The results from
+this study can support the use of WTN as the official rating
+system of the USTA and as a prominent factor in seeding
+criteria in USTA tournaments. The results from this study can
+also support the use of WTN in the college recruiting process,
+which is very important in both the junior tennis world and
+for colleges. As of the date of submission of this article, UTR is
+the only numerical-based rating system that colleges use for
+recruiting, but with the introduction of WTN, college coaches
+will be able to recruit new players more effectively because
+of the added reliability of another player rating system.  With
+two reliable rating systems from different sources, there may
+be a race to create an even better rating system. In conclusion,
+the introduction of WTN, this newly improved rating system,
+into the tennis community, will create a ripple throughout the
+tennis world.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

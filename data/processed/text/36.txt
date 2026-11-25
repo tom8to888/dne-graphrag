@@ -1,0 +1,273 @@
+Title: Supervening impossibility of the provision of sports training and coaching due to the 'coronavirus'
+Authors: Alejandro Valiño
+Year: 2020
+Issue: Vol. 28 No. 81 (2020)
+Article id: 36
+
+www.itfcoachingreview.com
+August 2020. 28th Year. Issue 81. 24-26
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v28i81.36
+
+Supervening impossibility of the provision of
+sports training and coaching due to the
+'coronavirus'
+Alejandro Valiño a
+a University of Valencia, Valencia, Spain.
+
+ABSTRACT
+
+The paper analyses the situation of the contracts to provide services that persons or sport
+organisations agree with their students in the context of expanded health crisis worldwide caused by
+the coronavirus. Given the diverse background of the readers, reference to specific national or local
+regulations will be avoided. Instead, general principles of the service contract contained in some
+studies that have dealt with the transnational harmonisation of private law are considered.
+
+Key words: Covid-19, Provision of
+services, Supervening impossibility,
+DCF, European Contract Code.
+Received: 25 April 2020
+Accepted: 30 June 2020
+Corresponding author: Alejandro
+Valiño, Department of Roman Law
+and State Canon Law, University of
+Valencia, Valencia, Spain. Email:
+alejandro.valino@uv.es
+
+INTRODUCTION
+
+The provision of tennis coaching and training services is
+included in one of the most traditional contracts in any
+national legal system1. The most common names are 'service
+leasing'2, ' service location'3 or 'provision of services'4, defined
+as
+
+1 As an exponent of the academic consensus in Europe on the
+legal regime of this contract, I must mention the 'Draft
+Common Framework of Reference for European Private Law
+(DCFR), jointly prepared by two teams of jurists of notable
+prestige (the Study Group on a European Civil Code and the
+Research Group on the Existing EC Private Law, called 'Àcquis
+Group'). I will also mention the regulation proposed for the
+service contract by the Academy of European Professionals of
+Pavia, author of the ‘European Contract Code’(CEC).
+2 Arts. 142, 1544 and 1583 of the Spanish Civil Code.
+3 Derived from the Latin term locatio, it is a rare cultism in
+Spanish, but very widespread in Italian and French
+(‘locazione’, art. 2222 of the Codice Civile and ‘louage’, art.
+1780 of the Civil Code).
+4 Arts. 1154 et seq. of the Portuguese Civil Code, such as
+‘prestação de serviço’, and § 611 et seq. of the German Civil
+Code, such as ‘Dienstvertrag’.
+
+“contract under which one party, the service provider, undert
+akes to supply a service to the other party, the client,
+in exchange for a price”5.
+As per the people that take part we can distinguish, on the one
+hand, the offeror or supplier of the service, who, depending on
+the situation may be a self-employed coach or a sports
+club, which
+has
+a staff which
+delivers the
+organisation,
+management
+execution
+of sports
+training
+coaching programmes in their facilities. It is even possible
+that, in a certain sports organisation, both options coexist in
+harmony: one, organised by the entity, consisting of group
+training lessons for players of all ages and playing levels
+by coaches related to it through the so-called 'work contract',
+characterised by its dependency and foreignness6; and
+another, in which a group of coaches, related or not to the
+organisation as members, provides their free services to the
+users of the facility, usually in the format of individual lessons.
+In addition to the provider of the service, we cannot forget the
+user, recipient of the service or simply client, who is the player
+or student that participates in any coaching or training
+
+5 Art. IV.C – 1:101 (a) of the DCFR. Vid. DE BARRÓN
+ARNICHES, P. (2008), 12 ss. and BELUCHE RINCÓN, I.
+(2015), 76.
+6 CRESPO, C., VALIÑO, A., CRESPO, M. (2016), 37.
+
+programme
+pays a
+fee
+or
+sum
+of
+money
+(negotiated between the parties or included in an offer
+directed to the public), either in advance, either at the end
+of each session, or even later after a period of time or number
+of sessions7.
+The peculiarity of this contract lies in the fact that, even
+though it arises from the time the parties reach an agreement
+(or the client shows his willingness to adhere to the offer), the
+collection of
+the
+rent
+is closely linked to
+the
+effective
+provision
+of
+the service under
+the
+conditions
+agreed. Therefore, when the person compelled to provide the
+service fails to do so (i.e. does not provide the service) or does
+it poorly (it does not fulfil the conditions agreed or offered, for
+example, the type of court in which the practice should have
+been delivered; or unilaterally substitutes the agreed coach,
+when this appointment was decisive to contract the service)8,
+the client, who
+always can
+terminate a contract of
+this
+type9, may
+also
+claim compensation
+for
+the
+damages suffered10.
+
+7 Art. IV.C. – 2:101: “where the servide provider is a business,
+a price is payable unless the circumstances indicate
+otherwise”; and art. 243.2 del CEC: “il committente, se è stata
+eseguita la prestazione dovuta, ossia se (...) è avvenuto il
+compimento dell’attività prevista, (...) è tenuto (...) a pagare (...)
+il corrispettivo dell’ammontare convenuto (...)”.
+8 Art. IV.C. – 2:104(1) del DCFR: “the service provider may
+subcontract the performance of the service in whole or in part
+without the client’s consent, unless personal performance is
+required by the contract”; and art. 245.b) del CEC: “il
+cooperante è tenuto (...) ad eseguire la prestazione dovuta con
+la massima cura e puntualità (...), evitando di farsi sostituire da
+estranei senza il consenso del committente, salvo che ciò (...)
+sia necessario per la natura della prestazione, o sia conforme
+agli usi”. En tal caso, puede apartarse del contrato al
+desaparecer el presupuesto de la “qualità della persona
+(‘intuitus personae’) o dell’impresa dell’altro contraente, in
+quanto elemento determinante dell’avvenuto consenso,
+risultante dell’accordo o dalla natural del rapporto” (art. 246.5
+del CEC).
+9 Art. IV.C. – 2:111(1): “the client may terminate the
+contractual relationship at any time by giving notice to the
+service provider”; (3): “when the client was justified in
+terminating the relationship no damages are payable for so
+doing”;   (4) “when the client was not justified in terminating
+the relationship, the termination is nevertheless effective, but
+the service provider has a right to damages (...)”; y el art. 246.5
+del CEC: “il committente ha il diritto di recedere dal contratto
+in qualsiasi momento (...), dandone comunicazione al
+cooperante con un ragionevole preavviso (...), ma deve
+risarcirgli i danni provocatigli da un recesso anticipato, a meno
+che sussista una giusta causa (...)”.
+10 Art. 315.6 del CEC: “il prestatore risponde verso il
+committente della mancata o imperfetta esecuzione (...) se non
+dimostra che esse sono dovute a fatto del committente”.
+EFFECTS
+ON
+THE
+CONTRACT
+OF
+THE TEMPORARY IMPOSSIBILITY OF THE PROVISION
+However, there are extraordinary situations, beyond the will
+and control of the service provider, that determine the
+unexpected
+impossibility
+of
+complying,
+definitively or
+temporarily, with what has been agreed11. One of them is
+precisely the Covid-19 pandemic. Its rapid spread has forced
+many States to impose confinement on their citizens on their
+homes
+the
+indefinite
+closure
+of
+all
+kinds
+of
+establishments, including sports facilities.
+In this way, the coaching and training programmes have been
+temporarily suspended (except for those physical activities
+that could have been continued using e-learning modes),
+which has triggered not a little uncertainty, given the time of
+interruption of the service. The situations have also been
+heterogeneous, since the forms of payment for these services
+are certainly variable: there are cases in which the service for
+an entire season is paid in advance, with the result that
+the temporary impossibility of continuing to receive the
+coaching has caused an economic imbalance to the customer.
+In any case, the unexpected impossibility of the provision may
+cause different effects on the contract, depending, above all,
+on its duration. The coaching and training services are
+successive, since the programme is usually divided into a
+number of sessions during several days a week over several
+months within the same or successive seasons. For this
+reason, the principle of conservation of the contracts makes it
+difficult to terminate
+them
+in
+situations
+of
+temporal
+impossibility of the provision when the service was agreed for
+a long time, so that calamities like the pandemic of the Covid19 just cause the suspension of the delivery of the services
+agreed in the contract, which will resume only when the
+government measures that make impossible their compliance
+on time will be risen. As soon as the conditions for the practice
+of sport have been re-established, the parties will proceed to
+comply with what is incumbent upon them, recomposing, by
+means of negotiation, the provision imbalance eventually
+produced. Thus, if the student had prepaid the service for
+an entire
+season, the
+imbalance could
+be
+corrected by reimbursing the price corresponding to that part
+of the service not provided or, alternatively, by issuing bonds
+or other formulas of equivalent value that they suppose for
+the client a reasonable compensation, so that he himself or the
+person designated by him could receive classes or training
+outside the hours or periods of ordinary provision of the
+service.
+
+11 Art. 97.2 del CEC, versión original: “si après la conclusion du
+contrat la prestation devient objectivement impossible, pour
+des raisons dont le débiteur ne doit répondre, il n'y a pas
+inexécution de l'obligation (...)”. Art. III. – 3:703 del DCFR: “the
+debtor in an obligation which arises from a contract (...) is
+liable only for loss which the debtor foresaw or could
+reasonably be expected to have foreseen at the time when the
+obligation was incurred as a likely result of the nonperformance, unless the non-performance was intentional,
+reckless or grossly negligent”.
+
+A fundamental element in bilateral contracts such
+as services is that of contractual good faith12. In accordance
+with it and in view of the supervening impossibility of the
+provision due to causes beyond the control of the contracting
+parties, it is essential that the parties show an interest to
+reach a benefit rebalancing agreement, so that fierce
+positions, be on the part of the provider, determined to bear
+on the recipient of the service all the consequences derived
+from the impossibility of its provision, either by
+the client, obstinate in rejecting the formulas that the offeror
+may propose, would openly violate that requirement of good
+faith in the contract.
+CONCLUSION
+The unsuccessful impossibility of providing sports coaching
+and training services implies, in principle, a mere suspension in
+the provision of the services agreed, as it is
+a successive contract, so that, as soon as the government
+measures that made sports impossible were disappeared, the
+parties must renegotiate the contract with the purpose of
+restoring the provision balance in those cases in which,
+according to what has been agreed, such situation has
+occurred.

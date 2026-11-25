@@ -1,0 +1,239 @@
+Title: Training for Lateral Acceleration
+Authors: Doug Eng, Bharathan Sundar
+Year: 2021
+Issue: Vol. 29 No. 83 (2021)
+Article id: 51
+
+www.itfcoachingreview.com
+April 2021. 29th Year. Issue 83. 21-24.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i83.51
+COACHING & SPORT
+SCIENCE REVIEW
+INTRODUCTION
+Tennis movement can be characterized by primarily short
+lateral movements initiated by a reactive decision step (aka,
+split-step). About 70% of tennis movement is lateral and
+20% of tennis movement is forward (Weber et al., 2007).
+Movement can be improved by: 1) strength-speed training, 2)
+technical training, 3) and anticipation training. Kovacs (2009)
+summarized the importance of lateral movement training.
+This article addresses on-court lateral acceleration with
+regards to strength-speed training.
+Movement and Acceleration
+It has been estimated that the average professional on
+clay courts runs to only 5% of shots where distance > 4.5
+m (Ferrauti, & Weber, 2001). SI.com staff (2015) tracked
+movement of 4 ATP players and found their movement per
+point was 8 - 14 m which depended on playing style and rally
+length. At the 2017 Australian Open, the average rally lasted
+4.47 and 4.85 shots and 5.44 and 5.93 s for women and men,
+respectively (Carboch et al., 2018). Top ATP (N=34) and WTA
+(N=44) players had mean rally lengths of 4.21 and 4.06 shots
+with a player range from 3.2 – 5.4 during September 2019 -
+September 2020 (Sackmann, n.d.a; Sackmann, n.d.b). It has
+been reported that inter-point time is 25-45 s and varies with
+individuals (Bialik, 2014; Sackmann, 2020). From data, it is
+estimated that a run > 4.5 m occurs once every 3 - 3.5 min.
+Although runs > 4.5 m occur infrequently, high acceleration
+and deceleration are more common. Hoppe et al. (2014)
+found peak running speeds for adolescent players (12-14
+y.o.) was 4.4 ± 0.8 m/s (9.8 mph). Players exceeded 3 m/s (6.71
+mph) once every 5 min or only 18.5 times per match. High
+acceleration (> 2.0 m/s2) and deceleration was 51.7 and 47.0
+times per match, respectively or 0.6/min each or once per 1.7
+min. High acceleration at once per 1.7 min is twice as frequent
+as running distances > 4.5 m as reported for professional
+players.
+Clearly, initial acceleration is more important than top end
+speed. In addition, anticipatory cues can optimize movement
+ABSTRACT
+Tennis movement can be characterized by primarily short lateral bursts over typically
+3-4 m initiated by a reactive decision step. Lateral acceleration depends on unilateral
+movement, or specifically, the outside leg to enhance ground reaction force (GRF). Few
+studies have been conducted for the development of lateral speed with emphasis on
+unilateral training. A simple one-leg test for unilateral strength is presented. Exercises
+for improving lateral acceleration are presented.
+Training for Lateral Acceleration
+Doug Enga  & Bharathan Sundar
+aLesley University, Cambridge MA, USA.
+Key words: lateral movement,
+acceleration, unilateral leg
+strength, change of direction,
+training
+Received: 22 January 2021
+Acepted: 19 March 2021
+Corresponding author: Doug Eng.
+Lesley University (29 Everett
+Street, Cambridge, MA  02138).
+Email: douglas.w.eng@gmail.com
+and reduce acceleration requirements by responding earlier
+to a stimulus. Lateral acceleration depends on unilateral
+movement, or specifically, the outside leg to enhance GRF
+(ground reaction force). Technical footwork training should
+involve training unilateral explosiveness to improve RFD (rate
+of force development). In the 5 - 10 m interval, an athlete can
+reach 70% of top end speed (Duthie, Pyne, Marsh, & Hooper,
+2006).
+Lateral Acceleration
+Of interest is the acceleration of top professional tennis
+players. Djokovic and Nadal have been measured at 4.81
+and 4.70 m/s2 in acceleration to the forehand (Eng & Sundar,
+2020). Nadal was measured at 4.30 m/s2 in acceleration to
+the backhand. Comparatively, Usain Bolt in a starting 4-point
+stance has been calculated to reach an initial acceleration of
+9.5 m/s2 (Gómez et al., 2013). A sprinter’s first 3 steps involves
+mostly horizontal force (Dintiman, 2020). However, Djokovic
+and Nadal are sprinting repeatedly and Bolt is sprinting once,
+and the distances in tennis and the 100 m sprint do different
+demands. On wide balls, Djokovic can typically achieve stride
+lengths of 2 m and stride frequencies of 4 steps/sec (Eng &
+Sundar, 2020). Acceleration was not uniform but dependent
+on unilateral RFD. An athlete may initially drive from either
+leg unevenly as leg force may not be equal for either leg. In
+addition, legs may be in different phases such as the takeoff or
+touchdown positions.
+Few studies have been conducted with the development
+of lateral speed. Players typically run 0.25 to 0.50 m more
+to the forehand side than the backhand side (Weber et al.,
+2007). Therefore, training acceleration to the forehand may
+be more important for players who prefer to hit a dominant
+forehand. Hewit et al. (2012) discussed unilateral leg
+movement in linear and lateral jumping and running. Largest
+leg strength differences were found in lateral movement
+(single leg countermovement lateral jumps or SLCM-L) but
+it was suggested that up to 15% difference was normal and
+acceptable. That is, an athlete might be 15% weaker in one leg
+than the other without detrimental loss of speed. Unlike many
+field sports which involve cutting at 20-60˚ where asymmetric
+leg strength is not consequential, tennis, however, differs and
+requires greater lateral movement and 180˚ COD (change of
+direction).
+In lateral movement, most force is generated by the outside
+leg which is farther from the intended direction. After the
+stroke, recovery to a favorable court position requires where
+the legs switch roles. Tennis players can be tested on the
+outside leg moving either to the forehand or backhand side.
+Using unilateral strength and plyometric training to train
+unilateral leg force production may improve athletes with
+weaker movement to one side.
+Testing Method
+Measurement of initial leg power can be correlated to leg
+strength. Hewit et al. (2012) tested various vertical and
+lateral jumps finding the largest leg discrepancies were
+SLCM-L (single leg countermovement jump – lateral). Modest
+correlation between lateral power and COD has been found
+but lateral jumps were not the strongest predictors of COD
+speed (Lockie et al., 2014). Lockie et al. (2013) developed
+tests for COD cutting at 20 – 60˚ which is valid for many
+field sports but tennis requires 180˚. COD has been found to
+be related to the outside reactive leg strength (Young et al.,
+2002). Athletes averaging 24% stronger in the right leg, were
+4% faster moving to the left. Habibi et al. (2010) found single
+leg hop power was correlated with 10 m sprints. Therefore,
+unilateral leg reactive strength is important for tennis.
+Figure 1 shows a SLLJ (single leg lateral jump) in which a
+countermovement is allowed and the takeoff and touchdown
+leg are the same. The SLLJ can off either leg can be a test
+for unilateral leg strength. Measurements should be on the
+outside edge of the foot or shoe (green line). Lateral jumps in
+both directions should be executed and measure from a best
+of three jumps.
+lateral wall drives in sets of 2-6 rapid alternating steps. The
+athlete then switches to the other side.
+Figure 1. Single leg lateral jump (SLLJ) test with countermovement. Note
+the same leg is used for takeoff and touchdown.
+Figure 3. Load and crossover hold.
+Figure 2. Lateral wall hold and alternating drives.
+EXERCISES
+Lateral Wall Holds and Drives
+Lateral wall drills allow the athlete to shift the center of
+gravity applying horizontal lateral force, while maintaining
+balance using a wall or fence. In the lateral wall hold (Figure
+2), the athlete leans 30˚ sideways into a wall placing a hand
+out for support or the athlete can lean on the shoulder. The
+athlete lifts either knee up to the hips and maintains the angle
+for a few seconds and switch to the other leg and hold that
+position for a few seconds. The athlete repeats leaning on the
+other side. Once the athlete is proficient, the athlete can do
+A third wall drill (Figure 3) is the load and crossover hold
+which brings the outside leg across and up. Force production
+is more powerful and angled than in the lateral wall hold.
+Athlete should start low with the outside leg at an angle to
+push off. The inside shin is slightly tilted. The athlete drives
+quickly into the wall. Both arms can be placed on the wall
+or fence. Hold the starting and ending positions for a few
+seconds. Sets of 10 can be done on both sides.
+Hops + Bounds + Sprints
+A hop is defined when the take-off and touchdown is done off
+the same leg and the distance covered is relatively small. A
+jump can be two-leg or one leg for both take-off and touchdown
+covering larger distances than a hop. A bound is defined when
+the take-off leg and touchdown leg are alternating legs.
+Most decision steps in tennis involve a vertical component
+with landing first on the leg farther away from the intended
+direction and the other leg taking a lateral step with the toe
+pointing towards the intended direction. For training, the
+following exercises are useful:
+A. Vertical single leg hop + lateral bound (alternating),
+shown in Figure 4
+B. Lateral single leg hop + lateral bound (alternating)
+C. Vertical single leg hop + lateral bound + short sprint
+opposite direction
+D. Lateral single leg hop + lateral bound + short sprint
+opposite direction, shown in Figure 5
+In these exercises, the single leg hops mimics the initial
+decision step landing but trains single-leg RFD for the lateral
+bound. One purpose of varying vertical and lateral single leg
+hops is the variability in tennis movement. At times a player
+may be starting from a moving position or a standing position
+as in the serve return. In standing positions, the initial decision
+step may have a more vertical force. Other times a player may
+be still recovering into the court at higher velocities, where a
+decision step may involve a greater horizontal force. In such
+case, greater forces are required for COD. Therefore, lateral
+hops combined with lateral bounds can help train those COD
+movements.
+Figure 4. Vertical single leg hop + lateral bound (alternating).
+Figure 6. Bungee-assisted lateral explosion.............
+Figure 5. Lateral single leg hop + lateral bound + short sprint opposite
+direction.
+Another important concept is developing appropriate leg
+stiffness with short GCT or ground contact time (Ferris et al.,
+1999; Morin et al., 2007). Therefore, rapid movement quality
+with short GCT is important. In Figure 5, the athlete rapidly
+shifts weight inside after the lateral bound to sprint in the
+opposite direction of the bound. Exercises A (Figure 4) and
+B can be done with 12-20 reps. Exercises C and D (Figure 5)
+can be done in sets of 6-10 reps with a short break between
+reps. Exercises C and D may be combined with other COD and
+agility exercises to train repeated sprint ability (RSA).
+Contrast Training
+Contrast training refers to varying loads with similar
+movement or exercises. A classic contrast training for speed
+involves running uphill and downhill at modest angles as not
+to alter running mechanics (Dintiman, 2020). Bungees and
+resistance bands can provide assistance or resistance forces
+without significantly altering lateral movement. Figure 6
+shows the bungee-assisted lateral explosion. Anchor the
+bungee high so it pulls the athlete laterally and upwards.
+The athlete makes a decision step into a crossover step with
+2-3 extra accelerating strides. In the bungee-resisted lateral
+explosion, the bungee is anchored at the bottom of the fence
+and the athlete explodes upwards and away from the anchor
+into a crossover step with 2-3 extra accelerating strides. An
+athlete may do sets of 8-10 reps of resisted and assisted
+accelerations.
+CONCLUSIONS
+Tennis movement is mostly lateral but athletes may have
+differences in movement to either side which should be
+trained. Tennis players who use the forehand weapon to
+cover most of the court may require higher acceleration to
+the forehand. Little research exists on unilateral reactive leg
+strength training which has implications in tennis. Physical
+training should require elastic unilateral reactive leg strength
+training and COD movement. Tennis-specific physical oncourt training for lateral acceleration was tackled with
+regards to technical training. A single leg lateral jump test is
+recommended but needs to be correlated to actual lateral
+acceleration in future studies. Lateral wall exercises, hopjump-bound exercises and contrast training may help tennis
+players improve lateral movement.

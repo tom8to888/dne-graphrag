@@ -1,0 +1,355 @@
+Title: The importance of aerobic fitness for tennis: training and testing (part 2)
+Authors: Cyril Genevois
+Year: 2019
+Issue: Vol. 27 No. 79 (2019)
+Article id: 80
+
+www.itfcoachingreview.com
+December 2019. 27th Year. Issue 79. 23-26
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i79.80
+
+The importance of aerobic fitness for tennis:
+training and testing (part 2)
+Cyril Genevois a
+a Claude Bernard University Lyon 1, Lyon, France.
+
+ABSTRACT
+
+In part 1 of this series we discussed why aerobic fitness is important for tennis players
+(Genevois, 2019). Scientific studies have revealed that High Intensity Intermittent
+Training (HIIT) is an efficient way to improve aerobic fitness either off- or on-court,
+depending on the training phase. The intensity of the training sessions can be
+individualized based on the final speed reached during the 30/15 Intermittent Fitness
+Test.
+
+Key words:  High Intensity
+Intermittent Training,
+incremental test, periodization.
+Received: 01 September 2019
+Accepted: 10 October 2019
+Corresponding author: Cyril
+Genevois, 6 Grande rue de
+Saint Clair, Caluire-et-Cuire,
+Lyon, France 69300. Email:
+cyril.genevois@aol.fr
+
+INTRODUCTION
+Because of the intermittent nature of tennis matches and the
+alternating demands on energy systems between points and
+rest, it seems logical that training competitive players should
+focus on improving their ability to repeatedly perform and
+recover from high-intensity exercise. For these reasons,
+tennis training should include physical exercise aimed to
+enhance both aerobic and anaerobic fitness.
+HIGH INTENSITY INTERVAL TRAINING (HIIT) AND ONCOURT TENNIS TRAINING (OTT)
+High intensity-interval training (HIIT) consists of repeated,
+intense exercise bouts separated by passive or active
+recovery (work and rest intervals ranging from 10 seconds to
+4 minutes; at 90–100% of the velocity achieved at the level of
+VO2max; HR values ≥ 90% of HRmax ; and, work-to-rest
+ratios of 4:1 to 1:1 to 1:4). It is as a time-efficient alternative
+to moderate- or low-intensity continuous exercise for
+improving variables related to endurance and anaerobic
+performance both for young players (Engel et al, 2018) and
+adults (Wen et al, 2019). HIIT replicates the intermittent
+nature of tennis play at higher intensities and appears a viable
+exercise programming option because the rest intervals
+between intense work intervals may contribute to reduced
+discomfort and inducing a more positive affective response
+(Thum et al, 2017).
+Because training time is at a premium, tennis coaches often
+rely on an integrated approach and they include technical
+skills during HIIT session – con-court tennis training(OTT).
+The primary purpose of OTT is to combine improvement of
+physical conditioning with the maintenance of technical skills
+in order to optimize the training time. Studies comparing
+playing (OTT) and non-playing (HIIT) aerobic training in tennis
+found that the physiological demands (average HR) were
+greater during the playing session compared to the nonplaying session (Fernandez-Fernandez et al, 2011 ; Pialoux et
+al, 2015 ; Kilit & Arslan, 2019).
+This could be related to the involvement of the lower- and
+upper-limb muscles in hitting the ball. Indeed, It has been
+reported that running and striking the ball expends 10% more
+energy than running without striking the ball (Bekraoui et al,
+2012). Several studies have shown that OTT protocols are
+effective in improving aerobic fitness in young tennis players
+with increase in VO2max of 4.8% (Fernandez-Fernandez et al,
+2011), 5.5% (Kilit & Arslan, 2019) and 10.28% (Srihirun et al,
+2014). These results are in line with studies using HIIT
+protocols which showed an increase in VO2max of 6.0%
+(Fernandez-Fernandez et al, 2012), 5.2% (Kilit & Arslan,
+2019), 6.6% (Srihirun et al, 2014).
+The main important factor when planning HIIT or OTT is to
+achieve the required intensity to elicit improvements. for
+running-based HIIT activity, the speed is calculated as a
+percentage of the maximal performance obtained during a
+fitness test - which can vary depending on the test used. For
+OTT, it is the combination of running distance between every
+stroke and ball frequency that determines the intensity. It can
+be assessed during a specific tennis fitness test (Baiget et al,
+2014; Brechbühl et al, 2016) or by monitoring the HR
+response of the players.
+
+REPEATED SPRINT TRAINING (RST)
+RST is based on the repetition of « all-out » efforts of short
+duration (≤ 10 s) interspersed with short and incomplete
+recoveries (work:rest ratio of 1:4–1:6). This method differs
+from the traditional HIIT since exercise intensity is maximal,
+thereby allowing high recruitment of fast-twitch fibres. The
+goal of RST is to improve the Repeated sprint ability (RSA).
+One study in tennis showed significant correlations between
+performances in RSA tests and VO2max (Tsiprun et al, 2013).
+The aerobic energy system is an important determinant in
+recovery rate from intense activity and assists in power
+output maintenance during the RST.
+Although the main goal of RST is to improve the Repeated
+Sprint Ability (RSA), it has been shown to improve VO2peak
+level by 4.9% in tennis (Fernandez-Fernandez et al, 2012).
+Moreover, the effects of repeated-sprint training in hypoxia
+(RSH) – low oxygen state - to induce a larger metabolic
+stimulus have been explored and have shown greater
+improvement in some tennis-specific physical and technical
+parameters compared with similar training in normoxia with
+well-trained tennis players (Brechbühl et al, 2018).
+AEROBIC FITNESS TESTING
+Specific Tennis Fitness tests that take into account technical
+efficiency have been validated scientifically (see part 1 of this
+series; Genevois, 2019) and could be considered the “Gold
+Standard”. But these tests are exclusively reserved for players
+well-structured
+centres
+because
+the
+detailed
+methodology necessary for their successful execution.
+For years, national federations have used the multistage
+fitness test (or 20m shuttle run test) to evaluate aerobic
+fitness due to its practical implementation and ease of use.
+However, though it involves change of direction (COD), it is
+still a continuous incremental test and does not represent the
+intermittent characteristic of tennis. Thus, a better option to
+assess aerobic fitness, and to better plan run-based HIIT, is
+the 30-15 Intermittent Fitness Test (30-15IFT). A complete
+description of the 30-15IFT protocol and associated materials
+(audio file and articles) are available online (click here or view
+references; 30-15 Intermittent Fitness Test, 2019).
+The 30-15IFT is an intermittent incremental test with 30
+seconds of running at increasing speeds, interspersed with 15second passive recovery periods. Initially, the test was
+designed in a way where players were required to run back
+and forth between 2 lines set 40m apart at a pace that was
+governed by a pre-recorded beep (figure 1). A modified
+version with 28 m shuttle runs for smaller courts such as
+basketball, netball and racquet sports is now available as well.
+Figure 1. 30/15 IFT protocol with 40 m shuttle runs.
+Because of the intermittent nature of the test, the final speed
+reached at the end of the test (VIFT) is a compound measure
+of maximal aerobic power, anaerobic speed reserve, intereffort recovery and change of direction abilities, which are
+important physical qualities involved in tennis performance.
+The 30-15 IFT has been shown to be a valid and reliable
+measure of V02 max (Buchheit, 2005), when compared to the
+V02 max achieved during a standard continuous test, while
+being perceived  to be less ‘painful’ due to the 15" rest periods.
+The velocity (km/h) attained during the last completed stage
+(VIFT) is the reference value to individualize speed-based
+HIIT. But it is important for coaches to understand that the
+VIFT (i.e. the player’s 30-15 IFT score) is not a direct reflection
+of their maximal aerobic speed obtained with a standard
+continuous test because of the “anaerobic velocity reserve”.
+Thus, VIFT is on average greater than maximal aerobic speed
+(VMA) by 15-20% (2 to 4.5 km/h)!!!
+IMPLEMENTATION OF HIIT WITH SHORT INTERVALS ON
+TENNIS COURT USING THE VIFT
+General Preparation phase
+During the general preparation phase (≈ 6 weeks), the goal is
+to optimize the time at VO2max. Work intervals from 15" to
+30" are used with 2 sessions per week separated by at least
+48h (table 1). The running distance is calculated from a set
+running time and the chosen percentage of VIFT.
+The work intensity should be slightly lower than that usual for
+straight line runs to compensate for the loss of time during
+changes of direction (≈0.7s/COD). Indeed, changes of
+direction induce an increase in the anaerobic metabolism
+solicitation and consequently creates different responses
+compared with traditional straight line running (Dellal et al,
+2010). Although VIFT is the reference to calculate the running
+distance, adjustments can be made according to the player
+
+performance (whether they found it too easy or too hard).
+Moreover, to compensate for the likely increase in players’
+fitness throughout the training phase, initial training intensity
+(%VIFT) should be increased by 2.5 percent every 2 weeks.
+Table 1. Examples of high-intensity intermittent shuttle runs
+using VIFT as a reference for individualising speed interval
+duration and distance during the general preparation phases,
+adapted for tennis players.
+Highintensi
+ty
+durati
+on (“ =
+second
+s)
+Intensi
+ty
+(%VIF
+T)
+Recove
+ry
+duratio
+n (“ =
+second
+s)
+Recove
+ry
+intensit
+y
+Runnin
+g
+Modali
+ty
+Max.
+series
+durati
+on (‘=
+minute
+s)
+Numb
+er
+series
+Recove
+ry time
+betwee
+n series
+(‘
+=
+minute
+s)
+30”
+90%
+30”
+Passive
+Shuttle
+30m
+10’-12’
+2 to 3
+3’
+20”
+93%
+20”
+Passive
+Shuttle
+20m
+7’-8’
+3’
+15”
+95%
+14%
+Passive
+Shuttle
+10m
+7’-8’
+3’
+
+Figure 2. HIIT on tennis court using 10, 20 or 30 m shuttle
+runs
+
+Specific preparation phase
+During the specific preparation phase (≈ 3 to 6 weeks), the
+goal is to prepare the players for the specific demands of the
+match. The primary aim is oriented towards the ability to
+repeat shorts, high intensity bouts – which are related to the
+peripheral oxydative capacities - using repeated sprint
+training (1 session) and on-court specific HIIT (1 session). See
+table 2.
+
+Table 2. Repeated Sprint Training (RST) and On-Court specific
+HIT during the specific preparation phase adapted for tennis
+Highinten
+sity
+durat
+ion (“
+=
+seco
+nds)
+Inten
+sity
+Reco
+very
+durat
+ion (“
+=
+secon
+ds)
+Reco
+very
+inten
+sity
+Runn
+ing
+Mod
+ality
+Max.
+serie
+s
+durat
+ion
+(‘=
+minu
+tes)
+Num
+ber
+serie
+s
+Reco
+very
+time
+betw
+een
+series
+(‘
+=
+minut
+es)
+3”
+Allout
+27”
+Passi
+ve
+Shutt
+le 510m
+6’
+6’-7’
+activ
+e
+10”
+RPE>
+20”
+Passi
+ve
+Hitti
+ng
+drills
+7’
+6’-7’
+activ
+e
+
+During this phase, RST and On-Court specific HIT are
+performed at least 48 h before strength or speed-oriented
+training sessions, to ensure optimal player freshness in these
+sessions.
+Competition phase
+The competition phase is the most important phase and the
+goal is to maintain the fitness level that has been previously
+achieved - while monitoring the training load (high in
+technical/tactical sessions and specific priority conditioning
+components such as power). One session per week using oncourt tennis HIIT seems to be the most adapted to this period.
+However, when the strength/power sessions are not
+programmed in a particular week, another RST session is
+preferred to compensate for the lack of neuromuscular load.
+CONCLUSION
+High intensity-interval training (HIIT) is a time efficient way to
+improve aerobic fitness for tennis players. The 30/15 IFT is an
+intermittent field test allowing coaches to assess the main
+player’s overall fitness performance and to individualise
+training sessions.

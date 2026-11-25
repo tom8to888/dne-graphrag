@@ -1,0 +1,203 @@
+Title: Are Serve Velocity and Ground Reaction Forces Altered Following Prolonged Tennis?
+Authors: Olivier Girard, Grégoire P. Millet, Jean-Paul Micallef
+Year: 2012
+Issue: Vol. 20 No. 57 (2012)
+Article id: 416
+
+www.itfcoachingreview.com
+August 2012. 20th Year. Issue 57. 23-22
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v20i57.416
+
+Are serve velocity and ground reaction forces
+altered following prolonged tennis?
+
+Olivier Girard, Grégoire P. Millet & Jean-Paul Micallef.
+ASPETAR Orthopaedic & Sports Medicine Hospital, Qatar.
+ABSTRACT
+
+Serving performance is likely to deteriorate when players become fatigued, and
+since fatigue induces a decrease in leg muscle strength, the contribution of the
+lower limbs to the stroke may be affected. This study aimed to examine this
+effect by investigating the impact of prolonged tennis playing on stroke velocity
+and peak vertical forces during first (flat and slice) and second (topspin) serves.
+Results are discussed and suggestions are offered for training players to cope
+with effects of fatigue.
+
+Key words: Fatigue, Tennis serve,
+Lower limbs.
+Received: 21 December 2011.
+Acepted: 31 January 2012.
+Corresponding author: Olivier Girard,
+ASPETAR Orthopaedic & Sports
+Medicine Hospital, Qatar.
+Email: oliv.girard@gmail.com
+
+INTRODUCTION
+Recent biomechanical analyses of the tennis serve have
+focused on lower extremity kinematics (movements/motion),
+ground reaction forces or EMG activity of selected leg muscles,
+underlying the importance of a forceful lower limb drive to
+produce efficient strokes (Bonnefoy et al. 2009; Girard et al.
+2005; Reid et al. 2008).
+
+Figure 1. Peak vertical forces and post- impact ball velocity were
+determined by means of force platform and radar, respectively.
+
+A decrease in isometric maximal voluntary strength of both
+knee extensors (Girard et al. 2008) and plantar flexors (Girard
+et al. 2011) has been reported after prolonged (3-h) tennis
+playing.  However, strength losses with fatigue - as measured
+from isolated leg muscle contractions - do not necessarily
+reflect
+changes
+lower
+limb
+involvement
+during
+dynamic/functional and complex multi- segmental movements
+such as tennis strokes (Wilson and Murphy, 1996). Therefore, it
+is unclear whether fatigue actually alters stroke efficiency
+through a modified lower limb contribution during the serve.
+The purpose of this study was to examine the impact of
+prolonged tennis playing on ball velocity and peak vertical
+ground reaction forces during three different types of serve.
+METHODS
+Nine competitive tennis players (mean ± SD: age 26.1 ± 4.7
+years; height 181.5 ± 6.8 cm; body mass 76.3 ± 7.6 kg)
+competing at regional to national levels (International Tennis
+Number ranging from 2 to 4) participated in the study. They
+randomly executed 10 flat (first, FS), 5 slice (first, SS) and 5
+topspin (second, TS) serves before and after a 150-min tennis
+match against an opponent of similar standard. All serve trials
+were completed from the deuce service court.  Peak  vertical
+forces and post-impact ball velocity were determined for each
+trial by means of force platform (dimension: 100 x 80 x 7 cm;
+Captels, France) and radar (precision: 0.1 km.h-1; Stalker, USA)
+fixed on a 2.5 m high tripod situated two meters behind the
+players, respectively (Figure 1). Heart rate was recorded
+continuously and averaged every five seconds during the
+
+The
+use
+of
+pre-fatiguing
+situations
+(bouncing, in-depth jumping, plyometric
+exercise, medicine- ball) of specific muscle
+groups (i.e. knee extensors, shoulder
+internal rotators) followed by on-court
+high-intensity
+intervaltraining
+are
+recommended in order to widen one
+player’s motor skill repertoire.
+match using short range radio telemetry (S610; Polar Electro
+Oy, Kempele, Finland). Values are means ± S.D, compared by
+ANOVA.
+
+Figure 2. Ball velocity during the first (blue bars), slice (red bars)
+and topspin (green bars) serves before and after prolonged (150min) tennis playing.
+
+RESULTS
+Ball velocity did not change from pre- to post-match for all
+serve conditions (Figure 2). In the fatigued state, peak vertical
+forces were 8.2% higher (P<0.05) for TS, but remained
+unchanged in FS and SS (Figure 3). There was no significant
+correlation between changes in peak vertical forces and ball
+velocity (0.03 < r < 0.62; P>0.05) from pre- to post-match.
+During the 150 min tennis match, the mean heart rate was
+140±8 beats/min, which represents a mean intensity of 75± 7%
+of maximal heart rate (estimated as 220-age).
+
+Figure 3. Peak vertical forces during the first (blue bars), slice (red
+bars) and topspin (green bars) serves before and after prolonged
+(150-min) tennis playing. * P < 0.05, significantly different from
+before.
+DISCUSSION
+During the last two decades, the occurrence of fatigue on
+skilled tennis performance has been researched increasingly
+(Davey et al. 2002; Vergauwen et al. 1998). The prevailing view
+of those investigations is that fatigue during a tennis match or
+experimental protocol manifests as mistimed shots (decreased
+velocity and precision). Consistent with other literature
+(Hornery et al. 2007), however, ball velocity did not change
+after prolonged tennis playing in this study. Contrasting effects
+of fatigue on tennis serve efficiency between studies may relate
+to discrepancy regarding service type, nature of fatiguing
+protocol or subjects’ characteristics. In support of the last
+point, by comparing the effect of fatigue on attacking forehand
+drive proficiency between highly-skilled and recreational table
+tennis players, Aune et al. (2008) demonstrated that expertise
+enhances  potential to adjust motor coordination strategies for
+minimizing the deleterious effects of physical fatigue.
+
+In the fatigued state, peak vertical forces were unchanged in
+FS and SS. In line with these findings, no significant changes in
+explosive
+strength
+-
+as
+measured
+from
+squat
+and
+countermovement jumps - were observed after a tennis match
+protocol of the same duration (Girard et al. 2006).
+Unexpectedly, our results also displayed increased peak
+vertical forces in TS under fatigue. Since the ball velocity was
+unchanged, this stronger lower limb involvement during TS
+suggests that the contribution of other body segments
+participating to the kinetic chain (trunk, upper limbs) could be
+altered with fatigue (Figure 4). This is further supported by the
+absence of significant correlation between changes in peak
+vertical forces and ball velocity from pre- to post-match, as
+already observed in a non-fatigued state (Girard et al. 2005).
+Given that the aetiology of muscle fatigue during prolonged
+tennis playing is complex and likely to include both muscular
+(muscle contractility) and neural (muscle activation) factors
+(Girard et al. 2008; Girard et al. 2011), compensatory
+mechanisms at various levels of the coordination kinematic
+chain may act to delay the effects of fatigue, thus efficiently
+maintaining the velocity of the serve. It is possible that this
+compensation in trunk and/or upper limb muscles may be
+obtained by a greater reliance on the lower limbs during the
+TS. This view is consistent with others showing that under
+fatigue, the segmental coordination of complex movements
+may be rearranged. In an incrementally fatiguing study of
+junior elite water polo players, Royal et al. (2006) observed
+
+modifications to technical skill proficiency despite no
+reductions in shot accuracy or velocity. Bonnard et al. (1994)
+also studied multi-segment movements under fatigue and
+showed that hopping could be maintained for long periods of
+time by using different coordination strategies.
+
+Figure 4. Hypothetical model of preserved serve efficiency under
+fatigue.
+
+CONCLUSION
+After a prolonged tennis match, ball velocity remained
+unchanged while the effects of fatigue on the lower limb drive
+were different according to the serve type. This may indicate a
+modification in inter-segmental coordination to maintain
+stroke efficiency under fatigue that requires further EMG
+(timing, muscle activation) and kinematic (linear and angular
+velocities, joint angles) data from leg, trunk and arm body
+segments. Results obtained on the serve must be expended to
+groundstrokes with, in parallel, a strict control of stroke
+proficiency including not only velocity but also reliable
+standardized measures of accuracy.
+COACHING IMPLICATIONS
+One main characteristic of the neuromuscular system is its
+adaptability. The training of competitive players should
+therefore focus on improving their ability not only to resist to
+fatigue but, more importantly, to adjust the coordination under
+fatigue. In other words, it is important to develop
+compensatory mechanisms at various levels of the intersegmental chain in order to maintain the stroke efficiency
+when playing several hours. The use of pre- fatiguing situations
+(bouncing, in-depth jumping, plyometric exercise, medicineball) of specific muscle groups (i.e. knee extensors, shoulder
+internal rotators) followed by on-court high- intensity intervaltraining - possibly through the training version of the CREOPP
+tennis specific incremental test (Girard et al. 2006) - are
+recommended in order to widen one player’s motor skill
+repertoire.

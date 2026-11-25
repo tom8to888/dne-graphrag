@@ -1,0 +1,5 @@
+system,answers,errors,answer_tokens,latency_s,llm_calls,prompt_tokens,retrieved_articles
+basic_8k,60,0,607.1,228.1,1.0,8047.2,5.2
+basic,60,0,638.0,294.5,1.0,10767.2,6.9
+global_8k,60,0,616.2,367.5,7.0,51894.7,0.0
+global,60,0,586.2,519.8,5.0,49817.2,0.0

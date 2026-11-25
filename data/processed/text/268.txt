@@ -1,0 +1,206 @@
+Title: Tactical analysis in tennis: From its origins to the present
+Authors: Rafael Martínez
+Year: 2018
+Issue: Vol. 26 No. 74 (2018)
+Article id: 268
+
+www.itfcoachingreview.com
+April 2018. 26th Year. Issue 74. 30-32
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i74.268
+
+Tactical analysis in tennis: From its origins to
+the present
+Rafael Martínez
+University of Valencia, Valencia, Spain
+
+ABSTRACT
+
+Even though the first studies of tactical analysis are dated several decades ago,
+and new technologies have greatly helped to advance in this area, the practical
+application of this type of analysis has been carried out in a very rudimentary
+fashion and is subject to the coaches´ subjective criteria. This article, apart from
+providing a context and a historic perspective of tactical analysis, shows some
+of the tools that are currently available for this analysis and provides examples
+for clear and practical application
+
+Key words: : Tactical analysis,
+notational analysis, strategy
+Received: 14 December 2019
+Acepted: 27 Ferbruary 2019
+Corresponding author:
+Rafael Martínez
+University of Valencia,
+Valencia, Spain.
+Email: rafael.martínezgallego@uv.es
+
+INTRODUCTION
+Tactical analysis is related to the sport´s strategic and tactic
+aspects. The strategy can be defined as the plan that is set up
+prior to competition, to maximize the players´ strengths and
+reduce their weaknesses, while minimizing the opponents´
+strengths and taking advantage of their weaknesses
+(O’Donoghue, 2010). On the other hand, tactic is associated to
+decision making during play, on the basis of the options
+available and the risks and opportunities associated to each
+(Fuller y Alderson, 1990).
+
+This analysis has traditionally been made in a non systematic
+way, on the sole basis of the coach´s direct observation during
+matches or training. This way of analysing tactics, as Murray
+and cols. indicate (2007) entails a number of problems related
+to the perception capability, the memory and interpretation of
+the observation of coaches, who convey biased information to
+the tennis players, and is interpreted totally subjectively.
+Therefore, there seems to be an apparent need to use
+observation and analysis methods to get objective data on
+which the information received by the coach, and later by the
+tennis players, can be based.
+
+NOTATIONAL ANALYSIS
+Notational analysis permits to record, in a reliable way, those
+indicators that are of interest to evaluate the tactical
+performance of players, in such a way that the information
+obtained by the coach and the athlete is much more accurate
+and precise (Martínez-Gallego, 2015)
+
+As you will see later, the technologic advances and the
+incorporation of personal computers to notational analysis
+have significantly shaped its development and evolution. Thus,
+it is possible to differentiate between two types of analysis,
+manual notational analysis, and computer notational analysis.
+
+Manual notational analysis
+This kind of analysis was already used at the time of the
+Egyptians, and by means of symbols and hieroglyphs, they
+represented dance patterns and movements (Over y
+O’Donoghue, 2008). Later on, it was precisely dancing that was
+used as a basis for the development of a system of general
+notation for movement. In fact, the first system to analyse and
+record human movement was Labanotation, created by
+Rudolph Laban (Laban, 1975). As to tennis, the first manual
+system for notational analysis was carried out by Downey
+(1973). This system was used to record the strokes, the position
+on court, the result of the stroke, and the type of effect used in
+each stroke. Due to its complexity, both to record information
+and to analyze it, this system was seldom used in practice,
+
+nonetheless, it was important for further research based on
+these ideas.
+
+Manual notational analysis has been continuously used with
+simpler record systems which were more appropriate for the
+demands and possibilities of coaches. In fact, in spite of the
+appearance of new technologies, it is still frequent to find
+coaches making manual notations during match development.
+
+Computer notational analysis
+IT development and the technological advances over the last
+decades, have brought about a revolution in the concept of
+notational analysis, allowing for a more accurate and simpler
+way of recording information, facilitating the creation of data
+bases, providing the tools that make data representation more
+aesthetic, agreeable and intuitive, and thus, easier to
+understand for coaches and athletes (Murray et al., 2007).
+
+At the moment, there are a number of devices and IT
+programmes that are being used more and more to analyze
+the tactical performance of athletes (Barris y Button, 2008).
+Likewise, the number of specific programmes on notational
+analysis in sport is greater and greater. IT programmes that
+help to perform this kind of analysis can be classified in two
+big categories: “tagging systems” and “tracking systems”.
+
+Tagging systems generally consist of a video player with an
+interface of buttons that can be defined and tagged by the
+analyst. Events introduced by means of buttons are synced
+with the video and stored on a data base, to be visualized later
+exporting the information to data bases for statistical analysis.
+Because of the flexibility of these programmes, it is possible to
+create an unlimited number of templates to analyse all aspects
+of the game. Some of these programmes are: Dartfish
+(TeamPro version), Focus or Longomatch.
+
+Tracking systems are more complex systems, normally used by
+professional players or for professional events. By means of the
+images that have been captured by several cameras, these
+programmes create a vision in two or three dimensions. With
+these images, the programme, automatically or semi
+automatically, detects the position of the players and/or the
+ball at each instant. Then, the different kinematic variables are
+calculated. They can be related to tactical and physiological
+aspects. Hawk-eye, Amisco and Prozone are some of the
+commercial tracking programmes
+
+CURRENT TACTICAL ANALYSIS STUDIES
+Finally, and by way of example, we will mention some of the
+most recent studies related to tactical analysis that have used
+some of the tools described above, and that we think can be
+interesting due to their practical application: to coaching.
+
+The first one was carried out by Reid, Morgan, y Whiteside
+(2016), they analyzed the differences between men and women
+in the Australian Open: the stroke dynamics and movement.
+The results are the following:
+
+• The service was the stroke that showed more differences,
+men served faster, achieved more direct services, forced
+errors in the return, and won a higher percentage of points
+when serving.
+
+• As to the return, women hit closer to the net, lower and
+flatter than men.
+
+• The frequency of ground strokes was similar for both sexes,
+though men hit at a greater speed, flatter and a greater
+number of strokes landed on court.
+
+• As to the distance travelled per point, there were no
+differences between men and women, though men showed
+higher average speeds when running.
+
+Later, Kovalchik and Reid (2017) compared playing statistics
+and physical demand between professional and junior players,
+getting the following conclusions:
+
+• Professional players had a greater advantage with service.
+
+• Junior players got a higher percentage of break points.
+
+• Generally, professional players achieved more power and
+accuracy in their strokes, this was particularly evident in
+service.
+
+• Junior players served to the centre of the court twice as
+much as compared to professional players.
+
+• In men, the physical load of professional players during
+matches doubled that of juniors, while junior women
+doubled the physical load when compared to professional
+players.
+
+More recently, Martínez-Gallego et al. (2018) carried out a
+study with professional players. They analyzed the existing
+differences between winners and losers of points, on the one
+hand, considering volume and intensity of their movements,
+depending on their position on court, and, on the other hand,
+the differences between winners and losers of the games as to
+winners, unforced errors and effectiveness, depending on their
+position on court. The main conclusions drawn were the
+following:
+
+• Winners of points used more offensive strategies,
+remaining longer time in offensive areas and forcing their
+opponents to run a greater distance and at a higher speed.
+
+• When the losers of points were in offensive positions, they
+did not profit from that positional advantage, since they were
+too pressed by their opponents who made them move at a
+high speed.
+
+• The winners of the games got a greater number of winners,
+and made less errors, and were more efficient than the losers.
+
+• In defensive zones there were no differences as to the
+number of winners, however, the winners of the games made
+less unforced errors.

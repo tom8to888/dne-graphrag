@@ -1,0 +1,269 @@
+Title: Effects of coach feedback and motor imagery on baseline game performance in regional junior tennis players
+Authors: Tom Bonnin, Robbin Carien, Laurent Dominique, Nicolas Robin
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 736
+
+the success of these same movements would improve the
+performance of young tennis players.
+The objective of the project was to evaluate the effects of
+the coach's feedback, combined or not with motor imagery,
+relating to the visualization of a corrected and successful
+gesture, on the performance of the baseline game in a
+precision test with a ball thrower but also in match conditions
+(i.e., super tie-break).
+METHOD
+Thirty male players (M = 11.54 years old; SD = 1.47) playing
+tennis at a regional level for more than 4 years, playing at
+least 5 tournaments per year and training between 2 and
+3 times a week (for a weekly duration of 4 and 5 hours),
+were volunteers to participate in this study. After the
+parents and participants signed a consent form, they were
+randomly assigned to 3 groups: Control (N = 10), Feedback
+(N = 10) and Feedback+Imaging (N = 10). This study, carried
+out in accordance with the latest version of the Helsinski
+Declaration, was approved by the ethics committee of the
+ACTES laboratory (Urp5-4-2024-03) of the Université des
+Antilles.
+INTRODUCTION
+According to Martin (2018), tennis is a racquet sport that
+consists of hitting a ball in order to send it onto the court
+once more than your opponent. It involves the performance
+of various complex motor skills, such as forehands and
+backhands, the efficiency of which requires a large number of
+repetitions and training sessions (Akpinar et al., 2012). In order
+to facilitate or accelerate learning and promote performance
+optimization, coaches and players use strategies (Reid et
+al., 2007) such as feedback (Schmidt & Lee, 1999) or motor
+imagery, which consists of internally simulating a movement
+in the absence of actual execution (Robin et al., 2023).
+Feedback from the coach, including feedback from poor
+gesture execution that is used to correct the internal model
+or mental representation of a technical gesture (Dhawale
+et al., 2017), but also motor imagery (Robin & Dominique,
+2025) that is performed on the basis of this same internal
+model, are strategies that can have a positive impact on
+motor performance in tennis (Martin,  2018). While a recent
+study has shown beneficial effects of the combination of
+these two strategies on performance in a precision task (i.e.,
+passing towards a target) in football (Robin et al., 2020), we
+thought it would be interesting to assess whether receiving
+feedback from the coach about unprovoked fouls,  forehands
+or backhands from the back of the court, and then visualizing
+ABSTRACT
+The objective of this study was to evaluate the effects of coach feedback, combined or
+not with imagery practice, on the performance of the baseline game in tennis. Thirty
+young tennis players (M = 11.54) at the regional level, were willing to participate in
+this study. The players were divided, by random draw, into 3 groups: Control, Feedback
+and Feedback+Imaging. They carried out 3 experimental phases: Pre-test (30 long balls
+with ball launcher and super tie-break), acquisition (12 training sessions) and posttest (identical to the pre-test). While during the sessions of the acquisition phase the
+participants in the Control group received no other instructions than to play at the back
+of the class, those in the Feedback group received feedback from the coach after each
+unprovoked foul and the players in the Feedback+Imaging group also had to visualize
+(according to an internal visual imagery modality) the success of the previous shot by
+taking into account the feedback given by the coach. The results of this study show
+that supplementing the coach's feedback with motor imagery improves its effects. We
+recommend that coaches use the visualization integrated into the training.
+Effects of coach feedback and motor imagery
+on baseline game performance in regional junior
+tennis players
+Tom Bonnin¹, Robbin Carien¹, Laurent Dominique² & Nicolas Robin¹
+¹ACTES Laboratory (URp5-4), University of Antilles, Faculty of Sports Sciences, Pointe-à-Pitre, France. ²IRISSE
+Laboratory (EA 4070), UFR of Human and Environmental Sciences, STAPS Department, University of Reunion, Le
+Tampon, France.
+Key words: feedback,
+visualization, forehand, backhand.
+Received: 19 September  2025
+Accepted: 2 November  2025
+Corresponding author: robin.
+nicolas@hotmail.fr
+www.itfcoachingreview.com
+December 2025. 33rd  Year. Issue 97. 49-52
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i97.736
+COACHING & SPORT
+SCIENCE REVIEW
+PROCEDURE
+This study took place at the Amicale Tennis Club in Le Gosier
+(France). Before the start of the experimental phase, the
+players made the latest French version of the Movement
+Imagery Questionnaire (MIQ-3f; Robin et al., 2020) to verify
+that none of them had difficulty doing motor imagery. Then,
+the participants carried out 3 experimental phases: Pre-test
+(6 sets of 5 balls from the bottom of the course with a lobster
+elite 2 type ball launcher and a super tie-break), Acquisition (12
+training sessions with or without feedback and imaging) and
+Post-test (identical to the pre-test). While during the sessions
+of the acquisition phase, the participants in the Control group
+were only instructed to play at the back of the course, those in
+the Feedback group benefited from the coach's feedback (see
+Table 1) after each unprovoked foul, and the players in the
+Feedback+Imaging group also had to imagine, according to an
+internal visual imagery modality,  succeed in the forehand or
+backhand by integrating the correction feedback given by the
+coach (State Tennis Graduate, 20 years of experience, fulltime coach).
+Table  1
+Feedback used by the coach.
+Number
+Correction
+You must go through the ball and finish your
+swing
+You must move in order to hit the ball at hip
+height
+You must center the ball on your racket strings
+You must recover your position, make a split
+step, then adjustment steps to hit the ball in the
+best possible conditions
+You must lower the racket head
+You must use this grip and hold your handle
+better
+In the pre-test and post-test, the test performed with the
+ball launcher consisted of returning 30 baseline balls to the
+baseline area on the opposite side (see Figure 1) in order to
+obtain the highest possible score. The velocity of the bullets
+was measured with a radar gun (cordless R1000) and the
+performance (i.e., accuracy scores and number of errors)
+was recorded by the experimenters and by means of the
+Swingvision software (i.e., speed of keystrokes, number of
+rallies, number of errors) during the super-tie-breaks.
+normally distributed (Kolmogorov-Smirnov tests). These
+variables were subjected to repeated measures ANOVAS
+(Pre-test versus Post-test) with independent groups (Control
+versus Feedback versus Feedback+Imaging), calculated with
+the Statistica software. Post-hoc analyses (Newman–Keuls
+test) and an alpha cut-off of .05 were used.
+RESULTS
+The ANOVA performed on the pitcher's strike speeds did not
+reveal any significant differences between groups or between
+tests (all p >.05).
+The ANOVA on pitcher accuracy scores showed on the one
+hand that players in the Feedback and Feedback+Imaging
+groups improved their performance between pre-test
+and post-test (p <.05), and that the performance of the
+Feedback+Imaging group was superior to that of the other
+groups at the post-test (p <.05 ; see Figure 2A).
+The ANOVA on the number of fouls, on the ball thrower,
+revealed that players in the Feedback+Imagery and Feedback
+groups decreased their number of fouls between pre-test and
+post-test (p <.01), and that players who benefited from motor
+imagery in addition to feedback (i.e., Feedback+Imaging
+group) made fewer mistakes, post-test, than those in the
+Control group (p <.05) as shown in Figure 2B.
+Figure 1. Accuracy scores with the ball launcher during pre-tests and
+post-tests.
+Dependent variables (hitting speeds, accuracy scores
+and number of errors at the pitcher; percentage of rallies
+between 5 and 8 balls, percentage of balls from baseline
+and percentage of unforced errors in super-tie-breaks) were
+Figure 2. Ball pitcher performance scores (A) and number of fouls
+(B) for participants in the Control (black) and Feedback (gray) and
+Feedback+Imaging (black) groups, during pre- and post-tests (* p <.05).
+The ANOVA made on the percentages of rallies between 5
+and 8 balls, during the super-tie-breaks, did not show any
+significant difference between the tests or between the
+groups (all the p >.05), knowing that players obtained the
+following percentages: Control (M=14%), Feedback (M=18%)
+and Feedback+Imaging (M=20%), in the post-test.
+The ANOVA on the percentages of baseline shots, during
+super-tie-breaks, showed that players in the Feedback and
+Feedback+Imaging groups improved their performance
+between the pre-test and the post-test (p < .05). In addition,
+the Feedbacks group performed better than the Control
+group (p <.05), and finally those of the Feedback+Imaging
+group were superior to the performance of the other two
+groups at the post-test (see Figure 3A).
+The ANOVA carried out on the percentages of unprovoked
+fouls during the super-tie-breaks showed that the players in
+the Feedback and Feedback+Imaging groups improved their
+performance between the pre-test and the post-test (p <.05),
+and that their percentage of mistakes was lower than that of
+the Control group at post-test (p <.05), as shown in Figure 3B.
+
+Figure 3. Percentages of strokes at the bottom of the court (A) and
+percentages of unprovoked fouls (B) during super-tie-breaks for players
+in the Control (in black) and Feedback (in grey) and Feedback+Imaging
+(in black) groups, during pre-tests and post-tests (* p < .05).
+DISCUSSION
+The objective of this original study was to evaluate the effects
+of coach feedback, combined or not with motor imagery
+practice, consisting of visualizing a corrected forehand or
+backhand, on the performance of the baseline game in a
+precision task performed with a ball thrower and during a
+super-tie-break.
+First, the results of this study show beneficial effects of the
+coach's feedback on the performance of the game from
+the back of the course to the ball thrower and in match
+conditions. Indeed, the players in the Feedback group
+obtained better scores and made fewer fouls on the ball
+thrower, but also made more baseline shots and made fewer
+unforced fouls, than the participants in the Control group
+during the post-test. These results confirm the data in the
+literature showing the importance of coach feedback in
+improving motor learning and sports performance (Smith &
+Ward, 2006; Schmidt & Lee, 1999; Tsetzis & Votsis, 2006),
+particularly in racquet sports (Tzetzis et al., 2008) and more
+specifically in tennis (Morales & Martinez-Gallego, 2022).
+As mentioned by Robin et al. (2020), feedback can guide
+players by helping them to reinforce or correct their mental
+representations of the actions they perform. Providing verbal
+cues about corrections to their movements for subsequent
+trials is particularly beneficial for non-experts (Kernodle &
+Carlton, 1992), as was the case for the young players who
+participated in this study. In tennis, the coaches' "eye" and
+expertise are essential to analyse performance, identify
+mistakes and provide appropriate feedback allowing players
+to progress by correcting their mistakes (Schönborn, 2000).
+Secondly, the results of this study showed that motor imagery
+made it possible to optimize the performance of the baseline
+game in tennis. These results confirm the interest of motor
+imagery in improving sports performance (Toth et al., 2020),
+particularly in tennis (for review see Robin & Dominique,
+2025) and more specifically with regard to the baseline game
+(Robin et al., 2025). On the other hand, these results confirm
+the interest of supplementing the coach's feedback with
+the visualization of a successful action (Robin et al., 2020).
+Indeed, the results of this study showed that the players in
+the Feedback+Imaging group obtained higher scores than the
+post-test with the ball launcher and sent more balls to the
+back of the court during the super-tie-break than those in the
+Control group but also those in the Feedback group. These
+results confirm the results of previous studies that have
+observed beneficial effects of a combination of feedback and
+motor imagery on accuracy in a passing task in football (Robin
+et al., 2020) or during the plunged start in swimming (Robin
+et al., 2023). The authors mentioned that benefiting from
+feedback from an expert such as the tennis coach, before
+visualization, allowed players to perform motor imagery
+based on mental representations of corrected gestures, thus
+optimizing the athletes' performance.
+It is necessary to emphasize that this study is not without
+limitations. Indeed, although equivalent to that of previous
+research that has used similar protocols (e.g., Cherappurath et
+al., 2020; Guillot et al., 2013; Robin et al., 2025), the number
+of participants could be considered to be relatively small. For
+this reason, the results of this study must be confirmed with
+larger samples of participants before any generalization. In
+addition, it is also possible that the players in the Control
+group were less motivated than those in the Feedback
+and Feedback+Imaging groups due to the experimental
+conditions (Robin et al., 2020) and instructions involving a
+passive attitude towards the baseline fouls committed during
+training sessions.
+CONCLUSION
+The results of this study showed on the one hand that tennis
+players who benefited from the coach's feedback improved
+their baseline game performance in a precision event with
+the ball thrower but also in a match situation (i.e., super-tiebreak), and on the other hand that visualization increased
+the positive effects. Although this research needs to be
+confirmed by studies with larger sample sizes, we recommend
+that coaches use motor imagery integrated into training, in
+addition to the feedback they give to players, in order to
+improve the performance of the baseline game.
+CONFLICT OF INTEREST AND FUNDING
+No conflict of interest is to be declared for this study, which
+did not receive any funding.
+THANKS
+We would like to thank the tennis players who participated in
+this study as well as the management of the Amicale Tennis
+Club for their logistical support, and Patrick for his technical
+expertise.

@@ -1,0 +1,227 @@
+Title: New Technologies Applied to Tactical Analysis in Tennis
+Authors: David Sanz, Antonio Terroba
+Year: 2012
+Issue: Vol. 20 No. 56 (2012)
+Article id: 408
+
+www.itfcoachingreview.com
+April 2012. 20th Year. Issue 56. 32-35
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v20i56.408
+
+New technologies applied to tactical analysis
+in tennis.
+David Sanz & Antonio Terroba.
+Royal Spanish Tennis Federation.
+ABSTRACT
+
+The process of sports coaching aims to take a player to his/her maximum
+performance level. This goal - which involves a multi- disciplinary team (coach,
+trainer, medical doctor, physiotherapist, psychologist, family...) - must be
+carefully supervised and sequenced. Sport performance is determined by the
+optimal relationship between the physical, tactical, technical, and also the
+psychological components of the player (Sanz, 2011). Related to these
+components, a key guiding element in a player’s development process is the
+analysis and evaluation of any or all of these areas. Technological tools should
+be used to access as much information as possible, which can later be
+interpreted by the coach or team. This article presents new technologies that
+are being used to analyse tennis tactics and reviews the different papers that
+have been published in this field.
+
+Key words: Tactics, Analysis,
+Measurement instruments, New
+technologies.
+Received:: 1 January 2012.
+Acepted: 14 March 2012
+Corresponding
+author:
+David
+Sanz,
+Royal
+Spanish
+Tennis
+Federation.
+Email:  dsanz@rfet.es
+
+INTRODUCTION
+The evaluation and analysis of tennis tactics is one of the least
+developed disciplines of analysis when compared to
+physiological analysis, kinematic and technical analysis among
+others. The "analyst" joined professional sport some time ago
+and as suggested by Reid (2011), this member will become
+more and more involved in the multidisciplinary teams that
+accompany and advise both the player and the coach.
+The systems that analyse tennis tactics can be divided into two
+main categories, direct, which are applied during the game
+situation and indirect, the ones that are obtained after the
+analysis of the actions recorded in audio-visual systems. In both
+cases, observational methodology, as a method to record and
+analyse, is one of the main pillars of the process.
+As Sanz (2011) pointed out, observation is a process that
+provides measurable and quantifiable information about what
+is being evaluated. Observation must be objective, using a
+number of observation tools and/or techniques that provide
+information for diagnosis and intervention.
+Usually, the observation by the technician depends on the
+coach´s vision of what he intends to study, that is, the "clinical
+eye" of the coach. This system has a very important intrinsic
+value, given the knowledge of the coach about the situations
+that need to be evaluated and analysed. However, as regards
+accuracy in the evaluation, the sensory constraints of our
+capturing systems may leave information gaps in those
+observation processes and, therefore, the result can be biased,
+conditioned and not fully systematic. With regard research, as
+stated before, it will be the observational methodology that will
+provide the background to design investigations and analysis.
+Some research work on tennis tactics using rigorous
+observation
+methodologies
+includes
+(Gorospe,
+G.1999;
+Gorospe et al., 2005; Garay, O. 2003). Anguera, (1990; Anguera
+et al., 2000) describes the methodological procedure to provide
+scientific rigour to observation as a measurement tool.
+The main systems to analyse tactics using tools or supporting
+instruments will be discussed below. They will be described and
+grouped in different blocks.
+RECORDING TOOLS FOR TACTICAL ANALYSIS
+Manual recording systems
+As opposed to the old ‘copybook’, where the coach would jot
+down the player´s strengths and weaknesses, and analyse
+movement and behaviour in specific situations, there are now
+smartphone based applications and tools to record sets of
+relevant information or even just the score of a tennis match in
+real time. It is in this category that we find programmes like
+
+Protracker (http://www.fieldtown.co.uk/) or Tennis Trakker
+(http://www.tennistrakker.com/).
+Even
+though
+these
+programmes are useful to gather global data, they are limited
+in that they do not associate images nor do they make any
+careful analysis of strokes.
+Video capturing systems
+Until not long ago, the main objective when analysing tennis
+videos was to carefully observe the players´ technique and to
+refine minor defects in the biomechanics of the stroke.
+However, the currently used computer programmes to label
+different times or situations in a match have also begun to
+contribute to tactical analysis and have helped to identify
+behaviour patterns from those video sequences.
+
+Screen shot image of Dartfish analysis software.
+Given the difficulty to apply labels automatically, most of the
+programmes need an operator to organize those entries
+manually. This is the case of Dartfish (http://www.dartfish.com),
+a programme that not only studies the mechanical aspect of
+the stroke but also permits to label for further study. So, at the
+end of a match, the player can see those sequences that he is
+interested in, without having to watch the whole match, whilst
+also combining qualitative and quantitative analysis of the
+number of repetitions of certain important actions. Over time,
+more and more programmes are emerging in the market that
+will help coaches to make these records for further analysis
+(InterplaySports: http://www.interplay-sports.com; GPSports:
+http://www.gpssports.
+com;
+NACSport:
+http://www.nacsport.com;
+Sportscode
+Gamebreaker:
+http://www.sportstec.com among others).
+At the same time, the technological community has been
+studying different and totally automatic alternatives for several
+years (Almajai et al. 2010, Christmas et al. 2005). One of the
+advantages of these systems is that apart from allowing
+intelligent labelling of tennis sequences, they provide a
+number of kinetic data sets such as the players´ average speed,
+acceleration, kilometres run, etc. And all this can be achieved
+without the player carrying a sensor, however the use of
+sensors will inevitably lead to much more accurate analysis.
+With technological advances, devices are getting smaller and
+smaller, and can record information about the different
+physiological (heart rate) and kinematic (accelerometers, GPS)
+variables together with spatial information.
+Using statistical analysis
+One of the aims of researchers and IT application developers
+for tactical analysis tools is to yield both precise and
+immediately available information in such a way that it is useful
+for both the coach and the player. A number of applications
+and records for statistical analysis have followed one another,
+as for example the model of Markov chains set by Schutz
+(1970), with a probability constant of winning a given point.
+Another example is the Klaassen & Magnus IT programme
+(2003) called TENNIS PROB, which quickly and automatically
+calculated the probability of winning a tennis match. There is a
+line of statistical and probabilistic analysis studies like those of
+Gale, 1971;Norman, 1985; George, 1973, y Barnett, 2005,
+among others.
+Data mining and artificial intelligence
+Data mining has long existed in other fields like biomedicine
+and customer relationship management to name just two. Its
+main objective is to discover data patterns and possible
+relations that can result in new knowledge. These relations can
+then also be used to predict future results. The sport world
+today sees a great number of statistics for each player, team
+and season etc, and the use of data mining in sport has
+progressively increased. The main targets are scouting new
+players, predicting the results and measuring performance.
+However, there is relatively little existing research whereby
+data mining is used to analyse tactical patterns (Terroba et al.
+2010, Vis et al. 2010).
+Paradigm shift
+Regardless of the technical advances to associate manual or
+automatic labels and video sequences, and whether it is
+possible to get tactical information from huge databases with
+statistical information, the main issue is to set key criteria to
+make an analysis. Some authors point out that it is necessary
+to select the information that is really interesting and useful to
+a particular player or coach, out of the information available,
+(Barnett & Clarke, 2005; Barnett et al., 2008; Gillet et al., 2009;
+O´Donoghue, 2001; Pollard et al., 2010; Reid et al., 2010, Over,
+& O’Donoghue, 2008; 2010).
+From this point of view, the authors can make a tactical analysis
+on the basis of situations where a player is off-balance, or
+stressed, instead of taking the standard classifications such as
+winners/ forced errors/ unforced errors.
+
+This provides a much more real vision about what is happening
+on court and can help us to understand why a player is winning
+or losing. It seems reasonable to think that the regular statistics
+we get, or even some IT programmes provide biased
+information, since they lack what any measuring instrument
+must
+provide:
+validity,
+reliability,
+discriminability
+and
+objectivity.
+It is on this aspect that tactical analysis for the future needs to
+shed more light, breaking down actions not when they are over
+but from the moment the player changes his situation from
+balanced or unbalanced (dominating or being dominated), so
+as to provide the coaches and players with the information
+necessary to drive the work or the strategy for future matches.
+CONCLUSIONS
+We believe that the near future will see an important increase
+in the time devoted to tactical analysis of our sport, with the
+help of new technologies and the increasingly portable devices
+(Tablets, Smartphones,…), but, no doubt, we will have to bear
+in mind that what really matters is not the information we get
+but the interpretation of really relevant and useful data that will
+later be applied to coaching and competition.
+In this sense, and as Crespo and Sanz (2011) have remarked,
+we agree with Norton and Clarke (2002) who state that it is
+necessary to improve the way we retrieve information as well
+as the depth of the information to continue to make a deeper
+analysis. This will help us to disregard and demystify some
+deeply rooted tennis theories like the existence of a
+“momentum” in the sequence of the points won in a match. As
+O’Donoghue and Brown (2009) state in connection with the
+sequence of singles service points, they conclude that there is
+no momentum in the sequence of points analysed in singles
+and, that the belief of players, coaches, sport journalists and
+spectators that there is momentum in tennis is mistaken.

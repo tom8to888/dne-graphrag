@@ -1,0 +1,446 @@
+Title: Tennis for Life: A Strategic Framework from the Portuguese Coaches Education Department
+Authors: Paulo Figueiredo, Rui Machado, Hugo Vieira Pereira, Raquel Barreto
+Year: 2025
+Issue: Vol. 33 No. 96 (2025)
+Article id: 719
+
+www.itfcoachingreview.com
+August 2025. 33th Year. Issue 96. 39-44
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i96.719
+INTRODUCTION
+Tennis is increasingly recognized as an inclusive sport suitable
+for all ages, providing various physical, mental, and social
+benefits. Its adaptability facilitates participation regardless of
+age or skill level, exemplifying the concept of a “sport for life.”
+This inclusiveness supports public health objectives aimed
+at enhancing physical activity among diverse populations
+(Jackson et al., 2019; Roetert et al., 2016; Spring et al., 2020).
+Engaging in tennis enhances cardiovascular health, aids
+weight management, and improves overall fitness (Jackson et
+al., 2019). Regular participation is associated with improved
+body composition, enhanced metabolic health, and a reduced
+risk of chronic diseases, including cardiovascular issues and
+type 2 diabetes (Oja et al., 2024; Li et al., 2021). Tennis's
+variable intensity offers both aerobic and anaerobic training,
+crucial for sustaining physical activity as individuals age
+(Jackson et al., 2019).
+Mental health benefits associated with tennis are significant.
+Systematic reviews indicate that regular physical activity
+leads to reduced anxiety and depression (Rebar et al., 2015).
+The social aspect of tennis fosters community connections,
+enhancing motivation and enjoyment. This social interaction
+is vital, particularly for older adults, as it combats isolation
+(Rebar et al., 2015). Participation in competitive environments
+also develops mental resilience, contributing to psychological
+well-being (Rebar et al., 2015).
+ABSTRACT
+This article presents a strategic framework for promoting tennis as a sport for life,
+developed by the Education Department of the Portuguese Tennis Federation (FPT).
+Drawing on national experience, scientific literature, and evidence-based principles,
+the paper explores the foundational role of coach education, school-based programs,
+health-oriented initiatives, and inclusive development pathways. It highlights how
+structured training, lifelong learning opportunities, and collaboration with academic
+institutions have strengthened the relevance of tennis across different life stages and
+population groups. Special emphasis is placed on the design and implementation of
+school-based workshops, training for physical education teachers, the adoption of
+blended learning methodologies, and the role of tennis in supporting active ageing and
+public health. This contribution provides a practical roadmap for federations aiming to
+expand the social and health impact of tennis, grounded in applied practice and aligned
+with international recommendations for lifelong physical activity.
+Tennis for Life: A Strategic Framework from the
+Portuguese Coaches Education Department
+Paulo Figueiredo1,2, Rui Machado¹, Hugo Vieira Pereira2,3, Raquel Barreto²
+¹Federação Portuguesa de Ténis. ²CIDEFES – Universidade Lusófona & CIFI2D – Universidade do Porto. ³Hospital da
+Luz, Lisboa.
+Key words: Tennis for Life,
+Coach Education, Strategic
+Development, Public Health
+Received: 30 June 2025
+Accepted: 4 August 2025
+Corresponding author: Paulo
+Figueiredo, paulofigueiredo@
+fptenis.pt
+COACHING & SPORT
+SCIENCE REVIEW
+Modified equipment and flexible formats (singles, doubles,
+mixed) enhance accessibility, allowing broader participation
+(Roetert et al., 2016). This versatility promotes public health
+interventions focused on lifelong physical literacy (Roetert et
+al., 2016).
+Tennis's comprehensive physical and mental health benefits,
+along with its accommodating nature, underscore its
+effectiveness as a lifelong sport. It aligns with public health
+strategies advocating for lifelong activity, emphasizing social
+connection, physical engagement, and mental well-being,
+thereby reinforcing its designation as a sport for life. This
+article outlines a strategic framework for promoting tennis
+as a lifelong sport, drawing on ongoing initiatives led by the
+Coaches Education Department as a practical case study.
+By combining international research with national-level
+implementation, we aim to develop an evidence-based and
+replicable model that other organizations can adopt.
+In recent years, there has been a growing emphasis on the
+role of sports, particularly tennis, in promoting health, social
+integration, and overall well-being across all age groups.
+Research indicates that tennis fulfils key criteria for sustained
+participation in physical activity, including accessibility, skill
+development, social interaction, enjoyment, and challenges
+for physical and mental fitness (Roetert et al., 2016;
+Dombrowski & Hanson, 2021). As a lifelong sport, tennis
+offers unique opportunities for continuous physical activity.
+Studies from various countries, including Australia, the UK,
+and the US, have revealed a correlation between tennis
+participation and elevated levels of physical activity, resulting
+in health benefits such as improved cardiovascular health and
+a decreased mortality risk (Roetert et al., 2016; Dombrowski
+& Hanson, 2021). A systematic review found that tennis
+players exhibit superior cardiovascular fitness and health
+markers, underscoring the advantages of tennis for long-term
+health (Jackson et al., 2019). This highlights tennis's dual role
+in skill development and health promotion.
+Additionally, participation in tennis offers significant
+mental health benefits, linked to reductions in anxiety and
+depression, while fostering a sense of community among
+players (Dombrowski & Hanson, 2021). Research indicates
+that social interactions through tennis enhance psychological
+well-being, reinforcing its dual function as physical activity
+and a facilitator of social health (Dombrowski & Hanson,
+2021). These findings support the inclusion of tennis in
+public health initiatives that promote active lifestyles across
+demographics, emphasizing its effectiveness in promoting
+long-term health and well-being. The evidence substantiates
+the argument that tennis is an optimal candidate for healthpromotion strategies, contributing to physical fitness, mental
+acuity, and social connectivity, thereby fostering an active
+lifestyle from childhood to old age.
+As well as health benefits, tennis also acts as a powerful tool
+for education, social inclusion, and personal growth. The
+use of tennis in therapeutic and rehabilitation settings has
+also increased, with mounting evidence backing its role in
+adapted physical activity for people with physical or cognitive
+disabilities (Bull et al., 2020; Eime et al., 2013).
+Drawing on the initiatives of the Coaches Education
+Department and its collaboration with academic and local
+partners, we explore current initiatives and identify areas
+for future development. This approach emphasizes the
+importance of structured coach education, early promotion
+through schools, social inclusion strategies, and synergies with
+public health policies. The article is not limited to scientific
+evidence alone but also reflects the operational vision of
+a national coaching organization dedicated to increasing
+participation and enhancing the quality of life through tennis.
+Methodological Note
+This article does not follow a traditional empirical research
+design. Instead, it adopts a descriptive and strategic
+perspective based on the experience of the FPT, particularly
+through the work developed by its Education Department. The
+content reflects real programs and initiatives implemented
+over the last decade, supported by scientific literature,
+institutional documentation, coach education curricula, and
+collaborative academic projects. As such, the article presents
+a conceptual framework rooted in practice and aligned with
+international recommendations for lifelong physical activity
+and coaching development.
+COACH EDUCATION AND LIFELONG LEARNING
+Promoting tennis as a lifelong sport necessitates coaches
+who are trained not only in technical and tactical aspects
+but also in psychosocial, pedagogical, and health-related
+dimensions. Coaches must be equipped to work across
+different life stages and adapt their strategies to the needs of
+diverse populations, including children, recreational players,
+older adults, and people with disabilities (Côté & Gilbert,
+2009; Cushion et al., 2010; Lyle, 2002). This signals a global
+shift towards recognizing the coach's interpersonal 'soft
+skills'—such as empathy, communication, and relationshipbuilding—as equally significant as their technical knowledge
+in fostering lifelong participation.
+The national Coaches Education Department has been
+striving to establish a comprehensive coach education
+system aligned with international best practices and the
+guidelines of the International Tennis Federation (ITF) and
+the Instituto Português do Desporto e Juventude (IPDJ). This
+system encompasses the development of national coaching
+certifications (Levels I to III and IV, to be introduced in the
+near future), as well as ongoing professional development
+initiatives, including seminars, workshops, and online
+courses. These programmes cover topics such as adapted
+tennis, youth coaching, beach tennis, physical literacy, and
+athlete monitoring.
+Moreover, the integration of digital learning platforms,
+including the ITF Academy and blended learning models,
+will enable the Department to broaden access to coach
+education. Coaches can benefit from both asynchronous
+and synchronous learning opportunities that reflect the
+complexity of modern coaching, emphasizing not only
+performance outcomes but also player well-being, long-term
+development, and inclusive practice (Nelson et al., 2006;
+Trudel & Gilbert, 2006). In addition to formal education, the
+Department encourages reflective practice and peer learning
+as fundamental components of coach development.
+Key Takeaways for Organizations & Coach Educators:
+•	 Embrace Blended Learning: Combine online modules
+with in-person workshops to increase reach and
+flexibility, especially for coaches in remote areas.
+•	 Diversify CPD Content: Offer continuous professional
+development
+(CPD)
+that
+goes
+beyond
+tactics,
+covering topics like adapted tennis, healthy aging, and
+interpersonal "soft skills".
+•	 Foster Reflective Practice: Create formal and informal
+opportunities for coaches to share experiences and
+learn from one another, building a culture of continuous
+improvement.
+EARLY PROMOTION THROUGH SCHOOLS AND PHYSICAL
+EDUCATION
+One of the most effective ways to position tennis as a lifelong
+sport is to integrate it early within the educational system.
+Introducing tennis during childhood, particularly in physical
+education (PE) classes, can play a vital role in shaping positive
+motor experiences and lifelong physical activity habits (Bailey
+et al., 2009; Kirk, 2005). The early years are crucial for the
+development of fundamental movement skills, which are
+strongly linked to long-term engagement in sport and healthpromoting behaviors (Lubans et al., 2010).
+The Coaches Education Department has developed the
+“Workshops de Ténis Escolar” (School Tennis Workshops),
+a national initiative aimed at promoting tennis in schools
+through collaboration with Regional Tennis Associations,
+schools, and the Ministry of Education. These workshops
+offer PE teachers didactic resources and tennis equipment,
+along with basic pedagogical training based on the ITF’s Play
+& Stay methodology. In addition to traditional tennis, the
+workshops include specific modules for beach tennis and
+adapted tennis, ensuring that inclusivity and accessibility are
+central from the beginning.
+Embedding tennis into the formal physical education (PE)
+curriculum helps democratize access to the sport, breaking
+away from historical associations with exclusivity and
+enabling children to experience tennis without financial or
+logistical constraints. This contributes to more equitable
+opportunities in physical activity and talent identification
+(Hardman & Green, 2011).
+INTEGRATION WITH PUBLIC HEALTH POLICIES AND
+ACTIVE AGEING
+As societies confront the challenges of aging populations
+and sedentary lifestyles, tennis can play a meaningful role in
+addressing public health priorities. Its versatility, adaptability,
+and social nature make it particularly well-suited to support
+healthy aging, mental well-being, and community cohesion
+(World Health Organisation [WHO], 2018).
+In Portugal, the potential of tennis as a health-promotion tool
+is increasingly recognized. Several international studies have
+shown that regular tennis participation is associated with
+reduced risk of cardiovascular disease, improved metabolic
+function, better bone density, and enhanced cognitive health
+in older adults (Booth et al., 2012; Kovacs et al., 2021). The
+intermittent nature of tennis allows for intensity modulation,
+making it suitable for individuals with different functional
+levels (Fernández-Fernández et al., 2009).
+Social engagement is also a key factor in adherence to
+physical activity programs for older adults (Eime et al., 2013).
+By developing partnerships with local governments and
+health promotion entities, national tennis organizations can
+contribute to broader public health goals. This positions tennis
+clubs as ideal partners for emerging public health initiatives,
+such as 'social prescribing', where healthcare providers
+formally refer patients to community-based activities to
+improve well-being and combat non-communicable diseases
+(Husk et al., 2020).
+DIGITAL INNOVATION AND INCREASED ACCESS TO
+EDUCATION
+Digital transformation is reshaping the delivery of sports
+education and development globally (Kirk et al., 2016;
+Padilha et al., 2021). The Coaches Education Department has
+embraced these innovations progressively. Coach education
+has been enhanced through blended learning (B-Learning),
+which
+combines
+in-person
+training
+with
+e-learning
+components. Additionally, the ITF Academy has the potential
+to become a cornerstone resource for tennis professionals at
+all levels.
+Digital tools are also playing an increasingly significant role
+in athlete monitoring, with initiatives involving collaborations
+with universities opening new possibilities for applying
+wearable technologies and workload monitoring. The shift
+to digital has also led to greater interactivity in learning,
+with online quizzes, video feedback, and discussion forums
+encouraging engagement and reflective practice (Salmon,
+2013). This has enabled the Department to design and deliver
+continuous education programs for certified coaches, aligning
+with international trends that emphasize lifelong learning and
+evidence-informed coaching (Côté & Gilbert, 2009).
+SOCIAL INCLUSION AND COMMUNITY IMPACT THROUGH
+TENNIS
+Sport has long been recognized as a powerful tool for social
+inclusion and community development (Coalter, 2007;
+Schulenkorf et al., 2011). The Coaches Education Department
+has made social inclusion one of its priorities and will work
+with municipalities, schools, and social solidarity institutions
+to introduce tennis to communities that may otherwise face
+barriers to participation.
+One of the initiatives has been the delivery of adapted tennis
+programs for individuals with disabilities, aligning with broader
+goals to make sport more accessible (European Commission,
+2020). At a broader level, tennis clubs are increasingly viewed
+as community hubs. Although systematic data on long-term
+impact is still being gathered, early feedback suggests these
+efforts foster a sense of belonging and empowerment. To
+build on this, the Department plans to systematically measure
+the impact of these programs through annual surveys on
+participant well-being and tracking retention rates over
+three-year periods.
+Key Takeaways for Organizations & Clubs:
+•	 Partner Beyond Sport: Collaborate with local health
+units, disability organizations, and social solidarity
+institutions to reach new participants.
+•	 Train for Inclusion: Provide specific training for coaches
+on adapted tennis and inclusive methodologies to ensure
+a welcoming environment for all.
+•	 Act as a Community Hub: Encourage clubs to host social
+events, health screenings, or educational workshops to
+strengthen their role in the local community.
+SUSTAINABILITY AND SOCIAL RESPONSIBILITY IN CLUBS
+The modern sports club is increasingly called upon to assume
+responsibilities beyond athletic development, including
+environmental
+sustainability
+and
+ethical
+governance
+(Doherty et al., 2014). The Coaches Education Department
+has identified sustainability and social responsibility as
+strategic areas for future development. While these actions
+are currently dispersed, the vision is to build a culture of
+responsibility across the entire coaching system. Resources
+such as club certification schemes and training modules
+are instrumental in scaling these efforts (Trendafilova et al.,
+2013).
+To accelerate this shift, the Department could develop
+“sustainability toolkits” for clubs, inspired by the high-profile
+initiatives of Grand Slam tournaments, such as Wimbledon's
+commitment to eliminating single-use plastics or the
+Australian Open's focus on renewable energy. This provides
+clubs with a clear, scalable roadmap. Empowering clubs
+to become agents of sustainability and social cohesion is
+essential to securing the sport’s future relevance in a rapidly
+changing world.
+PHYSIOLOGICAL AND PSYCHOSOCIAL BENEFITS ACROSS
+THE LIFESPAN
+Research has greatly expanded our understanding of tennis's
+lifespan-wide impact. Large-scale studies have shown that
+regular participation is linked to lower all-cause mortality
+(Oja et al., 2015). The sport's intermittent nature improves
+cardiovascular function (Bailey et al., 2017), muscular
+strength (Fernandez-Fernandez et al., 2009), bone density
+(Vlachopoulos et al., 2018), and balance (Gomes et al., 2022).
+Beyond the physical, tennis stimulates executive functioning
+(Zhu et al., 2022) and provides emotional benefits, including
+stress relief and improved mood (Chodzko-Zajko et al.,
+2009). The sport also fosters a strong sense of identity and
+continuity, contributing to a positive self-concept and a sense
+of belonging throughout the aging process (Stenner et al.,
+2019). Recent public health perspectives emphasize tennis as
+a tool for active aging and inclusive wellness programming
+(Kirk & Rhodes, 2020).
+UNIVERSITY
+PARTNERSHIPS
+AND
+KNOWLEDGE
+TRANSFER
+The Coaches Education Department has actively pursued
+collaboration with academic institutions, recognizing that
+partnerships with universities represent a strategic asset for
+innovation and evidence-based practice. Universities such as
+the Faculty of Human Kinetics (FMH), Universidade Lusófona
+in Lisbon, and the University of Porto play a significant role in
+educating future tennis coaches (Correia et al., 2022).
+Several collaborative research projects have emerged,
+addressing themes such as training load monitoring and heart
+rate variability (HRV) in youth tennis players (Figueiredo
+et al., 2025). The Department acts as a conduit between
+research and practice. A recent prime example of this synergy
+was a high-profile webinar on the Constraints-Led Approach,
+co-hosted by the FPT, the ITF, and leading researchers from
+the Faculdade de Motricidade Humana (Araújo et al., 2024),
+making cutting-edge pedagogical science accessible to the
+national coaching community. This model of Federation,
+University, and coaching organization synergy provides a
+replicable structure for other national coaching entities
+seeking to bridge the gap between science and practice.
+Key Takeaways for Organizations & Researchers:
+•	 Establish Formal MoUs: Create formal Memorandums
+of Understanding with university sports science
+departments to structure collaboration.
+•	 Facilitate Knowledge Transfer: Organize regular seminars
+where researchers and PhD students present practical,
+accessible findings to national and club-level coaches.
+•	 Co-Develop Resources: Work with academic partners
+to create evidence-based coaching manuals, online
+modules, and educational materials.
+LIMITATIONS AND FUTURE DIRECTIONS
+This article reflects the strategic direction and initiatives led
+by the Education Department of FPT in promoting tennis
+as a lifelong sport. While it provides a structured overview
+grounded in current practice, it does not represent an
+Table 1
+The FPT Education Department’s 10-Part Strategic Framework for Promoting Tennis for Life.
+Strategic Area
+Key Focus
+Coach Education
+National certifications, continuous professional development, blended learning,
+ITF Academy
+School-Based Promotion
+PE teacher training, curriculum resources, early access in schools
+Health & Active Ageing
+Programs aligned with WHO, promoting lifelong physical activity
+Inclusive Development
+Adapted tennis, coach education on disability inclusion
+Digital Innovation
+Online learning tools, remote education, monitoring (emerging)
+Sustainability & Responsibility
+Ethical club practices, sustainability awareness
+University Partnerships
+Joint research, academic integration, scientific events
+Public Health Integration
+Tennis in national health strategy, preventive health value
+Community Engagement
+Club outreach, local partnerships, access in underserved areas
+Strategic Vision
+Long-term planning, program integration, global replicability
+exhaustive account of all FPT initiatives or those of other
+departments, such as Technical and Development. The
+perspective presented here is intentionally focused on coach
+education, school-based promotion, and lifelong learning.
+As the FPT continues to grow its tennis-for-life strategy,
+future work will benefit from closer integration with data
+monitoring systems, long-term participant tracking, and
+broader interdepartmental collaboration. Ongoing academic
+partnerships will play a key role in strengthening the evidence
+base and guiding implementation. Further exploration of
+outcomes related to retention, public health impact, and
+inclusive participation will enhance the strategic roadmap
+presented in this article.
+CONCLUSION
+The Coaches Education Department is increasingly committed
+to developing tennis as a lifelong sport. This article has
+outlined a realistic and strategic pathway that integrates
+early promotion, inclusive coach education, and evidencebased practice through strong academic and community
+partnerships. Rather than presenting a static snapshot, this
+contribution reflects a dynamic, evolving model of national
+sports governance related to coaching. The synergy between
+the Coaches Education Department, academia, and local
+communities is central to this process. As the challenges of
+physical inactivity and social fragmentation continue to grow,
+the Portuguese experience suggests that a national tennis
+coaches' education department, when supported by sound
+policy and academic partnerships, can lead transformative
+change for individual and public well-being.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they have no conflict of interest and
+did not receive any funding to conduct the research.

@@ -1,0 +1,282 @@
+Title: A routine combining motivational self-talk and mental imagery improves service performance
+Authors: Laurent Dominique, Nicolas Robin
+Year: 2024
+Issue: Vol. 32 No. 92 (2024)
+Article id: 462
+
+ABSTRACT
+The aim of this study was to test the effects on the performance of experienced tennis
+players of a service pre-performance routine consisting of internal motivational
+discourse combined with mental imagery centred on the trajectory of the ball and the
+target zone to be reached in the service box. Twenty-seven male players (M = 17.5 years)
+from the second series (ranked between 5/6 and 3/6), who had been playing tennis for
+more than 10 years, volunteered to take part in this experiment. The participants were
+divided into 3 groups (control, discourse, and discourse + imagery) and carried out 3
+phases: Pre-test (20 serves in playing condition), Acquisition: 16 sessions (warm-up +
+20 serves + super tie-break), Post-test (20 serves in playing condition). The percentage
+of success, speed and efficiency of the serves were measured at the Pre- and Post-tests
+and served as dependent variables for statistical analyses (repeated measures ANOVAS).
+The results of this study show a further improvement in serve performance when
+internal motivational discourse is combined with mental imagery. We recommend that
+experienced tennis coaches and players use internal self-talk as well as imagery in their
+pre-serve performance routines.
+INTRODUCTION
+Coaches and athletes recognise the value of using mental
+strategies, such as internal discourse and mental imagery, to
+improve performance in racquet sports (Cece et al., 2020;
+Crespo, Reid & Quinn, 2006; Robin et al., 2023). According to
+Latinjak et al. (2019), internal discourse refers to externalized
+or internalized verbalizations that tennis players address
+to themselves. These verbalisations can be spontaneous
+(uncontrolled) or strategic (linked to a predetermined
+objective) as mentioned by Van Raalte et al. (2016). Strategic
+internal discourse is a deliberate mental technique frequently
+used by practitioners to optimise performance by means of
+its cognitive function, which is generally technique-oriented
+(e.g., "Straighten your arm", "Bend your legs", "I have to finish
+my gesture") and which will help guide the execution of
+movements in beginners (Boudreault et al., 2016). Internal
+discourse can also be used to regulate the emotions of more
+experienced players through its motivational function (Fristch
+et al., 2020). For example, internal motivational discourse can
+be used to pro-actively or reactively regulate emotions (e.g.,
+"Enjoy playing"), motivation ("Go ahead", "You can beat him")
+or effort ("I'm going to keep up", "I'm going to win the next
+set"), which is why it is so useful in training and especially in
+competition (Grammatika et al., 2008).
+www.itfcoachingreview.com
+April 2024. 32th Year. Issue 92. 10-13
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i92.462
+A routine combining motivational self-talk and
+mental imagery improves service performance
+Laurent Dominique1 & Nicolas Robin²
+¹IRISSE Laboratory (EA 4070), UFR des Sciences de l'Homme et de l'Environnement, Département STAPS, Université
+de la Réunion, Le Tampon, France.
+²ACTES Laboratory (EA 3596), Université de La Réunion, Faculté des Sciences du Sport, Saint-Denis, France
+Université des Antilles, Faculté des Sciences du Sport, Pointe-à-Pitre), France.
+Key words: tennis, service, mental
+simulation, internal discourse.
+Received: 5 July 2023
+Accepted: 8 December 2023
+Corresponding author: Laurent
+Dominique. Email: laurent-dom@
+hotmail.fr
+Other authors such as Robin and Dominique (2022) have
+recently shown that tennis players also frequently use other
+strategies such as mental imagery, which consists of mentally
+simulating a motor action, such as serving, to improve
+performance. This mental technique can be integrated into
+motor performance routines (Dominique et al., 2021; Le
+Scanff, 1999) to shift players' attention to elements other
+COACHING & SPORT
+SCIENCE REVIEW
+than movement technique, such as the trajectory of the ball
+(Guillot et al., 2013), and make it easier to trigger movements
+under conditions that are as standardised as possible, hence
+its usefulness for serving (Dominique, 2005). Numerous
+studies have shown the positive effects of mental imagery as a
+complement to the actual execution of motor actions in racket
+sports (Cece et al., 2020) and particularly in tennis (Robin &
+Dominique, 2022). In addition, other authors have suggested
+that there would be additional beneficial effects if mental
+imagery were combined with other mental strategies such as
+internal self-talk (Dohme et al., 2020; Mamassis & Doganis,
+2004) and if they were integrated into pre-performance
+routines constructed during training and used in competition
+(Robin et al., 2023).
+The aim of this study was to evaluate the potentially beneficial
+effects of a service pre-performance routine consisting
+of internal motivational discourse combined with mental
+imagery (based on the trajectory and target to be reached)
+on the performance of first service balls in match situations.
+We began by hypothesising that the players who benefited
+from the internal motivational discourse would perform
+better than the players in the control group. Secondly, even
+better performance should be obtained by players using the
+combination of internal discourse and mental imagery before
+serving.
+METHOD
+27 male tennis players (Mage = 17.5 ± 1.6 years), second series
+(French rankings between 5/6 and 3/6 corresponding to the
+US 5.0 ranking), volunteered to take part in this experiment.
+They had been playing tennis for more than 10 years and
+regularly took part in regional competitions in Réunion and
+national competitions in mainland France. The participants
+were randomly divided into 3 experimental groups (control,
+self-talk, and self-talk + imagery). All the players completed
+the movement imagery questionnaire (MIQ-3f, Robin et al.,
+2020) to check that none of them had difficulty with mental
+imagery. The MIQ-3f differentiates imagery abilities for the
+internal visual, external visual and proprioceptive modalities.
+It consists of 12 items (4 per type of imagery), involving
+the actual execution of simple movements of the arms,
+legs and whole body, followed by mental imagery of these
+same movements. The internal visual, external visual and
+proprioceptive imagery capacities of each item, performed
+and then mentally simulated, were assessed using 7-point
+Likert scales (ranging from 1 "very difficult to imagine or feel"
+to 7 "very easy to imagine or feel"). The experiment, approved
+by the ethics committee of the ACTES laboratory at the
+Université des Antilles, was conducted in accordance with the
+latest version of the Declaration of Helsinki.
+PROCEDURE
+After the consent form had been signed by the adult players,
+or their legal representatives in the case of minors, the
+participants completed the MIQ-3f questionnaire (Robin et
+al., 2020), then took part in 3 experimental phases (see Figure
+1) on outdoor hard courts at the "Team Run Elite" of the Tennis
+Club Dyonisien de la Réunion.
+The first phase, or Pre-Test, consisted of all the tennis
+players performing 20 serves in match conditions (super
+tie-break) with new balls (Head Tour XT). The second, or
+Acquisition phase, consisted of 16 sessions, with 2 sessions
+per week. Each session, lasting 40-45 minutes, consisted of
+a standardised 20-minute warm-up followed by 20 serves
+under match conditions with new balls lasting around 20
+minutes. The players in the control group were instructed
+to perform the serves only physically. Participants in the
+discourse group were asked to use a positive motivational
+phrase (e.g., "I'm going to succeed", "Go ahead", "You can do it",
+"Serve well and win the point") before completing each serve.
+Finally, the players in the self-talk + imagery group were asked
+to imagine themselves using an external visual modality (i.e.,
+seeing themselves in the third person as if they were being
+filmed with a camera) making a successful serve by visualising
+the trajectory of the ball and the target zone they wanted to
+reach in the opponent's service box (for a similar procedure,
+see Dominique et al., 2021), while using the motivational selftalk. The last phase, or Post-test, was like the Pre-test and was
+also carried out with new balls (Head Tour XT).
+The participants' performances during the pre- and post-tests
+were filmed with two cameras (Canon HD Legria HF G25,
+Tokyo, Japan). The two cameras were positioned respectively
+on the right and left of the baseline, 4 m from the doubles
+touchline (for a similar procedure see Robin et al., 2022).
+The percentage of success (i.e. bounce of the service ball in
+the target square), the speed of the service ball (measured
+with an SR 3600 radar gun) and the efficiency of the services
+(scores ranging from "0" for a ball in the net to "5" for an ace,
+assessed by two BEES1 and DESJEPS Tennis experts) were
+Figure 1. Experimental sequence.
+measured in the Pre- and Post-tests. The experts carried
+out the assessments independently and then met to reach a
+consensus on the rare cases of non-similarity (only 2% of the
+efficiency scores of the services concerned). After checking
+their normality (Kolmogorov-Smirnov test), the dependent
+variables were subjected to repeated-measures ANOVAS.
+Post-hoc analyses were performed using the Newman-Keuls
+test and an alpha threshold of .05 was used.
+RESULTS
+None of the players, and in particular the participants in
+the self-talk + imagery group, had any difficulty with mental
+imagery (all mean scores on the MIQ-3f were above 3.7/7;
+Robin & Blandin, 2021).
+The ANOVA carried out on the speeds of the first service balls
+showed no significant difference between the performances
+of the control (M = 154.5 km/h), self-talk (M = 156.3 km/h)
+and self-talk + imagery (M = 157.1 km/h) groups between
+pre-test and post-test and between the experimental groups
+at post-test (all p > .05).
+The statistical analysis carried out on the service success
+percentages showed that only the self-talk and selftalk + imagery groups improved their first serve success
+percentages, by 8% and 12% respectively, between the
+pre-test and the post-test (all p < .05) whereas those of the
+players in the control group were not statistically different
+between the tests (45% in the pre-test and 48% in the posttest as shown in Figure 2). In addition, players in the self-talk
++ imagery group obtained a better percentage of success (M
+= 59%) than participants in the self-talk group (M = 54%) and
+those in the control group (M = 48%), at the post-test (all p <
+.05).
+Figure 3. Efficiency scores for the first service balls, calculated on the
+basis of pre-test and post-test performance, for the experimental groups
+(control, self-talk, self-talk + imagery) (* p < .05).
+DISCUSSION
+The aim of this study was to evaluate the effects of a service
+routine involving a combination of internal motivational
+discourse and mental imagery on the first serve performance
+of experienced tennis players.
+Initially, the results of this study show a beneficial effect of
+positive motivational internal discourse on the percentage
+of successful first service balls, whereas that of players in
+the control group remained stable. These results, which
+validate our first hypothesis, also confirm the results of
+previous studies that have shown beneficial effects of internal
+discourse on sports performance (Boudreault et al., 2016;
+Theodorakis et al., 2000), particularly in tennis (Fristch et al.,
+2020; Robin et al., 2022). As mentioned by Landin and Hebert
+(1999), we could envisage that positive motivational internal
+discourse would increase players' self-confidence, which
+would enable them to increase their percentage of successful
+first service balls. Although the use of internal discourse with
+a positive valence is recommended (Zourbanos et al., 2006),
+negative discourse could be beneficial to the performance of
+certain players, at certain moments in the match, because it
+would allow them to release tension (Van Raalte et al., 2000).
+We therefore recommend that coaches and trainers work
+with the players to determine which expressions should be
+used as internal discourse.
+Secondly, the results of our experiment show that the tennis
+players who used motivational internal discourse combined
+with mental imagery not only had higher service efficiency
+scores than the players in the control group, but also obtained
+a higher percentage of successful first service balls than the
+participants in the control group and the motivational internal
+discourse group. These results, which validate our second
+hypothesis, confirm the value of combining mental techniques
+in tennis (Dohme et al., 2019; Robin et al., 2021; 2022; 2023),
+particularly when they are integrated into pre-performance
+routines (Dominique et al., 2021). As mentioned by Hardy
+(2006), it is possible that internal motivational discourse, used
+in combination with mental imagery, would increase tennis
+players' self-confidence. In addition, we could also envisage
+that the positive phrases used by players accompanying the
+simulation of a good serve, in their heads, would give them an
+advantage during matches by increasing their feeling of selfefficacy (Chang et al., 2014). Further research will soon be
+carried out in our laboratory to test this hypothesis.
+Figure 2. Percentage of first serve success achieved by players in the
+experimental groups (control, self-talk, self-talk + imagery), in the pretest and post-test (* p < .05).
+The analysis carried out on the effectiveness scores of the
+services revealed that only the self-talk and self-talk +
+imagery groups significantly improved their performance
+(all p < .05) between the pre-test (M = 2.23; M = 2.24) and
+the post-test (M = 2.71; M = 2.73 respectively), whereas the
+average effectiveness score of the players in the control group
+remained stable (p > .05) as shown in Figure 3. In addition,
+players in the self-talk and self-talk + imagery groups obtained
+better scores (M = 2.71 and M = 2.73 respectively) than those
+in the control group (M = 1.98), at Post-test (all p < .05).
+It is important to stress that this study is not without its
+limitations. In fact, the pre- and post-tests were carried out
+under training conditions and not in an official match; this is
+why further research is needed to test the effects of imagery
+and/or internal self-talk in a real competition situation. In
+addition, the fact that the speeds of the first balls measured
+were relatively low (around 150 km/h) may lead us to
+question the degree of accuracy of the radar gun, which was
+nevertheless one kilometre per hour, but also the degree of
+expertise of the participants in this study. It would therefore
+be appropriate to carry out similar research with players on
+professional circuits.
+CONCLUSION
+The results of this experiment, carried out with experienced
+players, show a further improvement in first serve
+performance when motivational internal self-talk is combined
+with motor imagery. We recommend that experienced tennis
+coaches and players use internal discourse combined with
+mental imagery in their pre-performance routines on the
+serve, first in training and then in matches. To optimise the
+effects of these techniques, we suggest on the one hand
+developing the players' imagery skills by gradually integrating
+mental imagery into training sessions and on the other
+hand determining individually the expressions to be used as
+internal discourse. From a research perspective, we suggest
+directing attention towards the players' preferred imagery
+modalities (i.e. internal visual, external visual or kinaesthetic,
+or even a combination of several of them) that would be used
+during mental simulations of the services.
+CONFLICT OF INTEREST AND FINANCING
+We have no conflicts of interest to declare and this study was
+not funded.
+ACKNOWLEDGEMENTS
+We would like to thank all the tennis players who agreed to
+take part in this study.

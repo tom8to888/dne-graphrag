@@ -1,0 +1,592 @@
+Title: A delphi study on the key skills of tennis champions
+Authors: Filip Milosovski, Ana Milosovska
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 703
+
+ABSTRACT
+Research was conducted during an internship program at Tennis Australia headquarters
+from November 2024 to February 2025, supporting Tennis Australia's goal of developing
+top-level tennis players. The work analyses the skills and techniques of three of tennis’s
+greatest players, Roger Federer, Rafael Nadal and Novak Djokovic, using the Delphi
+method. Selected for their exceptional achievements and dominance in the sport, the
+study uses a structured Delphi survey to assess their skills and identifies the key factors
+that have contributed to their success. The findings can help enhance tennis coaching
+programs by integrating key skills essential for developing elite players and future
+champions. Eventually, producing more top players can strengthen fan engagement and
+attract greater sponsorship opportunities.
+INTRODUCTION
+Tennis Australia’s National Strategy drives the growth and
+success of tennis across the country. Central to this is the
+Tennis Australia Vision, which promotes participation,
+develops elite players and strengthens tennis communities.
+A key initiative supporting this vision is the Tennis 2020:
+Facility Development and Management Framework, designed
+to enhance facility planning, infrastructure and management
+nationwide. This unified approach aims to produce more
+active players, world-class champions, passionate fans and
+stronger communities, reinforcing tennis as a leading sport in
+Australia (Tennis Australia, 2024).
+To support the objective of developing more tennis
+champions, a summer 2024–2025 internship at Tennis
+Australia applied the Delphi method to analyse the skills
+and techniques of Roger Federer, Rafael Nadal and Novak
+Djokovic. These players were selected for their exceptional
+records and sustained dominance, having set benchmarks
+that define success at the sport’s highest level. The Delphi
+method was chosen for its ability to structure expert input,
+enabling a thorough evaluation of each player's strengths and
+techniques. By engaging a panel of tennis experts, the study
+aimed to identify key factors contributing to the players'
+remarkable careers.
+The findings aim to inform a more targeted and effective
+approach to player training, helping players reach their full
+potential and compete at the highest level internationally.
+www.itfcoachingreview.com
+December 2025. 33rd  Year. Issue 97. 13-21
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i97.703
+A delphi study on the key skills of tennis
+champions
+Filip Milosovski¹ & Ana Milosovska²
+¹The University of Melbourne. ²Tennis World - Australian National Tennis Centre.
+Key words: Delphi Method,
+systems engineering, highperformance, competencies,
+coaching.
+Received: 29 March 2025
+Accepted: 8 May 2025
+Corresponding author: Filip
+Milosovski - fmilosovski@student.
+unimelb.edu.au
+RESEARCH METHODS
+In the 1970s, Dobrov (1971) identified over 130 distinct
+methods for scientific decision-making, grouped into three
+main categories.
+1.	Trend Interpolation Methods - Predict future conditions
+using historical trends,
+2.	Simulation Methods - Model system behaviour under
+variable conditions, and
+3.	Convergent Concordance Methods (Intuitive Methods)
+- Rely on consensus among respondents to forecast
+outcomes.
+The first two methods have limitations in specific scenarios,
+leading to the development of intuitive methods. These
+methods combine data, strategic goals and forecasting,
+emphasising intuition and interdisciplinary approaches in
+decision-making. Key intuitive methods include (Milosovski
+et al., 2009):
+•	 Forecasting by Individual Experts, which depends on
+a single expert’s knowledge, but can be limited by the
+complexity of events;
+•	 Group
+Forecasting
+(Brainstorming), which fosters
+collective expertise and consensus-building, but may be
+influenced by dominant personalities; and
+•	 Group
+Forecasting
+(Individual
+Opinions),
+where
+expert inputs are individually gathered, analysed and
+synthesised to reach an agreement.
+COACHING & SPORT
+SCIENCE REVIEW
+The Delphi method allows experts to share and reconsider
+their opinions based on group feedback. The process
+continues through several rounds until consensus or stability
+is achieved, with all participants contributing to gaining
+knowledge.
+The results of the Delphi technique reflect expert opinions
+based on current conditions and should be periodically
+reviewed and updated.
+Delphi Method Procedure
+The main steps of the Delphi technique are summarised
+below (Milosovski et al., 2009).
+•	 Designing the Questionnaire: The research team/
+working group creates an initial questionnaire with
+numerical scale-based questions, offering flexibility in
+choosing the scale size for ranking factors.
+•	 Collecting
+Responses:
+Experts
+complete
+the
+questionnaire, and the research team summarises their
+responses.
+•	 Revising the Questionnaire: Based on the responses, a
+revised questionnaire is developed and sent back to the
+experts for further input.
+•	 Iterative Rounds: Experts reassess their responses based
+on group feedback. This iterative process continues as
+needed to refine the results.
+•	 Finalising the Results: After typically three rounds, the
+process concludes with a final report summarising the
+objectives, methodology and findings of the Delphi
+exercise.
+The Delphi method is defined by three key features (Quade,
+1972):
+•	 Anonymity:
+Experts’
+responses
+are
+independent
+and anonymous, with no communication between
+participants. Opinions are presented statistically to
+ensure anonymity until the process ends.
+•	 Iterative process and feedback: The procedure is
+repeated multiple times, with feedback refining opinions
+toward mutual consensus.
+•	 Collective expert opinion: The result represents a
+collective consensus, with individual opinions not
+revealed during the process.
+The
+Delphi
+technique
+involves
+teamwork
+and
+an
+interdisciplinary approach. It facilitates expert communication
+and opinion refinement through multiple rounds of feedback,
+all managed by the research team. The results are valuable
+for system improvements, strategic planning and forecasting.
+The Delphi Method: Mathematical Models - Criteria of
+Objectivity
+The primary goal of the Delphi technique is to reach a high
+level of agreement among experts. This is done through
+multiple rounds of feedback, which help to align and refine
+the experts’ opinions.
+To ensure objectivity, the Delphi method typically involves
+two key phases for analysing expert opinions (Milosovski et
+al., 2009):
+In recent decades, several intuitive methods have been
+developed, with the Delphi technique being one of the most
+successful (Quade, 1972). Originally used for forecasting,
+it is now also applied to group estimation for creating
+forecasts or setting priorities (Harold & Murray, 1975). The
+Delphi technique is widely used in fields such as economics,
+engineering and medicine for technological forecasting and
+prioritisation (Chorafas, 2002 & Mason et al., 2022).
+The Delphi technique has been widely discussed and
+applied in over 2,600 scholarly papers since its introduction
+(Flostrand et al., 2020), demonstrating its growing popularity
+and effectiveness in collecting expert insights. A time series
+of publications reveals increasing academic acceptance and
+expansion across various research domains over the past two
+decades, with a predicted rise in use in the future.
+In April 2021, the term 'Delphi method' had 28,200 search
+hits in Google Scholar from 2016 to 2021, reflecting its
+importance (Beiderbeck et al., 2021). With rapid technological
+and social changes creating more uncertainty, collective
+expert opinions are expected to become even more valuable
+in addressing complex global challenges.
+The following section explains the Delphi technique’s
+definition, procedure and distinctive features, showing its
+relevance as a strategic decision-making tool.
+The Delphi Method: Origins and Applications
+The Delphi method, named after the Greek Oracle of Delphi,
+is a valuable technique for setting priorities to improve and
+develop complex systems (Kennedy, 2004 & Sandelowski,
+2000).
+The Delphi technique originated at the RAND Corporation,
+with its early foundations found in the 1949 article "Prediction
+for Social and Technological Events" by Kaplan, Skogstad and
+Girshick, which introduced statistical analysis of individual
+opinions (Milosovski et al., 2009).
+Dalkey and Helmer played a key role in refining and popularising
+the method. In 1963, they published "An Experimental
+Application of Delphi Method to the Use of Experts", which
+helped expand its use. The technique spread from the U.S.
+to Europe and Asia, becoming widely recognised in various
+scientific fields. In 1969, Japan’s Science and Technology
+Agency used the Delphi technique to forecast technological
+advancements by the year 2000, surveying 4,000 individuals
+(Ferguson, 2000).
+Initially, the Delphi technique was used to forecast international
+events and scientific-technological advancements (Harold &
+Murray, 1975). Today, the Delphi technique is used not only
+for forecasting but also for systematically gathering expert
+opinions to predict developments in technology and other
+areas (Soobiah et al., 2019 & Strafford et al., 2022).
+The Delphi method involves organising expert opinions and
+requires an interdisciplinary approach to address complex
+systems. It is also known as the "group estimation method," as
+it restructures group communication to formulate predictions
+or priorities (Tooth et al., 2024). The method is crucial for
+making strategic decisions on technological innovations and
+developments, as it allows unrestricted expert input, helping
+to resolve divergent opinions and reach consensus (GijonNogueron et al., 2022 & Mason et al., 2022).
+4.	Assessing expert competency;
+5.	Calculating coefficient of concordance (Ck) of expert
+opinions.
+These phases help to ensure that the results of the Delphi
+process are both reliable and reflective of expert consensus.
+Refer to Milosovski et al. (2009) for a detailed discussion of
+the advantages and limitations of the Delphi method, as well
+as the mathematical model used to assess expert competency
+and calculate the coefficient of concordance (Ck) of expert
+opinions.
+DELPHI METHOD APPLICATION
+Development of the Delphi Questionnaire
+A questionnaire was developed to assess the tennis skills of
+Roger Federer, Rafael Nadal and Novak Djokovic. A range of
+books, reports and papers were consulted for input, with the
+primary source being the book Coaching Tennis: Technical
+and Tactical Skills (Figure 1), endorsed by the United States
+Tennis Association (USTA) (Anderson, 2003). This book offers
+a summary of coaching techniques and provides valuable
+guidance on evaluating technical and tactical tennis skills,
+forming the basis for the questionnaire.
+The credibility of the findings from the Delphi survey is
+supported by the expertise and professional standing of the
+participating panel. The respondents were nominated through
+Tennis Australia’s Head Office and comprised ten highprofile coaches and tennis professionals recognised for their
+contributions to the sport at both national and international
+levels. The panel included individuals holding senior roles
+within Tennis Australia’s coaching and talent development
+systems, such as Directors of Coaching, National Program
+Managers, State Development Coaches and former highperformance coaches with ATP/WTA experience. Collectively,
+the group brought decades of elite coaching experience and
+formal coaching accreditations.
+Delphi Method Methodology
+In the first round, experts provided responses, which were
+summarised and used to create a revised questionnaire for
+the second round. The process concluded after two rounds,
+as the results were sufficiently clear, making a third round
+unnecessary.
+Following the survey, data analysis commenced. Due to
+strong agreement on many factors, statistical analysis of
+expert competency was deemed unnecessary. Moreover,
+the coefficient of concordance was calculated only for the
+evaluation of Group 1 factors (stroke techniques), as the other
+groups exhibited similar rankings and consensus, rendering
+further analysis redundant.
+RESULTS
+Group 1 Factors: Strokes Evaluation
+For the first group of factors, experts evaluated a player's
+strokes at the peak of their career. The factors were ranked
+on a scale from 1 to 5:
+•	 Pro Level (1): High professional skill.
+•	 Superior (2): Above-average professional skill.
+•	 Outstanding (3): Exceptional performance.
+•	 One of the Best (4): Among the top players.
+•	 Best Ever (5): The highest level of skill in tennis history.
+Table 1 presents the experts' rankings of the players' strokes.
+Figure 1. Primary Source Used for Delphi Questionnaire
+Development
+The questionnaire has two parts. The first part evaluates the
+technical, tactical and physical aspects of each player's game
+through six factor groups, each paired with a question to
+assess their tennis abilities. These factors provide a detailed
+breakdown of the skills essential for success in professional
+tennis, allowing experts to assess each player's strengths and
+potential weaknesses. The second part includes two openended questions on players' integrity and unique qualities,
+examining their personas and playing styles to define their
+elite status and global impact.
+Table 1
+Expert group opinions on stroke techniques
+Table 2
+Testing non-randomness of the coefficient of concordance (Ck)
+Table 2 presents the coefficient of concordance (Ck) for each player’s stroke technique, calculated per Milosovski et al. (2009)
+with a 95% confidence interval for reliability.
+For each player, the condition |χ^2 |>χ_critical^2 confirms the rejection of the null hypothesis, indicating that the coefficient of
+concordance (Ck) is not random and reflects strong expert consensus.
+Figure 2 further illustrates the distribution of average ranks assigned by experts for each of the 15 strokes of Federer, Nadal
+and Djokovic. The vertical axis shows the rank (from 1 to 5) assigned to a tennis stroke by experts, while the horizontal axis
+shows how many times each rank was selected. The results indicate that their stroke skills consistently fall within the top three
+categories: Outstanding (3), One of the Best (4) and Best Ever (5). This suggests that none of the three players exhibit average
+strokes or technical weaknesses, highlighting their exceptional proficiency across all aspects of stroke play.
+Figure 2.  Average Rank Distribution for Tennis Strokes. (1 - Pro level, 2 – Superior, 3 – Outstanding, 4 – One of the Best, 5 – Best Ever)
+In addition, Figure 3 displays the mean values for each stroke
+per player in a three-dimensional chart, with the rankings of
+Federer, Nadal, and Djokovic on the axes, showing that all
+strokes rank highly, confirming their exceptional technical
+performance.
+Group 1 Factors: Strokes Evaluation – Cluster Analysis
+Additionally, a cluster analysis of expert stroke evaluations
+was conducted for each player using the 3-means algorithm
+as a partition-based method (King, 2015), based on Table 1
+results.
+Table 3 presents the clustering outcomes, categorising stroke
+techniques into three groups, with the Top-Ranked Cluster
+containing the highest-ranked and most effective strokes.
+Figure 3.  Expert Opinions on Tennis Strokes of Federer, Nadal and
+Djokovic. (1 - Pro level, 2 – Superior, 3 – Outstanding, 4 – One of the Best,
+5 – Best Ever).
+Figure 4 summarises the top average ranks assigned by
+experts for each of the 15 evaluated strokes. The analysis
+reveals that for every stroke, at least one player, Federer,
+Nadal or Djokovic, is rated in the highest range (One of the
+Best to Best Ever, ranks 4-5).
+Figure 4.  Expert Ratings of Top Strokes.
+As detailed above in Table 1 and Figure 3, expert evaluations
+identified several strokes as exceptionally strong, particularly:
+•	 Djokovic’s passing shot (stroke No. 8) – Average rank:
+4.6
+•	 Federer’s backspin/slice (stroke No. 6) – Average rank:
+4.7
+•	 Nadal’s forehand (stroke No. 4) – Average rank: 4.8
+Additionally, perfect scores of 5 (Best Ever) were awarded to:
+•	 Nadal’s groundstroke from deep in the court (stroke No.
+15)
+•	 Djokovic’s serve return (stroke No. 3)
+•	 Djokovic’s backhand (stroke No. 5).
+Table 3
+Clustering Results of Stroke Techniques for Each Player.
+Federer's top-ranked cluster included the first serve,
+second serve, volley, forehand, approach shot, half volley,
+overhead (smash) and backspin (slice). This collection of
+strokes emphasised Federer’s focus on offensive techniques,
+reflecting his aggressive playing style and ability to dominate
+at the net and in fast rallies.
+Nadal’s top-ranked cluster included passing shots, forehand
+and deep groundstrokes, which showed his strategy of
+controlling rallies and countering opponents effectively.
+The emphasis on passing shots and deep groundstrokes
+highlighted his defensive skills and ability to outlast opponents
+in extended rallies, while his forehand was a powerful weapon
+that strengthens both his attack and defence.
+Djokovic's top-ranked cluster included the serve return,
+passing shot, backhand and deep groundstroke. These strokes
+reflected Djokovic's strategy of maintaining control and
+consistency in rallies, while also showing his ability to counter
+opponents effectively. His proficiency in serve returns and
+passing shots, combined with his strong backhand and deep
+groundstrokes, emphasised his consistent and reliable game
+in different situations.
+Group II Factors: Technical/Tactical Skills Evaluation
+For the second group of factors, experts evaluated a player's
+technical/tactical skills, at the peak of their career. The
+factors were ranked on a reduced scale from Pro Level (1)
+to Outstanding (3), using the same definitions as for the first
+group.
+As shown in Table 4, Federer, Nadal and Djokovic all received
+a perfect score of 3 for 'Outstanding,' reflecting their mastery
+of shot selection, footwork and recovery, key elements of
+their long-term dominance in the sport.
+Group III Factors: Tactical Skills Evaluation
+For the third group of factors, experts evaluated a player's
+tactical skills across eleven shots at the peak of their career.
+The factors were ranked on a scale from Pro Level (1) to
+Outstanding (3), using the same definitions as for the first
+group.
+Table 5 presents the experts' evaluations of players' tactical
+skills.
+The results show that all three players demonstrate strong
+tactical skills, with Nadal and Djokovic consistently earning
+the highest ratings (a perfect score of 3) in most categories.
+Federer also scores highly, but has slightly lower ratings in
+certain areas, such as defending against aggressive baseline
+players (2.6) and keeping the ball in play (2.3).
+Notable differences include:
+•	 Aggressive serve-and-volley: Federer (2.7) scores higher
+than Nadal (1.6) and Djokovic (1.4), suggesting a greater
+emphasis on this tactic in his playstyle.
+•	 Keeping the ball in play: Nadal and Djokovic (3.0)
+outperform Federer (2.3), reflecting their strong
+defensive capabilities.
+•	 Defensive play: Nadal and Djokovic score higher in
+defending against aggressive baseline players and serveand-volley tactics.
+Overall, Nadal and Djokovic appear to have a more consistent
+tactical approach across different play styles, while Federer
+shows a distinct preference for attacking tactics.
+Group IV Factors: Spin Application Evaluation
+For the fourth group of factors, experts assessed the level
+of spin a player applied to their shots at the peak of their
+career. The factors were ranked on a scale from Pro Level (1)
+to Outstanding (3), using the same definitions as for the first
+group.
+Table 6 presents the expert group's opinions on the spin
+levels applied to players’ shots. The table shows that Nadal
+and Djokovic are highly proficient in topspin, both scoring 3.0,
+while Federer demonstrates more versatility with backspin
+and sidespin, also scoring 3.0.
+Group V Factors: Shot Control Evaluation
+For the fifth group of factors, experts assessed the level of
+control a player applied to their shots at the peak of their
+career. The factors were ranked on a scale from Pro Level (1)
+to Outstanding (3), using the same definitions as for the first
+group.
+Table 7 presents the expert group’s evaluations of the control
+applied by players to their shots across four key areas.
+All three players received high ratings in shot angles (2.9),
+with Nadal leading in shot height (3.0). Nadal ranked higher
+in shot speed, while Djokovic performed best in shot depth
+with a perfect score. Overall, Nadal leads in height, Djokovic
+in depth and Federer remains consistent.
+Group VI Factors: Physical Skills Evaluation
+For the sixth group of factors, experts assessed the level
+of physical skills a player demonstrated at the peak of their
+career. The factors were ranked on a scale from 1 to 3:
+•	 Competent (1): Demonstrates reliable physical skill.
+•	 Advanced (2): Displays high-level physical skill.
+•	 Exceptional (3): Exhibits elite physical skill.
+Table 8 provides the expert group’s evaluations of players'
+physical skills across five key areas.
+Table 8 highlights the players’ strong physical attributes, with
+Nadal and Djokovic leading in strength, power and flexibility.
+Nadal achieved near-perfect scores, while Djokovic received
+three perfect ratings. Federer remained consistent across all
+aspects.
+Open ended questions
+The questionnaire included two open-ended questions
+asking experts why tennis fans might admire some players
+more than others.
+Experts expressed admiration for Federer, Nadal and
+Djokovic for their grace, talent and ability to make tennis
+look effortless. They praised their humility, fairness and
+sportsmanship, alongside their fierce competitiveness,
+work ethic and determination. Despite their differences in
+personality, experts emphasised that the players remained
+gracious in defeat and developed into thoughtful, classy
+figures. Off the court, they contributed significantly through
+exhibition matches and charity work, using their platforms to
+support various causes and promote the sport.
+Experts noted that their passion for tennis, ability to
+handle pressure and strong self-belief set them apart. Their
+willingness to give everything on the court, combined with
+exceptional shot-making, defence and effort on every point,
+defined their success and legacy.
+On the other hand, experts note that some behaviours of
+the three players, such as repetitive on-court habits and
+slow pace of play, can be seen as unappealing to the public.
+Additionally, political stances, match volatility and outbursts
+toward their players' boxes have drawn mixed reactions.
+While these behaviours reflect their competitive spirit,
+they can sometimes overshadow their exceptional skill and
+contributions to the sport.
+Experts Final Comments
+Final comments and expert discussions emphasised the
+challenges of assessing tennis skills, often due to their
+subjective nature. Experts noted that while the exceptional
+abilities of Federer, Nadal and Djokovic offer valuable insights,
+coaching other players based on their superior skills remains
+a complex task.
+Table 4
+Expert Group Mean Opinions on Technical/Tactical Skills
+Evaluation.
+Table 5
+Expert Group Mean Opinions on Tactical Skills Evaluation.
+Table 6
+Expert Group Mean Opinions on Spin Applied to Players' Shots.
+Table 7
+Expert Group Mean Opinions on Control Applied to Players' Shots.
+Table 8
+Expert Group Mean Opinions on Physical Skills Evaluation.
+Additionally, the Delphi exercise identified the need for a
+Comprehensive Tennis Skills Training Manual. This Manual
+would serve as the primary reference for teaching the
+technical, tactical, physical and non-physical skills essential
+for developing top-level tennis players.
+The Manual shall include “functional” requirements detailing
+player actions and performance requirements setting
+measurable outcomes to ensure systematic skill development
+and assessment. It shall categorise tennis skills with detailed
+clauses for each, classified as Essential, Important, Desirable
+or Advice and assign standard verification methods such as
+Test, Demonstration, Analysis or Inspection.
+In summary, the Manual shall provide the technical guidelines
+and verification methods needed to develop advanced tennis
+skills, enhancing coaching and shaping future champions.
+The need for a Comprehensive Tennis Skills Training Manual
+aligns with a Functional Performance Specification, commonly
+used in Systems Engineering. Systems Engineering plays a
+critical role in the successful execution of complex projects
+such as building an aircraft, robotics, computer chip design or
+city-wide infrastructure. It provides a structured process that
+covers the entire project lifecycle, from the initial concept and
+design to development, implementation and maintenance.
+CONCLUSIONS
+The Delphi exercise identified key skills and tactics for
+integrating into coaching programs to develop top-level
+tennis players. While the study focused on male players,
+many of its findings are also applicable to female tennis,
+particularly in areas such as physical and non-physical skills,
+as these are fundamental and universally required in highlevel competition. However, future research is necessary
+to examine the extent to which the specific technical and
+tactical insights identified in this study are relevant to the
+women’s game, considering potential differences in playing
+style, match dynamics and physical demands.
+Conclusions: The Tennis Skills of Federer, Nadal and Djokovic
+The tennis skills of Federer, Nadal and Djokovic were
+consistently ranked among the best, with perfect scores
+achieved in multiple areas.
+•	 Strokes Evaluation: Federer, Nadal and Djokovic were
+ranked highly in all strokes, reflecting exceptional
+technical performance. For each of the 15 main strokes,
+at least one player was rated as “One of the Best” or “Best
+Ever”. Perfect scores of 5 (“Best Ever”) were awarded to
+Nadal’s deep groundstroke, Djokovic’s serve return and
+Djokovic’s backhand.
+•	 Technical/Tactical Skills: Each player received a perfect
+score of 3 (“Outstanding”), reflecting their mastery of
+shot selection, footwork and recovery.
+•	 Tactical Skills: Tactical skills were evaluated across eleven
+components, with all players ranked highly. Nadal and
+Djokovic displayed a balanced approach, while Federer’s
+style was more aggressive.
+•	 Spin Application: All three players were highly ranked in
+topspin, backspin and sidespin, with Nadal and Djokovic
+particularly dominant in topspin, while Federer was
+recognised for his versatility.
+•	 Shot Control: Each player was highly ranked for shot
+control, with Nadal dominant in height, Djokovic in depth
+and Federer maintaining consistency across categories.
+•	 Physical Skills: Physical skills were assessed across
+five aspects. Nadal and Djokovic were highly ranked in
+strength, power and flexibility, while Federer maintained
+a strong overall performance.
+Conclusions: The Legacy and Perception of Tennis Legend
+Experts have recognised Federer, Nadal and Djokovic for
+their elegance, talent and sportsmanship. Their competitive
+spirit has set new standards, making them iconic figures.
+While their game styles and personalities inspire admiration,
+occasional on-court behaviour has drawn mixed reactions.
+Despite this, their legacy is defined by exceptional skills,
+discipline and a lasting impact on the sport.
+Conclusions: Experts’ Final Comments
+Experts stressed the challenge of assessing tennis skills
+due to their subjective nature. While Federer, Nadal and
+Djokovic’s abilities offer valuable insights, applying them
+to coaching others remains difficult. They emphasised the
+need for a Comprehensive Tennis Skills Training Manual to
+provide a structured reference for teaching technical, tactical,
+physical and non-physical skills. The Manual would include
+functional and performance requirements with standardised
+verification methods, ensuring systematic skill development
+and assessment, aligned with Systems Engineering principles
+for developing future champions.
+Conclusions: Enhancing Tennis Coaching for Champions
+Enhancing tennis coaching to develop more champions should
+focus on eliminating weaknesses in technical and tactical
+tennis skills. Prospective major champions must show strong
+performance across all evaluated techniques, ensuring their
+stroke skills consistently rank within the top three categories:
+Outstanding, One of the Best and Best Ever.
+Mastery in shot selection, footwork, recovery and spin
+control suggests that coaching should prioritise these skills,
+aiming for near-perfect execution.
+Physical and non-physical skills are equally important.
+Comprehensive conditioning and on-court creativity are
+essential, while character skills such as sportsmanship,
+resilience and composure under pressure should be
+integrated into coaching. By focusing on these areas, coaches
+can develop well-rounded, championship-calibre players.
+As a key outcome, the Delphi exercise emphasised the
+need for a Comprehensive Tennis Skills Training Manual.
+This manual would serve as a structured guide, not only for
+coaching but also for assessing the technical, tactical, physical
+and non-physical skills necessary for developing elite players
+and future champions.
+To demonstrate the practical implications of this finding, Annex
+A provides a brief outline of the proposed Comprehensive
+Tennis Skills Training Manual, including its structure, format
+and potential application in player development and coaching
+environments.
+ACKNOWLEDGEMENTS
+We thank Tennis Australia Head Office for selecting officials
+and assisting with this survey.
+CONFLICT OF INTEREST AND FUNDING.
+The authors declare no conflict of interest and confirm that
+no funding was received for this research.

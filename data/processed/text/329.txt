@@ -1,0 +1,398 @@
+Title: Distribution of intensities and quantification of training load in young U15 elite tennis players
+Authors: Marie-Florine Michel, Jean-Marc Duboscq, Sébastien Ratel, Laurent Schmitt, Alexandre Hidalgo, Cyril Brechbuhl
+Year: 2022
+Issue: Vol. 30 No. 88 (2022)
+Article id: 329
+
+ABSTRACT
+The objectives of this study were to quantify training intensity as a function of time
+spent in three metabolic intensity zones, to compare programmed intensity, measured
+intensity (heart rate) and estimated intensity (RPE: Rating Perceived Exertion), and
+then to determine the training loads in 8 high level male tennis players. No difference
+was found between the time programmed in zones 1 (69.9 ± 4.8 %) and 2 (22.8 ± 4.4
+%) and the time spent at a heart rate below Ventilatory Threshold 1 (VT1) (78.9 ±
+9.4 %) and between VT1 and Ventilatory Threshold 2 (VT2) (18.3 ± 9.5 %) (p > 0.05).
+Thus, they trained in accordance with the programmed and recommended intensity
+distribution by adopting a "pyramid" pattern of intensity distribution. Furthermore,
+significant differences were found between the percentages of scheduled time and
+the percentages of perceived time (RPE) for all zones (p < 0.05). The overestimation
+of the estimated intensity can be explained by their age and the intermittent nature of
+tennis. Finally, we can note that the programmed training load is like that observed for
+players of the same age and level.
+INTRODUCTION
+In addition to the mental, technical-tactical and perceptivecognitive qualities that the athlete must possess, tennis
+performance requires a complex interaction between the
+energy pathways (aerobic and anaerobic) (Fernandez et al.,
+2006) and complete physical qualities (speed of movement,
+endurance,
+explosive
+strength,
+coordination,
+agility,
+flexibility) (Girard et al., 2018). The combined development
+of these different capacities requires methodological skills
+on the part of the coaches. Several studies have quantified
+the intensity of training in different types of endurance
+athletes (Esteve-Lanao et al., 2007; Seiler & Kjerland,
+2006). To quantify training intensity, coaches usually rely
+on physiological and subjective indicators and divide the
+range of training intensities into 3 or 5 distinct zones. The
+3-zone model and the 5-zone model have common intensity
+points around the lactic (2 and 4 mmol.L-1 ) and ventilatory
+thresholds (Seiler, 2010) (Figure 1).
+The model most commonly used by athletes, particularly in
+tennis, is the so-called "polarised" model (Stöggl & Sperlich,
+2014). In this model, 75-80% of the sessions are performed at
+low intensities, i.e. less than or equal to the first ventilatory
+threshold (Zone 1) and 15-20% at intensities, known as
+very high, greater than or equal to the second ventilatory
+threshold (Zone 3) (Laursen, 2010; Stöggl & Sperlich,
+2014; Treff et al., 2019). In addition to the distribution of
+intensities, coaches also seek to achieve a sufficiently high
+training load while limiting the risk of injury (Halson, 2014). A
+variety of methods have been proposed to measure training
+www.itfcoachingreview.com
+December 2022. 30th Year. Issue 88. 4-9
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i88.329
+Distribution of intensities and quantification of
+training load in young U15 elite tennis players
+Marie-Florine Michel, Jean-Marc Duboscq, Sébastien Ratel, Laurent Schmitt,
+Alexandre Hidalgo & Cyril Brechbuhl
+French Tennis Federation, France.
+Key words: intensity distribution,
+training load, RPE, heart rate.
+Received: 13 June 2022
+Accepted: 25 July 2022
+Corresponding author:  Cyril
+Brechbhul. Email: cyril.
+brechbuhl@fft.fr
+load. The principle common to the various approaches to
+quantifying training load is to multiply a volume indicator
+by a difficulty or intensity indicator of the training (Foster
+et al., 2001 ; Impellizzeri et al., 2004). They are divided into
+two approaches: on the one hand, quantification methods
+based on physiological variables (heart rate (HR), lactatemia,
+maximum oxygen consumption (VO2max)); on the other
+hand, methods using psychometric variables (difficulty of
+perceived effort, called RPE) (Seiler, 2010). Heart rate is a
+parameter that can be measured quickly, non-invasively,
+COACHING & SPORT
+SCIENCE REVIEW
+Figure 1. The three-intensity zone model, including RPE equivalence,
+based on the identification of lactic and ventilatory thresholds (SV1 and
+SV2).
+easily implemented in training and applicable to a large
+number of players at the same time (Buchheit, 2014). In
+addition, numerous methods for quantifying training load,
+based on heart rate, have emerged, notably the "Training
+Impulse" method (TRIMPS) (Banister, 1991 ; Edwards, 1993 ;
+Lucia et al., 2003). However, the measurement of heart
+rate as the only tool for analysing training load requires a
+certain amount of expertise when analysing and interpreting
+the data collected. Other physiological measures, such as
+lactate and VO2max  measurements, are not practical in
+training situations and even less so in competition. In order
+to quantify the training load, RPE is the most frequently used
+method (Halson, 2014). The RPE, developed by Borg, allows
+the athlete to provide information about his or her perceived
+effort after training or competition on a Borg scale (Borg,
+1998). Chen et al. (2002) have indicated that the RPE is a
+valid means of assessing exercise intensity. In addition, the
+assessment of perceived exertion is widely recognised as
+one of the most appropriate methods for monitoring tennis
+load (Coutts et al., 2010 ; Gomes et al., 2011). The method
+proposed by Foster et al. (2001) called session-RPE (sRPE),
+consists of multiplying the overall perceived difficulty of
+the session (RPE taken on a modified Borg CR-10 scale) by
+the total duration of the session (in minutes) to obtain a
+score expressed in arbitrary units (AU) that quantifies the
+training load. However, no published study has described
+the distribution of training intensity and training loads in
+high-level U15 tennis players. The main objective of this
+study was therefore to quantify the distribution of daily
+training intensity and training loads in young tennis players.
+We also compared the distribution of training intensity
+using two independent measures: heart rate and perceived
+effort during training sessions. We hypothesised that players
+would train in a 'pyramid' training pattern, where relatively
+little training would be performed at intensities above the
+second ventilatory threshold.
+MATERIALS AND METHODS
+Players
+Eight male tennis players (age: 13.8 ± 1.0 years; height: 166.1
+± 12.8 cm; body mass: 51.5 ± 11.0 kg) with an International
+Tennis Number (ITN) ranging from 2 to 3 (ITN 2 = 2 players;
+ITN 2 = 6 players) and belonging to the Pôle France
+(integrated into the CREPS of Poitiers), participated in this
+study. The recruited tennis players, who were volunteers,
+were in good health and free of any type of chronic injury.
+After receiving information about the procedures used in
+this study, the participants and their legal representatives
+signed an informed consent form.
+Procedures
+At the beginning of the season, all players completed the
+TEST procedure which determined ventilatory thresholds for
+tennis training (Brechbuhl et al., 2016a, 2016b). Then for 12
+weeks (February to May) of the 2022 season, Heart Rate (HR)
+and Rating of Perceived Exertion (RPE) were collected during
+training sessions, simulated matches, and official matches.
+The training programme was planned by the tennis coaches
+for each player according to the tournaments, the fitness
+level, possible injuries, and the technical and physical goals
+of each player. The training sessions took place 70% of the
+time on outdoor clay, 25% of the time on indoor GreenSet®
+and 5% of the time on outdoor GreenSet®. Each tennis player
+performed 11.5 ± 2.2 technical/tactical training sessions per
+week ranging from 30 minutes to 3 hours in duration for
+each training period (morning or afternoon). Heart rate data
+were collected during each training session using a Polar
+H10 heart rate monitor® (Polar Electro, Kempele, Finland),
+except for weeks 9 and 10 (Figure 2B), when data could not
+be collected (International Tournament). In addition, every
+evening, each athlete recorded their RPE for the whole of
+each session (morning and/or afternoon) using the modified
+Borg CR-10 scale (Foster et al., 2001 ; Gomes et al., 2015 ;
+Haddad et al., 2017). Players were asked to choose a score
+between 0 (rest) and 10 (maximum effort).
+DATA PROCESSING
+The distribution of intensity
+Training duration was determined using the coaches' planned
+training schedule. Heart rate data was only considered when
+the player wore the heart rate monitor at least 75% of the
+time for each week. This data was recorded using Polar
+Team System software® (Polar Electro, Kempele, Finland)
+which calculates the percentage of time spent in each of the
+predefined HR zones. This data was then used to determine
+the intensity of each training week in three intensity zones
+(Zone 1 ≤ SV1; Zone 2 > SV1 and < SV2; Zone 3 ≥ SV2).
+The two ventilatory thresholds, for tennis training, were
+established on the basis of the results of the TEST procedure
+(Brechbuhl et al., 2016a, 2016b). Based on the results of
+a study of 14-15 year old triathletes with a comparable
+training volume (Birat et al., s. d.), SV1 was set at 70% HRmax
+and SV2 was set at 90% HRmax for all non-tennis training for
+all players. For the RPE data, the CR-10 scores were divided
+into three zones: Zone 1 ≤ 4; Zone 2 > 4 and < 7; Zone 3 ≥ 7,
+according to Seiler & Kjerland (2006). Subsequently, the time
+spent in each RPE zone per week was calculated by summing
+the duration of each session for each zone. The percentage of
+time spent in each heart rate-based and RPE-based training
+zone was compared to the coaches' programmed intensity
+distribution.
+The training load
+The results of the Gomes et et al. (2015) study confirm the
+validity and, therefore, the possibility of using the sessionRPE (sRPE) method to quantify training load in tennis. The
+daily training load or sRPE is calculated as the product of
+intensity (half-day sRPE) and volume (the duration of the
+activity) (Foster et al., 2001). Then the weekly training load
+is obtained by summing the daily sRPEs for the week.
+DATA ANALYSIS
+All data were expressed as mean ± standard deviation and
+were analysed using RStudio (RStudio v1.3.1093, US).
+The normality of the data distribution was checked by the
+Shapiro-Wilk test. The distribution of training intensity
+was compared for each assessment method (programmed
+(trainer) vs. measured (HR) vs. estimated (RPE)) and for each
+intensity zone (Zone 1 vs. Zone 2 vs. Zone 3) using a twofactor ANOVA (assessment method and intensity zone). If
+a significant difference was found, a pairwise comparison
+(Bonferroni method) was used as a post-hoc test. The
+significance level was set at p <0.05 for all analyses.
+RESULTS
+On average, each week, the scheduled intensity is distributed
+as follows: more than 9 h of training in Zone 1, about 3 h in
+Zone 2 and 1 h in Zone 3 (Figure 2A). The heart rate data
+show that the players spent on average just under 12 h in
+Zone 1, just over 2 h in Zone 2 and 30 min in Zone 3 each
+week (Figure 2B). Regarding the distribution of intensities
+achieved according to the RPE, the players perceived their
+effort, on average per week, more than 4 h in Zone 1, about 5
+h in Zone 2 and 3 h in Zone 3 (Figure 2C).
+As the training programme was planned for each player
+according to tournaments (singles and doubles matches),
+fitness and injuries, we chose to represent the training
+load of two players, representative of the inter-individual
+variability. In total, 18 matches were played with an average
+win rate of 61.1 ± 15.1 % for player 1 (Figure 4A) and 9
+matches were played with an average win rate of 22.2 ± 29.9
+% (Figure 4B). The average weekly training load during the 12
+weeks was 5445 ± 2016 AU (Arbitrary Units), ranging from
+1935 AU to 9375 AU for player no. 1 (Figure 4C) and 4381 ±
+1919 AU, ranging from 1950 AU to 7710 AU for player no. 2
+(Figure 4D). The training load is well individualised, but it did
+not have the expected results in terms of winning for player
+no. 2. Furthermore, we found that there is no higher training
+load in the training weeks compared to the match weeks.
+DISCUSSION
+The aim of this study was to quantify the distribution of daily
+training intensity with different assessment methods, and
+to follow the evolution of training load in young elite tennis
+players from programmed intensity revealed that a pyramidal
+distribution, whereby 70-75% of the total training volume is
+performed at low intensities (Zone 1) and about 5-10% at
+very high intensities (Zone 3), is proposed. This distribution
+has been suggested as one of the optimal training intensity
+distributions and one of the most frequently used in adult
+elite endurance athletes (Bourgois et al., 2019; Brechbuhl
+et al., 2017). The results observed via the heart rate monitor
+are similar to the training sessions programmed in Zone 1
+(78.9 ± 9.4 %) and 2 (18.3 ± 9.5 %). These results are in line
+with those of the Baiget et et al. (2015) conducted with 20
+high-level Spanish tennis players (age: 18.0 ± 1.2 years;
+gender: male) simulating tennis sets, where players spent
+on average 77% of the time in Zone 1 (below SV1), 20%
+in Zone 2 (between SV1 and SV2), and only 3% in Zone 3
+(above SV2). As a result, the young male tennis players at
+Figure 2. Average distribution of training intensity (h) for all players
+over 12 weeks (A: Scheduled intensity, B: Measured intensity and C:
+Estimated intensity).
+Figure 3. Average intensity distribution of all players over 12 weeks of
+training and matches based on two different quantification methods:
+Measured intensity (Heart Rate) and estimated intensity (RPE). * p <
+0.05; ** p < 0.01; *** p < 0.001.
+The average percentage of time spent in each of the three
+intensity zones according to the three assessment methods
+(programmed (trainer) vs. measured (HR) vs. estimated
+(RPE)) is presented in Figure 3. Statistical analysis revealed
+a main effect of the "Zone" factor (p < 0.05), no effect of the
+"Evaluation method" factor and a significant interaction
+between these two factors (p < 0.05). A significant difference
+was found between the percentage of time scheduled in
+Zone 1 (69.9 ± 4.8%) and the percentage of time perceived
+by the players in Zone 1 (Intensity ≤ 4 on the modified Borg
+CR-10 scale) (36.0 ± 14.0%) (p < 0.001). No difference was
+found between the time scheduled in Zone 1 and the time
+spent at or below SV1 (78.9 ± 9.4 %) (p > 0.05). A significant
+difference was found between the percentage of time
+programmed in Zone 2 (22.8 ± 4.4 %) and the percentage of
+time perceived by the players in Zone 2 (Intensity between
+4.5 and 6.5) (38.3 ± 8.1 %) (p < 0.01) No difference was found
+between the time programmed in Zone 2 and the time spent
+at a heart rate between SV1 and SV2 (18.3 ± 9.5 %) (p > 0.05).
+Furthermore, significant differences were found between
+the percentage of time programmed in Zone 3 (7.3 ± 2.0 %)
+and the percentage of time spent at a heart rate greater than
+or equal to SV2 (2.7 ± 2.0 %) (p < 0.001) and that perceived at
+an intensity ≥ 7 (25.7 ± 12.0 %) (p < 0.05).
+Pôle France train in accordance with the programmed and
+recommended intensity distribution by adopting a "pyramid"
+model of intensity distribution. From a metabolic point of
+view, these young players, aged 14 on average, are in (or
+close to) their peak of rapid growth (Sempé & Pédron, 1971).
+Prior to puberty, children rely mainly on the aerobic pathway
+for energy production. However, during this pubertal growth
+peak, there is a transition to a greater use of the anaerobic
+pathways that produce metabolites that cause muscle
+fatigue (Kenney et al., 2021 ; Ratel & Blazevich, 2017).
+Therefore, from the peak of growth velocity, it is essential to
+offer a high volume of low intensity aerobic training (Zone 1)
+in order to delay fatigability, facilitate recovery and optimise
+technical work (Ratel, 2018). This is done using "polarised"
+and "pyramid" training models depending on the sporting
+objective of the season.
+Concerning the distribution of intensities carried out
+according to the RPE, the players have a "homogeneous"
+perception of the time spent in each intensity zone (Zone
+1: 35.0 ± 15.4 %; Zone 2: 38.5 ± 8.4 %; Zone 3: 26.4 ± 11.9
+%). This means that sessions programmed in Zone 1 are
+in fact sessions where players feel in Zone 2 or even 3.
+This significant difference between the distribution of
+programmed intensities and that of the RPE results (Figure
+2A & 2C) may be due to the intermittent nature of tennis.
+Indeed, this alternation of short high intensity efforts and
+short recovery breaks on an aerobic endurance background
+leads to a production and accumulation of muscle metabolites
+(e.g., ammonia, protons, lactate) which could contribute to
+increase peripheral sensations of fatigue (Mutch & Banister,
+1983) and therefore RPE (St Clair Gibson & Noakes, 2004).
+This overestimation could also be explained by an increase
+in central sensations linked to the intermittence of the heart
+rate during repeated efforts. Thus, the fatigability of tennis
+training sessions would be underestimated if only heart
+rate is considered as an indicator of internal load. Another
+explanatory factor could be the age of the players. Indeed,
+Groslambert & Mahon (2006) found a poorer correlation
+between RPE and heart rate during incremental exercise
+in adolescents than in adults. Furthermore, peripheral
+factors (i.e., maximal lactate, maximal minute ventilation,
+and mechanical work output) appeared to explain only 36%
+of the variance in RPE measured with the CR-10 during
+intense exercise from childhood to adolescence (Bardin
+et al., s. d.). This suggests that other psychosocial factors
+may be important in estimating RPE during exercise.
+Thus, although RPE, which considers the involvement and
+intuition of each player, is a useful monitoring tool for the
+coach to simply assess the perceived effort of the session,
+it would be necessary to quantify the intensity of training
+with both physiological and psychometric variables in young
+categories.
+Regarding training load, the average (respectively 5373 AU
+and 4381 AU for players #1 and #2) imposed over the 12 weeks
+is similar to that of young players in futsal (15.8 ± 0.8 years)
+(Moreira et al., 2013) and basketball (19 ± 1 years) (Moraes
+et al., 2017) where the training load does not exceed 6000
+AU. In addition, the training loads of the technical/tactical
+sessions (512.5 ± 191 AU) are similar to those observed for
+Australian players aged 17 ± 1.3 years ranked 135 ± 22 in the
+International Tennis Federation junior and 1309 ± 370 in the
+Association of Tennis Professionals who had a load of 492 ±
+304 AU (Murphy et al., 2015). However, some weeks (e.g.,
+weeks 6 and 8 Figure 4) have training loads above 7000 AU.
+These high training loads are due to weeks with high volume
+sessions (more than 2 h training per session). Long training
+sessions are perceived as difficult because of their long
+duration, and the associated level of perceived exertion is
+multiplied by the duration of the effort (Foster et al., 2001).
+As a result, the duration of the effort is taken into account
+twice, which tends to overestimate the loads for high volume
+training situations (Martin, 2018). However, these weeks
+with high training loads are automatically followed by a
+week with a load of less than 4000 AU, which shows that the
+previous weeks are considered to plan the training in the
+most optimal way. We observe that the organisation of the
+training loads allowed half of the players to maintain good
+performance while minimising any risk of injury. In contrast,
+the other half of the players had a negative win percentage
+(n = 2) or did not play any official matches (n = 2) due to
+injuries. This suggests that the training load was not planned
+in the most judicious way. In order to reduce training-related
+injuries in the long term, Gabbett (2016). The importance of
+monitoring the training load is emphasised.
+CONCLUSION
+The present results show that young elite French tennis
+players train 70-75% of the time in a low intensity zone,
+about 20% in a moderate intensity zone and 3-5% in a high
+intensity zone. These data therefore demonstrate that a
+"pyramid" training model is used. In addition, the age of the
+players is a factor confirming the importance of aerobic work
+during training. However, the players overestimated the
+Figure 4. Victory (%) (A & B) and training load distribution (AU) (C & D)
+of player #1 (A & C) and player #2 (B & D) over 12 weeks.
+intensity of their efforts (moderate to intense intensities)
+compared to the prescribed training intensity and the actual
+training intensity (heart rate). This overestimation can be
+explained by the intermittent nature of tennis and the age
+of the players in this study. Therefore, it seems essential to
+couple heart rate with RPE in future studies. Furthermore,
+the programmed training load was like that observed for
+players of the same age at a high level. We can conclude that
+for half of the players, this planning allowed them to maintain
+good performance while minimising the risk of injury. The
+results presented here can therefore be seen as a first step
+towards the recognition of the necessary distribution of the
+actual training intensity performed by young tennis players.
+Tennis coaches will now be able to compare the training loads
+of their players with the results presented here. In addition,
+tennis coaches can use the current training monitoring
+methods adopted in the present study to verify the internal
+training load of their players. The use of such an approach
+should allow coaches to adjust the training load to avoid the
+phenomenon of 'overtraining'. As the current data are on
+young male players, further studies on female tennis players
+are needed. The use of heart rate variability monitoring can
+also complement the monitoring of individual physiological
+response over time (Schmitt et al., 2006).
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

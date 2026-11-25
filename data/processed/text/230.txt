@@ -1,0 +1,462 @@
+Title: Relationships between body size and physical abilities in elite female tennis players
+Authors: Anna Skorodumova, Igor Baranov
+Year: 2021
+Issue: Vol. 29 No. 84 (2021)
+Article id: 230
+
+www.itfcoachingreview.com
+August 2021. 29th Year. Issue 84. 30-33.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i84.206
+COACHING & SPORT
+SCIENCE REVIEW
+performance. The specific research questions of the study are
+the following: 1. Determine the total body sizes of Russian
+high-performance female tennis players; 2. Determine the
+functional and physical fitness of Russian high-performance
+female tennis players; 3. Determine if there are statistical
+correlations between total body size indicators and the
+result of Russian high-performance female tennis players’
+competitive performance; 4. Determine if there are statistical
+correlations between the total body size indicators of Russian
+high-performance female tennis players and the physical and
+functional fitness indicators; and 5. Compare the total body
+sizes indicators of leading female tennis players in Russia
+with similar indicators of leading female tennis players in the
+world.
+METHODS
+The total body sizes, functionality, and physical fitness were
+determined as part of a stage-by-stage comprehensive
+testing. Body weight measurement conducted using medical
+scales, the accuracy of which was up to 10 g. Athletes stood on
+the middle of the scale platform, having previously removed
+shoes and extra clothes, and were on it in a standing position,
+without moving, until the moment of weight measurement.
+Body height was measured by an easel height meter in a
+standing position from the apex point to the support. The
+athletes’ initial position was the main stand - the back is
+straight, the heels together, the knees are straightened, the
+hands along the body. Based on these measurements, two
+indicators were calculated: the mass-height index (MHI
+Kettle 1; MHI = m/H) and the body mass index (BMI Kettle 2;
+BMI = m/H2, where m is the weight of the athlete, and H is the
+body height).
+The functionality measures were conducted as follows: the
+aerobic capabilities were determined during a treadmill
+INTRODUCTION
+To improve the training process, it is necessary to precisely
+understand the requirements that a high-level athlete must
+meet in a particular sport. Specifically, research in tennis
+have identified the parameters of the external indicators of
+the energy system demands during high-performance female
+players competitive matches (Skorodumova et al., 2019) and
+the requirements for their physical and functional fitness
+(Skorodumova et al., 2019).
+For an optimal implementation of the training process, it is
+necessary to determine the relationships between physical
+and functional fitness indicators and the result of the
+performance in competitions (CP) and to clarify and prioritise
+the physical abilities that contribute to maximise the
+results. In this context, researchers and coaches should pay
+considerable attention to aspects such as the total body sizes,
+the determination of height, weight, and their corresponding
+ratios in female tennis players.
+The external indicators that define the energy system
+demands during competitive tennis matches are well known
+(Ivanova, 2010; Naumko, 1996). However, there was a
+common view that the best tennis players were characterised
+by being taller and slimmer, i.e., anthropometric indicators, of
+which the mass and height index is important (Naumko, 1996)
+than the non-so successful players. Therefore, the lack of
+research that contributes to clarify the relationships between
+the total body sizes and the CP, as well as the indicators of
+the functional and physical fitness, justifies the need for this
+study.
+The objective of the study is to determine the relationships
+between some indicators that evaluate the total body
+sizes, functional and physical abilities of high-performance
+female tennis players and the results of their competitive
+ABSTRACT
+This paper studied the relationships between anthropometry and physical fitness
+indicators that affect elite female tennis players’ training process planning.  Bodyweight
+and height were measured as well as aerobic and anaerobic lactic capabilities, and the
+physiological indicators determined. Results showed reliable relationships between
+the anthropometric and functional fitness indicators and the players’ competitive
+performance. It was concluded that monitoring the average weight relative to the height
+of female tennis players can assist in the improvement of the players’ performance
+through changes in the training process, specifically by relating the weight and height
+indicators with the strengths and weaknesses of the players’ tactical patterns.
+Relationships between body size and physical
+abilities in elite female tennis players
+Anna Skorodumova and Igor Baranov
+Russian Tennis Federation, Moscow, Russia.
+Key words: physical and functional
+fitness, total body sizes, elite
+female tennis players, the
+competitive performance results
+Received: 13 June 2021
+Accepted: 15 July 2021
+Corresponding author: Anna
+Skorodumova. Russian Tennis
+Federation, Lutzhnetskaya Nab 8,
+Moscow. Email: ibaranov1805@
+mail.ru
+running, with a stepwise increasing load every 2 minutes to
+overflowing. During the test, the heart rate was taken and
+the exhaled air was analysed using an automatic gas analyser
+‘Metalyzer- 2,’ to determine the different physiological
+indicators. The anaerobic lactic free capabilities were
+measured using a 6 seconds of maximum intensity work on a
+cycle ergometer. The determination of the players’ physical
+fitness was carried out using specific developed tests widely
+used in Russia in studies with tennis players (Skorodumova et
+al., 2013; Skorodumova et al., 2018).
+The statistical analysis used included the determination of
+averages and quadratic deviations, the calculation of Pearson
+correlation coefficients and the linear rationing of obtained
+values.
+Sample
+Data from 41 top female tennis players (age average 17 y.o.
+±3,41) who played for the national teams of the Russian
+Tennis Federation were used in this study.
+RESULTS AND DISCUSSION
+Table 1 includes the total body sizes of the players in the
+sample and the indicators of the functional capabilities of the
+energy supply systems and the physical fitness obtained.
+Table 1
+Indicators of the total body sizes of the top female tennis players in
+Russia (n = 41).
+weight (kg)
+Mean value
+± Standard
+deviation
+174.6 ±
+5,54
+64.27 ±
+6,21
+367.92 ±
+29,99
+21.06 ±
+1,62
+The calculations showed that the correlation of the total body
+size indicators with the competitive performance results was
+11.1 %. Table 2 includes the statistical correlations of the
+indicators and their impact on the relation between the total
+body sizes and the competitive performance.
+Table 2
+Statistical correlations between the indicators that characterise
+the total body sizes of female tennis players and their competitive
+performance (CP) (n = 41).
+Anthropometric
+indicators
+weight (kg)
+MHI
+(g/cm)
+BMI
+(kg/m2)
+Statistical
+correlation
+with CP, %,
+p-value < 0.05
+14,9
+31,3
+29,7
+24,1
+Priority
+The results indicated that the greatest correlation with the
+total body sizes values were obtained with the players’ weight,
+not their height, as previously suggested (Naumko, 1996).
+Apparently, the conclusion made by the author is related to
+the height of male tennis players. In our study, the women’s
+body height indicator showed the smallest correlation. In fact,
+the height of the female tennis players ranked one and two
+in the world is 166 and 168 cm respectively, and the average
+height of world’s 10 top female tennis players is 174.6 cm
+(min 166 - max 182).
+The second correlation was shown by the mass-height
+index and its significance to the total body sizes takes 2nd
+place. In this context, it has been considered that according
+to this mass-height index, it is logical to calculate the
+energy expenditures of the body (Naumko, 1996). The third
+correlation was shown by the body mass index (BMI or Kettle
+index 2), which allows to calculate the ratio of a person's mass
+and height. According to the World Health Organization’s
+(WHO) interpretation of the BMI indicators, which includes
+rating scales, the indicators of female tennis players (mean -
+21.06 kg/m2) are on the average values of the ‘Norm’ scale
+(18.5-24.99 kg/m2).
+The following indicators showed statistically significant
+correlation coefficients that were considered at the
+significance value p < 0.05.  The bodyweight index correlated
+with the body height at r = 0.599, with the mass-height index
+at r = 0.953 and with the body mass index at r = 0.748. The
+body height correlated with the mass-height index at r =
+0.331, and the mass-height index correlated with the body
+mass index at r = 0.913 (Figure 1).
+Figure 1. Correlation of anthropometric indicators. MHI: mass-height
+index (Kettle index 1); BMI: body mass index (Kettle index 2).
+Thus, the two indexes, the bodyweight and the mass-height
+index, correlated with all the analysed indexes.
+The body height index and the body mass index did not
+correlate and had the least contribution to the significance
+of the total body sizes. Thus, regardless of the height, players
+should monitor very carefully their weight and mass-height
+index. None of these indicators had a statistically significant
+correlation with the outcome of the competitive performance.
+However, body height, body weight, and mass height index had
+a statistically significant correlation with power indicators
+(VO2max, O2Pulse, MVV), and with aerobic performance
+indicators (VO2AT), which have a reliable correlation with
+the outcome of the competitive performance. Bodyweight
+showed a significant correlation with another indicator of
+the CP efficiency, the oxygen consumption at the aerobic
+threshold level. The body mass index showed a significant
+correlation with VO2AT, VO2max, and O2Pulse (Table 3).
+Table 3
+Statistical correlations of the total body sizes and the functional
+capabilities indicators. (n = 41, p value < 0.05)
+VO2AET
+(ml/min)
+VO2AT
+(ml/min)
+VO2max
+(ml/min)
+O2Pulse
+(ml/b)
+MVV
+(l/min)
+T peak
+power
+(s)
+height
+-
+0.427
+0.525
+0.530
+0.428
+0.558
+weight
+0.461
+0.586
+0.687
+0.635
+0.445
+0.510
+Massheight
+index
+-
+0.529
+0.615
+0.553
+0.367
+-
+mass
+index
+-
+0.370
+0.412
+0.346
+-
+-
+VO2AET: oxygen volume consumption at the anaerobic threshold;
+VO2AT: oxygen volume consumption at the aerobic threshold; VO2max:
+maximum oxygen volume consumption; O2Pulse: the volume of
+oxygen consumed by the body per heartbeat; MVV: maximal voluntary
+ventilation; T peak power: time to reach the peak power.
+Table 3 shows only those functional performance indicators
+that showed a statistically significant correlation with the
+competitive performance. Of all 13 indicators of the anaerobic
+productivity, the indicator of time to maximum power showed
+a reliable correlation with the competitive performance.
+Body height and weight showed a reliable correlation with
+this indicator. Bodyweight and mass-height index showed a
+positive correlation with the maximum power, although it did
+not show a correlation with the competitive performance, but
+surely had, albeit insignificant, some influence.
+All indicators excluding the body mass index showed a
+significant correlation with the glycolytic endurance index,
+and the body height and the weight showed significant
+correlation coefficients with the vertical jump with both the
+left and the right foot.
+The absence of correlations between the total body size
+indicators and the indicators of agility suggests that
+agility does not depend on the athlete’s height and weight.
+Therefore, being very high, a female tennis player can also be
+very coordinated and vice versa.
+Comparing the total body sizes of the leading Russian female
+tennis players with similar indicators to the world’s top 10
+female tennis players, it can be stated that there are no
+reliable differences in any of the indicators (Table 4).
+Table 4
+Total body sizes of leading female tennis players in Russia and the world.
+Tennis player
+From Russia, n =
+41, mean value
+174, 6
+64,27
+367,92
+21,06
+Min-max
+167-180,1
+58-70
+337,9397,9
+19,4-22,7
+Top 10 tennis
+players in the
+world, mean value
+174,6
+64,40
+368,47
+21,11
+Min- max
+166-182
+57-72
+335-411
+19,72The weight, the height of the players and all indexes are very
+similar between the group of the top 10 female tennis players
+in the world and the other Russian female tennis players. The
+data obtained indicated that the total body sizes of the players
+correlated with the competitive performance around 10 %,
+which is not decisive in deciding the competitive potential.
+The important aspects related to the total indicators of
+female tennis players are their weight and their weight-toheight ratio (i.e., mass-height index). The weight should not
+be much more than 70 kg, while the mass-height index should
+be 340-400 g/cm. The total body indicators also showed a
+statistically significant correlation with the indicators of
+aerobic performance power and efficiency.
+When in competition, female tennis players should be efficient,
+i.e., being fast, moving quickly in all directions, and hitting
+powerful shots. In some situations, female tennis players
+perform the movements of sprinters, in others those of the
+high and long jumpers. Moreover, hitting a serve in tennis has
+similarities with the throws. Since there are optimal values
+of total body indicators that characterize each sport, we
+compared the average values of leading Russian female tennis
+players with similar indicators of 10 leading female athletes in
+sprint, high jump, long jump, and javelin throw (Table 5).
+Table 5
+Indicators of total body sizes of leading Russian female tennis players
+and 10 strongest female athletes in sprinting, high and long jumps, and
+javelin throwing.
+Total size,
+(mean
+value)
+Sport
+Running
+100 m
+High
+jump
+Long
+jump
+Javelin
+throwing
+Russian female
+tennis players,
+n = 41
+height
+168.7
+180.5
+173.8
+177.0
+174.6
+weight
+58.7
+61.1
+62.4
+75.0
+64.27
+сm)
+347.9
+338.5
+359.0
+423.7
+367.92
+20.8
+18.8
+20.86
+24.1
+21.06
+Abbreviations: MHI, mass-height index (Kettle index 1); BMI, body mass
+index (Kettle index 2).
+The body height of the female tennis players takes an average
+position. They were shorter than high jumpers and javelins
+but taller than long jumpers and sprinters. The average body
+weight of the female tennis players and their index values was
+second only to javelin throwers. The average square deviation
+from the average body weight was more than 6 kg. Female
+tennis players’ bodyweight had the greatest contribution
+to the relation between total body sizes and CP results and
+ranged from 56 to 77 kg, with the athletes who had a weight
+less than average being close to high jumpers and shortdistance runners on this indicator. Furthermore, they were
+lighter than spear-throwers. The same can be said about the
+mass-height index.
+We can suppose that the total body sizes of the players may
+have an impact on the different tactical patterns they use
+during competition. Table 6 presents data on two female
+tennis players’ total body sizes, which are among the top
+ranked players in the world, which clearly use different
+tactical patterns.
+Table 6
+Total body sizes of two high-performance female tennis players that use
+different tactical patterns.
+Female
+tennis
+players
+Body height
+MHI (g/cm)
+BMI (kg/m2)
+1. S. Williams
+411,4
+2. S. Halep
+357,1
+21,26
+Tennis player 1 plays powerful shots, trying to finish off the
+points as quickly as possible with her aggressive strategy. Her
+anthropometric data are closer to those of the javelin throwers.
+Tennis player 2 moves easily around the court and dominates
+the point using active movements which allow her to usually
+win points longer than 10 seconds. Her anthropometric data
+are closer to those of the best short-distance runners and
+jumpers in the world. These relationships provide further
+directions for future studies and, if the assumptions are
+confirmed, it will be necessary to make the necessary changes
+to the training process.
+PRACTICAL APPLICATIONS
+Previous research suggested that height was a key aspect
+for high-performance female and male tennis players to
+achieve a high performance. Our study suggests that for highperformance Russian female tennis players, the weight of the
+players would be more relevant than their height. Our results
+show that at this high level the average weight of the players
+was 64.27 kg, and the average height was 174.6 cm. Therefore,
+coaches should carefully monitor these relationships by
+providing the optimal combination of an appropriate diet with
+the adequate training loads to increase performance.
+Based on the results obtained in this study, it was possible
+to assume that the weight and height of the players have
+an influence on the tactics applied during match play. In
+comparison with lighter and shorter players, heavier and
+taller players seem to use powerful attacking groundstrokes
+and volley with the intention to finish off the point as quickly
+as possible. These anthropometric features are similar to
+those that happen in disciplines such as javelin throw. Results
+have also shown that lighter and shorter players can also play
+attacking shots by easily moving around the court in rallies
+lasting more than 10 s. The features of these female tennis
+players are more similar to those of the 10 best short-distance
+runners and jumpers in the world.
+CONCLUSIONS
+The results of this study emphasise the importance of
+monitoring the average weight relative to the height of the
+female tennis players’ and to develop tactical patterns that
+reflect the strengths and weaknesses of the players based on
+these indicators by implementing the necessary changes in
+the training process that will facilitate their performance.
+ACKNOWLEDGMENTS
+The authors would like to express their gratitude to the
+Russian Tennis Federation management officials for their
+understanding of the importance and complexity of the
+control of the training of the tennis players, to all players
+that took part in the testing procedures performed at the
+laboratory, to all the staff from the laboratory, and to the
+institute’s management for their assistance in organising and
+conducting tests.

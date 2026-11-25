@@ -1,0 +1,3 @@
+split,n_questions,basic_mean,local_mean,global_mean,basic_contradicts,local_contradicts,global_contradicts
+dev,10,1.9,1.5,1.4,2,2,0
+test,30,1.7667,1.3667,1.1333,3,3,7

@@ -1,0 +1,507 @@
+Title: Types of serve stance and height of players. A study of the best servers in history
+Authors: Juan Vila Pascual
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 372
+
+ABSTRACT
+One of the most important performance indicators in tennis is the serve. While recognising
+the great relevance of this stroke, the objectives of this study were to investigate: the
+effect of the height of the players on the serve, the two types of stances in the serve (feet
+up and feet back) and, finally, to study if there was a relationship between the height
+of the players and the use of these stances in the serve. All this, on a sample of the 50
+best servers by effectiveness in the history of the ATP. The results obtained highlighted
+the great importance of the height of the tennis player in the service. In addition, 72%
+of these best servers used the feet up stance, which implies greater advantages of this
+stance over the feet back stance. Finally, it was observed that the taller the players were,
+the more they used the feet up stance. On the other hand, the shorter the height of the
+players, the more frequently they used the foot back stance. Based on these results, it
+could help coaches to recommend one stance or the other, depending on the height and
+style of play of the players.
+INTRODUCTION
+Tennis is a sport in which there are many different types
+of strokes such as the serve, the return, the forehand, the
+backhand, the volley.... If we add to all these strokes that can
+be executed with different types of effects, directions, depths,
+heights, and speeds, we find that there are countless variables
+or ways of hitting the ball, which increases the complexity
+of the sport in terms of perception and response to stimuli,
+reading the ball, anticipation, decision-making, reaction, etc.
+Therefore, as has already been commented in the literature,
+tennis is a sport of open skills (Crespo & Miley, 1999).
+Considering the large number of shot types that exist in
+tennis, specifically in Grand Slam tournaments, it has been
+observed that the strokes that occur the most during play are
+forehand (28%) and backhand (23%) groundstrokes, followed
+by first serve (19%), backhand return (12%), forehand return
+(9%) and second serve (7%) (Whiteside & Reid, 2017).
+If we must choose the stroke that has the most influence
+and is the most decisive in the game, it would be the serve.
+In tennis, every point usually starts with a serve and a return.
+For this reason, having a great serve allows you to start points
+on serve with a considerable advantage over your opponent,
+as you can create space and openings that allow you to press
+or win the point with the next shot (serve+1). Furthermore, it
+is also possible to force short returns that allow the server to
+attack and dominate the point, or directly obtain direct points
+on serve (Crespo and Miley, 1999). Even, as can be seen in the
+work of (Whiteside and Reid, 2017), if we count the first and
+second serves together, the serve would be the second most
+frequently produced shot (26%), only behind the forehand
+return.
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 16-20
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i89.372
+Types of serve stance and height of players.
+A study of the best servers in history
+Juan Vila Pascual
+Valencian Community Tennis Federation, Spain.
+Key words: Service, height, foot
+up, foot back
+Received: 21 December 2022
+Accepted: 23 February 2023
+Corresponding author: Juan vila.
+Email: juanvilatenispadel@gmail.
+com
+Today, the serve has acquired even more relevance, as the
+average number of strokes per point played is currently lower
+(4.7 strokes per point) according to Carboch et al. (2019).
+Furthermore, these authors indicated that in three of the four
+Grand Slams, more than 50% of all points were finished in the
+first 4 shots (Wimbledon 66%, Australian Open 58%, Roland
+Garros 52%). Therefore, considering the statistics, today's
+tennis would be largely made up of the serve, the return and
+a couple of other shots. For this reason, the service has a
+considerable importance in the development of the game and,
+as such, it is necessary to study it to achieve improvements
+that, even if they are minimal, can make a big difference,
+especially in high performance.
+The serve, observed in isolation, is the only shot in our sport
+that depends entirely on ourselves, as the opponent does not
+intervene. In order to develop a great serve, it is obvious that
+many factors play a role, such as the correct biomechanics of
+COACHING & SPORT
+SCIENCE REVIEW
+the stroke, especially the coordination of the entire kinetic
+chain from the bottom (the feet) to the top (the wrist), as
+well as the proper execution of the phases of the stroke, a
+precise ball toss, and a good strength-power work of both the
+lower and upper body to be able to hit with more speed and
+precision, which is very important in elite tennis (Elliot et al.
+2003).
+In this research we will study two factors that affect the
+effectiveness of the serve, one of which is not possible to
+influence or change in the players, which is their height. On
+the other factor it is possible to influence, the stance that
+is performed before the bending of the knees to serve. This
+stance can be of two types: with feet up also called ''pinpoint''
+and with feet back or also called ''platform''. Thus, we will
+study which of them occurs more frequently in the 50 best
+servers in history, according to a statistic from the ATP. Finally,
+we will relate the variable of the height of the players with the
+two types of stances used. We will try to find out if there is a
+correlation or a more marked (statistically significant) use of
+one or the other type of stance in the serve, depending on the
+height of the players.
+METHODOLOGY AND PROCEDURE
+Subjects
+The sample to conduct the study consisted of 50 ATP
+professional tennis players, both active and retired. The
+sample was taken from an ATP statistic dated 5 February
+2021, which included the best servers in history organised
+in a numerical ranking, according to a service effectiveness
+statistic, in which the following service variables were
+evaluated: percentage of first serve, percentage of points
+won on first serve, percentage of points won on second
+serve, percentage of games won on serve, average number of
+direct serves per match and average number of double faults
+per match. From this service effectiveness ranking, which
+consisted of 735 players, the top 50 servers were selected for
+the study.
+Material
+The statistical programme Jamovi, version 1.6.13, was used.
+In addition, we used the statistical information collected from
+the 50 best servers in the history of the ATP, their profile
+(where their height appeared) and videos of matches of each
+of them in which we could observe the type of stance in the
+service that they used.
+Analysis variables
+The variables used were the quantitative variable of height,
+measured in metres, the qualitative variable of types of stance
+in the service, categorised into two groups; feet up and feet
+back. And finally, a qualitative variable that we called type of
+height, categorised into two groups; very tall (players who
+were taller than 1.90m) and tall (players who were shorter
+than 1.90m).
+Procedure and statistical analysis
+First, we searched for the statistics of the best servers in the
+history of the ATP in terms of their effectiveness in serving,
+selecting the top 50. Then, by entering their ATP profiles,
+we collected data on their height (m). Next, matches of each
+player, in which at least 5 serves were observed, were watched
+to determine, and collect the type of stance used.
+Secondly, a descriptive analysis of the data obtained for the
+height variable of the players was carried out, calculating the
+mean, median, mode, standard deviation, range, maximum,
+minimum and percentiles for the entire sample (N=50).
+Next, absolute and relative frequency tables were made for
+the variables of height type (tall and very tall) and type of
+stance (feet up and feet back). Next, a contingency table was
+calculated by crossing the qualitative variables of type of
+stance and type of height, to study the degree of relationship
+between these two variables, using Chi square, used to
+analyse the dependence or independence of the variables.
+Afterwards, and given that in the Shapiro-Wilk normality test
+the distribution of the height variable (m) was different from
+normal (S-W p<0.05), the non-parametric Mann-Whitney
+U test was performed to compare this variable height in
+the two types of stance in the service and to study if there
+were significant differences between tennis players who use
+the stance of separated feet and those who use the feet up
+stance in the service. A significance level of p<0.05 (5%) was
+established throughout the study.
+RESULTS AND DISCUSSION
+Height of the 50 best servers in history
+One of the objectives of this article was to study the height
+of the 50 best servers in history and to study its relevance
+in service performance. To determine this, we analysed
+the descriptive parameters of the height variable (m) in the
+sample (N=50). As can be seen in table 1, the average height
+of these 50 players with the highest service effectiveness is
+1.94m, with the tallest players being 2.11m (maximum), both
+Ivo Karlovic and Reilly Opelka, who are 2nd and 3rd in this
+ranking of service effectiveness, only behind John Isner who
+is the leader of the ranking with 2.08m. And, therefore, the
+three players with the highest height are in the top 3 of the
+ranking of service effectiveness. The shortest player in the
+rankings is Andre Agassi at 1.80m (minimum).
+Table 1
+Descriptive statistics of the variable height (m) in the 50 best servers in
+history (ATP).
+Descriptive
+Height (m)
+N
+Lost
+Mean
+1.94
+Median
+1.93
+Mode
+1.96
+Standard Dev
+0.0657
+Range
+0.310
+Minimum
+1.80
+Maximum
+2.11
+25 percentile
+1.88
+50 percentile
+1.93
+75 percentile
+1.96
+In addition, it can also be observed that the most repeated
+height (mode) is 1.96m, found in up to 12 players of these 50.
+As can be seen in table 2 of frequencies, 72% of players in this
+classification of service effectiveness are taller than 1.90m,
+which is significant in relation to the 28% who are below
+1.90m.
+Furthermore, comparing with other studies, we note that, if
+we take the average height of the 50 best servers in history
+by effectiveness, which is, as we mentioned, at 1.94m, we
+observe that it is greater than the 1.88m average of the first
+50 players in the ATP ranking, and substantially greater than
+the 1.85m average of the players from 51 to 100 in the ATP
+ranking (Leiting, 2015).
+In a study by Dobos & Nagykáldi (2017) in elite junior male
+and female players, a strong positive correlation was found
+between the distance the ball was tossed high and the
+maximum speed of the ball on the serve (an indicator of
+serving performance), with the higher the height of the toss,
+both in girls and boys, the greater the speed of the serve, and
+this reinforces, as we already know, the importance of hitting
+the ball as high as possible on the serve. We can state that the
+greater the height of the players, the higher they will naturally
+hit the ball and at a greater speed (Vaverka & Cernosek,
+2013), since as we observed in the study by Sánchez-Pay et al.
+(2019), the greater the height of the professional players, the
+greater service hitting speeds they achieve, thus increasing
+the percentage of points won with first serves and the number
+of direct serves. Therefore, we can say that the greater the
+height of the players, the greater the service performance.
+In addition to achieving greater ball speed, having a greater
+height provides some further advantages in the serve, as the
+net is less of an obstacle and it is easier to overcome it, as the
+degree of incidence in taller players is greater, and, therefore,
+it is easier for them to hit from top to bottom. Also, as they
+have a greater degree of incidence due to their height, it is
+easier for them to find more angles and place the ball better,
+which gives them a considerable advantage to open the court
+with their serve and surprise their opponents (Martin, 2015).
+To conclude this section, it can be stated that all the data
+collected allow us to note the importance of height as a clear
+indicator of service performance, since the greater the height,
+the higher the service performance parameters increase.
+Frequency of the two types of stances in the best servers
+The next objective of this study was to investigate the two
+types of stances (''feet up'' and ''feet back'') in the best
+servers in history, to see which is the most common and what
+advantages each may have.
+As can be seen in tables 3 and 4, the frequency of players
+who serve with their feet up among the top 50 most effective
+servers in history is far higher than those who serve with their
+feet back. Specifically, there are 36 players who serve with
+their feet up, representing 72% of the servers, compared to
+28% who serve with their feet back (14 players).
+Moreover, these data are similar to those of Renoult (2007),
+who analysed the two stance techniques during the 2007
+French Open and the results showed that 72.4 % of the
+players used the feet up technique. However, when studying
+the selection of stance according to playing style, it was
+observed that this percentage changed considerably, with
+nearly 50% of players who served and volleyed regularly or
+occasionally (doubles players or attacking players) using the
+feet back position to serve, compared to only 17% among
+those who never went to the net after their serve. It was found
+that when the player was a baseline player, he was much more
+likely to use feet up stance (83%), and that when the player
+was more likely to come up to the net the type of stance used
+was evened out. This proportion could be explained by the
+advantages provided by each type of stance, as according
+to Martin (2015) expert players using the feet up technique
+generate on average more ball speed (173 km/h vs. 166 km/h)
+Table 2
+Binomial test of frequencies of the variable type of height (very tall (+1.90m) and tall (-1.90m)).
+Level
+NO.
+Total
+Proportion
+    p
+Type of height
+Very tall (+1.90m)
+0.720
+0.003
+Tall (-1.90m)
+0.280
+0.003
+Note: H, is ratio. ≠ 0.5
+Table 3
+Binomial test of frequencies of the variable service stances (feet up and feet back).
+Level
+NO.
+Total
+Proportion
+    p
+Service stance
+Feet up
+0.720
+0.003
+Feet back
+0.280
+0.003
+Note: H, is ratio. ≠ 0.5
+Table 4
+Relative frequencies of the types of stances in the 50 best servers in history (ATP).
+Levels
+NO.
+% of total
+% Cumulative
+Feet up
+72.0%
+72.0%
+Feet back
+28.0%
+100.0%
+than with the feet back technique. This represents an average
+difference of 7 km/h in favour of the feet up technique.
+Furthermore, following this author, the feet up technique
+produces a greater ground reaction force than the feet back
+technique (2.1 times body weight compared to 1.5 times body
+weight). Consequently, the feet up technique allows players
+to impact the ball higher than the feet back technique. As we
+know, the higher the point of impact of the ball, the better
+it will be over the net, the greater the chance of improving
+first and second serve percentages and the more likely it is to
+achieve short and cross-court angles.
+On the other hand, the feet back technique would provide us
+with two other advantages, the first being that, by having a
+greater base of stance, better balance and stability is achieved
+in the serve, making it a more appropriate and simpler stance
+to teach beginner players. The second advantage is that
+this technique, by rising less upwards than with the feet up
+technique, causes them to land and stabilise faster (70 ms
+earlier according to this study), allowing them to go up to the
+net faster and cover more court sooner. Therefore, this stance
+will generate greater success among players who tend to go
+up to the net more, as they will be able to cover the net sooner.
+To conclude this section, considering that the majority of these
+50 best servers are more modern players, where a faster,
+offensive and baseline tennis is played, in which the speed and
+power of the ball is an important factor, we can state that the
+advantages provided by the feet up stance are greater, and for
+this reason the much higher percentage of servers who use
+this stance (72%) could be explained.
+Finally, within that 28% of players who stance with their feet
+back, we find players such as Pete Sampras, Boris Becker and
+Roger Federer who were known for their frequent use of the
+serve-volley tactic. This backs up the above data. All this data
+could help coaches to recommend the use of one or another
+stance depending on the player's style of play. Thus, it could
+be recommended, for example, the use of the feet back stance
+in players who use more serve and volley, as is the case of
+doubles players. However, in general, observing the best
+servers, the stance that would be most statistically effective
+would be the feet up stance.
+Relationship of the height variable to the two types of stances
+The last objective of this study was to investigate the
+relationship between the variable height (m), and type of
+height (very tall=+1.90m and tall=-1.90m) with the two types
+of stances, in the 50 best servers in history by effectiveness.
+In this way it could be known if there is a more marked use
+of one type of stance or another, depending on whether the
+players are taller.
+Table 5.1 shows the contingency values that relate the
+service stance variables with the types of height. When
+players are very tall (+1.90m), they use the feet up stance
+more, specifically 83.3% (30/36) of servers over 1.90m use
+this stance. On the other hand, players who are less than
+1.90m (tall), use the feet back stance more, although not in a
+differential way, as 57.14% (8/14) use it, compared to 42.86%
+(6/14) who use feet up.
+Observing the Chi-square test in table 5.2, it can be noted
+that there is a strong dependency relationship between
+the variables, type of height and type of service stance. It is
+understood that the greater the height of the players, the
+more they use the feet up type of stance, and the lower their
+height, the more equity is found, although the feet back type
+is used more.
+Table 5.1
+Contingency table between the variables service stance (feet up and
+feet back) and height type (very tall and tall).
+Type of height
+Service
+stance
+Very tall
+(+1.90m)
+Tall
+ (-1.90m)
+Total
+Feet up
+Feet back
+Total
+Table 5.2
+Chi-square test (X2).
+Value
+df
+p
+X2
+8.19
+0.004
+N
+If we also look at table 6 and figure 1, the average height of the
+servers using the feet up stance is higher (1.95m) than that of
+the servers using the feet back stance (1.90m). This difference
+in height is statistically significant (p<0.05), with a difference
+of 5 cm between the two groups. Considering the median, the
+difference would be even greater between the two groups
+as it is 8 cm higher in the group that stances with feet up.
+Therefore, these data would stance the previously obtained
+conclusion that the taller the players are, the more they use
+the feet up stance to serve.
+Table 6.1
+Non-parametric Mann-Whitney U. test.
+Statistics
+df
+p
+Height
+(m)
+Student's
+t-test
+2.95
+48.0
+0.005
+MannWhitney U
+0.011
+Table 6.2
+Descriptive tests for the variable height (m) of the two service stance
+groups (feet up and feet back) in the top 50 servers (ATP).
+Group
+N
+Mean
+Median
+SD
+SE
+Height
+(m)
+Feet
+up
+1.95
+1.96
+0.0620
+0.0103
+Feet
+back
+1.90
+1.88
+0.0584
+0.0156
+To conclude this last section of the study, a possible
+explanation for the fact that the taller the players are, the
+more they use the feet up stance, could be that the taller the
+players are, the more they play with a tactical pattern based
+on powerful and aggressive strokes, basing their game above
+all on a powerful first serve, to try to take an early advantage
+and finish the point faster. For this reason, they could benefit
+more from the extra speed on the serve provided by the
+feet up stance. In addition, the stronger upward momentum
+after bending with this stance allows them to hit the ball at
+a higher point, finding better angles and placement on the
+serve, to move the ball further away from the opponent when
+opening the court. These advantages could be more beneficial
+to these taller servers, in a tennis as powerful as the current
+one, although with this stance, they have a greater loss of
+stability and time in repositioning after the serve, making
+it more difficult to get up to the net. Possibly, although it is
+more difficult for them to fall and stabilise themselves after
+the jump on the serve (an advantage provided by the stance
+with their feet back), they can compensate for this loss of time
+with a bigger stride the taller they are, and in this way, also get
+to the net quickly, covering the court well. Therefore, taller
+players would benefit more from the use of a close-footed
+stance than a wide-footed stance.
+This conclusion is a proposal based on a tactical aspect and
+other biomechanical and technical factors could also be
+considered to favour this stance in taller players, which would
+be an interesting proposal for future study.
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2023 Juan Vila Pascual
+This text is under a Attribution 4.0 International (CC BY 4.0).
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms.
+Figure 1. Graph of the mean and median of the variable height (m), in
+the two service stance groups with feet up and feet back in the 50 best
+servers.
+CONCLUSIONS
+This study emphasises the great importance of player height
+as an indicator of serving performance. In addition, it allows
+us to know the existence of a greater predominance of the
+type of stance with feet up in the service compared to stance
+with feet back in the best servers by effectiveness in history.
+And it also indicates that there is a greater frequency of using
+this type of stance with feet up the taller the players are. This
+research could help coaches to recommend one type of stance
+or another on the serve, depending on the height and style of
+play of the players. Finally, this study leaves the door open
+to possible future studies that may find other biomechanical
+or technical-tactical factors that explain the greater
+predominance of the feet up stance the taller the players are.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that he does not have any conflict of
+interest and that he did not receive any funding to conduct
+the research.

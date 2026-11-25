@@ -1,0 +1,722 @@
+Title: Tactical Principles of Wheelchair Tennis: An Applied Guide for Coaches
+Authors: Tayla Mounter
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 793
+
+Introduction
+Wheelchair tennis has developed into one of the
+world's most successful Paralympic sports, with
+growing participation across community programmes,
+clubs and international competition. As the sport
+continues to expand, coaches are increasingly required
+to develop not only technical proficiency but also
+the tactical understanding that underpins successful
+match play. While effective stroke production remains
+important, players ultimately succeed through their
+ability to solve tactical problems, adapt to changing
+situations and make effective decisions under pressure
+(Crespo & Reid, 2007).
+Although many tactical principles are shared with
+able-bodied tennis, wheelchair tennis presents unique
+challenges. The movement demands of wheelchair
+propulsion and the tactical opportunities created
+by the two-bounce rule fundamentally influence
+how players create time, recover between shots and
+construct rallies (Goosey-Tolfrey & Moss, 2005; Sindall
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 111-120
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.793
+Tactical principles of wheelchair tennis: An applied
+guide for coaches
+Tayla Mounter
+University of Edinburgh
+Abstract
+Success in wheelchair tennis depends upon far more than technical stroke production. Players must
+continually perceive opportunities, create and exploit space, manage time and make effective tactical
+decisions while simultaneously controlling wheelchair movement. Although tactical understanding is
+fundamental to successful performance, relatively little guidance exists to help coaches teach tactical
+principles within wheelchair tennis. Existing literature has predominantly focused on biomechanics,
+physiology and performance analysis, leaving a gap between research and applied coaching practice.
+This article provides practical, evidence-informed recommendations for coaching tactical awareness
+in wheelchair tennis. Drawing upon research from wheelchair tennis, skill acquisition, ecological
+dynamics and representative learning design, alongside applied coaching experience, the paper
+outlines fundamental tactical principles including understanding space, using the two-bounce rule,
+attacking and defensive play, serve and return tactics, and representative approaches for developing
+tactical decision-making. Practical coaching recommendations, court diagrams and practical coaching
+activities are presented throughout to support coaches working across participation and performance
+environments.
+Key words: wheelchair tennis, tactics, coaching, representative practice.
+Received: 30 June  2026. Accepted: 4 August 2026.
+Corresponding author: Tayla Mounter, s1918193@ed.ac.uk
+et al., 2013). Consequently, successful performance
+depends upon the continual integration of wheelchair
+movement, stroke execution and tactical decisionmaking. Despite these distinctive demands, relatively
+little research has focused specifically on tactical
+coaching in wheelchair tennis. Existing literature has
+improved understanding of propulsion mechanics,
+physiological demands and movement characteristics
+(Goosey-Tolfrey & Moss, 2005; Sindall et al.,
+2013; Rietveld et al., 2022), while recent work has
+highlighted the importance of representative practice
+design (Mounter, 2025). However, considerably less
+attention has been devoted to a practical question
+faced by coaches:
+How should tactical understanding be developed?
+Contemporary skill acquisition research suggests
+that tactical behaviour develops most effectively
+when practice preserves the informational demands
+of competition and encourages players to perceive,
+decide and act within realistic performance situations
+intentionally using the second bounce provides a
+greater tactical advantage.
+Consequently, tactical coaching should move beyond
+telling players where to hit the ball. Instead, coaches
+should help players recognise relevant information,
+understand why particular decisions are effective
+and adapt their choices to the demands of each rally.
+Practice activities that preserve the perception–action
+demands of competition provide ideal opportunities
+for developing this understanding (Davids et al.,
+2008; Pinder et al., 2011; Mounter, 2025). Figure 1
+summarises this process, illustrating the continual
+interaction
+between
+perception,
+wheelchair
+movement, shot selection and recovery that underpins
+successful tactical performance in wheelchair tennis.
+The two-bounce rule: creating time as a
+tactical advantage
+The two-bounce rule is one of the defining tactical
+features of wheelchair tennis. While newcomers often
+view the second bounce simply as a rule adaptation,
+experienced players recognise it as one of the sport's
+greatest tactical advantages. Rather than providing
+an additional opportunity to reach the ball, the
+second bounce creates time, improves court position
+and enables players to make more effective tactical
+decisions. Coaches should therefore teach it as a
+tactical tool rather than a safety net.
+Unlike able-bodied tennis, where players generally
+attempt to take every ball after the first bounce,
+wheelchair tennis requires players to decide whether
+striking the ball early or intentionally allowing the
+second bounce offers the greatest advantage. This
+decision depends on factors such as court position,
+wheelchair momentum, the quality of the incoming
+shot and the player's ability to recover. Tactical
+success lies not in always using one bounce or two, but
+in recognising which option best suits the situation.
+Taking the ball after the first bounce is often
+appropriate when players are well positioned or
+receive a shorter, slower ball. By intercepting the
+ball early, players reduce the opponent's available
+time, create wider angles and maintain attacking
+pressure. Conversely, allowing the second bounce can
+be the more effective option when recovering from
+previous movement, defending wide positions or
+responding to deep, penetrating shots. The additional
+time allows players to reposition the wheelchair,
+regain balance and prepare a higher-quality return.
+Given the importance of movement efficiency in
+wheelchair tennis, effective recovery and positioning
+are fundamental to successful tactical performance
+(Goosey-Tolfrey & Moss, 2005; Sindall et al., 2013).
+Rather than describing the second bounce as either
+"good" or "bad", coaches should encourage players to
+evaluate each situation by asking:
+(Davids et al., 2008; Pinder et al., 2011; Button et al.,
+2020). Rather than separating technical execution
+from decision-making, coaches should create learning
+environments in which these processes develop
+together (Araújo et al., 2006; Davids et al., 2013).
+This article provides practical, evidence-informed
+recommendations for developing tactical awareness
+in wheelchair tennis. Drawing on research from
+wheelchair tennis, skill acquisition and applied
+coaching practice, it outlines the key tactical
+principles that underpin successful performance and
+offers practical strategies for coaches working across
+participation and performance settings.
+Understanding tactics in wheelchair
+tennis
+One of the biggest differences between novice and
+experienced players is not how well they strike the ball,
+but how well they understand the game. Successful
+wheelchair tennis players continually interpret
+information from the environment, anticipate their
+opponent's intentions and adapt their movement
+and shot selection accordingly. Every rally therefore
+becomes a process of solving tactical problems rather
+than simply producing technically correct strokes.
+At its simplest, tactical decision-making revolves
+around three questions:
+•	 Where is the available space?
+•	 How much time do I have?
+•	 What movement solution gives me the greatest
+tactical advantage?
+Players answer these questions repeatedly throughout
+every rally by interpreting information from the
+opponent, the ball and their own court position. From
+an ecological dynamics perspective, tactical decisions
+emerge through the interaction between the player
+and the performance environment rather than from
+pre-planned movement patterns (Araújo et al., 2006;
+Davids et al., 2013).
+Wheelchair tennis adds another layer of tactical
+complexity because every decision must also consider
+wheelchair movement. Players must coordinate
+propulsion, turning, recovery and stroke preparation
+while maintaining effective court positioning, making
+movement efficiency a fundamental component of
+tactical performance (Goosey-Tolfrey & Moss, 2005;
+Sindall et al., 2013).
+The two-bounce rule further distinguishes wheelchair
+tennis from the able-bodied game. Rather than simply
+adapting the rules, it creates additional tactical
+opportunities by allowing players to create time,
+recover more effectively and improve court position.
+Successful players recognise when taking the ball
+after one bounce maintains pressure and when
+Representative practice provides an ideal environment
+for developing these decisions. Coaches can manipulate
+court size, target areas or scoring systems to encourage
+intentional use of either one or two bounces according
+to the tactical objective. For example, players might
+receive bonus points for recognising opportunities
+to attack early or for recovering effectively after
+intentionally using the second bounce. Such activities
+preserve the informational and movement demands
+of competition while encouraging players to explore
+different tactical solutions (Davids et al., 2008; Pinder
+et al., 2011; Button et al., 2020).
+•	 Can I maintain pressure by taking the ball early?
+•	 Would using the second bounce improve my
+positioning?
+•	 Am I balanced enough to produce an effective
+shot?
+•	 Where will my opponent be after I return the ball?
+These questions encourage players to understand
+why they choose one option over another, promoting
+adaptable decision-making rather than automatic
+responses.
+Figure 1. A conceptual framework for tactical decision-making in wheelchair tennis. Diagram illustrating the
+interaction between perception, wheelchair movement, shot selection and recovery throughout each rally.
+either the first or second bounce may be advantageous,
+while Figure 2 illustrates how these decisions change
+according to court position, available time, wheelchair
+movement and tactical intention. Together, they
+provide a practical framework for teaching the twobounce rule as a dynamic tactical principle rather than
+simply a rule adaptation.
+The most successful wheelchair tennis players do not
+use the second bounce simply because they can—
+they use it because it provides the greatest tactical
+advantage at that moment in the rally. Coaches should
+therefore help players recognise the contextual factors
+influencing this decision rather than encouraging fixed
+rules. Table 1 summarises common situations in which
+Table 1. Tactical use of the two-bounce rule.
+Tactical situation
+Recommended option
+Coaching rationale
+Short attacking ball
+First bounce
+Reduce the opponent's recovery time and create
+attacking opportunities.
+Wide defensive ball
+Second bounce
+Create additional recovery time and improve court
+positioning.
+Recovering after difficult
+movement
+Second bounce
+Restore balance before stroke production.
+Ball inside the service line
+First bounce
+Apply pressure by moving forward and taking time
+away from the opponent.
+Deep defensive rally
+Context dependent
+Balance recovery needs with attacking
+opportunities.
+Opponent out of position
+First bounce
+Exploit available space before recovery occurs.
+Figure 2. Tactical application of the two-bounce rule. Illustration of common match situations demonstrating
+how players can use either the first or second bounce to create time, improve court position and gain tactical
+advantage. Bounce selection should be guided by the interaction between court position, available time,
+wheelchair movement and tactical intention rather than by a fixed coaching rule.
+Players should also recognise the value of attacking
+behind movement. Redirecting the ball behind
+an opponent who is already changing direction
+frequently creates greater tactical advantage than
+aiming for the widest available angle. This principle
+is especially effective in wheelchair tennis, where
+changing direction requires additional propulsion and
+recovery time.
+Attacking does not end when the ball leaves the
+racket. Every attacking shot should be followed by
+immediate recovery and preparation for the next
+decision. Developing players often admire successful
+shots instead of recovering into an effective court
+position, reducing their ability to maintain pressure
+throughout the rally.
+Rather than prescribing fixed attacking patterns,
+coaches
+should
+design
+representative
+practice
+activities that encourage players to recognise
+attacking opportunities as they emerge. Manipulating
+task constraints to reward depth, movement creation
+or effective recovery allows players to discover
+successful tactical solutions within realistic match
+situations (Davids et al., 2008; Pinder et al., 2011;
+Mounter, 2025).
+Table 2 summarises practical coaching principles for
+attacking, defending and the opening phases of the
+rally. Although presented separately, these principles
+should be developed together within representative
+practice activities that integrate movement, decisionmaking and tactical awareness.
+Attacking principles
+Successful attacking play in wheelchair tennis is
+rarely the result of a single powerful shot. Instead,
+players build pressure by controlling time and space
+until an attacking opportunity emerges. Coaches
+should therefore encourage players to think beyond
+hitting winners and instead understand how rallies
+are constructed.
+The first objective of attacking play is to reduce the
+opponent's available time. Players can achieve this
+by taking the ball earlier, moving forwards when
+appropriate or directing shots that force immediate
+movement. Importantly, reducing time does not
+necessarily require greater ball speed. Well-directed
+shots with depth or angle often create more pressure
+than simply hitting harder.
+Creating space is equally important. Effective
+attackers move opponents away from the centre of
+the court, force repeated changes of direction and
+exploit the space that follows. Deep groundstrokes are
+particularly valuable because they restrict attacking
+options, provide additional recovery time and often
+produce shorter replies that can be attacked. Research
+in tennis consistently highlights the importance
+of controlling court position through depth before
+attempting aggressive finishing shots (Crespo & Reid,
+2007; Reid et al., 2007).
+Table 2. Practical tactical principles for attacking, defending and the opening of the rally.
+Tactical phase
+Coaching objective
+Example coaching cue
+Attack short balls
+Reduce opponent's recovery
+time
+"Move forward early."
+Use depth
+Push opponent behind the
+baseline
+"Create time before attacking."
+Create width
+Open space for the
+following shot
+"Move them before finishing."
+Attack behind movement
+Exploit changes in
+direction
+"Hit where they're leaving."
+Recover immediately
+Maintain tactical pressure
+"Attack, then prepare."
+Serving
+Create an advantage for the
+next shot
+"Where do you want your next ball?"
+Serve recovery
+Regain an effective
+court position
+"Recover before they hit."
+Returning
+Neutralise or apply
+pressure
+"Where can you make them move?"
+Reading opponents
+Recognise tactical
+patterns
+"What did you notice about their serve?"
+Serve +1
+Build the point
+"What is your next decision?"
+racket preparation and likely intentions. Anticipating
+play while recovering improves positioning, reduces
+unnecessary movement and better prepares players
+for the next tactical decision.
+Developing players often try to regain the initiative
+too quickly, leading to unforced errors and poor shot
+selection. Coaches should instead reinforce the value
+of patience, emphasising that regaining control of the
+rally is often a successful outcome before attempting
+to attack.
+These behaviours are best developed through
+representative
+practice.
+Coaches
+can
+design
+activities that reward successful recovery, prolonged
+rallies or effective transitions from defence to
+neutral, encouraging players to appreciate defence
+as a proactive tactical skill while preserving the
+informational and movement demands of competition
+(Davids et al., 2008; Button et al., 2020).
+Successful wheelchair tennis players transition
+continually between attacking and defensive roles
+throughout a rally. Figure 3 illustrates these common
+tactical patterns, demonstrating how players apply
+pressure when attacking and use recovery, court
+positioning and movement efficiency to regain tactical
+control when defending.
+Defensive principles
+Effective defence is more than simply keeping the
+ball in play. Skilled defenders use defensive situations
+to create time, recover court position and gradually
+regain tactical control. Coaches should therefore
+present defence as an active tactical strategy rather
+than simply a response to pressure.
+The primary objective of defensive play is to create
+sufficient time to recover. Height and depth often
+become more valuable than pace, as higher, deeper
+shots increase ball flight time, allowing players to
+reposition the wheelchair while reducing immediate
+attacking opportunities for the opponent.
+The two-bounce rule is particularly valuable in
+defensive situations. Rather than rushing to intercept
+every ball after one bounce, players should recognise
+when intentionally allowing the second bounce
+provides more time to recover, establish balance and
+produce a higher-quality return. Used effectively, the
+second bounce can transform defensive situations
+into neutral rallies instead of rushed, low-percentage
+shots.
+Recovery is not simply about movement; it also
+requires anticipation. As players recover, they should
+continually interpret the opponent's court position,
+Figure 3. Attacking and defensive tactical patterns in wheelchair tennis. The figure illustrates representative
+attacking and defensive scenarios commonly encountered during match play. The attacking examples
+demonstrate how players can create pressure through depth, width, early ball interception and attacking behind
+movement, while the defensive examples illustrate the use of recovery, court repositioning, height, depth and
+the two-bounce rule to create time and regain tactical control.
+changing demands of the rally. The coach's role
+is therefore to design learning environments that
+encourage players to recognise opportunities and
+solve tactical problems independently rather than
+relying on constant instruction.
+Questioning is one of the most effective ways to
+support this process. Instead of immediately providing
+answers, coaches can encourage reflection through
+questions such as: Where was the available space? Why
+did you use the second bounce?or How could you have
+created more time? This approach encourages players
+to evaluate their own decisions and is consistent with
+ecological dynamics and constraints-led coaching,
+where learning emerges through interaction with
+the performance environment rather than through
+repetition of prescribed movement patterns (Davids
+et al., 2008; Renshaw et al., 2009; Button et al., 2020).
+Representative practice remains central to tactical
+development.
+Activities
+should
+preserve
+the
+informational, perceptual and movement demands
+of competition while allowing coaches to manipulate
+constraints that emphasise specific tactical principles.
+Adjusting court dimensions, target areas, scoring
+systems or movement objectives enables players
+to explore different solutions without prescribing
+a single correct response. Similar approaches have
+been recommended within wheelchair tennis and
+other racket sports, where representative practice
+supports the simultaneous development of technical,
+tactical and perceptual skills while maintaining player
+engagement (Mounter, 2025; Mounter et al., 2025).
+Tactical understanding develops progressively. Rather
+than introducing multiple concepts simultaneously,
+coaches should focus each session on one or two
+tactical principles and provide repeated opportunities
+to apply them within realistic game situations.
+Equally important, coaches should recognise that
+effective solutions will vary according to individual
+movement capabilities, physical characteristics and
+playing styles. Encouraging adaptable decisionmaking, rather than one ideal solution, is particularly
+important in wheelchair tennis, where differences in
+mobility and wheelchair handling inevitably influence
+tactical choices.
+Ultimately, the goal is not to direct every decision but
+to develop players who can make effective decisions
+independently. Table 3 provides practical examples of
+representative coaching questions alongside common
+coaching pitfalls, offering coaches a simple framework
+for developing tactical awareness through playercentred, game-based learning.
+Serve and return
+Every point in wheelchair tennis begins with an
+opportunity to establish tactical control. Rather than
+treating the serve and return as isolated technical
+skills, coaches should present them as the opening
+phase of a tactical sequence that influences court
+position, movement and the direction of the rally.
+Following the serve, players must transition quickly
+from stroke production to wheelchair propulsion and
+recovery. Efficient movement after the serve is just as
+important as the quality of the serve itself, enabling
+players to establish an effective court position for the
+next shot.
+Introducing the concept of Serve +1 encourages
+players to think beyond simply starting the rally. The
+serve should create an opportunity for the following
+shot. A wide serve may open space on the opposite side
+of the court, a body serve can restrict the opponent's
+swing, and a deep serve may limit attacking return
+options. Coaches should therefore encourage players
+to decide where they intend to play their next shot
+before beginning the service action.
+The return of serve should be approached with the
+same tactical intent. Rather than simply returning
+the ball into play, players should aim to neutralise
+the server's advantage or create immediate pressure.
+Consistent, deep returns directed towards larger
+target areas often provide the best opportunity to
+regain tactical balance while allowing sufficient time
+to recover. As players develop, greater variation in
+direction, height and pace can be introduced.
+Observation is equally important. Recognising an
+opponent's serving patterns, preferred placements
+and recovery habits enables players to anticipate likely
+outcomes and make more effective tactical decisions
+before the ball is struck.
+These skills are best developed through representative
+practice. Coaches should design activities that include
+complete Serve +1 and Return +1 sequences, rewarding
+effective recovery, first-shot quality and tactical
+decision-making rather than simply successful serves.
+By linking technical execution with tactical intention
+from the beginning of every rally, players develop a
+more complete understanding of how to establish and
+maintain tactical control.
+Developing tactical awareness
+Developing tactically intelligent players involves far
+more than teaching where to hit the ball. Successful
+players continually perceive information, interpret
+their environment and adapt their decisions to the
+A second pitfall is over-coaching. Continuous
+instruction can limit exploration and encourage
+players to rely on the coach rather than learning
+to interpret information independently. Instead,
+questioning and guided discovery should direct
+attention towards relevant tactical cues while allowing
+players to develop their own solutions (Renshaw et al.,
+2009).
+Coaches should also be careful not to reward
+outcomes over decisions. Winning a point does not
+always reflect good tactical decision-making, just as
+a well-considered decision may not always produce
+immediate success. Reinforcing intelligent choices,
+regardless of the outcome, encourages better longterm tactical development.
+Practice design is equally important. Long queues,
+repetitive basket feeding and isolated stroke drills
+reduce opportunities for perception, movement and
+decision-making. In contrast, representative practice
+activities that require players to interpret opponents,
+move efficiently and solve tactical problems are more
+likely to transfer to match play (Davids et al., 2008;
+Mounter, 2025; Mounter et al., 2025).
+Finally, coaches should avoid expecting every
+player to solve tactical problems in the same way.
+Differences
+in
+movement
+capability,
+physical
+characteristics and playing style mean there is rarely
+a single correct solution. Effective coaching supports
+players in discovering tactical behaviours that suit
+their individual strengths while preserving the key
+demands of competition.
+Together, these principles reinforce a player-centred
+approach to tactical coaching in which learning is
+guided through carefully designed practice, purposeful
+questioning and representative game situations rather
+than prescriptive instruction.
+Table 3. Representative coaching questions and common coaching pitfalls.
+Coaching objective
+Representative
+coaching question
+Common coaching
+pitfall
+Better coaching practice
+Recognising space
+Where was the
+available space?
+Teaching technique
+before tactics
+Develop technical and tactical
+understanding together.
+Creating time
+How could you
+create more time?
+Providing constant
+instruction
+Use questioning to encourage
+decision-making.
+Court positioning
+Where should you
+recover?
+Rewarding only
+successful outcomes
+Reinforce intelligent tactical
+decisions.
+Decision making
+What other option
+did you have?
+Using isolated drills for
+prolonged periods
+Design representative games that
+preserve match demands.
+Tactical awareness
+What information
+did your opponent
+give you?
+Treating every player
+identically
+Adapt tactical solutions to
+individual strengths and movement
+capabilities.
+Reflection
+Why was that the
+best choice?
+—
+Encourage player reflection after
+each rally.
+Tactical awareness develops most effectively when
+players are encouraged to solve problems rather than
+simply reproduce prescribed movement patterns.
+Coaches can facilitate this process by linking Serve +1
+planning, representative questioning and reflective
+feedback within realistic practice situations. Figure
+4 brings these principles together into a practical
+coaching framework that can be used to guide
+session planning, on-court coaching and post-rally
+discussions. Rather than viewing tactical development
+as a series of isolated concepts, the framework
+illustrates how decision-making can be systematically
+developed
+through
+representative
+practice
+and
+purposeful coach–player interactions.
+Common coaching pitfalls and better
+practice
+Developing tactical understanding requires more than
+exposing players to match play. Coaches shape how
+players perceive information, solve problems and make
+decisions throughout every rally. However, several
+common coaching practices can unintentionally limit
+tactical development. Recognising these pitfalls helps
+coaches create learning environments that encourage
+adaptable
+decision-making
+rather
+than
+simply
+improving technical execution.
+One of the most common mistakes is treating tactics
+as something that should be introduced only after
+technique has been mastered. In reality, technical
+and tactical skills develop together. Players must
+learn not only how to execute a stroke, but also when,
+why and where to use it. Developing these elements
+simultaneously within representative practice better
+reflects the demands of competition (Davids et al.,
+2008; Pinder et al., 2011; Button et al., 2020).
+Figure 4. Developing tactical awareness in wheelchair tennis. The framework integrates Serve +1 decisionmaking, representative coaching questions and common tactical coaching mistakes to illustrate how coaches
+can develop independent decision-makers. By encouraging players to perceive relevant information, evaluate
+tactical options, recover effectively and reflect on their decisions, coaches can create representative learning
+environments that promote adaptable tactical behaviour and transfer to match play.
+Conclusion
+Successful wheelchair tennis depends on more than
+technical proficiency or physical preparation. Players
+ultimately succeed through their ability to perceive
+information, create and exploit space, manage time
+and adapt their decisions to the changing demands of
+each rally. Tactical understanding should therefore be
+developed alongside technical and physical skills from
+the earliest stages of player development.
+This article has presented practical, evidence-informed
+recommendations for developing tactical awareness in
+wheelchair tennis by integrating current research with
+applied coaching practice. Understanding how to use
+the two-bounce rule, balance attacking and defensive
+play, develop Serve +1 and Return +1 patterns, and
+design representative learning environments provides
+coaches with a practical framework that can be
+adapted across different ages, abilities and stages of
+development.
+Ultimately, effective tactical coaching is not about
+telling players where to hit the ball but creating
+learning environments in which they learn to
+recognise information, evaluate options and make
+Goosey-Tolfrey, V. L., & Moss, A. D. (2005). Wheelchair
+velocity of tennis players during propulsion with and
+without the racket. Adapted Physical Activity Quarterly,
+22(3), 291–301.
+Light, R. (2013). Game Sense: Pedagogy for Performance,
+Participation and Enjoyment. Routledge.
+Mounter, T. (2025). Designing representative wheelchair
+tennis practice drills: Stage-specific recommendations
+for representative practice design. ITF Coaching & Sport
+Science Review. In press.
+Newell, K. M. (1986). Constraints on the development of
+coordination. In M. G. Wade & H. T. A. Whiting (Eds.),
+Motor Development in Children: Aspects of Coordination
+and Control (pp. 341–360). Martinus Nijhoff.
+O'Donoghue, P., & Ingram, B. (2001). A notational analysis
+of elite tennis strategy. Journal of Sports Sciences, 19(2),
+107–115.
+Pinder, R. A., Davids, K., Renshaw, I., & Araújo, D. (2011).
+Representative learning design and functionality of
+research and practice in sport. Journal of Sport and
+Exercise Psychology, 33(1), 146–155.
+Reid, M., Crespo, M., Lay, B., & Berry, J. (2007). Skill
+acquisition in tennis: Research and current practice.
+Journal of Science and Medicine in Sport, 10(1), 1–10.
+Renshaw, I., Chow, J. Y., Davids, K., & Hammond, J. (2010).
+A constraints-led perspective to understanding skill
+acquisition and game play: A basis for integration of
+motor learning theory and physical education praxis?
+Physical Education and Sport Pedagogy, 15(2), 117–137.
+Rietveld, T., et al. (2022). Performance characteristics of elite
+wheelchair tennis: A systematic review. International
+Journal of Sports Science & Coaching, 17(6), 1417–1432.
+Sindall, P., Lythgo, N., & Goosey-Tolfrey, V. (2013). Activity
+profiles and physiological responses of wheelchair tennis
+match play. International Journal of Sports Physiology
+and Performance, 8(5), 444–451.
+Tweedy, S. M., & Vanlandewijck, Y. C. (2011). International
+Paralympic Committee position stand—Background and
+scientific principles of classification in Paralympic sport.
+British Journal of Sports Medicine, 45(4), 259–269.
+effective decisions independently. By placing decisionmaking at the centre of practice, coaches can develop
+adaptable players capable of solving the continually
+evolving problems presented by wheelchair tennis
+while contributing to the continued development of
+coaching practice within the sport.
+Conflicts of interest
+The author declares no conflicts of interest.
+Funding
+The author declares no funding was received.

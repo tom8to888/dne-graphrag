@@ -1,0 +1,671 @@
+Title: The governance of tennis clubs: Relevant issues
+Authors: Alejandro Valiño
+Year: 2022
+Issue: Vol. 30 No. 87 (2022)
+Article id: 346
+
+ABSTRACT
+Sports clubs are an expression of the universally recognised fundamental right of free
+association without any limitation other than the pursuit of lawful purposes. These
+organisations play a prominent role in the environment in which tennis takes place. This
+article shares some relevant aspects concerning the governance of tennis clubs. These
+include the legal nature of sports clubs, the management of tennis clubs in their sporting
+and economic aspects, the integration and management of training, competition and
+education programmes, certain cross-cutting aspects, and the internal organisation and
+liability regime of the volunteers and managers of tennis clubs. Finally, a brief note on the
+management of sports service companies is included.
+LEGAL NATURE OF SPORTS CLUBS
+Among the growing number of contexts in which the practice
+of tennis takes place in its different variations (recreational
+activity, elementary education, agonistic training, competitive
+events of different levels, mainly), tennis clubs continue to play
+a prominent role, as they are an expression of the fundamental
+right of free association that is universally recognised with no
+other limitation than the pursuit of lawful purposes1. Due to
+their connection with the game, tennis clubs are subject to a
+certain degree of regulation in the sport regimes of all levels
+as well as in their territorial scope of application2. Thus, their
+character as private entities is emphasised, whether profit
+or non-profit3, formed by a minimum number of people, with
+full legal capacity to act differentiated from that of their
+members, and with the power to self-regulate their interests
+for the fulfilment of their aims in their Statutes and Internal
+Regulations, which specify, among other things, the functions
+and system of election and action of their representative and
+governing bodies (VALIÑO, 2019, 40-44).
+www.itfcoachingreview.com
+August 2022. 30th Year. Issue 87. 7-13
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i87.346
+The governance of tennis clubs:
+Relevant issues
+Alejandro Valiño
+University of Valencia, Spain.
+Key words: management, legal,
+organisation, responsibility,
+liability.
+Received: 9 June 2022
+Accepted: 25 July  2022
+Corresponding author: Alejandro
+Valiño. Email: avalino@uv.es
+Apart from the legal considerations mentioned above, it is
+a fact that no two tennis clubs are the same. Many factors
+contribute to this differentiation: their location, the weight
+of tradition, the socio-economic profile of their members, the
+multiplicity of facilities and services they offer really make
+the difference between the different types of clubs. This
+influences the management and administration tasks of tennis
+clubs, making them simpler or more complex (VALIÑO, 2009,
+19). But not everything involves looking 'inwards'. Social life
+is changing at breakneck speed in most countries4. The large
+number of leisure alternatives offered to citizens, including
+many of a sedentary nature highly linked to the compulsive use
+of new (no longer so much) technologies (CASTRO-SÁNCHEZ
+e.a., 2017, 250), makes it difficult or, at least, attenuates their
+links with sports clubs, in contrast to those times in the past
+when they were perceived as a comfortable and safe space for
+families to meet and for children to develop their personalities,
+with a predominant role for sports practice that monopolised
+the available leisure time and combined perfectly with the
+rhythms imposed by school life.
+COACHING & SPORT
+SCIENCE REVIEW
+1 Art. 20 of the Universal Declaration of Human Rights (1948); Art. 22 of the American Declaration of the Rights and Duties of Man (1948); Art. 11 of the European
+Convention for the Protection of Human Rights and Fundamental Freedoms (1950); Art. 22 of the International Covenant on Civil and Political Rights (1966); Art.
+16 of the American Convention on Human Rights (1969); Art. 10 of the African Charter on Human and Peoples' Rights; and Art. 12 of the Charter of Fundamental
+Rights of the European Union (2007). This right is naturally echoed in all Constitutions. In Spain, for example, in art. 22.1, being the object of normative development
+through Organic Law 1/2002, of 22 March, regulating the Right of Association. It is also proclaimed in the Resolution of the Council and of the Representatives of the
+Governments of the Member States, meeting within the Council, on the key characteristics of the European model of sport (No. 7, 2021/C 501/01).
+2 In Spain, by virtue of Art. 148.1.19ª, which gives the Autonomous Communities powers for the "promotion of sport" and the "appropriate use of leisure", sports
+clubs are the object of special attention in the autonomous sports regulations, and in some Autonomous Communities (for example, in the Valencian Community
+following its Decree 2/2018, of 12 January, of the Consell, which regulates the sports entities of the Valencian Community) there is growing intervention by the
+public authorities in their regime of constitution and ordinary operation, especially if they seek to obtain public subsidies.
+3 In Spain, at the state level, with the Law 10/1990 of 15 October 1990 on Sport still in force, the legal definition of Art. 12.1 dispenses with the exclusion of profit
+motive due to the presence in certain sports of clubs that pursue it, while in the autonomous sphere, the classic scenario of amateur sport, the absence of profit
+motive entails an unavoidable presupposition, which, in essence, is specified in the impossibility of giving the possible profits derived from its activity a different
+application to that of the execution of its social aims, which are the practice and promotion of sporting activity.
+4 This is implicitly pointed out in the European Sports Charter as revised by Recommendation CM/Rec (2021)5 of the Committee of Ministers of the Council of
+Europe adopted on 13 October 2021 when it states that "political, economic and social changes and their impact on sport have occurred in Europe at an accelerated
+pace since the last revision of the European Sports Charter in 2001, making a new European Sports Charter necessary to reflect these changes and to meet future
+challenges".
+The combination of all these internal and external factors
+challenges the sports managers today in the delivery of their
+professional duties, and it will be the success and timeliness
+of the decisions and initiatives they adopt, both in terms of
+their qualifications and knowledge, as well as their analytical
+perspective and adaptation to the environment, and by their
+aptitude to form and lead a solvent work team that supports
+them, which will allow, in the light of the results achieved, an
+appropriate assessment of their competence and professional
+standing with a view to giving impetus to and ensuring the
+sustainability of the tennis club they oversee.
+THE MANAGEMENT OF TENNIS CLUBS FROM A SPORTING
+AND ECONOMIC POINT OF VIEW
+Integration into a sports club
+The sporting life of tennis clubs is their “raison d'être”
+and the fundamental aspect that explains their existence
+and continuity over time, even though other aspects of
+social life may be given support and prominence, which,
+in a complementary way, are of concern or loyalty to their
+members. In this context, which ranges from the free practice
+of tennis to the planning and execution of all types of coaching
+and training programmes, there are many questions of
+interest from the point of view of sports management.
+The free practice of tennis can be implemented differently in
+each tennis club. It is usually linked to the prior acquisition
+of membership through a title, whatever the legal nature
+of the entity (commercial company or civil association).
+For instance, the requirement for sports clubs to be nonprofit-making, which is present in the sports laws of the
+Autonomous Communities in Spain, can be circumvented
+through the constitution of an underlying civil association,
+whose members may or may not fully coincide with those
+of the parent commercial company, which is the one that, in
+fact, holds the ownership of the facility in which its members
+interact and of which the civil association habitually makes
+use on a leasing basis. The full and differentiated legal capacity
+and capacity to act of both entities favours the emergence of
+this type of legal relationship, with differentiated accounts
+and budgets in their respective balance sheets and, related to
+this, makes the management and administration tasks of the
+tennis club more complex.
+The approach just described raises quite a few questions of
+legal implications. Thus, without being exhaustive, the regime
+of acquisition and transfer of these securities or titles that
+integrate the individual into the entity, is monopolised in
+sports clubs that adopt the form of a civil association by their
+representative and governing bodies. On the other hand, in
+those in which a commercial company pre-exists, the transfer
+of the securities that make the subsequent integration into
+the underlying sports club possible is subject to the rules of
+the market, with the degree of intervention that the entity
+itself may have in such transactions being variable, with
+the possible costs that the acquirer may incur because of
+this intermediation. In this context, it is not uncommon for
+the articles of the association to provide for a right of first
+refusal, either in favour of the company itself to build up
+its own reserve fund, or in favour of existing shareholders
+wishing to increase their investment. Whatever the nature
+(civil or commercial) of the entity, the fact that it is a place
+for leisure through sport and social gatherings, as well as the
+limited nature of its facilities and services, justifies a certain
+degree of control of the membership regime by its governing
+bodies, which often restrict or prevent access to possible new
+interested parties or limit it to those closest to them.
+In this respect, the management analysis of the entity, which is
+the responsibility of the management staff, can drive changes
+in the access policy set by a certain club if this is advisable
+for reasons of economic viability to attract the resources
+that will allow improvements to be undertaken that are
+indispensable for reasons of necessity or opportunity. And it
+is in this aspect that the leadership of the sports manager can
+be most evident, whose preparatory work (identification of
+needs and convenience) can drive the club's governing bodies
+to make the regulatory changes that the sports manager will
+subsequently have to implement.
+In any case, having acquired membership status, free
+tennis practice is linked to other aspects of management
+that those responsible for this area in the club must take
+into consideration. Thus, testing the occupancy rate of the
+courts during the time the facility remains open is essential
+to promote actions to stimulate and improve to make the
+most of the available facilities at times of low occupancy.
+A policy of lower prices in certain time slots in those clubs
+where members must contribute, in addition to their regular
+membership fees, to the running costs, could encourage the
+use of the courts in certain time slots that are perceived as less
+attractive. Likewise, this occasional underuse of the courts
+can be used to implement new initiatives that complement
+other initiatives to promote tennis. Thus, for example, the
+scheduling of weekend competitions in the afternoon for
+the players enrolled in the club’s programme, which could
+act as a stimulus and assessment of their progress in the
+acquisition of technical, tactical (decision-making), physical,
+and psychological (emotional management) skills.
+In the same way, defining the degree of court use can
+prevent certain clashes of interests within the club, since
+it is necessary to convey the preferences of many members
+for the free practice of tennis with the programmes and
+activities that the club wishes to promote to fulfil its aims
+and balance its budget: coaching and training programmes,
+and competitive activities. Certainly, the use by clubs of
+digital tools for monitoring the use of facilities makes it easy
+to gather precise data on which to base the sports policy to
+be implemented and thus rationally and objectively guide the
+actions to be undertaken.
+The management of coaching and training programmes in
+sports clubs
+Any sports club, depending on the variables considered
+(number of members, available facilities, results of the court
+use study), will be able to undertake a more or less ambitious
+sports training strategy for its users. Some clubs will limit
+themselves to offering recreational programmes focused
+on coaching beginner players, as a starting step to access
+to the free practice of tennis, with the result that their best
+talents will be forced to continue their tennis development
+outside the club's facilities. Others, on the other hand, will
+be able to ensure a certain sporting growth for the most
+talented players at least up to certain levels of their game
+and tennis development, as it is common that at the dawn of
+professionalism or for access to American universities it is
+essential to join the programmes of some high-performance
+tennis academies.
+The aspects of sports management that arise in this respect are
+unquestionable and in them, technical-sport considerations
+should be combined with those of an organisational, social
+and economic nature (cfr. CRESPO CELDA, 5-6). It is possible
+for them to be combined in a single person, surrounded by
+the indispensable team for the execution of the programmes
+to be undertaken, if the sports manager, in addition to their
+managerial skills, has the necessary tennis knowledge. In
+large clubs, on the other hand, the separation of roles is not
+uncommon, so that with the Manager or General Director,
+involved in the organisational and economic management
+aspects, a Sports Director collaborates closely, who,
+depending on the trust that the entity has placed in him,
+defines the sports policy and, consequently, the coaching and
+training programmes to be implemented, always considering
+the valuable information that the management can provide
+him with to avoid social challenges in the club.
+Apart from this frequent organisational dualism, which is
+justified by the specialisation of the respective tasks, the
+implementation of coaching programmes involves a number
+of associated sport management issues: the recruitment of
+a sufficient number of coaches and the negotiation of their
+salaries according to their certification and experience; the
+assignment of coaches to the various programmes according
+to their qualifications, the rational distribution of the workload
+and the attribution to some of them of special responsibilities
+in certain programmes for more advanced players (e.g.
+travelling with them to tournaments); the constant monitoring
+of the delivery of the various programmes to detect aspects
+that can be corrected in the least traumatic way possible,
+are some of the essential issues to ensure the success of the
+initiatives undertaken.
+Naturally, apart from the personal impression that the
+Manager and the Sports Director may have of the functioning
+of the different programmes, efforts must be made to obtain
+objective data which, if necessary, can be used to redirect
+the club's sports policy with a view to improving it. Thus,
+for example, the tennis progress of the players that can be
+objectively measured (improvements in the ranking, matches
+and tournaments won, promotions in team competitions) can
+be a good starting point, but, apart from the results, always
+so present in tennis, there are other 'numbers' more linked
+to participation that should not be overlooked. Think, for
+example, of the increase or decrease in the number of players
+interested in joining the programmes offered by the club; the
+rate of drop-outs that may have occurred; the social response
+to complementary activities to promote the competitive
+spirit (i.e., weekend competitions); and the interest generated
+by social events of sporting involvement, such as opening
+and closing ceremonies of sports programmes, clinics and
+promotional exhibitions, or commemorations, recognitions
+and tributes to club members or teams.
+These data, analysed with prudence and moderation, are
+undoubtedly precious for focusing the decision-making
+process, not only of those responsible for the sporting
+and economic management of the club, but also of the
+representative and governing bodies which, articulated for
+operational reasons in different working commissions, will
+have to undertake the appropriate regulatory initiatives
+to ensure its sustainability. And these data must not only
+be examined from a sporting perspective, but also from an
+economic one, since, more so in some clubs than in others,
+they are a determining factor in the club's budgetary balance.
+The management of competitive activities in tennis clubs.
+The sports policy of a tennis club would not be complete
+without the provision of a rational calendar of competitions
+that fosters cohesion among members and contributes to
+the fulfilment of social goals. Some of these competitions
+are a consequence of the membership of the tennis club to a
+sports federation, so that the associated management aspects
+must be limited to decision-making, in essence to take or not
+part in the events depending on what it implies for the club's
+sporting image, the degree of commitment of the players to
+the schedule of matches, the foreseeable economic cost of
+travel and the coincidence with other internal competition
+activities. Others, on the other hand, define the programme
+that a sports club has decided to carry out in a season, using as
+a starting point the foreseeable concerns of its members and
+always considering the available resources.
+Again, in this respect, the use of the data that the club handles
+is indispensable for the adoption of the most appropriate
+management decisions. They will show the age range and
+the effective use of courts by members, as well as the
+participation history of each of them in previous seasons or
+the preference of members to compete at certain times of the
+year, which can be used as a criterion to include or not certain
+competitions from the calendar. This does not prevent that,
+additionally, sports policy decisions may involve the use of
+new competition formats (senior tournaments, fathers and
+sons, 12-hour tournaments) in order to find out the degree of
+acceptance that they reach among the members.
+Management tasks should not be limited to the rational
+scheduling of competitions, avoiding at all costs the saturation
+of the availability of courts. It is essential to appoint people to
+supervise the development of the competition until it reaches
+a successful conclusion. The flexibility in the scheduling of
+matches that so often is used in social competitions should not
+be an obstacle to demanding a certain degree of commitment
+from all participants to avoid undue delays that discourage
+continuity in the competition or participation in the future,
+so that the person in charge of running the competition
+must combine the skills that will ensure the success of the
+enterprise.
+Cross-cutting aspects of sports club management
+There are infinite details that make the difference between
+one club and another, which contribute to the member's
+perception of the club as an extension of their own home.
+And, of course, considering them to generate an increasing
+satisfaction of the club's users should be an unavoidable
+aspiration for its managers (TENNANT & PROBERT, 2014,
+21-22). From the tidiness and orderliness of all club facilities
+(changing rooms, fitness rooms, social rooms, cafeteria and
+restaurant, pool area) to the maintenance of the facility and
+its furnishings and equipment in accordance with the highest
+safety and quality standards. Likewise, the image, appearance
+and willingness of the staff in all areas of the club is essential
+to create the atmosphere that a demanding member expects
+from their club. Also, the general access to digital information
+imposes on the most reluctant clubs an investment effort to
+show proximity to their members. It is not surprising that
+large clubs have already implemented personalised mobile
+apps through which members can book spaces, receive
+information, offer availability to play with other users, or
+access data processing and management, a system that
+does not prevent the use of other means of communication
+preferred by certain age segments.
+The internal organisation and liability regime of the directors
+and managers of tennis clubs.
+The management aspects of a tennis club involve both the
+representative and governing bodies of the entity, as well
+as the staff who, due to their training and experience, are
+responsible for decision-making. The sport sector regulations
+require sports clubs (at least in Spain), for the sole purpose of
+publicity and the acquisition of their personality in the strictly
+sporting sphere, to be registered in a public directory, which
+requires the provision by the club and the approval by the
+Administration of the Statutes that must include the club’s
+governing and representative bodies, which, as a minimum,
+must be the Presidency, the Board of Directors and the
+Assembly of members.
+There is nothing to prevent, therefore, that, due to the
+size of the social mass and, consequently, the consequent
+greater complexity of the management tasks of a certain
+club, a greater or lesser number of working Commissions or
+Committees, usually chaired by a member of the Board of
+Directors, can be foreseen in its Statutes, with a specific area
+of action within the life of the club. Consider, for example,
+the frequent existence of a Sports Commission, which can be
+chaired by the President and directed by the manager, and to
+which the club's technical and management staff are often
+invited (with voice, but without vote) to formulate proposals
+and report on their actions.
+The specific roles and competences of these bodies and
+commissions are set out in their Statutes with full autonomy
+and with no limitations other than those imposed by law, good
+customs and public order, although it is true that in some
+countries there is a growing public interventionism, which
+is particularly prevalent in those sports entities interested
+in competing for public subsidies and which, for this reason,
+must be non-profit-making5.
+To this end, the adoption of a 'code of good governance' is
+usually a requirement for admission to such meetings, the
+broad outline of which is as follows: A duty of reserve with
+respect to the data and information to which the directors
+may have access by reason of their position, and which they
+may not use for their own benefit or that of third parties;
+prohibition of unduly disposing of the assets of the club
+they manage or of using their position to obtain a financial
+advantage; a duty of transparency towards members with
+respect to the entity's budgets, balance sheets and accounting
+exercises; the adoption of internal control mechanisms which,
+depending on the amount of the operations to be undertaken,
+require the participation of a number of directors with their
+authorised signature; and responsible declarations regarding
+the existence of contractual or commercial relations, by
+themselves or through an intermediary, with suppliers of the
+club. Thus, the adoption of codes of good practice is not, at
+least for the time being, mandatory for sports clubs, although
+it limits the possibilities of obtaining public funding.
+Rather, public intervention in these entities tends to
+be reduced to requiring them to become members of a
+federation and to verify a certain degree of control over the
+content of their statutes and internal regulations and the
+state of their accounts. Thus, for example, the duty to adapt
+their organisation and functioning to democratic principles,
+which entails the statutory provision of a series of rules to
+which internal electoral processes must conform. As a matter
+of example, in recent years, the recommendations from
+different European Union acts have introduced novel criteria
+in these clubs to develop a European dimension in sport, such
+as the balanced presence of genders in the governing bodies
+or the adoption of internal measures for energy efficiency and
+commitment to the environment6. Likewise, to the extent that
+they promote sporting events, it is also a concern of the public
+administrations that supervise them that the organising
+private entities are sufficiently solvent and take out civil
+liability policies that guarantee coverage of the risks involved
+for competitors and spectators.
+5 As stated in No. 18 of the Council Conclusions (2019/C 416/03) of 11 December and, prior to that, in those of the Opinion of the European Economic and Social
+Committee on 'Sport and European values' (2015/C 383/03), and in the European Parliament Resolution of 2 February 2017 on an integrated approach to sport
+policy: good governance, accessibility and integrity (2018/C 252/01).
+6 Mention can be made of the European Parliament Resolution of 2 February 2012 on the European dimension in sport (2011/2087(INI)) and the European
+Parliament Resolution of 2 February 2017 on an integrated approach to sport policy: good governance, accessibility and integrity (2018/C 252/01). More recently,
+the Resolution of the Council and of the Representatives of the Governments of the Member States on the EU Roadmap for Sport (1 January 2021 - 30 June 2024)
+(2020/C 419/01), which identifies "the protection of integrity and values in sport; the socio-economic and environmental dimensions of sport; and the promotion of
+participation in sport and health-enhancing physical activity" as priority areas for EU sport policy, should be highlighted. Aspects related to the proper governance
+of sport entities are covered, in particular requiring the qualification of sport professionals (key issue, 'sport and education'); increasing the proportion of women
+in leadership positions in sport organisations and clubs; and promoting equality in working conditions (key issue, 'gender equality'); identifying obstacles related to
+governance in sport (key issue, 'developing and promoting good governance in sport'); and the evolution of sport and its practice in the light of climate change and
+the need to respect the environment in sport events and facilities (key issue, 'green sport'). Finally, the conclusions of the Council and the representatives of the
+governments of the Member States on 'Sport and physical activity as a promising resource for behavioural change in favour of sustainable development' (2022/C
+170/01) cannot be overlooked, emphasising the impact of environmental threats on the practice of sport and the conditions under which the organisation of sporting
+events should be tackled without harming the environment.
+The concept of 'good government' or 'good governance' thus
+appears, identified with transparency, accountability and
+democracy7, which, as a precondition for their autonomy and
+self-regulation, is lately predicated on the management of
+all kinds of sports entities8, although, in contrast to sports
+federations, is approached in relation to sports clubs more in
+terms of the adoption of principles than in the imposition of
+generalised coercive mandates and prohibitions (GARCÍACABA, 2021, 193-203 GIVES AN account of its reflection in the
+sports regulations and PÉREZ-TRIVIÑO, 2022, in the Draft Law
+on Sport approved in December 2021).
+Undoubtedly, the interest in the issue is not based in the
+tennis clubs, but in the large professional football clubs and
+organisations in which astronomical amounts of money
+are handled9, largely due to the growing importance of the
+income from the sale of television and digital broadcasting
+rights10. In some countries such as Spain, the new extension
+of criminal liability to legal entities that engage in criminal
+conduct for their own benefit or in the exercise of corporate
+activities through their managers, requires, in order to avoid
+it, the adoption and effective implementation of prevention
+programmes (PALOMAR, 2019, 1-3), popularly known as
+'compliance', consisting of the implementation of internal selfregulation procedures and effective detection, investigation
+and sanction mechanisms for management acts that can be
+classified as inappropriate. This can be achieved by limiting the
+terms of office of directors, controlling and publicly disclosing
+the amount of their allowances and remuneration and, in short,
+submitting their accounts and budgets to independent auditing
+mechanisms provided for in their bylaws or imposed by the
+public authorities.
+The derived effect is, therefore, the concern of national and
+transnational authorities that all kinds of sport entities should
+conform, in their organisation and functioning, to the standard
+of 'sport integrity', which is a concept that expands semantically
+to reach not only the ethical performance of the competitors,
+but also the organisational11. Hence, the management of a
+sports entity, whatever its nature, has to conform to "the
+principles of transparency, integrity, democracy, development
+and solidarity, which must be guaranteed by checks and
+balances and control mechanisms"12  in order to banish all
+forms of corruption13, in the guise of bribery, influence peddling,
+abuse of power and conflict of interest, which can be prevented
+by recommendations of the Council of Europe14, such as the
+provision of regular electoral processes in sports entities; the
+establishment of professional standards in organisation and
+management reinforced by codes of ethics and procedures
+to combat conflicts of interest; and accountability and
+transparency in decision-making and financial operations15.
+Within this regulatory framework, and regardless of the
+self-regulatory autonomy of each sports club, a standard
+framework of functions and competences can be established.
+Thus, the Members' Assembly is the highest governing and
+representative body to which the most important functions
+are reserved, such as the approval and modification of internal
+rules, sometimes requiring qualified majorities; the periodic
+election of the Presidency and the Board of Directors through
+regulated procedures; the approval of the annual report,
+budget and membership fees; the regulation of the conditions
+of access to the sports club; the creation of new areas or
+services for users; and the ratification of acts of disposal of
+social assets.
+7  The White Paper on Sport (COM(2007) 391 final of 11 July), in the section on the organisation of sport, in which the Commission called for the exchange of best
+practices in sport governance, including the presence of women in management and leadership areas; the Communication from the Commission to the European
+Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on developing the European dimension in sport (COM(2011)
+12 final of 18 January), which highlights as principles of good governance in sport "autonomy within legal limits, democracy, transparency and accountability in
+decision-making and inclusiveness in stakeholder representation"; the European Parliament Resolution of 14 March 2013 (2013/2567(RSP)) on match-fixing and
+corruption in sport, which is effectively combated through the implementation of good governance practices; the European Parliament Resolution of 11 June 2015
+(2015/2730(RSP)) on high-level corruption at FIFA, in particular as regards the establishment of a transparent procedure for awarding the organisation of major
+football events; and the Conclusions of the Council and the Representatives of the Governments of the Member States on enhancing integrity, transparency and
+good governance in sport events (2016/C 212/07), where the high financial and economic risks associated with major sport events are seen as a threat to the
+integrity of sport as they may compromise, inter alia, sustainable development, and the rights of workers, children and women.
+8  It is defined in the Recommendation (Rec/2005/8) of the Council of Ministers of the Council of Europe on the principles of good governance in sport adopted on
+20 April 2005 as a complex set of control measures and private regulations used to promote integrity in the management of sport, in order to make sport activities
+democratic, ethical, efficient and accountable.
+9  Expression of this concern in the EU context are the Conclusions of the Council and the representatives of the Member States meeting within the Council (/2019/C
+416/03) on corruption in sport, stressing that "an increasing number of cases have come to light over the last twenty years due to significant changes in the sports
+industry, mainly related to the growing commercialisation and media coverage of sport, resulting in increased revenues and financial flows".
+10  Indeed, the European Parliament resolution of 29 March 2007 on the future of professional football in Europe (2006/2130(INI)) already underlined the threat to
+the integrity of competitions posed by the concentration of wealth and economic power resulting from the exploitation of broadcasting rights according to the size
+of national broadcasting markets.
+11 It is not for nothing that good governance is considered in the Conclusions of the Council of the European Union (2011/C 378/01) as "an essential component of
+the fight against match-fixing. Problems such as match-fixing seem to occur less frequently where good governance guidelines are observed, such as, for example,
+prohibition of betting within the sporting discipline itself, timely payment of players' salaries, financial stability and transparency".
+12 Art. 8 of the Appendix to Recommendation CM/Rec(2021)5: Revised European Sports Charter. The Resolution of the Council and the Representatives of the
+Governments of the Member States, meeting within the Council, on the key characteristics of the European model of sport (No. 15, 2021/C 501/01) expresses itself
+in similar terms: "good governance in sport is a prerequisite for the autonomy and self-regulation of sport organisations and federations, respecting the principles of
+democracy, transparency, integrity, solidarity, gender equality, openness, accountability and social responsibility".
+13 Harsh criticism was voiced in the European Parliament Resolution of 11 June 2015 (2015/2730(RSP)) against FIFA, which was denounced for having long functioned
+as "an unaccountable, opaque and notoriously corrupt organisation", meaning that "fraud and corruption in FIFA are systemic, widespread and persistent".
+15  Recommendation (Rec/2005/8) of the Council of Ministers of the Council of Europe on the principles of good governance in sport adopted on 20 April 2005 and
+Recommendation (CM/Rec(2018)12 of the Council of Ministers of the Council of Europe on promoting good governance in sport. Likewise, art. 7 of the Council
+of Europe Convention on the Manipulation of Sports Competitions of 18 September 2014 conceives the principles of good governance as a budget to combat
+the manipulation of sports competitions, emphasising as an effective measure the prevention of conflicts of interest, generally prohibiting the misuse of inside
+information and betting on competitions in which one has a certain degree of participation.
+15  In this respect, the European Parliament Resolution of 29 March 2007 on the future of professional football in Europe (2006/2130(INI)) underlined the need to
+combine the freedom of self-regulation of professional clubs with the eradication of conflicts of interest of their managers through the tight control of their economic
+and financial activities.
+On the other hand, the Presidency and the Board of Directors
+are responsible for drawing up the proposals that require the
+approval of the Assembly and the execution of the agreements
+adopted therein, as well as the ordinary management of the
+club (maintaining order, promoting its different sections,
+exercising disciplinary authority), by himself or through the
+contracting of a solvent professional team, whose obligations
+and commitments will be defined in the collective agreements
+regulating the sector or the company, without prejudice to
+their specific adaptation to the characteristics of the post and
+reflected as an annex in the employment contract signed by
+the parties.
+The outsourcing of certain services (i.e., training and coaching
+programmes) could be possible, which could represent a
+significant relief for the club's management area. The sports
+club, as the recipient of the service, could demand certain
+quality standards from the provider, with the service provider
+taking the appropriate organisational decisions (i.e., the
+recruitment of coaches) to achieve the satisfaction of the
+sports club and its users. Hence, apart from the normative
+impositions and recommendations from which legal liability
+of any kind can be derived, obviously there is another kind
+of 'liability' related to the satisfaction of members and users
+and, ultimately, linked to the success of the management of
+the sports entity in its social and economic dimension.
+This other kind of 'responsibility' can be borne both by its
+directors and by its managers and administrators, whose
+functions and competencies are not usually covered in the
+regulations, not even by statute, but are defined at the time
+when the professional joins the club or are revised at the will
+of the directors. And if we said that no two tennis clubs are the
+same, neither is there an identity of functions in the staff in
+whose hands the management of a club is placed (TALAVERA
+MOLINA e.a. , 2018, 3). The degree of trust they can instil
+in the entity for which they work will undoubtedly entail
+a greater assumption of responsibilities, which may even
+extend to the delimitation of the club's management policies.
+However, it is often the Board of Directors, with or without
+the endorsement, when required by law, of the General
+Assembly of members, which sets the guidelines for the club.
+In this case, the role of the Manager is limited to proposing or
+suggesting new initiatives, which, if they are approved, must
+be carried out. Only with time, his consolidation in the entity
+can lead to an increase in his area of action, thus acquiring a
+status not very different from that of a director.
+In any case, and as is natural, from this peculiar modality of
+'responsibility', consisting of the analysis and evaluation of
+the results of the execution of these policies, putting them
+in relation to what has been programmed and with the
+satisfaction aroused in the users, certain consequences may
+be derived (not responsibility in the strict sense) for the
+continuity or replacement, either of the components of the
+governing and representative bodies of the entity, or of the
+professional management team of the entity.
+A BRIEF NOTE ON THE MANAGEMENT OF SPORTS
+SERVICE COMPANIES.
+In addition to the restricted meaning of the concept of 'sports
+club' which appears in the sectoral regulations on sport, it can
+also informally be taken to include entities devoted mainly
+to the provision of sporting services, especially coaching
+and training, complemented by related aspects such as the
+organisation of sporting events. Some of them, as they are
+able to generate a large pool of players, constitute "sports
+clubs" in the strict sense of the term, which are those that can,
+by means of a licence, become affiliated to a sports federation
+and, consequently, participate in official competitions at any
+territorial level, apart from being able to become involved
+in the federation management through their governing
+and representative bodies arising from electoral processes
+strongly overseen by the public authorities in view of the
+public administrative functions they have, as collaborating
+agents, by legal delegation.
+These tennis service companies usually take a commercial
+form, which entails the creation of a legal entity separate
+and distinct from the partners that constitute it, with its own
+assets, a minimum share capital and under an administrative
+body responsible for the management of the company to the
+partners, whose active participation in the decision-making or
+in the adoption of resolutions is conditional upon the nominal
+value attributed to the securities (shares or holdings) they
+hold. There are also those which, without constituting a legal
+person as such, are the result of the agreement reached by
+their constituent members, who wish to pool (hence the classic
+name of 'community of goods') money, goods and industry
+for the purpose of offering sports services on the market,
+with the participation in the profits and the contribution to
+expenses being proportional to the economic estimate of
+such contributions, and the work that any of the members
+contributes in the interest of the community can also have
+such a character.
+In this type of entity, the profit motive is not only present,
+but also constitutes the essence that gives it its nature. The
+main purpose is to deliver sports services of the highest
+quality to the market at the most competitive price possible,
+which means taking extreme care of all the details to make a
+difference in the sector.
+The big difference with traditional clubs is that, in the latter,
+the users, as members, are constituted, by themselves or by
+proxy, in an Assembly to periodically elect the governing and
+representative bodies (Presidency and Board of Directors)
+and to approve or censure the management of which
+these bodies are accountable, whereas in sports services
+companies, users have no corporate relationship with the
+entity, being consumers of the services that the provider
+offers (usually in its own facilities or in those of the sports
+club under outsourcing), which it can certainly do without if,
+in its opinion, they do not meet the quality standards that a
+demanding market in constant evolution imposes.
+In any case, in order not to incur in idle reiterations regarding
+the areas of action, like those of a club, in which the provision
+of these sports services takes shape, the aim of a club or of a
+company of these characteristics is its successful continuity in
+its segment, of which the satisfaction of the recipients, be they
+members or simply clients, is an inevitable prerequisite. In a
+sports club, poor management will lead the social masses to
+look for a replacement for the management team, censuring
+their performance in advance or waiting patiently for the end
+of their mandate. In a sports services company that is not very
+attentive to the interests of consumers, the customer has no
+choice but to look for a supplier that is more considerate of
+their concerns and demands.
+Another differential aspect is the destination of the profits
+obtained from exemplary management, which is conditioned
+by the nature of the entity, since they can be distributed
+among the members when the profit motive is present in it
+(another thing is its convenience or opportunity, when, for
+example, the facilities present a maintenance deficit), while
+they must be applied imperatively to the achievement of the
+social purposes in those that lack it.
+CONCLUSIONS
+The management of clubs and sports service companies
+includes a wide variety of areas of legal, economic and,
+of course, sporting involvement, which is shared, in the
+exercise of the autonomy of each one of them, between the
+management staff and the sports professionals. The growing
+public interventionism faced by tennis clubs, largely driven
+for instance by the institutions of the European Union,
+requires strengthening the professionalisation of the area of
+sports management, which must lead, from the analysis of the
+available data and the examination of the operating results,
+to the adoption of new approaches for improvement that
+ensure their viability, as in many cases they are inoperative in
+the face of the radical transformations that, at a dizzying pace,
+are imposed by the thrust of modernity. The management of
+teaching and training programmes or their outsourcing to
+sports service companies is a sports policy decision that has a
+direct impact on the management of a tennis club.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that he does not have any conflict of
+interest and that he did not receive any funding to conduct
+the research.

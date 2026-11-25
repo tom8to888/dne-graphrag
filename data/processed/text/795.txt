@@ -1,0 +1,347 @@
+Title: Wheelchair tennis mobility on clay: An extended case study on tyre performance and resistance
+Authors: Thomas Rietveld, Alex Cockram, Michael Sheen, Ali Macpherson, Victoria L. Goosey-Tolfrey
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 795
+
+Introduction
+Wheelchair tennis was first introduced in 1972, and
+the popularity and interest in the sport has grown ever
+since (Diaper and Goosey-Tolfrey 2009). The rules
+in wheelchair tennis are similar to the able-bodied
+equivalent, except for the allowance of two bounces
+and the use of a wheelchair. Wheelchair tennis is
+well integrated on the international tennis tour, with
+all Grand slams running a wheelchair tennis event.
+This has introduced different surface interactions
+with Roland Garros played on clay and Wimbledon
+on grass. Despite two of the main tournaments
+on the international tour being played on clay
+and grass, limited knowledge exists on wheelchair
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 78-82
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.795
+Wheelchair tennis mobility on clay: An extended
+case study on tyre performance and resistance
+Thomas Rietveld1,2 , Alex Cockram3, Michael Sheen4, Alison Macpherson5
+& Victoria L. Goosey-Tolfrey1
+1Centre for Para and Disability Sport Innovation, Peter Harrison Laboratory, School of Sport, Exercise &
+Health Sciences, Loughborough University, United Kingdom.
+2Department of Human Movement Sciences, Faculty of Behavioral and Movement Sciences, Vrije
+Universiteit Amsterdam, Amsterdam Movement Sciences, Amsterdam, the Netherlands.
+3Lawn Tennis Association, London, United Kingdom.
+4Sheen Parasport Ltd, United Kingdom.
+5UK Sports Institute, Manchester, United Kingdom.
+Abstract
+Purpose: To investigate the effect of different tyre types on wheelchair tennis mobility on clay courts.
+Methods: Four elite wheelchair tennis players performed a coast down and Butterfly-sprint tests using
+various three tyre types (Tufo, IRC, Schwalbe) on a French clay court. All sports wheelchairs were
+equipped with three inertial measurement units (mounted on both wheels and frame) to measure
+linear and rotational velocities as well as accelerations. A Friedman test was conducted with wheel
+type (Tufo, IRC, Schwalbe) as the within-subject measure. Results: Significant differences in rolling
+resistances were observed across tyre types (p=0.05, W=0.75). Rolling resistance was highest for Tufo
+(13.38±1.92N), followed by IRC (12.85±1.66N) and lowest for Schwalbe tyres (11.49±1.67N). Performance
+in Butterfly-sprint test also varied between tyre types (p=0.04, W=0.81), with IRC producing fastest
+times (15.14±1.20s) compared to Schwalbe (15.45±1.08s) and Tufo (15.49±1.31s). Conclusions: Schwalbe
+tyres may reduce linear rolling resistance, while IRC tyres may enhance mobility performance in
+wheelchair tennis players. These findings suggest that wheelchair set-up, particularly tyre selection
+should be adapted according to the player surface.
+Key words: wheelchair tennis; ergonomics; surfaces; sensors.
+Received: 25 June 2026. Accepted: 11 August  2026.
+Corresponding author: t.rietveld@lboro.ac.uk
+tennis performance on these challenging surfaces
+(Williamson et al. 2024).
+Wheelchair tennis can be described as the interaction
+between the wheelchair athlete, the wheelchair
+configuration and the environment (Rietveld et al.
+2021b). Components directly influencing wheelchairenvironment interactions are the main wheels, tyres
+and castor wheels (Rietveld et al. 2021b). Qualitative
+research previously described the need for players to
+adapt tyre pressure to the surface competed on (Mason
+et al. 2010). A mixed-method investigation on grass
+showed perceptions of players and support staff on
+improved performance using tyres with bigger tread
+sizes and lower tyre pressures (Rietveld et al. 2026).
+Protocol
+A standardised coast-down test and wheelchair tennis
+drill were completed during a one-day experiment
+on a French clay court. During the coast-down test,
+the player completed two strong pushes and leaned
+slightly forward, allowing the wheelchair to decelerate
+naturally to calculate rolling resistance. Wheelchair
+mobility performance (ability on court) was assessed
+by a wheelchair tennis specific field test, a ButterflySprint test (Rietveld et al. 2019) (Figure 1). Inter-trial
+reliability for this specific field test was previously
+defined as excellent (ICC=0.95) (Rietveld et al. 2019).
+The Butterfly-sprint test specifically assesses chair
+rotational velocity at higher speeds, and linear
+velocities in a straight line. Verbal encouragements by
+the lead investigator were given during all tests. Three
+trials per tyre type were completed using inertial
+measurement
+units
+(IMUs.
+Movesense, Vantaa,
+Finland) on the middle-bar frame and inside the hub
+of both wheels. The IMU data enabled analysis of end
+time, and linear/rotational velocity and acceleration.
+Pilot data of this study echoed these results showing
+improved rotational performance with IRC tyres with
+72mm castor wheels (Rietveld et al. 2026)
+Key
+wheelchair
+mobility
+performance
+metrics
+in wheelchair tennis are rotations on the spot,
+rotations while in motion, and linear velocities and
+accelerations (Rietveld et al. 2023). Standardised field
+tests to evaluate these wheeling performance metrics
+have been developed (Rietveld et al. 2019) Several
+case studies have shown that sprint times are reduced
+in the first 10m on clay compared to hardcourt
+(Rietveld et al. 2021a; Sánchez-Pay and Sanz-Rivas
+2021). An agility sprint test echoed results, with
+reduced rotational performances on clay compared
+to hardcourt (Sánchez-Pay and Sanz-Rivas 2021).
+Clay courts led to a 1.5 times higher rolling resistance
+compared to hardcourt (Rietveld et al. 2021a). To
+compensate for these increased resistances and loss
+of performance, it was recommended to change tyres
+based on surfaces competed on. However, despite
+these recommendations, no study has systematically
+examined the effect of tyre type on wheelchair tennis
+performance on clay courts.  Therefore, the purpose
+of this study was to investigate the effect of different
+tyre types on wheelchair tennis mobility on clay
+courts, addressing the lack of empirical evidence in
+optimal tyre selection. It was hypothesised that tyres
+with great tread of thickness would improve mobility
+performance by reducing the negative effects of
+increased rolling resistance, in line with findings from
+grass courts.
+Methods
+Participants
+Four elite wheelchair tennis players took part in
+this study (3 Open Male, 1 Quad). Average age of the
+participants was 24±6 yrs with an experience of 9±6
+yrs. Ethical approval was provided by the local ethics
+committee of Loughborough University (ID_14290).
+Participants provided written informed consent prior
+to taking part.
+Design
+All participants used their own tennis sports
+wheelchairs, testing a variety of tyre types (Tufo,
+IRC, Schwalbe). Tufo is a high-pressure tubeless tyre
+(23mm), current set-up of all players. IRC and Schwalbe
+are clincher tyres with bigger treads of 25mm. The
+Schwalbe tyre had bigger tread grooves compared to
+the smoother treads of IRC or Tufo tyres. Both clincher
+tyres were tested based on recommendations from
+a wheelchair configuration specialist that it could
+provide better grip on clay. All tyres were inflated to
+recommended pressures (200 PSI for Tufo and 130 PSI
+for IRC/Schwalbe). Wheel diameters were 0.69m with
+a camber angle of 20 degrees.
+Figure 1.  Butterfly-Sprint test to assess wheelchair
+mobility performance in wheelchair tennis (Rietveld
+et al. 2019).
+Data analysis
+Data were collected at 100Hz, low-pass filtered (2nd
+order, 10Hz) and analysed using custom-written
+Python scripts (de Klerk et al. 2023). Synchronisation
+between sensors were determined based on timestamps
+at the start of each trial. The deceleration values of
+the coast-down tests were calculated using the slope
+of the velocity curve. Rolling resistance was calculated
+wheelchair mobility metrics of the Butterfly sprint
+test. Kendall W effect sizes were determined, using
+Cohen’s interpretation guidelines, indicating small
+(0.1-0.3), moderate (0.3-0.5) and large effect sizes
+(>=0.5) (Cohen 1977). Significance was set at p<0.05
+for all tests.
+Results
+The coast down tests showed differences in rolling
+resistances across tyre types (p=0.05, W=0.75) with
+resistances being 13.38±1.92N for Tufo, 12.85±1.66N
+for IRC and 11.49±1.67N for Schwalbe tyres. Quality
+of the coast down trials showed a mean root mean
+squared error of 0.03-0.04 and R2 of 0.97-0.98.
+There was a significant difference in end times on
+the butterfly sprint test between tyre types with IRC
+showing quicker end times (15.14±1.20s) compared to
+Tufo (15.49±1.31s) and Schwalbe (15.45±1.08) (p=0.04,
+W=0.81). Wheelchair mobility metrics showed a
+significant difference in percentage of time spend
+above 90 deg·s-1 across tyre types (p=0.04, W=0.81,
+Table 1).
+using Newton’s second law of motion: Froll = m · a,
+using the mean deceleration and the wheelchair-user
+mass. This approach assumes that rolling resistance is
+the main component of drag force. The quality of the
+coast-down trials was determined using the ‘R2-score’
+and ‘root-mean-squared-error’.
+Wheelchair mobility outcome variables were calculated
+from the combined three IMU set-up using previously
+defined algorithms (van der Slikke et al. 2015). Average
+of the three trials were taken for further data analysis.
+Mean and peak velocity and mean positive acceleration
+described linear performance, while mean and peak
+rotational velocities were calculated and separated for
+the left/right side. Percentage of time spent at higher
+rotational velocities (> 90 deg·s-1) was also reported.
+Statistical analysis
+Differences across tyre types were presented as
+preliminary descriptive results.  Due to the low number
+of players (n=4), a non-parametric Friedman tests
+were conducted with wheel type (Tufo, IRC, Schwalbe)
+as within-subject measure.  The statistical analysis
+was conducted for the coast down trials, as well as the
+Table 1. Stage-specific representative practice characteristics.
+C01 (Tufo)
+C02 (IRC)
+C03
+(Schwalbe)
+p-value
+Kendall W
+End time [s]
+15.49 (1.31)
+15.14 (1.20)
+15.45 (1.08)
+0.04
+0.81
+Vel_mean [m·s-1]
+2.57 (0.08)
+2.58 (0.08)
+2.55 (0.05)
+0.37
+0.25
+Vel_peak [m·s-1]
+3.89 (0.30)
+3.88 (0.33)
+3.83 (0.27)
+0.47
+0.19
+Acc_mean [m·s-2]
+3.40 (0.29)
+3.39 (0.32)
+3.39 (0.12)
+0.78
+0.06
+Rot_vel_mean_right
+[deg·s-1]
+85 (4)
+85 (2)
+82 (4)
+0.17
+0.44
+Rot_vel_mean_left
+[deg·s-1]
+89 (6)
+92 (4)
+91 (5)
+0.17
+0.44
+Rot_vel_peak_right
+[deg·s-1]
+138 (11)
+144 (16)
+134 (17)
+0.37
+0.25
+Rot_vel_peak_left
+[deg·s-1]
+152 (26)
+148 (19)
+146 (19)
+0.37
+0.25
+Rot_high_percentage
+[%]
+31.94 (6.68)
+35.21 (7.89)
+33.38 (5.89)
+0.04
+0.81
+Discussion
+Changing tyres in wheelchair tennis can positively
+impact performance in wheelchair tennis by reducing
+rolling resistance and improving wheelchair mobility
+on clay courts. While the Schwalbe tyre demonstrated
+lowest rolling resistance, the IRC tyre resulted in the
+fastest completed times on the Butterfly-Sprint test,
+alongside greater time spent at rotational velocities
+above 90 deg·s-1. The magnitude of these differences
+was supported by high effect sizes, highlighting
+the
+complexity
+of
+wheelchair-user-environment
+interactions. These findings suggest that optimal
+performance on clay courts depends on a balancing
+rolling resistance with effective wheelchair mobility
+performance.
+The lower rolling resistance for the Schwalbe tyres, with
+feature larger tread grooves, shows a reduced rolling
+resistance for straight line propulsion. Conversely, the
+smoother IRC tyre may facilitate improved rotational
+movement. Enhanced rotational performance on an
+agility-sprint tests, such as the Butterfly sprint test,
+has a direct impact on wheelchair tennis mobility.
+Rotational performance is a key part of wheelchair
+tennis mobility game play (van der Slikke et al. 2020;
+Rietveld et al. 2023). These results are consistent with
+perceptions of wheelchair tennis players on grass,
+with wheelchair tennis players perceiving IRC tyres to
+lead to improved wheeling performance (Rietveld et
+al. 2026).
+There is a continued focus on chair set-ups, with
+recent castor wheel regulations added to the Grand
+Slam Rulebook (Grand Slam Tennis 2026). Bigger
+castor wheels also showed to reduce rolling resistance
+across various surfaces (Deves et al. 2025; Rietveld et
+al. 2026).  Further changing wheelchair configuration
+depends on the physical demands of wheelchair tennis
+across surface types, which is a knowledge gap still
+need to be filled (Williamson et al. 2024)  This also
+sheds the light on more individualised approaches,
+being beneficial for certain style players or across
+classification levels.
+Practical Applications and limitations
+It is recommended that wheelchair tennis players
+consider using slightly thicker tyres and prioritise
+chair set-up adjustments to reduce strain and enhance
+performance. However, the small sample size limits
+statistical power, restricting further generalisation
+of these findings. Nevertheless, small differences on
+a short agility drill can be seen as a positive result,
+as adapting to a new set-up usually takes time (de
+Groot et al. 2018). Appropriate tyre selection may help
+reduce some of the challenges of playing wheelchair
+tennis on various surfaces (clay, grass, hardcourt).
+Future research should include larger cohorts and
+further explore the interaction between wheelchair
+configuration, tyre and castor wheel design during
+wheelchair tennis match play performance.
+Conclusions
+Schwalbe tyres may reduce linear rolling resistance,
+while IRC tyres appear to enhance wheelchair
+mobility performance in wheelchair tennis players.
+These findings support the recommendation to
+adjust wheelchair configurations based on playing
+surface. Future research incorporating larger sample
+sizes, longitudinal designs and more individualised
+customisation may provide further insight into
+the interaction between player, wheelchair and the
+environment on different surfaces.
+Funding
+The current project was funded by UK Sports Institute,
+the LTA and the Peter Harrison Foundation.
+Acknowledgements
+The authors would like to thank UK Sports Institute,
+the Peter Harrison Foundation and LTA (Erik Koers)
+for funding this project. Thanks are extended to all
+players that took part in this study. Thanks to my wife
+Ilse for sweeping the clay courts.

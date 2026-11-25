@@ -1,0 +1,271 @@
+Title: The credibility of Instagram-based information on strength and conditioning in tennis
+Authors: Ivo Manzoni, Dario Novak
+Year: 2022
+Issue: Vol. 30 No. 86 (2022)
+Article id: 197
+
+ABSTRACT
+Background: Social networks are an important and widely used resource for training
+information for many people. However, the content on these platforms regarding the
+recommendations for strength and conditioning in relation to tennis has not yet been
+fully evaluated. We investigated the credibility of Instagram-based information on the
+strength and conditioning development specifically in relation to tennis. Methods: Three
+experts with more then ten years of scientific and professional experience in the field of
+tennis (39.6±7.4 years of age) evaluated the credibility of the Instagram-based content of
+five selected accounts based on three aspects: information based on scientific knowledge,
+the practical applicability of information and the demonstration quality of the presented
+exercises. We calculated the means (AS) and standard deviations (SD) for each criterion.
+Results: The results of this research indicate a very low level of credibility in relation to the
+data published on social networks. The information is inaccurate and poorly verified, and
+as such is not a reliable source and selection for the purpose of strength and conditioning
+progress in tennis. Conclusion: Only validated training approaches and exercises that
+leverage players’ fitness abilities might serve as an avenue for strength and conditioning
+promotion in tennis.
+INTRODUCTION
+Social networks have become a global trend in recent years
+and have greatly changed the way we communicate on a daily
+basis. Thus, social networks have soon been recognized as a
+potential promotional tool for direct communication with
+clients, users, and consumers. Social networks can be defined
+as applications that allow users to connect with each other by
+creating personal profiles (Kaplan & Heanlein, 2010). Dean
+(2020) states that currently 3.96 billion people throughout
+the world, which is over 50% of the population, use social
+networks. The average user has more than 8 profiles and
+spends an average of two and a half hours per day on various
+platforms. The increasing use of these social networks has
+also resulted in the fact that published information is often
+not based on previous scientific knowledge, so the question of
+credibility and practical applicability arises. This can also be
+down to the fact that much of the information published on
+these platforms is not under editorial supervision (Johnson &
+Kaye, 2004). Also, social networks have launched a new trend
+of knowledge transfer through various profiles that consider
+themselves competent to give advice and recommendations,
+these being more commonly known as “influencers”. Even
+today, it is a known fact that there are pages of dubious
+relevance on the internet, one of these being Wikipedia,
+a general information website used by millions that can in
+fact be edited by anyone in the general population (Chesney,
+2006; Ferreira et al, 2019).  For social networks, the situation
+is almost the same - the content we watch is created by
+people who do not necessarily have the required expert
+knowledge related to the information that they publish.
+Ferreira et al. (2019) conducted a study on the reliability,
+accuracy and completeness of information on lower back
+pain in the population that can be found on the Internet. The
+research showed that only 43% of the processed sources have
+accurate recommendations regarding lower back pain and
+that the comprehensiveness of treatment recommendations
+www.itfcoachingreview.com
+April 2022. 30th Year. Issue 86. 18-21
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i86.197
+The credibility of Instagram-based information on
+strength and conditioning in tennis
+Ivo Manzonia & Dario Novaka
+aUniversity of Zagreb Faculty of Kinesiology, Zagreb, Croatia.
+Key words: tennis, strength
+and conditioning, credibility of
+information, Instagram.
+Received: 19 August 2021
+Accepted: 9 November 2021
+Corresponding author: Ivo
+Manzoni. Email: ivo.manzoni96@
+gmail.com
+on all sites is extremely low. However, to the best of the
+authors’ knowledge, no study has been conducted on the
+Instagram-based accuracy of information about strength
+and conditioning development in tennis. Accordingly, in this
+study, we investigated the credibility of Instagram-based
+information on the strength and conditioning development in
+tennis.
+METHODS AND PROCEDURES
+In the first phase of this research, five profiles were selected
+that meet the following criteria: a) profiles providing practical
+information related to the fitness training of tennis players, b)
+profiles have a minimum of 2000 followers and c) profiles are
+publishing information in English. After selecting 151 videos,
+three trained experts with more than ten years of scientific
+COACHING & SPORT
+SCIENCE REVIEW
+and professional experience in the field of tennis (39.6±7.4
+years of age) (one expert with PhD diploma in Kinesiology
+and two with master’s degrees in Kinesiology (5-years of
+university education) evaluated the credibility of the material
+collected based on the following criteria:
+1.	Information based on scientific knowledge.
+2.	Practical applicability of the information.
+3.	Demonstration quality of the presented exercises.
+For each criterion, the experts expressed their degree of
+agreement on a five-point Likert scale with number one
+denoting complete disagreement and number five complete
+agreement. Each expert coded independently with multiple
+checks for interobserver agreement, all of which were above
+.85. The statistical package Stata, V.12 (StataCorp, Texas,
+USA) was used to process the results, and the descriptive
+statistical parameters presented in the research below are
+both the means and standard of deviations.
+Hypotheses:
+Three hypotheses were set for this research:
+•	 H1: Videos on the strength and conditioning in tennis
+posted on social media are based on scientific knowledge.
+•	 H2: Videos on the strength and conditioning in tennis
+posted on social media have high practical applicability.
+•	 H3: Videos on the strength and conditioning in
+tennis posted on social networks have high-quality
+demonstrations.
+RESULTS
+The mean scores of all the videos for each criterion was
+3.03±1.00. Overall, the most frequently awarded rating was 3
+(500) and the least frequently awarded rating was 5 (59).
+Information based on scientific knowledge
+The criteria item “Information based on scientific knowledge”
+received an average score of 3.16±0.99 based on the ratings
+of all the evaluators and as such is the best rated criteria
+within this study. The total number of individual grades per
+evaluator is shown in Table 1 below and the most frequently
+awarded grades by each evaluator are marked in yellow.
+Table 1
+A comparison between the total number of individual assessments for
+the criteria item „Information based on scientific knowledge “ for all
+three evaluators.
+INFORMATION BASED ON SCIENTIFIC KNOWLEDGE
+Rating
+Evaluator 1
+Evaluator 2
+Evaluator 3
+
+Practical applicability of information
+This criteria item received the overall average rating of
+3.03±1.04 and is slightly lower rated than the criteria item
+"The basis of information on scientific knowledge". The total
+number of individual grades per evaluator is shown in Table
+2 below and the most frequently awarded grades by each
+evaluator are marked in yellow.
+Table 2
+A comparison between the total number of individual assessments for
+the criteria item „Practical applicability of information“ for all three
+evaluators.
+PRACTICAL APLICABILTY OF INFORMATION
+Rating
+Evaluator 1
+Evaluator 2
+Evaluator 3
+Demonstration quality of the presented exercises
+The criteria item „Demonstration quality of the presented
+exercises" received an overall average score of 2.89±0.97
+which makes it the lowest rated criteria item in this study.
+The total number of individual grades per evaluator is shown
+in Table 3 below and as in the previous tables, the most
+frequently awarded grades by each evaluator are marked in
+yellow.
+Table 3
+A comparison between the total number of individual      assessments for
+the criteria item „Demonstration quality of the presented exercises“ for
+all three evaluators.
+DEMONSTRATION QUALITY OF THE PRESENTED EXERCISES
+Rating
+Evaluator 1
+Evaluator 2
+Evaluator 3
+DISCUSSION
+The aim of this article was to critically review the credibility of
+Instagram-based information on strength and conditioning in
+tennis training. Strength and conditioning recommendations
+for tennis training published on Instagram from trustworthy
+sources failed to meet our benchmarks for credibility,
+provided a high proportion of inaccurate or unclear
+recommendations, and lacked comprehensiveness. In general,
+the selected accounts did not provide adequate resources
+to independently verify the truthfulness of the information
+provided.
+Previous research had surveyed the accuracy of information
+only for a specific type of prevention training (i.e., lower back
+pain) (Hendrick et al, 2012; Ferreira et al, 2019). In contrast
+to previous studies, we specifically surveyed the credibility
+of Instagram-based information in relation to strength and
+conditioning in tennis (Li et al, 2001; Butler & Foster, 2003;
+Hendrick et al, 2012; Black, Sullivan, Mani, 2018; Ferreira et al,
+2019). Based on the findings of previous studies showing that
+commercial websites were mostly of poor quality, our a priori
+hypothesis was that non-commercial freely accessible private
+Instagram accounts would provide more comprehensive
+and accurate information compared to commercial websites
+(Li et al, 2001; Butler & Foster, 2003; Hendrick et al, 2012)
+This was not the case for many of the assessed strength and
+conditioning Instagram accounts.
+We found a very low average score for each criterion. None of
+the three criteria items received an average score higher than
+4.5, which we believe can be considered as a threshold for
+meeting a single criterion. The results of the research refuse
+the first hypothesis which claims that the videos published
+on Instagram, related to the fitness training of tennis players,
+are based on scientific knowledge. Although an overall
+score for this criteria item was the highest average rating
+compared to the other two criteria items, this rating does not
+instill confidence that the published videos are reliable and
+based on scientific information. Moreover, the results of the
+research do not confirm the second hypothesis, which claimed
+that videos related to the fitness training of tennis players
+published on Instagram have great practical applicability. This
+indicates that the videos are non-specific and therefore the
+information provided is very unsuitable for actual use on a
+tennis court. There is empirical evidence to the importance of
+sport-specific stimulus for enhancing on-court performance
+(Warren & Farrow, 2013; Fernandez-Fernandez et al, 2015).
+Something of particular concern is the very low average score
+for the demonstration quality of the presented exercises.
+Noticeably, this is the worst rated criteria item in this study.
+Our results refuse the third hypothesis which stated that the
+videos related to the fitness training of tennis players published
+on Instagram provide high quality demonstrations. There is
+empirical evidence of the effectiveness of demonstration in
+specifying the task, especially for children and youth, which
+has been shown to be of primary importance (Haguentauer et
+al, 2005). People learn most easily by observing at a certain
+action that is to be adopted, or through kinesthetic learning
+where they imitate a "model" that demonstrates a movement
+or exercise.
+A high number of strength and conditioning recommendations
+given by selected Instagram accounts in our review were either
+inaccurate or unclear, which risks misleading the public. If one
+of the goals of Instagram-based information is to help coaches,
+players, medical staff and parents in their everyday practice,
+these sources of Instagram-based information on strength
+and conditioning in tennis must provide the necessary means
+to make informed decisions. For this to happen, improving
+the credibility standards, as well as providing accurate and
+comprehensive training recommendations is necessary.
+The strengths of this study include the participation of three
+experts with more then ten years of scientific and professional
+experience in the field of tennis. Another strength involves
+a very high number of consistencies between the three
+evaluators (above .85 in interobserver agreement). One
+potential limitation to the study was the use and analysis of
+only one social platform (Instagram). Nevertheless, our choice
+was based on the fact that Instagram is one of the most used
+platforms worldwide. Another limitation involves the small
+number of social media accounts that were evaluated.
+CONCLUSION
+Selected Instagram profiles demonstrated low credibility
+standards, provided mostly inaccurate information, and
+lacked comprehensiveness across all types of strength and
+conditioning information they were providing in relation to
+tennis. Our findings highlight the need for these social media
+accounts to reformulate their training recommendations
+to reflect current evidence in tennis-related strength and
+conditioning. As a practical application, specific-tennis related
+exercises that are scientifically validated could potentially be
+more beneficial tennis players (i.e., sport-specific on-court
+drills, sport-specific reactive agility drills, neuromuscular
+exercises…). If used, this approach could be valuable to the
+coaches, athletes, and medical staff in addressing players’
+needs. Beneficial training should be the only the verified
+targeted training and exercise programs used in order to
+prolong and safeguard players’ careers as well as improve
+their performance.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

@@ -1,0 +1,199 @@
+Title: Implicit Motor Learning: Designing Practice for Performance
+Authors: Tim Buszard, Machar Reid, Damian Farrow, Rich Masters
+Year: 2013
+Issue: Vol. 21 No. 60 (2013)
+Article id: 448
+
+www.itfcoachingreview.com
+August 2013. 21th Year. Issue 60. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v21i60.448
+
+Implicit motor learning: Designing practice for
+Tim Buszard, Machar Reid, Damian Farrow & Rich Masters.
+Institute of Sport, Exercise and Active Living, Australia.
+ABSTRACT
+
+The purpose of this paper is to review the concept of implicit motor learning in
+sport and to discuss the practical application of current techniques designed to
+induce implicit learning within tennis. Implicit learning refers to the acquisition of
+information without conscious awareness of what is being learnt. Research
+shows that skills acquired implicitly sometimes have advantages over skills learnt
+via explicit methods. Whilst some practice techniques that have been used in a
+laboratory setting to cause implicit learning may be impractical for coaches to
+adopt, there are several methods that coaches can (and should) consider using.
+These include the reduction of errors during practice, the provision of analogies
+as instructions, the concept of ‘marginal perception’ and the use of indirect
+instructional techniques.
+
+Key words: Implicit learning, Skill
+acquisition, Talent development,
+Tennis.
+Received: 3 June 2013.
+Acepted: 2 July 2013.
+Corresponding
+author:
+Tim
+Buszard,
+Institute
+Sport,
+Exercise
+Active
+Living,
+Australia.
+Email: MReid@Tennis.com.au
+
+IMPLICIT MOTOR LEARNING: DESIGNING PRACTICE FOR
+PERFORMANCE
+The concept of implicit motor learning, as first proposed by
+Masters (1992), is attractive and its proposed advantages have
+been discussed extensively in the literature. Despite this, it is
+not easy for coaches to apply practice methods to encourage
+an implicit mode of learning.
+Learning is implicit when new information is acquired without
+explicit awareness of the details of the information itself.
+Sometimes the information is even acquired without intention,
+and the associated knowledge tends to be difficult to express
+(Reber, 1967). For example, a professional tennis player may be
+able to hit a hard, cross-court forehand, with an insuperable
+amount of topspin, yet they may have difficulty verbalizing
+how they hit such a difficult shot. As such, the skill has been
+learnt implicitly. Information learnt implicitly does not rely on
+(conscious) working memory, which culminates in more
+efficient performance (for a recent review of implicit motor
+learning, see Masters & Poolton, 2012). Substantial research
+has shown that skills learnt implicitly are resilient to the effects
+of psychological stress (Liao & Masters, 2001), physiological
+fatigue (Poolton, Masters, & Maxwell, 2007) and secondary
+task loading (Maxwell, Masters, Kerr, & Weedon, 2001), and
+has greater resistance to decay over time (Maxwell, Masters, &
+Eves, 2000). Thus, the benefits associated with implicit motor
+learning are desirable for all athletes, particularly in sports such
+as tennis where psychological stress and physiological fatigue
+are commonplace. The opposite of implicit learning is explicit
+learning, which is typically how we learn sport skills (e.g.,
+receiving explicit instructions from a coach). This learning style
+is a highly conscious process and relies heavily on working
+memory. The downfall to explicit learning occurs when the
+athlete consciously re- engages information about the skill to
+control their movements. This can disrupt the ‘automaticity’ of
+the skill execution and, consequently, lead to a ‘breakdown’ in
+performance during highly stressful situations (Masters,
+Polman, & Hammond, 1993).
+IMPLICIT PRACTICE APPROACHES
+Dual Tasking
+To allow skills to be learnt implicitly, practice needs to be
+designed so that the learner performs the skill without
+consciously thinking about the technique(s). Initial studies
+demonstrated that the ‘dual- task practice’ paradigm (Masters,
+1992) resulted in skills being learnt implicitly.
+This required participants to perform a secondary task (e.g.,
+counting backwards in 3’s from 150) while practicing the skill.
+While this type of practice was shown to create implicit
+learning benefits, the practicality of the method has been
+
+questioned. All studies that have utilized the ‘dual-task
+practice’ paradigm have reported considerably poorer
+performance compared to normal learning. It should be noted,
+however, that these studies have all used novice performers as
+participants and from the authors practical experience the
+method can be recommended with higher skilled players.
+
+Errorless Practice
+Errorless practice (Maxwell et al., 2001; Poolton, Masters, &
+Maxwell, 2005) involves guiding the performer during practice
+to ensure that errors are minimized. Such an approach also
+reduces the tendency to think consciously about performance,
+so explicit hypothesis testing is discouraged. For example, a
+child learning a tennis forehand may practice hitting a ball at a
+target on a wall. Gradually, the child would hit to smaller
+targets as the skills improve. Errorless learners have no need to
+test hypotheses since no errors are made, so learning is more
+likely to be implicit. Studies have shown that errorless learners
+are unaffected by the imposition of a secondary task,
+suggesting that such learning confers more efficient
+performance. This method of practice also may have possible
+psychological benefits as a consequence of increased
+confidence from consistently experiencing success (Masters,
+Poolton, Omuru, & ASARG, 2013).
+Task Simplification
+Another method to achieve a relatively errorless environment
+is to simplify the task. For example, it is common to see tennis
+coaches employ modified equipment with children learning
+the game to increase the probability of successful outcomes.
+When children play tennis with lighter racquets and lower
+bouncing balls, hitting accuracy and technique are better
+(Farrow & Reid, 2010; Larson & Joshua, 2013). Although
+achieving a ‘true’ errorless environment through equipment
+modification is improbable (given that some errors are still
+likely to occur), recent research has shown that modified
+equipment promotes less conscious processing than full size
+equipment in young children (Buszard, Farrow, Reid & Masters,
+in preparation). Specifically, the results showed that children
+had most difficulty coping with a secondary task (counting
+backwards from 150 in one’s whilst hitting the ball) when using
+full size equipment, but not modified equipment. The authors
+therefore speculated that the use of modified equipment
+might promote implicit motor learning.
+
+Analogies and Indirect Instructions
+It has been demonstrated that the provision of instructions in
+the form of analogies evokes implicit learning (Liao & Masters,
+2001). This involves providing a performer with one simple
+heuristic or a biomechanical metaphor that ‘chunks’ the task
+relevant declarative knowledge (i.e., rules) into an individually
+processed unit of information. For example, a tennis coach may
+instruct a player to “create a C shape with the racquet when
+hitting a forehand.” Such an instruction captures the notion of
+swinging the racquet from low-to-high. Whilst providing a
+performer with an analogy is explicit in nature, it is cognitively
+efficient – meaning it demands few attention resources. The
+idea extends the argument that simple rules or heuristics are
+as effective as complex rules or algorithms for delivering
+technical instruction.
+Although most of the implicit learning research has been
+geared towards motor skill performance, implicit instructional
+approaches have  also  been  advocated  for  enhancing
+anticipatory  skills.
+
+Such an example is when the coach’s instruction directs the
+player’s visual attention towards key information, such as the
+anticipatory cue being provided by an opponent; but without
+directly telling the player what those cues are. Farrow &
+Abernethy (2002) showed that an ‘implicit’ training of this kind,
+which required players to adopt the perspective of a receiver
+and to predict the speed of each serve presented in a video
+training package, was more effective at improving return of
+serve anticipation than training that involved the provision of
+explicit instructions regarding the relationship between
+specific advanced cues in the opponents service action and the
+direction of the serve.
+Marginal Perception
+Another potentially useful training technique for a coach is the
+concept of ‘marginal perception’. Marginal perception refers to
+a gradual change to stimuli without conscious recognition of
+the change (Masters, Maxwell, & Eves, 2009). For example,
+imagine this scenario: a tennis player is continually serving the
+ball into the net. The traditional approach to resolve such a
+failing would be to explicitly inform the player about the
+biomechanics of the serve. The player would most likely
+improve, but would also be consciously aware of the changes
+in technique. An alternative approach would be to begin
+practicing with the net at a lower height, thereby allowing the
+performer to serve the ball over the net with greater ease. Each
+training session the coach might increase the net height by the
+smallest of margins so that the player is not consciously aware
+of the change. Consequently, the player’s movement patterns
+should subtly adapt to the change, even though they are not
+consciously aware of the adaptations that are taking place. Of
+course, eventually the player will become consciously aware of
+the net height changes, but by that stage, they have already
+learnt the skill unconsciously.
+CONCLUSION
+In summary, there is a range of benefits when skills are learnt
+implicitly and coaches should therefore be encouraged to
+consider how they could employ such practice techniques in
+their coaching. Importantly, coaches are urged to persist with
+implicit practice methods, even if short-term results from with
+explicit techniques are tempting. Implicit motor learning takes
+time, but the rewards are worth it!

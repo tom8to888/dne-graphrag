@@ -1,0 +1,526 @@
+Title: Severity of medical conditions of top-level male tennis players: implication for prevention
+Authors: Giulio Sergio Roi, Federico Zambelli
+Year: 2024
+Issue: Vol. 32 No. 92 (2024)
+Article id: 488
+
+ABSTRACT
+Although tennis is one of the most popular sports practiced worldwide by millions of
+players, there are no data on the time necessary to return to playing after injuries or
+illnesses. To contribute to the discussion regarding time-loss medical conditions (TLC),
+a retrospective web search was conducted on the first fifty tennis players listed in the
+ATP ranking on February the 20th 2022, looking for TLC in a five-year period (1-1-2018
+to 25-12-2022). We recorded 267 TLC 137(51%) of them occurred during tournaments
+and 130(49%) during training sessions. Recurrences were 31% affecting 27(54%) players.
+Most TLC were treated conservatively (N=256; 96%), while 11(4%) needed surgery. The
+median time loss of all the 267 TLC was 17 days (range 1-378). For conditions requiring
+surgery (n=11), the median was 61 days (range 10-367). Injuries, as opposed to illnesses,
+accounted for 81% of all TLC. Players and coaches should know the effects of medical
+conditions on the career of players and how to set-up an effective prevention program
+starting from early childhood. Prevention in top players should consider also playing
+surfaces and overall lifestyle including nutrition and sleep, together with other healthy
+measures such as vaccinations, especially for players traveling around the world.
+INTRODUCTION
+Tennis is one of the most popular sports practiced worldwide
+by millions of players at recreative and professional levels,
+reaching individuals of all ages and all skill levels. The
+metabolic demands of a tennis match are satisfied by both
+aerobic and anaerobic metabolisms because of the typical
+intermittent nature of the sets characterized by repetitive
+actions of short-duration and high intensity (Kovacs, 2007).
+Consequently, players perform hundreds of power strokes
+per match, looking for high ball velocities through a variety of
+technical movements including overhead serves, smashes, and
+groundstrokes. Furthermore, a tennis match can extend for
+hours because there is no time limit on how long players can
+play, although in most tournaments matches played to three
+sets lasts about 1.5 hours on average and are characterized
+by 5-10 seconds of attack and 10-20 seconds of recovery on
+average (Fernandez-Fernandez et al., 2009).
+From all the above, tennis players are susceptible to develop
+a variety of injuries indexes (Dines et al., 2015) form acute
+traumatic, commonly occurring in the lower extremity,
+to chronic overuse conditions, most often manifesting
+themselves in the upper extremity and trunk (McCurdie et
+al., 2017). Pluim et al. (2006) reported a cumulative incidence
+ranging from 0.04 to 3.00 injuries per 1000 hours played,
+although the incidence of injuries in tennis varies according to
+age, gender, level of play, study design and definition of injury
+or medical condition.
+www.itfcoachingreview.com
+April 2024. 32th Year. Issue 92. 18-23
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i92.488
+Severity of medical conditions of top-level male
+tennis players: implication for prevention
+Giulio Sergio Roi1, 2 & Federico Zambelli1
+1University of Verona, Department of Neuroscience, Biomedicine and Movement Sciences, Verona, Italy.
+2Italian Tennis Federation, Higher Education Institute Roberto Lombardi, Rome, Italy
+Key words: epidemiology, illness,
+injury, return to play.
+Received: 11 August 2022
+Accepted: 10 November 2023
+Corresponding author: Giulio
+Sergio Roi. Email: gs.roi@
+isokinetic.com
+There are several articles published in literature regarding
+the epidemiology of tennis however, there are no reports
+regarding time-loss and severity of medical conditions
+occurred during the career of top-level tennis players,
+including conditions not related to tennis. Thus, the aim of the
+present study is to contribute to the discussion regarding this
+aspect of the epidemiology of top tennis players analyzing the
+first fifty positions of the ATP ranking, to suggest implications
+for prevention.
+METHODS AND PROCEDURES
+To collect information on both injuries and illnesses, the term
+‘‘medical condition’’ was adopted (Pluim et al., 2009). However,
+differently from the consensus statement on epidemiological
+studies of medical conditions in tennis (Pluim et al., 2009),
+conditions not related to tennis were also included to explore
+the effects of being unhealthy on the career of top players.
+Thus, a time-loss condition (TLC) was defined as an injury
+or illness that leads a player to be unable to take full part in
+future matches or training sessions.
+The retrospective search was conducted on the first fifty
+tennis players listed in the ATP ranking on February the 20th
+2022, looking for TLC in a five-year period from January the
+1st 2018, to December the 25th 2022.
+COACHING & SPORT
+SCIENCE REVIEW
+Data were collected by consulting the websites of the
+tournaments and searching the personal websites of the
+players and online sports newspapers for TLC. Searches were
+conducted using Google and Yahoo as web search engines
+typing several keywords: tennis, injury, illness, training,
+withdraw, and the names of the tournament and of the
+players variously associated with each other. When a medical
+condition was found, the information was checked, and the
+web search was deepened for the place, date, and name of
+player and of the tournament.
+The analysis was performed on publicly available data, in
+accordance with the 1964 Helsinki declaration involving
+human participants and its later amendments or comparable
+ethical standards. Data were anonymized and analyzed with
+descriptive statistics.
+The overall severity of TLC was reported as both the mean
+(±Standard Deviation) and the median number of days lost
+and grouped according to the time lost — namely, slight (0
+days), minimal (1-3 days), mild (4-7 days), moderate (8-28
+days), severe (29 days-6 months) and long-term (>6 months)
+(Pluim et al., 2009).
+RESULTS
+The anthropometric characteristics of the players are
+reported in Table 1.
+Table 1. Anthropometric characteristics of the first fifty players of the ATP ranking (20th February 2022).
+Age (yrs)
+Body mass (kg)
+Height (m)
+BMI (kg/m2)
+27.7±4.9
+81.3±8.9
+1.89±0.09
+22.3±1.3
+Range
+18.3-37.3
+64-108
+1.70-2.11
+19.8-24.8
+BMI: Body Mass Index.
+In the five years period 267 TLC were recorded (Table 2), 137 of them occurred or were reported during the tournaments (51%) and 130
+during training sessions (49%). Recurrences were 31% affecting twenty-seven players (54%).
+Table 2. Locations of all the recorded medical conditions.
+LOCATIONS
+Head/Neck
+Neck
+1.1%
+Eye
+0.4%
+Upper limbs
+Shoulder
+9.7%
+Wrist
+5.6%
+Elbow
+3.7%
+Hand
+1.1%
+Arm
+0.7%
+Trunk
+Back
+8.6%
+Abdomen
+6.4%
+Chest
+0.4%
+Lower limbs
+Shank
+8.6%
+Foot
+8.6%
+Knee
+7.9%
+Thigh
+7.1%
+Ankle
+6.7%
+Hip
+4.5%
+Hillness
+14.2%
+Gastrointestinal
+2.6%
+Pulmonary
+1.1%
+Nervous system
+0.4%
+Dental
+0.4%
+Total
+100.0%
+Most of these TLC were treated conservatively (N=256; 96%; Table 3), while only 11 (4%) needed surgery (Table 4).
+Table 3. Locations and diagnosis of medical conditions requiring surgery and their severity.
+Location
+Diagnosis
+Days out from competitions
+Severity
+Shoulder
+Rotator cuff injury
+Long term
+Ankle
+Sprain
+Long term
+Hip
+Arthrosis
+Severe
+Groin
+Hernia
+Severe
+Foot
+Heel spur
+Severe
+Elbow
+Tendinopathy
+Severe
+Elbow
+Tendinopathy
+Severe
+Abdomen
+Hernia
+Severe
+Knee
+Meniscopathy
+Moderate
+Ankle
+Calcification
+Moderate
+Dental
+Removal of wisdom tooth
+Moderate
+Considering all the TLC (n=267), the median time loss was 17 days (range 1-378; mean 33.2±48.1). For conditions requiring surgery (n=11),
+the median was 61 days (range 10-367; mean 102±105).
+Table 4. Locations and severity of medical conditions treated conservatively. SD: Standard Deviation.
+Location
+Days out from competitions
+Severity
+Median
+Min
+Max
+Illness
+18.8
+24±29
+Minimal to long term
+Shoulder
+9.8
+27±25
+Minimal to Severe
+Back
+9.0
+22±41
+Minimal to severe
+Shank
+8.6
+30±38
+Minimal to severe
+Foot
+8.6
+31±39
+Minimal to severe
+Knee
+7.8
+31±26
+Mild to severe
+Thigh
+7.0
+33±44
+Mild to severe
+Abdomen
+6.3
+40±43
+Mild to severe
+Ankle
+6.3
+20±17
+Minimal to severe
+Wrist
+5.9
+61±101
+Mild to long term
+Hip
+4.3
+45±52
+Mild to severe
+Elbow
+2.7
+20±25
+Mild to severe
+2.0
+39±30
+Mild to severe
+Neck
+1.2
+45±57
+Minimal to severe
+Hand
+1.2
+10±5
+Mild to moderate
+Arm
+0.8
+69±83
+Moderate to severe
+ALL
+100.0
+30±42
+Minimal to long term
+Table 5. Time-loss by diagnosis and severity. SD: Standard deviation.
+Diagnosis
+Days out from competitions
+Severity
+Median
+Min
+Max
+Muscle tear
+19.5
+34±44
+Minimal to long term
+Tendinopathy (shoulder)
+9.0
+45±89
+Mild to long term
+Back pain
+8.6
+19±37
+Minimal to severe
+COVID-19
+8.6
+26±19
+Mild to severe
+Blisters
+7.0
+17±22
+Minimal to severe
+Tendinopathy (unspecified)
+6.6
+41±32
+Mild to severe
+Sprain
+6.3
+26±20
+Minimal to severe
+Tendinopathy (wrist-hand)
+5.9
+29±44
+Minimal to severe
+Illness
+5.1
+10±10
+Mild to severe
+Knee problem
+4.7
+27±31
+Mild to severe
+3.9
+37±40
+Minimal to severe
+Tendinopathy (elbow)
+2.7
+20±25
+Mild to severe
+Gastrointestinal
+2.3
+15±9
+Moderate
+Hip problems
+2.0
+26±25
+Mild to severe
+Bone fracture
+2.0
+84±28
+Severe
+Arthrosis hip
+1.6
+63±77
+Moderate to severe
+Flu
+1.6
+6±3
+Mild to moderate
+Groin pain
+1.6
+25±8
+Moderate to severe
+Asthma
+1.2
+4±3
+Minimal to mild
+ALL
+100.0
+30±42
+Minimal to long term
+Furthermore: 89% of blisters affected the feet, 88% of sprain
+affected the ankle, 34% of muscles injuries affected the shank,
+32% of muscle injuries affected the abdominal muscles, 28%
+of muscle injuries affected the thigh. Among “Other” (Table 5)
+we listed cases of pain to the tibia, problem to clavicle, bone
+oedema to the elbow, eye problem, heat stroke, Müller-Weiss
+syndrome, and muscle cramps.
+Finally, in the population considered we did not find significant
+relationships between number of TLC and age (R2=0.147) or
+ranking (R2=0.016) of the players.
+DISCUSSION
+The studies on medical conditions usually explore several
+aspects of the epidemiology of injuries, such as prevalence,
+incidence, injury rate, and mechanism of injury. These studies
+are almost always conducted without collecting information
+on times of return to competitions, although time-loss is an
+outcome that top tennis players want to minimize (Kovalchik,
+2020).
+To our knowledge, the present study is the first that try to
+highlight the effects of medical conditions on the continuity of
+the career of a selected group of top male tennis players. In the
+examined five-year period, we found that players suffered on
+average 5.3 TLC each ranging from 1 to 15, with a median timeloss of 17 days (i.e., moderate severity), reaching 61 days (i.e.,
+severe) when surgery was needed. Moreover, there was a wide
+variance of the time-loss, from minimal severity to long term,
+resulting from the different medical conditions depending
+on type, nature, and possibility of therapy or management.
+In fact, in some cases, and in particular of chronic conditions,
+affected players can participate in the tournaments or shorten
+the length of time-loss utilizing different form of therapies,
+including non-steroidal anti-inflammatory drugs (NSAIDs),
+topical analgesics, injectable NSAIDs, local anesthetics
+(Bourgonjon et al. 2022), prolotherapy (Zhu et al., 2022),
+extracorporeal shock wave therapy (Ozturan et al., 2010),
+and even injections of corticosteroids or platelet rich plasma
+(Kemp et al., 2021).
+In our study we did not find significant relationships between
+the number of TLC and the age of the players, probably
+because of the small number of subjects and the limited time
+span explored. Indeed, a recent analysis of tens of thousands
+of competition weeks over the complete professional careers
+of 389 top male tennis players found significant increases
+in the risk of time-loss from competition with greater total
+competition load (Kovalchik, 2020). It was also demonstrated
+that the risk for the same increase in load increased with a
+player’s biological age, indicating that the harmful effects of
+load are magnified for older players compared to younger
+players (Kovalchik, 2020).
+As for the diagnosis, 45% of the injuries recorded in the
+present study were due to tendinopathies (26%; 9% were
+recurrences) and muscle tears (20%; 12% were recurrences),
+meaning that the musculo-tendinous unit is particularly
+sensitive to the effects of training and competition loads of
+tennis. Indeed, Colberg et al. (2015) in their study reported
+that one out of four athletes had a gradual onset condition
+that was commonly attributed to the training environment
+and length of each training session.
+Our data confirm that lower limbs were the locations most
+affected by injuries (43% of all TLC) (Fu et al., 2018, Pluim
+et al., 2016), followed by upper limbs (21%) and trunk (15%),
+while illnesses were 19%. In our study, injuries, as opposed
+to illnesses, accounted for 81% of all TLC, similar to previous
+findings of 80% (Hartwell et al., 2017) and 78% (Okholm
+Kryger et al., 2015), indicating a consistent trend in different
+samples of tennis players. It is interesting to note that the
+Covid-19 pandemic affected twenty-two players i.e., 44% of
+our sample, with a time-loss severity between one week and
+two months, leading to consider the importance of adopting
+preventive measures in the sporting context to manage the
+danger of transmissible illnesses.
+LIMITATIONS
+This is an observational retrospective study, in which the use
+of different web and media sources of information posed
+a challenge to data collection and understanding of the
+circumstances of the injuries. These sources allow for the
+collection of limited data regarding injuries and illnesses and
+their accurate diagnosis, so it is challenging to obtain detailed
+information about the casualty and precisely analyze it. As
+an example, sometimes websites reported an unspecified
+“problem” such as “muscular problem” or “problem to the
+ankle” which prevent from a correct classification, especially
+for medical condition occurred out of competitions which is
+difficult to confirm by multiple web reports. Furthermore, an
+absence of data identified in the search does not necessarily
+equate to an absence of cases leading to a possible
+underestimation of the results. For example, minor injuries
+sustained during match play do not prevent from finishing the
+match (Colberg et al., 2015) and cannot appear in our study.
+Another limit is the small number of players and the time span
+restricted to 5 years.
+Despite these limitations, this study still provides an idea on
+the main conditions that lead to absence from training and/
+or tennis tournaments and their severity, which should be
+investigated with further prospective studies.
+CONCLUSIONS
+This short paper focuses on the medical conditions entailing
+time-loss in top ranked ATP tennis players. Our results agree
+with most of the published data regarding tennis epidemiology,
+adding for the first time, some information about the severity
+of these conditions. Considering that time-loss is an outcome
+that top tennis players want to minimize, it became clear that
+both players and coaches should implement all the measures
+aimed to prevent the consequences of any kind of condition,
+especially those due to functional overload and transmissible
+illnesses. Nonetheless, Güler and Abdioğlu (2022) observed
+that many male tennis players they studied did not take
+precautions for sports injuries.
+Prevention should start early in the career of tennis players,
+from childhood where early specialization and high training
+volumes may increase risk for injury (Rose et al., 2008),
+although early intense training seems to be non-essential for
+attaining an elite level in all sports (Jayanthi et al., 2013), tennis
+included. Literature data show that players who specialized
+only in tennis were 1.5 times more likely to report an injury
+(Jayanthi et al., 2011), and medical withdrawals increased in
+national tennis players after playing more than five matches
+per year in supernational tournaments (Jayanthi et al., 2009).
+It is well known that training has protective effects against
+injuries (Gabbett, 2016), but principle of load progression
+means that from beginners to elite athletes the training
+workload must increase gradually, and be varied periodically
+according to athlete’s physiological capacity, psychological
+abilities, and work tolerance (Bompa & Haff, 2009),
+deeply understanding the training process leading to elite
+performance (Smith, 2003), without forgetting tennis-specific
+exercises such as decelerations (Kovacs et al., 2008).
+As far as elite athletes are concerned, prevention should
+consider not only training loads, but also playing surfaces
+(Alexander et al., 2022) and overall lifestyle including
+nutrition and sleep, together with other healthy measures
+such as vaccinations (Edouard et al., 2019), especially for
+players traveling around the world.
+Players and coaching staff should know the effects of medical
+conditions on the career of a tennis player and how to set up
+an effective prevention program aimed at minimizing the risk
+of medical conditions. We think that this paper can help.
+Further prospective studies are necessary to better
+understand the relationships between risk factors and
+severity of medical conditions, looking for injury prevention
+and health promotion of all the tennis players.
+CONFLICT OF INTERESTS AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

@@ -1,0 +1,189 @@
+Title: Should players serve using the foot-up or foot-back technique?
+Authors: Caroline Martin
+Year: 2015
+Issue: Vol. 23 No. 67 (2015)
+Article id: 154
+
+www.itfcoachingreview.com
+December 2015. 23rd Year. Issue 67 22-24
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v23i67.154
+
+Should players serve using the foot-up or
+foot-back technique?
+Caroline Martin (FRA)
+ITF Coaching and Sport Science Review 2015; 67 (23): 22 - 24
+ABSTRACT
+
+In this article, two stance techniques used when serving, the foot-up and foot-back
+technique, will be analysed and the effects, practical tips and recommendations for each
+will be detailed for a variety of game styles and tactical intentions.
+
+Key words: stance technique,
+foot-up, foot-back,
+Received: 13 August 2015
+Accepted: 14 September 2015
+Corresponding author:
+Caroline Martin
+Email:
+caromartin@numericable.fr
+INTRODUCTION
+In biomechanics, the tennis serve is a sequence of motions
+referred to as a “kinetic chain” made up of the various body
+segments involved in this specific stroke. As the starting point
+of this chain, the legs are the “launching pad” of the service
+motion and, therefore, their position and action play an
+essential role in performance. The goal of the preparation
+phase for the server, during which they get their body and legs
+into position, is to use ground reaction forces in order to
+generate the power required for the service motion. Tennis
+players can generally use two stance techniques: some bring
+the back foot up to the front foot during the ball toss, prior to
+the swing (Murray, Tsonga, Del Potro); while others leave the
+rear foot back until leg extension begins (Federer, Djokovic)
+(Figure 1). The first is known as the “foot-up” technique, while
+the
+second
+is
+called
+the
+“foot-back”
+
+During the 2007 French Open, the distribution of the two
+stance techniques was analysed (Renoult, 2007). Results
+showed that 72.4% of players used the foot-up technique.
+However, when we look at technique selection according to
+game style, we notice that this percentage changes
+considerably (Table 1). Close to 50% of players who serve and
+volley regularly or occasionally (doubles players or attacking
+players) use the foot-back stance when serving, compared with
+only 1 player in 6 among those who never move to the net after
+their serve (Table 1). What are the advantages and
+disadvantages of each stance technique?
+
+EFFECT OF THE STANCE TECHNIQUE ON BALL VELOCITY:
+A recent study has shown that when expert players use the
+foot-up technique, they generate on average higher ball
+velocities (173.2 km/h vs. 166.3 km/h with the foot-back
+technique) (C. Martin, Bideau, Nicolas, Delamarche, & Kulpa,
+2012). This represents a mean difference of 7 km/h in favour
+of the foot-up technique. How can we explain this result? It is
+known that the larger the base of support, the more balanced
+the player is. That is what happens with the foot-back
+technique which gives the player good stability. By contrast,
+with the foot-up technique, as both feet get closer until they
+touch one another and the server moves forward and pushes
+off the ground to hit the ball, the base of support narrows,
+which means the player becomes less balanced. The body of
+the server starts rotating forward. As the result of the blocking
+of a body part in motion (in this instance, the feet), an amount
+of body rotation is produced (as is also the case during a trip or
+somersault)
+(Figure
+2).
+
+That amount of forward body rotation (known as “angular
+momentum” in biomechanics) is greater with the foot-up
+technique than with the foot-back technique. And we know
+that the greater the amount of forward body rotation, the
+
+higher the ball velocity (Martin et al., 2013). That is why the
+foot-up stance allows players to serve a little harder.
+
+EFFECT OF THE STANCE TECHNIQUE ON NET CLEARANCE:
+Another major advantage of the foot-up technique is that it
+produces higher upward ground reaction forces compared with
+the foot-back technique (2.1 times the body weight vs. 1.5
+times the body weight, respectively) (Elliott & Wood, 1983)
+(Bahamonde & Knudson, 2001). onsequently, the foot-up
+technique allows players to impact the ball higher compared
+with the foot-back technique. A mean difference of 11 cm was
+recorded between the two stance techniques (2.65 m with the
+foot-up technique vs. 2.54 m with the foot-back technique) in
+expert tennis players (Elliott & Wood, 1983). As we know, the
+higher the ball impact, the greater the net clearance, the higher
+the chances of increasing 1st and 2nd serve percentages, and
+the more chances you have of achieving short and cross-court
+angles. It has been shown that increasing the height of ball
+impact from 2.60 m to 2.70 m allowed players to reach zones
+25 to 30 cm shorter in the service box.
+
+EFFECT OF THE STANCE TECHNIQUE ON RUNNING TIME
+TO
+THE
+NET
+DURING
+THE
+SERVE-AND-VOLLEY:
+ADVANTAGE TO THE FOOT-BACK TECHNIQUE
+A scientific study has focused on the influence of stance
+techniques on the running time of expert tennis players (male
+and female) to the net during the serve-and-volley (Martin et
+al., 2012). Results showed that players using the foot-back
+technique were able to reach the service line faster than those
+using the foot-up technique (1,49 s vs. 1.56 s, respectively).
+Even though the difference of 70 ms between the two
+techniques may appear insignificant at first sight, in reality it
+makes quite a difference in relation to one of the biggest
+challenges of serve-and-volley play. Indeed, serve-and-volley
+players look to run as quickly as possible in order to play the
+volley in good conditions; this can be achieved by getting as
+close as possible to the net. For instance, in the case of a return
+of serve hit at 140 km/h, a 70 ms time difference means that
+the serve-and-volleyer can get approximately 2.4 m closer to
+the net, thus greatly enhancing the likelihood of a successful
+first volley (Figure 4). How is it possible to explain such a
+difference between the two stance techniques? According to
+the results of this study, the loss of time recorded with the
+foot-up technique happens mostly during the landing phase.
+The duration of the first foot-floor contact after the serve
+(Figure 3) is extended by 20 ms on average with the foot-up
+
+Because players push more upward when using the foot-up
+technique, they need more time to recover balance during the
+landing phase before running to the net. Another factor
+explains the shorter running time to the net with the foot-back
+technique, and that is the forward impulse. With the foot-back
+technique, players cover a greater distance inside the court
+during the serve (60 cm compared with 46 cm with the foot-up
+technique) because they are able to generate larger propulsive
+forces to the net (0.20 times the body weight vs. 0.16 times the
+body weight with the foot-up technique) (Figure 4) (Elliott &
+Wood,
+1983)
+(Bahamonde
+&
+Knudson,
+2001).
+
+EFFECT OF THE STANCE TECHNIQUE ON THE RISKS OF
+CHRONIC UPPER LIMB JOINT INJURIES: NO CLEAR
+ADVANTAGE
+Some scientists studied the stress (forces and torques) that is
+placed on the shoulder joint during the serving motion
+depending on the stance technique used in order to determine
+if one technique was more traumatic than the other. No
+noticeable difference in joint loading was observed between
+the foot-back and the foot-up techniques (Reid, Elliott, &
+Alderson, 2008).
+
+CONCLUSION
+Practical tips: What type of stance is recommended when
+serving?
+- Are you a doubles specialist? A serve-and-volleyer? Or an
+attacking player? Consider using the foot-back technique
+which will enable you to reach the net faster during the serveand-volley.
+- Is your goal to serve with more speed and consistency?
+Consider using the foot-up technique to generate more speed
+and have a higher ball impact. Make sure to bring your back
+foot behind your front foot and not on the side or slightly in
+front. Otherwise, your hips will rotate towards the net too soon
+and you might overload and injure your shoulder.
+- Is your goal to enhance the technique you currently use (footback or foot-up)? Regardless of the technique you use, you
+should know that it is the back leg that should primarily be
+responsible for pushing upward and forward; the role of the
+front leg is more to provide stability so as to facilitate the body
+rotation to the net. Make sure that your back foot is correctly
+positioned in relation to the back hip, i.e. in such a way that the
+upward push of the back leg allows for the elevation of the
+back hip and the tilting of the pelvis and shoulders (Figure 5).

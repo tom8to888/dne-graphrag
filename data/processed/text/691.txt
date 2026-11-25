@@ -1,0 +1,680 @@
+Title: English, tennis and respect for diversity in Primary Education: We are all ASD
+Authors: Ángela isabel Carmona Blanco
+Year: 2025
+Issue: Vol. 33 No. 95 (2025)
+Article id: 691
+
+www.itfcoachingreview.com
+April 2025. 33th Year. Issue 95. 29-35
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i95.691
+INTRODUCTION
+Students with special needs associated with disabilities in
+Spain amounted to 262,732 people during the 2022-2023
+academic year, 84.20% of whom were in ordinary education
+and 15.80% in special education (Autism Confederation Spain,
+2024). During the aforementioned 2022-2023 academic year,
+students with autism spectrum disorder (ASD) accounted
+for 29.71% of the total who had special needs associated
+with disability, becoming the largest category, increasing
+since the 2011/2012 school year by 310.36%, representing
+0.94% of non-university students (Autism Confederation
+Spain, 2024). In this sense, it should be said that ASD is a
+neurodevelopmental condition that is characterized by
+limitations in social interaction and communication skills,
+as well as by a high presence of repetitive behaviours and,
+although previously motor disorders were considered
+marginal in these people, recent research has highlighted
+their importance, showing sports practice a positive impact
+on them,  both in psychosocial skills and motor behaviour
+(Grosprêtre et al., 2024). Thus, as the prevalence of ASD
+increases, there is a growing need to develop physical
+activity interventions in school that address the behavioural
+challenges of these individuals (Munn et al., 2024).
+The results of a recent systematic review of the scientific
+literature, which aimed to examine bullying against students
+with disabilities during Physical Education (PE) classes at
+school. showed the need to carry out a collaborative approach
+between students, teachers and families, towards the
+ABSTRACT
+This article presents scientific and didactic foundations on the potential of introducing
+tennis in Primary Education to acquire skills in the area of Foreign Language (LE), in
+this case through English, from the Area of Physical Education (PE). All of the above is
+considered from the perspective of the treatment of students with special educational
+needs associated with disability, more specifically those with autism spectrum disorder
+(ASD). In this sense, the important physical, psychological and social benefits of sport, in
+general, and tennis, in particular, in children with ASD are founded, as well as the positive
+effect of teaching an LE on the development of their social skills and communicative
+competences.  On the other hand, scientific bases are presented on the opportunity to
+develop programs in the school context that allow teaching Spanish through PE. Next,
+methods and strategies that have proven effective with ASD students in PE classes are
+discussed. Finally, contemplating all the above, examples of activities aimed at learning
+tennis and English simultaneously are presented, promoting the recognition and respect
+for diversity, the empathetic and inclusive attitude, as well as the acceptance of other
+realities, especially that of ASD students.
+English, tennis and respect for diversity in
+Primary Education: We are all ASD
+Ángela Isabel Carmona Blanco
+CEIP Virgen de Guadalupe, Arroyomolinos, Cáceres, Spain.
+Key words: Physical Education,
+school, autism, autism spectrum
+disorder.
+Received: 2 March 2025
+Accepted: 15 April 2025
+Corresponding author: Ángela
+Isabel Carmona Blanco,
+angelacarmonablanco@gmail.com
+development of sports programs that can empower students
+with disabilities, as well as to help identify the main barriers
+to participation towards the creation of a safe and inclusive
+learning environment (Gusliana et al., 2024). Along the same
+lines, the results of another systematic review, focused on
+analysing the results of research over the last 10 years on
+disability awareness and inclusion programmes in PE classes,
+showed that these help to improve the attitude of the school
+community towards people with disabilities, being especially
+effective due to the direct contact inherent in classes in this
+area (Luarte-Rocha et al., 2023).
+In relation to all of the above, a meta-analysis that aimed to
+explore the effect of physical exercise intervention on the
+fundamental motor skills (HMF) of children with attention
+deficit hyperactivity disorder (ADHD) and/or ASD, concluded
+that these interventions can improve their gross motor skills
+(Ye et al.,  2023), In this sense, it is important to consider
+the specific benefits obtained depending on the type of
+activity practiced, with aquatic therapy showing a greater
+effect on stability skills, while table tennis or horseback
+riding have better results in fine manual control and handeye coordination (Ye et al., 2023). Likewise, another metaanalysis that aimed to discuss the effects of physical activity
+intervention on children and adolescents with ASD, concluded
+that physical activity has a significant positive impact on social
+interaction capacity, communication ability, motor skills, and
+the degree of ASD (Huang et al., 2020). On the other hand,
+a systematic review concluded that, compared to control
+groups, physical activity interventions had a great positive
+COACHING & SPORT
+SCIENCE REVIEW
+effect on general sleep problems in children and adolescents
+with ASD, and could constitute an effective alternative to
+pharmacological treatments, sleep education programs for
+parents and behavioural interventions.  effective but have
+several limitations, such as possible side effects or high
+economic cost (Liang et al., 2024).
+Despite the significant benefits of physical activity in
+children with ASD, a meta-analysis of nine studies that
+used the degree of participation in moderate to vigorous
+physical activity (MVPA), measured with accelerometers,
+in ASD students, concluded that, compared to those who
+presented typical development (TDC), their MVPA level was
+30 min/day lower.  12% and 8% lower during PE and recess,
+respectively, being 4 times more likely to not comply with
+the MVPA recommendation compared to those with BDD
+(Abadi et al., 2023). Thus, children with ASD would be clearly
+below compliance with a series of guidelines developed by
+a group of experts in accordance with the protocols of the
+World Health Organization (WHO) who, using and updating
+different systematic reviews, advise performing an average of
+60 minutes/day of MVPA during childhood and adolescence
+(Bull et al., 2020). In this sense, focusing more specifically on
+the age group of Primary Education students, in which this
+practical proposal is framed, a study revealed that children
+aged 6 to 11 years with ASD performed significantly less
+physical activity than their peers in the general population
+Gehricke et al., 2020).
+With regard to tennis, the results of an intervention with 4
+children with ASD between 7 and 9 years of age, using the
+procedure from least to most prompting, consisting of offering
+the student a series of indications ordered from least to most
+intrusive, from least to most helpful, until the task is correctly
+performed,  showed their effectiveness in each of the 4
+subjects, significantly increasing their tennis skills (Yanardag
+et al., 2011). In this same line of action, a pilot study that
+aimed to determine the effectiveness of a tennis teaching
+and training program for people with ASD, combining specific
+tennis skills with others aimed at people with ASD, showed
+significant improvements after the intervention in specific
+tennis skills, in hand-eye coordination and leg strength.  as
+well as social and communication skills (Shanok & Sotelo,
+2022). In relation to the above, the results of a research with
+18 people aged 7 to 19 years with ASD, using an adapted
+tennis program, called ACEing Autism, quantifying motor
+participation behaviours, showed a longer time with both
+appropriate behaviours (AC) for motor skills and those
+supported for motor skills (MA) than those inadequate for
+motor skills.  spending more than 50% of their time in CA
+during the program. (Munn et al., 2024).
+With regard to the teaching of English as a foreign language
+(FL) to students with ASD, a study carried out with children
+between 8 and 12 years of age with ASD concluded that the
+teaching of an LE, from the point of view of both caregivers
+and parents,  it had a significant positive effect on their social
+skills and willingness to communicate compared to a control
+group, elicited through motivational modulation in a novel
+environment (Golshan et al., 2019). In fact, a systematic
+review of 12 scientific articles, which included a total of
+328 children between 3 and 12 years of age diagnosed with
+ASD (169 bilingual and 159 monolingual), concluded that,
+although communication and language skills are among the
+domains most affected in people with ASD, bilingualism does
+not pose any added difficulty for the development of their
+language (Garrido et al., 2024)
+In relation to the opportunity to propose programs in the
+school context that allow teaching a foreign language through
+CLIL (CLIL), a systematic review of 35 articles showed the
+great usefulness of these programs (Gil-López et al., 2021),
+achieving a higher success rate in the development of LE,
+both written and oral.  than traditional methods (García-Calvo
+& Salaberri, 2018). In this sense, games and sports were the
+most used PE content in learning a Spanish as a foreign
+language through CLIL, considering that this type of content
+encourages communication between students to improve
+written and spoken expression skills (Gil-López et al., 2019).
+On the other hand, it is worth highlighting the interdisciplinary
+potential of tennis in Primary Education, both to develop
+from the PE area to other areas of the school (mathematics,
+foreign language...) (Fuentes-García & Carmona, 2021a), as
+well as offering important physical, psychological, and social
+benefits to children who practice it (Araújo et al., 2014). In
+relation to the above, a study with children aged 6 to 12 years
+concluded that the practice of tennis through coordination
+exercises and games achieved significant improvements in
+their executive functions and physical fitness (Ishihara et
+al., 2017), while another study concluded that children aged
+5 and 6 years who practice tennis have a greater attention
+span and visual contribution to maintain balance than their
+counterparts who do not play sports (Rym et al., 2019).
+Likewise, an intervention with children aged 6 to 11 years
+concluded that, after 12 months of frequent tennis practice,
+working memory improved in them, and cognitive flexibility
+increased (Ishihara & Mizuno, 2018). The importance of this
+improvement in cognitive flexibility through tennis in the
+study should be highlighted, as a meta-analysis highlights the
+existence of cognitive flexibility difficulties in people with
+ASD (Lage et al., 2024).
+Before delving into the practical proposal that we propose,
+it should be said that, despite the fact that tennis presents
+some difficulties to be developed in PE classes, due to its
+technical and organizational complexity, approaches by
+different authors present effective methodological solutions
+to positively overcome them in the context of Primary
+Education (Fuentes-García & Carmona,  2021a; FuentesGarcía & Carmona, 2021b; Fuentes et al., 2020; Fuentes,
+2013, Sanz et al., 2004), and even integrating tennis, as PE
+content, with English (Fuentes et al., 2005).
+On the other hand, a review of the scientific literature that
+analysed the quality of the information on the content
+of physical activity and the description of the teaching
+methodology in children with ASD revealed that only 42% and
+12% of the publications included, respectively. the teaching
+methods and styles used (Bentholm & Ramskov, 2023), which
+is why it seems relevant to us to offer specific guidance on
+what type of activities could be likely to be useful during PE
+classes with ASD children.
+PRACTICAL PROPOSAL
+This proposal is framed in the context of Spain, more
+specifically in Organic Law 3/2020, of December 29
+(LOMLOE), establishing Primary Education three cycles,
+each of them of two years, starting with the first year of the
+first cycle (6 years) and structured in the following areas: a)
+Knowledge of the natural environment,  social and cultural -
+Natural Sciences and Social Sciences-; b) Artistic Education
+- Plastic and Visual Education, and Music and Dance; c)
+Physical Education; d) Spanish Language and Literature and,
+if any, Own Language and Literature; e) Foreign Language;
+f) Mathematics. In addition to these areas, in some of the
+courses of the third cycle (fifth and sixth years), Education in
+civic and ethical values is added. In this law, one of the aspects
+to be highlighted, closely linked to our proposal, is to use
+PE and sport to promote personal and social development,
+strengthen the habits of physical-sports activities in order
+to promote physical and mental well-being, as well as the
+personal and social development of the students.
+In relation to the above, the LOMLOE identifies students with
+special educational needs as those who face barriers that
+limit their access, presence, participation or learning, derived
+from disability or serious behavioural, communication and
+language disorders, the latter two cases very characteristic of
+people with ASD. In this sense, the LOMLOE expressed the
+need for students with special educational needs to receive
+the specific educational support and attention necessary
+to achieve the learning objectives appropriate to their own
+development.
+In relation to this proposal, we also consider Decree 107/2022,
+of 28 July, which establishes the organisation and curriculum
+of Primary Education for the Autonomous Community of
+Extremadura, which proposes a strong connection of the PE
+area with, among other issues, the recognition and respect
+for diversity, the empathetic and inclusive attitude or the use
+of social skills; while learning an LE enhances the acceptance
+of other realities that will enrich them while developing
+tolerance and awareness of social diversity.
+Methods and strategies for the development of the practical
+proposal
+For the practical proposal we will use the following methods
+and strategies that have proven their effectiveness in PE
+classes with ASD students:
+•	 Anticipation: preparing the child for the intervention
+well in advance, for example, using in-depth interviews
+beforehand, to increase participation and motivation,
+to know the individual attitude and conditions of the
+children to participate in physical activity (Arnell. 2018).
+•	 Visual aids (Bittner et al., 2018; Bremer et al., 2015;
+Bremer & Lloyd, 2016. Casey et al., 2015), in the case
+of environmental distribution, photographs of real
+objects, task cards with images or pictograms, In the
+latter case, we will especially use pictograms from the
+Aragonese Centre for Augmentative and Alternative
+Communication (ARASAAC), which are freely accessible,
+which are free of charge (ARASAAC, 2025a)
+•	 Teacher demonstrations (Bittner et al., 2018).
+•	 Basic Sign Language for Non-Verbal Children (Bass et al.,
+2009), or the Dictionary of Spanish Sign Language of the
+State Confederation of Deaf People (CNSE) (2025).
+•	 Direct and intensive motor skills instruction (Ketcheson
+et al., 2017),
+•	 Procedure from least to most incitement for the teaching
+of tennis, with indications ordered from least to most
+intrusive (Yanardag et al., 2011).
+•	 Music to structure work periods (Dieringer et al., 2017).
+•	 External motivation through positive verbal feedback
+and high-fives or hugs (Bahrami et al., 2016).
+•	 Tablets and apps to show the exercises or activities to
+be performed, such as the application aimed at children
+with ASD, for example, the so-called Exercise Buddy (EB
+app) (Exercise Buddy, 2025), consisting of a system of
+modelled videos that provide effective instruction on
+the correct performance of motor skills in children with
+ASD (Bittner et al., 2018).
+•	 Dynamic communicators, such as the multiplatform, free
+and customizable communicator AsTeRICS Grid, which
+allows the use of pictograms, images and orthographic
+signs to facilitate communication, initially developed
+at the Technikum Wien University of Applied Sciences,
+within the ToRaDes project and in which ARASAAC is
+currently collaborating (ARASAAC, 2025b).
+•	 Use of tennis to improve working memory, cognitive
+flexibility (Ishihara & Mizuno, 2018), executive functions,
+physical fitness (Ishihara et al., 2017), attentional capacity
+(Rym et al., 2019), or socialization (Araújo et al., 2014).
+•	 To jointly develop LE and PE, due to the significant
+positive effect on the social skills and willingness to
+communicate of children with ASD (Golshan et al., 2019),
+as well as because CLIL programs in the school context
+show a higher success rate in the development of an
+LE than traditional methods (García-Calvo & Salaberri,
+2018), promoting communication among students (GilLópez et al., 2019).
+Considering all of the above, as well as the great possibilities
+of introducing tennis in school from an inclusive point of view
+(Fuentes et al., 2020a; Fuentes et al., 2020b), we propose,
+by way of example, different activities, to be carried out in
+the school context, but also susceptible to be developed in
+associations or therapeutic centres focused on people with
+ASD,  tennis clubs or academies, etc.
+Examples of activities:
+•	 Using the AsTeRICS Grid dynamic communicator and
+ARASAAC pictograms, especially to ASD students the
+tennis and English activity that they are going to carry
+out during the week with their classmates at school.
+Thus, as can be seen at the top of the communicator
+there is a space in which those pictograms that we select
+will be inserted, considering that each image is a folder
+that, in turn, contains more folders, until we reach the
+pictograms themselves. Thus, for example, within the socalled "sports" is the pictogram "tennis". In this way, we
+can construct a phrase or, even, by touching the button
+that symbolizes the "Play" by sound (voice) indicate the
+phrase that reflects the sum of the pictograms. This
+communicator also allows writing to be combined with
+pictograms, being able, for example, to type the word
+"the" through the keyboard and then place a pictogram
+that symbolizes "tennis", thus contracting the phrase
+"tennis".
+Thus, the pictograms selected in this case can be seen in this
+space below (Figures 1 and 2):
+•	 The following is explained to all students, with and
+without ASD in PE class, using cards of a certain size,
+using ARASAAC pictograms, explaining the meaning:
+"Today and tomorrow, we will learn tennis and English as
+a team and to adapt the sport by communicating through
+images" (Figure 3).
+Figure 1. AsTeRICS Grid dynamic communicator with ARASAAC
+pictograms in the upper space enabled for this purpose.
+Figure 2. Phrase that is constructed using ARASAAC pictograms that
+represent "week", "school", "learn", "tennis", "English", "friends" and
+"happiness".
+Figure 4. Following the order from left to right and top to bottom.
+following the CNSE's Dictionary of Spanish Sign Language, the hand
+gestures representing "help", "continue" and "finish".
+Figure 3. Phrase that is constructed using ARASAAC pictograms that
+represent "today", "tomorrow", "learn", "team", "tennis", "English",
+"adapted sport" and "images".
+Figure 5. Phrase that is constructed using ARASAAC pictograms
+representing "tennis racket", "tennis ball", "tennis racket grip", "tennis
+court", "tennis net", "tennis court lines", "partner" and "partner".
+"This week at school you will learn tennis and English with your
+friends, and you will be very happy"
+•	 Using the CNSE's Dictionary of Spanish Sign Language
+(2025). it is explained to the students that if during the
+development of the whole session they need some kind
+of "help", they should, having both palms of their hands
+facing upwards, bring them closer to their own body
+(conversely if they offer help); if you want to continue
+with the activity you are doing, indicate the "continue" by
+placing one hand with the palm of the hand facing down
+and fingers together and the other hand perpendicular,
+also with fingers together and separated from the first,
+raising the latter until it touches the upper one twice in
+a row (action of going up and down); while if you want
+to end an activity, indicate the "finish" by initially placing
+your thumbs open. index and middle fingers of both
+hands and looking downwards and then raising them at
+the same time as the fingertips are joined (Figure 4).
+•	 The teacher will show the students a sheet containing
+tennis vocabulary, containing fundamental elements of
+the game through photographs or pictograms, in this
+example from ARASAAC, and the word of its meaning in
+Spanish and English: racquet, ball, grip, tennis court, net,
+lines of court or court's lines, and playmate or schoolmate
+(Figure 5), on the other hand. The teacher carries large
+cards in his hands, each containing the photograph or
+drawing of one of the elements. After the teacher shares
+this vocabulary, with the help of demonstrations, and
+leaves rackets and tennis balls scattered around the
+space, the teacher or the students themselves verbalize
+or show one of the words using the cards, the others
+having to run, dribble, throw upwards..., a tennis ball, until
+they touch the indicated element.  ... To indicate the way
+of travelling, the teacher will use music that facilitates
+both this aspect and the structure of the work periods
+themselves. Thus, if the teacher plays slow music, they
+must move on foot, if it is fast music, they must do it
+running, while if the teacher or students verbalize a word
+when there is no music, they must, without moving from
+the place, try to represent its meaning through gestures
+and if they show the card containing an image, they must
+say aloud in English its meaning.
+On the other hand, the indications of slow music, fast music
+and silence can be used by pictograms (Figure 6).
+Figure 6. Phrase that is constructed using ARASAAC pictograms that
+represent "fast music", "slow music" and "silence".
+Figure 7. Phrase that is constructed using ARASAAC pictograms that
+represent "above", "below", "between", "in front" and "behind".
+Figure 8. Phrase that is constructed using ARASAAC pictograms that
+represent "great sadness", "sadness", "normal state", "joy", and "great
+joy".
+Figure 9. Phrase that is constructed using ARASAAC pictograms that
+represent "inside" and "outside".
+Figure 10. Phrase that is constructed using ARASAAC pictograms that
+represent "everyone", "different", "everyone", "important", "we want"
+and "friends".
+•	 The students, after clear demonstrations by the teacher,
+must exchange. in pairs or in groups of four, shots in
+collaborative ways, being able, depending on their level
+of play, to give a previous touch to the ball, to prepare it
+before hitting it or even let it bounce twice to facilitate
+the subsequent hitting. When the teacher verbalizes
+a preposition of place or shows with ARASAAC
+pictograms in English -"on", "under", "between", in front,
+behind...- (Figure 7), the students must, in pairs, invent
+a situation by playing with the place, area, height... of
+blow that reflects each preposition. In cases where the
+teacher shows the card, the children must say aloud in
+English the preposition that reflects the pictogram, while
+verbalizing the preposition, they must indicate which
+of the cards means the preposition in question. The
+teacher will progressively provide a greater amount of
+feedback, to adjust the step-by-step instructions during
+the development of the game according to the level of
+performance of the students, thus trying to solidify and
+expand their level of competence. During the game, both
+the teacher and the students will use positive verbal
+feedback and high-fives or hugs in the event of achieving
+goals or making an effort to achieve them.
+•	 In pairs, the students begin the activity showing a very
+sad face, as if they were crying or about to do so, they
+manage to introduce, cooperating, very close to the net
+to make it simple, 2 balls in a row both put a less sad
+face: 2 more normal face; two more, laughter; while, if
+they put 2 more, they must laugh out loud (Figure 8)
+All the children have to end up laughing out loud. The
+teacher, depending on the level shown by each child, may
+facilitate the task, for example, allowing two dribbles or
+giving a previous touch to place the ball before hitting
+it towards the opponent's field, Afterwards the exercise
+is repeated, but manifesting joy through facial gestures,
+then through body gestures and, finally, using pictograms
+that represent these moods.
+On the other hand, the teacher or the students themselves
+can make indications with large cards to indicate whether the
+ball has gone in, if in doubt, or if a game is played to show the
+rules of tennis through some type of match (Figure 9).
+•	 By way of conclusion, at the end of the class, the teacher
+with the students reads messages such as the following,
+which show the importance of recognizing and respecting
+diversity, as well as having an empathetic and inclusive
+attitude with their classmates, For the construction of
+the sentences you can, for example, use the dynamic
+communicator AsTeRICS Grid and ARASAAC pictograms,
+combining the writing of words, through the use of the
+keyboard, with the use of pictograms (Figure 10).
+CONCLUSIONS
+Children with ASD represent a large percentage of students
+with special needs associated with disabilities, and it is
+essential in Primary Education to promote actions aimed at the
+recognition and respect for diversity. The practice of tennis
+has been shown to provide important physical, psychological
+and social benefits in children with ASD, and there are specific
+methods and strategies that provide greater effectiveness
+than traditional methods. The learning of an LE has shown its
+usefulness for the acceptance of other realities and tolerance
+or awareness of social diversity and, when developed jointly
+with the PE area, to have a significant positive effect on the
+social skills and willingness to communicate of children with
+ASD.
+CONFLICT OF INTEREST
+The author declares that she has no conflict of interest.
+RERERENCES
+Abadi, M. R. H., Zheng, Y. W., Wharton, T., Dell, C., Vatanparast, H., Johnston,
+J., & Kontulainen, S. (2023). Children with Autism Spectrum Disorder
+Spent 30 Min Less Daily Time in Moderate-to-Vigorous Physical Activity
+than Typically Developing Peers: a Meta-Analysis of Cross-sectional Data.
+Review Journal of Autism and Developmental Disorders, 10(1), 144-157.
+https://doi.org/10.1007/s40489-021-00262-x
+ARASAAC. (23 de febrero de 2025a). Catálogo de pictogramas en color.
+ARASAAC. http://old.arasaac.org/pictogramas_color.php
+ARASAAC. (23 de febrero de 2025b). Comunicador dinámico AsTeRICS Grid.
+Aula Abierta de ARASAAC. https://aulaabierta.arasaac.org/asterics-grid_
+inicio
+Araújo, M. L., Soares, A., Fuentes, J. P. (6-8 de agosto de 2014). O tênis no
+desenvolvimento humano de crianças em risco social: um projeto
+piloto para as aulas de Educação Física. X Seminario Internacional de
+Educação Física, Lazer e Saúde. Universidade Federal de Santa Catarina,
+Florianópolis, Brasil.
+Arnell, S., Jerlinder, K., & Lundqvist, L. O. (2018). Perceptions of Physical Activity
+Participation Among Adolescents with Autism Spectrum Disorders: A
+Conceptual Model of Conditional Participation. Journal of Autism and
+Developmental Disorders, 48(5), 1792-1802. https://doi.org/10.1007/
+s10803-017-3436-2
+Bahrami, F., Movahedi, A., Marandi, S. M., & Sorensen, C. (2016). The Effect
+of Karate Techniques Training on Communication Deficit of Children
+with Autism Spectrum Disorders. Journal of Autism and Developmental
+Disorders, 46(3), 978-986. https://doi.org/10.1007/s10803-015-2643-y
+Bass, M., Duchowny, C., & Llabre, M. (2009). The Effect of Therapeutic
+Horseback Riding on Social Functioning in Children with Autism. Journal
+of Autism and Developmental Disorders, 39(9), 1261-1267. https://doi.
+org/10.1007/s10803-009-0734-3
+Bentholm, A. & Ramskov, D. (2023). Quality of reporting on physical activity
+content and description of teaching: A scoping review on children with
+autism. European Journal of Adapted Physical Activit, 16(8), 1-24. https://
+doi.org/10.5507/euj.2022.014
+Bittner, M., Myers, D., Silliman-French, L., & Nichols, D. (2018). Effectiveness
+of Instructional Strategies on the Motor Performance of Children with
+Autism Spectrum Disorder. Palaestra, 32(2), 36-43.
+Bremer, E., Balogh, R., & Lloyd, M. (2015). Effectiveness of a fundamental
+motor
+skill
+intervention
+for
+4-year-old
+children
+with
+autism
+spectrum disorder: A pilot study. Autism, 19(8), 980-991. https://doi.
+org/10.1177/1362361314557548
+Bremer, E., & Lloyd, M. (2016). School-Based Fundamental-Motor-Skill
+Intervention for Children With Autism-Like Characteristics: An Exploratory
+Study. Adapted Physical Activity Quarterly, 33(1), 66-88. https://doi.
+org/10.1123/apaq.2015-0009
+Bull, F. C., Al-Ansari, S. S., Biddle, S., Borodulin, K., Buman, M. P., Cardon, G.,
+Carty, C., Chaput, J.-P., Chastin, S., Chou, R., Dempsey, P. C., DiPietro,
+L., Ekelund, U., Firth, J., Friedenreich, C. M., Garcia, L., Gichu, M., Jago,
+R., Katzmarzyk, P. T., Lambert, E., Leitzmann, M., Milton, K., Ortega, F.
+B., Ranasinghe, C., Stamatakis, E., Tiedemann, A., Troiano, R. P., van der
+Ploeg, H. P., Wari, V., & Willumsen, J. F. (2020). World Health Organization
+2020 guidelines on physical activity and sedentary behaviour. British
+Journal of Sports Medicine, 54(24), 1451-1462. https://doi.org/10.1136/
+bjsports-2020-102955
+Casey, A. F., Quenneville-Himbeault, G., Normore, A., Davis, H., & Martell, S.
+G. (2015). A Therapeutic Skating Intervention for Children With Autism
+Spectrum Disorder. Pediatric Physical Therapy, 27(2), 170-177. https://
+doi.org/10.1097/pep.0000000000000139
+Confederación Autismo España. (2024). Datos de alumnado general no
+universitario con trastorno del espectro del autismo: curso 2022/2023.
+ Confederación Estatal de Personas Sordas (CNSE). (8 de marzo de
+2025). Diccionario
+de
+la
+Lengua
+de
+Signos
+Española.
+https://
+fundacioncnse-dilse.org/
+Decreto 107/2022, de 28 de julio, por el que se establecen la ordenación y
+el currículo de la Educación Primaria para la Comunidad Autónoma de
+Extremadura. Diario Oficial de Extremadura, 151, de 5 de agosto 2022,
+38119-38501. https://doe.juntaex.es/pdfs/doe/2022/1510o/22040159.
+pdf
+Dieringer, S. T., Zoder-Martell, K., Porretta, D. L., Bricker, A., & Kabazie, J.
+(2017). Increasing physical activity in children with autism through music,
+prompting, and modeling. Psychology in the Schools, 54(4), 421-432.
+https://doi.org/10.1002/pits.22003
+Exercise Buddy. (23 de febrero de 2025). APP ExerciseBuddy. Google Play.
+https://play.google.com/store/apps/details?id=com.exerciseconnection.
+exercisebuddy&hl=es_419
+Fuentes, J. P., Menayo, R., Carmona, A. I. y Palacios, A. B. (2005). La Educación
+Física y el inglés en la LOCE: el tenis como propuesta práctica de
+interdisciplinariedad. El Patio de Educación Física, 4, 1-16.
+Fuentes, J. P. (2013). Variables didácticas en la enseñanza del tenis. En B.
+Sañudo (Ed.), Tenis y mujer (pp.171-196). INDE.
+Fuentes, J. P., Muller, J. y Furlaneto, O. A. (2020a). Tenis, escuela e inclusión:
+Perspectiva socializadora y práctica. INDE.
+Fuentes, J. P., Müller, J, Furlaneto, O. A., Sanz, D. (2020b). Tênis nas escolas:
+mitos e posibilidades. En C. Corrêa, C. A. Abaide, J. Zarpellon y J. P.
+Fuentes (Ed.), Tênis: Um olhar multidisciplinar (pp. 59-80). Editora CRV
+Fuentes-García, J. P., & Carmona Blanco, A I. (2021a). Interdisciplinarity and
+tennis in primary education. ITF Coaching & Sport Science Review, 29(85),
+25–27. https://doi.org/10.52383/itfcoaching.v29i85.307
+Fuentes-García, J. P., & Carmona Blanco, Ángela I. (2021b). Transversal
+competences in primary education through tennis. ITF Coaching & Sport
+Science Review, 29(85), 22–24. https://doi.org/10.52383/itfcoaching.
+v29i85.308
+García-Calvo, S., & Salaberri, M. S. (2018). Physical Education and English:
+constructivist vs traditional approaches in bilingual and non-bilingual
+education. Sportis. Scientific Technical Journal of School Sport, Physical
+Education and Psychomotricity, 4(2), 364-387. https://doi.org/10.17979/
+sportis.2018.4.2.3330
+Garrido, D., López, B., & Carballo, G. (2024). Bilingualism and language in
+children with autistic spectrum disorder: a systematic review. Neurologia,
+39(1), 84-96. https://doi.org/10.1016/j.nrl.2021.04.010
+Gehricke, J. G., Chan, J., Farmer, J. G., Fenning, R. M., Steinberg-Epstein, R.,
+Misra, M., Parker, R. A., & Neumeyer, A. M. (2020). Physical activity rates
+in children and adolescents with autism spectrum disorder compared
+to the general population. Research in Autism Spectrum Disorders, 70,
+Article 101490. https://doi.org/10.1016/j.rasd.2019.101490
+Gil-López, V., Sierra-Díaz, M. J., & González-Víllora, S. (2019). The effects of
+Content and Language Integrated Learning in the Physical Education
+subject in Primary Education. Sportis. Scientific Technical Journal of
+School Sport, Physical Education and Psychomotricity, 5(3), 562-585.
+https://doi.org/10.17979/sportis.2019.5.3.5527
+Gil-López, V., González-Víllora, S., & Hortigüela-Alcalá, D. (2021). Learning
+foreign languages through content and language integrated learning in
+physical education: A systematic review. Porta Linguarum(35), 165-182.
+https://doi.org/10.30827/portalin.v0i35.15785
+Golshan, F., Moinzadeh, M., Narafshan, M. H., & Afarinesh, M. R. (2019). The
+Efficacy of Teaching English as a Foreign Language to Iranian Students
+with Autism Spectrum Disorder on Their Social Skills and Willingness to
+Communicate. Iranian journal of child neurology, 13(3), 61-73. <Go to
+ISI>://MEDLINE:31327970
+Grosprêtre, S., Ruffino, C., Derguy, C., & Gueugneau, N. (2024). Sport and
+Autism: What Do We Know so Far? A Review. Sports Medicine-Open,
+10(1), Article 107. https://doi.org/10.1186/s40798-024-00765-x
+Gusliana, H. B., Ardiyanto, S. Y., Setyawan, H., Putro, B. N., Kurniawan, A.
+W., Zulbahri, Z., Gerdijan, N., Eken, O., Latino, F., & Tafuri, F. (2024).
+Legal Review of Bullying Cases against Students with Disabilities in
+Physical Education Learning at Schools: A Systematic Review. Revista
+Panamericana De Salud Publica-Pan American Journal of Public Health,
+57, 840-848. <Go to ISI>://WOS:001279517000001
+Huang, J. F., Du, C. J., Liu, J. J., & Tan, G. X. (2020). Meta-Analysis on Intervention
+Effects of Physical Activities on Children and Adolescents with Autism.
+International Journal of Environmental Research and Public Health, 17(6),
+Article 1950. https://doi.org/10.3390/ijerph17061950
+Ishihara, T., Sugasawa, S., Matsuda, Y., & Mizuno, M. (2017). Improved executive
+functions in 6-12-year-old children following cognitively engaging tennis
+lessons. Journal of Sports Sciences, 35(20), 2014-2020. https://doi.org/10
+.1080/02640414.2016.1250939
+Ishihara, T., & Mizuno, M. (2018). Effects of tennis play on executive function in
+6-11-year-old children: a 12-month longitudinal study. European Journal
+of Sport Science, 18(5), 741-752. https://doi.org/10.1080/17461391.20
+18.1444792
+Ketcheson, L., Hauck, J., & Ulrich, D. (2017). The effects of an early motor skill
+intervention on motor skills, levels of physical activity, and socialization
+in young children with autism spectrum disorder: A pilot study. Autism,
+21(4), 481-492. https://doi.org/10.1177/1362361316650611
+Lage, C., Smith, E. S., & Lawson, R. P. (2024). A meta-analysis of cognitive flexibility
+in autism spectrum disorder. Neuroscience and Biobehavioral Reviews,
+157, Article 105511. https://doi.org/10.1016/j.neubiorev.2023.105511
+Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley
+Orgánica 2/2006, de 3 de mayo, de Educación. Boletín Oficial del Estado,
+340, de 30 de diciembre de 2020, 122868-122953. https://www.boe.es/
+boe/dias/2020/12/30/pdfs/BOE-A-2020-17264.pdf
+Liang, X., Haegele, J. A., Tse, A. C. Y., Li, M. H., Zhang, H., Zhao, S., & Li, S.
+X. (2024). The impact of the physical activity intervention on sleep in
+children and adolescents with autism spectrum disorder: A systematic
+review and meta-analysis. Sleep Medicine Reviews, 74, Article 101913.
+https://doi.org/10.1016/j.smrv.2024.101913
+Luarte-Rocha, C., López-Casanova, L., Navarro-Gajardo, V., Pleticosic, Y.,
+Sagredo-Aravena, R., de Campos, L., & Campos-Campos, K. (2023).
+Awareness programs towards people with disabilities in the school
+context, physical education and health. A systematic review of the last
+10 years. Retos-Nuevas Tendencias En Educacion Fisica Deporte Y
+Recreacion(50), 1281-1288. <Go to ISI>://WOS:001068291400001
+Munn, E. E., Hill, L. F., Lang, D. M., Brock, S. J., Hastie, P., & Pangelinan, M.
+M. (2024). Academic learning time in physical education (ALT-PE) during
+an adapted tennis program for children with autism spectrum disorders.
+International Journal of Developmental Disabilities, 70(4), 756-765.
+https://doi.org/10.1080/20473869.2022.2143619
+Rym, B., Hamdi, C., Haithem, R., & Sonia, S. (2019). Diurnal variations of
+postural stability and attentional capacities in 5-6-year-old tennis players.
+Chronobiology International, 36(4), 517-529. https://doi.org/10.1080/07
+420528.2018.1564321
+Sanz, D., Julián, J. A., Fuentes, J. P. y Del Villar, F. (2004). El tenis en la escuela.
+Desarrollo de las unidades didácticas. En D. Sanz (Ed.), El tenis en la
+escuela (pp. 157-230). Paidotribo.
+Shanok, N. A., & Sotelo, M. (2022). A pilot tennis program for training fitness
+and social behaviors in individuals with autism spectrum disorder. Journal
+of Sports Medicine and Physical Fitness, 62(8), 1118-1126. https://doi.
+org/10.23736/s0022-4707.21.12414-4
+Yanardag, M., Birkan, B., Yilmaz, I., Konukman, F., Agbuga, B., & Lieberman,
+L. (2011). The effects of least-to-most prompting procedure in teaching
+basic tennis skills to children with autism. Kinesiology, 43(1), 44-55. <Go
+to ISI>://WOS:000305794700005
+Ye, Y., Ning, K., Wan, B. J., & Shangguan, C. Z. (2023). The Effects of the Exercise
+Intervention on Fundamental Movement Skills in Children with Attention
+Deficit Hyperactivity Disorder and/or Autism Spectrum Disorder: A MetaAnalysis. Sustainability, 15(6), Article 5206. https://doi.org/10.3390/
+su15065206
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2025 Ángela Isabel Carmona Blanco
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix, transform, and
+build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms

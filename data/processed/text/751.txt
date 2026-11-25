@@ -1,0 +1,305 @@
+Title: The relationship between one-hand overhead ball throw aimed at target area and maximal ball speed of flat serve in elite junior tennis players: a pilot study
+Authors: Károly Dobos, János Péter Tóth, Katalin Orbán-Sebestyén, Csaba ökrös
+Year: 2026
+Issue: Vol. 34 No. 98 (2026)
+Article id: 751
+
+the athlete’s long-term development. Several studies (Dobos
+& Nagykáldi, 2017; Dobos, 2018; Dobos & Tóth, 2021;
+Fernandez-Fernandez et al., 2013, 2016; Ulbricht et al.,
+2013) have pointed to a large correlation between different
+overhead, unilateral (one-sided) and bilateral (two-sided)
+throws and serving speed. However, the throwing tests used
+in the studies were not directed at the target area typical for
+the serving, so they do not reflect the passing of the ball at a
+given target area (typical for serve).
+It is important to note that serving is not merely a series of
+movement requiring exertion of reactive strength, but an
+extremely complex movement pattern, in which each part
+of the kinetic chain plays a decisive role, and the timing
+of their interlocking movements is critical in achieving its
+correct speed (Elliott, Reid & Crespo, 2009). In addition, the
+placement of the serve (the point of landing of the ball on
+the target area) also plays a decisive role in the performance
+of the serve (Colomar et al., 2022). Furthermore, the
+dynamic balance control and proprioceptive feedback,
+which are essential components of sport-specific movement
+INTRODUCTION
+There is a clear consensus among sport professionals and
+scientists that serving is of extreme importance to the
+outcome of a match, for age-group tennis players, as well. The
+effectiveness of serving is influenced by a number of factors
+(Colomar et al., 2022), of which the post-impact ball speed is
+one of the most decisive components of performance (Fett,
+Ulbricht & Ferrauti, 2020).
+When planning the athlete’s training programs, optimizing
+effectiveness of training has of utmost importance. Therefore,
+it is advisable to use targeted training tools that result in
+measurable improvement in performance even in short term.
+This is a particularly sensitive issue for junior tennis players in
+this age group, whose development potential is determined
+by age-specific and individual characteristics as well as
+phases of biological maturation. That is why, it is necessary
+to use training tools that are aiming at the simultaneous
+development of specific motor skills (reactive strength) and
+the execution of a given technical element. This supports the
+improvement of service performance without jeopardizing
+ABSTRACT
+The aim of this study was to investigate the relationship between performance on the
+one-hand overhead throw speed (OHOTS) aimed at a target area and the post-impact
+ball speed of the flat serve (PIBS) to promote more effective performance enhancement,
+and to estimate PIBS using a regression model through this simple field test. The test
+involved 23 elite junior boy tennis players (14.87±2.47 years). To explore the relationship
+between performance on the OHOTS and PIBS, we applied Pearson correlation analysis.
+Furthermore, simple linear regression was used to analyse the effect of the predictor
+variable (OHOTS) on the dependent variable (PIBS). Performance on the OHOTS test
+aimed at a target area showed a significant, strong correlation (r = 0.58; p<0.05) with
+PIBS. Moreover, the reactive strength exertion on the OHOTS test aimed at a target area
+accounted for 34% of the variation in PIBS. The result suggests that the motor skill test,
+which includes a unilateral movement pattern, can be used to monitor reactive strength
+in tennis players and can also serve as a training tool in the preparation process.
+The relationship between one-hand overhead
+ball throw aimed at target area and maximal ball
+speed of flat serve in elite junior tennis players:
+a pilot study
+Károly Dobos¹, János Péter Tóth², Katalin Orbán-Sebestyén³, Csaba Ökrös⁴
+¹Saint John Apostle Catholic Elementary School and Kindergarten, Budapest, Hungary. ²Student of PhD Program,
+Department of Sport Games, Hungarian University of Sports Science, Budapest, Hungary. ³Hungarian Tennis
+Federation, Head of Children’s Tennis. ⁴Department of Sport Games, Hungarian University of Sports Science,
+Budapest, Hungary
+Key words: field test, reactive
+strength, post-impact ball speed
+of the flat serve, tennis.
+Received: 7 January 2026
+Accepted: 23 March 2026
+Corresponding author: Károly
+Dobos, karoly.dobos93@gmail.
+com
+www.itfcoachingreview.com
+April 2026. 34th  Year. Issue 98. 45-48
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.304
+COACHING & SPORT
+SCIENCE REVIEW
+coordination, may be more prominent during the execution
+of movements directed toward a target surface. (Elliott, Reid
+& Crespo, 2009).
+Based on the above, it would be reasonablőe to develop
+a modern training tool that takes into consideration the
+specific characteristics of passing the ball to the target area
+and also provides opportunities for the complex development
+of technical execution quality, as well as increasing the
+reactive strength exertion. Therefore, the aim of this study
+was to examine the relationship between the one-hand
+overhead target-oriented unilateral throwing form and the
+post-impact ball speed of the flat serve to promote a more
+effective performance development. A further aim was to use
+this simple field test to estimate the post-impact ball speed of
+the flat serve using a regression model.
+METHODS AND PROCEDURES
+The study included 23 elite junior boy tennis players with an
+average chronological age: 14.84 ± 2.47 years; body height:
+170.47 ± 16.3 cm, body weight: 59.51 ± 13.83 kg (Table 1.).
+Subjects were selected through the professional sampling
+method to select those tennis players who possessed
+the correct serve technique at the highest level in their
+age categories. All players were among the top 30 on the
+Hungarian under 12, 14, 16, and 18 national ranking list in
+their age categories. As an extra, 26% of the players had a
+European Tennis Association (ETA) or International Tennis
+Federation (ITF) ranking.
+During the testing sessions two simple field tests were
+applied. These were the following: a) one-hand overhead
+ball throw test —to measure the ball speed of the one hand
+overhead throw, and the unilateral reactive strength of the
+upper body; b) serve test—to measure the post-impact ball
+speed of the flat serve and the neuromuscular power ability
+of the total body. Both tests were performed to the target
+area (Figure 1.).
+Testing sessions were conducted outdoors, in the main
+competition season. To avoid the effects of tiredness, testing
+sessions were carried out 48 hours after a heavy training or
+match. Before each testing the player’s age, body height and
+body mass were recorded. Each testing sessions started with
+a standardized warm-up of aerobic-type running, general
+mobilizing, stabilizing exercises and 8 trials on each test. Then
+the 2 field tests were performed, during which the players
+had 3 one-hand overhead ball throws and 8 flat serves. Fourminute passive rests were provided after the warm-up and
+between the tests, and 30 seconds of rest were allowed in
+the one-hand overhead ball throw test among the trials. In
+the serve test the resting time was 25 seconds. The best
+results of the correct trials (the execution is correct and the
+ball bounces on the valid target area) were considered for
+later analysis.
+The Stalker ATS II” radar instrument (within ±3 km/h of
+accuracy and operating frequency: 34,7 GHz [Ka-Band] ± 50
+MHz) was used for measuring the speed of the ball of onehand overhead throw and flat serve tests. Furthermore, new
+53-56 gram and 6.5 diameter “Slazenger Ultra Vis” balls were
+used. Before each testing session, the “Stalker ATS II” radar
+gun was calibrated in accordance with the manufacturer’s
+specifications.
+First, normality of distributions was controlled with using
+the Shapiro–Wilk-W test. The distribution for each variable
+was normal (0.17-0.06; p>0.05), therefore the parametric
+Pearson correlation coefficients (r) were calculated to
+reveal correlation between the (predictor and dependent)
+variables. Finally, the simple regression model was used in
+order to calculate coefficient of determination (R2) and set up
+regression models. Significance was established at p˂0.05 and
+data analyses were performed with the SPSS 21.0 software.
+RESULTS
+A significant positive correlation was found (r=0.58; p˂0.05)
+between the ball speed of the one-hand overhead throw
+aimed at the target area and the post-impact ball speed of the
+flat serve (Figure 2.). Furthermore, the R2 values indicated
+that ball speed of the one-hand overhead throw aimed at
+the target area was 34% of the variance of the post-impact
+ball speed of the flat serve. Finally, based on simple linear
+regression analyses the following regression model (equation)
+was set up (Table 2.):
+PIBS (km/h) =(b0) 53.31+(b1) 1.23 *OHOTS (km/h)
+Where: PIBS=post-impact ball speed of the flat serve = b0:
+intercept + b1: slope* OHOTS: one-hand overhead throw
+speed aimed at the target area.
+Figure 1. The selected motor ability tests. C: target area, J: tennis player.
+Figure 2. Correlation between ball speed of the one-hand overhead
+throw aimed at the target area and the post-impact ball speed of the
+flat serve (n:23).
+DISCUSSION
+The fundamental question of the research was to what extent
+this unilateral movement aimed at the target area affects the
+post-impact speed of a flat serve and if it can be used to
+optimize serving performance. The results obtained showed
+that there is a significant positive correlation between the
+two variables in tennis players of this age group (r=0.58;
+p˂0.05). Furthermore, the speed of the one-hand overhand
+throw to the target area explains 34% of the variance in the
+post-impact ball speed of the flat serve.
+The results indicate that in age-group junior tennis players,
+the throwing motion to the target area may play a role in
+improving the post-impact ball speed of the flat serve. In
+other words, the speed of the serve is a complex, multicomponent performance parameter that is not solely
+influenced by the magnitude of reactive strength (Roetert,
+Reid & Ellenbecker 2009). The level of development of the
+player's movement coordination, i.e., the precise and welltimed execution of the technical elements of the movement
+sequence, also plays a key role (Colomar et al., 2022). The
+integrated functioning of these factors fundamentally
+determines the dynamics of the entire movement chain and
+the post-impact speed achieved during the shot (Colomar et
+al., 2022). As mentioned previously several studies confirm
+the correlation between unilateral and bilateral throws and
+the launch speed of the serve (Dobos & Nagykáldi, 2017;
+Dobos & Tóth, 2021; Dobos, Tóth & Ökrös, 2022; FernandezFernandez et al., 2013, 2016, Ulbricht et al., 2013). Research
+has revealed that the reactive strength manifested in these
+throwing movements—especially in the one-hand overhead
+throw—which collectively involve the lower limbs, torso, and
+upper body, can be effectively transferred to the serving
+motion with the right technical knowledge, thereby helping
+to increase the post-impact ball speed of the flat serve.
+Table  1
+Individual characteristics and descriptive statistics of assessed variables in junior boy tennis players (n:23).
+Descriptive
+statistics
+Age
+Body weight (kg)
+Body height (cm)
+One-hand overhead
+throw speed (km/h)
+Post-impact ball speed
+of flat serve (km/h)
+Mean±SD
+14.87±2.47
+59.51±13.83
+170.47±16.30
+88.34±11.45
+161.95±24.16
+Min-Max
+11.12-18.39
+40.0-81.10
+145.0±193.40
+73-115
+113-199
+Table  2
+Simple linear regression analysis of junior tennis players (n:23)
+Group
+B
+SEM
+β
+t
+p
+Junior boy
+tennis players
+Intercept
+One-hand overhead
+throw speed (km/h)
+53.31
+33.29
+1.60
+1.23
+0.37
+0.58
+3.28
+<.004
+Dependent variables: the post-impact ball speed of the flat serve
+R²=0.34; adj R²=0.30; F (1-22) =10.81; p<0.005
+Furthermore, this research has highlighted that the throwing
+movement toward the target area used in the study, i.e.,
+targeted unilateral ball throws, could significantly influence
+the post-impact ball speed of the flat serve. During the
+targeted ball transfer, the player throws the ball at a specific
+target area with conscious motor control. This exercise could
+help refine the technical movement pattern of the upper limbs
+and effectively transfer them into the serving motion. It could
+also support the development of movement coordination and
+ball control and contribute to increasing the tennis player's
+reactive strength (Dobos & Tóth, 2021; Fernandez-Fernandez
+et al., 2013, 2016). Therefore, based on these data, targeted
+unilateral throwing movements could be an integral part of
+tennis training, serving to effectively develop sport-specific
+movement patterns. It is important to mention that the
+research of Reid, Giblin & Whiteside (2015) and Wagner et
+al. (2014), which points out numerous mechanical similarities,
+observed significant mechanical differences between the
+two movement patterns. Nevertheless, it seems realistic to
+conclude that a one-hand throwing motion directed at the
+target area could provide a suitable basis for improving the
+post impact ball speed of the flat serve in junior boy tennis
+players.
+As a limitation of this research, it would be justified to conduct
+the study on a larger sample and to expand it to female tennis
+players to obtain more comprehensive results.
+In addition, it would be worth to analyse the correlations
+between one-hand overhead throws aimed at the target
+area executed from different starting positions and the postimpact ball speed of the flat serve. During tests performed
+from prone, seated, and half-kneeling positions, the conscious
+shortening of the kinetic chain and the exclusion of the lower
+extremities allow for the isolation of the reactive strength and
+coordination role of the dominant arm and shoulder girdle in
+the post-impact ball speed of the flat serve. This allows for
+more accurate information about individual contribution of
+each segment to the overall serve performance. In addition,
+these investigations may pave the way for the development of
+standardized field tests that enable the precise measurement
+of performance components of sport-specific movement
+patterns.
+CONCLUSION
+During the preparation period one of the most important
+aspects of training theory is efficiency. This means that
+training equipment used to prepare athletes must be
+capable of improving performance in the short term without
+jeopardizing the athlete’s long-term development. Based
+on the collected data, we believe that unilateral throwing
+techniques aimed at this type of target area probably increase
+serving speed and improve movement coordination and ball
+control. Therefore, it would be worth for age-group junior
+tennis players to practice different throwing forms on target
+areas, as in case of tennis we are talking about ball transfer
+to target surfaces (Rigler, 2004). Furthermore, through the
+practical application of empirical results, more effective
+constructive teaching strategies could be developed that
+emphasize the understanding of tactical elements and the
+conscious application of specific technical elements (Kovács,
+2024).
+CONFLICTS OF INTEREST
+The authors declared no conflict of interest regarding the
+publication of this manuscript.

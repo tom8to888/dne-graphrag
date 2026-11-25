@@ -1,0 +1,289 @@
+Title: Acute effect of HAL (limb type)-assisted cybernic voluntary control squat exercise on tennis serve speed
+Authors: Bumpei Sato, Shuhei Sato, Hiroki Yamaguchi, Yoshihiro Yasunaga, Masayuki Sato
+Year: 2023
+Issue: Vol. 31 No. 91 (2023)
+Article id: 392
+
+ABSTRACT
+The fastest serve at the 2022 US Open Tennis was 141 mph (226.9 km/h, Alexander Bublik,
+KAZ) and 128 mph (205.9 km/h, Coco Gauff, USA) for men and women, respectively. This
+speed is expected to increase in the future. Most studies focused on improving serve
+performance have been conducted in the fields of sports biomechanics and exercise
+physiology. There are no studies focusing on the voluntary control of the brain, spinal
+cord, motor nerves, musculoskeletal system, and service performance. Recently, a
+wearable cyborg, Hybrid Assistive Limb (HAL), has been utilized as a rehabilitation device
+in patients with stroke, cerebral palsy, and spinal cord injury. We aimed to determine the
+acute effect of Cybernic Voluntary Control squat exercises using HAL on the serve speed.
+Four male tennis coaches with extensive teaching experience (mean age: 32.5 ± 0.6 years,
+teaching experience: 10.5 ± 0.6 years) were included in the study. The results showed an
+increase of approximately 7% in the in serve speed after HAL-assisted squatting. This was
+attributed to the interactive biofeedback between HAL and the participants, which may
+have produced the immediate effect. HAL use could maximize the physical functions of
+tennis players and guide post-injury rehabilitation exercises.
+INTRODUCTION
+The fastest serve at the 2022 US Open Tennis was 141
+mph (226.9 km/h; Alexander Bublik, KAZ) and 128 mph
+(205.9 km/h; Coco Gauff, USA) among the men and women,
+respectively. This speed is expected to continue increasing in
+the future (Tables 1 and 2) (USTA, 2022).
+Until now, most studies on improving serving performance
+has come from the fields of sports biomechanics and exercise
+physiology. No study has focused on the voluntary brain
+→ spinal cord → motor nerve → musculoskeletal system
+pathway in the field of neuroscience. Recently, the Hybrid
+Assistive Limb (HAL) (Kawamoto et al., 2010), a wearable
+cyborg developed by Sankai et al. (2014), has been utilized
+and is effective as a rehabilitation device in patients with
+stroke, cerebral palsy, and spinal cord injury (Nakajima, 2011).
+Yasunaga et al. (2022) evaluated the immediate changes
+in low back pain and hip flexibility and adverse events after
+biofeedback physical therapy using HAL; they reported
+significant positive changes. However, the potential use of
+HAL in sports remains unknown. Furthermore, it is necessary
+to verify its usefulness in improving performance and guiding
+exercises. We aimed to determine the effect of Cybernic
+Voluntary Control (CVC) squat exercises using HAL on the
+serving speed.
+www.itfcoachingreview.com
+December 2023. 30th Year. Issue 91. 32-36
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i91.392
+Acute effect of HAL (limb type)-assisted cybernic
+voluntary control squat exercise on tennis serve
+speed
+Bumpei Sato1, Shuhei Sato2, Hiroki Yamaguchi3, Yoshihiro Yasunaga4 &
+Masayuki Sato5
+1Meiji University, Japan. 2Sendai University, Japan. 3Doshisha University, Japan.  4Tsukuba University, Japan. 5Senshu
+University, Japan.
+Key words: Motor learning,
+rehabilitation, interactive biofeedback.
+Received: 24 February  2023
+Accepted: 14 May 2023
+Corresponding author: Bumpei
+Sato. Email: bsato@meiji.ac.jp
+Table 1
+2022 US Open Tennis rankings of the fastest serves among men (USTA,
+2022).
+Fastest serves in US Open 2022 I MEN
+Rank
+Matches
+Player
+Fastest Serve
+Speed
+A. Bublik
+141 mph
+T.Paul
+139 mph
+B. Shelton
+139 mph
+B. Van de Zandschulp
+138 mph
+F. Tiafoe
+138 mph
+J . Sock
+138 mph
+M. Berrettini
+138 mph
+N. Kyrgios
+136 mph
+G. Dimitrov
+136 mph
+F. Verdasco
+136 mph
+J. Munar
+136 mph
+J. Thompson
+136 mph
+J . Draper
+136 mph
+A. Popyrin
+136 mph
+COACHING & SPORT
+SCIENCE REVIEW
+Table 2
+2022 US Open Tennis rankings of fastest serves among women (USTA,
+2022).
+Fastest serves in US Open 2022 I WOMEN
+Rank
+Matches
+Player
+Fastest Serve
+Speed
+C. Gauff
+128 mph
+L. Samsonova
+123 mph
+B. Haddad Maia
+120 mph
+P. Martic
+120 mph
+S. Williams
+119 mph
+X. Wang
+119 mph
+M. Keys
+118 mph
+V. Williams
+118 mph
+C. Garcia
+118 mph
+0. Dodin
+118 mph
+METHODS AND PROCEDURES
+Subjects
+Four experienced tennis coaches (mean age: 32.5 ± 0.6 years),
+with a teaching experience of 10.5 ± 0.6 years, were included
+in the study. The physical characteristics and teaching history
+of the participants are shown in Table 3. These coaches were
+selected for the study because the learning curve of their
+serve skills had already plateaued.
+Procedure
+Before the experiment, a semi-structured interview was
+conducted to obtain the coaching history (e.g., injuries).
+Subsequently, a sufficient warm-up time was allowed prior
+to conducting the experiment. The serve speeds and hitting
+points were measured using a HEAD Tennis Sensor (U.S.A.)
+attached to a special racket. Keaney & Reid (2018) confirmed
+that the stroke volume and intensity captured by HEAD
+Tennis Sensors are as reliable and valid as those captured by
+motion capture systems. The DUNLOP Fort tennis ball was
+used (DUNLOP). The participants were asked to hit 10 flat
+serves as hard as possible to a target set up in front of them.
+After each experiment was completed, a sufficient rest period
+was allowed to avoid the learning curve being affected.
+Table 3
+Physical characteristics and teaching history of the participants.
+Age (years)
+Height (cm)
+Body Weight (kg)
+BMI
+Teaching experience (years)
+Subject A
+64.4
+23.5
+Subject B
+70.2
+23.4
+Subject C
+73.5
+22.8
+Subject D
+24.2
+Mean ±SDs
+32.5 ± 0.6
+173.25 ± 6.0
+70.8 ± 4.7
+23.5 ± 0.6
+10.5 ± 0.6
+Figure 1. Tennis racket-mounted motion analysis sensor (HEAD Tennis Sensor; ZEPP).
+Figure 2. Average and maximum ball speeds and hitting points as
+calculated using HEAD Tennis Sensor.
+Figure 3. Experimental setup.
+Figure 6. Experimental procedure. HAL: Hybrid Assistive LimbⓇ.
+Figure 4. Electrode positions over the back. 1: Grounding. 2 & 3: Erector
+spinae muscle.
+Figure 5. CVC squat exercise with the Hybrid Assistive LimbⓇ.
+Statistical analysis
+Serve speeds following (1) squat, (2) squat wearing HAL, and
+(3) squat wearing HAL in the CVC mode were compared to
+the pre-experimental serve speed (two-group comparisons).
+Wilcoxon's signed-rank test was used for the comparison.
+SPSS (version 28.0; IBM Japan, Tokyo, Japan) was used for all
+statistical analyses. Statistical significance was set at p<0.05.
+Ethical considerations
+This study was approved by the Ethics Review Committee of
+Meiji University (No. 557). The participants were provided
+with written and verbal information regarding the purpose
+and content of the study. It was explained that the results
+would not be used for anything other than for this study and
+that participation was voluntary. In addition, it was explained
+that there would be no disadvantage to not participating in
+this study. Finally, the participants could leave during the
+study.
+RESULTS AND DISCUSSION
+The average serve speed of the four participants was 166.9 ±
+12.3 km/h, 170.1 ± 12.4 km/h, 171.9 ± 11.6 km/h, and 179.1
+± 7.0 km/h in the pre-test, squatting under body weight,
+squatting without HAL assistance, and squatting with HAL
+assistance (CVC mode) conditions, respectively. The speed
+increased significantly in all test conditions compared to
+the pre-test values (Experiment 1: p=0.003, Experiment 2:
+p<0.001, Experiment 3: p<0.001).
+There was a 2%, 3%, and 7% increase in speed in the squatting
+under body weight, squatting without HAL assistance, and
+squatting with HAL assistance (CVC mode) conditions,
+respectively (Figure 7).
+Kovacs & Ellenbecker (2011a) classified serves into eight
+phases from start to completion: (A) initiation, (B) release,
+(C) loading, (D) cocking, (E) acceleration, (F) impact, (G)
+deceleration, and (H) completion. The loading phase is
+important because the lower limb drive generates a large
+ground reaction force. The importance of leg drive in efficiently
+transferring lower limb power to increase the serve velocity
+has been tested using various methods, including lower limb
+stance techniques. Their disadvantages and advantages
+have also been reported by several coaches and researchers
+(Bahamonde & Knudson, 2001; Elliott & Wood, 1983; Martin
+et al. 2012). Serve speed is related to the amount of muscular
+force exerted by a powerful leg drive during the loading phase
+(Bahamonde, 1997). In addition, elite players exert greater
+horizontal force and use the body’s pushing motion to create
+a series of backward-to-forward movements to hit a fast
+serve (Girard et al., 2005). Squats and front and side lunges
+using the body weight are effective exercises, and exercises
+performed on an unstable balance board improve serve
+performance (Kovacs & Ellenbecker, 2011b).
+HAL can detect weak "bioelectric potential signals" generated
+from an individual's body surface using sensors and can
+assist in muscle activity. The driving torque generated by
+the biopotential signals of the wearer's erector spinae
+muscles gets transmitted to the trunk and lower limbs via
+both fixed belts (Abe et al., 2018). Subsequently, the brain
+and nervous system (brain → spinal cord → motor nerves →
+musculoskeletal system → HAL → musculoskeletal system
+→ motor nerves → spinal cord → brain) and interactive biofeedback between the brain/nervous system, body, and HAL
+(brain → spinal cord → motor nerves → musculoskeletal
+system → HAL → musculoskeletal system → motor
+nerves → spinal cord → brain) strengthen and adjust the
+interconnections and improve its function (Grüneberg et al.,
+2018; Nakajima et al., 2021; Sankai, 2014; Sankai & Sakurai,
+2018).
+Figure 7. Change in serve speed from pre-test to post-test condition.
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2023 Bumpei Sato, Shuhei Sato, Hiroki Yamaguchi, Yoshihiro Yasunaga & Masayuki Sato
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms
+Squatting using HAL is a CVC exercise that provides voluntary
+assistance based on bioelectrical signals, which is an evolution
+from the commonly practiced body weight-based squatting.
+HAL-assisted squatting stimulates and mobilizes the lower
+limb muscles and nerves that have not been used up to this
+point, establishing efficient interactive biofeedback learning
+and possibly increasing the serve speed.
+Limitations and future research
+Because this study used a special experimental apparatus
+(HAL), only four participants were included in the study. Future
+studies with a larger sample size and other methods, such as
+group set-ups for measurement, will be required. In addition,
+"leg drive," which is thought to be a major factor in increasing
+the serve speed, was not analyzed in this experiment using
+force plates and a three-dimensional motion analysis device.
+We would like to perform further studies considering these
+factors.
+CONCLUSION
+This study aimed to determine the effects of HAL-assisted
+CVC squat exercises on the serve velocity. We found a 2%,
+3%, 7% increase in speed in the body weight-based squatting,
+squatting without HAL-assistance, and squatting with HALassistance (CVC mode) conditions, respectively. The use of
+HAL could help tennis players recognize and utilize their
+latent physical abilities and motor functions. Additionally, it
+could maximize their physical functions and provide guidance
+during post-injury rehabilitation.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

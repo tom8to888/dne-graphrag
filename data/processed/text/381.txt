@@ -1,0 +1,267 @@
+Title: Making the Top 100: ITF Top 10 junior transition to Top 100 ATP tour (1996 – 2005)
+Authors: Peter D. McCraw
+Year: 2011
+Issue: Vol. 19 No. 55 (2011)
+Article id: 381
+
+www.itfcoachingreview.com
+November 2011. 19th Year. Issue 55. 16-19
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i55.381
+
+Making the Top 100: ITF Top 10 junior
+transition to Top 100 ATP tour (1996 – 2005)
+Peter D. McCraw
+Association of Professional Tennis Players.
+ABSTRACT
+
+This study investigated transition from a Top 10 ITF Junior rank to Top 100
+ATP Tour rank over a ten-year period between 1996 and 2005. It provides an
+insight into the development variables of ITF junior win: loss ratios, number of
+junior and ITF Pro-Circuit events played between 14-18 years of age and
+ranking in the years prior to entering the Top 100. The results of this study
+can help to establish a range of statistical benchmarks coaches and
+Federations can use for players aspiring at a professional career on the ATP
+Tour.
+
+Key words: Junior to senior
+transition, statistical analysis,
+Top 100 ATP.
+Received: 17 October 2011
+Accepted: 1 November 2011
+Corresponding author:
+Peter D. McCraw, Association
+of Professional Tennis Players.
+Email:
+peter@mccrawmethod.com
+
+INTRODUCTION & BACKGROUND
+Achieving a Top 100 ATP rank is a significant achievement in
+men’s professional tennis. Much discussion surrounds the path
+a player and time a player should take in achieving this goal.
+
+There have been a number of studies that have profiled
+average age of top-ranked male and female tennis players
+(Tennis Canada, Treleven & Miley). This study investigated
+transition from a Top 10 ITF Junior rank to Top 100 ATP Tour
+rank over a ten-year period between 1996 and 2005. It
+provides an insight into the development variables of ITF junior
+win: loss ratios, number of junior and ITF Pro-Circuit events
+played between 14-18 years of age and ranking in the years
+prior to entering the Top 100. The intended use of this study
+was to establish a range of statistical benchmarks coaches and
+Federations can use for players aspiring at a professional
+career on the ATP Tour.
+METHODOLOGY
+•The study’s data was obtained from the ITF and ATP Tour
+websites:
+
+www.itftennis.com/juniors/ www.itftennis.com/mens/ www.
+atpworldtour.com
+
+•Data was collated on players meeting the criteria of:
+
+Top 10 ITF Junior year-end rank between 1996 – 2005. (85
+players*)
+
+Top 100 ATP Tour Players as at February 2 2009. (100 players)
+
+•Basic statistical measures of mean, median, standard
+deviation, minimum, maximum, were used to profile players.
+
+* - Duplicate names were removed as players finished in Top
+10 for more than one year in a row. Also some players
+achieved a Top 100 Rank during the calendar year but failed
+to stay inside the Top 100 at year-end. These players were
+included in the study and categorised as having achieved a
+Top 100 ATP Tour rank.
+
+Table 1. Profile of forty-nine* boys who finished with a Top 10 Junior
+ITF Year End Rank between 1996 – 2005 who have achieved a Top
+100 ATP Senior Rank. (MD) = Main Draw. * - Duplicate names
+removed.
+DISCUSSION
+Top 10 ITF Junior Circuit Player who achieved Top 100 ATP Tour
+Rank
+Table 1 outlines the profile (mean) of a Top 10 ITF Junior Circuit
+player (1996 – 2005) who achieved a Top 100 ATP Tour rank.
+Forty-nine (49) players comprised this group after duplicate
+names were removed as some players finished with Top 10 rank
+for more than one year in a row.
+ITF Junior Circuit Profile
+•An average W:L Ratio of 3.3:1 (min 1.7/ max 6.3) was required
+in the ITF Junior Circuit to achieve a Top 10 year end rank.
+Players competed in 36 (min 12 / max 61) ITF Junior Circuit
+events and participated 110 (min 36/ max 188) matches during
+their junior career.
+•Players competed in 41 (min 0 / max 95) ITF Pro Circuit events
+and participated in 84 (min 32 / max 152) matches between 15
+– 18 years.
+ITF JUNIOR PROFILE- AGE & NUMBER OF
+EVENTS PER YEAR
+Years
+Mean
+Std Dev
+Min
+Max
+Median
+%
+0%
+78%
+95%
+88%
+84%
+46%
+Table 2. The number of ITF Junior events players competed in by age.
+Table 2 above illustrates the number of ITF Junior events
+players competed in by age.
+• 78% had begun playing by age 14.
+• This peaked to 95% at 15 years and dropped to 88% by year
+16.
+• It continued to fall, with only 84% at 17 years and 46% by 18
+years competing on the ITF Junior Circuit.
+ATP TOUR + ITF PRO CIRCUIT PROFILE- AGE & NUMBER
+OF EVENTS PER YEAR
+Years
+Mean
+Std Dev
+Min
+Max
+Median
+%
+0%
+0%
+57%
+82%
+96%
+96%
+Table 3. The number of ATP Tour and ITF Pro Circuit events players
+competed in by age.
+Table 3 above illustrates the number of ATP Tour and ITF Pro
+Circuit events players competed in by age. 57% had begun
+playing by age 15. This rose to 82% at 16 years and peaked at
+96% by year 17 and 18.
+Table 4 below illustrates the combined number of ITF Junior,
+ATP Tour and ITF Pro Circuit events players competed in by age:
+• At age 15, a total of 11 events were played with a 65/35%
+proportion to junior circuit.
+• By age 16 this had increased to 18 events with a 60/40% split
+to Junior circuit.
+• At age 17, players competed in 25 events with a 50/50% swing
+towards Senior circuit events.
+• By the 18th year, the Top 10 ITF juniors that achieved a Top
+100 ATP rank competed in 30 events with a further swing
+toward Senior circuit events of 25/75%
+
+TOURNAMENT PROFILE (ITF JUNIOR & ATP / ITF PRO CIRCUIT) AGE
+& NUMBER OF EVENTS PER YEAR
+Age Profile
+Total Events
+Junior
+Senior
+Junior %
+64%
+61%
+48%
+27%
+Senior %
+36%
+39%
+52%
+73%
+Est. %
+5% shift to Seniors from Juniors at year 16.
+10% shift to Seniors from Juniors at year 17.
+25% shift to Seniors from Juniors at year 18.
+Table 4. The combined number of ITF Junior; ATP Tour and ITF Pro
+Circuit events players competed in by age.
+ITF Pro Circuit & ATP Tour Profile
+• The first ITF Pro Circuit rank was obtained at 17.6 years (min
+15.0 / max 22.0) and a Top 100 ATP Tour rank at 20.8 years (min
+17.0 / max 25.0). Players remained in the Top 100 for 3.7 years
+(min 1.0 / max 10.0).
+• The highest ATP rank was obtained at age 23.0 (min 18.8 /
+max 26.5), with a transition time of 4.3 years (min 1.0 / max 9.0).
+To achieve this the player initially required a W:L Ratio of 1.9:1
+(min 1.1 / max 3.7) on the ITF Pro Circuit, then 1.2:1 (min 0.3 /
+max 4.1) on ATP Tour. A career W:L Ratio of 1.6:1 (min 0.1 / max
+3.9) was required.
+• The average year-end rank was calculated for up to 5 years
+from a Top 100 rank. Results are below with an approximate
+ranking proposed also.
+YEARS PRIOR
+TO TOP 100
+RANK
+(0)
+Average Year
+End Rank
+Approx. Year
+End Rank
+Top 100
+Table 5. Years prior to top 100 rank
+FINDINGS
+Analysis of Top 10 ITF Junior Circuit players from 1996 – 2005
+who achieved a Top 100 ATP Tour rank in their career,
+indicated:
+(1) 58% of players who achieved a Top 10 ITF Junior rank
+between 1996-2005 achieved a career high Top 100 ATP Tour
+Rank.
+(2) First ITF Pro Circuit rank achieved at 17.6 years.
+(3) Transition time from first year-end rank to Top 100 ATP
+Tour of 4.3 years at an age of 20.8 years.
+(4) Highest ATP Tour rank achieved approximately two years
+after entering ATP Tour Top 100 at 23.0 years with an average
+of 3.7 years inside Top 100 rank.
+(5) Players competed in 36 ITF Junior Circuit events and
+participated in 110 matches between age 14-18 years.
+(6) Players competed in 41 ITF Pro Circuit / ATP Tour events
+and participated in 84 matches between age 15 – 18 years.
+(7) Career W:L Ratio of 1.6:1 on ATP Tour, 1.9:1 on the ITF Pro
+Circuit and 3.3:1 on the ITF Junior Circuit.
+(8) The ranking benchmarks from Table 5 could be used as an
+indicator prior to a Top 100 ATP Tour ranking.
+SUMMARY
+The best Juniors players over a 10 year period achieved an ATP
+rank before their 18th birthday and entered the Top 100 ATP
+Tour, four to five years later before the age of 22 yrs. They
+competed in over 40 ITF Pro Circuit events between 15-18 yrs
+while continuing to compete on the ITF Junior Circuit playing
+36 events in the same period. They achieved a win:loss ration
+of over 3:1 in juniors and almost 2:1 in the Pro Circuit. They
+halved their ATP ranking each year for 4 years before entering
+the Top 100.
+DEVELOPMENT IMPLICATIONS
+It is recommended Federations and Coaches create
+‘Development Schedules’ for players which are underpinned by
+the findings of this study. The cornerstone of a players
+schedule should be periods of technical, tactical, physical and
+mental
+‘development’.
+Competition
+plans
+should
+be
+appropriate to the players’ stage of development. Performance
+benchmarks of win:loss ratios and ranking timelines should be
+used as a guide to a player’s overall development.
+GLOSSARY
+• Age at Highest ATP Rank – The chronological of player at time
+of highest ATP rank.
+• Age at First Year End Rank – The chronological age of player
+at time of ranking.
+• Age at Top 100 Rank – The chronological age of player when
+first Top 100 rank achieved.
+• Years in Top 100 – The number of years a player was ranked
+inside the Top 100 on ATP Tour.
+• Transition Time – The number of years taken to achieve Top
+100 ATP Tour rank from first year-end rank.
+• Win:Loss (W:L) Ratio (MD) – Calculation of Career (ITF Pro
+Circuit & ATP Tour) win / loss ratio in main draw matches.
+Breakdown of ATP Tour, ITF Pro Circuit and ITF Junior Circuit.
+
+• ITF Junior Circuit – The world governing body
+tournament circuit for age 18/U tennis players.
+• ITF Pro Circuit (PC) - The world governing body
+tournament circuit for over 18 yrs. tennis players.
+• ATP Tour – The Men’s Tennis Association
+professional tournament circuit.

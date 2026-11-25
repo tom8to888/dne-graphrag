@@ -1,0 +1,13 @@
+pair,criterion,q_first_better,q_second_better,q_tied_or_split,p_sign,p_holm,significant,p_wilcoxon,p_holm_wilcoxon,significant_wilcoxon
+global vs basic,comprehensiveness,7,30,8,0.0002,0.0017,True,0.0002,0.0014,True
+global vs basic,directness,8,33,4,0.0001,0.0012,True,0.0001,0.001,True
+global vs basic,diversity,14,23,8,0.1877,0.5632,False,0.139,0.4169,False
+global vs basic,empowerment,2,37,6,0.0,0.0,True,0.0,0.0,True
+local vs basic,comprehensiveness,6,29,10,0.0001,0.0012,True,0.0001,0.001,True
+local vs basic,directness,8,30,7,0.0005,0.0033,True,0.0004,0.0025,True
+local vs basic,diversity,9,22,14,0.0294,0.1767,False,0.0158,0.0948,False
+local vs basic,empowerment,6,28,11,0.0002,0.0017,True,0.0002,0.0014,True
+global vs local,comprehensiveness,19,17,9,0.8679,1.0,False,0.7389,0.9972,False
+global vs local,directness,13,24,8,0.0989,0.4944,False,0.0705,0.3527,False
+global vs local,diversity,19,16,10,0.7359,1.0,False,0.4986,0.9972,False
+global vs local,empowerment,13,23,9,0.1325,0.53,False,0.0956,0.3823,False

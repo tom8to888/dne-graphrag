@@ -1,0 +1,164 @@
+Title: The influence of player height on service performance in professional female tennis
+Authors: Alejandro Sánchez-Pay, José Antonio Ortega-Soto, Bernardino J. Sánchez-Alcaráz
+Year: 2019
+Issue: Vol. 27 No. 79 (2019)
+Article id: 74
+
+www.itfcoachingreview.com
+December 2019. 27th Year. Issue 79. 7-10
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i79.74
+
+The influence of player height on service
+performance in professional female tennis
+Alejandro Sánchez-Pay a, José Antonio Ortega-Soto a, Bernardino J. Sánchez-Alcaráz a
+a University of Murcia, Murcia, Spain.
+
+ABSTRACT
+
+The aim of this study was to analyze the influence of female player height on service
+related parameters. Statistics on service performance and height of female players were
+gathered from the second round onwards in all Grand Slam tournaments. Findings
+showed that the taller the player, the higher the serve average speed, serve maximum
+speed in, number of aces and number of points won with the first service (%), however, the
+number of double faults will increase as well. The Wimbledon surface (grass, fast court)
+favours taller players, who win a higher percentage of points with their first services here
+when compared to other surfaces. The findings of this study help to recognize the
+influence of height in female tennis in service related parameters, as well as the
+differences between the surfaces.
+
+Key words:  Biomechanics,
+height, tennis, female.
+Received: 28 August 2019
+Accepted: 30 September 2019
+Corresponding author:
+Alejandro Sánchez-Pay, Sport
+Science School, University of
+Murcia, C/Argentina s/n
+Campus de San Javier, Santiago
+de la Ribera-San Javier Murcia
+30720, Spain. Email:
+horne3@illinois.edu
+
+INTRODUCTION
+Currently, tactical analysis has been promoted by the
+continuous advance in technology, which allows for recording
+of great quantities of data and the creating of sport statistics
+in a simple and clear manner (Rein & Memmert, 2016). Grand
+Slam tournament websites provide detailed information of
+matches being played and completed (Cross & Pollard, 2009).
+The statistics gathered help to make a more comprehensive
+and better quality data analysis at the end of each match
+(Katić, Milat, Zagorac, & Đurović, 2011), which can be used to
+determine different important influences on the game
+Of all the information from official websites, the serve is the
+aspect on which the most data data (speed, direction, efficacy,
+effectiveness, etc.). This may be due to the fact that the serve
+is often considered to be a key factor in determining the result
+of a tennis match (Giampaolo & Levey, 2013). It seems that
+high speed hitting, combined with a high percentage of first
+services, increases the probabilities of winning a match
+(Brody, 2003).
+A lot of information related to the professional service exists,
+but information on the female service related information is
+scarcer. The aim of this study is to analyze the influence of
+female player’s height on their serve performance.
+METHOD
+Sample
+The sample for this study consisted of a total of 580 sets from
+252 matches played in all four Grand Slam matches (149 sets
+at Australian Open (AO), 134 at Roland Garros (RG), 146 at
+Wimbledon (W) and 151 at US Open (US), all of them in the
+ladies category. All matches from the second round onwards
+in all tournaments were recorded and analyzed. Unfinished
+matches, due to disqualification or withdrawal of a player,
+were not included.
+
+Procedure
+Ladies competition statistics of the four Grand Slam
+tournaments (AO, RG, W, & US) were gathered. An Excel
+sheet was created to gather the information published at the
+official website of each tournament
+(https://www.ausopen.com; https://www.rolandgarros.com;
+http://www.wimbledon.com/index.html and
+https://www.usopen.org/index.html). The variables selected
+for the performance were: height of the female player, aces,
+double faults, % of first serve in, %  of points won with the first
+serve, % of points won with the second serve, average serve
+speed  (km/h) and maximum speed of the service  (km/h).
+
+Statistical analysis
+A descriptive analysis of the data included the mean (M) and
+standard deviation (SD). A frequency analysis was conducted
+which resulted in 9 height groups. The Kolmogorov Smirnov
+test was used to contrast the normality of the data for each
+variable. A lineal regression analysis r2 was conducted to
+examine the possible influence of height on the selected
+variables. Analysis was performed with SPSS software for
+Windows (Version 20.0. Armonk, NY:IBM Corp.).
+
+RESULTS
+
+Figure 1. Relationships between the average serve speed and player height, and max. serve speed and player height.
+Figure 2. Relationship between the number of aces and player height, and double faults and player height.
+
+COMMENTS
+Previous studies have shown that when the height of the
+player increases,  so does the speed of the serve (Bonato et al.,
+2015; Fett, Ulbricht, & Ferrauti, 2018). This same correlation
+is seen in this study, which uses competition statistics. From a
+biomechanical point of view, longer body segments allow for
+more powerful lever movements.  This, together with the
+correct sequencing of body segments in the kinetic chain of
+the serve, it is possible for taller players to hit the ball harder.
+Likewise, taller players are able to hit the ball at a higher point
+of impact, thus, they have more ability to open the service
+angles. This can be one of the reasons that the taller the
+player, the greater the number of aces (Figure 2). A faster
+service provides a greater number of aces but, in turn, a lower
+percentage of points won with the first serve (Figure 3).It
+could be the case that the taller the player, the greater the
+intention to win points straight from the service or an error in
+the return of the opponent. Thus as the height of the player
+
+increases,  the number of points played with first serve
+decreases and the number of double faults increases (Figure
+2).
+The percentage of points won with the first serve has been
+one of the most analyzed  parameters indicating performance
+and which have greater impact on the performance of the
+match (Katić et al., 2011). As we said above, the taller the
+player, in general, the greater the number of points won with
+the first serve  (r2 = 0,765). One particular comment is that the
+surface does not seem to impact in the same way the
+relationship between player height and percentage of points
+won with the first serve on each surface (Figure 4). Thus, while
+at RG tournaments (clay surface, slow court) or AO (hard
+surface, medium speed) the percentage of points won with the
+first serve increases slightly as the height of the player
+increases (r2 = 0,105 and r2 = 0,055 respectively), at the US
+tournaments (hard surface, medium-fast speed) or W (grass
+Figure 3. Relationships between the percentage of first serve in and player height, and points won with the first and second
+service player height.
+Figure 4. Relationships between player height and the percentage of points won with the first serve at each of the Grand Slam
+tournaments (W: Wimbledon. US: US Open. AO: Australian Open. RG: Roland Garros).
+
+surface, fast court) this percentage increases significantly.
+This relationship (% of first serves won with height of the
+player) is stronger at Wimbledon. Wimbledon grass has a
+lower friction coefficient than the other surfaces
+(O’Donoghue & Ingram, 2001), thus, the loss of speed of the
+ball after bounce is the lowest of all of the four tournaments.
+Despite the introduction of the slower balls by the ITF on
+faster surfaces to balance the playing speed, and make rallies
+last similarly, there are still great differences in the different
+surfaces.
+
+CONCLUSIONS
+The findings of this study demonstrate the significant
+influence of the height of the female player in service
+performance. Taller players reach greater hitting speeds,
+increasing the percentage of points won with the first services
+and the number of aces. The fastest surface (grass) favours
+taller players, increasing the percentage of points won with
+the first serve when compared to the other surfaces.

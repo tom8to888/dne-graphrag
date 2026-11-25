@@ -1,0 +1,192 @@
+Title: Wheelchair tennis player movement speed: Differences in movement, with and without a racket
+Authors: Alejandro Sánchez-Pay, David Sanz-Rivas
+Year: 2018
+Issue: Vol. 26 No. 76 (2018)
+Article id: 163
+
+www.itfcoachingreview.com
+Dec. 2018. 26th Year. Issue 76. 33-36
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i76.163
+
+Wheelchair tennis player movement speed:
+Differences in movement, with and
+without a racket
+Alejandro Sánchez-Pay and David Sanz-Rivas
+ABSTRACT
+
+This study attempted to measure the capacity of wheelchair tennis players to
+accelerate and change directions, as well as investigate the differences with
+regard to the level of the athlete, either using the racket or not using the racket,
+when moving. 9 international players participated in this study. We measured
+the time they took to cover 5, 10 and 20 metres and the time to make an agility
+test (T court test), with and without a racket. The results showed that the use
+of the racket negatively impacts the movement ability of the players. Higher
+level players seem to make specific displacement movements more efficiently
+with or without the racket, as compared to lower lever players. Results of our
+findings, apart from being reference values for trainers, inform about the use
+of the racket for specific mobility in the physical training of WT players.
+
+Key words: speed, agility,
+racket, wheelchair
+Received: 05 April 2018
+Acepted: 01 May 2018
+Corresponding author:
+Alejandro Sánchez-Pay
+Email: a.s.pay@hotmail.com
+
+INTRODUCTION
+The duration of a wheelchair tennis match ranges between 60
+and 80 minutes (Ponzano & Gollin, 2017; Roy, Menear, Schmid,
+Hunter, & Malone, 2006; Sánchez-Pay, Sanz-Rivas, & TorresLuque, 2015). During this time, players cover between 2,000
+and 4,000 m. on the chair, with an average speed of 1m/s and
+a max. of 2,9 m/s (Ponzano & Gollin, 2017; Sindall et al., 2013).
+The great number of accelerations and decelerations of WT
+players is a consequence of the specific movements of the
+players in their chairs: starting, sprinting, stopping and turning
+(pivots) (Sanz, 2003). This sequence, which must be done while
+holding the racket, makes mobility an important success factor
+in WT (Bullock & Pluim, 2003). Correct displacement lets the
+player prepare properly to hit a stroke (Filipcic& Filipcic, 2009).
+Propelling the chair while holding the racket has negative effect
+on the production of power and displacement speed (de Groot,
+Bos, Koopman, Hoekstra, & Vegter, 2017), mainly during the
+first three pushes of the chair (Goosey-Tolfrey & Moss, 2005).
+These studies show the difference when displacement takes
+place exclusively on a straight line, apart from not knowing if
+there are differences depending on the level of the group.
+Therefore, this study will target the analysis of the influence of
+using the racket in the different speed and agility tests and
+setting the differences depending on the level of the athletes.
+
+METHOD
+Participants
+The participants in the investigation were the best 9 WT players
+in the national ranking. Out of these 9 players, the best 4 in the
+international ranking were in the National Selection (Group 1)
+and the remaining best 5 in the second group (Group 2). Table
+1 shows the characteristics of the sample.
+
+Measurements and instruments
+Three measurements per participant were recorded by means
+of the field tests used in different studies to evaluate the speed
+and agility of wheelchair athletes. After a standard 5 minute
+displacement warm-up, with changes of direction, and 3
+minute controlled sprints, players did the following tests:
+
+•
+Displacement speed test: Displacement speed was
+measured through Chronojump Photecell® (Chronojump,
+Barcelona, Spain) and Cronojump software version 1.7.1.8
+for MAC. Four gates were used, they were placed at 0, 5,
+10, and 20 metres. The subjects started from a line at 0.5
+m. behind the first gate (Figure 1a). Each participant took
+the test 3 times without a racket, and three times with the
+racket and a resting time between each 2 minute repetition.
+Average values of 5, 10 and 20 m. of the three repetitions
+were recorded. The time was recorded in seconds and
+milliseconds with an error of ± 0.001 seconds.
+
+•
+Agility test (T court test): The participant is positioned in
+the centre of the court, behind the baseline, and must go
+to the intersections of the singles and service lines, always
+crossing the central area (T) and returning to the starting
+point (Figure 1b). Each participant took the test 3 times
+without a racket, and three times with the racket with a
+resting time between each 2 minute repetition. Average
+values of the three repetitions were recorded. The times
+were
+measured
+with
+Chronojump
+Photecell®
+(Chronojump, Barcelona, Spain) and a Cronojump software
+version 1.7.1.8 for MAC with a gate placed at the baseline
+to record the beginning and the end of the test.
+
+Data analysis
+The descriptive analysis of the data included the mean and
+standard deviation (M ± SD) of the variables in question. The
+Shapiro-Wilk test was used due to the size of the sample to
+contrast the normality of the data registered for each variable.
+A Student's t-test was used to compare the mean between the
+level groups (Group 1-National Team, and group 2) and for the
+tests with and without a racket, setting the significance level at
+p<0.05. Finally, the correlations between the 20 m. variables,
+with and without a racket, were studied in relation to the
+rankings through the Pearson r coefficient. Analysis was
+performed with SPSS software for Windows (Version 20.0.
+Armonk, NY:IBM Corp.).
+
+RESULTS
+
+COMMENTS AND CONCLUSIONS
+The target of this study was to analyze the influence of the
+racket when accelerating and changing direction in WT players,
+and to discover possible differences in relation to player levels.
+
+The findings of this study show how the use of the racket in WT
+player displacement impacts negatively on the time of this
+displacement (Table 2). High and low level players take
+statistically longer to cover 5 and 10 metre distances when
+using the racket, but this is not so in 20 m. Data seem to
+indicate that the acceleration capacity from a static position is
+affected by the use of the racket in the first metres; however,
+maintaining high speed levels does not seem to be significantly
+affected when using the racket. This may be due to the fact that
+once the initial inertia of the chair in a static position is
+overcome, the chair itself facilitates the displacement when in
+movement. Higher level players waste 5% on their time in the
+first 5 m. and 13% up to 10 m. (Figure 2). Lower level players
+waste 11% in the first 5 m. and 8% up to 10 m. This loss of
+speed in the use of the racket in the impulse on the wheels
+translates in reaching the ball later and not being able to hit it
+correctly (Filipcic & Filipcic, 2009).
+
+WT players do not move exclusively in a straight line, they start,
+sprint, stop and turn (pivot) (Sanz, 2003), and these are more
+specific movements in this sport specialization. In this sense,
+higher level players show no differences in the agility T court
+test with or without the racket (table 2), with a time waste of
+0.5% (figure 2), this occurring among lower level players. This
+seems to indicate that specific mobility in WT (when using the
+racket) is more efficient among higher level players. Graphs 4
+and 5 show the correlation between the time of displacement
+in 20 m. (with and without a racket) with the ranking of the
+player. The use of the racket shows a greater correlation with
+the ranking of the player (R2 = 0,680) when compared with the
+displacement without the racket (R2 = 0,497). This greater
+correlation may indicate that apart from the fact that better
+ranked players move more quickly than lower ranked players,
+they are more efficient when moving with the racket. All this
+may be due to the fact that, among other things, higher level
+players have a better technique to impulse the chair both with
+and without the racket. On the other hand, we could consider
+that they provide more strength in the first impulses due to a
+possible difference in their physical fitness, an aspect which has
+not been studied.
+
+As a conclusion, higher level players move more quickly than
+lower level players. Furthermore, the use of the racket impacts
+negatively in the time of displacement, although not in the
+same way in its different sections, nor depending on the players
+level.
+
+Higher level players, who are supposed to have a better and
+more efficient displacement technique, because of their
+physical fitness, and the way they use strength, are better than
+lower level players. Therefore, the differences are greater in
+short (5 m.) and long displacements (20 m.) as well as in
+displacements with change of direction (T court test). This is a
+very important issue and as WT displacements during a match
+are less than 10 m., the large number of small movements of
+around 5 m. makes it a very specific task, particularly when
+starting the first 2 or 3 impulses, which means that they must
+be practiced in a specific way and with the racket, so as to
+improve these actions. This fact can be seen in the first 5 m.
+and in the agility test where higher level players waste less time
+(%) than lower level players (Figure 2). The results shown here,
+as well as from being useful as reference values for WT coaches,
+encourage the practice of specific mobility physical exercises in
+WT, as much as possible, and always, with the racket

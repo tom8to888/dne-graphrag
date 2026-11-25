@@ -1,0 +1,319 @@
+Title: Feedback and learning in tennis: Conceptualisation, classification, and practical implications
+Authors: Antonio Fonseca Morales, Rafael Martínez-Gallego
+Year: 2022
+Issue: Vol. 30 No. 88 (2022)
+Article id: 368
+
+www.itfcoachingreview.com
+December 2022. 30th Year. Issue 88. 49-52
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i88.368
+the external target, while in the second case, the information
+provided refers to the execution of the movement pattern
+(Oña, 1999).
+In addition, another concept that we cannot overlook is that
+of feedforward, understood by Cano et al. (2017) as "the
+sensory representation of the action or movement that the
+learner intends to perform and that is sent in advance to
+prepare a part of the system to receive the feedback".
+In summary, we can define feedback as "the set of internal
+and external information aimed at improvement in order to
+readjust and stabilise motor responses".
+Although, as we have just seen, feedback can be classified
+into two types, depending on who provides the information:
+INTRODUCTION
+When a new player takes up tennis and wants to learn the
+basics, or when an experienced player wants to improve their
+performance, it takes time for an improvement to occur. One
+possible way to facilitate improvement may be to try different
+strategies gradually through trial-and-error learning. Another
+way may be to get feedback from external sources, such as a
+coach or video footage (Lauber and Keller, 2014).
+According to Ruiz Pérez (2001), the concept of feedback was
+first formulated by Nyquist in 1932 and is defined according
+to Sage (1977), in Oña (1999) as "the information that an
+individual receives as a result of a response". From the point
+of view of motor learning, Pieron (1999) defined feedback as
+the "information provided to the learner in order to help him/
+her to repeat the appropriate motor behaviours, eliminate the
+incorrect ones and achieve the desired results".
+According to these definitions, feedback is associated with the
+information provided by the teacher, peers, or audio-visual
+systems. However, we must think of the learner and his or her
+ability to learn by himself or herself. Therefore, feedback can
+be classified into two subcategories: firstly, internal, intrinsic,
+inherent, and sensory feedback, which would be, according
+to Batalla (2000) "the information that an individual
+obtains about his or her own execution of an action". This is
+fundamental for movement control and involves a complex
+cognitive process. Secondly, we find the supplementary or
+augmented feedback that refers to additional information
+(quantitative or qualitative) from an external source.
+Depending on the situation, supplementary feedback can be
+provided in two different ways: as knowledge of results or as
+knowledge of performance. In the first case, the information
+provided refers to the achievement or non-achievement of
+ABSTRACT
+This article defines the concept of feedback, proposes a classification of the different
+types of feedback, and explores the application of extrinsic feedback by tennis coaches.
+Furthermore, the influence of feedback on the learning and performance of tennis
+players is analysed. Finally, a series of practical implications that coaches can consider
+evaluating the feedback they provide to their players and to make the teachinglearning-evaluation process more effective in their training sessions are presented.
+Feedback and learning in tennis:
+Conceptualisation, classification, and practical
+implications
+Antonio Fonseca Morales1 & Rafael Martínez-Gallego2
+1Department of Physical Education, Junta de Castilla la Mancha, Spain. 2Faculty of Physical Activity and Sport
+Sciences, University of Valencia, Spain.
+Key words: knowledge of results,
+knowledge of performance,
+communication, teaching.
+Received: 10 October 2022
+Accepted: 20 November 2022
+Corresponding author: Rafael
+Martinez. Email: rafael.martinezgallego@uv.es
+COACHING & SPORT
+SCIENCE REVIEW
+intrinsic and extrinsic or augmented, in this article we will
+focus on the second type, since, as coaches, it will be the one
+that is particularly relevant in our tennis lessons. Therefore,
+the objectives of this article will be 1) to classify the different
+types of feedback and their characteristics, 2) to analyse
+the influence of feedback on the learning and performance
+of tennis players and 3) to expose practical implications for
+tennis lessons, based on the information exposed.
+Table 1
+Types and characteristics of feedback.
+Ranking
+Type
+Definition
+Example
+Depending on the
+moment
+Concurrent or
+simultaneous
+Information is provided during the action
+"Take back the racket now".
+Terminal or immediate
+Information is provided at the end of the
+action
+"On this forehand, you should have
+taken the racket back earlier".
+Postponed or delayed
+When a time interval is allowed to elapse
+between the action and the provision of
+information
+"On the forehands you hit yesterday,
+you should have taken back your racket
+earlier."
+Depending on the
+manner of reporting
+Non-verbal
+The way of transmission is not oral
+The coach demonstrates a slice
+backhand.
+Verbal
+The way of transmission is oral
+The coach explains the execution of a
+slice backhand
+According to the
+degree of specificity of
+what is being reported
+Analytical
+Refers to specific aspects of the action
+"Note the position of the wrist when
+hitting".
+Global
+A generic estimate of the action is made
+"That stroke is very fluid."
+Depending on the
+target audience
+Individual
+Single player
+"Pepe, move faster!".
+Group
+To a group of players
+"Guys, move faster!".
+According to
+frequency
+Separated
+Refers only to the last action
+"I really liked this last shot".
+Accumulated
+It refers to an accumulation of actions
+"I really liked the last series of shots".
+Depending on the
+intention
+Descriptive
+Provides exteroceptive information on
+how the action has been performed
+"You've hit the ball between the
+shoulders and the hips".
+Evaluative
+Assesses the student's performance
+"You've hit it very well."
+Comparative
+It draws an analogy between one action
+and another.
+"This shot was better than the last one".
+Explanatory
+It constitutes a cause-effect correlation.
+"When you hit the ball at that height
+you have more control".
+Prescriptive
+Affirms how to perform the action
+correctly
+"Try to hit between the shoulders and
+the hips".
+Affective
+Motivates the student to continue
+practising
+"You're improving a lot, thanks to your
+attitude".
+Interrogative
+The player is asked about the action
+"How high do you think you hit the
+ball?"
+TYPES AND CHARACTERISTICS OF FEEDBACK
+To establish as broad and precise a classification as possible,
+a synthesis of various proposals has been made (Pérez, 2001;
+Oña, 1999; Gutiérrez, 2008; Cano et al. 2017; Haibach et al.
+2011). Thus, Table 1 presents a classification of the different
+types of feedback.
+INFLUENCE
+OF
+FEEDBACK
+ON
+LEARNING
+AND
+PERFORMANCE OF TENNIS PLAYERS.
+Feedback serves as a hinge between teaching and learning,
+being an important variable for learning to take place. Some
+classical authors claim that feedback is essential and that it
+is the main characteristic of efficient teaching (Mosston &
+Assworth, 2008). Furthermore, some studies have concluded
+that simple repetition does not ensure motor learning and
+that the suppression of feedback can lead to a degradation
+of performance (Simonet, 1986). For Haibach et al. (2017)
+feedback is the most important route to motor learning,
+except of course, practice itself.
+Regarding the objectives pursued when using feedback, Ruiz
+Pérez (2001) states that the three main objectives are:
+•	 Inform the learner about what he/she is doing and how
+he/she is doing it.
+•	 To motivate the learner by providing sufficient
+encouragement to keep practising until the precise
+objective is achieved.
+•	 Reinforce or strengthen the response that the subject
+makes, which means getting closer to the desired value.
+In addition to these 3 main effects, according to this author,
+others can be added such as correcting errors, favouring
+self-observation, saving time and effort, orienting attention
+towards what is relevant and developing strategies.
+Other authors qualify these objectives by stating that the main
+objective is to improve response through error correction and
+that the rest of the objectives, such as motivation, strategy
+development, etc., are collateral objectives (Oña, 1999).
+In the specific case of learning in tennis players, there are
+several studies that have analysed the relationship between
+the feedback provided to players and their learning or
+performance. Most studies have focused on the acquisition
+of skills, evaluating how different types of feedback affect the
+improvement of strokes.
+Regarding the serve, some research has found that providing
+immediate increased feedback on speed (e.g., by indicating
+the values obtained through a radar) can support the learning
+process to serve faster in elite players (Moran et al., 2012;
+Keller et al., 2021). Furthermore, it was also indicated that
+increased service speed was not associated with lower
+accuracy (Keller et al., 2021).
+The effect of increased feedback has also been observed
+in the forehand stroke with beginning players. In this case,
+players who received analytical feedback from the coach
+showed improvements in accuracy and execution after the
+training process. However, another group of players who only
+performed self-talk, without coach intervention, improved in
+the same way (Cutton and Landin, 2007).
+Augmented feedback has also been shown to be positive in
+volley learning. Hebert and Landin (1994) found that players
+who received augmented feedback from the coach improved
+both accuracy and execution of volleys.
+PRACTICAL IMPLICATIONS FOR TENNIS LESSONS.
+Following the classification proposed above and based on the
+information presented in this article and other studies, we are
+going to present the main aspects that tennis coaches should
+consider regarding the feedback given to players in their
+tennis lessons.
+Depending on the moment
+It is recommended that feedback is provided between 10
+and 25 seconds after the execution because, if it is given
+concurrently, it would interfere with the rest of the stimuli
+that the players must attend to, and if it is given immediately,
+it would interfere with the intrinsic feedback. Therefore, it is
+preferable to leave sometime between the execution of the
+action and the provision of feedback by the coach so that the
+players can evaluate the action themselves (Ruiz Pérez, 1994;
+Reid et al., 2006; Haibach et al., 2017; Cano et al., 2017).
+Depending on the way of delivery
+Regarding the use of verbal and non-verbal feedback, both
+types of feedback are complementary, and coaches should be
+aware of the different situations and personalities of players
+to confirm which type of feedback is more effective. In general,
+it is recommended that both types of feedback are combined,
+and that verbal feedback is not abused. In this regard, Reid et
+al. (2006), indicate that too much feedback leads to increased
+dependence on the coach and limits the player's ability to
+process and evaluate information independently.
+According to the degree of specificity of what is being
+reported
+Generally, it has been observed that feedback is most useful
+when it is simpler, refers to a single characteristic of the
+skill and focuses on the most relevant aspects of the action.
+However, it is important to consider the type of action and
+the level of the players. In the early stages of beginning
+players, more global feedback and the use of analogies can
+be provided, however, as the level of the player increases and
+the actions become more complex, it is recommended that
+feedback is more precise or analytical.
+Depending on the target audience
+If we refer to feedback related to learning skills, it is
+recommended that feedback is individual and refers to the
+specific characteristics of the action and of each player. Group
+feedback can be useful in the initial stages of learning, with
+groups of players with the same level of competence. In these
+cases, for example, the main characteristics of a stroke or
+action can be explained together.
+According to frequency
+It seems most appropriate to provide cumulative feedback
+every 3 or 4 trials. In this way, the player can develop strategies
+for orienting attention and interpreting his or her results.
+However, it is important to consider the learning stage of the
+players and the complexity of the tasks. In this regard Wulf
+et al. (1998) indicate that with beginning players or during
+the learning of complex actions, coaches may have to provide
+feedback more frequently. However, as players increase their
+level of competence, feedback should be less frequent and
+intrinsic feedback should be prioritised (Reid et al., 2006).
+Depending on the intention
+Although in our work as tennis coaches, all types of feedback
+can be useful depending on the situation, the ones that will
+be particularly relevant for our students' learning will be
+explanatory and prescriptive feedback. Again, it will be
+important to consider the level of competence of the players.
+As players become more proficient and more autonomous,
+interrogative feedback can be a good resource to enable
+players to self-evaluate and propose their own motor
+solutions. In addition, this type of feedback can also be very
+useful in the early stages to encourage discovery learning.
+CONCLUSIONS
+The feedback provided by the coach is a transcendental
+variable in the teaching-learning process that takes place
+in tennis lessons. Therefore, it is important for coaches to
+reflect on the feedback they provide to players. In this article
+we have proposed a classification and some implications that
+coaches can consider improving their communication with
+players and make the teaching-learning-evaluation process
+more effective.
+CONFLICT OF INTEREST AND FINANCING
+The authors declare that they have no conflict of interest and
+have not received any funding for this work.

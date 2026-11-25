@@ -1,0 +1,270 @@
+Title: Execution redundancy: the effect of varying technique for a similar outcome on player’s groundstroke performance
+Authors: Michael Davis Higuera
+Year: 2019
+Issue: Vol. 27 No. 79 (2019)
+Article id: 76
+
+www.itfcoachingreview.com
+December 2019. 27th Year. Issue 79. 15-19
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i79.76
+
+Execution redundancy: the effect of varying
+technique for a similar outcome on player’s
+groundstroke performance
+Michael Davis Higuera a
+a Tennis Development, Integrity and Development Department, International Tennis Federation, London,
+UK.
+
+ABSTRACT
+
+Execution redundancy, defined as varying technique for a similar outcome, is a newer
+defined type of variability which opens new avenues of thinking about tennis training. 19
+club-level tennis players were put through different training interventions: low variability
+where players had to rally to hit a target and maintain technique; and, high variability
+where players did the same but varied technique slightly. The high variability group
+improved after a retention period of 1 week in a test of accuracy (measuring average
+distance of 4 balls hit to a target) and success (measuring number of balls over the net and
+within a target radius of 500cm). The results suggest that that varying technique for a
+similar outcome improves performance more than low variability, possibly due
+mechanisms surrounding increased exploration creating better adapted motor patterns.
+The results show positive support for variability of this kind of training, but care needs to
+be taken to ensure that sound biomechanical and technical principles are observed.
+
+Key words:  Variability,
+execution redundancy, varying
+technique, methodology.
+Received: 16 August 2019
+Accepted: 01 October 2019
+Corresponding author: Michael
+Davis Higuera, ITF Bank Lane,
+Roehampton, London,
+SW5XYZ, United Kingdom.
+Email:
+mdavis.higuera@yahoo.com
+
+INTRODUCTION
+Variability should be an essential part of every coaches
+toolkit, present within every teaching methodology in
+different ways, such as: discovery learning, by allowing the
+player to explore different solutions to solve a problem
+(Crespo and Miley, 1998); in variable practice - varying the
+different situations of practice (the incoming ball) (Pankhurst,
+2013); in varied practice – varying the outcome of the shot
+(Pankhurst, 2013) ; or even, in distributed or random practice
+(Shea and Morgan, 1979; Reid et al., 2006) - varying the order
+of practices and intertwining learning of one skill with others.
+Even with a beginner trying to adhere to a very strict technical
+model, variability is present as the learner is exploring motor
+solutions to try to replicate the skill and outcome. In the same
+way, a high-performance player trying to hone a skill performs
+many slightly varying repetitions in order to improve the
+outcome. However, this does not mean that high amounts of
+variability should always be prescribed. A good coach is one
+who is able to decide which different learning styles and
+coaching methodologies are suitable for each player in each
+situation (Crespo and Miley, 1998). Thus it is the coach’s duty
+to understand that variability is present in the learning
+
+process in one way or the other as well as decide how to best
+prescribe this variability.
+The mechanisms of why variability may lead to better learning
+have been put down to explanations of: contextual
+interference - constant forgetting and recall of different skills
+or variations of skills in a random order facilitating improved
+consolidation (Shea and Morgan, 1979) through deeper
+perceptual trace (Adams, 1971); schema theory - variation
+and repetition adding to a general motor programme through
+schema (or rules) (Schmidt, 1975); noise and stochastic
+resonance (Schollhorn et al., 2006) – the clashing of brain
+signals caused by internal movement and external situations
+causing the player’s movement dynamics to move out of dips
+of complacency in order to find better solutions; and, dynamic
+systems (Davids et al., 2008) - where exploration of the
+movement-skill-outcome landscape (made up of individual,
+task and environmental constraints) leads to increased ability
+to perform successful skills more adapted to the individual’s
+capacities and predispositions.
+
+According to the aforementioned theories, the final two
+especially (Davids et al., 2008; Schoolhorn et al., 2006), the
+mechanism behind learning may be non-linear, which is to say
+that because of the confluence of many different factors and
+degrees of freedom, training one aspect may lead to a change
+in an unrelated aspect. However, the theory of specificity of
+practice suggests that the best training for a test occurs when
+the training is the same as the test (Shea and Kohl, 1990). In
+terms of variability, this would imply that to best improve the
+ability to vary in a certain way, i.e. different shot placement,
+switching between tasks, or hitting from different situations,
+then practice should occur in the same way.
+One less-studied category of variability is that of that is
+varying technique whilst maintaining a similar outcome, which
+could be termed execution redundancy (Ranganathan and
+Newell, 2010; 2013). This type of variability contrasts with
+task-goal (structured or unstructured) variability
+(Ranganathan and Newell, 2010) - varied, variable or even
+random practice.
+If the specificity of practice theory is believed to be absolute
+in the mechanism behind this type of variability, changing
+technique in small ways for a similar outcome would only
+improve performance where this type of variability was
+required, i.e. where changing technique was important. It
+might seem counterintuitive to train this type of variability as
+it stands to reason that if a specific outcome is desired, then
+the skill should be executed in the same way; however, in
+tennis, top players respond to hopeless situations with
+winning and unexpected shots. Thus, this type of practice
+would benefit performance where a player is under time or
+space pressure/constraints and must adapt their technique in
+order to succeed.
+If the specificity of practice theory is not believed to be
+absolute, then execution redundancy, or changing technique
+slightly for a similar outcome, might still facilitate improved
+learning and training owing from other aforementioned
+mechanisms of variability (Schmidt, 1975; Shea and Morgan,
+1979, Schollhorn et al., 2006; Davids et al., 2008).
+Thus, the aims of this study were to investigate whether this
+type of variability has an effect on training groundstrokes and
+if so, explore by what mechanisms this effect takes place.
+METHODS
+The study was conducted as a part of a dissertation in support
+for a degree award (Davis Higuera, 2018). This experiment
+aimed to study the effect that asking a group of
+intermediate/advanced players to vary technique in training
+for the same outcome had on their stroke effectiveness. Two
+tests were designed and were carried out to test whether this
+type of variability fell prey to the specificity of practice theory.
+19 club-level advanced recreational players (mean age = 46
+years, S.D. = 13 years) gave informed consent for the study
+and were randomly assigned into two groups, a highvariability experimental group (n=9) and a low-variability
+control group (n=11). Each group underwent a different
+practice condition with a pre-test immediately before,
+immediately after and a week later, for two different types of
+tests. Shot accuracy and shot success were taken as the main
+variable dependent variables, and were measured in both
+tests from 4 shots each test: for shot success by counting how
+many shots of four shots fed to the player were hit into the
+court and an area with a 500cm radius from a target; and, for
+shot accuracy by measuring the average distance of the
+landing position from the four shots, fed to the player, from a
+centre mark on the other side of the court (with a maximum
+score of 500 cm for shots further than this distance and
+missed shots).
+The two tests were as follows: 1) a lower pressure test where
+a ball machine fed four shots down the middle of the court
+alternating to the forehand and the backhand slightly of the
+player standing on the centre mark (starting on the
+right/deuce side) – to test whether high-variability or
+execution redundancy would positively affect learning even
+though the situation does not explicitly require
+variability/adaptation; and, 2) a higher pressure test as above
+with four shots but feeding wider more angled shots – to test
+whether high-variability would cause improvements in a
+pressured condition where adaptation and variability may be
+more required, as suggested by the specificity of practice
+theory.
+For the intervention in each group, players were asked to rally
+in pairs (and a three) from the baseline in a straight line with
+forehand and backhand topspin strokes for 40 minutes, whilst
+trying to hit a target approximately halfway between the
+baseline and service line. The high-variability experimental
+group was given instructions to make small changes to their
+technique by exploring slightly different arm configurations
+through their strokes (changing technique constantly from
+shot to shot): different degrees of flexion of the elbow and
+wrist, different follow through positions, and different contact
+positions relative to the body. The group was monitored and
+directed by a coach to vary technique stroke to stroke,
+maintain a topspin rally ball, but still respect effective proven
+biomechanical and technical principles. The low-variability
+was not given instructions to vary technique but was still
+directed to hit a topspin rally ball and maintain solid
+biomechanical and technical principles.
+A two-way repeated measures ANOVA was used to analyse
+the data for both groups for each test, and the results were
+analysed using SPSS v.24. The study was approved by the
+ethics board at Manchester Metropolitan University.
+RESULTS
+Results are shown for each of the two dependent variables.
+Shot success
+Figure 1 shows the shot accuracy as measured by the average
+number of shots (of 4) that were hit over and in, and within
+500cm of the target, for both tests.
+
+Shot accuracy
+Figure 2 shows the shot accuracy as measured by the average
+distance of the 4 shots per player from a target, where missed
+shots and shots further than a radius of 500cm from the target
+counted as 500cm, for both tests.
+
+Figure 1. Shot success (average number of shots played in court of 4 shots) for both tests and groups, pre-, post- and 1-week-postintervention. *Bonferroni post-hoc analysis shows a significant increase in number of balls played into the court of 0.667, p=0.044,
+is shown for the high-variability group in test 1 between the pre-test and retention-test only.
+
+DISCUSSION
+The results show that training with high variability in
+execution redundancy has a positive effect on shot accuracy
+and success, but only in the lower pressure test which
+suggests that high-variability, and prescribing variability in
+technique, even for a similar outcome, improves performance.
+The results do not fully support the specificity of practice
+theory since the practice of varying technique for a similar
+outcome should best improve performance in a test where
+this is required; however, the benefits were not isolated to
+that test. This means that benefits may be due to a more
+general mechanism of variable simply stimulating and
+
+enhancing the learning process. According to the results, this
+improvement occurs at retention level only which suggests
+that time is needed for consolidation, i.e. for the benefits to
+manifest neurologically.
+Accuracy and shot success were the variables measured, and
+together they translate to shot effectiveness. Shot efficiency
+was not measured although it may be possible to imply that
+with increased effectiveness, there may be improved
+efficiency. What might also be possible to state is that due to
+the increased effectiveness, the individual has found motor
+solutions, or variation of solution, which are better suited to
+the player’s capacities resulting in an ability to hit the shots
+with more effectiveness.
+Figure 2. Shot accuracy (average distance form target of shots played into the court of 4 shots with a max. of 500cm for missed shots
+and shots further than 500cm) for both tests and groups, pre-, post- and 1-week-post-intervention. A significant decrease in distance
+(increase in accuracy) of 68.69cm, p=0.038, is shown for the differential group in test 1 between the pre-test and retention-test only.
+
+The possible mechanism of improvement is probably
+explained by a synthesis of the aforementioned theories
+related to: the shifting of movement dynamics out of
+complacency (Schollhorn et al., 2006); the player exploring
+movement patterns more suited to individual capacities
+(Davids et al., 2008); and, a better developed general motor
+pattern (Schmidt, 1975).
+
+CONCLUSION
+The results suggest that asking players to vary technique
+slightly for similar outcomes can speed up learning. However,
+It is important that this type of coaching still follows other
+well-established coaching principles, sound biomechanical
+and sound technical principles in order to maximise efficiency
+and effectiveness.
+This type of training might be best reserved for more
+advanced players. For intermediate players in the associative
+stage of learning, a coach might show the player the
+technique, give the player a range of movement which could
+be acceptable, and then ask them to explore within that range;
+although, with a total beginner, the player’s action is likely to
+already be variable and so extra variability should not be
+prescribed. As always, the skill in coaching lies in knowing
+what the player needs to progress.
+With more effective learning, skills potentially more attuned
+to the player’s capacities and players with more autonomy,
+the potential for more motivated, individual, well-rounded
+players increases. Many coaches, possibly the best ones, are
+already using this (probably without knowing it) by not being
+too prescriptive, encouraging some flexibility and giving
+players acceptable ranges to work within rather than fixed
+and inflexible standards/norms.
+Although promising, research surrounding specific
+interventions of variability in tennis is still in its infancy,
+especially in the context of varying technique, and so the field
+should be explored further with different populations and
+under different conditions.

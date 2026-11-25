@@ -1,0 +1,180 @@
+Title: Muscular imbalances and their impact on the health of the tennis player: Assessments of explosive strength in the lower limbs by means of jumps
+Authors: Javier Villaplana Velasco, Cristina Blasco Lafarga
+Year: 2016
+Issue: Vol. 24 No. 68 (2016)
+Article id: 173
+
+www.itfcoachingreview.com
+April 2016. 24th Year. Issue 68 15-17
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v24i68.173
+
+Muscular imbalances and their impact on the
+health of the tennis player: Assessments of
+explosive strength in the lower limbs by
+means of jumps
+Javier Villaplana Velasco and Cristina Blasco Lafarga (ESP)
+ITF Coaching and Sport Science Review 2016; 68 (24): 15 - 17
+ABSTRACT
+This paper discusses the existence of asymmetry in tennis players lower limbs, if these
+asymmetries impact on determining capabilities as Explosive Strength and Elastic
+Explosive Strength, and if so, how they are affected by fatigue. This paper holds the
+hypothesis that there exist differences in the capabilities of useful strength in the lower
+limb muscles, and that these muscular differences or asymmetries are the source of injury
+for developing tennis players.
+
+Key words: tennis, asymmetry,
+jumps, injury prevention,
+health
+Received: 08 January 2016
+Accepted: 21 January 2016
+Corresponding author:
+Javier Villaplana Velasco
+Email: javilla@gmail.com
+
+INTRODUCTION
+In order to continue being successful in competition, players
+must accelerate, decelerate, change direction, move quickly,
+and keep balance while repeatedly producing optimal strokes
+until the end (Girard, Millet, 2008). As a consequence of these
+characteristics, literature shows the presence of injuries. Even
+asymmetry, another essential characteristic of tennis, is
+admitted to be a source of injury. Pluim, Staal, Windler,
+Jayanthi (2006) express in their revision that tennis is
+characterized by varied injuries, most of them in the lower
+limbs. Confirming this, Hjelm, Werner, Renstrom (2012)
+literature states that lower limb injuries are the most frequent,
+reaching 51% of the total. As to asymmetry, we have found
+papers dealing with torso and upper limb asymmetry, but not
+lower limb related. Even so, we can infer the existence of lower
+limb asymmetry, Carpes, Mota, Faria (2010) explain the
+bilateral asymmetry even in cyclic activities such as continuous
+sprinting and pedalling, and its risk of injuries in healthy
+athletes. This makes us think that if in cyclic sports there is
+asymmetry in lower limbs, in acyclic and asymmetric sports
+such as tennis, this situation has to be valid too.
+Within this context, the objective of the following research is
+a) to prove the existence of of lower limb imbalance in
+developing tennis players, and, b) if so, to reflect on the
+consequences of muscular imbalance of the lower limbs and
+their possible impact on the health of the tennis player.
+
+METHODOLOGY
+Sample
+There were 5 participants in the study, all of them were males,
+with media values in age between 14,2 (0,84), height 170,2
+(6,06) and weight 59 (8,89). Their weekly training volume was
+26 hours, from Monday to Friday, divided into three sessions,
+two in the morning and one in the afternoon. The morning
+sessions included 2h30’ of on-court training, and 1h30’ of
+physical training. The afternoon session included on-court
+training for 1h30’. There was no afternoon session on
+Wednesday.
+
+Procedure
+The subjects were analyzed in December 2012. All of them
+warmed- up for 10 minutes, 5 minutes of continuous running
+and dynamic movement exercises (Meylan, Nosaka, Green,
+Cronin, 2010). No static stretching due to the negative impact
+demonstrated in previous studies in the different variables of
+the jumps (Meylan et al., 2010).
+The exercises were SJ (squat jump) to evaluate explosive
+strength and CMJ (counter-movement jump) to evaluate the
+elastic explosive strength.
+Each exercise consisted of 9 attempts (18 jumps total), which
+were distributed as follows: 3 attempts with the non-dominant
+leg (ND), 3 attempts with the dominant leg (D) and 3 with both
+legs simultaneously (2PR). The recovery time between each
+jump of the same type was 30s. The recovery time between 3
+jump blocks was 120s. (Meylan et al., 2010).
+The test was made just before beginning the morning tennis
+training and was repeated after finishing it. This second time
+there was no warming-up.
+Each participant received a questionnaire so as to know age,
+sex, type and degree of the injury they could have suffered
+during the previous year.
+
+Data treatment and analysis
+The tests were evaluated by means of photoelectric cells
+(Optojump next, Micrograte Srl, Bolzano, Italy) and the data
+gathered were entered into SPSS.20 for statistics, setting (pre
+test and post test) fatigue, kinetic chain (non-dominant leg
+jump, dominant leg jump and both leg jumps), and the type of
+jump (SJ and CMJ) as independent intra subject variables. On
+the other hand, the athlete ́s health was taken as an
+independent inter subject variable. Height (cm) was taken as a
+dependant variable.
+The statistic treatment that was used was an analysis of the
+variance (anova) for inter group comparisons. The greatest
+jumps per exercise, and per athlete were analysed. The
+significance level was set at p<0.05.
+
+RESULTS
+Figure 1 shows the differences of the effect on fatigue,
+considering explosive strength and elastic explosive strength.
+
+After making the normality test (Kolgomorov-Smirnov) and
+sphericity test (Mauchly) the results of the anova intrasubject
+contrast test with repeated measurements, show significance
+for all factors analysed and their interactions.
+Table 1 demonstrates that this significance is in favour of the
+pre- test, by comparing the differences between the total
+jumps prior to training with the same number of jumps when at
+the end of training. It also compares the difference between
+both types of jumps. Finally, it permits the analysis of the
+difference
+depending
+on
+the
+muscles
+involved.
+
+When analysing the effect of fatigue on jumps, we observe that
+both exercises show training very significantly. And when
+analysing the chain, we note that both, for the non-dominant
+leg and for the two feet exercise, there were significant
+differences, while in the case of the dominant leg, the loss,
+though important, is not significant (table 2).
+
+Table 3 relates the interactions between fatigue, chain and
+jump, observing that for the SJ there is significance depending
+on fatigue for all kinetic chains proposed, however, for CMJ
+fatigue is only significant when jumping on two feet.
+
+DISCUSSION
+In spite of the limitations of the sample, this paper confirms the
+hypothesis of the existence of asymmetry in the tennis players
+lower limbs. From our bibliographic search, it seems that this
+pilot study is the first one to show that asymmetry, since
+previous studies centred on tennis players have studied the
+assessment of the trunk (Ellenbecker, Roetert, 2004) (SanchisMoysi, Idoate, Dorado, Alayon, Calbet, 2010). Some of these
+papers, Sanchis-Moysi et al. (2010) already say that the
+asymmetry of the trunk may be due to differences in the kinetic
+chain of the lower limbs, but none has evaluated those muscles
+directly. LaterSanchis-Moysi, Idoate, Izquierdo, Calbet, Dorado
+(2011) verified the existence of asymmetry in lower limbs for
+the muscles of the gluteus and iliopsoas but using magnetic
+resonance.
+This functional muscular asymmetry has been related to the
+health of the athletes and their future risk of injuries (Menzel
+et al., 2012); the level of fatigue has been confirmed to be
+directly related to this risk (Goodall, Pope, Coyle, Neumayer,
+2012). The results of our study confirm the loss of the explosive
+strength (SJ) and the elastic explosive strength (CMJ), after
+finishing training, either considering the jumps in isolation or
+together. This confirms that fatigue reduces the response
+capability of young players, increasing the risk of injury in the
+final part of training, or greater duration and intensity efforts.
+What interested us most was what happened when comparing
+the dominant with the non-dominant leg. In this sense, we have
+found that when considering the total number of jumps with
+each modality, the loss of height has been significant, both, for
+the jump with the non-dominant leg, as well as for the jump
+with both legs, while there have been no significant differences
+for the dominant leg, when measuring pre- and post training.
+This makes us think that the fatigue of the non-dominant leg
+may be determining and may affect directly the jump with two
+legs . This disturbance in the application of the strength could
+
+be related to the injuries that occur as a consequence of the
+explosive actions in tennis.

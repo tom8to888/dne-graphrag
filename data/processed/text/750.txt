@@ -1,0 +1,393 @@
+Title: The impact of rally length on break point saving percentage among male tennis players based on rankings: observations across different professional levels
+Authors: Robert Raguž, Nouman Ul Haq, Andrej Grubišić, Rafael Martinez-Gallego
+Year: 2026
+Issue: Vol. 34 No. 98 (2026)
+Article id: 750
+
+www.itfcoachingreview.com
+April 2026. 34th  Year. Issue 98. 27-33
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i98.750
+structure of tennis, characterized by intermittent dynamics,
+short repetitive actions, and varying intensity, inherently
+involves rally duration as a key component (Torres-Luque
+et al., 2014). Rally length itself is a multifaceted variable,
+influenced by factors such as court surface, player level, and
+specific match situations (Fitzpatrick et al., 2021; Prieto-Lage
+et al., 2018). For instance, research indicates that shorter
+points (0-4 shots) are particularly decisive on faster surfaces
+like grass (Fitzpatrick et al., 2021), and distinct rally patterns
+emerge during break point situations (Prieto-Lage et al.,
+2018). However, the conscious strategic use of rally length,
+specifically on hard courts during break points, and how this
+varies between different professional tiers, remains an area
+requiring more detailed exploration.
+The cognitive demands of tennis, especially during highpressure moments, are substantial. Research in cognitive
+psychology suggests that an overabundance of tactical
+information or too many variables to consider can lead
+to cognitive overload, impairing decision-making and
+performance (Sille, Turner, & Eubank, 2020; Ozsoy et al.,
+INTRODUCTION
+Tennis, as one of the most dynamic sports, demands an
+intricate blend of physical endurance, mental toughness,
+and strategic awareness (Sánchez Mencia et al., 2023).
+The outcome of a tennis match is often decided in pivotal
+moments, with break points standing out as critical junctures
+that can drastically shift momentum and determine the winner
+(O'Donoghue, 2012; Knight & O'Donoghue, 2012). The ability
+to save break points, defending one's service game under
+pressure, is widely regarded as a key indicator of a player's
+mental fortitude, consistency, and composure (Meffert et al.,
+2021). Indeed, the concept of "big points" underscores that
+not all points carry equal weight, and success in these highstakes situations is often what differentiates elite performers
+(Kovalchik & Reid, 2018; Meffert et al., 2018).
+Performance in these critical moments is not solely a function
+of psychological resilience; tactical decisions, such as the
+strategic manipulation of rally length, play a significant role
+(Cui et al., 2019; Conde-Ripoll et al., 2024). The temporal
+ABSTRACT
+This study investigates the tactical role of rally length in saving break points among male
+professional tennis players, specifically comparing ATP 250 and Challenger Tour levels
+on hard courts. Based on an analysis of over 500 break point instances from 31 matches
+played between January 2023 and March 2025, the research explores the correlation
+between rally duration, point length, and player ranking. Findings reveal a significant
+negative correlation between player ranking and break point saving percentage, with
+ATP 250 players saving over 80% of break points compared to approximately 65%
+for Challenger players. Shorter rallies—specifically those under five shots and lasting
+less than seven seconds—were consistently associated with higher success rates
+across both tiers, although ATP 250 players demonstrated superior tactical maturity in
+effectively shortening points during these critical moments. Challenging the traditional
+notion of stationarity, these results suggest that elite players proactively alter rally
+dynamics under pressure, underscoring the critical importance of "first-strike" tennis
+and the ability to dominate neutral rallies as essential factors for improving break point
+performance and advancing in professional rankings.
+The impact of rally length on break point saving
+percentage among male tennis players based
+on rankings: observations across different
+professional levels
+Andrej Grubisic1, Nauman Haq2, Robert Raguz3 & Rafael Martínez-Gallego4
+1Tennis Club Vierjahreszeiten (TCVJ), Hamburg, Germany. 2Pakistan Tennis Federation (PTF), TriStar Education.
+3Tennis Association of Bosnia and Herzegovina; International Tennis Federation (ITF), Grand Slam Player
+Development Programme (GSPDP). 4Research Group on Sports Technique and Tactics, University of Valencia,
+Valencia, Spain.
+Key words: Rally length, break
+point performance, tactical
+decision making, ATP ranking.
+Received: 5 January 2026
+Accepted: 19 March 2026
+Corresponding author: Andrej
+Grubisic, grubisicandrej@gmail.
+com
+COACHING & SPORT
+SCIENCE REVIEW
+2023). Consequently, adopting a simplified yet effective
+tactical focus—such as consciously aiming to shorten or
+extend rallies based on a pre-defined strategy or opponent
+tendencies—might be a beneficial approach for players. This
+could reduce cognitive burden, allowing for more decisive
+action and composure (Raizada et al., 2025). While extensive
+research has explored various performance indicators in
+tennis, including serve effectiveness (Meffert et al., 2018),
+and point-by-point dynamics in Grand Slams (Cui et al.,
+2019; Escudero-Tena et al., 2020), there is a specific need
+to understand the nuanced relationship between rally
+length strategy and break point saving efficacy across the
+ATP 250 Tour and Challenger Tour levels. These two distinct
+tiers of professional men's singles tennis present different
+competitive pressures, skill execution levels, and potentially,
+tactical proclivities, particularly on hard court surfaces
+where rally dynamics can vary significantly. Furthermore,
+match statistics such as serve and return point percentages
+have shown a significant relationship with professional
+ranking (Reid, McMurtrie, & Crespo, 2010), underscoring
+the importance of effective play in these key areas for career
+progression.
+Previous research has highlighted differences in how players
+approach break points, with higher-ranked players often
+exhibiting superior strategic skills (O'Donoghue, 2012). For
+instance, top-ranked ATP 250 players might possess a greater
+ability to control rally length, employing aggressive play to
+shorten exchanges (<5 shots), thereby minimizing opponent
+opportunities. Conversely, Challenger Tour players might
+engage in longer rallies more frequently, perhaps due to
+differences in first-strike capabilities or tactical confidence
+under pressure. Understanding these distinctions is vital, as
+even marginal advantages gained through optimized rally
+length strategies during break points can significantly impact
+match outcomes (Cui et al., 2019).
+Therefore, the primary aim of this study is to investigate
+the impact of rally length on break point saving percentage
+among professional male tennis players on hard court
+surfaces. Specifically, this research will focus on comparing
+performance patterns and tactical approaches between
+players competing at the ATP 250 Tour level and those at the
+Challenger Tour level. It is hypothesized that: (a) shorter rally
+lengths will generally be associated with a higher break point
+saving percentage across both tiers, and (b) ATP 250 players
+will exhibit a more pronounced and effective use of specific
+rally length strategies (particularly shorter rallies) to save
+break points compared to Challenger Tour players, reflecting
+greater tactical maturity and execution under pressure. The
+findings are expected to provide valuable insights for players
+and coaches in developing targeted training regimens and
+pre-match strategies.
+METHODOLOGY
+Research Design
+This
+study
+employed
+a
+comparative,
+observational,
+retrospective design to analyse the relationship between rally
+length, player ranking, and break point saving percentage
+in professional men's tennis. Data were analysed across
+two distinct professional tiers, the ATP 250 Tour and the
+Challenger Tour, with a specific focus on matches played on
+hard court surfaces.
+Sample
+Data were collected from a total of 31 official men's singles
+matches played on hard court surfaces between January
+2023 and March 2025. The sample comprised 16 matches
+from the ATP 250 Tour and 15 matches from the Challenger
+Tour. These matches were purposively selected to ensure
+representation from both tournament levels and to obtain a
+sufficient number of break point situations for robust analysis.
+Across these matches, over 500 break points were identified
+and analysed (226 from ATP 250 matches and 276 from
+Challenger Tour matches). Specific details of the included
+matches, including tournament, year, and participating
+players, are provided in Table 1 (Appendix A). This selection
+strategy aimed to encompass a variety of players and
+competitive contexts within each tour level. Player rankings
+(ATP Ranking) at the time of each match were recorded for
+all participating players. Matches that were not completed
+due to player retirement or walkover were excluded from the
+sample.
+Data collection and variables
+Data were retrospectively collected from publicly available,
+official match statistics and point-by-point data provided on
+the ATP Tour (Tennis TV) and Challenger Tour online viewing
+platforms. These platforms offer comprehensive databases of
+match events. For each match, match logs and point-by-point
+summaries were meticulously reviewed to identify every
+instance where a player faced a break point on their serve.
+Once a break point was identified, several variables were
+extracted.
+Independent variables included:
+• Tournament Level:  ATP 250 Tour, Challenger Tour.
+• ATP Tennis Ranking: ranking of the serving player at the
+time of the match.
+• Rally Length (shots): total number of successful strokes
+exchanged by both players within the rally, commencing with
+the serve and concluding when the point was decided (an ace
+was recorded as a 1-shot rally, a double fault as a 0-shot rally).
+• Point Duration (seconds): time elapsed from the initiation of
+the serve to the conclusion of the point.
+Dependent variable included:
+•  Break Point Saved Percentage (%): calculated for each
+match as: (Number of Break Points Saved / Total Number of
+Break Points Faced) * 100.
+Statistical Analysis
+Descriptive statistics, including means, standard deviations
+(SD), ranges, and percentages, were calculated for all variables
+to summarize the sample characteristics and performance
+indicators across the two tournament levels. The relationships
+between player ranking and break point saving percentage,
+and between rally length/point duration and break point
+saving percentage, were examined using Pearson correlation
+coefficients (r), stratified by tournament level.
+To further explore these relationships and derived predictive
+equations, linear regression analyses were conducted. The
+coefficient of determination (R²) was reported to indicate the
+proportion of variance in the dependent variable explained by
+the independent variable(s). Prior to conducting parametric
+tests, the assumptions of normality and homogeneity of
+variances were assessed using Shapiro-Wilk and Levene's
+tests, respectively. Comparisons of break point saving
+percentages, rally lengths, and point durations between
+ATP 250 and Challenger Tour players were performed using
+independent samples t-tests. In instances where parametric
+assumptions were violated, non-parametric Mann-Whitney U
+tests were employed as an alternative.
+Graphical representations, such as scatter plots with
+trendlines, were generated using Microsoft Excel's plotting
+tools to visualize key relationships. All inferential statistical
+analyses were conducted using SPSS Statistics Version
+28 (IBM Corp., Armonk, NY, USA) and R Version 4.X.X (R
+Core Team, Vienna, Austria). The alpha level for statistical
+significance was set at p < .05 for all inferential tests.
+RESULTS
+Statistical analysis of the 31 matches, encompassing
+over 500 break points, revealed significant relationships
+between player ranking, rally length, and break point saving
+percentage, with notable differences between the ATP 250
+and Challenger Tours.
+Relationship between ATP ranking and break point saved
+percentage
+A statistically significant negative correlation was found
+between a player's ATP ranking number and their break point
+saved percentage. As observed in Figure 1, higher-ranked
+players (a lower ranking number) tend to save a greater
+percentage of break points.
+The linear regression analysis indicates this trend is
+considerably stronger in ATP 250 tournaments (R² = 0.53)
+compared to Challenger tournaments (R² = 0.23). This
+suggests that at the ATP 250 level, a player's ranking explains
+a larger proportion of the variance in performance during
+critical moments. Descriptively, the analysed ATP 250 Tour
+players averaged a saving percentage above 80%, whereas
+Challenger Tour players averaged approximately 65%.
+Figure 1. Relation between player ranking and percentage of break
+points saved.
+Figure 2. Break point saved percentage vs. point duration.
+Notably, the correlation was much more pronounced for ATP
+250 players (R² = 0.54) than for Challenger players (R² = 0.22).
+This indicates that the strategy of shortening points has a
+more consistent and successful impact on the performance
+of higher-ranked players. Players who saved over 75% of
+break points predominantly did so in points lasting less than
+seven seconds. Conversely, a high percentage of lost break
+points occurred in rallies that exceeded this duration.
+Comparative analysis of rally length
+To further investigate tactical strategy, the percentage of
+break points lost was analysed based on whether the rally
+lasted fewer than five shots or more than five shots. Figure
+3 reveals a drastic performance difference based on this
+variable.
+In short rallies, players of all rankings maintained a low
+percentage of break points lost, generally below 30%.
+However, in long rallies, the percentage of break points
+lost increased significantly, especially for players ranked
+outside the top 100. This finding suggests that while lowerranked players can successfully execute short-point tactics,
+their performance sharply declines as the rally extends—a
+vulnerability less evident in elite players.
+Impact of point duration on performance
+The analysis of point duration proved to be a decisive factor
+in break point outcomes. Figure 2 illustrates a significant
+negative correlation between point duration (in seconds) and
+the break point saved percentage across both tournament
+levels.
+Figure 3. Visual representation of break point loss [%] compared to
+players' ranking as analysed from points over and under 5 rallies.
+DISCUSSION
+This study provides empirical evidence that the strategic
+manipulation of rally length is a crucial tactical factor for saving
+break points in men's professional tennis, particularly on hard
+courts. The results confirm our hypotheses: shorter rallies are
+associated with a higher break point saving percentage, and
+this strategy is employed more effectively by ATP 250 players
+compared to their Challenger Tour counterparts.
+Our central finding challenges the classic assumption of
+"stationarity" in tennis, the idea that the probability of winning
+a point remains constant regardless of the score (Knight &
+O'Donoghue, 2012). Our data strongly support more recent
+research indicating that player performance is contextdependent and elevates on critical points (O'Donoghue,
+2012). The key contribution of our study is to propose why
+this stationarity fails on break points: higher-ranked players
+are not merely reacting to pressure but are consciously
+executing a proactive strategy to shorten exchanges. This
+aligns with the perspectives of elite players and coaches,
+who overwhelmingly acknowledge the existence of "big
+points" like break points, where tactical decisions and
+mental composure are paramount (Meffert et al., 2021). By
+simplifying the tactical objective to keep the point short, a
+strategy designed to conclude the point within the average
+5-7 second duration typical of hard-court rallies (TorresLuque et al., 2014), players can reduce cognitive load and
+execute with greater confidence.
+At first glance, our findings might seem at odds with studies
+like Conde-Ripoll et al. (2024), which found that break points,
+on average, feature longer rallies than non-break points.
+However, this is not a contradiction but rather two sides of
+the same coin. The findings of Conde-Ripoll et al. represent
+a descriptive reality of what occurs across all outcomes,
+whereas our study offers a prescriptive conclusion on how
+to achieve success. In essence, players who successfully save
+break points are the ones who manage to defy the trend
+and end the point quickly. Those who get drawn into longer
+exchanges, as is common on break points, are the ones who
+are more likely to lose the point, thus explaining the overall
+longer average rally length.
+Differences between professional levels and strategic
+approaches
+The performance gap between ATP 250 and Challenger
+players, especially in rallies extending beyond five shots,
+is a critical insight. While both levels may attempt shortpoint tactics, the elite players' superior ability to execute
+their "first-strike" tennis (serve + first shot) under pressure
+is what differentiates them. This is supported by broad
+analyses of Grand Slam matches, which consistently find
+that winners significantly outperform losers in serve quality,
+return performance, and break point conversion percentage
+(Raizada et al., 2025).
+Crucially, the ability to excel on break points is directly linked
+to the statistics that define elite players. In a seminal study,
+Reid, McMurtrie, and Crespo (2010) found that of all the
+match statistics available, the two most significant predictors
+of a player's Top 100 ranking were the percentage of second
+serve points won and the percentage of second serve return
+points won. These two metrics alone accounted for 52%
+of the variance in professional ranking. This adds a critical
+layer to our findings. Success on break points is not merely
+about hitting an unreturnable first serve (a 1-shot rally); it is
+about possessing the tactical acumen and baseline solidity
+to dominate the rally when a second serve brings the point
+to a more neutral state. Many break points are contested on
+second serves, making proficiency in these situations, both
+offensively and defensively, the ultimate differentiator for
+climbing the rankings.
+Furthermore, the mantra "shorter is better" requires nuance. A
+study on grass court tennis by Fitzpatrick et al. (2021) revealed
+that while 1-shot (aces/return errors) and 2-shot rallies were
+critical for winning, the classic "serve plus one" (3-shot rally)
+was surprisingly not a differentiating factor between winners
+and losers. This suggests that the most decisive actions are
+the serve and the return themselves. Similarly, the optimal
+strategy can be highly dependent on the player and surface.
+For example, a case study of Nadal and Djokovic on clay
+courts showed that in that specific context, it was Nadal who
+won more break points in long rallies (>7 shots), leveraging
+his unique defensive and attritional capabilities (Prieto-Lage
+et al., 2018). This highlights that while a short-point strategy
+is a robust general model for success on hard courts, it is not
+universally absolute.
+Limitations and future lines of investigation
+The primary limitation of this study is its focus on a single
+surface type. Our findings are specific to hard courts. As the
+comprehensive review by Torres-Luque et al. (2014) details,
+the temporal structure of tennis, including point duration
+and work-to-rest ratios, is highly conditioned by the playing
+surface. Rallies are inherently longer on clay and shorter on
+grass. Future research should therefore conduct a direct
+comparative analysis of rally length strategies on break
+points across all surfaces to build a more complete tactical
+framework. Additionally, expanding this analysis to the WTA
+tour would be a valuable step, as rally dynamics and strategic
+priorities may differ.
+CONCLUSION
+In conclusion, this study provides strong quantitative evidence
+that the ability to proactively shorten rallies is a cornerstone
+of successfully defending break points in elite men's tennis
+on hard courts. This tactic is a conscious departure from
+baseline rally patterns, reflecting the heightened importance
+players place on these moments. The strategic priority of
+winning the point early aligns with the broader statistical
+markers of elite performance, particularly the ability to win
+a high percentage of second serve points, which is a key
+predictor of professional ranking. For players and coaches,
+particularly at the Challenger level, the practical implication is
+clear: developing the technical and tactical capacity for "firststrike" tennis is not just a general goal, but a critical tool for
+mastering the high-pressure situations that ultimately define
+career progression.
+CONFLICTS OF INTEREST AND FUNDING
+The authors declare that they have no conflict of interest, nor
+have they received any funding related to the development
+of this study.
+APPENDIX
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2026 Andrej Grubisic, Nauman Haq, Robert Raguz & Rafael Martínez-Gallego
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix, transform,
+and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in
+any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms

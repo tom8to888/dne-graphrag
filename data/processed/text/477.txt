@@ -1,0 +1,186 @@
+Title: Men’s Tennis vs Women’s Tennis
+Authors: Rod Cross
+Year: 2014
+Issue: Vol. 22 No. 62 (2014)
+Article id: 477
+
+www.itfcoachingreview.com
+April 2014. 22nd Year. Issue 62. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i62.477
+
+Men’s tennis vs Women’s tennis.
+Rod Cross.
+Physics Department, University of Sydney, Australia.
+ABSTRACT
+
+Data from men’s and women’s singles at the four Grand Slam events are
+presented to quantify differences between men’s tennis and women’s tennis.
+The most obvious difference is the serve speed, but there are also differences
+in all other aspects of the game including the number of aces, double faults,
+unforced errors, winners, tiebreak sets, games per set and points per game.
+
+Key words: Tennis, Serve speed,
+Statistics, Grand Slam.
+Received: 10 December 2013.
+Acepted: 28 January 2014.
+Corresponding author: Rod Cross,
+Physics Department, University of
+Sydney, Australia.
+Email:  rodcross1@bigpond.com
+
+INTRODUCTION
+Men's tennis differs from women's tennis, as in many other
+sports, due to the fact that men are generally taller, stronger
+and faster. In order to quantify the differences, I examined the
+statistics published on the tournament web sites for each of the
+four Grand Slam events from 2002 to 2013. Data for men have
+been analysed previously by Cross and Pollard (2009, 2011). To
+analyse average serve speeds for women, I collected individual
+match data from the 2008 US Open and Wimbledon events,
+and the 2009 Australian and French Open events, including all
+31 matches from round 3 to the final. For men serve speeds, I
+collected data from the 2008 US Open, and the 2009 Australian,
+French and Wimbledon events, including all 127 matches from
+round 1 to the final. In addition, I collected most of the overall
+event summaries for men and women from 2002 to 2013,
+although some of that data has been omitted from the
+summaries in this paper since some of the data appears to be
+inconsistent. Mistakes are sometimes made when collecting or
+recording the data. Serve speeds are not recorded on every
+court, the number of unforced errors is not shown in the French
+Open Event table, and winners are not always recorded or
+counted for every match.
+SERVE SPEEDS
+The average serve speeds of match winners is slightly higher
+than the average serve speeds of match losers, but only by 2 or
+3 km/hr in general. Consequently, I have quoted in Table 1 the
+average speeds for all players in all matches for which serve
+speeds were collected, including both match winners and
+match losers. Players advancing from one round to the next are
+counted more than once in the match averages. Averaged over
+all four events, the average first serve speed for men is 184.1
+km/hr and for women is 158.5 km/hr. The average second serve
+speed for men is 150.4 km/hr and for women is 133.4 km/hr.
+On average, the first serve speed for men is 25.6 km/hr faster
+than for women, and the average 2nd serve speed is 17.0 km/hr
+faster.
+
+Table 1. Average first (V1) and second (V2) speeds averaged over
+N players.
+
+A different comparison of serve speeds can be made using the
+serve speed rankings provided on the web for each Grand Slam
+event. The top 20 players are listed in order of maximum serve
+speed, rather than average serve speed. Results for 2013 are
+shown in Table 2 by taking the average top serve speed of all
+20 ranked players. Averaged over all four events, the average
+top serve speed for men is 218.6 km/hr and for women is 185.6
+km/hr, a difference of 33 km/hr.
+
+Table 2. Maximum serve speeds, in km/hr, averaged over the top
+20 players in 2013.
+
+ACES AND DOUBLE FAULTS
+It is not surprising that men serve more aces and fewer double
+faults than women. In addition, men serve about twice as many
+aces as double faults, while women serve about twice as many
+double faults as aces (Wimbledon being an exception). The
+results for each Grand Slam event are shown in Fig. 1. The
+results are shown as points per ace and points per double fault
+and were calculated from the total number of points, aces and
+double faults at each event, summed over all seven rounds up
+to and including the final. For example, at the Australian Open,
+one in every 13 points on average (approximately) is won with
+an ace for men. For women, one in every 30 or so points is won
+with an ace. Also at the Australian Open, men lose one in every
+30 points on average by serving a double fault, while women
+lose one point in 18 by serving a double fault. It is easier for
+both men and women to serve an ace at Wimbledon, and
+harder to serve at ace at the French Open.
+
+Figure 1. Points per ace and points per double fault.
+
+TIEBREAK SETS
+Figure 2 shows the total number of sets divided by the total
+number of tiebreak sets at each Grand Slam event. At the
+Australian Open, roughly every 7th set on average is a tiebreak
+set for men, and roughly every 13th set is a tiebreak set for
+women. The main difference between the four events is that
+there are more tiebreak sets at Wimbledon for the men, but
+not for the women.
+
+Figure 2. Sets per tiebreak set.
+
+POINTS PER GAME AND GAMES PER SET
+Figure 3 shows the average number of points per game and the
+average number of games per set at each Grand Slam event. At
+all four events, there are about 6.3 points per game on average
+for men and about 6.6 points per game on average for women.
+The minimum number of points in a game is four. The average
+number of games in a set is about 10 for men and about 9 for
+women. The latter result is surprising, since men require fewer
+points to win a game than women, but they require more
+games to win a set. The essential reason is that men have faster
+serves so they win games more easily, but so do their
+opponents.
+
+Figure 3. Points per game and games per set
+
+SERVE BREAKS
+Since men serve faster than women, men tend to win their
+serve more easily. A serve break for men is therefore a more
+significant result. Figure 4 shows the total number of games in
+each Grand Slam event divided by the total number of games
+that resulted in a serve break. On average, there is a break of
+serve roughly every fifth game in men’s tennis, and roughly
+every third game in women’s tennis, depending on the actual
+event.
+
+Figure 4. Ratio of total games to serve break games at each Grand
+Slam event.
+
+SERVE GAMES WON
+Figure 5 shows the percentage of serve games won by men and
+women at each Grand Slam event. Men win about 80% of their
+serve games, and women win about 65% of their serve games,
+the figures being slightly higher at Wimbledon.
+
+Figure 5. Percentage of service games won by server, 2000-2013.
+Men win about 80% of their serve games on average, and women
+win about 65% of their serve games.
+
+WINNERS
+Figure 6 shows the average number of points per winner. Data
+for the French Open are inconsistent and are not included. The
+results show that women hit fewer winners than men, although
+the difference is not as pronounced as it is for service aces. It is
+perhaps surprising that at the men’s event at Wimbledon in
+2010, every second point on average was won with a winner.
+There were 30,251 points played, and 15,157 winners were
+recorded. Usually, about 10,000 winners are recorded for the
+men’s singles event at Wimbledon. It is possible that the
+definition of a winner was changed in that year since there was
+a similar unusual increase in the number of winners for the
+women in 2010.
+
+Figure. 6 Points per winner.
+
+Figure 7. Points per unforced error.
+
+UNFORCED ERRORS
+Figure 7 shows the average number of points per unforced
+error. Unforced errors are not reported for the French Open.
+The results show that men make fewer unforced errors,
+approximately one unforced error every four points, compared
+with about one unforced error every 3.5 points for women.
+CONCLUSIONS
+No case is made in this paper that men’s tennis is better or
+more or less interesting than women’s tennis or even mixed
+tennis. The evidence presented shows that men’s tennis is
+measurably different from women’s tennis in almost every
+respect. The differences can be attributed to different physical
+characteristics of men and women, allowing men to serve and
+run faster than women. Coaches who recognise and who can
+quantify those differences should be able to make better
+decisions when advising their students.

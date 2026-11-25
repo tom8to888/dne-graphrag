@@ -1,0 +1,185 @@
+Title: Analysis of Competitive Wheelchair Tennis
+Authors: Alejandro Sánchez-Pay, Gema Torres Luque, David Sanz Rivas
+Year: 2014
+Issue: Vol. 22 No. 63 (2014)
+Article id: 502
+
+www.itfcoachingreview.com
+August 2014. 22th Year. Issue 63. 22-25
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i63.502
+
+Analysis of competitive wheelchair tennis.
+Alejandro Sánchez-Pay, Gema Torres Luque & David Sanz Rivas.
+University of Jaén, Spain.
+ABSTRACT
+
+Since wheelchair tennis became a paralympic sport in Barcelona ´92, it has
+developed professionally, and the number of scientific publications on this
+subject has grown accordingly. This article gathers the information that describes
+the temporal structure and the physiological demands of wheelchair tennis in
+order to improve the quality of the current coaching systems.
+
+Key
+words:
+Wheelchair
+tennis,
+Competition,
+Playing
+pattern,
+Physiological demands.
+Received: 3 January 2014
+Acepted: 30 June 2014
+Corresponding
+author:
+Alejandro
+Sánchez-Pay, University of Jaén,
+Spain.
+Email: a.s.pay@hotmail.com
+
+INTRODUCTION
+Wheelchair tennis is one of the adapted sports that has
+developed the most in recent years. It is always played to the
+best of three sets, unlike conventional tennis in which some
+matches are played to the best of five sets. It is played on all
+three types of surface (clay, hard and lawn). The main difference
+with conventional tennis is that the regulations allow for the
+ball to bounce twice before it is returned (ITF, 2012).
+Since it became a paralympic sport in Barcelona ´92, it has
+grown professionally and institutionally, it is played in over 41
+countries, with approximately 160 international tournaments in
+the NEC tour (Bullock & Sanz, 2010). This growth has increased
+the number of scientific publications in recent years, providing
+information about different areas such as physiology (Croft et
+al., 2010; Sindal et al., 2013 Sanz et al., 2005), tactics (Filipcic &
+Filipcic, 2009; Sánchez- Pay et al., 2013), or motor control (Reina
+et al., 2007). However, this article will highlight the most
+relevant demands in this sport, including temporary structure
+and physiological demands.
+Temporal structure for wheelchair tennis
+The wheelchair tennis regulations allow for a maximum of 20
+seconds between points and 90 seconds for change overs (ITF,
+2012). When the temporal structure of a sport is analysed, the
+first thing to be considered is the total volume of work that the
+activity demands (Christmass, et al., 1995; Galiano et al., 1996).
+Generally speaking, the total playing time for a singles
+wheelchair tennis match is between 50 and 80 minutes (Croft
+et al., 2010; Filipcic & Filipcic, 2009; Roy et al., 2006; SánchezPay et al., 2013; Sanz et al., 2008; Sindal et al., 2013); although
+the characteristics of the match will be greatly determined by
+the level of the participants, the kind of injury, or the playing
+surface among other things (Filipcic & Filipcic, 2006, 2009;
+Sindal et al., 2013; Sánchez –Pay et al., 2013).
+Most international tournaments are played on two draws
+depending on the ranking of each player. This way, highest
+ranked players will play the Main Draw and the rest will play the
+Second Draw. Sindal et al. (2013) compared the total length of
+the main draw in international matches and the second draw in
+international matches, showing a range of 40.1 to 74.8 minutes
+per match and found no significant differences between the
+draws. Filipcic and Filipcic (2009) measured playing times in 22
+simulated amateur matches, with an average length of 54.13
+minutes.
+Wheelchair tennis is present in all four Grand Slams. A study by
+Sánchez-Pay et al. (2013) compared the duration of US Open
+and Roland Garros matches over two consecutive years and
+found that matches were shorter on fast surfaces (US Open)
+(68.30 ± 23.32) than on slow surfaces (81.57 ± 29.83). Even
+though differences are not significant, the trend is the same as
+in conventional tennis, where the total duration of the match is
+longer on slower courts than on fast courts (Morante &
+Brotherhood, 2005; O´Donoghue & Ingram, 2001). Although
+more research is still necessary on this matter, there seems to
+be a difference on the data if we compare simulated matches,
+54 minutes (Filipcic & Filipcic, 2006) with official competitions
+(Croft et al., 2010; Sánchez-Pay et al., 2013; Roy et al., 2006;
+Sindal et al., 2013) between 68-81 minutes.
+Wheelchair tennis is an intermittent sport, within the total time
+there is a time to work and a time to rest, and this knowledge
+facilitates specific training. Research shows a real playing time
+of 15-20% of the total playing time, which equals working /
+
+ratios between 1:1 and 1:4 (Sanz, 2007; Filipcic & Filipcic, 2009;
+Roy et al., 2006).
+Another important consideration is the duration of the point,
+like the previous parameter, it will create strategies to
+specifically improve coaching for competition wheelchair
+tennis players. There is little research, and research shows that
+times vary between four and 10 seconds. (Bullock & Pluim,
+2003; Filipcic & Filipcic, 2009) (Table 1). More specifically,
+Bullock & Pluim (2003), analysed three matches in the
+Paralympics of Sydney 2000. The authors noted an average
+time per point of 9.65 seconds, with long intervals between a
+maximum (11.75 seconds) and a minimum (6.02 seconds).
+Filipcic & Filipcic (2009), noted that in 22 simulated recreational
+matches, the average duration of the point was 4.16 seconds,
+70% of which lasted zero-five seconds (Filipcic & Filipcic, 2009).
+Although there is little research on the temporal structure of
+wheelchair tennis, there seems to exist a trend in the sport to
+becoming faster and faster (Bullock & Sanz, 2010). In this
+regard, the comparative study between the semifinal and final
+matches in the Paralympics of Athens and Pekin, proved that
+the playing times were getting shorter and that the number of
+players playing after the first bounce was significantly greater
+in Pekin (2008) than in Athens (2004) (Sanz et al., 2009).
+
+Table 1. Most important research related to the structure of WCT.
+TT= Total time of the match; RT= Real time of the match; DP=
+Duration of the point.
+
+Physiological requirements for wheelchair tennis
+The aim of knowing the physiological profile of a player is to
+determine the physiological and contextual demands that
+impact performance, so as to organise training sessions and
+optimise the player´s profile (Sanz et al., 2009).
+
+The intermittent nature mentioned above, makes tennis players
+have short periods of work followed by rest intervals during a
+match. This has been largely studied in conventional tennis
+(Fernandez- Fernandez et al., 2009; Kovacs, 2007). In wheelchair
+tennis related research, the variables that have received most
+attention to control the intensity of a match are heart rate and/
+or lactate concentration in blood ([Lac]) (Bernardi et al., 2010;
+Sindal et al., 2013).
+In wheelchair tennis heart rate ranges between 120-140 beats
+per min-1, which means an intensity of 65-75% on the
+maximum heart rate with an approx VO2max of 50-68%
+considering it a moderate/ high intensity sport (Barfield et al.,
+2009; Bernardy et al., 2010; Coutts, 1988; Croft et al., 2010; Roy
+et al., 2006; Sindal et al., 2013). According to the documents
+analyzed, these values do not show differences if competitive
+level is analyzed (amateur or profesaional) (Sindal et al., 2013).
+[Lac] Bernardi et al. (2010) analysed four players in simulated
+matches, showing average values at the end of tne match of
+3.75 ± 0.76 mmol•L -1. Table 2 shows the most relevant studies
+on this matter.
+
+Table 2. Most important research related to WCT physiological
+requirements Medium HR = Medium heart rate; max HR =
+maximum heart rate.
+
+CONCLUSIONS
+The increase in the number of scientific publications in the last
+years provides great knowledge on the issue of wheelchair
+tennis, so coaches can improve the quality of their training
+sessions. Having reviewd the data, it is possible to state that
+this sport of an intermittent nature, lasts between 50 and 80
+minutes per match, out of which the players will be hitting the
+ball between 15% and 20% of the time. Due to the intermittent
+nature of this sport, the average point lasts between four and
+10 seconds, with a rest of 20 seconds between points. The
+work/rest relationship makes the player heart rate range
+between 120 and 140 beats per minute for the duration of the
+match long, so it can be considered a moderate/high intensity
+sport. Anyway, further research is still necessary, since,
+depending on the type of injury, the playing surface, or the
+level of the players, there is a wide variety of values recorded.
+Even though more research is still necessary on this matter, the
+kind of injury, the playing surface or the level of the players
+present a disparity in the values, some guidelines for the coach
+and/ or trainer when planning sessions could be: a) in
+‘accumulation’ periods, high volume work and low intensity, b)
+in ‘transformation’ periods, increase intensity and decrease
+volume, with a work/rest ratio of 1:1; and c) in ‘realisation’
+periods, between six and eight seconds of high intensity with
+20 seconds rest between repetitions simulating the work in the
+competition.

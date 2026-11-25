@@ -1,0 +1,532 @@
+Title: International level player and coach development through the lens of Bronfenbrenner’s bioecological model
+Authors: Kylie Moulds
+Year: 2024
+Issue: Vol. 32 No. 94 (2024)
+Article id: 585
+
+www.itfcoachingreview.com
+December 2024. 32th Year. Issue 92. 31-36
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i94.585
+INTRODUCTION
+Inspired by Lewin’s (1936) renowned theory of behaviour,
+Bronfenbrenner’s (1979) framework for the ecology of
+human development examines individual behaviours within
+social and physical contexts. Bronfenbrenner’s ecological
+theory can be applied to consider dynamic relationships with
+the player, interacting within an environment structured as a
+series of nested systems. He posits that complex individual
+behaviours (e.g., short and long-term player development) can
+be understood by exploring four neighbouring systems: the
+micro-, meso-, exo- and macrosystems (Bronfenbrenner, 1988).
+Bronfenbrenner explains how positive (e.g., healthy player
+development), or negative (e.g., burnout/dropout) outcomes
+arise through frequent and sustained social exchanges within
+microsystem contexts. Bronfenbrenner (2005) emphasises
+the importance of social exchanges concerning individuals
+(e.g., between players, players/coaches), within microsystems
+consisting of interactional relationships where the individual
+operates. Over time, ongoing interactions are proposed
+to bi-directionally influence the individual's psychosocial
+functioning, determining potential directional development
+(e.g., elite player development or dropout). Consequently,
+Bronfenbrenner’s theory can be applied to explain how
+coaching strategies, practice and associated environmental
+features, all convey information and meaning to individual
+participants (Moulds et al., 2020). Players and significant
+others (e.g., parents, carers, other coaching staff), experiencing
+the microsystem will often (sub)consciously interpret and
+evaluate this information, affecting psychological perceptions.
+ABSTRACT
+This article aims to highlight the inherent complexities of elite player development,
+unravelling the entanglements that could enable coaches and national organisations
+to move beyond a focus on early-age specialisation and domestic-level results.
+Bronfenbrenner’s bioecological model of human development was originally proposed
+to explain how human development occurs, focusing largely on the impact of context and
+remains an evolving theoretical system for the scientific study of human development
+over time. Drawing extensively on Bronfenbrenner this article explores the interplay
+of processes across nested levels (e.g., microsystem, mesosystem, exosystem,
+macrosystem), that can potentially shape tennis development at an international level.
+The article first outlines the application of a social-ecological framework, which is
+useful for conceptualising how individual, social and environmental factors, and their
+interactions over time, may relate to consistent behaviours (e.g., application to training)
+and subsequent longer-term developmental outcomes (e.g., junior to senior transition).
+From a coach education perspective, the article then aims to provide practical suggestions
+to consider for healthy and successful international player development.
+Elite player development through the lens of
+Bronfenbrenner’s bioecological model
+Kylie Moulds
+Faculty of Health, University of Canberra/Tennis Australia.
+Key words: player development,
+coach education, long-term
+development, socio-ecological
+development model.
+Received: 11 June 2024
+Accepted: 23 October 2024
+Corresponding author: kylie.
+moulds@canberra.edu.au
+The mesosystem represents the second layer of interactions,
+which may influence the microsystem. According to
+Bronfenbrenner’s (1979) theory, the mesosystem consists of
+interactions between two or more microsystems, which can
+directly influence the developing player. Key mesosystem
+interactions can include parent–coach relationships and
+school –club/academy relationships.
+Meanwhile, the exosystem involves relationships and
+processes between factors (e.g., governing body policies,
+sporting culture and community size) in which individuals are
+not active participants. In the exosystem, external people,
+places and events may influence development, even if the
+player does not directly interact with them. For example,
+considering parental employment, the player is not directly
+involved in the employer-parent relationship but the player
+benefits if the parent provides consistent financial support.
+Finally, the outermost layer (macrosystem) pertains to
+the overarching sociocultural patterns and belief systems
+of societies, including national socioeconomic, cultural
+and geographical conditions (e.g., societal views on sport
+and climatic location), which can potentially affect player
+behaviour. For a diagrammatic summary of the neighbouring
+systems, see Figure 1a.
+Implementing an evidence-based coach education tool to
+explicitly consider the granular associations at each level
+of Bronfenbrenner’s framework, could be valuable for
+functional longer-term player development at international
+level.  Coaches and organisations should aim to increase
+COACHING & SPORT
+SCIENCE REVIEW
+awareness through continued reviews and evaluations of
+player behaviours and outcomes within the four neighbouring
+systems.
+Previous
+findings
+from
+a
+coach
+education
+intervention in Australian national level youth swimming
+(Moulds, 2023) suggests equivalent coach education could
+be valuable to positively influence player psychosocial
+functioning. Potentially reducing dropout and/or burnout
+rates within early development stages and increasing the
+likelihood of attaining functional longer-term international
+developmental benefits.
+Practical implications for coaches to contemplate at each
+level of the bioecological model are suggested below and
+presented in the form of a checklist and template (refer to
+Table 1 and 2). Here coaches are encouraged to carefully
+plan their player development strategies by considering and
+answering multiple questions at each level. When preparing
+players for international-level development, coaches should
+avoid addressing each level of the framework in isolation.
+Instead reflecting from a holistic perspective, which may
+evolve through a player’s establishment in an environment
+that, consequently, affects his or her development (Larsen,
+Alfermann, Henriksen, & Christensen, 2013).
+MICROSYSTEM CONSIDERATIONS FOR INTERNATIONAL
+DEVELOPMENT
+The microsystem level highlights the significance of coaches
+as central agents who lead and structure their environments
+and training practices to create optimal conditions maximising
+international development (See Figure 1b). Given their
+frequent interactions with players, coaches should consider
+how coach-led environments can influence vital factors for
+long-term development. What coaches do and how they
+do it from experience and knowledge can shape a player’s
+interpretation and subsequent behaviour (e.g., development
+or dropout; Moulds et al., 2023). A coach-led environment
+combining task-involving, autonomy-supportive, and socially
+supportive exchanges between players and coaches may
+increase the likelihood of international developmental
+outcomes from healthy and sustained involvement (Appleton
+& Duda, 2016; Moulds, 2023). Coaches should aim to
+increase self-awareness through consistent self-reflection
+and evaluation of coaching behaviours. Embracing multiple
+analyses (e.g., application of a bioecological checklist, see
+Table 1) and investing in continued learning and development
+could advance the coach-led microsystem. Engaging an
+effective coach developer can expand coach self-awareness,
+encouraging a coach to take responsibility for their
+ongoing development to become even more effective at an
+international level (ICCE, 2024).
+Figure 1a: Bronfenbrenner’s bioecological theory applied to international-level player development.
+Increasing parental knowledge of factors shaping a player’s
+microsystem could assist young developing players to (sub-)
+consciously interpret and evaluate information. A lack of
+positive emotional support from parents has previously been
+associated with a higher likelihood of dropout (Moulds, 2023).
+Emphasising interpersonal relationships with significant
+others (e.g., coaches and peers), parents may find monitoring
+the young player's experience towards training and
+competition more conducive to their long-term development.
+Improved parent knowledge could help generate better
+understanding to help inform parent decision-making and
+support. To aid such understanding, online and in-person
+educational resources (e.g., videos, self-paced modules) may
+help parents identify influential microsystem climate factors.
+As the complexities of player development evolve, interactions
+between players and their environments cannot be devalued
+with a focus on long-term international development.
+MESOSYSTEM CONSIDERATIONS FOR INTERNATIONAL
+DEVELOPMENT
+The interchange of microsystem and mesosystem levels,
+between training, coaching approaches, and competition
+strategies, is another consideration for organisations as they
+attempt to connect with their players and coaches.
+EXOSYSTEM CONSIDERATIONS FOR INTERNATIONAL
+DEVELOPMENT
+The third level focuses on interactions that occur between
+several parts of the environment (e.g., coaches, facilities, and
+sport policies) that can indirectly influence long-term player
+development (Balish and Côté, 2014). The exosystem not only
+comprises the settings in which the player participates, but
+at least one more system that does not directly involve the
+player, and in which events occur that can influence processes
+within other settings not containing the player. For example,
+local court maintenance personnel, who maintain the courts,
+repairs lines, and clean the court playing area would be part
+of the exosystem, as the interaction between maintenance
+personnel and the facility would have an indirect effect on
+player long-term development. The exosystem highlights the
+distal processes that can influence more proximal processes
+(i.e., microsystems). Predominantly, an exosystemic level of
+analysis is usually employed when researchers/practitioners
+are attempting to understand how microsystem level
+influencers are enabled by outer layer processes, that are part
+of an organisation.
+MACROSYSTEM CONSIDERATIONS FOR INTERNATIONAL
+DEVELOPMENT
+Although an indirect influencer, national organisations and
+member associations often impact the macrosystem with
+their structures, rules, competitions, expectations, and
+ranking systems. An enduring area of concern is the earlyage specialisation of youth sport, where injury, mental health
+concerns, the rigorous pursuit of ranking points, and elite
+academy programs for very young children are common
+(Malina, 2010; Jayanthi et al., 2019). Despite recent evidence
+suggesting few junior players go on to achieve an equivalent
+competition level at senior level, most national organisations
+are still operating in systems that award ranking points for
+each match, and reward quantity of matches regardless of
+developmental age (Güllich et al., 2023). Suggesting change
+at this level, to align with the developmental needs of youth
+players is not as simple as removing competitions or ranking
+points as this can disrupt the other, entangled levels. To
+reach a point where long-term international development is
+echoed in the macrosystem, stakeholders need to consider
+how to shift not only the competitions and legacy of a
+ranking system, but also the cultural narrative of sport in
+society. National organisations may need to integrate early
+developmental needs by deemphasising performance-driven
+outcomes, with a greater emphasis on fun, cooperation, and
+more team-orientated activities with a lesser focus on interindividual competition. Reassessing environments designed
+around early-age rankings and performance, where coaches
+are only evaluated on performance-associated metrics,
+could assist. Connecting research and coach education by
+changing incentives, rewards, and recognition of coaches
+through a long-term ‘healthy’ international pathway based
+on age and stage of development rather than performance
+could benefit. Referring to Table 1 and 2 could help coaches
+and organisations identify individual player behaviours and
+dynamic relationships interacting within various levels of the
+bioecological system.
+Figure 1b:  Key relational social exchanges between individuals
+in the player microsystem.
+This level features organisations (e.g., tennis clubs and
+academies) and their managers as essential facilitators for
+player development. There is an opportunity for organisational
+leaders to influence coaches, parents and players with
+systematic tracking and reporting of player development data.
+Such tracking could generate more informed decision-making
+concerning selection, training, and overall development
+interventions. Aligning financial and educational resources
+from organisations to assist with data reporting and adopting
+club and academy-led coach education programs to promote
+bioecological approaches could be beneficial. More broadly,
+there is an opportunity for clubs and academies, in conjunction
+with their coaches, to educate other microsystem influencers
+(e.g., parents, significant others). Increasing knowledge
+regarding micro and mesosystems could also assist key
+personnel in understanding and identifying the factors which
+may potentially expose players to suboptimal environments.
+Clubs and academies could assist microsystem influencers
+in educating and raising awareness, potentially identifying
+‘when’ and ‘where’ to change/address current practice and
+provide an evidence base to help shift an organisation’s
+cultural mindset which has historically prioritised early-age
+intensive training and investment.
+Table 1
+Bioecological checklist for coaches when considering elite and sustainable player development planning.
+Instructions
+The following questions can help identify areas at each level of the bioecological system useful for
+sustainable elite player development.  Addressing these items aims to assist coaches structure their
+environments and coaching practices to create optimal player development conditions.
+Checklist Item
+Question(s) to Answer
+Tick when
+addressed
+Bioecological level
+1. Definition(s)
+What level of the bioecological systems framework are you focusing on? Key features and/or
+interactions to consider at this level specific to a players age and stage of development.
+For example:
+Microsystem level considerations for a 14-year-old female player based in Sydney, Australia
+with an ITF junior ranking of 300. Her ranking has currently plateaued due to recent inconsistent
+performances, player currently shows signs of low self-confidence.
+▢
+2. Participants
+Who/what are the key relationships for coaches to consider in this scenario
+For example:
+Parents, other coaches/support staff – physical trainers, teachers, peers, training partners (see
+Figure 1b)
+Key considerations/questions to explore?
+For example:
+Parents – Changes in home life that could be influencing on-court behaviour?
+Other coaches/trainers – Changes in training loads, application to off-court training?
+Teachers – Any upcoming milestones, assessment tasks required, how is the player balancing
+schooling and training/competition?
+Training environment – have there been any changes to training partners, peer environment etc?
+▢
+3. Variables
+What other variables does the coach need to consider? Could be features from other bioecological
+levels.
+For example:
+Macrosystem level considerations – what does the scheduling and duration of competition and/or
+practice times) look like? How does this impact schooling and other family requirements?
+Exosystem level considerations – are there any chances in parent/socio-economic status, proximity
+to a training facility?
+▢
+4. Data
+Collection/
+measurement
+How will the coach collect the required data/information to assess the outcome and provide
+feedback?
+For example:
+Template to apply with player and/or parents/significant others on a regular basis (See Table 2)
+Comparing coach observations with player development matrix (e.g., Tennis Australia, 2024).
+▢
+Findings
+Based on the information above, how will the coach include this information in future coaching
+practice?
+For example:
+Schedule regular debriefs/check-ins with parents and support staff.
+Invite coach developer (or mentor, another coach) to observe training sessions and provide feedback
+to the coach.
+Emphasise the importance of school participation for social development.
+▢
+Table 2
+Template for coaches to use in conjunction with the bioecological checklist
+Example Questions
+Level of Investigation – e.g.,
+Microsystem
+Coach to provide an overview and
+purpose of the activity
+Emphasise confidentiality.
+Emphasise the importance of players
+thoughts, perspectives and insight.
+There are no right or wrong answers;
+their personal insight, understanding,
+perspective and explanations are
+important.
+Overall accuracy and detail will help
+with the coach-player relationship.
+Main question/s
+How are you feeling/where
+do see your game is currently
+at?
+Probes
+What were your goals/
+motivations for this month/
+year? Were your expectations
+met?
+Prompts
+Can you tell me more
+about that?
+Competition
+What can you remember
+most about your recent
+tournament?
+To what extent has your
+training environment
+influenced your recent
+results?
+What did you learn about the
+environment around you at the
+tournament? (Duda 2005)
+What did you learn most
+from the video analysis and
+feedback from the coach/
+support staff?
+How did you feel during your
+matches?
+ In terms of how you
+interact with others in your
+microsystem during training?
+Do you think this has had an
+impact on your overall levels of
+self-confidence?
+Can you tell me more
+about any of these key
+areas?
+Can you provide
+specific examples?
+ What impact has it
+had on you throughout
+this year/month?
+How did you feel when
+you tried to discuss
+these areas within
+your microsystem?
+Training sessions
+What can you remember
+most about your recent
+training sessions?
+Did you feel like those in your
+microsystem have assisted
+you to explore areas of
+development throughout the
+last year/month?
+Did you feel supported and
+encouraged to explore how
+things were progressing
+relative to your goals,
+expectations, concerns, or
+questions? (Muir & North,
+2023)
+What did you learn most
+from the video analysis and
+feedback from the coach/
+support staff?
+How did you feel about
+the change in relationship
+dynamics with those in your
+microsystem?
+Can you tell me more
+about any of these key
+areas?
+Summary
+Thinking of competition and
+training combined, what did
+you like/dislike most about
+you the last year/month?
+Of all the areas we have
+discussed, which one is the
+most important to you?
+Is there anything else you
+would like to add?
+To what extent has your
+involvement in this program
+changed your development
+pathway? Specifically consider
+the environment.
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2024 Kylie Moulds
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms
+CONCLUSION
+Key recommendations from this article are for coaches
+and organisations to specifically implement behaviours,
+communication strategies, values and conduct aligned to a
+bioecological approach. Emphasising the importance of coach
+relational skills, based on the ‘nested-level’ environment can
+shape player behavioural responses and outcomes. Developing
+a robust understanding of potential bioecological disruptors
+throughout various levels of the player development process
+is important, for example:
+Microsystem level
+•	 Coaches to invest in coach developers to assist with
+self-reflection and further assessment of bioecological
+environments.
+•	 Coaches to invest in player/parent relationship building
+sessions.
+•	 Coaches to be aware of distal processes that can
+influence an individual player’s microsystem.
+•	 Coaches should also consider the value of including (or
+not) other critical stakeholders (e.g., support staff and
+practitioners, significant others) in the direct microclimate immediately surrounding the developing player.
+Mesosystem level
+•	 Clubs and academies to facilitate/regulate coach
+education and development.
+Exosystem level
+•	 Clubs, academies, national organisations to consider
+embedding social science researchers to understand
+how microsystem level influencers are enabled by outer
+layer processes.
+Macrosystem level
+•	 National organisations to align researchers, coach
+education and coach developers by changing incentives,
+rewards and recognition of coaches through sustained
+player outcomes rather than early-age performance.
+•	 Consider differences in cultural and socioeconomic
+characteristics
+between
+countries
+which
+can
+be
+expressed in terms national events, training facilities/
+surfaces, providing unique environments and conditions
+for player and coach development.
+CONFLICT OF INTEREST AND FUNDING
+There was no financial assistance associated with this study.
+The author reports no perceived conflict of interest.
+RERERENCES
+Appleton, P. R., & Duda, J. L. (2016). Examining the interactive effects of coachcreated empowering and disempowering climate dimensions on players’
+health and functioning. Psychology of sport and exercise, 26, 61-70.
+Balish, S., & Côté, J. (2014). The influence of community on athletic development:
+An integrated case study. Qualitative Research in Sport, Exercise and
+Health, 6(1), 98-120.
+Bronfenbrenner, U. (1979). The ecology of human development: experiments
+by nature and design. Cambridge, MA: Harvard University Press.
+Bronfenbrenner, U. (1988). Interacting systems in human development.
+Research paradigms: present and future. In N. Bolger., A. Caspi., G.
+Downey., & M. Moorehouse. (Eds.), Persons in contexts: developmental
+processes (pp. 25-49). Cambridge, UK: Cambridge University Press.
+Bronfenbrenner, U. (2005). The Bioecological Theory of Human Development.
+In U. Bronfenbrenner (Ed.), Making human beings human: bioecological
+perspectives of human development. Thousand Oaks, California: Sage
+Publications.
+Duda, J. L. (2005). Motivation in Sport: The Relevance of Competence and
+Achievement Goals. In A. J. Elliot & C. S. Dweck (Eds.), Handbook of
+competence and motivation (pp. 318–335). Guilford Publications.
+ICCE (2014). International Council for Coaching Excellence Association
+of Summer Olympic International Federations Leeds Metropolitan
+University International Coach Developer Framework Version 1.1.
+Available from: https://www.icce.ws/_assets/files/documents/PC_ICDF_
+Booklet_Amended%20Sept%2014.pdf
+Jayanthi, N. A., Post, E. G., Laury, T. C., & Fabricant, P. D. (2019). Health
+consequences of youth sport specialization. Journal of athletic training,
+54(10), 1040-1049.
+Larsen, C. H., Alfermann, D., Henriksen, K., & Christensen, M. K. (2013).
+Successful talent development in soccer: The characteristics of the
+environment. Sport, Exercise, and Performance Psychology, 2(3), 190.
+Lewin, K. (1936). A dynamic theory of personality. The Journal of Nervous and
+Mental Disease, 85(5), 612–613. https://doi.org/10.1097/00005053193611000-00051
+Malina, R. M. (2010). Early sport specialization: roots, effectiveness, risks.
+Current sports medicine reports, 9(6), 364-371.
+Muir, B., & North, J. (2023). Supporting coaches to learn through and from
+their everyday experiences: A 1: 1 coach development workflow for
+performance sport. International Sport Coaching Journal, 11(2), 288-297.
+Güllich, A., Barth, M., Macnamara, B. N., & Hambrick, D. Z. (2023). Quantifying
+the extent to which successful juniors and successful seniors are two
+disparate populations: a systematic review and synthesis of findings.
+Sports Medicine, 53(6), 1201-1217.
+Moulds, K., Abbott, S., Pion, J., Brophy‐Williams, C., Heathcote, M., & Cobley,
+S. (2020). Sink or swim? A survival analysis of sport dropout in Australian
+youth swimmers. Scandinavian journal of medicine & science in sports,
+30(11), 2222-2233.
+Moulds, K., Fraser, K. K., Karp, J., Kapocius, O., Heathcote, M., Appleton, P. R., &
+Cobley, S. (2023). Coach-created motivational climate ratings differentiate
+between dropout and continuation in Australian youth swimming.
+International Journal of Sports Science & Coaching, 18(5), 1395-1404.
+Moulds,  K.  (2023).  Investigating  child  and  adolescent  sport  dropout  from  a
+bio-ecological  perspective  in  Australian  swimming:  How  important  is
+the  coaching  climate?  (doctoral  dissertation).  The  University  of  Sydney,
+Australia
+Moulds, K. (2023). How important is the coach-created motivational climate
+on player longevity?. ITF Coaching & Sport Science Review, 32(91), 51-54.
+Tennis Australia (2024). Welcome to the Player development Matrix. Retrieved
+from matrix.tennis.com.au

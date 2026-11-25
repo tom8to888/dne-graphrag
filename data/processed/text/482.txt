@@ -1,0 +1,179 @@
+Title: The Use of Technology for a Technical Analysis in Tennis - A Tribute to Gilles de Kermadec
+Authors: Caroline Martin, Bernard Pestre, Jean-Michel Peter
+Year: 2014
+Issue: Vol. 22 No. 62 (2014)
+Article id: 482
+
+www.itfcoachingreview.com
+April 2014. 22nd Year. Issue 62. 22-24
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i62.482
+
+The use of technology for a technical analysis
+in tennis - A tribute to Gilles de Kermadec.
+Caroline Martin, Bernard Pestre & Jean-Michel Peter.
+The Ecole Normale Supérieure de Rennes, France.
+ABSTRACT
+
+The storage capacity of a growing number of data and images, the ability to
+capture 1000 frames per second and the improved speed of editing mark a new
+stage in the technical analysis of sporting actions. Today, just type the word
+“tennis” in any search engine and browse the Internet to see the many results.
+Due to this, it seemed useful to us to have three tennis experts; a historian, a
+researcher in biomechanics and a National Technical Director, to reflect on the
+impact of technology in the development of technical analysis and teaching.
+
+Key words: Technique, Technology,
+Anthropology,
+Biomechanics,
+Education.
+Received: 7 January 2014.
+Acepted: 23 February 2014.
+Corresponding
+author:
+Caroline
+Martin,
+The
+Ecole
+Normale
+Supérieure de Rennes, France.
+Email: bpestre@fft.fr
+
+A CENTURY OF TECHNOLOGICAL INNOVATIONS
+In the origins of the modern game, late nineteenth century,
+tennis champions could have easily avoided coaches and
+"coaches" were often considered as self-taught. At the
+beginning of the twentieth century, the invention of
+photography and Chronography transformed the way the act
+of playing tennis was represented. One early was of presenting
+the movements, experimented by Marey and Muybridge
+Demeny in 1882 and in 1887, was decomposing multiple
+sequences that could overlap and join each other. This allows
+using wide shots or angles of differing viewpoints, to isolate
+the details in order to better understand the effective
+movement of the top players (Beldam & Vaile 1905 Vaile, 1906;
+Paret, 1926, Lacoste, 1928).
+
+Figure 1. Plaque 294, electrophotographic phases in Animal
+Locomotion, Muybridge, 1887.
+
+Figure 2. Kinograma from Tilden, Tennis, René Lacoste, 1928.
+
+This is the same path that Gilles de Kermadec undertook from
+1953 to 1998 as his “technical studies" appeared in ´Tennis de
+France´. This allows one to initially decompose the mechanical
+development of action image to image. Then gradually with
+these increasingly accurate cinematic procedures, it is possible
+to modify their technical analysis.
+Thus, in 1956, with the service of Lewis Hoad, Gilles de
+Kermadec classically decomposed the act into six phases: Start,
+preparation, loop rotation, pause, impact, and arrows to
+analyze the path made by the racket. In the 60s, with the use
+of more sophisticated cameras, 25 fps, a better definition of
+the images was achieved and allowed the use of "zoom" to one
+or another area of the body in the service, which facilitates the
+decomposition of the forces involved in the "perfection of the
+act" (Kermadec, 1965).
+In 1973, the first investigations of electronic image analysis
+with the invention of the VCR appeared but as Gilles de
+Kermadec stated, "It will take several years yet before it can be
+affordable to all and to all the clubs.” One would have to wait
+for the beginning of 80s to have the first images of
+
+biomechanic modeling studies obtained by computer
+calculations (Durey & Kermadec, 1984). "This is a long term
+project in which the computer participates ... the project will
+observe a single shot not only from front and side but also
+from above ... Meanwhile we will only have subjective
+approaches of the image that each player is performing
+..."(Kermadec, 1986). From the 90s, the service action was
+analysed more commonly as a result of a cinematic chain with
+the summation of the different muscle groups starting from
+the feet to the final impact with forearm supination.
+At the beginning of the third millennium we have definitely
+moved from a purely mechanical conception of the stroke to a
+biomechanical analysis (Solves, 2006; Elliot Reid & Crespo,
+2006). In short, parallel to technological innovations in image
+processing, we observed a change in the perspective in the
+technical design of the movement.
+
+Figure 3. Extract from Technicorama of Goran Ivasenevic by Gilles
+de Kermadec, ´Tennis de France´ 460-92, 1991.
+
+CURRENT RESEARCH IN BIOMECHANICAL INVESTIGATION
+Today optoelectronic systems are used, consisting of infrared
+cameras to capture a very high frequency (300 frames/s) and
+three- dimensional movements of the service of the players.
+The motion capture laboratory enables a biomechanical
+analysis by calculating the kinematic and dynamic variables
+relating to performance optimization and the understanding
+of the mechanisms in joint injuries. Along with measuring
+devices and analysis of muscle activity by EMG, combining
+these techniques allow observation and measurement from
+images to obtain additional data on muscle activity. They have
+the advantage of being able to eventually access efforts and
+"internal" system limitations and, therefore, investigate the
+parallel performance factors and also what is new and
+interesting in reference to the potential risk in injury. The
+timing of the rotation is best observed during the action of the
+serve, increasing the speed of the ball increases, and limitation
+of joint constraints experienced by the upper member (Martin,
+2013). The investigations go even further to analyze the
+biomechanics of the serve from motion capture without
+placing body markers on the player (Sheets et al., 2011).
+
+Figure 4. The markerless motion capture: Images of a player
+performing a serve. A) Video image. B) Reproduced model.C)
+Partial rendering 3D Player. D) Final 3D image taken from
+Abrams et al. (2012).
+
+IMPLICATIONS FOR EDUCATION AND TRAINING
+Today the problem is to provide for the coaches who favour
+scientific information dissemination. On the other hand, the
+educational philosophy developed by Gilles de Kermadec is
+more important than ever before, "look at the champions play,
+and try to identify common ground to establish the
+foundations of teaching tennis." The still photos and text
+captions are obvious to all and you do not need to be a
+ballistics expert to realize that the Nadal racket is facing the
+back fence of the court at the end of the preparation on his
+forehand.
+One option to encourage knowledge sharing is to emphasize
+the relationship between laboratories engaged in sports
+science and the training services of the Federations. In France,
+there are currently research agreements with Nicolas
+Benguigui in Orsay, Caroline Martin in the ENS CachanBretagne, with sports science laboratories of Caen, Poitiers &
+Lyon that led to publications in the Journal for coaches (Martin,
+2012).
+A second alternative is to mutualise data and encourage
+exchanges of information, not only with investigations but also
+to be interactive - critically - through various forms of remote
+experimentation. Indeed, ease of access to transmission of
+data over the Internet allows for discussion between the
+different stakeholders, track the performance of technical
+evolution thanks to the possibility of putting the videos online.
+Evolving, these collaborative platforms are undoubtedly a tool
+with a promising future and a valuable tool for the planification
+of coaches (Tennis Info, 2013).
+CONCLUSION
+Finally, the history of technology teaches us the importance of
+not only preparing future coaches to use these devices, but to
+learn how to be able to question their knowledge as new
+research (Pestre, 2009). The concept that we have of the
+
+training or education can be excellent in a given era but
+become obsolete some decades later. Facilitating the
+exchange between theoretical knowledge and practical
+experience will be a necessary competence for future coaches.
+Ultimately, the history of technology in the analysis of sports
+movement reveals not only the inventory of actions considered
+for effective performance at a particular time, but motivates us
+to be attentive to technology from an epistemological
+perspective and critique. What really matters is not the
+information obtained by research laboratories, but the
+interpretation of the truly useful and relevant information that
+can be applied to training and competition. This article is
+dedicated to the memory of Gilles de Kermadec who has
+managed to pass on to many generations of players and
+coaches the importance of image for understanding the
+technique of the tennis player.

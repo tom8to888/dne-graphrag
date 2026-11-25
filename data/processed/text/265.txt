@@ -1,0 +1,192 @@
+Title: The effect of a variable practice on tennis groundstroke learning of adult beginners
+Authors: Sahan A., Erman KA., Ertekin E.
+Year: 2018
+Issue: Vol. 26 No. 74 (2018)
+Article id: 265
+
+www.itfcoachingreview.com
+April 2018. 26th Year. Issue 74. 18 -21
+ISSN 2225-4757
+https://doi.org/0.52383/itfcoaching.v26i74.265
+
+The effect of a variable practice on tennis
+groundstroke learning of adult beginners
+Sahan A., Erman KA., Ertekin E.
+University of the Mediterranean, Turkey
+ABSTRACT
+
+The aim of study is to determine the effect of a variable practices method on
+groundstroke performance in tennis. Twentytwo beginner university students
+participated in the study voluntarily (age:22±3,4). The subjects were randomly
+assigned to each of the two groups: Constant Group (N=11) and Varied Group
+(N=11). The Constant Group practiced serve, volley and flat groundstrokes in
+each training session. The Varied Group practiced serve, volley and flat
+groundstrokes together with topspin and slice groundstrokes in each training
+session. Sessions were scheduled for two hours two days a week with a total
+of eleven weeks of training. A Tennis Skill Test (TST) was applied to all subjects
+with pre-tests and post-tests. Results showed that a variable teaching
+methodology in groundstrokes may have increased the ability of beginner and
+intermediate players to learn variations of groundstrokes more than the
+constant practice.
+
+Key words: variable practice,
+constant practice, contextual
+interference, tennis.
+Received: 17 Dec 2017
+Acepted: 20 feb 2018
+Corresponding author: Sahan
+A., University of the
+Mediterranean, Turkey.
+Email:
+asusahan@akdeniz.edu.tr
+
+INTRODUCTION
+Players use many different methods to learn a new skill. When
+the degree of difficulty and interferences from other skills
+increase, the ability to learn also increases. Determining which
+method facilitates learning is an important issue for players
+(Maslovat, Chua, Lee, and Franks, 2004). Optimal training
+techniques and training programmes have significant impact
+on the teaching of motor skills (Dadkhah, Shojaei, and
+Farhadizad, 2013).
+
+One of the training methods that facilitate skill learning is
+variable practice. In general, the skills in the variable practice
+conditions are learned by changing some aspects of the task
+such as, for instance: the distance, the speed and the direction
+of the shot. Practicing in similar conditions to the ones during
+the competition will also affect positively the performance
+(Williams, and Hodges, 2005). In this method, the skills should
+not be practiced in a repeated sequence. In variable practice
+conditions, each trial should be different from the previous and
+the next ones. Research has shown that variable practice
+methodology could improve skill acquisition and performance
+in open skill sports such as tennis (Davis, Kimmet, and Auty,
+1986).
+
+Variable practice conditions are based on two hypotheses.
+According to Schmidt’s variability hypothesis (Schmidt, 1991)
+the conditions designed under various situations provide more
+flexible applications in the learner. It is thus recommended that
+variable practices should use unpredicted environmental
+conditions or open skills. When using variable condition
+practices in open skill tasks such as tennis, the players should
+face all possible solutions for a given task. Variable practice
+conditions can have various effects according to the level of
+difficulty of the tasks given (Moreno and Ordoño, 2015). Some
+studies conclude that variable practice conditions led to less
+performance during the acquisition stage of the skill but to an
+increase in learning during the memory and the transfer stages
+(Douvis, 2005). Permanent changes are important goals for
+teaching and learning situations and it has been concluded that
+variable practice conditions produced more permanent
+changes than those under constant practices (Memmert, 2006).
+
+The second hypothesis in variable condition practices is the
+Contextual Interference Effect (Shea and Morgan,1979; see also
+Magill and Hall, 1990), which suggests that contextua
+
+interference would be more effective by increasing in the
+amount of the task to be learnt and would improve the learning
+process (Hall and Magill, 1995).
+
+Variable condition practices are important in tennis because
+every stroke is different from the previous one. Tennis is a sport
+in which there are many unpredictable situations. Many
+variables such as unpredictable tactics, shot selection, strategy,
+competition/match conditions, and weather conditions affect
+the complexity of our sport (Schmidt and Wrisberg, 2004).
+
+There are three main spin variations in tennis groundstrokes:
+flat, topspin and slice. Classically, flat stroke technique is
+considered as the basic stroke technique and it is the one
+taught in the initial stages of learning. Topspin and slice stroke
+techniques are the variations of the flat stroke technique and
+they are taught in later stages (ACEP, 2002; Höhm, 1997). The
+aim of the study is to determine how a variable practice
+method will affect groundstroke performance in tennis by
+teaching the three spin variations of the groundstroke at the
+same time.
+
+MATERIALS AND METHODS
+Subjects
+A total of 22 university students participated in the study
+voluntarily. The subjects were randomly divided into two
+groups (n=11 in each group) and they were instructed using
+two different tennis coaching methods. One group (21.62±1.54
+years) was taught the groundstrokes using a constant practice
+(CG) method. Another group (21.80±2.07 years) was taught the
+groundstrokes using a variable practice method (VG). None of
+these subjects have had a tennis experience before.
+
+Application
+All participants were given detailed information about the
+study at the start. After the same tennis training program was
+applied to both groups for two weeks (coordination training
+and flat groundstroke technique), at the end of a 8-hour tennis
+training, a Tennis Skill Test (TST) was applied as a pre-test.
+Tennis training was given to the participants in both groups for
+11 weeks (two hours in two weeks). At the end of 44-hour
+tennis training in total, TST was applied as post-test again. Main
+strokes (groundstrokes, volley, serve) were taught to both
+groups in the study. However, while only the flat groundstroke
+was taught to the CG group; flat, topspin and slice
+groundstrokes were taught in each training session to the VG
+group.
+
+Tennis Skill Test (TST)
+
+The coach alternately feeds 11 balls to both the left and right
+sides of the player. The player should try to direct the ball
+above a rope located 1.5 m over the net to the area with the
+highest score (2 points). A ball bouncing into the service boxes
+counts 1 point. Balls at the net count as 0 points. 22 is the
+maximum score per trial. The percentage point of 11-stroke
+trial was calculated by the formula “taken point/22x100” and
+the best one of three trials was recorded. All the participants
+rested for 3 minutes after each 11-ball trial breaks.
+
+Statistics Analysis
+Shapiro-Wilk Normalization test was performed to pre-test and
+post-test parameters of each group and showed normal
+distribution (pre-test p=0.97; post-test p=0.16). Paired t test
+was used to evaluated of the difference between pre-test and
+post-tests and independent t test was used to compare two
+groups in pre-tests and post-tests.
+
+RESULTS
+Average lengths of the participants were determined to be
+(174±44 cm), average weights to be (55±10.3 kg), and average
+ages to be (22±3,4 year).
+
+DISCUSSION
+We investigated the effects of the variable practice conditions
+on tennis groundstroke performance. In this study the
+variability was ensured by working on different variations of the
+stroke.
+
+In a study performed on the acquisition of a basketball skill, the
+performances of shooting the ball of both groups as constant
+and variable practices were evaluated. Learning and transfer
+(by changing the stroke distance and ball size) performances
+were evaluated before and after the sessions. It was found that
+skill retention performances of the constant practice group
+gave better results than the random practice group (Memmert,
+2006). In a study investigating variable applications of football
+on long distance shoot performance, the accuracy of shooting
+the ball of the variable practice was found to be better in both
+post-test and the retention tests than the constant practice
+group (Yamamoto, 2004). In another study performed to detect
+the effects of alternative approaches on the learning of tennis,
+two different groups were used one using a constant practice
+method and another one a varied practice method. In this
+study, variability of the forehand and backhand strokes was
+ensured by alternating each stroke. It was concluded that the
+varied practice group showed greater increase in their
+performance than the constant practice group (García,
+Menayo, Sánchez, 2017).
+
+In our study, we conclude that during the learning of open
+sports such as tennis, which include complex tasks and require
+high level of performance, variable practices increase
+performance more than constant practices.

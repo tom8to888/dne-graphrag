@@ -1,0 +1,759 @@
+Title: Examining the Potential of Modified Tennis for Adult Beginner Players
+Authors: Jennifer Roth, Sanghoon Kim
+Year: 2025
+Issue: Vol. 33 No. 95 (2025)
+Article id: 659
+
+INTRODUCTION
+Modified Tennis
+Modified tennis has been shown to have a positive impact on
+youth participants skill acquisition and engagement (Buszard
+et al., 2020). This approach is rooted in a constraints-led
+approach, which emphasizes the adaptation of individual (athlete
+characteristics), environmental (playing conditions), and task
+(rules, equipment, playing area)-related constraints to facilitate
+learning and skill development through game-like situations. Task
+constraints are the simplest to adapt as they can be changed
+quickly and deliberately by the coach in the practice setting.
+Task constraints can increase or decrease the complexity of
+skills through changes made to equipment, rules, and playing
+area to meet the developmental needs and skill levels of the
+athletes (Hill & Green, 2008). The foundation of the constraintsled approach is non-linear pedagogy or the belief that learning
+is dynamic and content-dependent. Therefore, the constraintsled approach utilizes game-based conditions where athletes
+learn through the dynamic interaction between task, individual,
+and environmental constraints. Less emphasis is put on direct
+instruction and coaches provide feedback to reinforce skill
+learning during gameplay. These types of modifications not only
+make sport more accessible but also enhance skill development
+and enjoyment, leading to increased motivation and long-term
+participation (Buszard et al., 2020). Research in modified youth
+sports has established many benefits for players, however limited
+research has been conducted with the adult population.
+Modified Tennis for Adults
+While the benefits of modified tennis equipment and a gamesbased approach to learning used within the constraints-led
+www.itfcoachingreview.com
+April 2025. 33th Year. Issue 95. 15-20
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i95.659
+Examining the Potential of Modified Tennis for
+Adult Beginner Players
+Jennifer Roth & Sanghoon Kim
+Michigan State University, USA.
+COACHING & SPORT
+SCIENCE REVIEW
+ABSTRACT
+Modified tennis for youth has been shown to promote both enjoyment and skill
+development for participants (Buszard et al., 2020). However, the role of modified
+tennis for adults is not as clear in terms of equipment and curricular focus. The potential
+of modified tennis for beginner adult tennis players is important to explore with the
+recent growth of pickleball. This study investigated the outcomes and experiences of
+adult beginner players who participated in a modified tennis and pickleball program.
+Results showed that participants preferred the red felt tennis ball and 23-inch rackets
+in modified tennis. Participants had a higher rate of perceived competence for modified
+tennis than pickleball. While not significant, participants reported marginally higher
+levels of enjoyment, commitment, socialization, and behavioral intention in pickleball.
+These results suggested that novices in racket sports may have comparable experiences
+in modified tennis and pickleball. This study provides valuable insights and suggestions
+for modified tennis programming for adults.
+Key words: Modified tennis,
+adults, pickleball.
+Received: 28 August 2024
+Accepted: 17 February 2025
+Corresponding author: Jennifer
+Roth, nalepaje@msu.edu
+approach have been evidenced as beneficial for youth players,
+such as better skill development and enhanced enjoyment
+(Buszard et al., 2020), there is little research on the potential
+benefits for adult beginner tennis players. Although various
+modified versions of tennis have been developed over the last
+few years, such as Touch Tennis in the UK, there is a lack of
+empirical studies examining the outcomes and benefits for adult
+beginners and identifying the most suitable modifications for this
+demographic. One study examined the effects of using lowercompressed tennis balls on various player outcomes, such as
+perceived exertion, enjoyment, mood states, and mental effort,
+as well as match characteristics like average strokes per match
+and strokes per rally. The findings showed that adult players
+who used lower-compressed balls experienced longer rallies,
+enhanced mood, reduced perceived exertion, greater enjoyment,
+and increased time spent on strokes (Kilit et al., 2024).
+There is also a lack of research on the impact of a games-based
+approach to learning for adult beginner tennis players. Tacticalgame centered approaches in sports utilize games as the primary
+context for players to acquire tactical, technical, and strategic
+skills through problem-solving (Alaoui et al, 2018). This approach
+contrasts with the traditional method of teaching tennis, which
+relies on a technical approach that emphasizes skill drill practice
+focused on the replication and repetition of specific techniques.
+Research with youth players has shown improvements in both
+skill performance and tactical understanding of the sport, as
+well as higher levels of fun and enjoyment (Alaoui et al., 2018).
+With adult participants, one study by Hublin et al. (2021) found
+that players who learned through a games-based approach
+showed significantly higher precision in cross-court forehands,
+better balance during strokes, and a higher perceived forehand
+performance compared to those taught using traditional methods.
+However, this study utilized standard tennis equipment. To date,
+no research has explored the combined effects of using both
+modified tennis equipment and a games-based approach for
+adult beginner players.
+Market Trends and Competitive Forces in Racket Sports
+The global racket sports market is expanding rapidly, led by
+traditional sports like tennis and badminton, with the notable
+rise of pickleball. Each sport appeals to different regions and
+consumer segments. This growth is driven by increased health
+awareness, better accessibility, and broad appeal across age
+groups, signaling continued market expansion.
+Pickleball's recent growth has been particularly notable,
+especially in the United States, where its popularity among adult
+beginner tennis players is of increasing interest. Recognized as
+one of the fastest-growing sports in the country, pickleball has
+seen participation from 36.5 million people in the past year,
+with approximately 8.9 million core players, according to USA
+Pickleball and the Sports and Fitness Industry Association (SFIA,
+2023). Additionally, around 130 new pickleball locations are
+being established monthly across the U.S., with the 18–34 age
+group representing the largest demographic of players.
+Pickleball shares some similarities with tennis, such as using a
+court, net, and a similar game objective, but it differs by utilizing
+a paddle, a wiffleball, and minimal overhead swing patterns.
+Compared to other racket sports, pickleball is increasingly
+popular among adults due to its smaller court, slower ball, and
+predominance of underhand strokes, which reduce strain on the
+elbow and shoulder. It also offers accessible exercise with lower
+injury risk and fosters social interaction through its competitive
+nature, which players can quickly engage in after learning
+(Stroesser et al., 2024). In contrast, tennis requires more complex
+movement and stroke patterns, is played with a heavier, faster
+ball on a larger court, and has a steeper learning curve, which can
+reduce social engagement opportunities for beginners.
+Tennis faces the challenge of becoming more accessible, much
+like pickleball, by lowering entry barriers for prospective players
+and enhancing the overall enjoyment of the sport and its training
+process. This approach is essential for tennis to maintain its
+competitive advantage in the racket sports industry. One potential
+option is to offer a modified version of tennis to adult beginner
+tennis players that utilizes modified equipment to promote
+skill learning and enjoyment. Thus, this study investigated the
+outcomes and experiences of adult beginners who participated
+in modified tennis and pickleball programs. Specifically, this study
+compared participants' perceptions and experiences of modified
+tennis (i.e., ball type, racket size, and course size) as well as
+those between modified tennis and pickleball, using enjoyment,
+commitment, perceived exertion, competence, socialization,
+perceived fit with traditional tennis, and behavioral intention.
+Purpose
+This study aimed to understand the outcomes and experiences of
+adult beginners who completed a 6–8-week racket sport course
+featuring both tennis and pickleball. It specifically compared
+participants' perceptions and experiences of modified tennis
+(informed by a constraints-led approach) with those of pickleball,
+focusing on enjoyment, commitment, perceived exertion,
+competence, socialization, perceived fit with traditional tennis,
+and behavioral intention.
+METHODS
+Participants
+Participants were recruited from three different locations in the
+United States through targeted advertisements on social media
+platforms and facility websites. To ensure sample homogeneity, a
+screening process was implemented, incorporating both a survey
+questionnaire and consultations with facility administrators.
+Only individuals with less than one year of experience in tennis
+and pickleball were eligible to participate in the study. As a result,
+a total of 153 adult players were eligible and participated in this
+study. Of these, 92 participants completed all required sessions
+and surveys.  Participants were mostly aged 18-24 (30.4%) and
+35-44 (21.7%), with 59 females and 33 males. The majority of
+participants identified as Caucasian or White (44.6%), followed
+by Hispanic and Latino (22.8%) and Asian (16.3%) ethnicities. The
+researchers identified survey participants interested in joining a
+focus group and subsequently conducted focus group interviews
+with 24 of them (10 males, 14 females, age range: 20-74 years).
+Measures
+This study employed a mixed-methods approach, incorporating
+both quantitative and qualitative approaches. The surveys
+assessed enjoyment and commitment (enthusiasm) using
+constructs from the Sport Commitment Questionnaire-2 (SCQ-2;
+Scanlan et al., 2016). Perceived exertion was evaluated with the
+Borg RPE Scale, which asks participants to rate the intensity of
+their effort on a scale from 6 to 20, where 9 indicates "extremely
+light" and 20 represents "maximal exertion" (Williams et al.,
+2017). Perceived competence was measured using the Perceived
+Competence subscale of the Intrinsic Motivation Inventory (IMI;
+McAuley et al., 1989). Social connectedness was assessed using
+items adapted from Lee and Robbins (1995). Behavioral intention
+was evaluated by combining items from Till and Busier (2000)
+and Zeithaml et al. (1996).
+The initial focus group interview questions were developed
+by subject matter experts and researchers to align with the
+study's purpose and were subsequently refined based on survey
+findings. Further adjustments were made to the questions to
+capture more nuanced participant perspectives that could not
+be fully explored through the quantitative approach. During the
+interviews, the researchers conducted follow-up questions as
+needed in response to specific questions or answers.
+Programs and Procedure
+The programs were provided in three locations in the United
+States resulting in seven classes. To enhance validity and minimize
+potential biases, each class followed a structured 6–8-week
+curriculum, with an equal distribution of 3-4 tennis sessions
+and 3-4 pickleball sessions. To standardized practice time, each
+session was set at approximately 50 minutes. The tennis sessions
+incorporated controlled variations in instructional conditions,
+including ball type (foam vs. felt tennis ball), court size (44’ vs.
+42’), the inclusion of the kitchen line rule, and the player-to-coach
+ratio, which was maintained within a narrow range to ensure
+lower than those in the pre-test, which is statistically significant.
+For racket size, a statistically significant increase in competence
+and behavioral intention was found with the 23-inch racket, while
+the 25-inch racket showed a significant increase in satisfaction and
+competence.
+Table 1
+Results of Wilcoxon Signed-Rank Tests for Pre- and Post-Experience with
+Ball and Racket Types.
+Table 2
+Results of the Comparison of Participants’ Experience Between Modified
+Tennis and Pickleball
+instructional consistency. Participants could choose between
+a 23” or 25” tennis racket, balancing equipment suitability
+with uniform instructional delivery. The pickleball sessions
+adhered to standard rules and equipment specifications across
+locations.
+The curriculum was developed by researchers, drawing on
+previous programs for adult beginner players and existing
+modified versions of tennis tailored for adults. To ensure
+instructional consistency, all coaches across locations were
+provided with a standardized curriculum, including game-based
+learning strategies, fundamental skill instruction (e.g., forehand
+and backhand), and match play using underhand serve and
+simplified scoring. Additionally, coaches received instructional
+guidelines to align their coaching methods with the study’s
+objectives, thereby minimizing potential discrepancies in
+coaching approaches and enhancing the validity of the study.
+After receiving approval from the Institutional Review Board,
+participants were recruited and enrolled in the programs at
+no cost, with each participant receiving a free tennis racket.
+They completed pre-, mid-, and post-surveys at the beginning,
+midpoint, and conclusion of the tennis and pickleball program,
+receiving a gift card for each completed survey. Additionally,
+participants who took part in a focus group were given an extra
+gift card as an incentive.
+Data Analysis
+For the quantitative data analysis, descriptive statistics were
+calculated for all participants, with items from each scale
+summed and then averaged per participant. Since normality
+was not met for some variables in the assumption test, the
+Wilcoxon Signed-Rank Test was used to assess differences in
+average scale scores across conditions, including ball types,
+racket sizes, and comparisons between modified tennis and
+pickleball, because normality was not met for some variables in
+the assumption test. All analyses were performed using SPSS
+statistical software.
+A hierarchical content analysis was conducted to identify
+common themes within the qualitative data (Miles et al., 2013).
+Both deductive and inductive approaches were used by two
+separate researchers, who convened at multiple stages of the
+analysis to reach consensus on emerging themes. Specifically,
+the researchers first created meaning units using an opencoding phenomenographic approach to the focus group
+transcripts. Then, meaning units for participants using the red
+felt ball (n = 11) were combined and the meaning units for those
+who played with the red foam ball (n = 13) were combined. An
+inductive approach was then used to create categories based
+on meaning units, which were then deductively placed in
+higher-order themes based on the research questions. At each
+stage of this analysis, the researchers met to reach consensus
+before progressing to the next phase of data analysis.
+RESULTS
+Quantitative Results
+Differences between ball and racket types
+Table 1 presents a comparison of participants’ experiences
+based on ball and racket sizes. For ball type, a statistically
+significant increase was found in the mean scores between
+pre- and post-class for the felt ball across several constructs,
+including satisfaction, enjoyment, competence, and behavioral
+intention, with higher scores reported after the course. In
+contrast, no statistically significant differences were found in
+the mean scores for the foam ball across the constructs, except
+for competence. Commitment scores in the post-test were
+Felt ball
+Foam ball
+Variable
+Pretest
+M
+Posttest
+M
+z
+p
+Pretest
+M
+Posttest
+M
+z
+p
+Satisfaction
+4.87
+5.72
+-4.43
+.001**
+5.26
+5.29
+-.63
+.52
+Enjoyment
+5.34
+5.70
+-2.17
+.02*
+5.61
+5.59
+-.31
+.76
+Competence
+4.15
+4.78
+-3.48
+.001**
+4.27
+4.37
+-2.13
+.03*
+Perceived fit
+4.98
+5.23
+-.99
+.227
+5.23
+5.31
+-.56
+.57
+Commitment
+4.00
+4.22
+-1.61
+.09
+4.67
+4.09
+-2.66
+.01*
+Socialization
+5.01
+5.14
+-.99
+.21
+5.03
+5.02
+-.17
+.86
+Behavioral
+intention
+4.63
+5.40
+-2.78
+.01*
+5.06
+5.17
+-.96
+.33
+** p < .001, *p < .05.
+
+23-inch racket
+
+25-inch racket
+Variable
+Pretest
+M
+Posttest
+M
+z
+p
+
+Pretest
+M
+Posttest
+M
+z
+p
+Satisfaction
+5.22
+5.60
+-1.78
+.07
+
+5.03
+5.70
+-3.18
+.001**
+Enjoyment
+5.60
+5.73
+-1.85
+.06
+
+5.31
+5.57
+-1.01
+.31
+Competence
+4.14
+4.47
+-2.12
+.03*
+4.27
+4.73
+-3.52
+.001**
+Perceived fit
+5.12
+5.32
+-1.08
+.27
+
+5.05
+5.22
+-.74
+.45
+Commitment
+4.50
+4.34
+-.02
+.97
+
+4.10
+3.99
+-.84
+.39
+Socialization
+5.02
+5.03
+-.34
+.72
+
+5.01
+5.14
+-.62
+.53
+Behavioral
+intention
+4.86
+5.36
+-2.51
+.01*
+4.78
+5.24
+-1.53
+.12
+Differences between modified tennis and pickleball
+Table 2 shows a comparison of participants’ experiences with
+modified tennis and pickleball. Participants reported greater
+enjoyment with pickleball, although this difference was not
+statistically significant. Regarding competence, higher scores were
+reported for the modified tennis, but this difference was also
+not statistically significant. However, in terms of commitment,
+participants gave significantly higher scores to pickleball,
+indicating a statistically significant difference. For socialization,
+participants also reported higher scores for pickleball, but this
+was not statistically significant. However, participants perceived
+the modified tennis as a better fit with traditional tennis, and
+this difference was statistically significant. Finally, participants
+reported higher scores for pickleball in behavioral intention, but the
+difference was not statistically significant.
+
+Modified tennis vs. Pickleball
+Variable
+Modified Tennis M
+Pickleball M
+z
+p
+Enjoyment
+5.66
+5.94
+-4.83
+.14
+Competence
+4.54
+4.50
+.87
+.76
+Perceived fit
+5.30
+4.82
+-3.68
+.001**
+Commitment
+4.20
+4.73
+-1.96
+.04*
+Socialization
+5.11
+5.36
+-1.47
+.11
+Behavioral intention
+5.28
+5.65
+-1.65
+.09
+** p < .001, *p < .05.
+Qualitative Results
+Six themes emerged from the qualitative data analysis including
+the player experience, equipment/format, Modified Tennis vs.
+Pickleball, Modified Tennis vs. traditional tennis, future participation
+intention, and recommendations for future programming.
+Player experience
+Many of the participants directly (n = 16) mentioned enjoying
+the overall experience of playing both sports in the pilot
+programming. Participants felt the social aspect of the classes
+was one of the most enjoyable aspects, noting they enjoyed
+playing with different players throughout the class and meeting
+new people (n = 11). They also discussed liking the modified
+tennis equipment that was used in the class, citing the ball
+as easy to control, little movement required, and that it felt
+appropriate for beginner players (n = 8). Participant 10 made this
+clear when they said “I liked how it [the red ball] gave you, you
+know, instead of just the regular ball, I feel like the ease of it gave
+you a little more confidence when you just start learning. And I
+did like that.” However, there were some elements of modified
+tennis that participants did not enjoy such as having a range of
+skill levels in the class. For those with low skill ability, participants
+enjoyed playing higher skilled participants. However, the higher
+skilled participants did not enjoy playing with less skilled players.
+Equipment/format
+In terms of the modified tennis equipment used in the pilots,
+participants who played with the red felt tennis ball had more
+positive perceptions toward the equipment than participants who
+played with the foam tennis ball. For the red felt ball participants,
+most were unaware of racket size differences or had favorable
+opinions about both sizes (n = 9). This contrasts with those who
+played with the foam tennis ball as they saw the racket as a child
+or preferred a traditional sized racket. This was made clear by
+Participant 19 who said “And not that I'm an expert on tennis,
+but for me, personally, I feel if you're an adult, starting out with
+tennis, and you're gonna end up using the heavier, bigger racket,
+I feel like it just makes sense to start off with that.”
+Regarding the ball type, like the racket, there was a more positive
+perception of the ball for players who use the red felt ball. The
+felt ball was perceived as easy to control as it moved slowly
+and was effective at neutralizing skill levels (n=9). Participant 3
+explained this perception when they said “It was it felt softer and
+lighter. And because it did stay in the air longer, it gave me more
+time to react to set up my returns.” Only one player who played
+with the red felt ball mentioned perceiving the ball as a child ball.
+For the players using the red foam ball, there was a perception
+of the ball as a child tennis ball or beginner only tennis ball with
+some who mentioned that the felt ball would have been better to
+use (9). Participant 13 explained this perception when they said,
+“You know, even like, when my daughter trains, you know, she's
+nine years old, the ball that they use is even faster than that."
+When focusing on the format of Modified Tennis, participants
+had a positive perception of the scoring and believed it was easy
+to understand (n = 7). When asked about the kitchen rule, many
+players felt like it didn’t have a role in Modified Tennis or made
+it more complicated (n=8), while two participants believed it
+helped to neutralize skill differences.
+Modified tennis vs. pickleball
+Participants viewed pickleball as the more challenging sport of
+the two sports they played (n = 8). Participants cited difficulties
+hitting the ball in the intended sport and the pickleball scoring
+format as the challenges. Six participants directly mentioned
+liking Modified Tennis more as it was easy to learn and less
+complicated than pickleball. This was made clear by Participant
+14 who said “I liked like that you got to let the tennis ball bounce.
+Whereas in pickleball, you end up doing like a lot of the weird
+stuff when we're supposed to like run to the net and be really
+close. And so, I definitely liked the kind of like farther from the
+net aspect of the tennis.” Finally, two participants mentioned
+enjoying pickleball more due to the social aspect of the sport and
+the accessibility of playing. This was supported by Participant
+18 who said, “The perception of tennis is, you know, you have
+special clothes, and you know, and maybe that's appealing, but
+when you think about even the name pickleball it's just okay,
+we're just gonna go and have some fun.”
+Modified tennis vs. traditional tennis
+Participants in this study noted that playing traditional tennis
+provided a better workout than modified tennis (n=7). They cited
+that playing modified tennis was less intense, less exercise, and
+required less effort and energy than traditional tennis. However,
+participants felt that red ball tennis was easier to learn and play (n
+= 9) as it was easier to control the ball and have success quicker.
+Participant 11 described this difference when they said “But we
+were able to, a lot of the beginners I played with, it was easier
+to volley for a little while. Whereas, when I've played years ago
+with a regular yellow tennis ball, we didn't get that right away.
+So, it wasn't as fun, it was more just chasing the ball because we
+weren't able to volley as much.”
+Recommendations for modified tennis for adults
+Participants provided recommendations for future modified
+tennis classes that focused on one major theme. Participants
+recommended more skill instruction and skill development into
+the curriculum (n=13). While they enjoyed the game-based
+play, participants noted that some basic technical instruction
+on hitting the ball and movement patterns would have been
+helpful. This was evident by Participant 21 who said “And one
+of the things I did notice is that there were really no lessons on
+technique or anything like that. It was basically just these are
+the basic rules and here you go, which was fine. But I guess if I
+could add something to it would be just little bit of lessons on
+technique and hitting the ball and managing space on the court.”
+DISCUSSION
+This study aimed to understand the outcomes and experiences of
+adult beginners who completed a 6–8-week racket sport course
+featuring both modified tennis and pickleball. It specifically
+compared participants' perceptions and experiences of modified
+tennis (ball type, racket size, and court size) with those of
+pickleball, focusing on enjoyment, commitment, perceived
+exertion, competence, socialization, perceived fit with traditional
+tennis, and behavioral intention.
+Modified Tennis
+Ball type
+In modified tennis, felt balls generated greater effects and
+interest among participants than foam balls. Participants reported
+significantly higher levels of satisfaction and enjoyment when
+using the felt ball. It was also found that the felt ball increased
+participants' competence. Most importantly, participants who
+used the felt ball reported that they were more likely to continue
+participating in the future and spread positive word-of-mouth
+about the experience. Within the qualitative data, participants
+expressed more favorable perceptions of the felt ball than those
+who played with the foam ball. Specifically, individuals who used
+the foam ball were more likely to perceive it as a tool designed for
+children rather than an effective learning instrument for adults.
+These findings indicate that the felt ball can play a significant role
+in enhancing skill development and boosting confidence among
+participants. Its perceived alignment with traditional tennis may
+also help ease the transition for beginners, making the felt ball
+an effective tool for generating both enjoyment and competence
+in new players to tennis overall. Furthermore, the resemblance
+between modified tennis with the felt ball and traditional tennis
+could encourage sustained participation by providing a more
+accessible entry point for beginners, ultimately fostering their
+long-term enjoyment and commitment to the sport (Buszard et
+al., 2020).
+Racket size
+The quantitative results were somewhat mixed. Participants
+using the 23-inch racket reported increased competence and a
+stronger behavioral intention. In contrast, the 25-inch racket was
+associated with higher satisfaction and improved competence, but
+it did not appear to influence behavioral intention. Notably, there
+were no statistically significant differences in enjoyment across
+racket sizes, suggesting that while preferences exist, the overall
+impact on enjoyment may be minimal. These findings highlight
+the importance of carefully considering equipment selection in
+the design of instructional tennis programs, particularly for adult
+beginners. Like the ball type, the qualitative data showed that
+participants who used the foam tennis ball were more likely
+to perceive the rackets as children's equipment compared to
+those who used the felt tennis ball. This perception of modified
+equipment as being exclusively for children mirrors challenges
+encountered during the implementation of modified equipment
+in youth tennis, where parents often viewed the equipment as
+inferior to traditional “adult” gear and believed their children
+should use adult-sized equipment instead (Gould et al., 2016).
+However, more recent research on stakeholders' perceptions
+of modified tennis equipment for children has demonstrated a
+shift towards more positive views, recognizing the equipment as
+valuable for learning and development (Buszard et al., 2020). If
+modified equipment is consistently implemented for adults and
+efforts are made to establish it as part of the official adult tennis
+programs, these stereotypes may gradually diminish over time.
+A valuable finding from this study’s qualitative aim was the
+participants' recommendation for incorporating more skill
+development and instruction into the programming. Although
+match play and game-based activities were enjoyable,
+participants expressed a desire for more guidance on technique
+and movement from coaches. While games-based learning is an
+effective way to learn sport skills for youth, the balance between
+direct skill instruction and game-based learning must be further
+studied with adult beginners in tennis.
+Modified tennis and pickleball
+Although the differences were not statistically significant, the
+quantitative data showed that participants reported marginally
+higher levels of enjoyment, commitment, socialization, and
+behavioral intention when engaging in pickleball. Conversely,
+players reported a greater sense of a better perceived alignment
+with traditional tennis when participating in modified tennis.
+The qualitative findings corroborate the quantitative data, as
+participants highlighted the relative ease of learning modified
+tennis, attributed to the slower pace of the tennis ball and the
+more straightforward rules compared to pickleball. These results
+suggest that novices in racket sports may have comparable
+experiences in modified tennis and pickleball. Through the
+qualitative data, participants attributed the play opportunities
+and community already established in pickleball as reasons for
+the higher level of behavioral intention and commitment to
+pickleball.
+An interesting finding is the higher rates of perceived competence
+for modified tennis found in the quantitative data, as perceived
+competence is a primary source of motivation and engagement
+in physical activity for adults (Stodden et al., 2009). An increase
+in perceived competence for participants can lead to continuing
+participation in the sport. Furthermore, tennis is reported to have
+a long learning curve due to the complex movement patterns and
+techniques, making it difficult for beginner players to engage in
+match play and game-based play quickly. This was supported by
+the qualitative data, which showed that participants attributed
+the higher perceived competence and simple learning curve of
+red ball tennis to the equipment and rules, which made skills less
+complex and easier to understand. From this finding, modified
+tennis for adults may offer an opportunity for beginners to learn
+the tactical elements of the sport quicker as they can engage in
+match play and experience competition sooner. Also, for those
+who cannot play traditional tennis, modified tennis may offer a
+viable way for players to engage in the sport (Stroesser et al.,
+2024).
+Another valuable finding within the quantitative data is that
+participants perceived modified tennis as more closely aligned
+with traditional tennis than pickleball. When considered alongside
+the observed increase in perceived competence, this suggests
+that modified tennis formats can effectively support individuals
+in skill development and confidence-building. This alignment may
+facilitate a smoother transition to traditional tennis, making it a
+strategic tool for beginner engagement. Additionally, the closer
+fit between modified and traditional tennis may foster sustained
+participation by offering a more accessible entry point for novices,
+ultimately contributing to their long-term involvement in the
+sport (Buszard et al., 2020). This could be proposed as a strategy
+for tennis to continue its growth and achieve a competitive edge
+in the increasingly competitive racket sports market.
+CONCLUSIONS
+Building on previous literature, the findings of this study
+underscore the importance of offering modified programming
+and selecting appropriate modified equipment not only for adult
+beginner tennis players but also for modified sports in general.
+This study provides valuable insights, suggesting that future
+modified programming for adult tennis should adopt a balanced
+approach that integrates both skill instruction and gamebased play to enhance the effectiveness of these programs.
+In the present study, it is difficult to understand which of the
+independent variables had the most influence on the participants’
+experience of the two sports. However, the qualitative data
+provided some insight into which aspects of red ball tennis and
+pickleball led to significant differences. Future research should
+examine the impact of various equipment options, programming
+strategies, and rule modifications on player outcomes, to gain
+a deeper understanding of how these factors influence player
+perceptions and experiences.
+There were several limitations in this study which made it
+challenging to generalize the findings. First, participants only
+engaged in each sport for 3-4 total hours which may not be
+enough time for them to fully engage in each sport. Additionally,
+total time spent in each sport differed between locations with
+some locations with three hours in each sport and others with
+four hours in each sport. Future research needs to examine
+outcomes after participants have had a longer and more
+sustained exposure to each sport. Second, this study involved
+pilot programming in three locations across the United States
+and coaches were required to follow a curriculum developed by
+the researchers. However, it was clear from the focus groups,
+that participants classes varied from location to location meaning
+not all participants had the same experiences in the classes.
+These discrepancies and the number of independent variables
+could have influenced the outcomes and should be considered
+in future studies to ensure more uniformity and reliability in the
+findings. Based on the limitations, it is recommended that future
+research be conducted in a more controlled environment to
+understand whether findings can be replicated.
+ACKNOWLEDGEMENTS
+This project was funded by the United States Tennis Association.
+CONFLICT OF INTEREST STATEMENT
+This study was funded by the United States Tennis Association,
+the national governing body of tennis in the United States. The
+authors acknowledge the potential for bias due to the funding
+source.

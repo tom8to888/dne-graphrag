@@ -1,0 +1,272 @@
+Title: Can we benefit from motor imagery practice when we have difficulty imagining ourselves?
+Authors: Nicolas Robin, Robbin Carien, Laurent Dominique
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 395
+
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 62-65
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i89.395
+complement to actual practice, to improve the learning and
+performance of tennis players, regardless of their level of
+practice. While some studies have shown beneficial effects
+INTRODUCTION
+Tennis is a racquet sport that involves the performance of
+various complex motor skills, such as hitting forehands,
+backhands, smashes, volleys, or serves, the learning of
+which requires a large amount of practice and repetition
+(Akpinar, Devrilmez, & Kirazci, 2012) and the performance
+and acquisition of which can be facilitated by the use of
+motor imagery (MI) as a complement to actual practice
+(Robin & Dominique, 2022). MI is a conscious process during
+which the mental representation of a motor action, such as
+performing a tennis serve, is reactivated in the brain in the
+absence of actual motor execution (Robin & Blandin, 2021).
+This mental representation, which can be defined as the
+internalized model of a motor action and its consequences in
+the environment (Jeannerod, 1999), is constructed based on
+sensory information from the environment and the player's
+body (Dana & Gozalzadeh, 2017). Although it appears that
+most individuals can create mental images, there are interindividual differences in MI that are captured under the
+umbrella term 'imagery ability', which refers to the difficulty
+or ease of generating and using mental images during imagery
+practice (Hall, 2001). Research conducted in the laboratory
+with beginners (Goss et al., 1986) or on the tennis court with
+expert players (Robin et al., 2007) has shown that participants
+categorised as "good imagers", using the Movement Imagery
+Questionnaire (Hall & Pongrac, 1983), had better motor
+performance than "poor imagers" after IM practice. The
+results of these studies highlight the need to assess players'
+imagery skills when considering the use of MI, particularly
+for tennis progression (Cumming & Ramsey, 2009). Robin
+and Dominique (2022) have recently shown that MI is a
+mental technique that is increasingly used by coaches, as a
+ABSTRACT
+The objective of this study was to test whether the ability to imagery (i.e., ease or
+difficulty in creating clear and vivid mental images in one's mind) could influence the
+speed of service learning in beginner tennis players when they were given motor
+imagery (MI) practice combined with real practice during their training sessions.
+The results of this experiment show an improvement in the speed and percentage of
+success (measured with a tablet equipped with Swingvision software) and in the quality
+of serves (assessed by expert tennis coaches) of the participants who carried out IM
+practice before serving. Furthermore, the results show that although players who had
+difficulty imagining serving performed worse than players who could easily perform
+MI, after 10 sessions their performance was similar after 20 sessions of practice. Since
+serving is a complex motor skill, we recommend that coaches use MI, in addition to
+actual practice, even if players have difficulty generating and using mental images: this
+will mean increasing the amount of practice.
+Can we benefit from motor imagery practice
+when we have difficulty imagining ourselves?
+Nicolas Robin1, Laurent Dominique2 & Robbin Carien1
+1University of the West Indies, Pointe-à-Pitre, Guadeloupe. 2University of Reunion.
+Key words: Serve, beginner, motor
+imagery, tennis.
+Received: 17 March  2023
+Accepted: 21 April  2023
+Corresponding author: Nicolas
+Robin. Email: robin.nicolas@
+hotmail.fr
+COACHING & SPORT
+SCIENCE REVIEW
+of MI combined with real practice on service performance
+in beginner players (e.g., Atienza et al., 1998; Dana &
+Gozalzadeh, 2017), other studies have shown much more
+mixed effects (Féry & Morizot, 2000; Noel, 1980) which could
+be explained by an insufficient amount of practice and the
+failure to consider the participants' imagery capacity.
+The aim of this experiment, conducted under ecological
+conditions, was to test in young beginner tennis players
+whether the ease or difficulty of doing MI could influence
+their performance after 20 sessions of practice with or
+without motor imagery combined with real service execution.
+We first hypothesized that players who would benefit from
+motor imagery practice, in addition to real practice, would
+achieve better serve performance than players who would
+only perform real serves. Second, we hypothesized that poor
+imagery participants would need more practice than good
+imagery players to benefit from the positive effects of motor
+imagery practice combined with real serve practice.
+METHOD
+Thirty young beginner tennis players (M = 11.5 years, SD
+= 1.8 years) volunteered to participate in this experiment
+which was conducted at the Amicale Tennis Club in Gosier
+(Guadeloupe, France). The participants (26 boys and 4 girls)
+were divided into 3 experimental groups: control (N = 10),
+good imagers (N = 10) and poor imagers (N = 10) according
+to their scores on the movement imagery questionnaire
+(MIQ-3f, Robin et al., 2020). This questionnaire differentiates
+between internal visual imaging, external visual imaging, and
+proprioceptive imaging abilities. It is composed of 12 items (4
+per type of imagery), involving the physical realisation of arm,
+leg and whole-body movements and then the motor imagery
+of these same movements. The estimation of the internal
+visual, external visual and proprioceptive imagery capacities
+of each item performed and then mentally simulated is done
+by means of 7-point Likert scales (ranging from 1 "very
+difficult to imagine or feel" to 7 "very easy to imagine or feel").
+A written consent form, outlining the terms of participation
+in the study, was signed by the parents or guardians of each
+player. Ethical approval to conduct this research was obtained
+from the ethics committee of the ACTES laboratory (UPRES
+EA 3596) of the University of the West Indies (Pointe-à-Pitre,
+France).
+PROCEDURE
+During the first session, and before the start of the
+experimental phases taking place on outdoor tennis courts,
+participants completed the French version of the movement
+imagery questionnaire (MIQ-3f). Players who obtained mean
+scores less than or equal to 2 on the MIQ-3f questionnaire
+were considered poor imagers and those with scores greater
+than 5 were categorized as good imagers.
+The players then performed 20 tennis sessions in which, after
+a warm-up that was standardised, they had to perform 20
+serves, changing the service box on each attempt. The players
+in the good and bad imagery groups were instructed, before
+each serve, to imagine in their minds themselves performing
+a successful serve (i.e., the ball reaching the correct service
+box). The players in the control group only made real serves.
+During the first session, the players performed the pre-test,
+which consisted of 10 service balls with alternating service
+boxes aimed at each trial. The speed of the balls and the
+percentage of success were measured using a digital tablet
+(Apple iPad Pro 11 512G) equipped with a performance
+collection
+software
+developed
+specifically
+for
+tennis
+(Swingvision). In addition, the technical quality of the serves
+(based on the scores of 6 items: starting position, ball toss,
+backswing arm-racket movement, forwardswing arm-racket
+movement, point of contact and end of movement rated with
+a scale ranging from "0" poor to "7" excellent) was recorded
+and evaluated by two tennis coaches certified by the French
+Tennis Federation (for a similar procedure see Robin et al.,
+2021) After the first 10 practice sessions, all participants
+performed the intermediate test; then after the 20 practice
+sessions, all players performed the post-test (10 service balls
+by changing the service box at each trial) under identical
+conditions to those of the pre-test.
+RESULTS
+The results of the statistical analyses (repeated measures
+Anovas and post-hoc test), showed that all players improved
+their serving speed between the pre-test and post-test
+and that the players who benefited from imaging practice,
+whether they were good imagers (mean = 61 km/h) or poor
+imagers (mean = 62 km/h), served faster than the participants
+in the control group (mean = 55 km/h) after the 20 practice
+sessions as shown in Figure 1.
+Figure 1. Service speeds, in kilometres per hour (Km/h), achieved by
+players in the control, good imager and bad imager groups in the pretest, intermediate test, and post-test.
+In terms of service success percentage, participants in the
+good imagery group (mean = 33%) performed better than
+players in the poor imagery group (mean = 24%) or the
+control group (mean = 21%) as early as the first 10 practice
+sessions (i.e., at the intermediate test). In addition, the MI
+players (mean = 39%) had better service success rates than
+the control group (mean = 30%) at the post-test (i.e., after 20
+practice sessions; see Figure 2).
+shown a positive effect of MI on performance in novice (e.g.,
+Atienza et al., 1998; Dana & Gozalzadeh, 2017), experienced
+(Cherappurath et al., 2020; Daw & Burton, 1994; Mamassis,
+2005) and expert (Dominique et al., 2021; Robin et al., 2007)
+tennis players. As discussed by Hardy and Callow (1999), it is
+possible that practice in MI allowed players who benefited from
+this mental technique (i.e., the good imagery and bad imagery
+groups) prior to serving to visualise the overall movement of
+the serve as well as the different positions and steps required
+to perform this motor skill more easily. Furthermore, it is also
+possible that the players in the good imagery and bad imagery
+groups benefited from the motivational function of MI (Robin
+& Dominique, 2022): the combination of this mental practice
+and the physical practice of the serves being more motivating
+to perform than the simple real executions done by the players
+in the control group.
+Secondly, the results of this experiment show that the players
+who had difficulties in generating and using mental images
+(i.e., the participants in the poor imagery group) needed
+a greater amount of practice than the players in the good
+imagery group to become as good as them. Indeed, while the
+latter obtained improvements in service performance within
+the first 10 practice sessions, it took twice as many practice
+sessions for the poor imagery group to become equivalent
+to the good imagery group. These results confirm work in
+the literature showing differences in acquisition speed for
+simple movements (Goss et al., 1986) or in performance in
+complex motor skills (e.g., return of serve in expert tennis
+players; Robin et al., 2007) as a function of participants'
+imaging ability. This modulation of acquisition speed between
+participants in the good imagery and poor imagery groups
+could be explained by the fact that a good IM capacity would
+facilitate the construction of the mental representation of
+the action to be performed (i.e., serve) and the encoding of
+information in long-term memory (Robin & Dominique, 2022)
+solicited during the mental simulation of the serves.
+To facilitate the creation of mental representations of the
+actions to be imagined, particularly for beginners and/or those
+who have difficulty imagining the movements, Guillot et al.
+(2005) showed the interest of carrying out the MI in costume,
+on the court, with the racket in the hand. Other authors
+have shown the positive effects of using internal discourse,
+particularly on the steps involved in the execution of a service
+(Robin et al., 2021), or of watching videos before performing
+the MI (Atienza et al., 1998; de Sousa Fortes, 2019) for novice
+tennis players. It would be interesting to evaluate, in future
+research, whether these strategies would be beneficial,
+specifically for players with difficulties in performing MI (i.e.,
+poor imagers), to facilitate the learning of complex motor
+skills such as the tennis serve.
+CONCLUSION
+The results of this field study confirm research that has shown
+that motor imagery, when used in conjunction with actual
+practice, can improve serving performance in beginning
+tennis players. Although participants categorised as poor
+imagers using an imagery questionnaire performed worse
+than players in the good imagery group after 10 practice
+sessions, their performance became equivalent after 20
+practice sessions. We therefore recommend that coaches and
+trainers use MI, in addition to real practice, even if the players
+have difficulties in generating and using mental images on the
+field, by adapting the number of practice sessions according
+to the participants' imaging ability.
+Figure 2. Percentage of successful services performed by participants
+in the control, good imager and poor imager groups in the pre-test,
+intermediate test, and post-test. intermediate test, and post-test.
+Figure 3. Technical quality scores of the services performed by players
+in the control, good imager and bad imager groups in the pre-test,
+intermediate test, and post-test
+Finally, the participants in the good imagery group (mean score
+= 2.7) obtained better technical scores than the players in the
+control group (mean score = 2.3) after 10 practice sessions
+(i.e., intermediate test). Furthermore, the players in the poor
+imager group improved their technical scores between the
+intermediate test (mean score = 2.4) and the post-test (mean
+score = 2.8), i.e., after 20 practice sessions.
+DISCUSSION
+This experiment was carried out to measure the effects of
+motor imagery practice combined with real service practice in
+young beginner tennis players. On the other hand, the aim of
+this study was also to evaluate whether the ease or difficulty in
+creating clear and vivid mental images (i.e., imagery capacity)
+of a complex motor action, such as serving in tennis, could
+influence the speed of acquisition of beginner tennis players
+when they benefited from a combination of motor imagery
+practice (recall: MI) and real service rehearsals.
+The results of this study show, first, that participants who
+benefited from MI practice in addition to real trials (i.e., players
+in the good imagery and poor imagery groups) performed
+better than players in the control group who only physically
+performed their serves during the 20 practice sessions. These
+results show the interest of using IM practice combined
+with the actual execution of motor actions in racquet sports
+(Cece et al., 2020) and more specifically in tennis (Robin &
+Dominique, 2022). Moreover, the results of this experiment
+also confirm the results of previous research studies that have
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they have no conflicts of interest and
+have received no funding for the writing of this article.
+ACKNOWLEDGEMENTS
+The authors would like to thank the participants, Claude, and
+Laurence from the ATC club and Swupnil Sahai.

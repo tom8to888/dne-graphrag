@@ -1,0 +1,198 @@
+Title: Plantar pressures in simulated tennis movements at different surfaces
+Authors: Christof Mourtzios
+Year: 2017
+Issue: Vol. 25 No. 71 (2017)
+Article id: 223
+
+www.itfcoachingreview.com
+April 2017. 25th Year. Issue 71 19-22
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i71.223
+
+Plantar pressures in simulated tennis
+movements at different surfaces
+Christos Mourtzios (GRE)
+ITF Coaching and Sport Science Review 2017; 71 (25): 19 - 22
+ABSTRACT
+Analysis of plantar pressures during sport movement performance can provide significant
+information to athletes and coaches regarding sport performance and plantar loads. Tennis
+is a sport that is played in different surfaces. Therefore, the terrain is a critical factor that
+determines both the bounce of the ball, and how the player moves on the court. The
+purpose of this study was to examine the plantar pressures in two different surfaces of
+tennis courts (greenset - synthetic grass) when performing a sequence of two basic tennis
+movements, service and return in combination with forehand and backhand strokes.
+
+Key words: Tennis court
+surfaces, plantar pressures,
+return of serve, forehand,
+backhand
+Received: 05 May 2016
+Accepted: 30 Jan 2017
+Corresponding author:
+Christos Mourtzios
+Email:
+christosmourtzios@hotmail.gr
+INTRODUCTION
+Tennis has been called the game of quick decisions and
+readiness. It includes moving over very short distances and
+frequent changes of direction. On average 3 to 5 changes of
+direction are necessary at each game point and 500 during a
+match (Fernandez et al., 2006). Great emphasis on player
+development training is given to the kinetic chain. This allows
+force transfer from one body part to another, namely from the
+legs to the hips and pelvis, the shoulder and, finally, the racket
+(Roetert & Kovacs, 2011).
+Footwork in tennis is considered very important for the
+efficient movement of the player on the court. The forces on
+the muscles and joints of the foot can be much larger than the
+externally measurable ground reaction forces. Ground reaction
+forces increase rapidly as a result of the leg collision with the
+ground during running and changes in direction (Valiant and
+Cavanagh, 1983).These movements produce varying loads on
+the feet that are often underestimated.
+To our knowledge, no data on plantar pressure distribution has
+been published for junior athletes. Therefore, plantar pressure
+distribution profiles for tennis-specific movements for both
+feet are unclear.
+An important factor which affects tennis player performance is
+the type of tennis court surface. Two types of surface are the
+greenset and the synthetic grass. It is known that there are
+differences in tennis performance between the two specific
+types of surface (Miller, 2006). Previous authors have
+suggested that when playing on the greenest, the player
+movement patterns differ between grass, clay and acrylic
+tennis surfaces (O’ Donoghue & Ingram (2001). The purpose of
+this study was to examine the pressure distribution underneath
+both feet while performing two sequences of tennis- specific
+movements at two different surfaces (greenset - synthetic
+grass) in junior tennis players.
+
+METHODS
+Subjects
+Sixteen (8 males, 8 females) tennis players, aged 10-16 years
+(four under-10 years, four under-12 years, four under-14 years,
+four under-16 years, height 156.0 ± 0.08cm, body mass 44.60
+± 8.9 kg) participated in this study, boys and girls that are
+playing in tournaments of the Hellenic Tennis Federation.
+Experimental set-up
+Subjects performed randomly two different tennis-specific
+movements (Service and Return play) on synthetic grass and
+greenset.
+
+RESULTS
+
+DISCUSSION
+The results in this study showed that the loads on the fast
+surface (greenset) was higher in both movements, compared to
+the slow surface of the synthetic grass.
+The results showed that in both surfaces the loads were higher
+on the toes of the foot, with significant effect on the maximum
+pressure in the service and return of service and with
+significant effect on the maximum power in return.
+There was no significant effect on the contact time of the two
+different surfaces. As measured in both the service and return
+movements, the contact time was longer on synthetic grass
+with the average contact time on the slower surface during the
+serve being 205ms and 190ms on the faster surface. For the
+return of serve the contact time was 202ms on the slower
+surface and 169ms on the fast. Also significant difference in
+contact time did not appear between left and right foot.
+The average of the power was reduced on the surface of the
+synthetic grass against fast surface, both in the movements of
+service and return. This means that the risk of injury of a young
+athlete, because of high instantaneous vertical loads, is
+considerably lower at the surface of the synthetic grass. Thus,
+despite the fact that the fast surface imparts an advantage for
+a rapid movement of the athlete, the movement exhibits a
+higher risk. Especially in young athletes, who may not have fully
+developed technique and coordination skills, the choice of the
+synthetic
+grass
+should
+be
+preferred.
+
+The middle of the foot had higher loadings on synthetic grass
+against greenset in the movement of the return of service with
+maximum force 629 N in the slow surface and 480 N in the fast
+surface. Therefore, our study for the first time shows that the
+differences between the two surfaces do not only concern the
+maximum loads but also differ in the way of loading the
+different regions of the foot. This has two consequences: a)
+that while the athlete performs the same movement sequence,
+the manner of execution, as it affects the plantar pressures
+
+differs between the two surfaces b) the various loads received
+on the different areas of the foot between the two surfaces
+suggest a different risk of injury and highlight the need to use
+different shoes depending on the surface on which the athlete
+competes.
+The loads were measured and allocated to the left and right
+foot, with the following values. The movement of service on
+left foot was measured to 548N in fmax and 41 N / cm2 in max
+pressure, while the right foot was measured to 633N in fmax
+and 51 N / Cm2 in max pressure. In serve the right foot had
+higher loads than the left foot. In return the left measured with
+594N at maximum power and 40 N / cm2 at maximum pressure,
+while the right to 570N at maximum power and 49N / cm2 at
+maximum pressure. The results showed more maximum force
+produced in the left foot and the right producing more
+maximum pressure. Therefore, with the coach being able to
+know more clearly how the loads are distributed between the
+left and right foot, this can assist in enhancing technique,
+footwork and being more aware of the most efficient ways of
+transferring forces for more effective shot production.
+
+Finally the measurements of maximum load at the point of
+contact from the front of the right and left foot showed in
+service that peak loads occurred on the right foot in the third
+metatarsal and on the left foot in the fourth metatarsal. In the
+movement of the return of service the contact time point of
+maximum loads, appeared on the right foot in the fourth
+metatarsal and on the left foot in the fifth metatarsal. The
+conclusion we take from these measurements for the first time
+in our study is that the peak plantar loads are distributed to the
+outside side of the foot, on both feet and to both movements
+with the loads maximum at the beginning of the movement.
+Therefore, the left leg acts as a stabilizer and the right leg as a
+driving force for the creation of explosiveness and the transfer
+of forces to the execution of the strokes. In summary, by
+recording and analysing data coaches can use this information
+and apply this practically to help optimise technical execution
+of shots. In addition, it can be suggested that the data gained
+can also assist in the correct planning and content of training
+sessions to specifically work on the athlete effectively
+increasing the transfer of forces at the beginning of their
+service, return and groundstroke motions.
+
+PROPOSALS
+Tennis is a sport that is played on different surfaces and terrain
+is a critical factor determining both the bounce of the ball, and
+the player movements on the court. So the technique applied,
+mainly to the footwork, varies when tennis is played on fast or
+slow surfaces. The data gained from this study can assist
+athletes and coaches in the selection of training programs and
+preparing the transition from one surface to another. Research
+in plantar pressures may continue in-depth, because the data
+supplied, is very important and can help athletes of all levels,
+beginner- advanced, improve their skills, in cooperation with
+the biomechanics in order to have higher
+performance, better results and fewer injuries. Data presented
+in this study might help shoe companies to further design
+tennis shoes taking into account the specific characteristics of
+a given playing surface. Specifically, shoes for junior tennis
+players should be constructed with more attention and weight
+to the front area of the foot, so that could help reduce impacts
+(shock absorption) on a particular tennis surface where
+excessive loading was found to be a potential danger for
+overloading specific areas of the foot (synthetic grass: midfoot,
+greenset: hallux and lesser toes areas).
+
+CONCLUSIONS
+In conclusion, the results of this investigation showed that for
+the athletes of young ages, it is preferable to train and play
+tennis in slow surfaces like synthetic grass due to lower
+loadings that are accepted in soles, compared with fast surfaces
+such as the greenset. This means fewer injuries, fewer
+problems in the physical development of athletes and better
+training.

@@ -1,0 +1,476 @@
+Title: The Predictive Validity of the ITF Juniors Tour for Professional Tennis Career Outcomes
+Authors: Katharina Schöttl, Florian Kainz, Michael Keiner, Valentina Metz, Christian Werner
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 668
+
+ABSTRACT
+The ITF Juniors Tour represents a key developmental pathway for tennis players
+aspiring to transition to the professional circuit. This study evaluates its “value”
+by considering both athletic performance and economic implications, while also
+exploring alternative routes such as early integration into national adult tournaments
+or the ITF professional Tour. Using both top-down and bottom-up analyses of ATP and
+WTA players, we examine the relationship between junior rankings and subsequent
+professional success. The findings underscore the importance of the ITF Juniors
+Circuit, with 83% of ATP and 86% of WTA Top 150 players having previously ranked
+in the ITF Junior Top 100. Participation in high-tier junior tournaments appears
+instrumental in developing the competitive skills required at the elite level. However,
+only 30–40% of top junior players advance into ranking regions that enable financial
+sustainability, highlighting the limitations in the predictive strength of junior success
+alone.
+INTRODUCTION
+Professional athletes follow career paths characterized by
+intense physical demands, limited longevity, and considerable
+public scrutiny. Unlike most conventional occupations, which
+offer stable hours and long-term security, athletes must
+capitalize on a narrow and often unpredictable window of
+opportunity. These pressures necessitate early specialization
+and rapid development. Tennis exemplifies this trajectory,
+where early exposure and competitive success are often
+critical for reaching the professional level. Within this
+framework, the ITF Juniors Tour represents a pivotal stage,
+acting as a gateway to professional tennis. However, the true
+“value” of the ITF Juniors Tour—both in terms of sporting
+progression and potential economic return—has not been
+comprehensively explored in the literature.
+According to foundational research by Ericsson, Wylleman,
+and Sosniak, developing a career in elite sport generally
+involves approximately ten years of deliberate practice to
+attain international standards, followed by five to ten years
+of performance at the highest level (Ericsson et al., 1993;
+Sosniak, 2006; Wylleman & Lavallee, 2004). In contrast to
+conventional careers—where retirement age is shaped by
+personal, health, and socio-economic variables and ranges
+from 57 (Colombian women) to 67 (men in Denmark and
+Israel) according to OECD data (OECD, 2023)—professional
+athletes typically retire by the age of 34 (Wylleman & Reints,
+2010). This significantly shorter career span places added
+importance on the developmental phase, particularly as many
+www.itfcoachingreview.com
+December 2025. 33rd  Year. Issue 97. 6-12
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i97.668
+The Predictive Validity of the ITF Juniors Tour
+for Professional Tennis Career Outcomes
+Katharina Schöttl1, Florian Kainz2, Michael Keiner3, Valentina Metz1, Christian Werner⁴
+1Privatuniversität Schloss Seeburg, Seekirchen, Austria. 2University of Applied Management, Ismaning, Germany.
+3University of Health & Sports, Technology & Arts, Berlin, Germany. 4University Institute of Schaffhausen,
+Schaffhausen, Switzerland.
+Key words: Elite athlete
+development, ATP/WTA career
+progression, youth tennis, player
+pathways.
+Received: 27 December 2024
+Accepted: 24 April 2025
+Corresponding author: Katharina
+Schöttl, katharina.schoettl@uniseeburg.at
+elements of athletic progression cannot be postponed or
+pursued later in life, unlike formal education or job retraining
+in other professions.
+The career lifespan model by Wylleman and Lavallee (2004)
+shows that athletes are typically between 15 and 20 years
+old during this critical developmental window—meaning
+they remain minors for much of this time. In most sports,
+athlete development occurs centrally through federations,
+with structured calendars and standardized competition
+pathways. In contrast, tennis offers diverse and decentralized
+development routes. Balliauw et al. (2017) identify three
+common practice environments for tennis development:
+national federation training centers, private academies, and
+individualized training with private coaches. In recent years,
+boarding schools with integrated tennis programs—such as
+Millfield in the UK—have also gained prominence, offering
+a structured combination of education and elite training.
+Competition planning also varies significantly among athletes
+due to the flexible structure of tennis rankings, allowing
+for different pathways toward the ultimate goal: a Top 150
+position in the ATP or WTA rankings.
+Although prior studies have examined the predictive power of
+junior rankings in professional tennis success (Brouwers et al.,
+2012; Reid et al., 2009; Casagrande et al., 2018; Perri et al.,
+2021), these have focused primarily on performance metrics,
+with limited attention to financial sustainability. Additional
+contributions by Moreira et al. (2017) and Kovalchik et al.
+(2016) explore factors such as relative age effects and early
+COACHING & SPORT
+SCIENCE REVIEW
+career milestones, but similarly fall short of addressing longterm economic viability. This study seeks to bridge that
+gap by considering the financial implications of different
+development strategies. While a comprehensive cost-benefit
+analysis is constrained by regional variability and lack of
+consistent data on items like federation subsidies or prize
+money at national and UTR events, this paper aims to offer
+stakeholders—coaches, parents, and tennis associations—
+evidence-based insights for decision-making.
+Distinct from earlier works (e.g., Bane et al., 2018; Perri et
+al., 2021), this study integrates a financial lens by evaluating
+whether top junior players reach a ranking where tennis
+becomes economically sustainable. Supported by recent
+modeling from Schöttl et al. (2025), we add a new dimension
+to the discussion on the viability of professional tennis
+careers. This dual perspective—sporting and economic—
+contributes to a more comprehensive understanding of the
+ITF Juniors Tour’s role in the athlete development pathway.
+Effort and Income of the Circuits
+Ultimately, the primary goal of aspiring professional tennis
+players is to attain a top ranking on the WTA or ATP Tour. From a
+financial standpoint, research indicates that income generally
+begins to offset expenses at ranking positions between 101
+and 250 (Balliauw et al., 2017; Bane et al., 2014). Perri et al.
+(2021) emphasize that strategic competition scheduling is a
+crucial factor in the developmental pathway of junior players.
+Balancing immediate ranking progression with long-term
+developmental objectives presents an ongoing challenge
+for both coaches and athletes (Unierzyski, 2003). It can be
+inferred that players ranked within the Top 150 are more likely
+to generate sufficient income to support themselves through
+tennis. Remaining in or above this ranking range for extended
+periods—and ideally improving upon it—can increase the
+likelihood of recouping the significant investments made
+during earlier development phases. However, the actual
+cost burden depends on numerous variables, including the
+duration of the development period, federation and sponsor
+support, doubles participation, and travel logistics (e.g.,
+whether the player travels alone or with a coach and physio).
+Balliauw et al. (2017) estimate that players ranked outside
+the Top 250 experience annual financial deficits ranging from
+€25,110 to €67,170, contingent upon their training setups
+and staffing arrangements. These figures, now dated, likely
+underestimate current expenses due to inflation and the rising
+costs associated with global travel and coaching. Recent costrevenue modeling by Schöttl et al. (2024), using career data
+from junior cohorts, confirms that only 32–34% of players
+end their careers with a financial surplus. Their findings
+reinforce ATP/WTA ranking 150 as the practical breakeven threshold—below which most careers are financially
+unsustainable. Although no empirical data currently exist
+regarding the precise cost of competing on the international
+ITF Juniors Tour, the global nature of its calendar and the
+absence of prize money suggest that its financial burden
+is similarly high—if not comparable to early professional
+participation.
+Consequently, due to the high costs associated with the
+development phase and the short duration of a professional
+tennis career, the economic imperative for aspiring
+professionals is to complete this phase as quickly and
+efficiently as possible. This allows them to maximize time
+spent in income-generating ranking positions, improving the
+chance of financial recovery and long-term viability.
+Different Ways to the Top of the professional Rankings?
+Status Quo of Research on the value of the ITF Juniors Tour
+The developmental phase between the ages of 15 and 18
+is critical for aspiring tennis professionals. This period is
+both brief and non-replicable, requiring players to engage in
+deliberate and strategic competition planning to maximize
+athletic progression, ranking advancement, and eventual
+career sustainability. During this phase, players may choose
+among several developmental pathways, each with specific
+advantages and limitations. The most prominent options
+include the ITF Junior Tour, national adult competitions, and
+early participation in ITF/ATP/WTA professional events. Each
+route presents unique challenges and opportunities that
+must be carefully considered when designing individualized
+development strategies. The ITF Junior Tour offers unmatched
+opportunities for juniors to compete at the highest
+international level for their age group, including participation
+in Junior Grand Slam tournaments. This environment exposes
+players to intense, high-stakes competition, fostering skill
+acquisition and psychological resilience. Research by Perri
+et al. (2021) highlights the importance of this international
+exposure in facilitating the transition to the professional
+circuit. Casagrande et al. (2018) likewise underscore the
+ITF Junior Circuit’s role as a critical platform for talent
+identification and performance benchmarking. High-ranking
+junior players often receive reserved spots in professionallevel tournaments, simplifying entry into the ITF professional
+tour and increasing their visibility to potential sponsors.
+Despite its competitive benefits, participation in the ITF
+Junior Tour is not without significant challenges. The financial
+burden is considerable, driven by the extensive travel,
+accommodation, and staffing expenses required to compete
+internationally. These costs are further exacerbated by the
+absence of prize money at junior events. Additionally, the
+demanding tournament schedule often clashes with academic
+commitments, leading many players to reduce or abandon
+formal education during this critical developmental period
+(AugsburgerAllgemeine, n.d.; ProSieben, n.d.). Research by
+Otis et al. (2022) emphasizes the importance of incorporating
+academic education into athletic training programs as a means
+of promoting long-term career longevity. This supports the
+growing relevance of dual-career pathways, such as boarding
+schools and college tennis programs, which seek to balance
+high-level training with educational continuity.
+Moreover, Casagrande et al. (2018) report that players
+competing on the ITF Junior Circuit exhibit higher levels
+of burnout and psychological devaluation compared to
+their peers engaged in regional or national competitions.
+Compounding these pressures is the expiration of junior
+rankings at age 18, which compels players to transition
+abruptly into the professional circuit—often without any
+direct transfer of points earned as juniors.
+As an alternative, some players focus early on adult-level
+competition through national tournaments and the ITF
+professional circuit. This route emphasizes the development
+of match-play skills more reflective of the professional game,
+which is typically faster-paced and tactically more complex
+(Filipcic et al., 2021). Early participation in professional
+tournaments allows players to accumulate ITF ranking
+points that remain valid for 52 weeks, enabling a potentially
+more stable trajectory—provided performance is consistent.
+Research by Reid & Morris (2013) and Perri et al. (2021) shows
+that many elite players engage in both junior and professional
+events during their transition phase, indicating that exclusive
+reliance on the Junior Tour is not essential.
+From an economic standpoint, national tournaments and early
+engagement in professional circuits offer notable advantages.
+Reduced travel and accommodation expenses associated
+with national competitions lead to lower overall costs.
+Furthermore, prize money—albeit modest—can help offset
+participation expenses. This pathway also tends to support
+more consistent training environments and can facilitate
+better integration with academic schedules. Reid et al. (2007)
+emphasize the connection between well-structured domestic
+competition systems and the development of professionallevel rankings, thereby underscoring the strategic value of
+national tournaments in early-stage career planning.
+However, this route is not without its drawbacks. Early
+transition into adult-level competition, especially within the
+ITF professional circuit, often involves starting in qualifying
+rounds. These are highly competitive, time-consuming,
+and may offer limited exposure compared to main draws.
+Additionally, while national tournaments may be logistically
+accessible, they can lack the depth and intensity of
+competition typically found on the international junior circuit.
+Brouwers et al. (2015) stress the importance of participating
+in elite-level events to build long-term performance capacity.
+Zappalà et al. (2024) further support this notion, identifying
+early success at prestigious tournaments as a reliable
+predictor of future career achievement. Conversely, excessive
+competition volume at a young age may compromise longterm athletic development and career longevity, as warned
+by Otis et al. (2022).
+The existing literature generally supports the significance of
+the ITF Juniors Tour in the development of professional tennis
+players. Studies by Brouwers et al. (2012) and Reid et al. (2007,
+2009) demonstrate a consistent association between strong
+junior rankings and later professional success. However, they
+also note that such rankings do not guarantee elite career
+outcomes. Perri et al. (2021) highlight the critical role of
+match quality and international exposure in high-level junior
+tournaments. These findings support the ITF Junior Circuit’s
+role as a high-performance environment but also acknowledge
+that alternative developmental routes—particularly those
+grounded in national circuits or early professional transition—
+may serve as viable options. Nonetheless, further research
+is required to evaluate the financial sustainability of these
+paths and their capacity to yield players who reach incomegenerating professional rankings.
+Research Questions
+In light of the preceding discussion, the central question is
+whether participation in the ITF Juniors Tour is essential for
+progressing to the professional level in tennis, or whether
+it represents just one of several viable—albeit costly—
+developmental pathways. Accordingly, the guiding research
+question is as follows:
+"What ‘value’ does the ITF Juniors Tour provide in
+developing players into professional athletes (specifically,
+professional tennis players)?“
+On one hand, the study seeks to examine the extent to which
+the ITF Juniors Circuit has contributed to the careers of current
+professional players who have reached ranking regions where
+it is financially feasible to sustain a tennis career. However,
+this assumption is influenced by numerous contextual
+factors, including sponsorship availability, federation support,
+doubles earnings, and the cost structure associated with
+travel and staffing. Therefore, reaching a particular ranking
+alone does not guarantee financial sustainability.
+On the other hand, this study also aims to identify cases
+where professional players bypassed the ITF Juniors Circuit
+and instead followed alternative development routes. These
+cases may provide insight into different, potentially more
+cost-effective, pathways to the professional level.
+The analysis further considers whether gender-based
+differences exist in these developmental trajectories—
+specifically between male and female players—regarding
+progression from the junior circuit to the professional level.
+Ultimately, the objective is to assess the extent to which
+performance on the ITF Juniors Tour can serve as a reliable
+predictor of future professional success. While many previous
+studies have focused primarily on the predictive validity of
+junior rankings, this study also incorporates an economic
+perspective and explores the feasibility of alternative routes
+to professional tennis careers.
+RESEARCH DESIGN AND METHODOLOGY
+In line with Brouwers et al. (2012), this study employs a
+combined bottom-up and top-down research design to examine
+the predictive value of ITF Junior rankings in professional
+tennis outcomes. The top-down analysis investigates how
+current high-ranking professionals progressed through the
+junior ranks, while the bottom-up analysis explores the longterm outcomes of top junior players to determine how many
+ultimately achieved professional success.
+Top-down analysis:
+For the top-down approach, the sample consists of the
+Top 150 male and Top 150 female players in the ATP and
+WTA year-end rankings for 2023. The cut-off point of 150
+was chosen based on prior research (Balliauw et al., 2017)
+indicating that this ranking region marks the approximate
+threshold at which professional tennis becomes financially
+sustainable. For each player in this sample, the following
+variables were collected: 2023 year-end ATP/WTA singles
+ranking, Date of birth, Career-high ITF Junior ranking, Date of
+career-high ITF Junior ranking (used to calculate age at junior
+peak), Best performance in a Junior Grand Slam event
+Bottom-up analysis
+The bottom-up analysis uses the Top 100 boys and Top
+100 girls from the 2008 ITF Junior year-end rankings as
+its sample. These players, born between 1990 and 1993,
+are now between 31 and 34 years old—an age range that
+generally corresponds to the career end of professional
+tennis players. This allows for retrospective analysis of how
+many junior players progressed into the professional circuit,
+what proportion reached income-generating rankings,
+and how many exited the sport without a return on their
+developmental investments. The following data were
+collected for each player in this cohort: 2008 ITF Junior yearend ranking, Career-high ITF Junior ranking, Date of birth,
+Career-high ATP/WTA singles ranking, Date of career-high
+professional ranking (used to calculate age at peak), Date
+of final ATP/WTA singles ranking (used to determine career
+duration), ITF Junior win/loss record, Number of ITF Junior
+titles won.
+Data Collection
+The ITF provides publicly accessible information for all players
+who have participated in its tournaments. Player profiles
+include data such as career-high rankings (with corresponding
+dates), year-end rankings, and performances at Grand Slam
+events—both at the junior and professional levels. In addition,
+the official ATP and WTA websites offer biographical data,
+including date of birth and career prize money. All variables
+used in both the top-down and bottom-up analyses were
+gathered through these three official sources. Data collection
+was conducted between July and August 2024.
+Results
+The following section presents the findings from both the
+bottom-up and top-down analyses, structured according to
+the study’s central research questions.
+Bottom-up analysis
+Analysis of the 2008 ITF Junior Top 100 cohort reveals that
+97% of female players and 96% of male players subsequently
+attained a professional ranking on the WTA or ATP circuits
+(Figure 2). These rankings spanned a wide range, from World
+No. 1 to as low as 1491. The average career-high ranking
+across the sample was 356.21 (SD = 344.05), with a 95%
+confidence interval of [307.23, 405.18].
+A Mann–Whitney U-test was conducted to examine genderspecific differences in professional career-high rankings
+among Top 100 juniors. The analysis found no statistically
+significant difference between male and female players (U =
+3976.50, Z = –1.640, p = .101), indicating that gender did not
+influence the highest professional ranking achieved.
+The average age at which players reached their professional
+career-high ranking also differed significantly between
+genders (Figure 3). Female players reached their peak at an
+average age of 21.49 years (SD = 3.71), while male players
+peaked at 22.74 years (SD = 2.96). A Mann–Whitney U-test
+confirmed this difference as statistically significant (U =
+3384.50, Z = –3.195, p = .001), suggesting that female
+players tend to reach their career peak earlier than their male
+counterparts.
+An analysis of career end age shows that, as of the end of
+2023, 26 male players and 20 female players from the original
+cohort still held active ATP or WTA rankings, while 70 males
+and 76 females had retired (Figure 4). The average retirement
+age for female players was 25.81 years (SD = 4.85), compared
+to 27.21 years (SD = 4.57) for male players. A Mann–Whitney
+U-test revealed that this difference is statistically significant
+(U = 3680.50, Z = –2.309, p = .021).
+Based on these findings, it is also possible to calculate the
+average career duration on the professional circuit starting
+from age 18. Female players spent an average of 7.86 years
+(SD = 4.68) on tour, while male players averaged 9.24 years
+(SD = 4.51). This difference was again statistically significant
+(U = 3691.00, Z = –2.390, p = .017).
+Additional
+correlation
+analyses
+revealed
+significant
+associations between career-high rankings and key career
+timeline variables. Specifically, a higher career ranking was
+significantly correlated with a later age at career peak (r =
+–0.54, p < .01), a later age at career end (r = 0.691, p < .01),
+and a longer professional career duration (r = 0.691, p < .01).
+Top-down analysis
+The results of the top-down analysis show that only four male
+(2.6%) and four female (2.6%) players in the 2023 ATP and
+WTA Top 150 rankings did not possess an ITF Junior ranking.
+Furthermore, 92% of male players and 96% of female players
+had previously achieved an ITF Junior ranking within the Top
+500.
+Figure 1. ATP or WTA career high of the 2008 Top 100 juniors.
+Figure 2. Correlation analysis professional career high and performance
+on the ITF Junior Circuit
+Focusing on critical ranking thresholds, previous sections
+established that players ranked inside the Top 150 are
+generally able to finance their careers, while those outside
+the Top 250 often incur net financial losses. In the 2008
+junior cohort, 29% of male players and 38% of female players
+reached a career-high professional ranking within the Top
+150. Conversely, 54% of the boys and 46% of the girls never
+achieved a Top 250 ranking.
+These descriptive findings are supported by a bivariate
+correlation analysis, which demonstrates a strong and
+statistically significant relationship between junior win-loss
+records and professional career-high rankings. Additionally,
+a significant correlation exists between junior career-high
+rankings and professional career-high rankings.
+Additional findings reveal that 13% of the 2023 WTA Top 150
+players and 14% of their ATP counterparts had previously
+reached the No. 1 position in the ITF Junior rankings.
+Moreover, 46% of female players and 49% of male players
+had achieved a Top 10 Junior ranking, while 77% of females
+and 74% of males reached at least the Top 50.
+In summary, most players reached their junior career-high
+rankings between ages 17 and 18, with female players
+tending to peak slightly earlier than males. Specifically, 55%
+of male players attained their junior peak between the ages
+of 17.5 and 19, suggesting that many male players remained
+active on the junior circuit until the maximum eligible age.
+Regarding Junior Grand Slam participation, over 80% of the
+sample had competed in at least one such event (Figure 10).
+Additionally, 16.7% of both male and female players had won
+at least one Junior Grand Slam title, while another 15–20%
+reached either the final or semifinal stages.
+Figure 3. Top ITF Junior ranking of the 2023 Top 150 ATP and 2023
+Top 150 WTA players.
+A Mann–Whitney U-test found no statistically significant
+difference between male and female Top 150 ATP/WTA
+players in terms of their junior rankings, indicating that gender
+did not influence ITF Junior performance among those who
+reached the professional Top 150.
+An examination of the age at which players reached their ITF
+Junior career-high ranking shows that the majority achieved
+this between the ages of 17 and 18 (Figure 9). The average
+age across all players was 17.21 years, with female players
+averaging 16.92 years and male players averaging 17.50
+years. A two-sample t-test confirmed that this difference is
+statistically significant (p < .001), with a medium-to-large
+effect size (d = 0.731).
+Figure 4. Junior Grand Slam Performance of the 2023 Top 150 ATP
+and 2023 Top 150 WTA players.
+Table 1
+Results of Spearman correlation analysis.
+Overall, the results indicate that the vast majority of players
+who reach a financially viable professional ranking—specifically
+within the Top 150—were previously high-performing players
+on the ITF Junior Circuit.
+Last but not least, we ran a Spearman correlation analysis
+to evaluate whether there is a connection between the
+career high ranking on the juniors tour and the one on the
+professional tour (Table 4).
+CONCLUSION
+Summary and Implications
+Overall, the results from the top-down analysis highlight
+the significant role the ITF Juniors Tour seems to play in the
+development of professional tennis players.
+the ITF Top 100. However, since only 30–40% of elite
+juniors reach a financially viable professional level, coaches
+must carefully assess the risk-reward balance of pursuing
+this route. For players without major financial backing or
+elite junior results, alternatives like U.S. college tennis or
+national leagues may offer better cost-to-benefit outcomes.
+Additionally, integrating education into tennis development—
+via boarding schools or academic partnerships—can improve
+long-term career prospects and life balance.

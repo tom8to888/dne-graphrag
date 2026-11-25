@@ -1,0 +1,559 @@
+Title: Female tennis coaches in Hungary: far from elite tennis
+Authors: Katalin Orban-Sebestyen, Andrea Gal
+Year: 2024
+Issue: Vol. 32 No. 93 (2024)
+Article id: 552
+
+ABSTRACT
+In the coaching profession, women’s proportion is much lower than men’s, and the
+multitude of reasons behind it have been analyzed by numerous scientific and professional
+forums. In the Hungarian context, research has paid relatively little attention to this
+area, although this is where male dominance is the most prevalent. This is also true for
+tennis, even if on the international stage, this is the sport where the struggle for the
+equal recognition of women began, and at present, ITF and WTA are actively engaged in
+promoting more balanced gender relations. In the Hungarian Tennis Federation (HTF), a
+Women’s Committee was founded in 2020 and has been working towards the promotion
+of female competitors, managers, and coaches as well, aiming to increase the number of
+women and to promote their opportunities and progress. Our paper presents the results
+of empirical research, including (1) an online survey, carried out among women, working
+as tennis coaches (N1=94), with a focus on their professional progress, prestige, and
+financial remuneration. Since we did not have any data on the number of female coaches
+working in Hungarian tennis, it was not possible to take a representative sample of that
+population, so we tried to reach as many coaches as possible using the snowball sampling
+method. Additionally, to explore the opinion of employers of coaches, we conducted(2)
+semi-structured in-depth interviews with top competitors (N2=4), female club managers
+(N3=3), and the president of the Women’s Committee, Andrea Temesvari, former
+Grand Slam winner in women doubles, WTA No. 7 player in 1984 (www.itftennis.com)
+who also works as a coach. The results show that female coaches mainly work in leisure
+and youth tennis, at the level of elite tennis it is uncharacteristic to find a female coach.
+When compared with men, they mainly sense a disadvantage in prestige, not financial
+remuneration, which can be explained by existing negative stereotypes concerning their
+professional competence.
+INTRODUCTION
+Even though women’s sports have undergone intensive
+development since the mid-20th century, coaching is still a
+male-dominated area. Recent statistical data also indicate
+that the proportion of female coaches is especially low in
+elite sports; for example, at the 2020/21 Tokyo Olympic
+Games, only 13% of accredited coaches were women (https://
+olympics.com). The International Olympic Committee is
+committed to reducing this inequality through Gender
+Equalities Objectives 2021-2024 established by the Women
+Coach Working Group, to develop a set of concrete practical
+recommendations for the IOC to increase the number of
+female coaches at the Olympic Games in collaboration with
+IFs and NOCs. The involvement of NOCs is also important
+because country-specific data show similar inequalities:
+Robertson (2016) pointed out that in Germany, 10% of highperformance coaches and 13% of professional coaches are
+women, in Finland, two-thirds of head coaching roles are
+www.itfcoachingreview.com
+August 2024. 32th Year. Issue 92. 23-28
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i93.552
+Female tennis coaches in Hungary:
+far from elite tennis
+Andrea Gál¹ & Katalin Orbán-Sebestyén²
+¹Hungarian University of Sports Science, Department of Social Sciences; Hungarian Tennis Federation, member of
+Women’s Committee. ²Hungarian University of Sports Science Doctoral School of Sports Sciences, Hungarian Tennis
+Federation, Head of Children’s Tennis.
+Key words: tennis, female
+coaches, underrepresentation,
+gender equality.
+Received: 25 January  2024
+Accepted: 21 June  2024
+Corresponding author: Katalin
+Orban-Sebestyen, kata.orban.
+sebestyen@gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+taken by men in team sports. In the UK, the low proportion of
+female coaches has prompted sports policymakers to develop
+a program to help accelerate the transition of talented and
+ambitious female coaches to senior leadership roles.
+We find little analysis regarding the proportion of female
+coaches in tennis (Ancalmo et al., 2023; Gasparetto et
+al., 2023). In a study by Probert and Crespo (2015), they
+reviewed what are the most relevant research papers related
+to tennis sociology, but in this, among the sub-themes, there is
+no reference to the study of female coaches. According to The
+International Tennis Federation, while 40% of players on the
+ITF World Tennis Tour are women, there are 5 times as many
+male tennis coaches working than there are women.
+The WTA, one of the world's most recognizable and highprofile sports organizations was founded by Billie Jean
+King in 1973 on the principle of equal opportunity. In 2017
+WTA established the Coach Program to professionalize and
+recognize the important role of coaching on the Hologic WTA
+Tour. 5 years later, in 2022 they launched a new coaching
+initiative geared towards attracting, developing, and retaining
+female tennis coaches. The Coach Inclusion Program aims to
+break down barriers and provide opportunities for women
+looking to enter coaching at the professional level. According
+to Coaching news presented by the WTA website, the new
+program will focus on increasing the number of female
+coaches in the WTA by promoting professional and grassroots
+coaching as a compelling career choice to current and former
+female athletes and coaches, as well as developing targeted
+education mentorship and career guidance from other
+successful coaches (www.wtatennis.com).
+The ITF Gender Equality in Tennis Committee intends to
+develop position statements on issues related to gender
+inequality in sport following the Gender Equality in Tennis
+Strategy called Advantage All. The main goal of this strategy is
+to develop and maintain tennis as an equal advantage sport -
+both on and off the court - which can serve as an inspirational
+role model for all Olympic and Paralympic sports (ITF, 2023).
+The Hungarian Olympic Committee, following the IOC's
+gender equality efforts, has had a Women in Sport (more
+recently
+Gender
+Equality)
+Commission,
+whereas
+the
+Hungarian Tennis Federation (HTF) established a Women's
+Committee in 2020, headed by Andrea Temesvári, a former
+professional tennis player, French Open champion in doubles
+with Martina Navratilova in 1986. The Committee was
+involved in the survey of the ITF Advantage All program,
+designed to help national tennis federations identify where
+they stand in terms of Gender Equality and to provide
+guidance to identify where they stand in terms of Gender
+Equality and to guide further action.
+LITERATURE REVIEW
+But what barriers need to be removed to get more women
+coaches working in tennis? The reasons have been analyzed
+from different disciplinary perspectives (Kilty, 2006; Pfister,
+2013; Kubayi et al., 2017; Jowett et al., 2022) that hinder
+women's career planning and progression as coaches in
+general. Quantitative and qualitative research suggests
+that the underrepresentation can be explained by the lower
+intention, motivation, and preference to coach, or the lower
+self-confidence, but also by those factors which lead to the
+higher intention to leave the profession compared to men
+(Cunningham et al., 2003; Sagas et al., 2006; Norman &
+Rankin-Wright, 2018). These may include unequal gendered
+relations, gender stereotypes, and questioning of coaching
+competence, (Fasting & Pfister, 2000; Fielding-Lloyd &
+Mean, 2011;  Fielding-Lloyd & Mean, 2016; LaVoi et al.,
+2019; Rankin-Wright, 2015; Shaw & Allen, 2009), as well as
+tensions between female roles (Pfister, 2013), i.e. personal
+lives, relationships, social and family commitments must be
+sidelined to meet the expectations of being a coach and to
+prove themselves as women (Norman & Rankin-Wright, 2018).
+In their study, Jowett et al. (2022) not only summarise the
+relevant literature on the topic but to describe the problems
+of women in coaching and put forward recommendations
+to solve them. They highlighted that cultural (openness and
+acceptance, safety and confidence), organizational (strategies
+and policies, education and training), contractual (types of
+contracts, salary), and health factors (work-life integration)
+are in the background of the underrepresentation of women in
+coaching. Of these, the issue of combining coaching with family
+life is highlighted by several studies (Boloorizadeh et al., 2013;
+Sisjord et al., 2022), which conclude that this is a particular
+problem in sports where absence from the family over longer
+periods is a reality due to the series of competitions. Female
+coaches often express a feeling of guilt for staying away for
+weeks, which may also occur among their male colleagues, but
+with a lower frequency. In elite-level tennis, regular longer or
+shorter trips, depending on performance are an integral part
+of the work between coach and trainee.
+METHODS AND PROCEDURES
+In Hungary, no study has yet been carried out to analyze the
+situation of female coaches, nor has there been any data on the
+prevalence of women in the coaching profession in different
+areas of the sport. To enable the Women's Committee of
+the Hungarian Tennis Federation to work effectively for the
+promotion of gender equality, it is necessary to investigate
+the following:
+•	 Q1: How can the professional qualification of female
+tennis coaches be described and their distribution in the
+different areas of the sport?
+•	 Q2: How do they perceive their opportunities, and
+professional, moral, and financial standing compared to
+their male counterparts?
+•	 Q3: What individual and organizational factors can
+explain the current situation of female tennis coaches?
+We supposed that the majority of female tennis coaches do
+not have a higher education (MSc, BA) degree in coaching, and
+are mainly active in the field of youth and recreational tennis,
+and least present in the field of elite tennis coaching. In their
+subjective judgment, their financial standing and prestige
+are lower than that of their male counterparts, and their
+professional competence in tennis is often questioned, except
+by coaches who are working in talent care systems or at the
+recreational level. One of the reasons behind this is that only
+a few women hold senior positions in sports clubs.
+Our paper presents the results of an empirical research,
+including:
+•	 (1) an online survey, carried out among 94 women, working
+as tennis coaches, with a focus on their professional
+progress, prestige, and financial remuneration, and
+•	 (2) semi-structured in-depth interviews with top
+competitors, club managers, and the president of the
+Women’s Committee, who also works as a coach.
+In the quantitative part of the research (1), data were collected
+by a Qualtrics survey, whose content and face validity were
+confirmed by 10 women’s coaches who had previously
+participated in a round-table discussion organized by the
+Women’s Committee of the Hungarian Tennis Federation.
+Since we did not have any data on the number of female
+coaches working in Hungarian tennis, it was not possible to
+take a representative sample of that population, so we tried
+to reach as many coaches as possible using the snowball
+sampling method to expand the list of available respondents.
+The questionnaire contained 29 questions: Along with
+demographics, the items were related to coaching education
+and coaching experience, and a variety of items reflecting
+perceptions of women’s coaches related to their male
+counterparts. We summarize and describe the main features
+of the dataset with descriptive statistics. In the second phase
+of the research (2) we also gathered qualitative data to get
+insight into the thoughts and opinions of other actors in female
+tennis. We interviewed two former top female tennis players
+and three club managers who were contacted by one of the
+researchers. The interviews were done online in January
+2023, which lasted on average half an hour. The questions
+focused on the respondents' perceptions of female tennis
+coaches in Hungary. All respondents gave their consent that
+we could use the information from the interviews but without
+mentioning their names.  Andrea Temesvari, president of the
+Women’s Committee of the Hungarian Tennis Federation, and
+a former top player, who currently works as a coach, also was
+asked not just about the situation of female tennis coaches,
+but also the difficulties that they face within the workplace.
+Interviews were personally recorded by mobile phone with
+the permission of the interviewee, with supplementary
+notetaking.  After all data had been collected, we analyzed
+them according to the research questions.
+RESULTS
+Female coaches on the Hungarian courts – demographic
+characteristics and working areas
+In terms of the demographic characteristics of the
+respondents, only 24 of them are under 35 years old, which is
+related to the fact that they all played tennis actively before
+and started their coaching career afterward. At the same time,
+13 coaches are over 65, presumably mainly in recreational
+tennis (Figure 1).
+Of these, 8 hold a BA, and 8 got an MA level tennis coaching
+qualification, indicating that only a few of the respondents
+hold the highest level of professional qualification currently
+available in Hungary. 25 respondents hold an intermediate
+coaching qualification, and 12 ladies have a tennis instructor
+qualification. Of the respondents, 23 are working as tennis
+coaches or instructors without a relevant qualification.
+However, of those who have a state-recognized diploma in
+tennis coaching, several also have an international coaching
+qualification (USPTR, WTA Pro Coaching) (Table 1)
+Table 1
+Professional qualification of respondents (frequency).
+National qualification
+Master’s
+degree
+(EQF* 7)
+Bachelor’s
+degree
+(EQF 6)
+Higher
+National
+Diploma
+(EQF5)
+Higher
+National
+Certificate
+(EQF4)
+Coaching
+Licence
+issued by
+HTF
+International qualification
+Professional
+Tennis Registry
+(PTR)
+WTA Pro
+Coaching
+Lawn Tennis
+Association (LTA)
+Non-qualified
+*According to the European Qualification Framework Level.
+Only 15 of the 94 respondents indicated that they had no
+competitive background and had acquired their knowledge
+of the sport as recreational tennis players. Also, 15 of the
+respondents had played for the Hungarian national team and
+the same number had been part of the national squad in their
+junior age. In addition, 18 female coaches used to compete in
+the first division, while 31 of them competed in the second
+division or at a lower level (Figure 2).
+Figure 1. Distribution of respondents by age.
+Figure 2. Highest level in respondent’s tennis career.
+74  respondents are married or in a relationship, which means
+that they also have to cope with the role of housewife and
+mother. The majority of respondents (63) have a tertiary
+education, but a low proportion have a sport-related degree.
+More than half of the respondents (57) no longer compete,
+which may be related to the age distribution of the sample,
+but those who do still venture into competition compete in
+lower divisions, team championships, or senior tournaments.
+The global phenomenon of gender imbalance among coaches
+working in high-level competitive tennis can also be strongly
+marked in Hungary, with only three of the 94 respondents
+working in adult elite sports. 40 women are coaches in
+recreational sports, while 26 are involved in youth coaching
+(Figure 1).
+The following questions of the survey asked respondents to
+share their experiences of gender discrimination during their
+coaching career if they have any. Only 11 female coaches
+reported being negatively discriminated against during their
+careers, in all incidents, based on the otherwise more common
+perceived prejudice that they were less professionally
+capable than their male counterparts. Here we also explored
+the advocacy needs of women coaches and whether they seek
+professional cooperation with each other. The responses show
+that there is no uniform need for the Women's Committee of
+the Hungarian Tennis Federation, which was only known by
+slightly more than half of the female coaches, to strengthen
+the recognition of female tennis coaches by making their
+network more dynamic and by organizing professional
+programs.
+We also wanted to explore if respondents have experienced
+other forms of gender bias, so we asked them to answer the
+following question: “Have you been in any way favored in your
+work as a tennis coach because you are a woman?” Only 15 of
+them reported such cases, most of them connected to youth
+tennis, where parents appreciated their nurturing attitude
+towards their children more, in comparison with their male
+counterparts. It indicates, that recognition is more related to
+feminine attributes than professional reasons.
+Organizational factors behind under-representation
+The information from the three female club managers
+confirmed what was received from the coaches: they were
+in the middle age bracket, their main income did not come
+from their club management work, and all three were “tennis
+moms”. They were happy to have female coaches, although
+they complained about their low numbers – in the examined
+period, only one of them employed a female coach. On this,
+she reflected as follows:
+“Usually there was always a female coach, but when she
+wasn't working it was because it was difficult to combine
+family life with tennis coaching... There are not many
+female tennis coaches in Hungary anyway, there should be
+more female coaches working full-time.”
+As one of them pointed out, she believes that the role of
+female coaches is particularly important in the field of youth
+training, because at the lower age groups, a sense of pedagogy
+and empathy are very important, and in her experience,
+women are better at this. In addition, all three said that they
+particularly enjoyed working with a female coach. similar
+to the coaches examined, they did not experience negative
+gender discrimination in their work, but one of them expressed
+a strong opinion about this phenomenon in Hungarian sports:
+“There is severe male dominance in sports leadership.
+The attitude of male sports leaders towards female sports
+leaders is not very fair. The professionalism of female
+sports leaders is challenged and questioned, and they are
+judged negatively, even if they have proven themselves.
+When forming an opinion, a female professional’s opinion
+did not always carry the same weight as that of a male, so
+their ideas were mostly implemented, if they were by the
+male view.”
+Only a few are involved in school, university/college, or
+disabled sports, and two respondents work as qualified Play
+and Stay coaches. It is not surprising that only a quarter of the
+respondents work as permanent employees of the Hungarian
+Tennis Federation or a sports association, sometimes on a
+fixed-term contract.
+Opportunities, moral and financial esteem: Are there any
+differences between genders?
+We also intended to explore how female coaches perceive
+their opportunities, and professional, moral, and financial
+standing when compared to their male counterparts. Their
+answers essentially confirmed that their place is mainly in the
+field of youth coaching, where they enjoy the trust of parents
+even more than men, especially for children of lower ages. In
+addition, only four respondents disagreed with the statement
+that in adult competitive tennis, both sexes, but especially
+men, have more confidence in male coaches than in female
+ones. However, they typically do not feel disadvantaged in
+terms of moral prestige or financial remuneration, and 63 of
+the respondents also think that the development of women's
+tennis has improved the esteem in which women coaches are
+held. The most striking difference in this regard was that the
+statement according to which only a successful competitive
+record can give a coach credibility was agreed by more experts
+when referring to women, than related to men, especially at
+the elite tennis level.
+We also wanted to enquire whether the respondents had
+seen themselves as role models when they were active tennis
+players, i.e. whether they had met or worked with a female
+coach. Most of the former competitors reported having done
+so, and 42 of them had a female coach along the way.
+Internationally, it is also common to find that the parents
+of competitors have also been involved in tennis, either as
+former players or possibly as coaches. In our research, 50
+out of 94 respondents indicated that they fit into the status
+of Tennis mom, because they had either previously helped or
+were currently helping their child's tennis career, even if not
+necessarily as a coach.
+Figure 3. Highest level in respondent’s tennis career.
+Her findings are supported by the fact that in Hungary, the
+proportion of women at the top of sports federations is low,
+below 10%, and their presence is more noticeable in the
+position of secretary general, which is also true in tennis. The
+number of sports federations that have a women's committee
+is also negligible, which is why it is a major challenge to
+ensure that such committees function as a truly professional
+and advocacy forum. The chair of the Hungarian Tennis
+Federation's Women's Committee, former Grand Slam winner
+and world No. 7 Andrea Temesvari, is committed to this cause
+because, as our interview with her revealed, she is very keen to
+see a significant increase in the number of female coaches. She
+is currently working in this role herself, although in her former
+pro career, she has rarely met a female coach who prepared
+a competitive athlete, and it was even less characteristic of
+female coaches to travel to competitions with their trainees.
+She, as a mother of three herself, attributes this mainly to the
+fact that they are mostly only able to do so during the period
+between the end of their competitive careers and the time
+they become a mother. Being also a “tennis mom”, she often
+accompanies her junior tennis player son to international
+competitions, which can make it difficult to coordinate with
+coaching duties. She, therefore, thinks it would be possible for
+a female coach not to travel with her players every time, as it is
+possible to provide a training partner, while the technological
+conditions are already in place to keep in touch with their
+trainees.
+As a coach, she has repeatedly found that, despite her highly
+successful playing career, she has not necessarily been
+accepted as a coach, although she believes that a professional
+competitor needs the kind of authentic experience that only a
+former top player can provide. In addition, as a female coach,
+she has repeatedly found herself in a situation where her
+female trainees wanted to share with her their psychological
+and personal problems, which she felt they would not have
+opened up to male coaches. There may therefore be specific
+situations where the support of a female coach can be
+particularly useful. Similar to the female coaches surveyed,
+Andrea Temesvari considers the low proportion of female
+sports leaders in Hungary to be a major disadvantage in her
+sport, because she believes that it makes it more difficult to
+set conditions and expectations in the sports profession that
+would support female coaches.
+Although we did not ask you about her role as a coach for
+athletes with disabilities during the in-depth interview, we
+think it is important to mention, that research shows that the
+proportion of female coaches in this coaching role is globally
+much higher than that of men and that the interviewee
+herself - Andrea Temesvari - is the coach of the internationally
+successful hearing impaired tennis player Gabor Mathe, who
+was the winner of the Deaf and Hard of Hearing competition
+at the 2023 Australian Open Tennis Championships.
+CONCLUSION
+The main findings of the questionnaire and interview-based
+research among female coaches and club managers working
+in Hungarian tennis can be summarised according to our
+research questions as follows:
+•	 Few female coaches have a higher qualification in
+coaching and, although we do not have information on
+whether the same is true for men, it would be worthwhile
+to encourage female tennis players who have finished
+their competitive careers to complement their practical
+knowledge with coaching education. In this sport, the
+time spent away from the field during an active career
+means that there are scarce opportunities to build a dual
+career. It gives particular importance to the cooperation
+agreement that was signed last year by the Hungarian
+University of Sports Science and the Hungarian Tennis
+Federation to support more elite tennis competitors –
+both male and female – in their coaching studies.
+Women tennis coaches are mainly active in the recreational
+and junior training fields, with only a few making it to the
+top tennis level, which, according to elite players’ opinion,  is
+still a universal phenomenon in this sport. As the President
+Hungarian Tennis Federation’s Women's Committee Andrea
+Temesvári stated, a positive enhancement can be perceived in
+the coach workforce around the world, nevertheless, women
+mostly can be part of the coaching process in the youth and
+recreational tennis, due to their feminine qualities, like
+understanding and empathy.
+•	 Although
+numerous
+campaigns
+(https://coach.
+ca; ukcoaching.org) were launched to increase the
+proportion of female coaches in different sports,  no such
+initiative has yet been organized in Hungary, nor is there
+any intention among those who are already coaches
+to set up an active professional community under
+the leadership of the Hungarian Tennis Federation’s
+Women's Committee. Nevertheless, the high proportion
+of Tennis moms indicates that being in the sport functions
+as a transgenerational effect, but also that it can be an
+advantage for female coaches - either through easier
+time management or by reducing role tensions – if they
+have their children involved in their sport.
+Despite the under-representation in a competitive field,
+female tennis coaches do not tend to experience negative
+gender bias, although they perceive male-dominated sports
+leadership to play a role in the low proportion of female
+club managers and coaches. In Hungary the situation is
+unfavorable in general; in the national sports federations and
+major sports clubs the proportion of women leaders is only
+around ten percent, and coaches are also underrepresented,
+particularly in elite sports (Földesi & Gál, 2019).  In the highly
+competitive environment of tennis masculine traits, like
+authority and power get higher priority, which has an impact
+on women’s chances in high-performance coaching. Besides,
+the combination of family life with coaching at the elite level
+also can be challenging, considering long competition seasons,
+especially far away from home. These may be the reason that
+many female coaches are satisfied to work in recreational
+tennis or are appreciated by colleagues and parents in youth
+tennis. Organizational matters, which refer to contracts,
+wages, and working conditions, also have a strong impact on
+the situation of female tennis coaches. As our research results
+show, when women’s situation is compared with men's,
+they mainly sense a disadvantage in prestige, not financial
+remuneration, which can be explained by existing negative
+stereotypes concerning their professional competence.
+Only 23 of 94 respondents have a contract with a sports
+organization, working in part-time jobs, while most of the
+female coaches are independent, private entrepreneurs, who
+run a tennis coaching business.
+SUMMARY
+It is important to mention that after the Hungarian Olympic
+Committee and some major sports federations like the
+Hungarian Football Federation, the Hungarian Tennis
+Federation also considered it important to establish a
+Women's Committee to represent the interests of women
+in the sport (competitors, coaches, sports managers), which
+inspired us authors to carry out this study.
+This step is the first milestone to raise awareness about the
+monitoring of the situation of women in sports, and gender
+differences and to highlight that in a male-dominated sporting
+environment, it is not always professionalism but in many
+cases gender stereotypes that decide (Walker & Boop, 2010).
+This was demonstrated by the first conference on the 50th
+anniversary of the WTA, organized by the Women Committee
+(Hungarian Sports Science Association: Women in Hungarian
+Tennis, 27 April 2023. Hungarian House of Sport, Budapest),
+which featured several presentations not only on Hungarian
+women tennis coaches but also on the status of Hungarian
+women tennis players currently active in the international
+tennis elite, and which featured the names and video messages
+of former internationally renowned top players such as Judy
+Murray and Mary Pierce.
+The success of the conference encouraged us, the authors,
+to produce this study and to draw attention to the need to
+address gender disparities properly, mainly because our
+study also highlighted the under-representation of Hungarian
+women coaches, which they believe is an effect of maledominated sports leadership. Although the majority does
+not yet consider it important to monitor and address the
+role of female coaches in particular, we believe that both the
+conference and the presence of the HTF Women's Committee
+have started a process in the sport to raise awareness of the
+topicality of the issue.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that she has no conflict of interest and
+has received financial funding from the Hungarian University
+of Sports Science (HUSS) Research Fund (No.141227) to
+write this article.

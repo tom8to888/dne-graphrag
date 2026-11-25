@@ -1,0 +1,159 @@
+Title: Differences in service and return in top 8 men and women ranking
+Authors: Bernardino Javier Sánchez-Alcaraz Martínez, Javier Courel-Ibáñez, Alejandro Sánchez-Pay, Samuel García Cambronero
+Year: 2018
+Issue: Vol. 26 No. 76 (2018)
+Article id: 159
+
+www.itfcoachingreview.com
+Dec. 2018. 26th Year. Issue 76. 17-19
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i76.159
+
+Differences in service and return in top 8
+men and women ranking
+
+Bernardino Javier Sánchez-Alcaraz Martínez, Javier Courel-Ibáñez, Alejandro SánchezPay and Samuel García Cambronero
+
+University of Murcia, Spain
+
+ABSTRACT
+
+Our objective in this paper is to analyse the performance parameters in the
+serve and return of the top 8 men and women in their respective rankings in
+2017. ATP and WTA service and return performance statistics were gathered
+from the top 8 men and women ranking in 2017. Findings have shown that the
+top 8 men and women win a higher percentage of points and games with the
+service than with the return, and they win more points with the first than with
+the second service. Men´s ranking registered higher values in service
+parameters, while women ranking showed a better performance in the return.
+Finally, male players with a higher position in the ranking have a higher
+percentage of break points saved and points won at service, something which
+was not so in the women's ranking. The results of this study help in
+understanding the differences in service and return parameters between male
+and female tennis
+
+Key words: performance
+analysis, professional tennis,
+service, return, ranking
+Received: 30 May 2018
+Acepted: 5 July 2018
+Corresponding author:
+Bernardino Javier SánchezAlcaraz Martínez, University of
+Murcia, Spain
+Email:
+Bjavier.sanchez@um.es
+
+INTRODUCTION
+The analysis of competition aims to record and analyse the
+behaviours and actions of athletes in real match situations
+(O’Donoghue, Girard, & Reid, 2013). Tennis is the racket sport
+that has most frequently applied performance or competition
+analysis (O´Donoghue, & Ingram, 2001), defining a number of
+variables or performance indicators that contribute to success
+in competition (Hughes, & Franks, 2004). Among these
+indicators, service is usually considered as the most critical
+aspect, and different studies have stated that this is the key
+stroke to determine the result of a tennis match (Giampolo &
+Levey, 2013). Along this line, Barnett, Meyer & Pollard (2008)
+have found that the top 100 players of the male ranking won
+almost 80% of the games when serving and 22% of the games
+when returning, regardless of their ranking. Furthermore,
+points won at the second service and points  won at return in
+the second service are significant predictors of the upper part
+of the ranking in the professional top 100. However, there are
+no studies comparing the differences in these variables
+between male and female tennis, nor their impact on world
+ranking. Therefore, the aim of this study is to analyze serve and
+return performance parameters in top 8 male and female
+ranking during 2017.
+
+METHOD
+Sample
+The research sample consisted of a total of 16 players of which
+8 were the top ranked male tennis players, (Age: 27,3 ± 4,2
+years; Height: 189,6 ± 7,8 cm) and 8 were the top ranked female
+players (Age: 25,9 ± 4,2 years; Height: 174,4 ± 6,5 cm) of their
+respective professional tennis tours.
+
+Procedure
+ATP and WTA competition statistics were gathered from the
+top 8 ranked men and women players at the end of 2017. The
+data were taken from the information published in the ATP
+official website (www.atpworldtour.com/en/stats) and WTA
+
+(www.wtatennis.com/stats). The variables selected for service
+performance were: % first service, % points won with 1st
+service, % points won with 2nd service, % service break points
+saved, % games won at service and % points won at service.
+The variables selected for return performance were: % points
+won at return of 1st service, % points won at return in 2nd
+service, % break points won, % games won at return and %
+points won at return.
+
+Data analysis
+A comparison was made between the mean in both sexes (male
+vs. female) using the T-Student test. Then an analysis of the
+linear regression was made in steps so as to identify the
+parameters with greater influence on the position in the
+ranking, both male and female. The significance level was set
+at p<.05. All data were analyzed with the IBM SPSS 20.0 statistic
+packet for Windows (Armonk, NY: IBM Corp.).
+
+RESULTS
+Table 1 shows the results of the comparisons of the mean of
+the performance parameters in serve and return between the
+male and female top 8 players. The men registered higher
+values in service parameters, while the women showed a better
+performance in return. The percentage of good first services
+was similar for both sexes.
+
+The results of the linear regression show the saved break point
+variables and games won at service as the most influential on
+the final position in the male ranking. Figure 1 shows the
+greater percentage in these variables determines a higher
+position in male ranking (blue dots) noting the differences of
+~10% between the 8th and the 1st positions. Therefore, a
+significant influence is noted in male ranking (the higher
+percentage, the higher the position in the ranking). No
+differences were identified in female ranking (red dots).
+
+COMMENTS AND CONCLUSIONS
+The results of this study indicate that both men and women win
+a greater percentage of points and games at service than when
+returning, with the exception of winning more points at return
+on the second serve than the first serve, in line with Mecheri,
+Rioult, Mantel, Kauffmann and Benguigui (2016). Therefore, a
+good percentage of the first serve seems to be key for
+determining the result of the point in tennis. However, male
+players get a significantly higher percentage in service
+
+parameters than women, while the latter get significantly
+higher percentages in return parameters. This result could be
+due to the higher speed of men´s service (Verlinden et al.,
+2004).
+
+Notwithstanding, the result of this study shows how better
+ranked players get better service parameters, following the line
+of study of Barnett et al. (2008).
+
+This way, differences of approximately 10% have been found in
+the percentage of saved break points and games won at service
+between # 1 and # 8 of the male tennis ranking. However, the
+service and return variables do not seem to determine the
+female ranking, perhaps due to a greater equality among
+players, or a lesser degree of dependence on these variables in
+the final result of the match.
+
+Therefore, the results of this study show performance
+parameters in serve and return for the top 8 male and female
+players, which can act as a reference to coaches and players
+when planning and designing training sessions. Furthermore,
+these data seem to demonstrate how the serve is a very
+influential stroke in men´s tennis, and can determine the need
+of adopting a service dependant game pattern, while in
+women´s tennis, players can adapt to different game styles.
+Finally, some studies have shown how the serve and the return
+are more determinant on some surfaces than on others (Brown
+& O’Donoghue, 2008), so, future research could consider the
+possible differences of these parameters on different playing
+surfaces.

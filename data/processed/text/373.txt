@@ -1,0 +1,511 @@
+Title: Growth and maturity status of young elite and sub-elite tennis players
+Authors: Mustafa Söğüt, Hasan Ödemiş, Durukan Durmuş
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 373
+
+ABSTRACT
+The purposes of this study were to determine the growth and maturity status of young
+competitive tennis players and to examine their associations with national rankings. The
+participants were 36 male and 34 female players who competed in the U14 national team
+selection tournament in 2022. They were divided into three groups according to their
+results and entries as national players (n = 8), main draw players (n = 31), and qualifying
+players (n = 31). Ages at peak height velocity and growth status were calculated.
+Regardless of gender, the mean height and body mass percentiles of players were above
+the 60th centile. In girls, the results indicated that both national and main draw players
+were significantly more advanced in maturation (p< 0.05) and had higher body mass
+indexes (p< 0.05) than qualifying players. In boys, no significant differences were observed
+among the three groups for all variables. Correlation results showed that maturity status
+was the most correlated (p< 0.01) variable in girls. No significant relationships between
+rankings and other variables were obtained for boys. These results suggest that physical
+size and advanced maturity should be taken into consideration in the selection and
+identification of youth elite female tennis players.
+INTRODUCTION
+The growth and maturity status of young athletes have
+a significant influence on their body sizes (Eisenmann et
+al., 2020; Malina, 2007), and individual differences in the
+growth and maturity status of young athletes might affect
+the selection since greater physical attributes may mean
+advantages in most sports with a few exceptions (Cumming et
+al., 2005; Malina, 2007; Valente-dos-Santos et al., 2012). Their
+impacts on the performance of youth team sports athletes are
+well-documented (Baxter-Jones et. al., 2020; Philippaerts
+et al., 2006; Torres-Unda et al., 2013; Matthys, Vaeyens,
+Coelho-e-Silva, Lenoir, & Philippaerts, 2012). For example,
+Torres-Unda et al. (2013) compared the anthropometric and
+physiological characteristics of elite and non-elite young
+basketball players and found higher results in maturity status,
+height, body mass, percentage of muscle mass, aerobic fitness,
+and countermovement jump test in favor of the elite players.
+However, the data on growth and maturity status in youth
+racket sports players are limited.
+In a recent study, Coelho-e-Silva et al. (2022) examined
+the physical growth and biological maturation of young
+competitive table tennis players. Their results showed a
+substantial variation (between the 10th to 100th percentile)
+in the height and body mass of players when compared to
+reference values. In a similar study, Myburgh et al. (2016a)
+reported ranges between 50th and 90th centiles for the
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 21-26
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i89.373
+Growth and maturity status of young elite and
+sub-elite tennis players
+Mustafa Söğüt1  , Hasan Ödemiş1   & Durukan Durmuş1,2
+1Department of Physical Education and Sports, Faculty of Education, Middle East Technical University, Ankara,
+Türkiye. 2Department of Coaching Education, Faculty of Sport Sciences, Gazi University, Ankara, Türkiye.
+Key words: Biological maturation,
+youth athletes, racket sports,
+talent identification.
+Received: 6 January 2023
+Accepted: 23 February 2023
+Corresponding author: Mustafa
+Sogut. Email: msogut@metu.edu.tr
+mean height and body mass for young (8-17 years) elite male
+and female tennis players. In another study, Myburgh et al.
+(2016b) studied the maturity-related differences in physical
+fitness among young tennis players and found better results in
+grip strength and overhead power for the benefit of boys and
+girls who advanced in maturation. Conversely, no significant
+variations were observed in physical and performance
+variables between contrasting maturity groups of young
+female tennis players (Van Den Berg, Coetzee, & Pienaar,
+2006).
+COACHING & SPORT
+SCIENCE REVIEW
+The official ranking of a player is one of the major determinants
+of success in tennis (De Bosscher, De Knop, & Heyndels, 2003).
+Several earlier studies have investigated the predictors of
+national ranking in young tennis players. Kramer et al. (2017),
+for example, reported significant associations between
+ranking and upper body power in boys and maturity status
+and lower body power in girls. On the other side, findings of
+other recent studies indicated the technical characteristics
+(Kolman, Huijgen, Visscher, & Elferink-Gemser, 2021), early
+participation in tennis-specific practice, and weekly training
+volume (Söğüt, Luz, Kaya, & Altunsoy, 2019) as the most
+important predictors of national rankings.
+In summary, current literature demonstrates fluctuating
+results on the correlates of ranking in junior tennis players.
+Besides, to the best of the authors’ knowledge, no previous
+study has compared the physical growth and maturity status
+of tennis players from different competitive levels. Therefore,
+the purposes of this study were to determine the growth and
+maturity status of young elite and sub-elite tennis players and
+to determine their associations with national rankings.
+METHODS
+Participants
+The sample included 36 male and 34 female young tennis
+players who competed in Turkish U14 National Team
+Selection Tournament in 2022. They were divided into three
+groups according to their results and entries as national
+players (male= 4, female= 4), main draw players (male= 16,
+female= 15), and qualifying players (male= 16, female= 15).
+The ethical approval was obtained from the Human Subjects
+Ethics Committee of Middle East Technical University
+(0294-ODTUİAEK-2022). Children and their parents or legal
+guardians were briefed on the measurements and purpose of
+the study and written informed consents were obtained.
+Measurements
+A portable stadiometer (Seca 213, Hamburg, Germany) was
+used to measure standing and sitting height to the nearest 0.1
+cm. A digital weighing scale, calibrated to the nearest 0.1 kg,
+was utilized to measure body mass.  Body mass index (BMI) was
+calculated by dividing body mass (kg) by the squared height
+(m). The physical growth status of each player was compared
+to a comprehensive reference database (Frisancho, 2008).
+Percentile and z-score values for height, body mass, and BMI
+were calculated. Somatic maturity was estimated through age
+at peak height velocity (APHV). The APHV was determined
+using the predictive equation proposed by Mirwald, Baxter–
+Jones, Bailey, and Beunen (2002). The maturity offset was
+calculated by subtracting the difference between the APHV
+and chronological age.
+Statistical analysis
+All data were analyzed using SPSS (v. 28.0) for Windows.
+Descriptive statistics (mean ± SD) were calculated for the
+variables. The Kruskal-Wallis Test was used to analyze the
+differences among groups. Mann-Whitney U tests were used
+to follow up pairwise comparisons and to examine the gender
+differences. Spearman’s rank correlation coefficients were
+conducted to determine the associations between rankings
+and growth and maturity variables.
+Table 1
+The change in subject’s physical characteristics and ranking.
+Boys
+Girls
+U
+p
+Chronological
+age (years)
+13.5
+(0.5)
+13.4
+(0.6)
+578.5
+0.693
+Height (cm)
+166.3
+(9.2)
+162.2
+(6.2)
+421.0
+0.025
+Sitting height
+(cm)
+85.7
+(5.3)
+84.7
+(3.5)
+520.5
+0.282
+Body mass (kg)
+53.5
+(8.8)
+53.6
+(6.7)
+609.5
+0.977
+BMI (kg/m2)
+19.2
+(1.7)
+20.3
+(2.0)
+428.0
+0.031
+Height
+(z-scores)
+0.8
+(0.9)
+0.6
+(0.8)
+532.5
+0.350
+Height
+(percentiles)
+71.1
+(26.9)
+67.7
+(24.1)
+533.0
+0.353
+Body mass
+(z-scores)
+0.3
+(0.6)
+0.5
+(0.5)
+484.5
+0.134
+Body mass
+(percentiles)
+60.8
+(20.2)
+68.1
+(14.7)
+483.5
+0.131
+BMI (z-scores)
+-0.01
+(0.5)
+0.2
+(0.5)
+467.0
+0.088
+BMI
+(percentiles)
+49.5
+(17.1)
+57.3
+(16.1)
+470.0
+0.095
+APHV (years)
+13.6
+(0.6)
+12.0
+(0.4)
+7.500
+< 0.001
+Maturity
+offset (years)
+-0.1
+(0.9)
+1.4 (
+0.6)
+70.5
+< 0.001
+RESULTS
+The descriptive statistics and gender differences are
+presented in Table 1. The results indicated significant
+differences in body height, BMI, APHV, and maturity offset.
+Boys were found to be significantly taller and have lower BMI
+values than girls. On the other hand, girls were significantly
+more advanced in maturation than boys.
+The descriptive statistics of male players and the results
+for the Kruskal-Wallis Test are given in Table 2. The results
+revealed no significant differences among the three groups
+for all parameters.
+The descriptive statistics of female players and the results
+for the Kruskal-Wallis Test are represented in Table 3. The
+results indicated that both national and main draw players
+were significantly older (national vs qualifying: U = 4.000,
+p = 0.009; main draw vs qualifying: U = 41.500, p = 0.003)
+and more advanced in maturation (national vs qualifying: U
+= 8.000, p = 0.028; main draw vs qualifying: U = 48.500, p =
+0.008) and had higher BMI (national vs qualifying: U = 7.000,
+p = 0.021; main draw vs qualifying: U = 65.500, p = 0.049)
+values than qualifying players. Besides main draw players had
+significantly greater body mass than qualifying players (U =
+56.000, p = 0.019). No significant differences were observed
+among the three groups for other variables.
+Table 2
+Descriptive statistics of boys and the results for Kruskal-Wallis Test.
+National players
+Main draw players
+Qualifying players
+H
+p
+Chronological age (years)
+13.6 (0.5)
+13.6 (0.4)
+13.3 (0.6)
+4.063
+0.131
+Height (cm)
+165.9 (7.9)
+167.3 (8.7)
+165.3 (10.4)
+0.328
+0.849
+Sitting height (cm)
+84.8 (5.1)
+86.9 (4.8)
+84.6 (5.9)
+1.664
+0.435
+Body mass (kg)
+54.3 (8.4)
+54.5 (9.2)
+52.2 (8.9)
+0.491
+0.782
+BMI (kg/m2)
+19.6 (1.4)
+19.4 (1.9)
+18.9 (1.5)
+0.163
+0.922
+Height (z-scores)
+0.6 (1.1)
+0.8 (0.9)
+0.8 (1.0)
+0.142
+0.931
+Height (percentiles)
+67.1 (33.9)
+71.8 (28.1)
+71.3 (25.9)
+0.153
+0.926
+Body mass (z-scores)
+0.3 (0.6)
+0.3 (0.6)
+0.3 (0.6)
+0.038
+0.981
+Body mass (percentiles)
+61.9 (21.7)
+61.7 (20.7)
+59.6 (20.7)
+0.041
+0.980
+BMI (z-scores)
+0.1 (0.4)
+0.001 (0.5)
+-0.04 (0.5)
+0.307
+0.858
+BMI (percentiles)
+53.2 (14.5)
+49.3 (17.7)
+48.8 (17.9)
+0.307
+0.858
+APHV (years)
+13.7 (0.7)
+13.5 (0.6)
+13.6 (0.6)
+0.598
+0.742
+Maturity offset (years)
+-0.1 (0.8)
+0.1 (0.8)
+-0.3 (0.9)
+1.607
+0.448
+Table 3
+Descriptive statistics of girls and the results for Kruskal-Wallis Test.
+National players
+Main draw players
+Qualifying players
+H
+p
+Chronological age (years)
+14.0 (0.1)
+13.6 (0.5)
+13.0 (0.5)
+12.814
+0.002
+Height (cm)
+160.5 (3.5)
+163.5 (5.4)
+161.3 (7.4)
+1.027
+0.599
+Sitting height (cm)
+84.5 (2.3)
+85.4 (3.3)
+84.1 (3.9)
+1.157
+0.561
+Body mass (kg)
+55.8 (3.3)
+55.5 (5.5)
+51.1 (7.8)
+6.813
+0.033
+BMI (kg/m2)
+21.7 (1.8)
+20.8 (1.9)
+19.5 (1.9)
+6.814
+0.033
+Height (z-scores)
+0.1 (0.5)
+0.7 (0.8)
+0.7 (0.9)
+1.383
+0.501
+Height (percentiles)
+55.4 (18.5)
+70.3 (22.7)
+68.5 (27.0)
+1.383
+0.501
+Body mass (z-scores)
+0.6 (0.2)
+0.6 (0.4)
+0.4 (0.5)
+1.466
+0.480
+Body mass (percentiles)
+71.2 (8.4)
+71.3 (13.9)
+64.1 (16.3)
+1.466
+0.480
+BMI (z-scores)
+0.5 (0.4)
+0.3 (0.5)
+0.1 (0.4)
+3.111
+0.211
+BMI (percentiles)
+66.7 (13.4)
+59.9 (17.7)
+52.3 (14.1)
+3.066
+0.216
+APHV (years)
+12.3 (0.2)
+12.0 (0.4)
+11.9 (0.4)
+3.175
+0.204
+Maturity offset (years)
+1.7 (0.3)
+1.6 (0.4)
+1.1 (0.6)
+8.950
+0.011
+Figure 1. The mean height, body mass, and BMI percentiles of boys and girls.
+Figure 2. Correlation results between ranking and other variables by gender.
+ChAge= chronological age, H= height, SH= sitting height, BM= body mass, BMI= body mass index, Hz= height z score, Hper= height
+percentile, BMz= body mass z score, BMper= body mass percentile, BMIz= body mass index z score, BMIper= body mass index
+percentile, APHV= age at peak height velocity, MO= maturity offset.
+* p<0.05, ** p<0.01
+The mean body height, body mass, and BMI percentiles of
+male and female players are given in Figure 1. Regardless of
+gender, height, and body mass percentiles of players were
+above the 60th centile. The heights, body masses, and BMIs
+of male players ranged between 17th - 99th, 14th - 94th, and
+14th - 93rd centiles, respectively. In girls, they fluctuated
+between 13th - 99th, 34th - 95th, and 31st - 87th centiles.
+The correlations between national rankings and other
+parameters for boys and girls are presented in Figure 2. In
+girls, the results showed significant associations between
+ranking and chronological age (rs(32) = -0.566,  p = 0.001),
+body mass (rs(32) = -0.555,  p = 0.001), BMI (rs(32) = -0.469,
+p = 0.005), BMI z score (rs(32) = -0.368,  p = 0.032), BMI
+percentile (rs(32) = -0.364,  p = 0.034), maturity offset (rs(32)
+= -0.599,  p = 0.001). In boys, no significant relationships
+between ranking and other variables were attained.
+DISCUSSION
+This cross-sectional study aimed to determine the growth and
+maturity status of young competitive tennis players and to
+examine their associations with national rankings. The results
+revealed gender differences in various parameters. Boys were
+found to be significantly taller and had lower BMI values than
+girls. On the other hand, girls were found to be more advanced
+in maturation than boys. The disparities in maturity status
+were also observed from the findings of previous studies
+(Kramer et. al., 2017; Söğüt et al., 2019). This result may be
+explained by the timing of the growth spurt, as girls achieve
+their peak height approximately two years earlier than boys
+do (Beunen & Malina, 1996; Malina et al., 2004; Sherar et al.,
+2007).
+Another notable finding was that the mean height, body
+mass, and BMI percentiles of both boys and girls were above
+the 50th percentile when compared to age- and gendermatched normative references, except for the BMI percentile
+in boys (49.5). These results are in line with the findings of
+Baxter-Jones et al. (1995), Erlandson et al., (2008), Myburgh
+et al. (2016), and Söğüt et al. (2019). It seems that there is a
+tendency for greater body size among young competitive
+tennis players.
+The results showed no significant differences among the three
+groups for all parameters for boys. On the other hand, for
+girls, both national and main draw players were significantly
+more advanced in maturation and had higher BMI values
+than qualifying players. Besides, the results for girls showed
+significant associations between ranking and maturity offset
+and BMI parameters, whereas no significant associations
+were observed for boys. These findings are in agreement with
+previous studies (Kramer et. al., 2017; Söğüt et al., 2019). Their
+results indicated significant relationships between national
+rankings and the percentage of the predicted adult stature
+and APHV in U12 and U13 female players, respectively. It
+might be concluded that maturity status has a crucial role in
+tennis performance for girls competing in this age category.
+This study is subject to two main limitations. First, the
+sample was limited to U14 tennis players in a national
+team selection tournament. Second, tactical, technical, and
+psychological performance indicators were not included
+in this study. Unierzyski (2002) indicates that experiencerelated parameters might be decisive factors in actual
+tennis performance in junior tennis; however, they might
+not affect tennis performance on the professional level.
+Therefore, future studies are suggested to expand their
+scope by including consecutive age groups and other possible
+performance indicators.
+In conclusion, this study aimed to add new insight to the
+scarce literature on the growth and maturity status of young
+competitive tennis players and their influences on actual
+tennis performance. The results demonstrated maturityassociated differences in favor of the elite girls. The findings
+suggest that physical size and advanced maturity should be
+taken into consideration in the selection and identification of
+youth elite female tennis players.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

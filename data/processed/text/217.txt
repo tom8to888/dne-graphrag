@@ -1,0 +1,268 @@
+Title: Stress test specific to tennis (Test): Case study of an elite player
+Authors: Cyril Brechbuhl, Olivier Girard, Grégoire Millet, Laurent Schmitt
+Year: 2016
+Issue: Vol. 24 No. 70 (2016)
+Article id: 217
+
+www.itfcoachingreview.com
+December 2016. 24th Year. Issue 70 27-30
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v24i70.217
+
+Stress test specific to tennis (Test): Case study
+of an elite player
+Cyril Brechbuhl (FRA), Olivier Girard (FRA), Grégoire Millet(FRA) and Laurent Schmitt
+(FRA)
+ITF Coaching and Sport Science Review 2016; 70 (24): 27 - 30
+ABSTRACT
+Although assessment of the technical, physical and physiological qualities required for
+performance optimisation is complex in tennis, it is nonetheless essential to training
+planning. While physical goals are often dissociated from technical ones, we argue that a
+recently validated stress test specific to tennis, known as “TEST” (Brechbuhl, Girard,
+Millet, & Schmitt, 2016), allows to combine both effectively. Differences in forehand and
+backhand efficiency may occur as a result of fatigue under standardised conditions, thus
+minimising emotional and tactical effects. The aim of the present case study is to offer a
+practical reading of TEST in an elite player.
+
+Key words: Incremental test,
+ball hitting, ball speed, training
+Received: 30 September 2016
+Accepted: 10 October 2016
+Corresponding author:
+Cyril Brechbuhl
+Email: Cyril.brechbuhl@fft.fr
+
+INTRODUCTION
+Technological and scientific advances have made it possible to
+gradually progress towards field testing that is more specific
+and closer to performance specificities. Two aspects seem to
+favour specific tests (on the court, using real or simulated ballhitting action) over semi-specific tests (close to the activity
+pattern in terms of work and recovery times) (“Yo-Yo IR2”
+[Bangsbo, Iaia, & Krustrup, 2008]; “30-15 Intermittent Fitness
+Test” [Buchheit, 2008]; “Shuttle Run Test” [Leger & Lambert,
+1982]): (1) the use of the tennis court dimensions, and (2) the
+combination of specific footwork and upper body movements
+(i.e. simulating or executing strokes).
+In regards to specific tests, some authors have used tennisspecific movements, but with no actual hitting of the ball
+(Ferrauti, Kinner, & Fernandez-Fernandez, 2011; Girard,
+Chevalier, Leveque, Micallef, & Millet, 2006), while others have
+integrated real ball-hitting action with assessment of hitting
+accuracy (Baiget, Fernandez-Fernandez, Iglesias, Vallejo, &
+Rodriguez, 2014; Davey, Thorpe, & Williams, 2002; Smekal et
+al., 2000) or without any technical assessment (Fargeas-Gluck
+& Leger, 2012). There is a growing desire to relate parameters
+of technical performance (stroke accuracy and/or velocity) to
+physiological changes (blood lactate concentration [la], heart
+rate (HR), oxygen uptake (VO2)) under standardised conditions
+(Davey et al., 2002; Smekal et al., 2000; Vergauwen, Spaepen,
+Lefevre, & Hespel, 1998).
+By comparing physiological responses between a field-based
+procedure and a discontinuous treadmill test, Girard et al.
+(2006) highlighted that laboratory tests underestimate maximal
+oxygen
+uptake
+(VO2max)
+values,
+while
+main
+cardiorespiratory variables (HR, VO2) measured at submaximal
+intensities did not differ (Girard et al., 2006). We prefer tests
+that integrate real ball-hitting action because upper body
+contribution, which has a significant influence on energy
+expenditure as reported in the literature (FernandezFernandez, Kinner, & Ferrauti, 2010), must be taken into
+account. To date, no comparison of physiological influences
+between simulated and actual strokes (without distinguishing
+forehand and backhand strokes) has been published in the
+literature.
+From a study case, we will see how TEST (Brechbuhl, Girard,
+Millet, & Schmitt, 2016) allows to have a physiological
+approach while ensuring that technical execution meets the
+requirements of high performance.
+
+EQUIPMENT AND METHOD
+Player
+The subject is an elite male player, aged 19 at the time of the
+test. After having been one of the most promising junior
+players, he continued to perform well on the tour, reaching
+second weeks of Grand Slams and winning ATP titles.
+Article received: 30 September 2016 Article accepted: 10
+October
+
+Test Protocol
+TEST procedure consists of hitting balls thrown at a mean
+velocity of 86 km.h-1 by a Hightof’ ball machine, alternating
+crosscourt forehand and backhand strokes (Brechbuhl, Millet,
+
+& Schmitt, 2016) (Figure 1). After a 2-minute “habituation”
+phase (ball frequency of 16 shots.min-1), the first stage consists
+of a ball frequency of 10 shots.min-1, which is then increased
+by 2 shots.min-1 every minute until the stage corresponding to
+22 shots.min-1 is reached. From there, increment in ball
+frequency is set at +1 shot.min-1 until exhaustion. Between
+each stage, a 30-second (passive) recovery break is
+implemented. TEST allows a simultaneous evaluation of
+physiological and technical variables. Ball velocity (using a radar)
+and accuracy values are recorded for each stage completed.
+Player is encouraged to find the right balance between ball
+speed and accuracy. Combined, velocity and accuracy
+parameters give an insight on technical performance
+(PerfTennis) (Figure 3B).
+We chose the Cortex MetaMax 3B® analyser because of its
+ease of use, light weight and compact size. It weighs 570 grams
+and allows to measure HR, VO2, carbon dioxide production
+(VCO2) and ventilation (VE). Ventilatory threshold (VT1 and
+VT2) detection was done by analysing the points of change in
+slope
+(breaks
+in
+linearity)
+ventilatory
+parameters
+(Wasserman, 2005).
+Furthermore, for the player’s optimal comfort, we used a
+neoprene mask which does not obstruct vision. In order to hold
+the MetaMax 3B® system in place during the player’s
+movements, we used a breathable, comfortable Surgifix elastic
+net
+bandage
+(Picture
+1).
+
+LACTATE CONCENTRATION MEASUREMENT
+Capillary blood samples were taken from fingertip and analysed
+lactate
+concentrations
+as
+per
+current
+guidelines
+(Dassonville et al., 1998). Samples were taken on the nondominant hand to preserve the quality of the player’s racket
+grip. Accordingly, during TEST, measurement was done every
+two stages using the Lactate Pro II analyser by Arkray®.
+BALL VELOCITY AND ACCURACY MEASUREMENT
+Groundstroke efficiency was determined from ball velocity
+(km.h- 1) measured using the Solstice 2 radar (Hightof’®,
+France), and accuracy measured by a coach who recorded data
+on a touch screen. Groundstroke accuracy value was derived
+from the percentage (%) of balls landing in the target zone
+defined in Figure 1.
+RESULTS
+Data on physiology and technical performance relative to
+increasing effort are shown in tables and figures below.
+Zone 1: Pure aerobic zone, below LT1 (first lactate threshold)
+VT1
+(first
+ventilatory
+threshold).
+
+Aerobic endurance training: increased vascularisation of
+muscles, increase in the number and size of mitochondria,
+increase in the amount of aerobic enzymes (Krebs cycle) and
+beta-oxidation enzymes.
+Zone 2: Zone between the first and second lactate thresholds
+(or below VT2); zone of aerobic development through
+increased use of shuttle systems of transport of hydrogen ions
+(NADH2); mixed zone of lipid and carbohydrate use.
+Zone 3: Above the second lactate threshold and VT2; zone of
+elevated blood lactate levels; decrease in tennis performance
+level as a result of muscle acidosis and hyperventilation.
+Maximal aerobic power training. Increased cardiopulmonary
+capacity, increased transport of oxygen, increased glycolytic
+enzymes (PFK and LDH during conversion of lactate into
+pyruvate), improved muscle buffering capacity, increased
+muscle
+glycogen
+stores.
+
+DISCUSSION
+The growth of training methodologies in tennis forces us to
+think about ways to optimise time and resources used. How
+can we make strength training techniques coexist with those
+designed for the development of speed, endurance and
+technical skills? Our aim is to suggest an approach which
+combines physiological capacity development and technical
+skill training based on data provided by TEST.
+A “polarised” approach to training, whereby approximately 75%
+of total training volume is performed at low aerobic intensities
+(Zone 1), and 10-15% is performed at high or very high
+intensities (Zone 3), has been suggested as an optimal training
+intensity distribution for elite athletes who perform intense
+exercise events (Laursen, 2010). Clearly, such a distribution can
+hardly be applied to tennis considering the routines and
+exercises that we typically find in our sport, but this proposal
+serves as a basis for our discussion. In a recent study on tennis
+players’ energy responses during competition (Baiget,
+Fernandez-Fernandez, Iglesias, & Rodriguez, 2015), Baiget et al.
+(2015) found that players spend 77% (± 25%) of playing time in
+the low intensity zone (Zone 1), 20% (± 21%) in the moderate
+intensity zone (Zone 2), and 3% (±5%) in Zone 3. TEST data
+
+allow
+this
+organisation
+workload.
+
+Training effects on general physiological state must contribute
+to balancing the influences on athletes’ neurovegetative
+activity (Schmitt et al., 2015). It has become evident that most
+training situations that incorporate repetitions of ball-hitting
+drills with a high level of commitment bring players close to
+VT2 (Reid, Duffield, Dawson, Baker, & Crespo, 2008).
+Therefore, we encourage coaches to reconsider predominantly
+technical training sessions with a focus on a limited number of
+strokes that does not exceed 7 s, and 20-s recovery periods
+between repetitions. This way, glycogen stores – particularly
+used at such intensity levels – would be preserved and it would
+allow for repetitions of ball-hitting drills at VT1 (i.e. Stage 6 in
+the studied case, which corresponds to an intensity level of 20
+shots.min-1). Similarly, analysis of activity under competitive
+conditions (Baiget et al., 2015) supports the assumption that
+forms of points played with serve should aim to maintain
+players close to Zone 1 with less deleterious effects on fatigue.
+From TEST, goals focused primarily on technique (Zones 1 and
+2) or energy (Zone 3) can be pursued, with a focus on quality of
+stroke production and feedback on velocity and accuracy
+(Table 2). For Zone 1, for example, the goal would be to keep
+the session going as long as possible at Stage 6, which
+corresponds to VT1 (i.e. 81% VO2max or 89% HRmax for the
+player in our study), with 2 or 3 series of 5 to 10 minutes of
+continuous activity and 3-minute passive recovery periods
+between series. Alternatively, if the goal is Zone 3, shorter
+hitting intervals (15 s to 1 min), interspersed with passive
+recovery periods (15-30 s), should be preferred. In all cases, it
+is advisable to avoid falling below a 50% rate of balls in the
+defined target zone for expert players; and a 40% rate for less
+experienced players (Lyons, Al-Nakeeb, Hankey, & Nevill, 2013)
+during TEST. In the present study case, we observed a
+somewhat stable ball velocity during the test. In contrast,
+changes in accuracy were quite significant for forehand strokes:
+first between Stages 4 and 5 (-12%), and then more noticeably
+between Stages 7 and 8 (-20 %). In both cases, the player had
+not yet reached VT2. Therefore, it is important to put the
+emphasis on forehand accuracy when working at Zones 1-2. It
+should also be noted that values attained by our player
+compare favourably with those published elsewhere. Indeed, at
+the lowest point of the start of the decline, we still observed a
+65% accuracy rate in forehand (Stage 8), still 15% above the
+average values found by Lyons (Lyons et al., 2013) for expert
+players, even though our target zones were smaller.
+Nevertheless, in the interest of progress, a work plan can
+clearly
+be
+identified.
+
+CONCLUSION
+Considering the complexity of performance and trainable
+performance factors, training themes in tennis appear to be too
+frequently treated analytically. Through TEST and its
+applications, our aim is to suggest a global approach designed
+to
+avoid
+redundant
+physiological
+demands.
+Without
+
+underestimating the diversity of practices, this approach may
+contribute to a more efficient planning of training contents and
+a better management of fatigue.

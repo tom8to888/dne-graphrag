@@ -1,0 +1,13 @@
+pair,criterion,win_opus,p_holm_opus,sig_opus,win_mistral,p_holm_mistral,sig_mistral
+global vs basic,comprehensiveness,0.2444,0.0017,True,0.4611,1.0,False
+global vs basic,diversity,0.4,0.5632,False,0.4333,1.0,False
+global vs basic,empowerment,0.1111,0.0,True,0.4167,1.0,False
+global vs basic,directness,0.2222,0.0012,True,0.3667,0.4953,False
+local vs basic,comprehensiveness,0.2444,0.0012,True,0.3722,0.0015,True
+local vs basic,diversity,0.3556,0.1767,False,0.2722,0.0051,True
+local vs basic,empowerment,0.2556,0.0017,True,0.3,0.003,True
+local vs basic,directness,0.2556,0.0033,True,0.3167,0.0189,True
+global vs local,comprehensiveness,0.5222,1.0,False,0.55,1.0,False
+global vs local,diversity,0.5389,1.0,False,0.5667,1.0,False
+global vs local,empowerment,0.3889,0.53,False,0.6333,0.2317,False
+global vs local,directness,0.3778,0.4944,False,0.4889,1.0,False

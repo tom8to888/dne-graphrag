@@ -1,0 +1,7 @@
+pair,comprehensiveness,diversity,empowerment,directness
+Opus vs Mistral,0.55,0.6,0.45,0.5
+jc vs Mistral,0.5,0.55,0.45,0.4
+jc vs Opus,0.35,0.65,0.4,0.4
+thomas vs Mistral,0.55,0.5,0.35,0.65
+thomas vs Opus,0.45,0.45,0.6,0.7
+thomas vs jc,0.45,0.75,0.45,0.4

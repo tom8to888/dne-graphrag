@@ -1,0 +1,322 @@
+Title: The energy expenditure in the 5 types of modern tennis players
+Authors: Fabrizio Senatore, Roberto Cannataro
+Year: 2019
+Issue: Vol. 27 No. 78 (2019)
+Article id: 93
+
+www.itfcoachingreview.com
+August 2019. 27th Year. Issue 78. 35-39
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i78.93
+
+The energy expenditure in the 5 types of
+modern tennis players
+Fabrizio Senatore a & Roberto Cannataro b
+a Italian Tennis Federation, Trentino, Italy b University of Calabria, Arcavacata, Province of Cosenza, Italy.
+
+ABSTRACT
+
+This project analyzes and categorizes the 5 types modern tennis players: striker from the
+baseline, counterattack from the baseline, complete in all court, serve and volley, attacking
+player, through the assessment of body hydration, energy expenditure, and matches statistics.
+
+Key words:  tennis, energy
+expenditure, metabolic Holter,
+bioimpedentiometry.
+Received: 06 March 2019
+Accepted: 20 June 2019
+Corresponding author: Fabrizio
+Senatore, Italian Tennis
+Federation, Roberto Lombardi
+Higher Training Institute,
+Trentino, Italy.  Email:
+senfab@libero.it
+
+INTRODUCTION
+To the best of our knowledge, this is the first scientific study
+on the energy expenditure of the 5 types of player in modern
+tennis: striker from the baseline, counterattack from the
+baseline, complete in all court, serve and volley, attacking
+player. In order to address our aim, we used 3 technological
+instruments: the "DF-50 Impedimed" bioimpedenziometer,
+the "SenseWear armband BodyMedia" metabolic holter and
+the "Score Analyzer for Tennis" smartphone app.
+
+First, the bioimpedenziometer, a professional non-invasive
+instrument, was used to analyze the athletes’ body
+composition and the distribution of intra and extracellular
+fluids. The analysis performed before the tennis match
+provided with the athlete's current state of health, while the
+analysis performed after the match, determined how much
+each athlete lost in terms of body hydration. Then, throughout
+the use of the metabolic Holter, applied to the triceps of the
+athlete's arm, we evaluated the total kcal consumed during
+the match at the best of 3 sets (2 sets out of 3). Furthermore,
+with the aid of the graphical analysis, we also observed the
+duration and time spent sitting at the changes of court, the
+intensity and the skin temperature of the athlete. To the best
+of our knowledge, except for the sport of volleyball
+(Woodruff, Meloche 2013) and rugby (Zanetti et al., 2014),
+the metabolic holter, has not been used as scientific tool to
+assess the energy expenditure of tennis players.
+
+Finally, the smartphone app "Score Analyzer for Tennis",
+cataloged all the statistics of the matches, in order to
+determine the type of player analysed.
+
+INSTRUMENTS AND METHOD
+
+Subjects
+
+We tested 50 tennis players, including 25 males and 25
+females, aged between 14 and 28 years.
+Their tennis activities ranged from 4 to 6 times a week with
+their ranking between 2.2 and 3.3 of the Italian Tennis
+Federation classification table.
+
+Instruments
+
+We used 3 scientific instruments:
+
+1. The "DF-50 Impedimed" bioimpedenziometer to measures
+the impedance of the body to the passage of a low power high
+frequency electrical current (ca. 50 kHz). This provides
+accurate data on the total lipid mass (triglycerides) of the
+body, lean mass consisting of skeletal muscles (about 40%),
+non-skeletal muscles, lean tissues and organs (about 35%),
+skeleton (about 10%), total body water, which represents on
+average the 60-62% of the weight for men and the 56-58% for
+woman.
+
+2. The Metabolic Holter "SenseWear armband BodyMedia"
+measures the body's physiological parameters: heat flow,
+galvanic skin response, skin temperature, room temperature
+proximal to the band, movements through a two-axis and six
+channels
+accelerometer.
+Furthermore,
+we
+used
+"SenseWear BodyMedia 8.1" software to analyse the total
+energy expenditure, the active energy expenditure (METs
+above 3.0), the average METs, the number of steps and total
+distance covered, and the time spent sitting during court
+changes for each athlete.
+
+3. The app for Smartphone "Score Analyzer for Tennis" were
+used to calculate and catalogs all the statistics of tennis
+matches: as for example, the number of winners, number of
+forced errors, number of unforced errors, number of aces,
+number of descents to the net, percentages of first balls “in” at
+the service, percentages of second balls “in” at the service,
+percentages of winning returns, etc..
+
+Methodology
+
+First, we collected the anthropometric data (personal data,
+family and personal history) for each tennis player. Second, we
+collected then the anthropometric data (weight, height, body
+mass index) for each of them. After a complete and accurate
+collection of all these data, the body composition was
+measured using the "DF-50 Impedimed" bioimpedenziometer.
+The distribution of total body fluids, both intra and
+extracellular, was then detected, thus providing the current
+health status of the athletes (see Fig. 1).
+
+ Fig. 1: The figure shows a tennis player, submitted to the
+bioimpedenziometric
+exam
+before
+tennis
+match,
+scheduled 15 minutes later.
+
+Afterwards, each tennis player was asked to wear the
+metabolic holter "SenseWear armband BodyMedia" on the
+triceps of his left arm, to measure all the body's physiological
+parameters and, therefore, analyze the total energy
+expenditure (see Fig. 2).
+
+Fig. 2: The figure shows a tennis player with the metabolic
+holter "SenseWear armband BodyMedia", applied on the
+triceps of the arm, during a tnnis training session.
+
+With the metabolic holter placed, athletes were asked to play
+a training match at the best of the 3 sets (2 sets out of 3),
+observing all the necessary breaks and changes in the court
+when
+scheduled.
+During
+matches,
+through
+smartphone app "Score Analyzer for Tennis" installed on the
+researcher's smartphone, it was possible to archive all the
+statistics of the matches, to determine the type of player and
+have a direct objective analysis of the athlete performances
+on the playing court.
+
+As soon as the matches were over, we took a second
+measurement of the players’ body composition using the "DF50 Impedimed" bioimpedenziometer) in order to determine
+the amount of body hydration lost throughout the match.
+Each athlete performed 3 measurements, one for each month
+of activity (January 2018, February 2018, March 2018). All
+athletes were tested during training session played at the best
+of the 3 sets (2 sets out of 3), in outdoor facilities, with an
+average atmospheric temperature of 19° C. The matches were
+held on a single surface, the clay, to compare athlete data on a
+single playing court; avoiding thus the potential confound for
+the results obtained on different tennis surfaces (grass,
+cement and synthetic).
+
+Statistical analyses
+
+Data were analyzed using the following measures: Hydration
+and Energy Expenditure (kilocalories) separately for each type
+of player.
+
+Each measure was entered separately for Male and Female
+players into an Analysis of Variance (ANOVA) with Type of
+Players (Striker from the baseline, Counterattack from the
+baseline, Complete in all court, Serve and volley, Attacking
+player) as the within-subjects factor. Post-hoc analyses were
+conducted via pairwise comparisons (t-tests). We used
+Bonferroni correction for all comparisons.
+
+Table 2. Pairwise comparisons between different groups of male players
+for percentage points loss of hydration level during play
+RESULTS
+
+The results point to 3 main categories: body hydration, energy
+expenditure per hour and types of player. In the next
+paragraphs, these are described separately for men and
+women.
+
+Comparison of male body hydration level between the
+beginning and the end of a match
+Table 1. Percentage points of men’s body hydration lost by
+players during play
+
+The ANOVA indicated a significant main effect of Type of
+Players [F (4, 24) = 17.801, p < .001]. To assess differences in
+the hydration level between Types of Players, pairwise
+comparisons were performed.
+
+Men's energy hourly expenditure
+
+The hourly energy expenditure among the various types of
+modern tennis player has proved to be quite homogeneous,
+especially for the men, with the attacking player category
+showing a slightly higher kilocaloric expenditure compared to
+the other types of players.
+
+Table 3. Men’s hourly energy expenditure (Kcal)
+
+The ANOVA indicated a significant main effect of Type of
+Players [F(4, 24) = 7.296, p < .001]. To assess differences in the
+kilocalories between Types of Players, pairwise comparisons
+were used.
+
+Table 4. Pairwise comparisons between game styles for men’s
+hourly energy expenditure (Kcal)
+
+Comparison of female body hydration level between the
+beginning and the end of a match
+
+Table 5. Percentage points of female’s body hydration lost by
+players during play
+
+The ANOVA indicated a significant main effect of Type of
+Players [F (2, 23) = 42.000, p < .001]. To assess differences in
+the hydration level between Types of Players, pairwise
+comparisons were performed.
+Table 6. Pairwise comparisons between different groups of
+female players for percentage points loss of hydration level
+during play
+
+Female’s energy hourly expenditure
+As explained in the introduction of this paper, the female
+players did not include two types of player: the "serve and
+volley" and the "attacking player”. Thus, in the following
+paragraphs we will detail the results obtained for three types
+of players only.
+
+Table 7. Female’s hourly energy expenditure
+
+The ANOVA indicated a significant main effect of Type of
+Players [F (2, 23) = 195.008, p < .001]. To assess differences in
+kilocalories
+between
+Types
+of
+Players,
+pairwise
+comparisons were used.
+
+Table 8. Pairwise comparisons between different types of
+female players for hourly energy expenditure (Kcal)
+
+Fig. 3: The graph shows the comparison of the energy
+expenditure (kcal) hours during the matches between the
+various types of player, divided between males and females.
+The bars represent the standard deviation from the average.
+
+CONCLUSIONS
+
+The present work scientifically highlights for the first time the
+energy expenditure in the 5 types of player in of modern
+tennis players, for both male and female sectors.  To this aim,
+we measured, analyzed and then evaluated the differences in
+the hydration level between the beginning and the end of a
+match, the different energy consumption per hour and we
+provided each player with a specific type of training scheme.
+In particular, those players that evidenced a high energy
+expenditure level in the first measurement (January 2018),
+received detailed indications on how to improve their
+
+nutritional lifestyle, physical preparation and tactics used
+during
+match,
+aiming
+to
+improve
+their
+overall
+performance. For instance, to the counterattack from the
+baseline who showed high energy expenditure levels, we
+suggested two strategies: the first pointed to a radical change
+in the athlete physical preparation and nutrition habit, so as to
+achieve better performance in strength and resistance; the
+second strategy pointed to a variation of the style of play,
+including more variability so as to increase the number of
+winning shots.
+
+It is worth noting that these strategies have been addressed
+considering (technical, tactical, physical, mental aspects) and,
+as such, were customized for each subject based on the
+athlete daily training and nutritional lifestyle.
+The second and third measurements (February 2018 and
+March 2018) showed a general improvement of the player
+abilities, succeeding in concluding the exchanges during the
+match with more possible solutions and with a lower energy
+expenditure.
+
+Moreover, the results evidenced a significant difference in the
+body hydration level measured at the beginning and the end
+of each match, for both male and female, which had a strong
+impact on the match results. In fact, the 75% of players that
+won a match showed a negative variation of total body fluids
+equal to <1%. This result corroborates the importance of
+hydration before, during and after a match or a tennis training.
+Furthermore, as evidenced in the results section, female in all
+court players showed a reduced energy expenditure (ca. 200
+Kcal) compared to male players belonging to the same
+category in 1 hour of match (see Fig. 3). This underlines the
+importance of customizing a specific physical and nutritional
+model for each player, thus pointing to a general improvement
+of the athlete health and lifestyle.
+
+In conclusion, these data represent a point of strength for
+each tennis coach to scientifically guide his athletes to a
+specific type of player in modern tennis, based on the analysis
+of body and tactic measurements, and considering individual
+skills and attitudes of the athlete towards the chosen style.

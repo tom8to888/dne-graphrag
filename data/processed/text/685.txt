@@ -1,0 +1,538 @@
+Title: A Coaches Guide to Prevention and Care of Lower Extremity Injuries in Tennis Players
+Authors: Kerry C Dollaway, Kyle Hannays
+Year: 2025
+Issue: Vol. 33 No. 96 (2025)
+Article id: 685
+
+ABSTRACT
+Tennis requires rapid direction changes, explosive movements, and repetitive actions,
+all of which place significant stress on the lower extremities. Consequently, players
+often experience injuries such as plantar fasciitis, tendonitis, Osgood-Schlatter
+disease, muscle strains, ligament ruptures, and stress fractures. Teenage and female
+athletes are particularly vulnerable. This paper explores the aforementioned lower
+extremity injuries, their symptoms, and prevention strategies, emphasizing the role
+coaches play in reducing injury risk. It highlights the importance of early detection,
+interdisciplinary collaboration with physical therapists, athletic trainers, and sports
+medicine specialists and coach education. Practical guidelines for injury prevention
+and management are explored, along with a framework for future research on injury
+trends in Caribbean tennis players.
+INTRODUCTION
+Prevention of Lower Extremity Injuries in Tennis Players
+Tennis requires substantial physical effort, power, speed,
+agility, mobility, and endurance. The sport’s intense nature;
+that is, the need for frequent acceleration, deceleration,
+and rapid lateral movements; places significant strain on the
+lower extremity. With the growing participation of teenagers
+and female players, especially in competitive spheres, the
+incidence of lower extremity injuries has increased (Fu et
+al., 2018). These injuries can range from minor ligament
+sprains and muscle strains to more severe conditions like
+stress fractures and ligament tears, which can jeopardize an
+athlete’s career. This paper will focus on some of the more
+common injuries, of which coaches should be aware. These
+are plantar fasciitis, tendonitis, Osgood Schlatter’s disease,
+muscle strains, ligament injuries and shin splints.
+The repetitive movements inherent to tennis heighten the risk
+of injury, making injury prevention a priority. Special attention
+is required for young athletes since they are still developing,
+and female athletes given their distinct physiological and
+biomechanical characteristics. Hormonal fluctuations and
+rapid growth spurts can lead to muscular imbalances and
+biomechanical issues in adolescents, which increase the
+risk of injury. Similarly, hormonal variations and anatomical
+differences, such as a wider quadriceps (Q) angle, predisposes
+female athletes to knee injuries (Daneshmandi et al., 2011).
+Given the above, adequately trained coaches are less of
+a ‘perk’ and more a necessity. Coaches play a crucial role
+in safeguarding the health, safety, and well-being of their
+athletes. They must actively promote and facilitate the
+implementation of proper injury prevention and treatment
+www.itfcoachingreview.com
+August 2025. 33th Year. Issue 96. 6-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i96.685
+A Coaches Guide to Prevention and Care of
+Lower Extremity Injuries in Tennis Players
+Kerry C Dollaway and Kyle Hannays
+Centre for Kinesiology, Physical Education and Sport, The University of Trinidad and Tobago.
+Key words: Tennis injuries, lower
+extremity injury prevention,
+coaching strategies, sport
+medicine collaboration
+Received: 18 February 2025
+Accepted: 28 March 2025
+Corresponding author: Kyle
+Hannays, kahannays@hotmail.com
+practices. As such, educational programs that equip coaches
+with the necessary knowledge and skills to understand injury
+causes, prevention strategies, and appropriate care are
+essential. These initiatives will empower coaches to serve
+as the first line of defence against injuries, helping athletes
+reach their full potential, extend their careers, and maintain
+their well-being within the sport.
+COMMON LOWER EXTREMITY INJURIES IN TENNIS
+PLAYERS
+Plantar Fasciitis
+ Plantar fasciitis, a common condition among tennis players,
+involves inflammation of the plantar fascia—a thick band of
+COACHING & SPORT
+SCIENCE REVIEW
+connective tissue running from the heel to the toes on the
+underside of the foot that supports the arch. The primary
+symptom is sharp pain in the heel and arch, often most
+noticeable in the morning or after prolonged sitting. This pain
+can be severe, interfering with training and participation in
+sports. Athletes may also experience stiffness, which worsens
+with walking, standing, or extended physical activity.
+Several factors increase the risk of plantar fasciitis in tennis
+players, including poorly fitted footwear and frequent play
+on hard courts (Menon & Jain, 2018). Repetitive stress from
+running and jumping can cause micro-tears and inflammation
+in the fascia. Shoes that lack proper fit, cushioning, arch
+support, or traction can worsen or trigger the condition.
+Additionally, playing on hard surfaces increases ground
+reaction forces, which can transmit pressure through the
+feet, impacting joints along the kinetic chain (Buchanan &
+Kushner, 2024). Anatomical foot structures, such as high
+arches (pes cavus) or flat feet (pes planus), may further
+increase biomechanical stress on the plantar fascia.
+Prevention strategies are essential for minimizing the risk
+of plantar fasciitis. Athletes should wear properly fitting
+tennis shoes that provide adequate arch support, cushioning,
+and shock absorption tailored to their foot type. It is also
+important to promptly replace worn-out shoes to maintain
+proper support. Incorporating foot-strengthening exercises,
+such as toe curls, arch lifts, and calf stretches, can help
+improve the strength and flexibility of the supporting muscles
+and fascia. Stretching exercises, particularly targeting the
+gastrocnemius, soleus, tibial muscles, and plantar fascia,
+are also recommended before and after training to prevent
+injuries.
+For athletes with a history of plantar fasciitis or shin splints,
+using orthotic inserts or custom insoles can provide additional
+arch support and help alleviate stress on the plantar fascia
+(Buchanan & Kushner, 2024). By following these preventative
+measures, athletes can reduce their risk of injury and maintain
+optimal performance.
+Tendonitis
+Tendonitis is the inflammation of a tendon, the fibrous
+tissue that connects muscle to bone. Tennis players are
+particularly prone to Achilles’ tendonitis, though it can also
+affect other lower extremity tendons, such as the patellar
+tendon. Symptoms of tendonitis include pain, swelling,
+and difficulty moving the joint associated with the affected
+tendon. Pain often worsens with physical activity and can
+persist, though at a milder level, even at rest (Loiacono et al.,
+2019). Additional signs include swelling, tenderness to touch,
+warmth, and redness around the tendon, which are common
+indicators of inflammation. If left untreated, acute or chronic
+tendonitis can lead to an antalgic gait, reduced mobility, and
+impaired performance.
+Several factors contribute to the development of tendonitis
+in tennis players, including overloading, sudden increases
+in training intensity, improper equipment, and hard playing
+surfaces. Repetitive activities like running and jumping,
+particularly with poor technique, increase stress on the knee
+and ankle tendons, causing micro-tears and inflammation.
+Overtraining is a significant factor, as the high-impact nature
+of tennis often leaves little time for tendon recovery (Irby et
+al., 2020). Biomechanical issues, such as improper movement
+patterns, further strain the tendons, while inadequate
+footwear—especially
+shoes
+lacking
+arch
+support—can
+exacerbate these issues. Therefore, coaches must pay keen
+attention to maintaining proper biomechanics, which is
+essential to ensure safe movement patterns that minimize
+stress on the tendon. Coaches play a crucial role in monitoring
+and evaluating athletes’ form throughout training to prevent
+injuries (Federer et al., 2017)
+ Preventing tendonitis requires a comprehensive approach
+that focuses on reducing tendon stress, improving strength,
+and maintaining joint mobility. Gradually increasing training
+volume and intensity helps the tendons adapt to higher
+loads, reducing the risk of inflammation. Athletes should
+follow a structured strength and conditioning program with
+progressive intensity and regular rest periods. Stretching the
+gastrocnemius muscle group and patellar tendon enhances
+flexibility, while exercises like calf raises, eccentric heel
+drops, and ankle mobility drills strengthen the tendons and
+surrounding muscles.
+Osgood-Schlatter Disease
+Osgood-Schlatter disease is an overuse injury marked by
+pain and swelling at the tibial tuberosity, where the patellar
+tendon attaches to the upper tibia (shinbone). This condition
+commonly affects growing children, especially those who
+have recently had a growth spurt and participate in sports
+that involve frequent running and jumping, like tennis.
+Athletes with Osgood-Schlatter often experience pain just
+below the kneecap, which intensifies with activity and may
+continue as a throbbing ache at rest (Corbi et al., 2022).
+Inflammation around the tibial tuberosity, along with the
+development of a callus or bump on the shin, can limit an
+adolescent's participation in sports and other activities.
+The condition results from repeated stress on the tibial
+tuberosity, especially from movements like jumping, running,
+and sudden direction changes, which are common in tennis.
+Activities that involve rapid deceleration and explosive
+motions increase the risk of developing Osgood-Schlatter
+disease (Corbi et al., 2022). This repetitive stress pulls on the
+patellar tendon at the growth plate of the tibial tuberosity,
+causing pain and inflammation. The condition is often
+exacerbated during growth spurts when bones, muscles,
+and tendons develop at different rates. For example, the
+quadriceps may strengthen more rapidly than the tibia, placing
+additional stress on the patellar tendon. This imbalance leaves
+the tibial tuberosity more vulnerable to injury, and in severe
+cases, the quadriceps' force can cause an avulsion fracture by
+pulling the tendon away from the bone (Lucenti et al., 2022).
+ Treatment for Osgood-Schlatter disease focuses on reducing
+stress on the tibial tuberosity and managing growth-related
+imbalances. Limiting high-impact activities, especially those
+involving explosive movements and rapid deceleration, is
+essential during critical growth periods. Coaches and parents
+should encourage young athletes to engage in low-impact
+exercises to prevent excessive strain on the knee. A welldesigned strength and conditioning program that balances the
+forces exerted by the quadriceps and hamstrings is critical for
+minimizing stress on the tibial tuberosity. Exercises such as
+squats, multi-directional lunges, leg presses, hamstring curls,
+and quadriceps stretches can help maintain this balance.
+Additional support, such as knee braces or sleeves, can
+provide extra protection by cushioning impact forces on the
+knee (Circi et al., 2018). Ensuring athletes follow balanced
+training programs with proper warm-up and cool-down
+routines can further reduce the likelihood of developing
+Osgood-Schlatter disease.
+Lower Extremity Muscle Strains
+Muscle strains is a common injury experienced by tennis
+players. They typically involve partial tears in muscles, most
+commonly affecting the calf, hamstrings, hip adductors, or
+quadriceps. These injuries result in sudden pain, swelling,
+and reduced muscle function, significantly impacting athletic
+performance (Ishøi et al., 2020). Affected muscles may exhibit
+tenderness, mild bruising, and stiffness, which worsens with
+movement or stretching. The primary causes of muscle strains
+in tennis are overuse, fatigue, insufficient warm-ups, and
+activities requiring rapid acceleration, explosive movements,
+or sudden deceleration. Since tennis, by nature, demands the
+above, muscles are subjected to substantial stress which further
+increase the risk of injury during intense practice or matches.
+Preventing muscle strains requires a comprehensive strategy.
+A proper warm-up that includes dynamic stretching is
+essential to enhance muscle flexibility and readiness. These
+drills should mimic actual game movements to prepare the
+muscles effectively. Strengthening exercises targeting the
+calf, hamstrings, and quadriceps are crucial for building
+muscle power, endurance, and the capacity to withstand
+stress. Recovery is equally important, as it allows muscles
+to heal and regenerate after intense workouts (Koscso et al.,
+2022). Coaches play a key role in managing athletes’ training
+volumes thus preventing overexertion and promoting longterm development.
+Rupture and Sprains of Major Ligaments
+Ligament injuries are prevalent in tennis and include both
+acute and chronic tears or strains of key ligaments, such as
+the anterior cruciate ligament (ACL) and the medial collateral
+ligament (MCL). Common symptoms include sharp pain,
+swelling, inflammation, stinging sensations, and reduced
+mobility in the knee or ankle joint. Movement involving the
+injured leg may be painful, and weight-bearing activities can
+feel uncomfortable. Bruising and inflammation around the
+affected ligament are also common (Leong et al., 2019). In
+more severe cases, athletes may hear a snapping or popping
+sound, which could indicate a ligament tear. The frequent
+directional changes, sudden stops and rapid acceleration
+required in tennis, places significant stress on knee ligaments,
+making them particularly vulnerable to injury (Leong et al.,
+2019). Improper landings with the knee locked or extended,
+as well as sudden pivots or rotations, can further increase the
+risk of ligament sprains or tears.
+To prevent ligament injuries in tennis, it is essential to
+address biomechanical inefficiencies and establish protective
+measures. Strength and conditioning programs should target
+the quadriceps, hamstrings, and calves to prepare athletes
+for the demands of training and gameplay. Coaches should
+emphasize proper biomechanics, focusing on movements such
+as jumping, landing, turning, and accelerating or decelerating
+safely. For athletes with a history of knee injuries or ligament
+instability, wearing knee braces or sleeves during practice can
+enhance joint stability and provide added protection (Zitnay
+& Weiss, 2018). Additionally, implementing thorough warmup and cool-down routines before and after games is crucial.
+These routines help prepare muscles and ligaments for
+activity and promote relaxation, reducing the risk of strains
+and sprains.
+Medial Tibial Stress Syndrome (MTSS) - Shin Splints
+Tibial Stress Syndrome, commonly known as “shin splints,”
+is characterized by pain along the anterior, posterior, and
+medial sides of the tibia, or shin bone. Athletes often report
+discomfort in the front or back of the shin, particularly
+during running and jumping. This condition arises from
+repetitive stress on the tibia caused by high-impact activities,
+including running and jumping. Research indicates that MTSS
+constitutes 6% to 16% of running injuries and around 50% of
+lower leg injuries (Kortebein & Patrick, 2000). Often classified
+as an overuse injury, MTSS occurs in athletes, military
+recruits, and individuals who engage in regular physical
+activity without sufficient recovery (Moen & Tol, 2012).
+Factors contributing to the development of MTSS include
+inappropriate footwear, training on hard surfaces, poor
+biomechanics, inadequate arch support, ankle eversion,
+and muscle imbalances, particularly between the calf and
+tibialis muscles. Treatment typically involves rest, ice, and
+activity modification which focuses on correcting underlying
+biomechanical issues to prevent recurrence. If not properly
+managed, MTSS can lead to more serious complications,
+such as stress fractures. A critical yet often neglected aspect
+of treating MTSS is using arch support orthotics to help
+correct biomechanical abnormalities in the foot's arch. These
+orthotics can significantly aid in pain reduction and facilitate
+a quicker return to play (Naderi & Bagheir, 2013).
+IMPLEMENTING INJURY PREVENTION STRATEGIES IN
+TENNIS CLUBS
+The Pre-Participation Examination (PPE)
+The pre-participation examination (PPE) is crucial for injury
+prevention. It assesses athletes before they engage in sports
+to reduce both short- and long-term health risks while
+optimizing overall health. Though it is typically conducted
+before starting a sport, the PPE should be performed annually
+to maintain athlete well-being (Dollaway et al., 2020).
+Key components of the PPE include a comprehensive
+evaluation of health and medical history; the Medical History
+Questionnaire (MHQ) is essential. The MHQ can uncover 6478% of an athlete's medical conditions before a physical exam,
+making it more sensitive than the examination itself (Kurowski
+& Chandran, 2000). Fitness performance tests should follow
+the health status assessment, with requirements tailored
+to the specific sport, as they can vary significantly between
+activities.
+The main objectives of the PPE are to:
+1.	Identify medical conditions that may heighten the risk of
+injury or sudden death.
+2.	Clear individuals for unrestricted sports participation.
+3.	Designate individuals for specific sports while prohibiting
+others.
+4.	Release individuals only after further medical evaluation.
+5.	Prevent participation until necessary medical treatment
+is received.
+6.	Bar individuals from sports until serious medical issues
+are addressed.
+7.	Comply with legal and insurance requirements (Carek &
+Mainous, 2003)
+Recognizing Early Signs of Injury
+Identifying early signs of injury is crucial for preventing further
+damage, particularly in tennis. Coaches should be vigilant
+for indicators such as persistent or recurring pain in specific
+areas, swelling, inflammation, joint or muscle stiffness, and
+noticeable declines in performance or technique. During
+training sessions and matches, if these symptoms are detected,
+coaches should respond appropriately thus facilitating early
+treatment and reducing the risk of minor injuries becoming
+chronic conditions, that could side-line athletes for extended
+periods.
+Training and Conditioning
+Dynamic stretching before training and games is essential for
+muscle and joint health and injury prevention. An effective
+warm-up prepares the body for activity by increasing blood
+flow and oxygen supply to the muscles, thus enhancing their
+pliability. Conversely, a proper cool-down, which includes
+static stretching, helps lower heart rates and reduce muscle
+tension, alleviating post-workout stiffness and soreness,
+thereby decreasing recovery time. By incorporating structured
+warm-up and cool-down routines during training and
+matches, coaches can enhance players' physical performance
+and resilience (Van Hooren & Peake, 2018). These practices
+not only prepare athletes mentally and physically for intense
+activity but also play a significant role in preventing both
+major and minor injuries while supporting long-term athletic
+performance.
+ Strength and flexibility training are also essential components
+to injury prevention and performance. Strength training
+should be supervised by a qualified professional to strengthen
+muscles around joints and minimize the risk of strains and
+sprains. Flexibility exercises are also essential for maintaining
+mobility, which is vital for safe tennis movements (Vasenina
+et al., 2022). Integrating both strength and flexibility training
+into regular practice is key for improving performance,
+preventing
+injuries,
+and
+supporting
+athletes'
+overall
+health. Coaches should focus on biomechanically efficient
+movement patterns, including proper foot positioning,
+landing techniques, and turning motions during training.
+Regular technique assessments can ensure compliance with
+injury prevention strategies. When executed effectively, this
+approach can help identify injury risks, allowing coaches to
+implement strategies to reduce them, ultimately enhancing
+performance and decreasing the chance of chronic injuries.
+Equipment and Environment
+Proper footwear is one of the most important equipment
+considerations for preventing lower extremity injuries in
+tennis. Athletes should wear sport-specific shoes that fit well,
+provide arch support, and offer adequate shock absorption
+to minimize lower extremity injuries. Selecting the right
+tennis shoes based on individual comfort, foot type, and
+playing style can significantly reduce the risk of foot and
+lower extremity injuries. Regular inspections and timely
+replacements of worn-out shoes are essential. Regarding
+playing surfaces, whenever possible, softer options like clay,
+which reduce ground reaction forces, should be prioritized
+over concrete courts. This can help alleviate the risk of injury
+from repetitive movements in tennis (Allen et al., 2018), and
+ultimately enhance joint longevity, and prolong their peak
+performance throughout their tennis careers.
+Recovery and Rest
+To reduce injury risk, athletes must allow their muscles
+adequate rest between training sessions. Coaches should
+ensure that athletes have sufficient rest days and promote
+healthy sleep habits. By emphasizing rest and sleep, coaches
+can help athletes replenish muscle glycogen stores, recover
+from minor injuries, and avoid overtraining (Balk & Englert,
+2020). This comprehensive injury prevention strategy can
+enhance the longevity of an athlete's career, improve their
+resilience in challenging situations, and reduce the occurrence
+of injury. Early reporting of discomfort and pain followed
+by prompt and proper treatment of injuries is essential in
+preventing the escalation of prevent minor issues. Athletes
+should also be educated on the Rest, Ice, Compression, and
+Elevation (RICE) method to reduce inflammation from acute
+injuries. Timely intervention and effective treatment aids in
+rehabilitation efforts and minimizes disruptions to training
+and competition.
+A Collaborative Approach to Injury Prevention and Treatment
+Effective communication and collaboration with healthcare
+professionals—such as physiotherapists, athletic trainers,
+strength and conditioning coaches, nutritionists, sports
+psychologists, and sports medicine specialists—are crucial
+for addressing and preventing injuries in athletes. This
+collaborative approach allows for holistic and optimal
+care by facilitating early issue identification, appropriate
+rehabilitation initiation, and education for athletes, coaches,
+and parents on injury management. This approach also
+creates an environment within which athletes feel supported
+and empowered which creates an environment conducive to
+athlete development and success.
+Early injury detection is vital for timely treatment and
+complication avoidance. Coaches must refer athletes to
+healthcare practitioners at the first sign of injury to address
+concerns, achieve accurate diagnoses, and establish treatment
+plans that expedite recovery and minimize downtime (Duarte
+et al., 2024). This close collaboration helps maintain the longterm health and performance of tennis players. Additionally, a
+well-structured rehabilitation program, tailored to the specific
+needs of injured athletes, is essential for effective injury
+management. Experienced healthcare professionals should
+develop and monitor these programs, adjusting as needed
+for enhanced recovery outcomes. Coaches' involvement in
+rehabilitation demonstrates their commitment to athlete
+health and well-being throughout their careers. Educating
+athletes on injury prevention and treatment, including sharing
+recovery techniques and promoting strength and flexibility
+training, empowers them to prioritize their health. This
+education fosters a health-first mindset critical for longevity
+in tennis (Kempe et al., 2023).
+Notwithstanding the collaboration highlighted above, tennis
+clubs should implement effective injury prevention measures
+tailored to their athletes. This should involve extensive
+educational sessions, for both athletes and coaches, focused
+on injury care and prevention (see section on coaching
+education). These sessions must adequately cover areas such
+as sports safety, first aid, nutrition, biomechanical analyses
+specific to tennis movements, strength and conditioning,
+appropriate warm-ups and cool-downs, and concussion
+awareness. This proactive approach will enable tennis clubs
+and coaches to promote athletes’ health and well-being,
+which can enhance on-court performance and extend
+athletes' careers.
+Coaches, in collaboration with physiotherapists, athletic
+trainers, and strength and conditioning experts, should
+conduct thorough assessments of athletes’ overall health,
+strength, flexibility, mobility, endurance, and agility before
+they join the club. Individualized training programs, designed
+in collaboration with the above specialists and coaches,
+should be created to cater to each player’s specific needs and
+abilities to help prevent injuries. These programs must take
+into account each athlete's strengths, weaknesses, and injury
+history to minimize the risk of frequent injuries. Thus, coaches
+not only adapt training sessions to boost performance but
+also help athletes establish a physical and mental foundation
+that can prevent injuries with the potential to shorten their
+tennis careers. This athlete centred approach also fosters
+open communication while simultaneously building trust and
+collaboration within the club.
+Coaching Education and Training
+Coaching education plays a pivotal role in injury prevention
+and athlete care. Proper training helps coaches implement
+evidence-based practices (Hughes et al., 2024); these
+practices reduce the risk of overuse injuries, improper training
+loads, and inadequate recovery periods. Without structured
+education, issues related to early specialization and excessive
+training intensity can lead to long-term injuries and hamper
+player development.
+Injury prevention efforts should include the development of
+structured certification programs focused on biomechanics,
+injury risk assessment, load management, rehabilitation
+techniques, and tennis-specific strength and conditioning.
+Practical workshops that incorporate on-court demonstrations,
+case studies, and interactive sessions will further enhance the
+proposed programs’ efficacy. Psychological aspects of injury
+management, such as athlete motivation and return-to-play
+strategies, may also prove useful.
+Implementation of Educational Programs
+The integration of injury prevention into coaching education
+requires collaboration with physiotherapists, sport scientists,
+and university kinesiology departments. Each expert
+should contribute towards the development of certification
+programs that blend theoretical knowledge with practical
+applications. By partnering with universities and professional
+medical associations, tennis clubs and coaching organizations
+can offer standardized certification programs that ensure all
+coaches receive high-quality education in injury prevention.
+These programs should include both theoretical coursework
+and hands-on assessments to verify a coach’s competency in
+implementing injury prevention strategies.
+THE DANGERS OF IGNORING INJURIES
+Ignoring injuries can lead to serious, life-threatening
+conditions, chronic pain, and even the end of an athlete's
+career. To prevent these outcomes, coaches must stress the
+importance of reporting injuries and following prescribed
+treatment plans. Untreated injuries can develop into chronic
+conditions that limit an athlete's capabilities, leading to
+extended time off and decreased performance. Acute injuries
+may worsen, resulting in ongoing pain and dysfunction
+that can diminish performance and potentially force early
+retirement from the sport (Ledreux et al., 2020). Therefore,
+effective injury management and the implementation
+of appropriate rehabilitation and strength conditioning
+programs are crucial for ensuring athletes' long-term careers
+in tennis. Injury prevention and a structured approach to reentering training and competition are vital to safeguarding an
+athlete's career (Prieto-González et al., 2021). By prioritizing
+the health and motivation of athletes, coaches aid in athlete
+success in the competitive tennis environment.
+CONCLUSION AND FUTURE RESEARCH
+Addressing lower extremity injuries in tennis requires
+a multi-faceted approach involving education, training,
+and collaboration with health professionals. Coaches’
+understanding of injury prevention strategies can greatly
+reduce the risk of injuries, ultimately benefiting athletes'
+health and performance. This guide provides a practical
+resource for coaches and tennis club managers, accenting the
+importance of proactive injury prevention measures.
+Future research on the prevalence of lower extremity injuries
+among tennis players in the Caribbean will prove crucial in
+shaping prevention strategies. The University of Trinidad and
+Tobago, in collaboration with tennis academies, clubs, and
+national federations across the English-speaking Caribbean,
+intends to conduct a comprehensive study to assess injury
+incidence, training practices, and coaches' knowledge of
+injury prevention. Data collection methods will include
+surveys from coaches and athletes, injury logs from clubs, and
+biomechanical assessments conducted by sports scientists.
+This research will inform evidence-based policies and
+guide the development of region-specific injury prevention
+strategies.
+CONFLICT OF INTEREST
+There is no conflict of interest related to this study.
+FUNDING
+This research required no external funding.

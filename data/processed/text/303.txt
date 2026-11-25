@@ -1,0 +1,272 @@
+Title: Towards polarized training in tennis? Usefulness of combining technical and physiological assessments during a new incremental field test
+Authors: Cyril Brechbuhl, Olivier Girard, Grégoire Millet, Laurent Schmitt
+Year: 2017
+Issue: Vol. 25 No. 73 (2017)
+Article id: 303
+
+www.itfcoachingreview.com
+December 2017. 25th Year. Issue 73. 27-31
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.303
+
+Towards polarized training in tennis?
+Usefulness of combining technical and
+physiological assessments during a new
+incremental field test
+Cyril Brechbuhl, Olivier Girard, Grégoire Millet and Laurent Schmitt
+French Tennis Federation
+
+ABSTRACT
+
+Although tennis performance analysis underlines the relationship between
+physical and technical parameters, scientific or coaching approaches often
+neglect to develop these two aspects in the same training session. The
+effectiveness of combining physical and technical factors is reinforced by new
+results made available through the optimization of new technologies. Here, we
+discuss how the use of radar and ball machine may offer practical information
+to improve players’ preparation concerning production of optimal ball velocity,
+ball accuracy and ball frequency..
+
+Key words: Incremental test,
+ball accuracy, ball velocity,
+polarized training
+Received: 28 Sep 2017
+Acepted: 15 Nov 2017
+Corresponding  author: Cyril
+Brechbuhl, French Tennis
+Federation.
+Email: cyril.brechbuhl@fft.fr
+
+INTRODUCTION
+For the past 30 years, tennis has evolved from a sport in which
+players’ skill proficiency (technique) was the main determinant
+of performance into a game where physical attributes likely
+play a more predominant role. Nowadays, tennis is
+characterized by intense physical demands (Kovacs, 2007;
+Mendez-Villanueva, FernandezFernandez, Bishop, FernandezGarcia, & Terrados, 2007) coupled with rapid perceptual-motor
+processing (Triolet et al., 2013). Tennis is an explosive sport
+based on power, strength, and speed, in which serves faster
+than 200 km.h-1 are common (Kovacs, 2007).
+
+In addition to producing elevated ball velocity (BV, km.h-1),
+maintaining ball accuracy (BA, i.e., number of errors, %) during
+intense periods towards a set or match end is also a key
+component for winning the faster-paced modern game
+(Kovacs, 2007). Although the sport-specific technical skills and
+tactical choices are predominant factors, even in the modern
+game, players require welldeveloped physical conditioning in
+order to execute advanced shots and maintain stroke efficiency
+as fatigue develops (Girard, Lattier, Maffiuletti, Micallef, &
+Millet, 2008).
+
+Evaluation of aerobic fitness is commonly used to characterize
+training effects, evaluate physical fitness, and identify target
+training areas (Brechbuhl et al., 2016a). Recently, Baiget et al.
+highlighted the usefulness of using the Maximal Aerobic
+Frequency of ball hitting as a new training load parameter in
+tennis (Baiget et al, 2017), while we introduced analysis of
+technical alterations with incremental fatigue during a Test to
+Exhaustion Specific to Tennis (TEST) (Brechbuhl et al., 2017).
+Considering these two recent articles, we aim to report how
+they can lead to the integration of combined technical and
+physical prescription for specific on-court training. Moreover it
+is possible to assess the implementation of the “polarized
+training” approach (Seiler & Kjerland, 2006) in tennis by
+classifying types of sessions. Seiler and Kjerland (2006) refer to
+this training distribution as a polarized model, where
+approximately 75% of sessions are performed below the first
+ventilatory threshold, with 15% above the second ventilatory
+threshold and < 10% performed between the first and second
+ventilatory thresholds.
+
+EQUIPMENT AND METHOD
+
+Players
+
+Twenty high-level competitive male tennis players (mean ± SD;
+age = 18.0 ± 3.2 year, stature = 182.8 ± 7.3 cm, body mass =
+72.7 ± 7.2 kg) volunteered to participate in the study. They were
+all members of the national teams of the French Tennis
+Federation (International Tennis
+
+Number 1 [elite]). Players were either members of the
+Association of Tennis Professionals (ATP) (two in top 100, two
+in top 200, two in top 500, and nine in top 1000) or of the
+International
+Tennis
+Federation
+(ITF)
+Juniors
+ranking
+(Participating in Grand Slams) at the time of the experiments
+(2013–2015). Two players have now reached the top 30 ATP.
+
+All players performed the TEST protocol, previously described
+(Brechbuhl et al., 2016a; Brechbuhl et al., 2016b; Brechbuhl et
+al., 2017). Both the accuracy and the reliability of this new tennis
+ball machine appear satisfying enough for field testing and
+training purposes (Brechbuhl et al. 2016).
+
+Evaluation of ground stroke performance
+During TEST, groundstroke production was assessed by the
+mean of two ‘‘primary’’ variables: BV and BA. BV (km.h-1) was
+measured with a Solstice 2 radar (Hightof®, Echouboulains,
+France) positioned 50 cm behind the baseline. All shots that
+were hit out, into the net, and to the wrong spot on the tennis
+court were excluded. Spots where each ball landed (i.e., hits–
+errors) were instantaneously recorded by an experienced coach
+on a dedicated recording sheet. BA (%) was defined as the
+percentage of correct hits in the defined zones (Baiget et al.,
+2014). For each stage, BV and BA data have been averaged and
+expressed for forehands (BVf and BAf) and backhands (BVb and
+BAb), respectively. Finally, because BV and BA in combination
+better reflect the overall tennis performance, a TP index was
+calculated for forehands and backhands separately (TPf and
+TPb) as the product of these two variables.
+
+Physiological measurements
+Expired air was analyzed continuously (breath-by-breath
+measurements) for oxygen consumption (VO2) using a
+portable gas analyzer (Metamax II CPX system, Cortex®,
+Leipzig, Germany). Gas and volume calibration of the
+measurement device were performed before each test
+according to manufacturer’s instructions. HR was recorded
+continuously (Suunto Ambit2®, Vantaa, Finland). Furthermore,
+25 µL KL capillary blood samples were collected from the
+fingertip and analyzed for blood lactate concentrations (LT1710; Arkray®, Kyoto, Japan) at the baseline, during TEST (i.e.,
+during the 30-s recovery periods after every stage until a value
+of 4 mmol.L-1 was obtained and thereafter every 2 stages), and
+15 s after exhaustion.
+
+RESULTS
+The players reached on average stage 10.9 ± 1.5 (~26 ± 1
+balls.min- 1). At exhaustion, maximal oxygen uptake (VO2max),
+maximal heart rate (HRmax), and blood lactate concentration
+values were 61 ± 5 mL.min-1.kg-1, 195.8 ± 1.4 bpm, and 10.5
+± 1.9 mmol.L-1, respectively. At the second ventilatory
+threshold (VT2), VO2 and HR were 53.8 ± 4.5 mL.min-1.kg-1
+(87.7 ± 0.1% VO2max) and 183.7 ± 4.2 bpm (93.8 ± 1.6%
+HRmax), respectively, corresponding to stage 7.3 ± 2.8 (~22 ±
+3 balls.min-1).
+
+Ground stroke performance
+BV, BA, and TP (both backhand and forehand) did not differ
+between 60% and 80% of VO2max (Fig. 1).
+
+We found significant reductions above this later intensity with
+BV, BA, and TP decreasing from 80% to 100% of VO2max (Table
+1) for both strokes.
+
+Figure 1: Changes in (A) ball velocity (BV), (B) ball accuracy (BA)
+and (C) tennis performance (TP) as a function of exercise
+intensity (% of VO2max) for forehands (white dots) and
+backhands (black dots). Vertical arrows indicate the second
+ventilatory threshold. BVf was 5.2% higher than BVb (121.7 ± 4.9
+vs 115. 7 ± 8.6 km.h-1).
+
+Table 1: Differences in relative (%) and absolute values of Ball
+Velocity (BV, in km.h-1), Ball Accuracy (BA, expressed as % in
+zone) and Tennis Performance (TP), calculated as BA x BV and
+expressed as arbitrary units) for both forehands and backhands
+between 80% and 100% of VO2max. Values are presented as
+mean ± SD. * P < 0.05, ** P < 0.01, *** P < 0.001 significantly
+different from 80% of VO2max.
+
+Correlation
+Not surprisingly, there were correlations between the players’
+ranking level and BA in both forehand (r = 0.45 to - 0.47, P <
+0.05) and backhands (r = - 0.49, P < 0.05) and with TP (r = -
+0.44 to - 0.46, P < 0.05) for forehand only between 80% and
+100% of VO2max.
+
+Associations of TP with BV (r = 0.51 and r = 0.49; both P <
+0.001) and BA (r = 0.91 and r = 0.96; both P < 0.001) for
+forehands and backhands were significant. We observed an
+inverse correlation (r = - 0.51; P = 0.008) between blood lactate
+concentration and TP.
+
+Figure 2: Intensity zones of change in tennis performance (TP)
+(plain line) and blood lactate concentration (dotted line) as a
+function of exercise intensity (% of VO2max). Zone 1 below 70%
+of VO2max, zone 2 between 75% to 87% of VO2max and zone
+3 above 87% of VO2max. Vertical arrows indicate the second
+ventilatory threshold.
+
+DISCUSSION
+Elite players were able to maintain technical effectiveness until
+an intensity of 80% VO2max, which was slightly below VT2
+(87% VO2max, and 94% HRmax). Information obtained during
+TEST can be used to illustrate changes in stroke quality of
+tested players at different exercise intensities in a context
+appropriate to the game.
+
+We highlight some practical implications of our findings. First,
+by using TEST data we propose that technically- or
+physicallyoriented training sessions can easily be developed, as
+previously detailed for one elite player (Brechbuhl et al.,
+2016b). Second, of interest is that the correlation between TP
+and BA (r = 0.91 and r = 0.96, for forehand and backhand
+strokes, respectively) is stronger than that with BV (r = 0.51 and
+r = 0.49), highlighting the prominence of the technical skills in
+elite tennis. It means that high technical skills but not neither
+power nor speed are necessary to be classified as a ‘‘technically
+good’’ player. Baiget et al. (2014) also identified a significant
+and moderate correlation (r = 0.61, P = 0.001) between the
+competitive level and the accuracy. This highlights that to
+reach the highest level, players need not only to hit fast strokes
+but also need to maintain accuracy as fatigue develops. BA has
+been identified as a key predictor for tennis competitions
+(Smekal et al., 2000).We showed that TP is affected by the
+arduousness of the activity (Brechbuhl et al., 2017), so that
+coaches can carefully adjust training intensity in order to target
+specific development objectives within the same session (table
+2).
+
+Table 2. Sample for specific on-court training protocols for
+optimizing aerobic fitness and technical effectiveness in elite
+tennis players. Maximal oxygen uptake (VO2max.), ball accuracy
+(BA), ball velocity (BV), maximal heart rate (HRmax),
+
+For instance, when targeting improvement in technical skills,
+we recommend to train at low intensities, in zone 1 (VO2 at or
+below VT1) (Esteve-Lanao et al., 2005), corresponding to BA of
+~70% and BV of ~120 km.h-1 in our cohort of players. Even if
+it represents a small playing time (3% ± 5%) (Baiget et al.,
+2015), time in zone 1 brings physiological benefits and will
+indirectly lead to improved capacity to cope with the higher
+intensity of competitive tennis (zone 3: VO2 at or above VT2)
+corresponding to the ‘‘money time’’ of the game.
+
+As shown in Figure 1, we can also estimate VT2 from the
+decline of the technical parameters, and more particularly the
+decrease in BA. Our proposed model with 3 intensity zones for
+training the tennis player can also be based on the HR
+response associated to reproducible metabolic demarcation
+points (i.e., lactate or ventilatory thresholds), thus allowing to
+examine the physiological strain during various types of
+exercise. It has consistently been used in endurance (EsteveLanao et al., 2005) and team sports (Akubat et al., 2012). The
+HR-based model was previously used in tennis and defines
+three HR zones (Baiget et al., 2015), while we suggest here the
+following distribution: zone 1 (low intensity, ≤ 80% HRmax),
+zone 2 (moderate intensity, 80% to 90% HRmax), and zone 3
+(high intensity, ≥ 90% HRmax). Second, TEST enables us to
+easily assess BA, which is a key predictor of tennis performance
+(Smekal et al., 2000), also supported by significant correlations
+between stroke production and success in match play
+(Vergauwen et al., 1998).
+
+CONCLUSIONS
+A model (3 intensities) is proposed starting from the realization
+of an incremental test in which physiological and technical data
+are measured simultaneously, and then their kinetics of change
+are compared.
+
+Through TEST and its applications, our aim was to suggest a
+global approach designed to avoid redundant physiological
+demands.
+
+Without underestimating the diversity of practices, the
+combination of physical and technical contents may contribute
+to more efficient planning and better management of fatigue.
+Since the present data only concerns elite male players, further
+investigation on female players is required.

@@ -1,0 +1,663 @@
+Title: Expertise differences in prediction of serve direction in wheelchair tennis
+Authors: Yash Deshpande, Robin Jackson, Alex Cockram, Mark King, Victoria Goosey-Tolfrey
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 797
+
+Introduction
+The ability to use advance information sources to
+predict action outcomes, is an important perceptualcognitive skill that underpins expertise in tennis
+(Navia et al. 2021). Studies investigating the return of
+serve have shown that expert players use information
+from a range of sources to predict action outcomes
+before unambiguous ball flight information becomes
+available (Triolet et al., 2013; Jackson & Mogan;
+2007). As advance kinematic information is more
+deterministic of action outcomes than contextual
+information sources (Müller & Abernethy, 2012),
+attunement to this has been extensively studied in
+ambulatory tennis (AT) serves. For instance, Farrow
+et al. (2005) compared the ability of professional and
+novice tennis players to predict serve direction when
+responding to progressively occluded video clips of
+serves and 'live' serves on court. Professional players
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 70-77
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.797
+Expertise differences in prediction of serve
+direction in wheelchair tennis
+Yash Deshpande1, Robin C. Jackson1, Alex Cockram2, Mark King1, Victoria
+Goosey-Tolfrey1
+1Loughborough University, School of Sport, Exercise and Health Sciences, Peter Harrison Centre for
+Disability Sport, Epinal way, Loughborough, LE11 3TU, Uk.
+2Lawn Tennis Association, National Tennis Centre, Priory Lane, London SW15 5JQ.
+Abstract
+The present study investigated expertise differences in the prediction of serve direction in wheelchair
+tennis (WT). Using a video-based progressive temporal occlusion paradigm, 16 skilled WT players
+(ranked top 100 internationally) and 16 novices predicted serve direction from serves occluded at
+four instances - one frame after ball release, at the apex of the ball toss, one frame before racketball contact, and 200 ms post-contact. Response accuracy and gaze behaviour were assessed. Skilled
+players significantly outperformed novices in overall response accuracy (56.1% vs. 49.4%). Response
+accuracy increased across time of occlusion, with ceiling effects for both groups at the post-contact
+occlusion. The expertise by time of occlusion interaction was non-significant, with a consistent expertise
+advantage across the pre-contact occlusion points. Fixation count did not differ significantly between
+groups; however, novices had longer average fixation durations than skilled players (376.24 ms vs.
+307.39 ms). Both groups predominantly fixated on the predicted racket-ball contact zone as a visual
+anchor for peripheral kinematic information. These findings underscore the importance of attunement
+to early kinematic information sources for effective anticipation of serve direction in WT.
+Key words: anticipation, perceptual skills, temporal occlusion, racket sports.
+Received: 29 June 2026. Accepted: 12 August  2026.
+Corresponding author: Yash Deshpande, ydeshpande15@gmail.com
+were more accurate than novices at earlier occlusion
+points in the video condition, while consistent
+differences in response accuracy were maintained
+across all occlusions when responding to 'live' serves.
+While the anticipatory ability of expert AT players
+has been thoroughly investigated, the role of
+anticipation in wheelchair tennis (WT) has received
+very little attention. Nonetheless, the return of
+serve is considered an especially important stroke
+for establishing a tactical advantage in the rally
+(Sánchez-Pay et al., 2015), with professional WT
+players highlighting anticipation of serve type and
+direction as an essential skill for hitting effective
+returns (Deshpande et al., 2025). A chronometric
+analysis of professional WT matches across the men’s
+open, women’s open and quads categories revealed
+that players initiating lateral movement towards
+the ball approximately 130 ms later compared to
+Method
+Participants
+An a priori power analysis conducted in G*Power 3.1
+(Faul et al., 2009) indicated that a total sample of 28
+would be required to achieve 80% power to detect a
+medium-sized interaction effect (f = .25) in a mixed
+effects ANOVA at α = .05. We recruited 32 participants
+in total with 16 individuals classified in the skilled
+group and 16 classified in the novice group.
+Skilled participants were professional WT players
+with a current International Tennis Federation (ITF)
+singles ranking in the top 100 (Mdn = 10.8, IQR = 29)
+in their respective playing category and had played
+at least one international tournament. The novice
+group had no prior competitive experience playing AT
+or WT but were familiar with the game of tennis and
+its rules in general. Further details about participant
+characteristics can be found in table 1.
+Table
+1.
+Stage-specific representative practice
+characteristics.
+Group
+N
+Age (years)
+M ± SD
+ITF singles
+ranking
+Skilled group
+Men's open
+24.2 ± 5.4
+1 to 55
+Women’s
+open
+26.3 ± 9.9
+1 to 63
+Quads
+26.4 ± 7.1
+1 to 23
+Novice
+group
+26.0 ± 2.8
+N/A
+Ethical clearance was obtained from the Loughborough
+University ethics committee (ID - 14678), and all
+participants
+provided
+informed
+consent
+before
+participating in the study.
+Test stimuli
+The test stimuli were generated by filming serves
+performed by three professional WT coaches. One
+server was a former professional player who had
+represented his country at the Paralympic Games and
+had six years of WT coaching experience. The other
+two servers had prior competitive experience in AT at
+the county and national levels, respectively, with 10
+and 19 years of WT coaching experience, respectively.
+AT (Deshpande et al., in press; Navia et al., 2021),
+suggesting that the time constraints in WT may not
+necessitate anticipation. However, in the same study,
+faster and more accurate serves resulted in more
+defensive return outcomes. Moreover, professional
+WT players have described the importance of using
+contextual and kinematic information sources to
+predict serve type and direction, including ball toss
+position and arm-racket movement (Deshpande et al.,
+2025), suggesting attunement to early information
+sources may be necessary for making effective serve
+returns in WT.
+Experimental research on the attunement of expert WT
+players to advance information sources has received
+limited attention. Reina et al. (2007) investigated
+the differences in visual gaze behaviour and motor
+responses between five experienced and seven novice
+WT players while they observed live serves and videos
+of serves. in both conditions, experienced players spent
+significantly more time than novice players observing
+the server’s upper body during the ball toss phase.
+When viewing live serves, experienced players also
+spent significantly more time than novices looking at
+the server’s head. A subsequent study by Hunfalvay
+and Murray (2018) examined the gaze behaviour of
+32 international WT players (ranked top 16 in the
+world) while viewing videos of WT serves. During the
+preparatory and execution phase of the serve, players
+who had only played WT had fewer fixations of longer
+duration than players who had also played AT. In both
+these studies, response accuracy was not measured
+so there remains a clear need to determine whether
+expert WT players can judge serve direction at better
+than chance level from pre-contact information and
+how this relates to gaze behaviour.
+The
+video-based
+temporal
+occlusion
+paradigm
+controls
+the
+visual
+information
+available
+to
+participants and systematically examines the ability
+to use pre-contact kinematic information when
+making predictive judgements (Abernethy et al., 2008;
+Farrow et al., 2005). The purpose of the present study
+was therefore to identify expertise effects associated
+with response accuracy and gaze behaviour in WT
+players using a video-based progressive temporal
+occlusion approach. Based on previous research on
+anticipation of serve direction in AT (Farrow et al.,
+2005), the primary hypothesis was that skilled players
+will outperform novices with the largest differences
+in response accuracy at the earliest occlusion and
+the least difference at the latest occlusion. Based
+on research by Reina et al. (2007) and Hunfalvay &
+Murray (2018), it was additionally hypothesised that
+skilled WT players will have fewer fixations of longer
+duration than novices.
+Table
+1.
+Stage-specific representative practice
+characteristics.
+Time point
+Event
+t1
+One frame after ball release
+t2
+The apex of the ball toss
+t3
+One frame before racket-ball contact
+t4
+200 ms after racket-ball contact
+This generated 48 clips for each server (12 clips per
+occlusion condition), yielding 144 test trials in total.
+Each trial started with a blank screen for two seconds,
+followed by the trial number presented for one second.
+After this, a freeze frame of the server’s posture just
+prior to raising their non-racket arm for the ball toss
+was shown for two seconds to allow sufficient time
+for the participant to orient their gaze and assess the
+server’s posture. The serve action was then presented
+up to the relevant time of occlusion without any
+audio. Upon occlusion, a blank screen was shown for
+two seconds. In total, each trial lasted approximately
+9.0 seconds. Trials were separated by a five second
+interval.
+The 144 trials were delivered in three blocks of 48 trials
+each with a three minute break between blocks. Each
+block contained serves from one server, with equal
+number of serves from both sides of the court and
+equal number directed down the T and towards the
+sidelines. Trials order was randomized with respect to
+time of occlusion, side of court and direction of serve.
+Blocks were counterbalanced across participants. On
+average, each participant spent approximately 25
+minutes to complete the experiment.
+Serves were recorded from the returner’s perspective
+with a digital video camera (Panasonic HC v770).
+The centre of the camera lens was positioned on the
+baseline at a height of 1.16 m and 0.74 m from the
+corner of the court to create a representative viewing
+perspective for WT serves. All footage was recorded
+in high definition at 1080p resolution with 50 frames
+per second. Servers were instructed to perform first
+serves as they would in a match, directed towards
+the centre of the court (down the ‘T’) and towards
+the tramlines (‘out wide’) from each side of the court
+(‘deuce’ and ‘advantage’). After filming, 16 ‘accurate’
+serves, landing between 0 to 70 cm (Deshpande et al.,
+in press) from the centre line or side line were selected
+per server to create the familiarization and testing
+trials.
+The videos were imported into Adobe Premiere
+Rush (Adobe Inc., 2022). The three servers exhibited
+differences in the time required to complete the
+serve. As advance information acquisition by experts
+is linked to key temporal events and information
+sources in the opponent’s action (Müller & Abernethy,
+2012), individual serve videos were edited using
+event-based temporal occlusion rather than occluding
+at set time intervals. Based on serve biomechanics
+determining serve direction in WT (D’Angeli, 2022),
+previous research in AT (Jackson & Mogan, 2007),
+and sources identified by professional WT players
+(Deshpande et al., 2025), the starting position of the
+server, ball trajectory to the apex of the ball toss, armracket orientation up to racket-ball contact, and early
+ball flight were determined as potentially important
+information sources for predicting serve direction in
+WT. Hence, all clips were edited to occlude the video
+at one of four time points (Table 2 and Figure 1).
+Figure 1.  Time points where videos were occluded (t1 – one frame after ball toss, t2 – apex of ball toss, t3 – one
+frame before racket-ball contact, t4 – 200 ms after racket-ball contact).
+ascertaining the focal point due to overlapping of
+some regions. In this case, adopting broader, nonoverlapping AOIs allows more clarity. A preliminary
+visual analysis of participant gaze patterns was
+conducted before defining AOIs revealing a reasonably
+consistent sequence comprised of initial fixation on
+the server’s body or head, followed by either tracking
+the ball toss trajectory or maintaining focus on the
+server’s head, and finally shifting to an area above the
+head where racket-ball contact is predicted to occur.
+Based on this, four AOIs were identified (Figure 2).
+The default event detection algorithm integrated into
+the BeGaze software (fixation duration of 50 ms and a
+peak saccade velocity of 40°/s) was used to calculate
+the number of fixations for each AOI and average
+fixation duration on each AOI during the whole action.
+Data collection
+Testing of the skilled group took place in quiet office
+spaces at the Nottingham Tennis Centre and the
+National Tennis Centre, UK. Testing of the novice
+group took place in quiet rooms at Loughborough
+University. To facilitate data collection with precise
+temporal control, responses were collected on a Dell
+Precision M4800 laptop (Dell Technologies, United
+States) using Experiment Center 3.7.69 software (SMI,
+Germany). Gaze data was simultaneously collected
+using the iView RED system (SMI, Germany) with the
+sensor attached at the bottom of the monitor screen
+in the centre. To create a representative view, the
+trials were displayed on a 73 cm by 43 cm monitor,
+with participants seated at a distance of 60 cm from
+the screen. To confirm the representativeness of the
+stimuli, a vertical visual angle was calculated for the
+on-screen stimuli and returning serves on court. The
+server image on screen subtended a vertical visual
+angle of 2.67°, based on an average server image height
+of 3 cm viewed from 60 cm. This closely approximates
+the 2.82° visual angle experienced by WT returners on
+court, given an average server height of 1.22 m and a
+returner-to-server distance of 24.13 m along the court
+diagonal.
+Procedure
+Participants were informed that they would be
+presented with video clips of WT serves from the
+returner’s perspective with equal number of serves
+directed to the left or right. They were also informed
+that clips would include videos occluded at four specific
+points. They were asked to respond as quickly as
+possible as if attempting to return the ball in an actual
+match, by pressing the ‘z’ key for serves towards the
+left and ‘?’ key for serves towards the right and make
+their best possible guess when uncertain. Participants
+started with 12 familiarization trials featuring
+examples from each of the three servers with serves
+on both sides of the court. They were instructed to
+respond similar to the actual test instructions. Before
+each block, participants completed a gaze calibration
+procedure to ensure accurate eye-tracking.
+Data analysis
+BeGaze 3.7.80 (SMI, Germany) was used for calculating
+response measures and visual behaviour measures.
+The primary dependent variable was overall response
+accuracy (RA) for each occlusion condition, which
+was the percentage of correct responses for each
+participant against each server and from each side of
+the court.
+Gaze behaviour data was analysed for the trials
+occluded 200 ms after the server’s racket-ball contact.
+While previous studies have delineated multiple
+areas of interest (AOI) (Reina et al., 2007; Hunfalvay
+& Murray, 2018) to get detailed visual attention
+patterns, this inadvertently introduces ambiguity in
+Figure 2.  The four areas of interest (AOI) used to
+analyse gaze behaviour – Ball, Predicted racket ball
+contact zone, Body & Head, Wheelchair.
+Statistical analysis
+Response accuracy and gaze behaviour data were
+entered into SPSS 29.0.1.0 (IBM, United States) for
+statistical analysis. All data were screened for outliers
+using z-scores. Shapiro-Wilk tests and Q-Q plots
+showed no significant deviations from normality. The
+assumption of sphericity was tested using Mauchly’s
+test and Greenhouse-Geisser corrections to the
+degrees of freedom were used in case of violations.
+Homogeneity of variances was tested and confirmed
+using Levene’s test.
+Response measures
+To assess whether response accuracy was consistent
+across servers and court sides, a preliminary 3 (server)
+x 2 (side of court – deuce and advantage) x 4 (time of
+occlusion – t1, t2, t3, t4) x 2 (expertise – skilled and
+novices) ANOVA was conducted. This revealed no
+was observed between side and time of occlusion, F(2,
+60) = 7.90, p = .001, ηₚ² = .21, with a larger difference
+in response accuracy (Figure 4) on the deuce side
+between t3 (59.6%) and both t2 (43.6%) and t1 (43.6%),
+but not on the advantage side (t1 = 57.5%, t2 = 54.2%,
+t3 = 58.0%).
+main effect for server but a significant main effect for
+side (p < .001) was observed along with a significant
+side by time of occlusion interaction (p = .003). Hence,
+side was included as a within-subjects factor in the
+analysis of response accuracy. Ceiling effects were
+observed for RA scores at ‘t4’, hence this occlusion
+condition was removed from further analyses. For
+the main analysis, we used a 2 (side) x 3 (occlusion)
+x 2 (expertise) ANOVA with ‘side’ and ‘occlusion’ as
+within-subject variables and ‘expertise’ as a betweensubjects variable.
+Gaze measures
+Preliminary analyses of visual gaze behaviour revealed
+for number of fixations and mean fixation duration
+were conducted as a 3 (server) x 2 (side of court –
+deuce and advantage) x 4 (AOI – head and body, WC,
+ball, racket-ball contact zone) x 2 (expertise – skilled
+and novices) ANOVA. No significant main effects
+for ‘server’, ‘side’ or any interactions with AOI were
+observed. Hence, the data for both gaze measures
+were collapsed across all servers and both sides for
+the main analysis. Separate 4 (AOI – head and body,
+WC, ball, racket-ball contact zone) x 2 (expertise –
+skilled and novices) ANOVAs were conducted for each
+dependent variable.
+For all main analyses, alpha was set at .05 and partial
+eta-squared values (ɳp2) were used to indicate effect
+sizes.
+Results
+Response accuracy
+A significant main effect of expertise, F(1, 30) = 5.16,
+p = .03, ηₚ² = .15, was observed, with the skilled group
+(56.1%) performing better than the novice group
+(49.4%) overall. A significant main effect of side, F(1,
+30) = 31.50, p < .001, ηₚ² = .51, was also observed,
+with higher response accuracy for the advantage side
+(56.5%) than for the deuce side (49.0%).
+A significant and large main effect of time of
+occlusion, F(2, 60) = 12.20, p < .001, ηₚ² = .29, reflected
+higher response accuracy for trials occluded at t3
+(58.8%) than for those occluded at t1 (50.5%) and t2
+(49.0%). However, the hypothesised expertise by time
+of occlusion interaction was non-significant, F(2, 60)
+= 0.31, p = .72. As shown in Figure 3, this was due to
+the magnitude of the expert advantage remaining
+consistent across t1, t2, and t3.
+A significant interaction was observed between side
+and expertise, F(1, 30) = 4.50, p = .04, ηₚ² = .13, with
+better response accuracy for the skilled group on
+the advantage side (61.4%) compared to the deuce
+side (50.9%). However, this difference in response
+accuracy between sides was less pronounced for the
+novice group (51.7% on the advantage side vs. 47.0%
+on the deuce side). Another significant interaction
+Figure 4.  Proportion of correct responses for each
+time of occlusion for skilled and novice groups (figure
+(a) – Deuce side; figure (b) - Advantage side). t1 – one
+frame after ball release, t2 – ball toss zenith, t3 – one
+frame before racket-ball contact.
+Figure 3.  Overall proportion of correct responses for
+each time of occlusion for skilled and novice groups.
+t1 – one frame after ball release, t2 – ball toss zenith,
+t3 – one frame before racket-ball contact, t4 – 200 ms
+after racket-ball contact.
+2019). However, the observed RA for skilled WT players
+in serves occluded at racket-ball contact (M = 61.5, SE
+= .02) was lower than that of 80% reported for highly
+skilled AT players (Farrow et al., 2005). This difference
+in attunement to pre-contact kinematic information
+may reflect the less severe time constraints in WT
+compared to AT (Deshpande et al., in press), with
+AT players having potentially developed better
+attunement to the server's evolving action to enable
+earlier movement initiation.
+A main effect of time of occlusion was observed with
+RA scores at t3 being greater than t1 and t2. The overall
+RA scores for the skilled group decreased slightly
+from t1 to t2 where the ball toss information became
+available. As ball toss location has been identified as a
+key information source for predicting serve direction
+through both WT biomechanical analysis (D'Angeli,
+2022) and player reports (Deshpande et al., 2025),
+this suggests that attunement to this information
+source is currently sub-optimal for skilled WT players,
+particularly on the deuce side where average RA scores
+were below chance (M = 43%).
+A significant main effect of serve side and expertise
+was observed with serve direction from the advantage
+side judged 10% more accurately by higher-skilled
+Gaze measures
+Number of fixations. A significant main effect of AOI
+was observed for the mean number of fixations per
+trial, F(1, 30) = 112.10, p < .001, ηₚ² = .78 (Figure 5),
+with the majority of fixations directed towards the
+predicted racket–ball contact area (M = 1.06), followed
+by the server’s body and head (M = 0.52), then the ball
+(M = 0.29), and the fewest fixations on the server’s
+wheelchair (M = 0.08). The main effect of expertise
+was non-significant (p = .387); however, there was a
+significant AOI × Expertise interaction, F(1, 30) = 4.30,
+p = .01, ηₚ² = .13, reflecting fewer fixations by skilled
+players than novice players for the predicted racket–
+ball contact zone (Skilled players: M = .93 vs. Novice
+players: M = 1.19) and the ball (Skilled players: M =
+0.26 vs. Novice players: M = 0.33), and fewer fixations
+for novices than skilled players for the body–head
+region (Skilled players: M = 0.58 vs. Novice players:
+M = 0.45).
+Mean fixation duration. A significant main effect of
+Expertise, F(1, 30) = 6.33, p = .017, ηₚ² = .17, was observed
+with longer mean fixation durations for the novice
+group (M = 376.24 ms) as compared to the skilled group
+(M = 307.39 ms). A significant main effect of AOI, F(3,
+28) = 67.07, p < .001, ηₚ² = .69, was also observed with
+longer fixations for the predicted racket–ball contact
+area (M = 743.36 ms, see Figure 5) and the body and
+head regions (M = 416.26 ms) as compared to the ball
+(M = 169.32 ms) and the wheelchair (M = 38.25 ms).
+The AOI by Expertise interaction was non-significant,
+F(3, 28) = 2.46, p = .11, ηₚ² = .07.
+Discussion
+This study aimed to quantify expertise differences in
+response accuracy and gaze behaviour while skilled
+WT players and novices judged the direction of WT
+serves using a video-based progressive temporal
+occlusion approach. Based on prior findings in AT and
+WT, it was hypothesised that the accuracy gap between
+skilled players and novices would be greatest at the
+earliest occlusion points and diminish as more visual
+information became available, and that skilled players
+would display fewer fixations of longer duration
+compared to novices.
+The primary hypothesis was rejected as ‘Expertise’
+by Time of occlusion’ interaction for RA scores was
+non-significant. Similar to Farrow et al. (2005), the
+differences in RA scores was consistent for the first
+three occlusions but eventually decreased for t4 (200
+ms post racket-ball contact) with ceiling effects being
+observed. This reflected similarity in the timing of
+information pick up between the two groups, but
+with better attunement to server’s evolving action
+for skilled players than novices. The main effect of
+‘Expertise’ is consistent with findings across multiple
+sports demonstrating superior anticipatory skills in
+experts compared to novices (Williams & Jackson,
+Figure 5.  Number of fixations (a) and Mean fixation
+duration (b) for the four areas of interest – Ball,
+Body & head, Predicted racket-ball contact zone and
+Wheelchair for the skilled and novice groups.
+discrepancy, as Reina et al. (2007) included only five
+experienced players with unknown international
+rankings, compared to 16 skilled players ranked in the
+top 100 in the current study and top 16 in Hunfalvay
+& Murray (2018).
+Limitations
+Two key limitations should be acknowledged.
+First, while the video-based progressive temporal
+occlusion approach afforded tight experimental
+control, the button press response compromised task
+representativeness in relation to the modality and
+timing of participants' responses, thereby potentially
+limiting ecological validity (Kredel et al., 2017). Future
+studies should investigate serve perception in on-court
+scenarios using larger displays, virtual reality stimuli,
+or actual servers. Second, gaze behaviour was analysed
+for the entire serve action rather than separately for
+each phase. As the server's action unfolds, skilled
+players may prioritise different information sources
+in each phase of the action (Rosker & Rosker, 2021),
+and future studies should examine gaze behaviour
+separately for each biomechanical phase to better
+understand this.
+Conclusion
+The current study explored the differences in
+perception of WT serves between skilled WT players
+and novices. Skilled WT players demonstrated superior
+response accuracy compared to novices, confirming
+existing literature on expertise-related differences
+in anticipation across various sports. While skilled
+WT players were able to accurately anticipate serve
+direction in approximately two out of three serves,
+their response accuracy was lower than that reported
+for skilled AT players when the entire server’s action
+up to racket-ball contact was available. Attunement
+to information from the ball toss location was found
+to be sub-optimal. Both skilled and novice groups
+predominantly fixated on the predicted racket-ball
+contact area, suggesting the use of this as an anchor
+to pick up relevant information regarding the ball toss
+and arm-racket movement.
+Acknowledgements
+This work was supported by a PhD studentship funded
+by the Lawn Tennis Association, UK and the Centre for
+Para and Disability Sport Innovation at Loughborough
+University
+Disclosure of interest
+The authors report no conflict of interest
+players but not by the novice group. For skilled players,
+average RA increased from t1 (M = 48%) to t3 (M =
+62%) on the deuce side while similar RA scores (~62%)
+were observed across occlusions t1, t2 and t3 for the
+advantage side. As fixation counts and mean fixation
+durations were similar for both sides suggesting
+that skilled players employed a comparable visual
+strategy irrespective of side, it is possible that serve
+direction from the advantage side is inherently easier
+to anticipate from early information. For example,
+D'Angeli (2022) found a larger difference in wheelchair
+orientation at ball release between serve directions on
+the advantage side compared to the deuce side (8° vs
+2°), which may have been sufficient for both groups
+to detect differences in wheelchair orientation, either
+directly or via peripheral vision (Piras & Vickers,
+2011).
+The secondary hypothesis was only partially supported
+as skilled players demonstrated fewer number of
+fixations on average than the novice players (M = .46
+vs M  = .52) but with shorter mean fixation duration
+(M = 307.39 ms vs M = 376.24 ms). The overall mean
+fixation duration for the skilled group was comparable
+to those observed for WT players ranked top 16 in
+their respective categories (M = 284 ms; Hunfalvay
+& Murray, 2018), while the lower average number of
+fixations in the current study may reflect the inclusion
+of players ranked in the top 100 in the current study.
+The main effect of AOI for both skill groups reflected the
+longer fixations for the predicted racket ball-contact
+area and the body and head region, as compared to the
+ball and the wheelchair. A preliminary visual analysis
+further revealed that the 75% skilled players and 50%
+novice players followed a consistent gaze sequence for
+a third of the serves, observing the body-head region
+as the server initiated the action before shifting to
+the predicted racket-ball contact zone as the ball left
+the server's hand, maintaining this until contact. This
+is consistent with findings of Hunfalvay & Murray
+(2018). It is possible that both groups utilized the
+predicted racket-ball contact area as a visual anchor
+(Piras & Vickers, 2011; Vater et al., 2019), leveraging
+peripheral vision to extract relevant information
+from a combination of information sources such as
+the server’s arm-racket movement and the ball toss
+location. As the skilled group had fewer fixations of
+similar duration on the predicted racket-ball contact
+area as compared to the novice group, the difference
+in RA between the two groups may be dependent more
+on the pertinent information that players extracted
+from this region rather than the time spent fixating
+on it (Reina et al., 2007; Loffing et al., 2015).
+In contrast to Reina et al. (2007), both groups had
+relatively few fixations on the ball, which may be
+partially attributed to smooth pursuit behaviour
+observed in several participants during the ball toss
+trajectory. Differences in sample composition and
+skill level across studies may also account for this
+handball goalkeeping. Frontiers in Psychology, 6. https://
+doi.org/10.3389/fpsyg.2015.01820
+Müller, S., & Abernethy, B. (2012). Expert anticipatory
+skill in striking sports: A review and a model. Research
+Quarterly for Exercise and Sport, 83(2), 175–187. https://
+doi.org/10.5641/027013612800745059
+Navia, J. A., Avilés, C., Dicks, M., & Ruiz-Pérez, L. M. (2021).
+The spatiotemporal control of expert tennis players when
+returning first serves: A perception-action perspective.
+Journal of Sports Sciences, 40(1), 16–23. https://doi.org/
+10.1080/02640414.2021.1976484
+Piras, A., & Vickers, J. N. (2011). The effect of fixation
+transitions on quiet eye duration and performance in the
+soccer penalty kick: Instep versus inside kicks. Cognitive
+Processing, 12(3), 245–255. https://doi.org/10.1007/
+s10339-011-0406-z
+Reina, R., Moreno, F. J., & Sanz, D. (2007). Visual behavior and
+motor responses of novice and experienced wheelchair
+tennis players relative to the service return. Adapted
+Physical Activity Quarterly, 24(3), 254–271. https://doi.
+org/10.1123/apaq.24.3.254
+Rosker, J., & Majcen Rosker, Z. (2021). Correlations between
+gaze fixations to different areas of interest are related to
+tennis serve return performance in two different expert
+groups. International Journal of Performance Analysis in
+Sport, 21(6), 1149–1161. https://doi.org/10.1080/247486
+68.2021.1979840
+Sánchez-Pay, A., Palao, M. J., Torres-Luque, G., & SanzRivas, D. (2015). Differences in set statistics between
+wheelchair and conventional tennis on different types
+of surfaces and by gender. International Journal of
+Performance Analysis in Sport, 15(3), 1177–1188.
+https://doi.org/10.1080/24748668.2015.11868860
+Triolet, C., Benguigui, N., Le Runigo, C., & Williams, A.
+M. (2013). Quantifying the nature of anticipation in
+professional tennis. Journal of Sports Sciences, 31(8),
+820–830. https://doi.org/10.1080/02640414.2012.759658
+Vater, C., Williams, A. M., & Hossner, E.-J. (2019). What do
+we see out of the corner of our eye? The role of visual
+pivots and gaze anchors in sport. International Review
+of Sport and Exercise Psychology, 13(1), 1–23. https://
+doi.org/10.1080/1750984x.2019.1582082
+Williams, A. M., & Jackson, R. C. (2019). Anticipation in
+sport: Fifty years on, what have we learned and what
+research still needs to be undertaken? Psychology of
+Sport and Exercise, 42, 16–24. https://doi.org/10.1016/j.
+psychsport.2018.11.014

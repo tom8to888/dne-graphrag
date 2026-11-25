@@ -1,0 +1,146 @@
+Title: The importance of aerobic fitness for tennis: a review (part 1)
+Authors: Cyril Genevois
+Year: 2019
+Issue: Vol. 27 No. 79 (2019)
+Article id: 79
+
+www.itfcoachingreview.com
+December 2019. 27th Year. Issue 79. 20-22
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i79.79
+
+The importance of aerobic fitness for tennis: a
+review (part 1)
+Cyril Genevois a
+a Claude Bernard University Lyon 1, Lyon, France.
+
+ABSTRACT
+
+Tennis is an intermittent sport involving different physical components, one of which is
+aerobic fitness. Scientific research has provided information about the physiological
+demands of tennis competition and some specific protocols have been developed to
+combine aerobic testing with technical efficiency testing and training. This paper will
+provide a rationale behind aerobic fitness training for tennis players.
+
+Key words:  aerobic fitness,
+heart rate, VO2max.
+Received: 01 September 2019
+Accepted: 10 October 2019
+Corresponding author: Cyril
+Genevois, 6 Grande rue de
+Saint Clair, Caluire-et-Cuire,
+Lyon, France 69300. Email:
+cyril.genevois@aol.fr
+
+INTRODUCTION
+A tennis match is characterized by intermittent exercise,
+alternating short (4–10 second) bouts of high intensity and
+short (10–20 second) recovery periods, interrupted by several
+rest periods of longer duration (60–90 seconds). The running
+activities of players are comprised of quick accelerations and
+decelerations but low velocities reflecting the intermittent
+play involved in tennis, which does not allow high velocities to
+be reached (Hoppe et al, 2014).
+ If the crucial muscle actions (movement and strokes) are
+explosive by nature and rely mostly on anaerobic breakdown
+of creatine phosphate for energy production, aerobic power
+(VO2max) is a variable that promotes better physiological
+recovery between these actions, matches and tournaments.
+Thus, tennis could be classified as a predominantly anaerobic
+activity, requiring high levels of aerobic conditioning to avoid
+fatigue. Indeed, the aerobic fitness status of players may
+largely determine their capacity to sustain high-intensity
+exercise during a match and may even influence a player’s
+technical and tactical performance by allowing them to make
+better choices under fatigue.
+It has been suggested that VO2max values >50 ml/kg/min for
+males and > 42 ml/kg/min for females should be generally
+considered the minimum standard, with preferably higher
+values being encouraged for tennis athletes to be able to
+practice and compete at a high level (Kovacs, 2007). These
+values are quite similar to those required in most of team
+sports when competing at a high level. In recent years,
+scientific research has shown a growing interest in the
+
+development of testing protocols allowing for coupled
+analysis of aerobic fitness and technical production (Baiget et
+al, 2014; Brechbühl et al, 2016). The goal of this paper is to
+provide a rationale behind aerobic fitness training for tennis
+players.
+HEART RATE AND PHYSIOLOGICAL STRAIN DURING
+TENNIS PLAY
+Heart rate (HR) monitoring is the most popular indirect
+method of estimating intensity of exercise and it is used to
+provide information about the psychophysiological stress
+associated with match play. During competitive matches,
+mean HR values ranges between 60–80% of maximum HR
+(HRmax), with long and intense rallies eliciting values at over
+95% of HRmax (Fernandez et al, 2006).
+But average HR values should not be the sole measurement of
+metabolism, as this would not accurately represent the
+intermittent nature of tennis play and could lead to
+misinterpretation (figure 1). Thus, the HR-based model
+defining three intensity zones (low intensity < 70%HRmax;
+moderate intensity < 85% HRmax; high intensity > 85%
+HRmax) is commonly used to examine physiological strain
+during various types of exercise.
+The analysis of relative intensity based on the cumulative time
+(actual – or effective playing time – with the addition of rest
+periods) spent in these three metabolic intensity zones during
+simulated tennis play has revealed that players spent more
+than 75% of the time in the low-intensity zone, with less than
+25% of the time spent at moderate to high intensities (Baiget
+et al, 2015).
+
+The effective playing time - i.e., the player’s activity during the
+point - based on this distribution, only accounts for
+approximately 20 to 30% on clay courts and 10 to 15% on
+hard court surfaces (Ferrauti et al, 2003). During a 60 minute
+match or set, this means that the player only plays 12-18
+minutes and the active or passive rest accounts for 42-48
+minutes.
+On top of that, HR values can be affected by several factors
+during a tennis match. For example, it has been shown that a
+passive strategy (vs an active one) may place higher
+cardiovascular demands on the players due to longer times
+spent at elevated (high) heart rates (Hoppe et al, 2019). This is
+in line with the high relationship found between HR responses
+and match activity characteristics such as rally duration and
+strokes per rally, with serve games being more demanding
+than return games (Kilit & Arslan, 2017).
+In the same vein, playing time on clay courts is higher than on
+hard courts with a lower exercise to rest ratio leading to
+higher mean HR (Murias et al, 2007). Moreover, the
+proportion of time spent in the moderate and higher heart
+rate zones by Elite players during a four-set match were
+increased following each set indicating increasing stress
+(Gomes et al, 2011). Thus, not surprisingly, playing style and
+surface are important factors which should be taken into
+consideration when designing training plans in order to meet
+the needs of the player.
+ In the same way, male tennis professionals performed 50%
+more total work in a Grand Slam matches than juniors due to
+
+the best of 5 sets format. Thus, junior players transitioning to
+the professional level must adapt to a field of deeper and
+higher-quality athletes (Kovalchik & Reid, 2017).
+ Baiget et al (2015) showed that players with better aerobic
+fitness played at relatively lower intensities and therefore at a
+lower level of strain and fatigue. This could be a great
+advantage when players have to play several matches in a
+short period of time, which has been shown to impair hitting
+accuracy and stroke positioning (Gescheit et al, 2016).
+ Finally, when it comes to the performance during incremental
+field tests specific to tennis, it has been reported that VO2
+values - both at submaximal and maximal load - were
+moderate predictors of players’ competitive rankings
+(Brechbühl et al, 2016 ; Brechbühl et al, 2018), and that the
+better aerobic conditioning levels of male tennis players at
+international levels were associated with better technical
+efficiency at higher exercise intensities compared with male
+tennis players at national levels (Baiget et al, 2016).
+CONCLUSION
+Aerobic fitness is a factor of performance that has to be
+assessed and improved. The part of this series will provide
+coaches with practical testing and training protocols adapted
+to the specificity of tennis play.

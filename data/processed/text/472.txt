@@ -1,0 +1,175 @@
+Title: The Value of Using Heart Rate Variability for the Long-term Monitoring of Training Loads in Tennis
+Authors: Samuel Rota, Damien Saboul
+Year: 2013
+Issue: Vol. 21 No. 61 (2013)
+Article id: 472
+
+www.itfcoachingreview.com
+December 2013. 21st Year. Issue 61. 26-29
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v21i61.472
+
+The value of using heart rate variability for the
+long-term monitoring of training loads in
+tennis.
+Samuel Rota & Damien Saboul.
+University of Lyon, France.
+ABSTRACT
+
+This article discusses a new method designed for the monitoring of training,
+which is easily accessible to both coaches and physical trainers. Based on heart
+rate variability, it allows us to assess players’ fitness level in a reliable and
+objective manner. Involving few constraints and requiring little equipment, this
+method is an innovative tool which may prove very useful in optimizing and
+customizing training loads based on future competitions, and in preventing the
+risk of overtraining.
+
+Key words: Heart rate monitor,
+Fitness level, Periodisation, Planning,
+Overtraining.
+Received: 2 September 2013
+Acepted: 13 October 2013
+Corresponding author: Samuel Rota,
+University of Lyon, France.
+Email: samuel.rota@fft.fr
+
+INTRODUCTION
+Tennis is, in essence, an intermittent activity with many
+unpredictable factors that make it difficult to implement the
+periodisation process. Unlike a lot of other sports, there is no
+real off-season in tennis and the number of tournaments is
+such that players have the opportunity to compete every week.
+In addition, the way the ranking system works encourages
+players to play and win a lot of matches (Roetert & McEnroe,
+2005). Because of this pressure to perform, players often
+neglect the recovery phase (Smith, 2012), thereby jeopardizing
+their health. On top of this are other factors that have an impact
+on the overall load and fatigue level, such as the number of
+matches played during a tournament, the duration of matches
+and rallies, the environmental conditions, the court surface, as
+well as the travel time and effects of jet lag (Roetert et al., 2005).
+Under these circumstances, it can prove very difficult for
+coaches and physical trainers to plan and periodise training.
+Indeed, it is virtually impossible to set up a clearly defined
+programme given that such a programme is constantly
+challenged by the player’s results. Therefore, non-linear
+periodisation seems to be the most suitable periodisation
+model for tennis (Roetert et al., 2005). This means that a
+player’s training programme must be adapted again and again
+according to the player’s fitness level and future goals. More
+specifically, it seems that in modern tennis, recovery strategies
+are becoming increasingly important to achieve consistent
+performance levels. However, periodisation is often based on
+coaches’ past experiences or guided by what other players do
+in that field (Reid et al., 2010). A good way to avoid the adverse
+effects of such practices is to rely on the study of heart rate
+variability (HRV), which allows to alternate periods of activity
+with periods of rest in an optimal manner on the basis of
+objective data. HRV, which is related to the medical field, refers
+to the study of the time between two heart beats (known as the
+R-R interval, Figure 1); the constant variations in the R-R
+interval provide information on the status of the autonomic
+nervous system. High heart rate variability is a sign of a good
+fitness level; on the other hand, a decrease in HRV is
+synonymous with a decline in the ability to adapt, thus
+reflecting a state of fatigue. Thanks to new, easy-to-use tools
+(heart rate monitors, processing software, etc.), the analysis of
+HRV has become accessible to athletes and can be used to
+monitor fitness and prevent overtraining on an individual basis.
+The monitoring of HRV data seems particularly suited for tennis
+when the goal is to build a flexible periodisation model that
+takes into account the unforeseen events of competition. In
+addition, HRV offers a comprehensive assessment of an
+athlete’s fitness level based on physiological and psychological
+factors, both of which play a decisive role in tennis
+performance.
+
+Figure 1: Illustration of R-R intervals.
+
+METHOD
+Due to the high sensitivity of HRV, the primary methodological
+requirement is to collect HRV measures appropriately, using a
+compatible heart rate monitor (Figure 2). The reason is that
+HRV is influenced by many parameters such as digestion,
+stress, physical activity, fatigue, body position and breathing
+(Saboul et al., in press; Aubert et al., 2003). For practical
+reasons, the preferred method is to measure HRV in the
+morning, soon after the player wakes up. To avoid unusual
+results, it is essential that the player strictly follows this
+protocol: he or she must be fasting, lying down on the bed the
+whole time, breathing as calmly as possible and avoiding any
+stress (no music, no discussion, no movement). As a
+precaution, it is advisable to have the player go to the toilet
+just before HRV is measured. The test should be performed at
+regular intervals, i.e. three or four times a week, during periods
+lasting between 5 and 8 minutes (Kiviniemi et al., 2011; Plews
+et al., 2012).
+
+Figure 2. Sophisticated heart rate monitor capable of recording RR intervals and the variations in such intervals over time.
+
+As far as the HRV analysis is concerned, it is performed using a
+signal processing software, providing access to several types of
+data that are classified into two domains: the time domain and
+the frequency domain (Task Force, 1996). Although frequencydomain indices have been widely used in the past, their
+reliability has recently been called into question because of
+their interaction with the athlete’s respiratory rate. In addition,
+controlled respiration disrupts the results (Saboul et al., in
+press). The solution is to be found in the use of time-domain
+measures and more precisely in the use of RMSSD (root mean
+square of successive differences). This index better reflects the
+state of fatigue than frequency-domain measures and is an
+accurate predictor of the athlete’s ability to withstand
+additional stresses (Plews et al., 2012).
+Example of longitudinal monitoring of HRV based on the
+competition and preparation periods during the tennis season.
+INTERPRETATION OF DATA
+In practical terms, HRV monitoring is very easy to implement
+and involves few constraints. This method is non-invasive, fast
+(approx. 5 minutes) and practical (upon awakening, in the bed)
+and can therefore be used directly by the players,
+independently and even when travelling.
+
+Figure 3. Each point represents the value of RMSSD on the day it was recorded. For greater readability, a trend line has been
+drawn to track the evolution of the player’s fitness level.
+
+In the context of longitudinal monitoring, variations in the
+RMSSD values are visible on a day-to-day basis depending on
+training sessions, tournaments or stress level (Figure 3). It is
+therefore important not to over-interpret each variation
+observed. Similarly, comparing gross values between players
+has no meaning from a physiological point of view. RMSSD
+must be interpreted as an individual measure; as such, it can
+only be compared with its previous values. Given that large
+variations can take place during the same week, it is
+recommended to simply observe the trends. In effect, RMSSD
+values will normally decrease during periods of high load, thus
+reflecting an accumulation of fatigue. Conversely, RMSSD
+should increase during preparation periods to above normal
+values, in the best of cases, just before the start of competition
+(Plews et al., 2012). The variations in RMSSD values, on a daily
+or weekly basis, are a sign of fitness and an indication of the
+ability to adapt physiologically to the different types of training
+performed. A long period of stagnation, even with high values,
+or a sustained decrease in RMSSD values generally indicate that
+the ratio between training load and recovery is inappropriate
+or that training is too monotonous. The interpretation of the
+results must always be done bearing in mind the content of
+training sessions and matches. Furthermore, it is appropriate to
+use RMSSD values in conjunction with other indices such as the
+workload or the subjective assessment of fatigue, sleep,
+appetite or mood.
+CONCLUSION
+The HRV method appears to be both effective and particularly
+well adapted to tennis since it allows coaches to perform longterm monitoring of their players’ fitness level. Based on the
+variations in RMSSD values throughout the tennis season, they
+can adjust and optimize the training load by taking into
+account players’ fitness level and goals at any given time. With
+data that is both objective and player-specific, this method
+allows for the planning of optimal recovery periods, thus
+helping players to peak at the right moment and avoid
+overtraining.
+Given the current demands of modern tennis, it has become
+essential to provide coaches and players with efficient tools
+that can help them in their search for optimal fitness and
+preservation of health. Thanks to new technology, it seems that
+the HRV method can be used as such a tool.

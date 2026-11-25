@@ -1,0 +1,176 @@
+Title: Video analysis and video feedback in tennis: Using mobile devices to benefit digital teaching and learning
+Authors: Philipp Born, Tobias Vogt
+Year: 2018
+Issue: Vol. 26 No. 75 (2018)
+Article id: 252
+
+www.itfcoachingreview.com
+Aug 2018, 26th Year, Issue 75. 38-40
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i75.252
+
+Video analysis and video feedback in
+tennis: Using mobile devices to benefit
+digital teaching and learning
+Philipp Born and Tobias Vogt
+German Higher School of Sports
+ABSTRACT
+
+Video analysis and feedback, especially through the use of mobile learning
+devices (MLDs), has established itself as a principal coaching instrument in the
+coaching toolkit. It provides an excellent source of information to learners
+about their movement, and when used effectively can speed up motor
+learning. This article provides recommendations on the use of video analysis
+and feedback based on research on the field of skill acquisition. It also provides
+a breakdown on the applications and features available in the market.
+
+Key words: digital education,
+motor learning, movement
+technique, video analysis
+Received: 05 April 2018
+Acepted: 01 May 2019
+Corresponding author:
+Philipp Born, German Higher
+School of Sports.
+Email: p.born@dshs-koeln.de
+
+INTRODUCTION
+Mobile learning devices (MLDs) like tablets or smartphones are
+used ever more frequently in daily life as well as in tennis
+practice. Video analyses and video feedback are only two of
+the possible application, and are highly effective didactic
+instruments in controlling movements in general as well as
+tennis technique performance in particular (Mohnsen, 2010).
+The primary goal of video analyses within motor learning
+processes is to speed the process up, optimize it, as well as
+make it more effective (Olivier, Rockmann & Krause, 2013).
+There are various opportunities to apply video analysis in
+tennis practice, depending on the availability of resources and
+technical devices (e.g. smartphone, tablet). The two most
+important opportunities for tennis coaches are video analyses
+outside of the practice court (record video on court  analyse
+off court) and direct video feedback on court (recording video
+on court  immediate feedback for the players). In general the
+use of video analyses is establishing itself more and more as a
+feedback method besides traditional ways like verbal feedback
+or tactile corrections (Mohnsen, 2010). Within the feedback
+loop,
+video
+analyses
+can
+be
+a
+big
+help
+in
+targetperformance comparison (Olivier, Rockmann & Krause,
+2013). Coaches who use video analysis, including video
+feedback for the player, (e.g. player sees oneself on the video)
+have to bear in mind that motor learning (e.g. technique
+learning) is based on implicit and explicit learning processes
+and that seeing oneself perform excludes implicit learning.
+
+IMPORTANT FACTORS FOR AN EFFICIENT USE
+The efficiency of using video feedback as well as video analyses
+is determined by several factors.
+
+The perspective of the video footage should guarantee that
+either the whole movement or a specific part of the movement
+(to be analysed) can be observed. In addition to that, possible
+sources of errors should be recognizable. Most of the tennis
+techniques (e.g. serve, forehand or backhand) should be
+captured preferably either from the side (see picture 1) or the
+back (camera is behind the court). Videos from the back show
+the rotation effort of the player, while watching the movement.
+To capture the whole movement, the camera has to be a
+sufficient distance away from the player.
+
+The content of feedback is crucial for the learning process of
+the player. Mainly negative feedback in the training process is
+beneficial
+for
+short-term
+error
+correction
+but
+is
+disadvantageously for long-term learning and automation. In
+contrast, mainly positive feedback is beneficial for the longterm motor learning of the player amongst other things
+through the secretion of the “happiness hormone” dopamine
+(Glimcher, 2011).
+
+Furthermore, research has shown that timing and frequency of
+feedback have a noticeable effect on the learning process
+(Marschall, Bund & Wiemeyer, 2007). Similar to the use of
+negative feedback, giving a lot of feedback (high frequency)
+seems to be more beneficial in the short-term than giving less
+feedback (e.g. 33% of the feedback). However, from a longterm perspective, less feedback is more effective since the
+players learn to solve problems by themselves better and are
+able to keep the amount of errors low in long-term, even
+though it may take them longer in the beginning.
+
+Last but not least the timing of feedback is crucial (Olivier,
+Rockmann & Krause, 2013). When giving (visual/video)
+feedback, coaches have to keep in mind that the player needs
+some time to process their movement. At the same time the
+information about the own movement fades after a certain
+time. Research has shown that the best time window for coach
+feedback is between 5 and 30 seconds after the movement. Of
+equal importance is the timing between the feedback and the
+next movement of the player. The player again needs time to
+process the coach’s feedback (min. 5 seconds) and needs the
+possibility to implement it in one’s movement after a maximum
+of 120 seconds.
+
+PRACTICAL APPLICATION
+Coaches should never use MLDs for e.g. video analyses and/ or
+feedback without a purpose or objective. The objective of the
+practice session should always be the main focus. Video
+analyses and/or video feedback are highly effective additional
+tools when used in the right way. Within a practice session
+coaches should always keep the time in mind. The use of MLD
+should not consume too much practice time but should rather
+be embedded in the training (Born et al., 2017). Longer analysis
+should be done off court immediately before or after a training
+session.
+
+There are several applications available for tablets and
+smartphones that can support and enhance video analyses and
+feedback like “Coaches Eye” or “Hudl Technique”. Both have a
+very good slow-motion function and coaches can draw, point
+out and highlight whatever they want by using several features
+of the applications. In addition, videos can be compared in a
+split-screen and/or overlay mode. Of all available applications
+the “Tennis Australia Technique App” (TATA) stands out as it
+has all of the above features and a variety of prefabricated
+videos for all age groups. Another very helpful feature in the
+TATA is the “Preview Delay”. The coach may set a delay of 5 to
+200 seconds. This feature allows the players to see their
+
+movement techniques immediately after having performed
+(e.g. player hits 6 forehands, runs to the tablet/smartphone and
+watches his forehands before playing another set of
+forehands).
+
+CONCLUSION
+The use of MLDs and video analysis is widespread, and the
+technology has established itself as a legitimate coaching tool.
+With only more and more use of the technology to be
+expected, and given the technological era that we live in,
+recommendations and guidelines for best practice should be
+established. Research has shown that very regular feedback
+can improve short-term performance but at the expense of
+long-term performance, whereas less regular feedback can
+improve performance longterm but at the expense of shortterm performance; it is therefore up to coaches to keep this in
+mind when designing sessions and implementing video
+analysis and feedback. Video analysis should also take into
+account the goals of the session (there should be specific goals
+related to the video analysis), and the recording should show
+the key elements of the movement; thus, careful decisions
+need to be made about positioning the camera to the
+side/behind the player, the distance from the player, and other
+elements such as slow-motion and angles. Finally, there are a
+number of apps which enhance the experience such as
+‘Coaches Eye’, ‘Hudl Technique’ or ‘Tennis Australia Technique
+App’ which offer split screens and overlays where technique
+can be compared to models, or annotated.

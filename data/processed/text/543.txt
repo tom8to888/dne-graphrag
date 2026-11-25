@@ -1,0 +1,204 @@
+Title: The Usefulness of Externally-Directed Instructions for Teaching Technique and Tactics
+Authors: Luke Regan
+Year: 2011
+Issue: Vol. 19 No. 53 (2011)
+Article id: 543
+
+www.itfcoachingreview.com
+April 2011. 19th Year. Issue 53. 9-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i53.543
+
+The
+usefulness
+externally-directed
+instructions for teaching technique and
+tactics.
+Luke Regan.
+The Parklangley Club, UK.
+
+ABSTRACT
+
+This article outlines research findings that demonstrate the superior benefits to
+motor-skill learning of using externally as opposed to internally directed
+instructions. This is illustrated with examples and then some implications and
+suggestions for coaching practice are made.
+
+Key
+words:
+Technique,
+Instructions, Feedback, Attentional
+focus.
+Received: 15 November 2010
+Acepted:
+March
+2010
+Corresponding author: Luke Regan,
+The Parklangley Club, UK.
+Email: lwgregan@gmail.com
+
+INTRODUCTION
+Among coaches, there are a variety of different styles and
+methods of improving players (see Crespo & Miley, 2005 for a
+description of a variety of these). Styles are based on coaches’
+own individual experiences of playing, teaching and coach
+education. While there is a strong scientific consensus on many
+of the most effective coaching styles and techniques, sport
+science research can only point the way and seldom offers
+definitive answers on the most singularly effective methods in
+every aspect of training. In other words, there is no one way
+that defeats all others. This is of course also true due to the vast
+array of ages and abilities that are encountered by coaches in
+their everyday work- different people require tailored
+approaches to help them reach their potential.
+There is however one area of skill acquisition research that has
+offered consistently positive results in its effectiveness as an
+instructional tool for a broad range of abilities. It has not been
+specifically addressed in any detail in this publication and
+despite having never encountered it on a coach education
+curriculum, it has many useful applications for a coach. The
+technique in question is the directing of a learner’s attention to
+an external point of focus as opposed to an internal one. For
+instance, when trying to change the path of a player’s swing,
+the coach is faced with many possible choices, one of them
+being to direct the player’s attention to the movement of the
+arm (an internal point of focus), or to the movement of the
+racket (an external point of focus).
+THE CONSTRAINED-ACTION HYPOTHESIS
+Research into the direction of a player’s attention during skilllearning has shown that an external point of focus is generally
+more beneficial than an internal point of focus (Wulf & Prinz,
+2001). This result has been repeatedly found in many
+laboratory studies by Gabriele Wulf and her colleagues, as well
+as in field research in tennis (Maddox et al., 1999) and golf
+(Wulf et al., 1999). The theory behind this effect is the
+constrained-action hypothesis, which states that an internal
+point of focus disrupts the flow of movements that function
+more efficiently without the self-conscious attention promoted
+by an instruction to manipulate a specific part of the body.
+Many coaches may already be familiar with this principle, as it
+is commensurate with the philosophy of Gallwey (1974) and the
+“inner” game of tennis. It will also ring true with anecdotal
+evidence of “paralysis by analysis” and experiences many will
+have had of how “thinking too much” can disrupt smooth
+execution. Incidentally, while excessive augmented (verbal)
+feedback has been found to degrade the learning process for
+motor skills, this pattern seems to hold only when the feedback
+is internally directed. Externally directed feedback has not been
+shown to negatively affect learning in larger volumes (Wulf &
+Shea, 2004). Much research suggests that complex movements
+
+are largely self-organised in novices as well as experts (Davids,
+Button & Bennett, 2008), and that these can be harmed by too
+much conscious attention. There is now also physiological
+evidence
+this
+phenomenon
+from
+muscular
+electromyography (EMG) data from research that found
+basketball players' arm muscles to work more smoothly in
+executing a free-throw when their attention was directed
+externally as opposed to internally (Zachry et al., 2005). The
+externally focused players threw more accurately and with less
+EMG activity in their biceps and triceps, indicating more
+efficient movement.
+Further to the apparent benefits of an external point of focus
+when compared to an internal one, learning also seems to be
+affected by the proximity to the body of the point of focus
+itself. In tennis, a player’s movements have direct effects on the
+environment, most notably on the racket and the ball. It can be
+said that the effects on the racket are more proximal (closer) to
+the player’s body, while the effects on the ball and its ensuing
+movement are more distal (further away). In a laboratory
+balancing task, McNevin et al. (2003) consistently found that
+the further away from the body their participants’ point of
+focus, the more beneficial it was to their learning. More
+importantly, this finding was replicated in a study of learning a
+backhand drive in tennis (Maddox et al., 1999). In this
+experiment, players’ learning was enhanced when their
+attention was directed to the intended effect of their
+movements on the ball, when compared to the effect of their
+movements on the racket. In the case of tennis at least, it seems
+that using instructions that direct learners’ attention to their
+body are generally less beneficial than directing attention to
+the racket, which is in turn less beneficial than directing
+attention to the intended effect on the ball.
+PROPOSALS
+This principle has some obvious implications for coaching and
+instruction. When teaching a novice a basic groundstroke
+swing, many coaches will be familiar with directing a player’s
+attention to the finishing position of the elbow and perhaps a
+turning of the wrist. In applying the theory described above,
+coaches are encouraged to think of where the racket (external)
+will finish after a desired swing instead of the elbow (internal),
+or how the wrist (internal) manipulates the racket-face
+(external). For instance, instructions that emphasise an external
+focus on a forehand drive might include; “Finish with the racket
+around your shoulder”; “Point the butt of the racket forwards
+at the end of the stroke” and “Finish the stroke with the racket
+strings facing the side-fence”. Better still, depending on the
+intended tactical outcome, the coach can start by directing the
+player’s attention to desired effects on the ball itself. Starting
+basic instructions with the words, “Make the ball…” will
+effectively direct a player’s attention to the intended ball
+control and keep the learning at an optimal level. After some
+initial attempts, this will also inform the coach as to whether it
+is necessary to direct the player’s attention to their racket
+because of a technical limitation that will not allow the player
+to achieve the desired ball control and subsequent tactical
+goal. A similar effect might be achieved with an instruction to
+a player to transfer their bodyweight. Instead of directing
+attention to the foot on to which weight should be transferred,
+a coach could use the directional instruction of “toward the net”
+for example when encouraging a player to get her weight on
+to a specific foot.
+
+There are many further possibilities for taking standard
+technical goals for players and turning the typical, internally
+directed instruction into an externally directed one. One
+inspired coach who wanted to help his young players with
+opening the outside hip in preparation for a groundstroke used
+eye-shaped stickers and stuck them to his players' knees. The
+instruction to his players to then make the "eye" look in a
+certain direction when positioned behind the ball helped them
+open the appropriate hip effectively before their shots, perhaps
+due to the way he took a very internally- focused technical goal
+and innovatively made it more external to facilitate learning.
+This sort of strategy is effective with young players and could
+be adapted easily to any part of the body. Even without the aid
+of stickers, an imaginary eye or arrow could easily be used to
+guide players' movements as a skill-focused imagery exercise
+for increased learning. The mental picture of something outside
+the body that is affected by movement could be said to act as
+an external point of focus and keep players from disrupting
+smooth movement execution.
+CONCLUSION
+The message of this article is not that internally directed
+instructions to focus on moving specific parts of the body are
+redundant. There is always a place for a simple instruction of
+this nature as an opportunity to improve technique, especially
+when dealing with players who want specific technical
+information and learn best with instructions on how to use their
+
+limbs and body. The message is to experiment with externally
+directed instructions as a starting point for teaching movement
+skills. The philosophy behind keeping an external point of focus
+is part of a broader "top-down" approach to coaching in sport
+that is reflected in games-based coaching styles, constraintsled approaches to skill acquisition (Davids et al., 2008), implicit
+learning (Masters, 2000) and perceptual-cognitive frameworks
+like decision training (Vickers et al., 1999). Underlying these
+approaches is a de-emphasis on the role of explicit verbal
+instructions as a means of teaching, especially when
+communication is directed toward the manipulation of specific
+body parts. These styles are well-supported by research
+evidence on their effectiveness and signpost the move away
+from the older school of "bottom-up" coaching where onesize-fits-all techniques were micro- managed through high
+volumes of verbal instructions in tactically redundant and
+repetitive basket-drills.
+The external focus of attention effect when performing a skill is
+one of the most robust phenomena in skill acquisition research
+and it is intended that the reader gain some insight into why
+something coaches are likely already doing works well for their
+players. Also it is hoped that some new ideas are inspired so
+that the reader can optimise his or her learning environment
+by adapting instructions where possible.

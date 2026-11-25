@@ -1,0 +1,179 @@
+% References. Author lists checked against arXiv on 24/11 (Han, Gao, Zheng, Wang, RAPTOR, HippoRAG2).
+
+% --- GraphRAG and graph-based RAG
+@article{edge2024local,
+  title   = {From Local to Global: A Graph {RAG} Approach to Query-Focused Summarization},
+  author  = {Edge, Darren and Trinh, Ha and Cheng, Newman and Bradley, Joshua and Chao, Alex and Mody, Apurva and Truitt, Steven and Metropolitansky, Dasha and Ness, Robert Osazuwa and Larson, Jonathan},
+  journal = {arXiv preprint arXiv:2404.16130},
+  year    = {2024}
+}
+% The method we test; global search, the four criteria, the 8k context budget.
+
+@article{guo2024lightrag,
+  title   = {{LightRAG}: Simple and Fast Retrieval-Augmented Generation},
+  author  = {Guo, Zirui and Xia, Lianghao and Yu, Yanhua and Ao, Tu and Huang, Chao},
+  journal = {arXiv preprint arXiv:2410.05779},
+  year    = {2024}
+}
+% Named in the brief as the alternative to GraphRAG.
+
+@article{peng2024graphragsurvey,
+  title   = {Graph Retrieval-Augmented Generation: A Survey},
+  author  = {Peng, Boci and Zhu, Yun and Liu, Yongchao and Bo, Xiaohe and Shi, Haizhou and Hong, Chuntao and Zhang, Yan and Tang, Siliang},
+  journal = {arXiv preprint arXiv:2408.08921},
+  year    = {2024}
+}
+
+@article{han2025ragvsgraphrag,
+  title   = {{RAG} vs. {GraphRAG}: A Systematic Evaluation and Key Insights},
+  author  = {Han, Haoyu and Ma, Li and Wang, Yu and Shomer, Harry and Lei, Yongjia and Qi, Zhisheng and Guo, Kai and Hua, Zhigang and Long, Bo and Liu, Hui and Aggarwal, Charu C. and Tang, Jiliang},
+  journal = {arXiv preprint arXiv:2502.11371},
+  year    = {2025}
+}
+% Independent comparison of RAG and GraphRAG (authors checked on arXiv 24/11). RAG best on detailed single-hop QA,
+% GraphRAG local on multi-hop, global struggles on QA; strong position bias in LLM judging (both orders recommended).
+
+@article{sarthi2024raptor,
+  title   = {{RAPTOR}: Recursive Abstractive Processing for Tree-Organized Retrieval},
+  author  = {Sarthi, Parth and Abdullah, Salman and Tuli, Aditi and Khanna, Shubh and Goldie, Anna and Manning, Christopher D.},
+  journal = {arXiv preprint arXiv:2401.18059},
+  year    = {2024}
+}
+% Hierarchical summary tree for retrieval (checked on arXiv 24/11).
+
+@inproceedings{gutierrez2025hipporag2,
+  title     = {From {RAG} to Memory: Non-Parametric Continual Learning for Large Language Models},
+  author    = {Guti{\'e}rrez, Bernal Jim{\'e}nez and Shu, Yiheng and Qi, Weijian and Zhou, Sizhe and Su, Yu},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning (ICML)},
+  year      = {2025}
+}
+% HippoRAG 2 (checked on arXiv 24/11: ICML 2025).
+
+@article{traag2019leiden,
+  title   = {From {L}ouvain to {L}eiden: Guaranteeing Well-Connected Communities},
+  author  = {Traag, Vincent A. and Waltman, Ludo and van Eck, Nees Jan},
+  journal = {Scientific Reports},
+  volume  = {9},
+  pages   = {5233},
+  year    = {2019}
+}
+% The community detection GraphRAG uses for its hierarchy (C0-C3).
+
+% --- RAG
+@inproceedings{lewis2020rag,
+  title     = {Retrieval-Augmented Generation for Knowledge-Intensive {NLP} Tasks},
+  author    = {Lewis, Patrick and Perez, Ethan and Piktus, Aleksandra and Petroni, Fabio and Karpukhin, Vladimir and Goyal, Naman and K{\"u}ttler, Heinrich and Lewis, Mike and Yih, Wen-tau and Rockt{\"a}schel, Tim and Riedel, Sebastian and Kiela, Douwe},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2020}
+}
+
+@inproceedings{karpukhin2020dpr,
+  title     = {Dense Passage Retrieval for Open-Domain Question Answering},
+  author    = {Karpukhin, Vladimir and O{\u{g}}uz, Barlas and Min, Sewon and Lewis, Patrick and Wu, Ledell and Edunov, Sergey and Chen, Danqi and Yih, Wen-tau},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020}
+}
+
+@article{gao2023ragsurvey,
+  title   = {Retrieval-Augmented Generation for Large Language Models: A Survey},
+  author  = {Gao, Yunfan and Xiong, Yun and Gao, Xinyu and Jia, Kangxiang and Pan, Jinliu and Bi, Yuxi and Dai, Yi and Sun, Jiawei and Wang, Meng and Wang, Haofen},
+  journal = {arXiv preprint arXiv:2312.10997},
+  year    = {2023}
+}
+
+% --- Models and serving
+@article{qwen2025,
+  title   = {{Qwen2.5} Technical Report},
+  author  = {{Qwen Team}},
+  journal = {arXiv preprint arXiv:2412.15115},
+  year    = {2024}
+}
+
+@article{chen2024bgem3,
+  title   = {{BGE M3-Embedding}: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation},
+  author  = {Chen, Jianlv and Xiao, Shitao and Zhang, Peitian and Luo, Kun and Lian, Defu and Liu, Zheng},
+  journal = {arXiv preprint arXiv:2402.03216},
+  year    = {2024}
+}
+
+@inproceedings{kwon2023vllm,
+  title     = {Efficient Memory Management for Large Language Model Serving with {PagedAttention}},
+  author    = {Kwon, Woosuk and Li, Zhuohan and Zhuang, Siyuan and Sheng, Ying and Zheng, Lianmin and Yu, Cody Hao and Gonzalez, Joseph E. and Zhang, Hao and Stoica, Ion},
+  booktitle = {Proceedings of the 29th Symposium on Operating Systems Principles (SOSP)},
+  year      = {2023}
+}
+
+% --- LLM judges and their biases
+@inproceedings{zheng2023judging,
+  title     = {Judging {LLM}-as-a-Judge with {MT-Bench} and {Chatbot Arena}},
+  author    = {Zheng, Lianmin and Chiang, Wei-Lin and Sheng, Ying and Zhuang, Siyuan and Wu, Zhanghao and Zhuang, Yonghao and Lin, Zi and Li, Zhuohan and Li, Dacheng and Xing, Eric P. and Zhang, Hao and Gonzalez, Joseph E. and Stoica, Ion},
+  booktitle = {Advances in Neural Information Processing Systems (Datasets and Benchmarks)},
+  year      = {2023}
+}
+% Position bias, verbosity bias, agreement of GPT-4 with humans.
+
+@article{wang2023fair,
+  title   = {Large Language Models are not Fair Evaluators},
+  author  = {Wang, Peiyi and Li, Lei and Chen, Liang and Cai, Zefan and Zhu, Dawei and Lin, Binghuai and Cao, Yunbo and Liu, Qi and Liu, Tianyu and Sui, Zhifang},
+  journal = {arXiv preprint arXiv:2305.17926},
+  year    = {2023}
+}
+% Position bias; swapping the order, as we do.
+
+@article{dubois2024length,
+  title   = {Length-Controlled {AlpacaEval}: A Simple Way to Debias Automatic Evaluators},
+  author  = {Dubois, Yann and Galambosi, Bal{\'a}zs and Liang, Percy and Hashimoto, Tatsunori B.},
+  journal = {arXiv preprint arXiv:2404.04475},
+  year    = {2024}
+}
+% Length bias of LLM judges.
+
+% --- Statistics
+@article{wilcoxon1945,
+  title   = {Individual Comparisons by Ranking Methods},
+  author  = {Wilcoxon, Frank},
+  journal = {Biometrics Bulletin},
+  volume  = {1},
+  number  = {6},
+  pages   = {80--83},
+  year    = {1945}
+}
+
+@article{holm1979simple,
+  title   = {A Simple Sequentially Rejective Multiple Test Procedure},
+  author  = {Holm, Sture},
+  journal = {Scandinavian Journal of Statistics},
+  volume  = {6},
+  number  = {2},
+  pages   = {65--70},
+  year    = {1979}
+}
+
+@article{cohen1960kappa,
+  title   = {A Coefficient of Agreement for Nominal Scales},
+  author  = {Cohen, Jacob},
+  journal = {Educational and Psychological Measurement},
+  volume  = {20},
+  number  = {1},
+  pages   = {37--46},
+  year    = {1960}
+}
+
+@article{landis1977measurement,
+  title   = {The Measurement of Observer Agreement for Categorical Data},
+  author  = {Landis, J. Richard and Koch, Gary G.},
+  journal = {Biometrics},
+  volume  = {33},
+  number  = {1},
+  pages   = {159--174},
+  year    = {1977}
+}
+% "Slight" 0-0.20, "fair" 0.21-0.40, "moderate" 0.41-0.60.
+
+% --- Cost
+@inproceedings{strubell2019energy,
+  title     = {Energy and Policy Considerations for Deep Learning in {NLP}},
+  author    = {Strubell, Emma and Ganesh, Ananya and McCallum, Andrew},
+  booktitle = {Proceedings of ACL},
+  year      = {2019}
+}

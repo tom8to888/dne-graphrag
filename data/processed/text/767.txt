@@ -1,0 +1,504 @@
+Title: Deception in Tennis: An Ecological Dynamics Perspective
+Authors: William O'Connell
+Year: 2026
+Issue: Vol. 34 No. 98 (2026)
+Article id: 767
+
+www.itfcoachingreview.com
+April 2026. 34th  Year. Issue 98. 49-55
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i98.767
+INTRODUCTION
+Deception is an inherently biological phenomenon —
+octopuses, chameleons, and countless other animals employ
+it for survival. Twenty-five hundred years ago, Sun Tzu (~500
+BCE/2014) observed that "all warfare is based on deception."
+Sport is no different.
+Take a look at any highlight reel from 2025 and compare the
+quality of points on display with that of decades past. Today's
+tennis professionals exhibit greater movement complexity
+than ever before. Often, their amazing shots are executed
+with intentionally misleading cues, or they delay revealing
+pertinent information to maximize their shot’s impact. These
+unexpected and effective actions end up on internet highlight
+reels, but also occur more subtly within the point to create
+an advantage. While these moments feel more conspicuous
+now, elite athletes have always tried to reduce the impact
+and uncertainty concerning their opponent's actions, and
+increase the impact and uncertainty concerning their own
+actions. The interplay between anticipation and deception
+is a foundational feature of high-level dyadic competition in
+sports with high spatio-temporal demands.
+Most research on these interaction skills has focused on
+anticipation, with comparatively little attention given to
+deception. Moreover, studies have tended to examine
+perceptual-cognitive and kinematic aspects in isolation
+(Panten et al., 2019). This is a meaningful limitation. Farrow and
+Abernethy (2003) demonstrated that intermediate players'
+anticipatory abilities were magnified relative to novices under
+more representative conditions — but not when only a verbal
+response was required. This is consistent with a broader
+literature showing that experiments decoupling perception
+ABSTRACT
+Deception is ubiquitous and potent in high-level tennis. While this skill is applauded
+by players and fans, it appears to have garnered limited consideration from coaches
+and researchers. This paper examines kinematic deception in tennis singles play from
+an ecological dynamics (ED) perspective, offering definitions, a descriptive taxonomy,
+and training recommendations for both performing and defending against deception.
+An understanding of deception would be incomplete without an understanding of
+its counterpart anticipation — each skill emerging from the players’ attempt to gain
+an advantage in the point/match. ED concepts and frameworks to aid in the training
+of both anticipation and deception are offered — representative training design (RT),
+periodization of skill training, (anti)fragility, and action capacity training. Finally, practical
+activities to develop and defend against deception are provided.
+Deception in Tennis: An Ecological Dynamics
+Perspective
+William O’Connell
+ITF Coach of High-Performance Players (USA)
+Key words: Kinematic deception,
+anticipation, ecological dynamics,
+skill acquisition
+Received: 5 March 2026
+Accepted: 29 April 2026
+Corresponding author: william.
+oc.92@gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+and action diminish the expert advantage (Buszard, 2022).
+There is also a neuro-anatomical basis for this phenomena.
+A verbal response engages only the ventral vision-forperception system, while a movement-based response also
+recruits the dorsal vision-for-action system (van der Kamp et
+al., 2008). On a tennis court, deception emerges in response
+to an opponent's actions across multiple timescales — far
+more complex than detecting a misleading cue in isolation. A
+player may establish a pattern of directing forehand approach
+shots to the opponent's backhand, only to replicate that
+preparation before redirecting to the forehand side at the last
+moment. This research tendency to prioritize experimental
+control over representativeness has been informative but
+has left our understanding of these interactions incomplete
+(Ramsey et al., 2022).
+Understanding these complex interactions requires a
+framework for motor control. Two major approaches exist:
+the cognitivist (C) approach, which has long dominated, and
+ecological dynamics (ED), which offers an alternative account.
+For a detailed philosophical comparison, Wilson et al. (2024) is
+instructive. Araújo et al. (2025) make a compelling case for ED
+as the dominant paradigm in sport performance analysis. Rob
+Gray (2021a) examines the two motor-control approaches in
+baseball hitting, and Carrilho et al. (2025) critique predictive
+control (rooted in C), before utilizing prospective control
+(rooted in ED) to explain how soccer defenders anticipate
+and coordinate to prevent attackers from scoring. This
+paper adopts an ED lens for its more comprehensive and
+parsimonious account of motor control.
+The purpose of this paper is to define and distinguish different
+kinematic manifestations of deception, and to explore how
+players can both perform and defend against it. Contextual
+2022).  In the ED tradition, it is postulated that anticipation
+and deception occur prospectively — as opposed to
+predictively (rooted in C) —  through the player’s attempt to
+realize affordances (Araújo et al., 2025, Carrilho et al., 2025;
+Gray, 2021a).
+Anticipation and deception are both employed to gain
+an advantage, but they operate inversely. Kinematically,
+anticipation can be understood as one aspect of a system
+maintaining a negative phase relationship with another —
+as when a player moves in the direction of a shot before
+the opponent makes contact (Stepp & Turvey, 2010).
+Kinematic deception, conversely, can be defined as one
+aspect of a system causing another to lose that negative
+phase relationship, or to incur a positive one (Gray, 2021b;
+Ontañón-García et al., 2021). Put simply: anticipation is an
+attempt to improve one's own affordances, while deception
+is an attempt to undermine the opponent's.
+DESCRIBING DECEPTION
+In this section, vocabulary, perspectives, and parameters will
+be offered to help discuss deception in the context of a point.
+Deception in tennis can be organized into three subcategories.
+Deceit involves offering a functional but misleading
+affordance (Panten et al., 2019; Ramsey et al., 2022). Disguise
+involves concealing specifying information until as late as
+possible, limiting the opponent's field of affordances (Panten
+et al., 2019; Ramsey et al., 2022). Finally, “distraction refers
+to actions that (re-)direct the attention of opponents from
+task-relevant, specifying information toward less relevant,
+non-specifying information” (Zheng et al., 2023; p.2). These
+subcategories can operate alone or in combination, and all
+function to impair the opponent's perception-action coupling.
+As previously mentioned, deception emerges and evolves
+relationally. Tennis’ rules result in varying degrees of influence
+competitors can have on the interaction. Active influence of
+the situation is conferred on the player about to strike the
+ball, with the opponent preparing to receive the ball having
+less agency (contra-active influence) over the situation
+(Panten et al., 2019). While most research has focused on
+the active deceiver, deception occurs in both roles. Contraactive deception takes kinematic form primarily through (1)
+gestures, and (2) presence (posture and positioning) (Panten
+et al., 2019).
+Deception can also co-occur with anticipation. Often, this
+collaboration with anticipation is the case in contra-active
+deception (see figure 2.). Active deception also occurs with
+anticipation. For instance, a player who knows their opponent
+likes to offer open court before anticipating to cover it
+can prepare as if going cross-court, then play behind the
+opponent instead. Finally, deceptive and veridical information
+can be combined either sequentially — where the deceptive
+act terminates before the genuine intention is revealed — or
+simultaneously, where the two merge within a single action
+(Panten et al., 2019).
+DOING DECEPTION
+Active deception places supplementary motor demands
+on the player toward three distinct ends (Panten et al.,
+2019; Ramsey et al., 2022; Zheng et al., 2023). Completion
+deception involves a full termination of the misleading
+factors are inseparable in the execution of the deception skill,
+but the focus here is on kinematics within singles play, during
+the point, and within the rules/spirit of the game. Implications
+for training deception and practical activities are also offered.
+DEFINING DECEPTION
+A successful deceptive action can be defined as one that
+coerces an opponent into a movement pattern that is
+subsequently exploited (Woods et al., 2020). This skill is
+associated with advanced players because of the increased
+motor demand — one must supplement veridical action with
+deceptive actions. Deception is both common and effective
+at the professional level. Dimic et al. (2023) used frameby-frame video analysis of the 2019 Wimbledon final to
+identify incongruencies between shot preparation and postcontact ball trajectory. Deception was employed on 28% of
+baseline shots, and deceptive shots produced advantageous
+point dynamics at a higher rate (56%) than non-deceptive
+shots (38%). Incorrect anticipatory responses were far more
+frequent on deceptive shots (85%) than veridical ones (23%).
+These outcomes are consistent with comparable studies in
+basketball, rugby, netball, and soccer (Güldenpenning et al.,
+2023).
+While exploitation is deception's most obvious purpose,
+players also use deception to elicit information. We don't
+just perceive to act — we also act to perceive. From an
+ED perspective, deception is one aspect of each player's
+attempt to develop "maximum grip" (gain an advantage) on
+the interaction by exploiting information across multiple
+timescales (Ramsey et al., 2022). Present performance is
+shaped by a player's previous encounters with the performance
+environment (retrospectively — skill, experience, memories)
+and oriented toward the future through the perception of
+affordances (Araújo et al., 2025).
+Affordances are the directly perceived opportunities for
+action relative to a player's capabilities (Araújo et al., 2025). In
+tennis, affordances evolve relationally — each player's actions
+shape the other's. Within any given affordance, the player
+perceives both specifying and non-specifying information.
+Specifying information consists of ambient energy arrays that
+lawfully guide action without requiring mental prediction or
+elaboration (Araújo et al., 2025; Gray, 2021a). Experts are
+better attuned to specifying information. Rosker and Majcen
+Rosker (2021) showed that international players adapted their
+visual search strategy during serve return more effectively
+than national players, yielding more successful returns. In
+tennis, specifying information for ball interception becomes
+increasingly informative as the opponent approaches contact
+(guiding the player’s general positioning for their next shot),
+and is unambiguously instructive after it (Müller & Abernethy,
+2012). Research suggests professional players respond to ball
+flight information with ~100% accuracy as early as 160ms
+after the opponent's contact (Triolet et al., 2013). A player's
+deceptive behavior can impair the opponent's attunement to
+specifying information, undermining their grip on the point.
+Successful anticipation and deception rely on both contextual
+and kinematic information. Contextual information “reflects
+the circumstances preceding and surrounding the interaction”
+(Ramsey et al., 2022; p.3). This could be linked to a particular
+opponent’s preferences on how to act depending on the
+score, or in a particular game situation. Kinematic information
+evolves during a given interaction i.e., the current movements
+of the opponent and/or the flight of the ball (Ramsey et al.,
+Figure 1. A schematic model for expert anticipatory skill using a racquet sport as an example. Perceptual variables (P) refer to the key visual
+information sources available during the proximal-to-distal (early-to-late) evolution of kinematics in an opponent's movement pattern, expressed
+in regard to the time available for a performer to prepare and respond. Action variables (A) refer to the movement execution phases that need to
+be coupled to perceptual information to allow successful attainment of the skill goal (i.e., to strike a ball efficiently). The link between perceptual
+information and action variables may also serve to inhibit action depending on the skill goal. For interception, the model shows that as perceptual
+information evolves over time, there is an increase in the informational cues that can be used for attainment of the skill goal. Experts (shown in the top
+trace) are capable of acquiring perceptual information before (P) and during the course of the opposing player's precontact movement pattern (P,-P.),
+with this early information used to guide global (or gross) positioning of the body. Thereafter, later information from object flight (P) is used to guide
+and fine-tune interception. Together, acquisition of advance and object flight information guides a progressive reduction in the degrees of freedom of
+the action system to attain the skill goal. In comparison, less-skilled players (shown in the lower trace) acquire later evolving informative cues (P, and
+P,) to achieve levels of body positioning and interception comparable to that of experts. With little time remaining to respond, this inevitably results
+in poorer task performance.
+Figure 2. Examples of the different deceptive contents (deceit, disguise, distraction) across the various roles (active, and contra-active). Adapted
+from categories offered by Panten et al., (2019), Ramsey et al., (2022), and Zheng et al., (2023) and the degrees of influence offered by (Panten et
+al., 2019; p.6-7).
+Figure 3. Top graph: the percentage of correct responses as a function of the response time related to the opponent stroke (t = 0 ms, vertical line) for all
+surfaces. Bottom graph: the distribution of responses according to the four windows and (A) the three different playing surfaces, (B) the three different
+balance of power conditions, and (C) the five situations during the point (Triolet et al., 2013).
+movement before executing the genuine intention. Identity
+deception assimilates sport-specific techniques to create
+ambiguity. Target deception suggests a target different from
+the genuine one — typically the opposite. In short, the player
+exploits where and when they make contact to manipulate
+where and when the opponent makes contact.
+Prerequisites
+Active deception requires a player of sufficient skill and
+a maneuverable racquet, since the time available to
+transition from deceptive to veridical action is scant.
+Racquet maneuverability can be improved by developing the
+player's ability to move the racquet quickly, or by selecting/
+manipulating racquets to facilitate this. Taraborrelli et al.
+(2019) note that racquets have trended toward lighter frames
+with larger heads, making active deception more permissible.
+It is worth noting that skilled players in racquet sports such
+as badminton or pickleball, with more maneuverable devices
+(racquet, paddle, etc) and manageable objects (shuttlecock,
+ball, etc) employ more frequent and elaborate deception.
+Beware, if the racquet weight drops too low, the racquet
+will feel less stable at contact. Task scaling guidelines should
+be followed for younger athletes to address equipment and
+environmental constraints appropriately (Buszard, 2022).
+Elements of Timing
+Effective deception depends on an understanding of timing —
+defined here as achieving a centered impact, in ideal relation
+to the body, for the intended shot (according to Larry Jurovich
+as cited in GBAtennis, 2020a, 2020b). Timing is influenced by
+three key elements: contact height, intended direction, and
+the feeling of the swing. Anatomical constraints mean higher
+contact points occur further away and out in front of the
+body, while lower contact points occur closer. The direction
+of a shot is predicated on the body position around the
+ball, the wrist position at contact, and where in the contact
+window the player chooses to intercept the ball. The feeling
+of the swing — whether a hit, jab, push, catch, or block — is
+also central to timing (see Figure 3).
+The active deceiver can create incongruent information using
+these elements. A player might use a "hit" feeling to execute
+a drop shot, or contact the ball slightly later in the contact
+window to disguise direction. In the first example, a swing
+feeling generally intended to add speed to the ball is used
+to add spin for a precision attack. The contra-active deceiver
+can use this same understanding to set traps — for instance,
+recognizing an opponent preparing a slice with a "hit" feeling
+and retreating to invite a shorter slice that is difficult to
+execute with that swing feeling.
+Performing Active Kinematic Deception
+The player should aim to keep affordances open until as late
+as possible — delaying the release of specifying information
+to hold the opponent in suspense. Indicating a higherpercentage option before playing an unlikely one is a reliable
+application of this principle. The most informative cues an
+opponent uses to anticipate are precisely the cues worth
+manipulating. In O’Connell (2026), Bernard Tomic deceives
+by playing a dropshot with a grip associated with a drive. Ball
+flight can also be exploited deceptively: movement in the
+sagittal plane is harder to judge than movement viewed from
+a different angle. It is trickier to anticipate the opponent’s
+serve if they change their contact points for different serves
+more parallel to the center line instead of more parallel to
+the baseline (along the frontal plane). Maintaining similar
+launch angles across different shot types — analogous to
+"pitch tunneling" in baseball — can obscure the opponent's
+perception of the shot. For instance, keeping similar launch
+angles for a drop shot and a deep slice. Environmental factors
+such as wind, shadows, and sun can similarly be leveraged
+deceptively. Finally, the ability to hit closer to lines and the net
+raises the perceptual challenge for the opponent, particularly
+under high spatio-temporal demands. Here are examples of
+deceptive ball flight (ATP Tour, 2021; Australian Open, 2026).
+DEFENDING AGAINST DECEPTION
+Deception is a powerful disruptor of anticipation (Dimic
+et al., 2023; Rowe et al., 2009). Understanding where
+and when it is most likely to occur within a point can help
+players prepare to counter it. Triolet et al. (2013) found
+that a player's initial movements to receive the ball was
+on average 183ms after the opponent’s contact and were
+~100% successful at 160ms after (opponent’s) ball contact
+(ABC). Movement prior to 160ms ABC (windows 1,2, and
+3) was classified as anticipation. Interestingly, anticipation
+accuracy did not improve linearly as time approached 160ms
+ABC. Player’s movement up to 140ms before (opponent’s)
+ball contact (BBC) was 83% correct and had a higher reliance
+on contextual information to inform anticipation. Potentially,
+in this window of time (window 1), the opponent’s advantage
+was so great that the player’s anticipation likely would
+not save them — making the opponent’s use of deception
+redundant. Surprisingly, later anticipation, between 120ms
+BBC and 60ms ABC (window 2), was characterized by a
+relatively greater percentage of wrong initial movements by
+the player (mean = 68% correct). This was largely attributed
+to the (mis)perception of kinematic/technical information
+by the player (Triolet et al., 2013), and/or speculatively,
+deception on the part of the opponent. Notably, this window
+coincides with what “Schnabel (2007) argued the interval to
+reorganize movement was 60-100ms” (Panten et al., 2019;
+p.6). This Window 2 anticipation was most prominent on
+faster surfaces (grass and hard court), when the player was
+on defense, and the opponent was approaching/at the net.
+In this phase of play and game situation, the spatio-temporal
+demands are greatest on the player and the cost of making a
+wrong initial movement is offset by their unfavorable odds of
+winning the point. This could insinuate that professional men
+are most likely to employ active kinematic deception when
+they are in control of the point.
+In defending against active deception, the player can be certain
+that the opponent’s kinematics must shift from deceptive to
+genuine intention at contact. The later the opponent makes
+this shift, and the greater coordinative complexity of the
+sequential or simultaneous deception to veridical action, the
+more they are prone to errors. In addition, the player could
+employ some of their own counter-deception; causing the
+opponent to take their eye off the ball, resulting in an error
+or sub-par shot. Finally, assuming the ball is in, until or unless
+the player is certain it isn’t, is a great way to guard against
+tricky ball kinematics.
+While less frequent and less threatening, addressing the
+contra-active deceiver is important. Recognizing the contraactive deceiver's limited influence on the interaction is a
+means of avoiding their attempt to disrupt the player’s shot.
+If the player remains sensitive to information over various
+timescales concurrently they can maximize their grip on the
+interaction.
+TRAINING ACTIVITY
+1.	One player is approaching the net and the other
+is passing. Coach feeds in an approach shot. If the
+approaching player hits a winner they earn a bonus point.
+If the approaching player hits a winner that bounces
+three times in the doubles court, they earn two bonus
+points. Players can switch roles every three points. The
+approaching player is incentivized to employ deception
+and the passer attempts to pre-empt it. The coach
+should modify the feed, incentive structures, and game
+length so deception and anticipation are intertwined in
+an anti-fragile state.
+2.	Finally, a coach could help their player become less
+susceptible to deception by adequately manipulating
+the elements of timing outlined in Section C as they
+play points. The coach could progress and regress the
+frequency, intensity, and range of deception on their
+shots so players can learn to combat it while remaining
+in an anti-fragile state.
+CONCLUSION
+This paper has defined, described, and offered a means of
+training to perform and pre-empt kinematic deception in
+tennis through an ED lens. Kinematic deception — the attempt
+of one aspect of a system to cause another to lose its negative
+phase relationship, or incur a positive one — manifests
+in three subcategories: deceit, disguise, and distraction.
+Deception can operate actively or contra-actively, and be
+performed sequentially or simultaneously. Anticipation and
+deception are best understood together. Anticipation seeks
+to improve one's own affordances, while deception seeks to
+undermine the opponent's. Both entail risk, and both become
+indispensable when competing at the edge of one's ability
+against a worthy opponent.
+Despite the appreciation players and fans have for these
+skills, coaches need to be both inclined and equipped to teach
+them — or at least, to avoid obstructing their emergence. The
+frameworks and evidence presented here offer a foundation
+for doing so. Further research examining deception and
+anticipation in singles under representative conditions
+would meaningfully advance this area. Moreover, research
+in a doubles setting, or from a more tactical standpoint, or
+studying the other perceptual forms of deception would
+provide useful insights on this under-examined, but prevalent
+skill.
+CONFLICT OF INTEREST AND FUNDING.
+The authors declares no conflict of interest and confirm that
+no funding was received for this research.
+Finally, professional players will use the time leading up to
+the match to become familiar with their opponent — where
+tactical and technical information is studied by the player and
+their team. Aspects such as the speculative limitations of a
+forehand grip to access certain shots, as well as, the probable
+serving targets on pressure points are noted. Forewarning;
+relying solely on this offline information that Gibson (1979)
+calls knowledge about, Stepp & Turvey (2013) call weak
+anticipation and Zhao and Warren (2014) call heuristics and
+mapping will not reliably help the player reach the outcomes
+they desire.
+TRAINING CONSIDERATIONS
+Critical to the development of deception and anticipation,
+and their transfer from training to tournaments, is the ED
+principle of representative training (RT) (Otte et al., 2019).
+A rote-style practice adhering to an ideal technical template
+of deception will not develop the tactical awareness of when
+to apply this skill effectively. Equally, effective deception
+requires functional variability, since predictable movement
+patterns are more easily detected. RT is similarly important
+for anticipation. Buszard (2022; p.2305) asserts that “children
+can anticipate, but its development is not necessarily a byproduct of playing sport and becoming skilled.” Without
+temporal pressure, anticipation is superfluous. Following RT
+guidelines will elicit and nurture the brinkmanship needed
+to perform and defend against deception. At minimum,
+RT will avoid obstructing these skills emergence, as task
+decomposition and decoupled perception-action training
+would.
+Otte et al. 's (2019) periodization of skill training framework
+offers practical guidance for scheduling deception and
+anticipation training relative to the player's stage of learning
+and competition calendar. Within a session, a coach could
+look to progress or regress the challenge on the player based
+upon the dynamical systems concept of (anti)fragility. “A
+fragile system is one that exhibits more harm than benefits
+in response to stress whereas an antifragile system is the
+opposite; the benefits from stress outweigh the harm”
+(Buszard, 2022; p.2306). The goal of this framework is to
+keep players in an anti-fragile state by ensuring that they
+are training under conditions where a slight increase in the
+challenge produces a greater magnitude of learning than
+the learning that would occur at an equivalent decrease in
+challenge.
+Another important consideration is improving the player’s
+action capacities so they can better perform and pre-empt
+deception. While action capacity and skill training go handin-hand, developing action capacity is about expanding the
+affordances available to the player, and skill is about realizing
+these affordances (Gray, 2022). Factors such as a player’s
+strength relative to their racquet’s swing weight is important
+in their ability to employ active deception. When anticipating,
+being able to wait longer for more specifying information to
+become available will more reliably guide action. The option
+of moving later is partially dependent on the player’s agility.
+Bosch and Cook (2020), and Gray (2022) offer a means of
+training action capacities in an ED fashion.
+Otte, F. W., Millar, S.-K., & Klatt, S. (2019). Skill training periodization in
+"specialist" sports coaching — an introduction of the "post" framework
+for skill development. Frontiers in Sports and Active Living, 1. https://doi.
+org/10.3389/fspor.2019.00061
+Panten, J., Loffing, F., Baker, J., & Schorer, J. (2019). Extending research on
+deception in sport: Combining perception and kinematic approaches.
+Frontiers in Psychology, 10. https://doi.org/10.3389/fpsyg.2019.02650
+Ramsey, H., Dicks, M., Hope, L., Spence, J., & Reddy, V. (2022). Maximising grip
+on deception and disguise: Expert sports performance during competitive
+interactions. Sports Medicine - Open, 8(1), 47. https://doi.org/10.1186/
+s40798-022-00441-y
+Rosker, J., & Majcen Rosker, Z. (2021). Skill level in tennis serve return is related
+to adaptability in visual search behavior. Frontiers in Psychology, 12.
+https://doi.org/10.3389/fpsyg.2021.689378
+Rowe, R., Horswill, M. S., Kronvall-Parkinson, M., Poulter, D. R., & McKenna,
+F. P. (2009). The effect of disguise on novice and expert tennis players'
+anticipation ability. Journal of Applied Sport Psychology, 21(2), 178–185.
+https://doi.org/10.1080/10413200902785811
+Stepp, N., & Turvey, M. T. (2010). On strong anticipation. Cognitive Systems
+Research, 11(2), 148–164. https://doi.org/10.1016/j.cogsys.2009.03.003
+Sun Tzu. (~500 BCE/2014). The art of war. Black & White Classics.
+Taraborrelli, L., Grant, R., Sullivan, M., Choppin, S., Spurr, J., Haake, S., &
+Allen, T. (2019). Materials have driven the historical development of the
+tennis racket. Applied Sciences, 9(20), 4352. https://doi.org/10.3390/
+app9204352
+Triolet, C., Benguigui, N., Le Runigo, C., & Williams, A. M. (2013). [Full citation
+needed — journal, volume, issue, and page range required as this is cited
+heavily throughout the paper but the full reference is absent from your
+list.]
+van der Kamp, J., Rivas, F., van Doorn, H., & Savelsbergh, G. (2008). Ventral
+and dorsal system contributions to visual anticipation in fast ball sports.
+International Journal of Sport Psychology, 39(2), 100–130.
+Wilson, A. D., Buckingham, G., Dessing, J. C., Lappi, O., Friston, K., Hipolito, I.,
+Ramstead, M. J., Mansell, W., & Gray, R. (2024). Predictive vs. prospective
+control: Clarifying the terms of the debate. PsyArXiv. https://doi.
+org/10.31234/osf.io/ce3zb
+Woods, C. T., McKeown, I., Rothwell, M., Araújo, D., Robertson, S., & Davids,
+K. (2020). Sport practitioners as sport ecology designers: How ecological
+dynamics has progressively changed perceptions of skill "acquisition" in
+the sporting habitat. Frontiers in Psychology, 11. https://doi.org/10.3389/
+fpsyg.2020.00654
+Zhao, H., & Warren, W. H. (2014). On-line and model-based approaches to
+the visual control of action. Vision Research, 110, 190–202. https://doi.
+org/10.1016/j.visres.2014.10.008
+Zheng, R., van der Kamp, J., Miller-Dicks, M., Navia, J., & Savelsbergh, G.
+(2023). The effectiveness of penalty takers' deception: A scoping review.
+Human Movement Science, 90, 103122. https://doi.org/10.1016/j.
+humov.2023.103122

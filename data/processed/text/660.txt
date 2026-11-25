@@ -1,0 +1,486 @@
+Title: Understanding the Interpersonal Dynamics Between Parents and Coaches in Youth Tennis
+Authors: Ella Tagliavini, Chris Harwood, Sophia Jowett, Sam Thrower
+Year: 2025
+Issue: Vol. 33 No. 95 (2025)
+Article id: 660
+
+ABSTRACT
+Interpersonal relationships between athletes and their parents and coaches is
+an important factor in the success of youth sport programmes. Despite growing
+evidence in the parent-coach stress literature, there remains a lack of research which
+investigates parent-coach relationships. Therefore, a three-part research series was
+conducted to better understand how these relationships function within the parentathlete-coach (PAC) triad in youth tennis. Study one employed a collective case study
+design and utilised pre-interview tasks, semi-structured interviews and conversational
+threads to collect data from nine PAC triads in three developmental stages. Study
+two surveyed 284 tennis parents to examine how the responsiveness and quality
+of parent-coach relationships mediated the association between four behavioural
+characteristics and parents’ basic psychological needs satisfaction (BPNS) in the PAC
+triad. Finally, a five-phase action research study with three PAC triads was conducted
+to investigate how parent-coach relationships can be improved. Collectively, the
+findings highlighted the importance of specific parent-coach relationship qualities
+and behaviours within the functioning of the triad and stakeholders’ experiences in
+youth tennis. Recommendations for practice are provided in relation to these findings.
+INTRODUCTION AND LITERATURE REVIEW
+It is widely known that youth sport can offer young people
+many physical, psychological, social and developmental
+benefits. Nevertheless, sport can also be a stressful and
+highly demanding environment. What type of experiences
+young athletes have is dependent upon numerous factors
+but perhaps one of the most important is the relationships
+they have with their parents and coaches. For example, highquality coach-athlete relationships can improve participation
+retention, enjoyment levels and motivation (e.g., Jowett &
+Nezlek, 2012). On the other hand, parent-athlete relationships
+built on unconditional support rather than outcomes and
+performance levels are critical to athletes’ development
+and success (e.g., Dohme et al., 2020). Such relationships
+have been found to be even more important to athletes in
+individual sports such as tennis (Rhind et al., 2012).
+Despite the recognition and empirical attention sporting
+relationships have received, the relationship between parents
+and coaches has been less researched. This is surprising
+given how long applied researchers and practitioners have
+argued their importance within youth sport programmes
+(e.g., Hellstedt, 1987). In response to these claims, research
+in this area has grown in recent years. Initial research in
+this area investigated the ways parents and coaches may
+impact the stress of the other. A notable series of studies
+www.itfcoachingreview.com
+April 2025. 33th Year. Issue 95. 6-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i95.660
+Understanding the Interpersonal Dynamics
+Between Parents and Coaches in Youth Tennis
+Ella F. Tagliavini¹, Chris G. Harwood², Sophia Jowett¹ & Sam N. Thrower³
+¹School of Sport, Exercise and Health Sciences, Loughborough University. ²Department of Sport Science,
+Nottingham Trent University. ³Department of Sport, Health Sciences and Social Work, Oxford Brookes University.
+Key words: Parent-coach
+relationships, youth sport, PAC
+triad
+Received: 1 September 2024
+Accepted: 23 October 2024
+Corresponding author:  Ella F.
+Tagliavini, e.tagliavini@ucfb.ac.uk
+by Gould and colleagues (2006; 2008; 2016) in youth tennis
+found parents were a salient stressor on the experiences of
+coaches. Coaches particularly disliked parents who became
+over-involved, emphasised inappropriate goals and were too
+performance oriented. From parents’ perspectives, Harwood
+and Knight (2009a; 2009b) found that tennis parents
+experienced coach-related stressors which included coaches
+who failed to commit to them and their athlete, provided
+insufficient advice and failed to attend their child’s matches.
+COACHING & SPORT
+SCIENCE REVIEW
+Although these studies provided novel insights into the ways
+tennis parents and coaches perceive each other’s involvement,
+these studies did not investigate the specific interdependent
+processes that exist between these stakeholders, nor
+did they explore the positive ways parents and coaches
+work together. Therefore, in an attempt to address these
+limitations, more recent research has been conducted both
+in tennis (i.e., Horne et al., 2020; 2022) and across other
+sports (i.e., Wall et al., 2019; O’Donnell et al., 2022; Preston
+et al., 2020). For example, Horne et al. (2020) found tennis
+parents and coaches experienced limited communication
+despite them emphasising the importance of frequent,
+honest communication. The authors also found that parentcoach relationships were marked with a lack of trust and
+goal congruence with the authors even stating that coaches
+experienced trepidation about engaging with parents. Horne
+et al. (2022) further found that parents and coaches were
+misaligned in the ways they viewed youth tennis programmes
+which had the potential to limit collaboration; promisingly,
+however, both stakeholders valued shared responsibility for
+athletic development.
+Overall, it is encouraging to see researchers focussing more
+on parent-coach relationships. Collectively, this research
+has provided a greater understanding of the ways in which
+parents and coaches work with or against each other as well
+as the types of processes that may underpin more positive
+definitions of these relationships – an area that has been
+historically dominated by negative narratives and accounts
+(e.g., Omli & LaVoi, 2009). Nevertheless, further research is
+required to deepen our understanding of knowledge in this
+area by addressing key limitations. From a methodological
+perspective, a limited number of studies have utilised parents
+and coaches from the same relationships. This is important to
+address because utilising multiple stakeholder perspectives
+from different relationships limits our understanding of the
+specific relational processes that exist between people (see
+Poczwardowski et al., 2006). Additionally, an even smaller
+number of publications have contextualised the parent-coach
+relationship within the parent-athlete-coach (PAC) triad or
+taken a developmental approach. Therefore, utilising athletes’
+perspectives of parent-coach relationships as well as identifying
+the way in which these relationships operate within larger
+social systems across sporting pathways can provide a more
+contextually relevant understanding of these relationships.
+This is particularly important given that parental involvement,
+expectations and developmental goals can change as athletes
+transition into investment stages (Lauer et al., 2010). Finally,
+given the theoretical and conceptual richness of relationship
+science both inside (see Sheridan et al., 2014) and outside
+of sport (see Finkel et al., 2017), it seems reasonable to also
+suggest parent-coach research could benefit from employing
+such frameworks in a similar way.
+A THREE-PART RESEARCH SERIES
+To examine the nature of parent-coach relationships in
+youth tennis more closely, a research series consisting of
+three studies was conducted. Study one aimed to address a
+lack of research which has examined parent-athlete-coach
+(PAC) triads across the youth tennis pathway. Therefore, the
+following research question was developed: ‘What do the
+perceptions of PAC tell us about the relational processes that
+underpin triadic functioning across developmental stages
+within British youth tennis?
+The second study sought to explore parents’ perceptions of
+their relationships with their child’s coach. Specifically, the
+study investigated whether the quality (3Cs; Jowett, 2007)
+and responsiveness (Reis & Clark, 2013) of the parentcoach relationship mediated the association between four
+behavioural characteristics and parents’ basic psychological
+needs satisfaction (BPNS; Ryan & Deci, 2002) in the PAC
+triad.
+Building on the findings from the first two studies in the
+series and underpinned by working alliance (WA) theory
+(Bordin, 1979), the final study examined how tennis parents
+and coaches build strong alliances (defined by bond, tasks
+and goals) with each other. Therefore, the following question
+was generated: ‘How can the WA be used to understand and
+improve parent-coach relationships in British youth tennis?’.
+STUDY ONE
+Method
+A collective case study design was used which consisted
+of nine PAC triads across the U10s, U12s and U18s tennis
+development stages. However, triad one included two athletes
+whilst triad three consisted of two coaches resulting in a
+final sample of 29 participants (10 athletes, 10 coaches and
+9 mothers). Each participant participated in a pre-interview
+task which asked them to provide a visual description of how
+their triad functioned. Participants also attended individual
+semi-structured interviews which lasted, on average, 70
+minutes for parents and coaches and 50 minutes for athletes.
+Finally, conversational threads (i.e., WhatsApp messages
+and emails) were provided from each triad which depicted
+the conversational history between triad members during
+the three months prior to the start of the study. Abductive
+reflexive thematic analysis (TA; Braun & Clarke, 2019) was
+used to analyse the data to create a rich and detailed account
+of participants’ experiences.
+Foundations of Relationship Quality
+PACs frequently spoke about the importance of a number of
+qualities that underpinned their relationships within the triad.
+First, commitment reflected participants’ intentions to invest
+in each other. For triads to function particularly well, however,
+participants highlighted the need to care for each other as
+people and not just as stakeholders. Next, trust was defined
+by whether participants had faith in each other’s abilities
+to execute their responsibilities whilst respect described
+PACs’ appreciation and receptiveness to each member’s
+contributions to the triad. Finally, triadic functioning was also
+underpinned by the emotional proximity between parents
+and coaches. This was particularly important for youngerstage triads as it created opportunities for other relationships
+to develop.
+Factors Enabling Team Effectiveness
+Alongside specific qualities, certain factors also underpinned
+how well the PAC triad functioned. Realistic and shared
+goals that centred around athletes’ development rather than
+rankings or match results facilitated positive functioning as
+it provided direction and created a mutual purpose amongst
+members of the triad. Additionally, collaboration was fostered
+when each member had clear roles but adjusted these roles
+to the needs and circumstances of the triad. For example,
+because coaches were often absent from tournaments,
+parents were given more license to support athletes during
+tournaments and feedback relevant information to coaches.
+Another factor centred around providing support. Parents
+and coaches were the main support-providers to athletes and
+each other in the triad. This was operationalised, for example,
+offering emotional encouragement (i.e., parent support) or
+providing guidance and advice regarding tournament selection
+(i.e., coach support). Finally, participants spoke about the
+importance of being open to receiving and offering rolespecific communication. Most communication occurred on a
+dyadic level due to practical issues but there were instances
+where participants highlighted the need to bring athletes into
+the conversation. This communication allowed participants
+to demonstrate honesty, openness and appreciation as well
+as allowed the triad to make decisions together. As athletes
+became older, they took more control for communicating
+their reflections and feelings with parents and coaches.
+STUDY TWO
+Method
+An online questionnaire was deployed to youth tennis parents
+both inside and outside the UK. The questionnaire had a
+completion rate of 37.77% resulting in a final international
+sample of 284 parents (114 males and 170 females, Mage
+= 47.13, SD = 5.50). On average, parents had seven years of
+experience as a tennis parent and the average age of their
+child-athletes was 12.43 years. The questionnaire underwent
+an extensive review and validation process by an expert panel
+consisting of two external senior academics, one member of a
+tennis national governing body and three tennis parents. As a
+result and using the current coach of their child, parents were
+asked to rate how responsive and high-quality their parentcoach relationships were. Parents were also asked to rate how
+supportive, invested, collaborative and communicative they
+felt they and their child’s coach were with each other, as well
+as how psychologically satisfied (i.e., BPNS) they were in their
+PAC triad. Responses to all measures were recorded using
+seven-point Likert scales (i.e., 1 = Not at all true or Strongly
+disagree to 7 = Completely true, Strongly agree or Very true).
+Initial analysis of the data suggested that parents perceived
+moderate to high levels of support, investment, collaboration
+and communication in their relationships with coaches
+(Mrange = 5.09 to 5.42). On average, parents perceived their
+parent-coach relationships to be moderately responsive (M =
+5.26) and high in quality (M = 6.23), whilst they were satisfied
+within their PAC triads (M = 5.51). Correlational analysis
+further revealed significant, positive correlations between
+the four behavioural characteristics and responsiveness,
+relationship quality and BPNS (r = .70 to .83). Additionally,
+responsiveness, relationship quality and BPNS were also
+significantly and positively correlated with each other (r = .74
+to .77).
+A two-step structural equation modelling procedure was
+used to further analyse the mediation and moderation
+associations between the variables in this study. As a result,
+the findings showed that support (β = .50) and investment (β
+= .48) positively predicted responsiveness (R2 = .88) which, in
+turn, positively predicted BPNS (β = .84; R2 = .71). However,
+collaboration (β = -.14) and communication (β = .12) were both
+insignificant. Therefore, whilst responsiveness was found
+to be a significant and direct predictor of parents’ BPNS,
+responsiveness also served as a mediator between support
+and investment with BPNS. Next, support, investment and
+communication positively predicted relationship quality (β
+= .17 to .60; R2 = .72), whilst collaboration unexpectedly
+showed a significant negative effect (β = -.29). In turn,
+relationship quality positively predicted BPNS (β = .79; R2 =
+.62). Relationship quality also served as a significant mediator
+between all four behavioural characteristics and parents’
+BPNS in the triad. Finally, multigroup analyses revealed
+invariance in these findings across parents of athletes in
+younger (≤12 years) and older (≥13 years) age groups.
+STUDY THREE
+Method
+To examine how parents and coaches build and maintain
+relationships with each other, a 6-month action research
+design was employed consisting of three PAC triads. Triad one
+was comprised of 37-year-old Natalie, a school teacher who
+was the mother of 9-year-old Beverly, and Elliot, a 25-yearold LTA senior performance (Level 4) tennis coach. Natalie
+and Elliot believed Beverly was going through a significant
+transition within tennis which included playing in more
+competitive level tournaments (i.e., national) and older age
+groups. Triad two was formed by Henry who was a 10-yearold tennis player, James who was Henry’s father and had five
+years of experience as a tennis parent, and finally, Katherine
+who was a 39-year-old Level 4 performance coach. Overall,
+the triad had been together for four months prior to the start
+of the study. Finally, triad three consisted of 15-year-old
+Sienna who was a top-50 UK tennis player. Both her parents,
+Nathan (father and primary parent) and Rebecca (mother and
+secondary parent), participated in the study and had limited
+experience of tennis. The final member of this triad was
+Sam who had been Sienna’s coach for 18 months and was a
+35-year-old senior performance coach (Level 4) with 18 years
+of tennis coaching and 28 years of playing experience.
+Following full institutional approval, members of each triad
+were provided with a research handbook and were asked to
+participate in five phases. Phase one required members of the
+triad to individually participate in an online pre-intervention
+semi-structured interview to discuss the nature of their triad
+and parent-coach relationships. Parents and coaches were
+then asked to individually complete a series of three modules.
+Each module was accompanied by a research workbook
+and a pre-recorded presentation. Module one introduced
+participants to knowledge of parent-coach relationship in
+youth sport. Module two required participants to critically
+reflect and self-assess the behaviours and qualities in their
+parent-coach relationship, whilst module three then asked
+participants to use these self-assessments to set SMART
+and behaviourally relevant tasks and goals which they could
+action during the subsequent phases of the study.
+Phases two, three and four spanned across a three-month
+period and required parents and coaches to meet in three
+formal meetings. The purpose of these meetings was for
+parents and coaches to jointly agree and set specific tasks
+and goals that they believed would improve their relationship
+with each other. Formal meeting (FM) one was chaired by the
+lead researcher but an agenda was provided to participants
+to allow them to lead FMs two and three themselves.
+Parents and coaches were also asked to provide weekly
+audio diaries to the lead researcher. These diaries were not
+shared with participants but were used to generate ‘live’ data
+on participants’ experiences within their triad. Additionally,
+a reflexive diary and research log was used by the lead
+researcher to keep an account of developing codes and
+themes from the data.
+Finally, phase five followed a similar process to phase one in
+that PACs were asked to participate in a post-intervention
+semi-structured interview following the completion of the
+final FM. This was an opportunity for participants to reflect
+on any changes that occurred within their relationships and
+triad. Data from phases one and five were analysed using
+reflexive TA whilst data from phases two, three and four were
+analysed using case-specific descriptions. This was used
+to help identify the idiosyncratic nature and execution of
+participants’ goals and tasks and the conversational processes
+of reflection, negotiation and action that ensued as a result.
+The Cognitive and Affective Bond Between Parents and
+Coaches
+Two triads agreed that their parent-coach relationship had
+improved as a result of the study. Specifically, Nathan (Parent)
+and Sam (Coach) in triad three emphasised that they felt more
+comfortable being open and honest with each other, whilst
+James (Parent) and Katherine (Coach) in triad two agreed that
+there was a greater sense of trust and respect between them
+– something they felt might have taken longer to develop
+if they had not had the opportunity to identify, discuss and
+modify their behaviours and goals for each other and their
+relationship. Whilst Natalie (Parent) and Elliot (Coach) did not
+share any specific improvements to their relationship, they
+did express a greater sense of appreciation for each other and
+their relationship. This was because they found it relatively
+easy to identify and categorise the positive behaviours they
+engaged in with each other and how much ‘they got right’.
+Fulfilment in the Lives of Parents, Athletes and Coaches
+Participants, including athletes, believed that they had
+experienced improvements in their lives both inside and
+outside of tennis. In triad three particularly, Nathan (Parent)
+found himself with more time for work and his wider family
+life, whilst Sam (Coach) had more energy and time to invest
+in his own personal hobbies and interests. For athletes,
+Sienna (T3) spoke about the improvements she had made in
+school because of the changes Nathan, Rebecca and Sam had
+made to her schedule, whilst Henry (T2) experienced greater
+enjoyment and performance levels as a result of Katherine's
+(Coach, T2) and James’ (Parent, T2) collaboration.
+Stronger Interpersonal Connections in the Triad
+Participants also discussed improvements to the relationships
+they had with each other in the triad more broadly. Notably,
+Natalie (Parent, T1) and Beverly (Athlete, T1) felt that
+they were able to bond more because Natalie had greater
+competence and confidence to discuss tennis-specific topics
+with her daughter. Additionally, Sienna (Athlete, T3) and
+Sam (Coach, T3) felt that their coach-athlete relationship
+had become closer and started to feel more like a friendship
+because of the extra energy and enthusiasm Sam had for his
+court sessions with Sienna. Finally, changes to the triad as a
+whole were discussed. Specifically, participants explained a
+greater shift towards shared decision making processes and
+more productive conversations that allowed them to resolve
+differences and move forward together.
+The Utility Value of the Intervention
+Finally, participants discussed how useful, yet challenging, the
+intervention was to their experiences as stakeholders in tennis.
+Participants felt that the research workbook and handbook
+were helpful resources which allowed them to reflect and
+assess their relationships and progress. Additionally, having
+four specific behavioural characteristics to categorise their
+behaviours and goals in addition to more formal opportunities
+to jointly discuss these was considered to be useful for their
+current relationships, as well as to manage any future issues
+should they arise. Nevertheless, participants spoke about
+the difficulties they faced when trying to critically appraise
+their relationships in this way as well as the time required to
+meet formally. This was particularly difficult because of the
+stringent time constraints participants had with their existing
+work, personal and tennis commitments.
+DISCUSSION
+Overall, the aims of this research series was to better
+understand how parent-coach relationships operate across
+the youth tennis pathway. Whilst this section focusses on
+the contributions of this research to practice, some key
+contributions to theory and the existing body of literature
+are important to highlight. From a theoretical standpoint,
+the findings provide a greater insight into the interpersonal
+structures and dynamics that underpin positive relationship
+functioning. By applying existing concepts of responsiveness
+and relationship quality, for example, the studies demonstrate
+the constructs (e.g., closeness and care) that underpin positive
+relationship functioning between parents and coaches.
+Likewise, the findings also build upon arguments from system
+theorists to demonstrate how this relationship contributes
+to a wider network of interpersonal connections (i.e., the
+PAC triad). Therefore, it can be argued that parent-coach
+relationships not only play an important role in the outcomes
+of athletes, but also in the way other interpersonal units
+function. Nevertheless, future research which investigates
+this evidence and these claims in further depth would make a
+positive contribution to this area.
+These studies also make important contributions to research
+in this area. From a methodological standpoint, two out of
+the three studies utilise interindividual sampling to provide
+greater clarity of the often implicit relational processes that
+exist between parents and coaches. For example, utilising
+participants from the same triads generated opportunities
+to investigate the way existing constructs such as trust,
+commitment and communication are fostered and exchanged
+between stakeholders. Moreover, and perhaps most
+significantly, the findings highlight the specific behavioural
+characteristics that can impact the nature of the parentcoach relationship. Specifically, the conceptual definitions
+of support, investment, collaboration and communication
+appear to be important in determining the way parents
+and coaches think and feel about each other. By taking a
+developmental approach to the studies in this research series,
+the findings demonstrate the ways in which these behavioural
+characteristics operate and evolve across the youth tennis
+pathway.
+Implications for Practice
+The findings from this research offers several key implications.
+Starting with governing bodies and sporting organisations,
+there is a need for educational material to include more
+parent-coach relationship content. Current educational
+strategies demonstrate promising but a varied degree of
+success perhaps due to the brief, online and group-based
+methods that make the content more accessible (Thrower et
+al., 2023). In tennis more specifically, the recent increase in
+formal and informal strategies aimed at parents is encouraging
+that has at times, included some minor content on the parentcoach relationship (e.g., Thrower et al., 2023). Given how
+important parents and coaches considered their relationships
+to be, adding to the curriculum that encourages parents
+and coaches to understand and identify the interpersonal
+behaviours that can improve the quality and responsiveness
+of their relationships could be significantly valuable.
+For practitioners, using conjoint strategies could bring
+parents and coaches together. Practitioners may consider
+the use of online monthly meetings using a flexible agenda
+that encourages these stakeholders to reflect on their
+relationships and communicate about their expectations,
+goals and actions moving forward. Given misalignment
+and conflict in these areas as well as inaccessibility and
+unpredictability can cause tension, conflict and detachment
+(Horne et al., 2020; Preston et al., 2020), utilising frequent
+yet brief interventions may foster more positive feelings
+of trust and commitment. Additionally, practitioners may
+also consider the use of supplementary resources (such as
+workbooks, videos and handbooks) that parents and coaches
+can utilise and refer to at their own pace. Indeed, different
+variations of interventions and resources that adapt to
+preferences and circumstances may ensure strategies engage
+as many stakeholders as possible (Newport et al., 2024).
+Finally, there are opportunities for parents and coaches
+themselves. For example, a common problem highlighted
+by stakeholders in these studies and the existing literature
+is the issue regarding time. This appears to be a particular
+challenge in tennis where coaches are required to be on the
+court at the expense of engaging with parents. Therefore,
+opportunities to increase both the frequency and quality of
+interactions between parents and coaches is important. This
+could take the form of parent-coach evenings throughout the
+season or dedicating some time in review meetings to discuss
+the parent-coach relationship more explicitly. Regardless, it
+is important that these stakeholders work to identify and
+negotiate the ways they can enact positive and coordinated
+behaviours (e.g., support) that work towards mutual goals to
+ultimately improve and maintain the bond between them.
+CONCLUSION
+Overall, this research adds to the ever-growing, yet
+limited, parent-coach relationship literature. Employing
+developmental and more complex sampling methods as
+well as using existing conceptual frameworks, these studies
+demonstrate the specific behaviours, qualities and outcomes
+associated with relationship functioning between tennis
+parents and coaches in the PAC triad. Such research not only
+provides valuable implications for education and practice
+within youth tennis, but also offers an important foundation
+for future research and practice in youth sport more widely.
+ACKNOWLEDGMENTS AND CONFLICT OF INTEREST
+This work was partly funded by the Lawn Tennis Association
+(LTA) and International Tennis Federation (ITF).

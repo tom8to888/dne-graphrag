@@ -1,0 +1,5 @@
+system,n,mean,sd,contradicts
+basic_8k,30,1.667,0.884,3
+basic,30,1.767,0.858,3
+global_8k,30,1.133,0.629,5
+global,30,1.133,0.571,7

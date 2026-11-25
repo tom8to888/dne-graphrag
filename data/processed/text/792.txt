@@ -1,0 +1,765 @@
+Title: Coaching Beginners in Wheelchair Tennis: Practical Recommendations for Inclusive Coaching
+Authors: Tayla Mounter
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 792
+
+Introduction
+Wheelchair tennis has grown from a rehabilitation
+activity into one of the world's most established
+Paralympic sports. Participation continues to increase
+through community programmes, schools, clubs and
+international competition, creating opportunities for
+players of all ages and abilities to engage with the sport
+(Paralympic, 2026). As participation grows, so too does
+the need for coaches who are confident introducing
+beginners to wheelchair tennis, yet it may represent
+unfamiliar territory for some. Experienced tennis
+coaches may have limited knowledge of wheelchair
+mobility, equipment or adapting practice for players
+with different physical abilities. Equally, coaches
+entering disability sport from other backgrounds may
+feel uncertain about progression, communication and
+creating inclusive learning environments. Previous
+research suggests that disability-specific coach
+education remains limited, with many coaches relying
+on informal learning and practical experience rather
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 86-95
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.792
+Coaching beginners in wheelchair tennis: Practical
+recommendations for inclusive coaching
+Tayla Mounter
+University of Edinburgh.
+Abstract
+Wheelchair tennis continues to grow internationally, increasing the demand for coaches who can
+confidently introduce new players to the sport. While research has considerably advanced our
+understanding of wheelchair tennis biomechanics, physiology and elite performance, comparatively
+little academic guidance exists to support coaches working with beginners. Introducing new players
+presents unique challenges, as players must learn wheelchair mobility, racket skills and tactical
+awareness concurrently within an unfamiliar sporting environment. This article provides practical,
+evidence-informed recommendations for planning and delivering beginner wheelchair tennis sessions.
+Drawing on research from wheelchair tennis, skill acquisition, ecological dynamics, inclusive coaching
+and disability sport, alongside applied coaching practice, the paper outlines strategies for preparing
+the first session, developing wheelchair mobility, introducing fundamental tennis skills, designing
+representative practice, adapting coaching to individual needs and promoting confidence and longterm participation. The recommendations are intended to help coaches create enjoyable, inclusive
+and player-centred learning environments that support both immediate engagement and sustained
+involvement in wheelchair tennis.
+Key words: anticipation, perceptual skills, temporal occlusion, racket sports.
+Received: 26 June 2026. Accepted: 4 August 2026.
+Corresponding author: Tayla Mounter, s1918193@ed.ac.uk
+than structured educational opportunities (Townsend
+et al., 2019; Pires et al., 2021). Consequently,
+coaches consistently identify the need for practical,
+evidence-informed resources that translate research
+into everyday coaching practice (Townsend et al.,
+2021). Although scientific literature has expanded
+considerably, it has largely focused on understanding
+elite performance, improving knowledge of propulsion
+mechanics and techniques, movement demands and
+efficiency, stroke production, wheelchair configuration
+and the physiological requirements of competition
+(Goosey-Tolfrey & Moss, 2005; Sindall et al., 2013;
+Rietveld et al., 2022). However, far less attention has
+been devoted to a question many coaches encounter
+every week: how should beginners be introduced to
+wheelchair tennis?
+Coaching beginners in wheelchair tennis involves
+considerably more than teaching stroke technique.
+Unlike many novice tennis players, beginners are
+frequently learning to propel, brake, turn and recover
+fair competition, it should not determine coaching
+expectations. Classification reflects the impact of
+impairment on sport performance, but it does not
+predict a player's confidence, previous experience,
+learning needs or future potential (Tweedy &
+Vanlandewijck, 2011). Coaches should therefore allow
+observation, conversation and ongoing assessment to
+guide their coaching decisions rather than relying on
+classification alone (Côté & Gilbert, 2009). A defining
+characteristic of beginner wheelchair tennis is that
+players are often learning two demanding skills at the
+same time: how to control a sports wheelchair and how
+to play tennis. Unlike many able-bodied beginners,
+who already possess well-developed locomotor skills
+before learning tennis-specific techniques, wheelchair
+tennis players frequently need to develop propulsion,
+braking, turning and recovery while simultaneously
+learning racket control, ball tracking and decisionmaking. Research has shown that even holding a
+racket changes wheelchair propulsion mechanics,
+highlighting the additional demands placed on
+beginners from the earliest stages of learning (GooseyTolfrey & Moss, 2005). For coaches, the practical
+implication is clear: sessions should prioritise
+confidence and movement before expecting technical
+consistency.
+Wheelchair tennis is also much more than learning a
+new sport. Many participants begin playing following
+injury, illness or the progression of a medical
+condition, while others are looking for competition,
+recreation or opportunities to meet people with
+shared experiences. Participation has been associated
+with improvements in physical health, confidence,
+psychological wellbeing and social connectedness
+(Richardson et al., 2017; Martin, 2013). Early coaching
+should therefore aim to develop enjoyment, confidence
+and belonging alongside technical and tactical skills.
+Positive first experiences often determine whether
+beginners choose to return. Before the first session,
+coaches should spend time getting to know each
+player. A short conversation about previous sporting
+experience, wheelchair confidence, personal goals
+and any practical or medical considerations helps
+build rapport and provides valuable information for
+planning appropriate activities. This player-centred
+approach reflects effective coaching practice, where
+learning environments are adapted to the individual
+rather than expecting every participant to follow the
+same pathway (Côté & Gilbert, 2009; Townsend et al.,
+2021). Table 1 outlines the key information coaches
+should gather before introducing a beginner to
+wheelchair tennis. Although every player is different,
+these conversations provide a practical foundation for
+designing enjoyable, safe and individualised coaching
+sessions.
+within a sports wheelchair while simultaneously
+developing racket control, ball tracking and tactical
+awareness. This dual learning challenge requires
+coaches to balance movement, technical development
+and decision-making from the earliest stages of
+practice. Research consistently shows that players
+learn more effectively when practice reflects the
+demands of performance, encouraging them to
+perceive information, make decisions and explore
+movement solutions rather than simply reproduce
+ideal technique (Newell, 1986; Davids et al., 2008;
+Pinder et al., 2011). For coaches, the practical
+implication is straightforward. Early sessions should
+not aim for technical perfection. Instead, they should
+help players become confident moving, making
+decisions and enjoying the game. Adapting activities
+to individual needs, encouraging exploration and
+creating frequent opportunities for success are all
+associated with greater motivation, confidence and
+long-term participation (Deci & Ryan, 2000; Ryan &
+Deci, 2020; Côté & Gilbert, 2009). Effective coaching
+therefore involves creating learning environments
+where players feel safe to experiment, make mistakes
+and progressively develop both wheelchair mobility
+and tennis-specific skills.
+The purpose of this article is to provide practical,
+evidence-informed recommendations for coaches
+introducing beginners to wheelchair tennis. Drawing
+together research from wheelchair tennis, disability
+sport, skill acquisition and inclusive coaching,
+alongside applied coaching practice, the paper
+offers practical guidance for planning and delivering
+enjoyable, adaptable and player-centred introductory
+sessions. In doing so, it aims to bridge the gap
+between research and practice, providing coaches
+with strategies that can be readily applied across
+community, education and performance settings.
+Understanding the beginner wheelchair
+tennis player
+One of the first things coaches learn is that there is
+no such thing as a "typical" beginner. Players arrive
+with different impairments, levels of wheelchair
+experience, sporting backgrounds and personal
+goals. Some may have used a wheelchair for many
+years or competed in other wheelchair sports, while
+others may be using a sports wheelchair for the first
+time. Likewise, some participants may have previous
+tennis experience before acquiring an impairment,
+whereas others are completely new to racket sports.
+These differences mean that effective coaching starts
+by understanding the individual rather than making
+assumptions based on diagnosis or classification.
+Although functional classification is essential for
+Preparing for the first session
+The quality of a beginner's first experience often
+determines whether they return. Long before the first
+ball is struck, coaches influence this experience through
+the way the session is organised, the environment that
+is created and the interactions they have with players.
+The objective of an introductory session is therefore
+not technical perfection but helping every participant
+leave the court feeling successful, confident and
+motivated to play again. Preparation begins with the
+environment. Players should be able to access the
+court easily, move safely around the venue and find
+equipment ready for use. Sports wheelchairs should
+be checked before the session, including tyre pressure,
+brakes and general safety, while rackets, lowercompression balls, targets and other equipment should
+be organised to minimise unnecessary interruptions.
+Good organisation allows more time for meaningful
+practice and keeps beginners engaged throughout
+the session. The coaching environment is equally
+important. A warm welcome, clear explanations
+and simple session objectives help reduce anxiety
+and establish a positive learning environment from
+the outset. Coaches should encourage questions,
+reassure players that mistakes are an expected
+part of learning and celebrate small improvements
+throughout the session. These behaviours help create
+the psychological safety that underpins confidence,
+exploration and long-term participation (Deci &
+Ryan, 2000; Ryan & Deci, 2020). Communication
+should remain collaborative throughout practice.
+Rather than assuming what players can or cannot do,
+coaches should ask questions, listen carefully and
+adapt activities according to individual preferences,
+confidence and physical capability. Small adjustments
+to equipment, court size or task difficulty often have
+a greater impact on learning than extensive technical
+instruction. This flexible, player-centred approach
+enables every participant to experience an appropriate
+balance between challenge and success while
+Table 1. Stage-specific representative practice characteristics.
+Pre-session
+consideration
+Why it matters
+Practical coaching recommendation
+Previous sporting
+experience
+Influences confidence, movement
+competency and learning rate
+Discuss previous sports and adapt
+activities accordingly.
+Wheelchair
+experience
+Determines confidence in propulsion and
+court movement
+Begin with appropriate mobility
+challenges before introducing tennis
+skills.
+Medical
+considerations
+May influence fatigue, movement,
+balance or safety
+Discuss any relevant considerations and
+agree appropriate adaptations.
+Personal goals
+Supports motivation and meaningful
+participation
+Tailor session objectives towards
+recreation, skill development or
+competition.
+Equipment
+Promotes comfort, safety and effective
+performance
+Check wheelchair set-up, tyre pressure,
+gloves and racket before play.
+remaining actively engaged. A successful first session
+is not defined by the quality of a player's forehand
+or serve. It is defined by whether players leave the
+court believing that wheelchair tennis is enjoyable,
+achievable and worth returning to. Coaches can use
+the checklist presented in Figure 1 as a practical
+guide when preparing introductory sessions, adapting
+individual components to suit the player, the coaching
+environment and the resources available.
+Teaching wheelchair mobility before
+tennis skills
+Confident wheelchair movement underpins every
+aspect of wheelchair tennis. Before players can recover
+effectively, prepare for a shot or make good tactical
+decisions, they must first learn how to move efficiently
+around the court. For beginner coaches, this means
+treating wheelchair mobility as a performance skill
+in its own right rather than simply a way of getting
+from one shot to the next. Asking beginners to master
+the movement skills all at once can quickly reduce
+confidence. A more effective approach is to establish
+movement confidence first before progressively
+integrating tennis-specific demands. Early sessions
+should therefore focus on simple movement challenges
+that encourage players to become comfortable in
+the sports wheelchair. Activities such as obstacle
+courses, relay races, reaction games and follow-theleader exercises provide enjoyable opportunities to
+practise accelerating, braking, turning and recovering
+while avoiding the monotony of isolated movement
+drills. These activities also give coaches valuable
+opportunities to observe each player's confidence,
+balance and movement strategies before introducing
+more complex tasks.
+As movement confidence develops, coaches should
+gradually combine wheelchair mobility with racket
+and ball activities. Catching, throwing and striking
+tasks encourage players to coordinate movement with
+and decision-making simultaneously. The aim is
+not to produce technically perfect strokes but to
+help players develop confidence, consistency and an
+understanding of how to play the game. Forehand
+and backhand strokes usually provide the starting
+point because they form the basis of rallying. Rather
+than concentrating on detailed technical instruction,
+coaches should initially encourage players to establish
+a comfortable grip, make consistent contact in front of
+the body and recover into a balanced court position
+after every shot. Simple external coaching cues, such
+as "hit over the net", "aim for the target" or "recover
+ready for the next ball", are often more effective than
+providing lengthy technical explanations. Directing
+attention towards the intended outcome of the
+movement has consistently been shown to enhance
+motor learning and performance (Wulf, 2013).
+Practice should also encourage players to move while
+striking the ball. Learning to hit stationary balls
+without considering court position may produce
+short-term technical improvements but does little
+to prepare beginners for the demands of match play.
+Instead, coaches should gradually integrate movement,
+perception and decision-making from the earliest
+stages of learning. Representative practice allows
+players to develop technical, tactical and perceptual
+skills together while learning to adapt to changing
+situations on court (Davids et al., 2008; Pinder et
+al., 2011; Button et al., 2020). Serving should also
+ball tracking and decision-making, helping mobility
+and tennis skills develop together rather than
+separately. Research shows that learning is enhanced
+when practice resembles the game players are
+preparing for (Davids et al., 2008; Pinder et al., 2011).
+Progression should always be guided by the individual
+rather than a fixed coaching plan. Beginners vary
+considerably in wheelchair experience, upper-body
+strength, trunk control and sporting background, so
+the same activity may be appropriate for one player
+but overly demanding for another. Small adjustments
+to movement distance, task complexity or equipment
+are often enough to maintain an appropriate balance
+between challenge and success while keeping practice
+enjoyable and representative. Figure 2 provides
+examples of fundamental wheelchair movement
+patterns that can be introduced during the early
+stages of learning. Although presented as individual
+activities, coaches should adapt each task to suit the
+player's confidence and ability while progressively
+integrating racket skills and decision-making as
+movement competence develops.
+Introducing fundamental tennis skills
+Once players are moving confidently in the sports
+wheelchair, tennis-specific skills can become a
+greater focus. At this stage, however, it is important
+to remember that beginners are still learning to
+coordinate movement, racket control, ball tracking
+Figure 1. Preparing an inclusive beginner wheelchair tennis session. A visual checklist illustrating accessible
+facilities, equipment preparation, wheelchair safety checks, player introductions and session planning.
+(Davids et al., 2008; Pinder et al., 2011; Light, 2013).
+For coaches, the challenge is to create activities that
+are simple enough for beginners to experience success
+while still reflecting the essential demands of the
+game. Rather than separating technical practice from
+game play, coaches should introduce tennis through
+modified activities that encourage players to move,
+perceive information and make decisions from the
+outset. Simple adaptations, such as reducing court
+size, using lower-compression balls or introducing
+achievable tactical goals, allow beginners to experience
+success without removing the characteristics that
+make the activity recognisably tennis.
+An effective beginner session also keeps players
+moving. Long queues, repetitive basket feeding
+and prolonged technical demonstrations reduce
+opportunities to practise, make decisions and
+develop confidence. Wherever possible, activities
+should involve every player simultaneously through
+partner work, small groups or station-based practice.
+Increasing meaningful repetitions while maintaining
+enjoyment is often more valuable than providing
+additional technical instruction. Modified games
+are particularly effective because they combine
+movement, racket skills and tactical awareness
+within a single activity. Rather than viewing games
+as a reward at the end of practice, coaches should use
+them as the primary learning environment from the
+beginning. Simple target games encourage accuracy
+and recovery, cooperative rallies develop consistency
+and court positioning, while small-sided games allow
+beginners to experience the rhythm of tennis without
+becoming overwhelmed.
+be introduced early, but expectations should remain
+realistic. For beginners, developing a repeatable
+service action and understanding the purpose of the
+serve are far more important than generating speed
+or power. Volleys can likewise be introduced through
+simple interception games that encourage players
+to move towards the ball while maintaining balance
+and control of the wheelchair. Progression should
+maximise successful ball contacts without removing
+challenge. Coaches might begin with catching and
+throwing activities before progressing to self-feeding,
+partner feeding, cooperative rallies and eventually
+modified games. Each stage should build naturally
+on the previous one, allowing movement, technical
+skill and tactical awareness to develop together while
+maintaining enjoyment and confidence. Figure 3
+illustrates one example of this progression. Beginning
+with catching and throwing before progressing through
+self-feeding, cooperative rallying and modified game
+play, the sequence demonstrates how movement and
+tennis skills can be developed concurrently within
+representative
+learning
+environments.
+Coaches
+should view these stages as flexible guides rather than
+fixed steps, adapting the progression according to each
+player's confidence, experience and rate of learning.
+Designing engaging beginner practices
+Well-designed beginner sessions are active, enjoyable
+and recognisably tennis. While technical skills remain
+important, players learn more effectively when
+practice encourages movement, decision-making and
+problem solving rather than repetitive technical drills
+Figure 2. Fundamental wheelchair movement patterns for beginner players. A court diagram illustrating
+propulsion, braking, turning, recovery and repositioning during introductory activities.
+Figure 3. Progressive skill development for beginner wheelchair tennis players. A visual progression illustrating
+the transition from catching and throwing to self-feeding, cooperative rallying and modified game play.
+The role of the coach is to adjust the challenge rather
+than continually adjust the technique. Small changes
+to court dimensions, equipment, target areas or
+scoring systems can substantially influence player
+behaviour while preserving the representative nature
+of practice (Newell, 1986; Davids et al., 2008; Renshaw
+et al., 2009). These adjustments encourage players to
+discover effective movement solutions independently,
+developing adaptable performers rather than players
+who rely on constant coach feedback. As players
+develop, practice should gradually become more
+game-like. Early activities may simplify movement or
+decision-making to promote success, but complexity
+should
+increase
+progressively
+by
+integrating
+recovery, tactical awareness and realistic movement
+demands. This gradual progression improves the
+transfer of learning from practice to competition
+while maintaining confidence and enjoyment. Table
+2 presents examples of representative beginner
+activities that can be adapted to different coaching
+environments. Although each activity has a primary
+objective, coaches should remember that movement,
+technical development and decision-making occur
+together rather than as separate components of
+learning.
+Table 2. Example beginner practice activities.
+Activity
+Coaching objective
+Key coaching point
+Traffic Lights
+Wheelchair mobility
+Develop acceleration, braking and
+turning.
+Target Tennis
+Shot accuracy
+Encourage controlled ball placement.
+Cooperative Rally
+Consistency
+Maximise consecutive successful shots.
+Around the Court
+Movement and recovery
+Recover after every shot.
+Mini Match Play
+Decision-making
+Encourage tactical awareness through
+play.
+drills and can be adapted by manipulating court
+dimensions, equipment, scoring systems and task
+objectives to suit individual players while preserving
+the key informational and movement demands of
+wheelchair tennis.
+Figure 4 presents three example court layouts that
+illustrate how representative beginner activities can
+be organised to develop wheelchair mobility, rallying
+and decision-making concurrently. These examples
+are intended as practical templates rather than fixed
+Figure 4. Court diagrams illustrating representative activities for developing mobility, rallying and decisionmaking.
+Adapting coaching for every player
+No two beginner wheelchair tennis players arrive the
+same. Some players will move confidently in a sports
+wheelchair from their first session, while others may
+initially find basic propulsion challenging. Effective
+coaching therefore relies on adapting practice to
+the individual rather than expecting every player to
+progress in the same way. The aim of adaptation is
+not to make practice easier but to make it appropriate.
+Coaches should create activities that provide every
+player with an achievable level of challenge while
+preserving the essential characteristics of wheelchair
+tennis. A constraints-led approach provides a
+practical framework for doing this, allowing coaches
+to manipulate equipment, court dimensions, scoring
+systems and task objectives to match individual needs
+without fundamentally changing the activity (Newell,
+1986; Davids et al., 2008). Classification reflects the
+impact of impairment on performance, not a player's
+confidence, previous experience or capacity to
+learn (Tweedy & Vanlandewijck, 2011), and players
+within the same classification often demonstrate
+very different movement abilities, technical skills
+and learning needs. Coaches should therefore
+observe how individuals perform and adapt practice
+accordingly rather than assuming players with similar
+classifications require identical coaching.
+Mixed-ability groups are common in community
+wheelchair tennis and should be viewed as a coaching
+opportunity rather than a problem. Players can remain
+within the same activity while working towards
+different objectives. One player may be aiming
+to maintain a rally, another to recover effectively
+after every shot, while a more experienced beginner
+focuses on ball placement. These small adjustments
+allow everyone to remain engaged without separating
+the group or disrupting the flow of practice. Perhaps
+the most important adaptation a coach can make
+is knowing when to step in and when to step back.
+Not every mistake requires immediate correction.
+Allowing players time to explore, experiment and solve
+movement problems often produces more durable
+learning than continually prescribing technical
+solutions (Davids et al., 2008; Pinder et al., 2011).
+standards; it creates opportunities for all players
+to learn, improve and enjoy the game regardless of
+their starting point. Table 3 summarises practical
+examples of how beginner activities can be adapted
+to accommodate different players while maintaining
+meaningful learning opportunities.
+Observation, questioning and carefully designed
+practice tasks frequently become more effective
+coaching tools than constant instruction. Ultimately,
+adapting coaching is about helping every player
+experience an appropriate balance between challenge
+and success. Flexible coaching does not reduce
+Table 3. Practical coaching adaptations.
+Situation
+Coaching adaptation
+New wheelchair user
+Reduce movement demands, shorten distances and increase
+familiarisation activities.
+Mixed-ability group
+Differentiate targets, court size, rally objectives or scoring systems.
+Reduced upper-body strength
+Use lower-compression balls, shorter rally distances or larger targets.
+Younger players
+Use game-based activities with frequent rotation and shorter practice
+bouts.
+Player fatigue
+Reduce rally duration, extend recovery time or alternate active and less
+demanding tasks.
+Building
+confidence
+and
+long-term
+participation
+For most beginners, the first few coaching sessions
+are not about winning matches. They are about
+deciding whether wheelchair tennis is a sport they
+want to continue playing. Coaches therefore have
+an important responsibility that extends beyond
+teaching technique. The environment they create,
+the experiences they provide and the relationships
+they build can all influence whether players leave the
+court feeling confident enough to return. Research
+consistently highlights the importance of competence,
+autonomy and relatedness in supporting motivation
+and sustained participation (Deci & Ryan, 2000; Ryan &
+Deci, 2020). In practice, this means designing sessions
+where players experience success, have opportunities
+to make decisions and feel part of a welcoming group.
+Even small successes (returning a serve or mastering
+a turn) can have a significant impact on confidence
+during the early stages of learning. The way coaches
+provide feedback also shapes the learning experience.
+Rather than correcting every mistake, coaches should
+encourage players to explore solutions and reflect on
+what worked well. Simple questions such as "What
+helped you reach that ball?", "What did you notice?" or
+"Where could you recover next?" encourage players to
+think and solve problems.
+Equally important is the social environment. Many
+people begin wheelchair tennis to improve fitness,
+regain confidence or meet others with similar
+experiences. Participation has been associated with
+improvements in confidence, wellbeing and social
+connectedness (Richardson et al., 2017). Coaches can
+strengthen these outcomes by encouraging interaction
+between players, celebrating individual progress and
+creating a club environment where everyone feels
+welcome regardless of experience or ability. For
+beginner coaches, the message is simple: players are
+far more likely to continue if they enjoy the experience
+than if they simply execute technically correct strokes.
+Successful coaching should be judged by more than
+technical improvement. The most successful beginner
+sessions are those in which players leave the court
+feeling more confident than when they arrived and
+looking forward to coming back next week.
+Common coaching mistakes
+Everyone can make mistakes when introducing
+beginners to wheelchair tennis. Most are not caused by
+poor coaching, but by transferring coaching methods
+that work in able-bodied tennis without considering
+the additional demands of wheelchair mobility.
+Recognising these common pitfalls helps coaches
+create more effective, enjoyable and inclusive learning
+experiences. One of the most common mistakes is
+focusing on stroke technique before players can
+move confidently around the court. Without effective
+wheelchair control, players struggle to prepare for the
+ball, recover after shots and make consistent contact.
+Developing confidence in propulsion, turning and
+recovery should therefore take priority during the
+early stages of learning (Goosey-Tolfrey & Moss, 2005;
+Sindall et al., 2013).
+Another frequent mistake is trying to correct
+everything. Beginners are already learning a lot of skills.
+Too much technical instruction can quickly become
+overwhelming. Instead, coaches should identify one
+or two priority coaching points and allow players time
+to explore different movement solutions. Session
+organisation also deserves careful consideration. Long
+queues, repetitive basket feeding and extended coach
+and adaptation. Two players may have the same
+classification but very different movement confidence,
+physical capacity and sporting experience (Tweedy &
+Vanlandewijck, 2011). Adapting court size, equipment,
+scoring systems or task objectives allows every player
+to remain appropriately challenged while learning
+within the same activity. Table 4 summarises common
+coaching mistakes alongside practical strategies that
+can be implemented immediately within beginner
+sessions.
+demonstrations reduce opportunities for meaningful
+practice. Players improve by moving, making decisions
+and hitting balls, not by waiting for their turn. Small
+groups, partner activities and modified games keep
+everyone active while creating more representative
+learning experiences (Light, 2013; Mounter et al.,
+2026; Mounter et al., 2025).
+A final mistake is assuming every beginner should
+complete the same activity in the same way.
+Effective coaching requires continual observation
+Table 4. Common coaching mistakes and practical solutions.
+Common mistake
+Why it limits learning
+Better coaching practice
+Prioritising technique before
+movement
+Players cannot position effectively for
+the next shot
+Develop wheelchair mobility
+before complex stroke
+instruction.
+Providing excessive
+instruction
+Increases cognitive load and reduces
+exploration
+Focus on one or two key coaching
+cues.
+Long waiting times
+Reduces meaningful practice
+opportunities
+Use stations, partner activities
+and modified games.
+Correcting every mistake
+Limits problem solving and
+independent learning
+Use questioning and guided
+discovery before providing
+feedback.
+Treating every player the
+same
+Ignores individual differences in
+confidence and ability
+Adapt task constraints while
+keeping the group together.
+Conclusion
+Introducing beginners to wheelchair tennis involves
+far more than teaching strokes. Coaches are helping
+players learn to move confidently in a sports
+wheelchair, develop racket skills, solve tactical
+problems and, perhaps most importantly, enjoy the
+experience of playing the game. The first few coaching
+sessions often shape whether a player chooses to
+continue participating, making the quality of beginner
+coaching fundamental to the long-term growth
+of wheelchair tennis. This article has presented
+practical, evidence-informed recommendations for
+planning and delivering beginner sessions by bringing
+together research from wheelchair tennis, disability
+sport, skill acquisition and inclusive coaching with
+applied coaching practice. Although every player
+follows a different developmental journey, several
+principles remain consistent: prioritise movement
+before technique, design representative and enjoyable
+practice activities, adapt coaching to the individual
+and create environments where players feel confident
+to explore, make mistakes and learn. As wheelchair
+tennis continues to grow internationally, coaches
+will play an increasingly important role in ensuring
+that new players experience the sport in a positive,
+inclusive and enjoyable way. Technical development
+will always matter, but lasting participation begins
+with confidence, enjoyment and a sense of belonging.
+Future research should evaluate the effectiveness
+of
+these
+recommendations
+across
+community
+programmes
+and
+coach
+education
+settings
+to
+strengthen the evidence base for beginner wheelchair
+tennis coaching. The success of a beginner coach is not
+measured by how quickly players develop technically,
+but by how many leave the court believing, "I can't
+wait to play again."
+Conflicts of interest
+The author declares no conflicts of interest.
+Funding
+The author declares no funding was received.
+Pires, P., Ramalho, A., Antúnez, A., Mesquita, H., & Ibáñez,
+S. J. (2021). Career Development of Adapted Sports
+Coaches: Systematic Review of Qualitative Evidence
+Literature. International journal of environmental
+research and public health, 18(12), 6608. https://doi.
+org/10.3390/ijerph18126608
+Renshaw, I., Davids, K., Shuttleworth, R., & Chow, J. Y. (2009).
+Insights from ecological psychology and dynamical
+systems theory can underpin a philosophy of coaching.
+International Journal of Sport Psychology, 40(4), 580–
+602.
+Richardson, E. V., Smith, B., & Papathomas, A. (2017). The
+psychosocial impact of wheelchair tennis on participants
+from developing countries. Disability and Rehabilitation,
+39(2), 193–200.
+Ryan, R. M., & Deci, E. L. (2020). Intrinsic and extrinsic
+motivation from a self-determination theory perspective:
+Definitions, theory, practices, and future directions.
+Contemporary Educational Psychology, 61, 101860.
+Sindall, P., Lenton, J. P., Tolfrey, K., Cooper, R. A., Oyster,
+M., & Goosey-Tolfrey, V. L. (2013). Wheelchair tennis
+match-play demands: Effect of player rank and
+result. International Journal of Sports Physiology and
+Performance, 8(1), 28–37.
+Townsend, R. C., Huntley, T. D., Cushion, C. J., & Culver,
+D. (2021). Infusing disability into coach education and
+development: a critical review and agenda for change.
+Physical Education and Sport Pedagogy, 27(3), 247–260.
+https://doi.org/10.1080/17408989.2021.1873932
+Townsend, R. C., Cushion, C. J., & Morgan, D. (2019).
+Coaching in disability sport: from practice to theory.
+In E. Cope & M. Partington (Eds.), Sports Coaching A
+Theoretical and Practical Guide. Routledge.
+Tweedy, S. M., & Vanlandewijck, Y. C. (2011). International
+Paralympic Committee position stand: Background and
+scientific principles of classification in Paralympic sport.
+British Journal of Sports Medicine, 45(4), 259–269.

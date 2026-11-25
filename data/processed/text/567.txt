@@ -1,0 +1,552 @@
+Title: Analysis of serve and first shot sequences in U-12 and U-14 tennis players
+Authors: Manrique Rodríguez Campos, Rafael Martínez-Gallego
+Year: 2024
+Issue: Vol. 32 No. 92 (2024)
+Article id: 567
+
+www.itfcoachingreview.com
+April 2023. 32th Year. Issue 92. 49-54
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i92.567
+compared to actual matches (60% and 61%, respectively),
+revealing statistically significant differences (Krause et al.,
+2019). In addition, it was found that, during training, when
+players were tasked only with serving, a reduction in the
+number of serves that fell inside was observed, compared
+to the situation where a third stroke was added after the
+return (Krause et al., 2019). This shows the importance of
+understanding and training these sequences of the serve
+and first shots during training, which have been shown to be
+critical aspects that largely define the performance of tennis
+players.
+Evaluation and monitoring of performance in junior tennis
+is crucial for the effective development of players in training
+(Kolman et al. 2021). It is critical that training programs
+are designed to fit the specific needs of each stage of youth
+development. The differences between junior and professional
+level are significant and well-documented (Kovalchik & Reid,
+2017), underscoring the importance of adapting training
+methods. Therefore, the main objective of this study was to
+describe and establish whether there were differences in
+the sequences of strokes of U-12 and U-14 players in service
+situations, including the direction of the serve, the position of
+the players when executing the third shot and the direction
+in which they send the ball. The results obtained provide
+valuable information to optimize the preparation of young
+tennis players for the competition.
+METHODS AND PROCEDURES
+Sample
+The sample consisted of 8 matches in total, 4 men's matches
+of each category, in which 6 U-12 players and 7 U-14 players
+participated. A total of 438 points were analysed for the U-14
+category and 449 points for the U-12 category, extracted
+INTRODUCTION
+In tennis, various game situations can be analysed through
+notational analysis, which has become particularly important
+for tactical assessment in sport (Gillet et al., 2009). This
+methodology provides objective and accurate data that is
+essential for coaches to provide effective feedback to players
+and improve their performance (Martínez-Gallego, 2015).
+Notational analysis provides significant details about tennis
+dynamics, highlighting that most points are decided in the
+first point rallies (Carboch et al., 2018; Fitzpatrick et al., 2019;
+Klaus et al., 2017). These findings underscore the critical
+importance of a powerful serve and dominating from the
+first shots. The first serve, due to its high speed, generates a
+significant advantage, forcing the returner to do it outside the
+court and creating open spaces for the next shot, as observed
+(Kovalchik & Reid, 2017; Reid et al., 2016). This results in the
+percentage of points won on the first serve being significantly
+higher than those won on the second serve (Gillet et al., 2009).
+In the specific case of junior tennis players, previous studies
+indicate that there are gender differences in the execution
+of the serve, influenced by age and experience. More
+experienced players tend to direct their serves towards the
+corners, while more novices prefer to direct them towards
+the opponent's body (Hizan et al., 2015). In addition, the
+probability of winning points on the first serve is significantly
+higher (55.9%) than on the second serve (42.9%), and it is
+more common for junior players to make errors on the third
+shot rather than achieve a winning point (Klaus et al., 2017).
+These observations reinforce the importance of effectively
+training the sequence between the serve and the first shots.
+In the practice of serve and return, elite junior players find
+fewer opportunities to execute the third (serve +1) and fourth
+stroke (return +1) in training (13% and 18%, respectively)
+ABSTRACT
+Stroke sequence analysis in junior tennis helps identify patterns of play and could help
+improve the performance of players in formative stages. The purpose of the study was
+to analyze the sequences of serve and third shot (serve +1) in elite youth tennis, in the
+men's U-12 and U-14 categories. The direction of the serve, the position of the players
+when executing the third stroke and the direction in which they send the ball were
+evaluated. It was found that U-12 players have less effectiveness in second serves. The
+location of the shots varies depending on the category and the situation of the game.
+The importance of training service sequences and first shots to improve performance
+in junior tennis is highlighted.
+Analysis of serve and first shot sequences in
+U-12 and U-14 tennis players
+Manrique Rodríguez Campos & Rafael Martínez Gallego
+University of Valencia, Spain.
+Key words: notational analysis,
+junior  tennis,stroke sequences,
+sports performance.
+Received: 3 March 2024
+Accepted: 19 April 2024
+Corresponding author: Rafael
+Martínez. rafael.martinezgallego@uv.es
+COACHING & SPORT
+SCIENCE REVIEW
+from the Petit As and Open Super 12 Auray tournaments,
+respectively. All players evaluated were right-handed and
+matches were played on indoor hard courts, starting with the
+quarterfinals.
+Procedure
+Using the Kinovea program (0.9.5-x64) the court was
+divided into different zones (see figure 1), which allowed
+both the position of the players and the bounce of the ball
+to be recorded. The encoder followed the recommendations
+described in previous studies (Hizan et al., 2010, 2015), to
+ensure that the locations of the ball bounce for each of the
+strokes were coded as accurately as possible.
+To quantify the differences and similarities between the
+sequences, dissimilarity analysis was employed, specifically
+using the Hamming distance. This metric evaluates sequences
+and records the number of positions in which sequences differ,
+that is, the number of mismatched elements in sequences.
+Based on the dissimilarity matrix generated, the discrepancy
+between the categories was analyzed, determining a
+statistical significance level of p ≤ 0.05.
+RESULTS
+Table 1 shows the descriptive variables of the service and the
+duration of the points. As can be seen, both categories show
+similar values both in the number of serves played and in those
+won with the first serve. However, there is a notable disparity
+in the percentage of second serves won, particularly evident
+in the players of the U-12 category, who barely achieve 34%
+effectiveness in the points played against 56% of the U-14s. In
+addition, it highlights how short points are the most common
+in matches in both categories.
+Table 1
+Descriptive Match Variables.
+Variables
+U-12
+U-14
+1st serve in (%)
+62%
+62%
+1st serve won (%)
+56%
+59%
+2nd serve won (%)
+34%
+56%
+Double faults (per match)
+6.25
+4.25 pm
+Points of 4 or fewer strokes (%)
+46%
+50%
+Deuce side analysis
+Table 2 shows the most frequent situations for each of the
+variables in the sequence on the deuce side, for both the first
+and second serves in both categories.
+Figure 1. Areas of the court.
+The data were recorded in an Excel spreadsheet with the
+sequentiality of the behaviors. General information related
+to the data of the players and the score was recorded.
+In addition, for each point the result of the same and the
+number of strokes were recorded. To analyze the sequences,
+information about the serve was recorded, including the type
+of serve (first and second serve), the side of the court (Equals
+or Advantage side), the direction of the serve (Open, Body and
+T), and information about the third stroke (serve +1), including
+the hitting zone and place of bounce of the ball after the shot.
+Statistical analysis
+Statistical analysis was performed using RStudio software
+version 1.3.959 for Mac. Descriptive data is reported through
+percentages according to category. Using the "TramineR"
+package, sequence analysis techniques were applied to
+explore and contrast the sequences employed by the tennis
+players. This process included three distinct approaches:
+comparing
+sequences
+between
+categories,
+identifying
+common patterns in each category, and analyzing the most
+frequent states. These analyses were categorized according
+to the type of serve (first or second) and the side of the court
+(deuce side or advantage side).
+Category
+Service
+Service Direction
+3rd Shot
+3rd Shot Zone
+3rd Shot Bounce
+U-12
+Body
+T
+Wide
+Forehand
+Behind baseline:
+- Center
+Deep:
+-Backhand
+-Error
+Body
+T
+Forehand Return
+Error
+Behind baseline:
+-Right
+-Center
+Deep:
+-Center
+U-14
+T
+Wide
+Forehand Return
+Error
+Behind baseline:
+-Center
+Inside the court:
+-Center
+Deep:
+-Backhand
+-Body
+-Wide
+-T
+-Double Fault
+Forehand
+Backhand
+Behind baseline:
+-Right
+-Center
+-Left
+Deep:
+-Backhand
+-Forehand
+-Center
+Table 2
+Most frequent situations for each of the variables in the sequence.
+Most frequent sequences
+First Service:
+U-12 category: players send their serves in all three possible
+directions, without having a dominant area, the third shot was
+primarily a forehand being behind the baseline in the central
+area, playing deep to the opponent's backhand, or making a
+mistake (see Figure 2).
+Figure 2. Stroke sequence most commonly used in U-12. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+U-14 category: they make serves mostly towards the T,
+followed by wide serves. In addition, his first shot after serving
+tends to be a forehand impacted from the central areas of the
+back of the court, playing the deep shot to the opponent's
+backhand. Also, there are return mistakes, which causes the
+completion of the point before the third stroke (see Figure 3).
+Figure 3. Stroke sequence most commonly used in U-14s. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+Second Service:
+U-12 category: they mostly execute serves to the Body
+direction and then to the T, their third shot is a forehand
+impacted outside the court, in the central or right area,
+playing deep from the center to the center of the opponent.
+In addition, there are return mistakes, which causes the point
+to be completed before the third stroke (see Figure 4).
+Figure 4. Stroke sequence most commonly used in U-12. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+U-14 category: they serve more times to the Body, but also
+in the other two possible options, the third stroke can be a
+forehand or backhand, although more forehands are given.
+Their location at the time of impact is behind the baseline in
+the right zone primarily, but also in the central zone and less
+so in the left zone, playing deep balls in all directions (see
+figure 5).
+Figure 5. Stroke sequence most commonly used in U-14s. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+Advantage side analysis
+Table 3 shows the sequences used on the advantage side for both the first and second serves.
+Table 3
+Sequence of Points Played on the Advantage Side.
+Category
+Service
+Service Direction
+3rd Shot
+3rd Shot Zone
+3rd Shot Bounce
+U-12
+Wide
+Body
+T
+Forehand
+Backhand
+Behind the
+baseline:
+-Center
+-Left
+Inside the court:
+-Center
+-Left
+Deep:
+-Forehand
+-Center
+-Backhand
+Body
+Double
+Fault
+Backhand
+Forehand
+Return Error
+Behind the
+baseline:
+-Left (open)
+Deep:
+-Center
+U-14
+Wide
+Forehand
+Return Error
+Inside the court:
+-Center
+-Left
+Behind the
+baseline:
+- Center
+-Left
+Deep:
+-Backhand
+-Center
+Body
+Wide
+Backhand
+Forehand
+Return Error
+Behind baseline:
+-Left
+Deep:
+-Center
+Most frequent sequences
+First Service:
+U-12 category: their serves are directed in all three possible
+directions, the third shot can be forhand or backhand,
+impacting from the central or left areas inside but especially
+outside the court, executing a deep shot in all directions,
+although a higher percentage to the forehand of the opponent
+(see Figure 6).
+Figure 6. Stroke sequence most commonly used in U-12. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+U-14 category: they serve  wide, the third shot is a forehand,
+impacted from the central or left position on the court, playing
+the deep shot to the opponent's backhand. Also, there are
+missed returns, so they don't play the third stroke (see Figure
+7).
+Figure 7. Stroke sequence most commonly used in U-14s. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+Second Service:
+U-12 category: they serve to the Body direction, their third
+shot is mostly a backhand, followed by forehand or they do not
+play it because of the opponent's failed returns, the location
+of the impact is in open areas on the left side and outside
+the court, playing with this shot deep balls to the center (see
+figure 8). In addition, they commit double faults.
+Figure 8. Stroke sequence most commonly used in U-12. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+U-14 category: they serve both to ide and to  the body, the
+third shot can be a forehand or backhand, although there
+are more backhands or they do not play it because of the
+opponent's failed returns, their location at the time of impact
+is outside the court in the left area, to play deep balls to the
+center (see figure 9).
+Figure 9. Stroke sequence most commonly used in U-14s. The larger the
+number or letter, the more shots recorded in that area. Note: S=server;
+1= Serve placement; Z=Impact zone of 3rd shot; U= 3rd shot placement.
+DISCUSSION
+The aim of the study was to describe and establish whether
+there were differences in the sequences of strokes of U-12
+and U-14 players in service situations, including the direction
+of the serve, the position of the players when executing the
+third shot and the direction in which they send the ball. The
+results obtained showed that, depending on the category, the
+side of the court and the type of serve, different sequences
+are presented. U-14 players tend to have more defined
+sequences, especially with the first serve, where they hit the
+third shot inside the court. While the U-12s with the second
+serve win very few points, they hit more behind the baseline
+and more backhands than forehands with the third shot.
+The first serves are mostly directed to the T or wide, in both
+categories and on both sides of the court, however, in the
+U-14, this pattern is much more marked. These results confirm
+those obtained in previous studies, which indicate that, as the
+level of players increases, there is a greater tendency to serve
+sideways. When comparing junior players with professional
+players, a preference for serving in the corners of the
+service box was observed among professional players, while
+younger players showed a tendency to direct serves to their
+opponent's body (Hizan et al., 2015).
+Another important aspect to consider is the number of strokes
+that were played per point, where most were short, in the
+range of 1 to 4 strokes. The importance of short-point focused
+training is evidenced by the fact that most points in junior
+tennis end with less than 4 strokes, usually due to a mistake
+rather than a winning shot (Klaus et al., 2017). Therefore, it
+is essential to work on  service +1 and return +1 situations.
+In addition, previous studies showed that when the serve was
+trained with the possibility of playing a third shot, players
+demonstrated greater accuracy in their serve compared to an
+isolated approach (Krause et al., 2019).
+Whereas all points in tennis start with a serve and return,
+and that these two strokes have been identified as the most
+critical in the sport (Gillet et al., 2009; O'Donoghue & Ingram,
+2001; Reid et al., 2010), it stands to reason that they should
+receive priority attention in the training content of players.
+However, these strokes are worked in isolation and with low
+percentages of time (Krause et al., 2019). The data provided
+by this study can be useful for coaches to include more
+specific training content in the preparation of U-12 and U-14
+players, focused on the work of the service situation through
+proposals with a high application to the real competitive
+game.
+This study presents a novel approach with high practical
+implications, however, it is not without some limitations.
+The main one is the sample size which, although we think is
+adequate for the analysis carried out, the generalizability
+of these findings to a wider population could be limited. To
+address this limitation in future research, it is recommended
+to carry out a more thorough analysis that includes a larger
+sample of parties, as well as women's parties, which will allow
+for more robust and generalizable conclusions, as well as
+knowing the differences between the sexes.
+CONCLUSIONS
+Shot sequence analysis in junior tennis is fundamental
+for the development and improvement of players at this
+formative stage. This technique could identify patterns of
+play, strengths and weaknesses in strokes technique, as well
+as tactical effectiveness in different game situations. These
+findings can help us understand how strokes are executed
+and combined. With this, coaches can design age-appropriate
+training programs, addressing specific areas of improvement
+and maximizing the potential of each player.
+PRACTICAL APPLICATIONS
+It is possible to develop specific training for the serve that
+goes beyond the mere isolated exercise, integrating situations
+that allow the server to execute a third shot, preferably from
+the forehand. It is particularly important to focus on second
+serve with players under the age of 12. At this age, since the
+stroke is not yet fully developed, serves tend to be directed
+towards the opponent's body and executed at a slower speed,
+which often benefits the returner by allowing him to take the
+initiative. Therefore, it is essential to train specific patterns
+for the second serve, emphasizing the execution of forehands,
+a predominant technique among players. In addition, it
+is essential to practice serving in contexts that simulate
+real match conditions, which helps players exercise under
+pressure and develop tactical and strategic skills applicable in
+authentic game situations.
+As far as the second serves are concerned, no such defined
+patterns were found as with the first. In both categories, the
+directions are usually varied, depending on the side of the
+court. Previous studies also observed a marked decrease
+in service placement near lines (Kovalchik & Reid, 2017),
+as opposed to professionals. This preference for directing
+serves towards the body is possibly due to physical limitations
+associated with their development, specifically, the standard
+dimensions of the tennis court can make it difficult for
+younger players to consistently place their serves in the
+corners of the service box (Hizan et al., 2015). This favors the
+use of serves aimed at the body as a more effective strategy
+for these players.
+In the case of U-14 players, after the first serves, they tend to
+mostly execute the third shot with deep forehands aimed at
+the opponent's backhand side, regardless of which side of the
+court they are on. This strategy is crucial, as the depth of the
+shot keeps the opponent out of offensive zones of the court
+(Martínez-Gallego et al., 2013). In contrast, with the second
+serve, the sequence of strokes is not as defined, as they can
+choose to hit with both the backhand and forehand. On the
+deuce side, the third stroke is executed from outside the court
+(left, center, right), and depth is sought on the opponent's side
+(forehand, center, or backhand). Whereas, on the advantage
+side, the impact is given outside and on the left side of the
+court, orienting the ball with depth to the center of the
+opponent's side.
+After serving first serves, U-12 players tend to mostly hit the
+third shot with forehands, aiming for the center and sides of
+the court when they are on the deuce side, and from center
+and left areas on and off the court when serving from the
+advantage side. These shots are directed towards deep areas
+of the opponent's side, specifically to the backhand area when
+they play on the deuce side and to the forehand zone when
+they are on the advantage side. As for the third shot after
+the second serve, there is a preference for hitting more with
+forehands from the deuce side and with backhands from the
+advantage side. These shots are aimed sideways and out of the
+court, with the aim of sending deep balls into the opponent's
+court. In addition, it is common to see that many points are
+concluded after a mistake in the return by the opponent.
+Regarding the third shot (serve +1), most of the points are hit
+in the central areas of the court, this may be due to the fact
+that the returners sought to put the ball in play, although in
+our study the return was not evaluated, it has been shown
+through descriptive analysis that a high percentage of returns
+are directed to the center of the court regardless of the age
+group,  the location of the serve and the side of the court
+(Hizan et al., 2014).
+In junior tennis, fewer direct service points are earned when
+compared to professionals (Kovalchik & Reid, 2017). Both
+U-14 and U-12 players win close to 60% of first-serve points,
+similar percentages have been found in previous studies for
+U-12 and U-16 junior players (Hizan et al., 2011). While for
+the second serve there are lower percentages, especially in
+the U-12 category, where they win only 34% of the points
+played with this serve. This percentage increases to 56% for
+U-14 players. The data of U-12 players are similar to those
+found by Hizan et al. (2011), where the percentage was 34%
+of points won with this service. These data show that, in elite
+junior players, the second serve is an ineffective tool and that
+it should be emphasized in training to improve this variable or
+be used when returning.
+Klaus, A., Bradshaw, R., Young, W., O’Brien, B., & Zois, J. (2017). Success
+in national level junior tennis: Tactical perspectives. International
+Journal of Sports Science & Coaching, 12(5), 618-622. https://doi.
+org/10.1177/1747954117727792
+Kolman, N. S., Huijgen, B. C. H., Visscher, C., & Elferink-Gemser, M. T. (2021). The
+value of technical characteristics for future performance in youth tennis
+players: A prospective study. PLoS ONE, 16(1), e0245435. https://doi.
+org/10.1371/journal.pone.0245435
+Kovalchik, S. A., & Reid, M. (2017). Comparing Matchplay Characteristics and
+Physical Demands of Junior and Professional Tennis Athletes in the Era of
+Big Data. Journal of Sports Science & Medicine, 16(4), 489-497. PubMed.
+https://doi.org/PMC5721178
+Krause, L. M., Buszard, T., Reid, M., Pinder, R., & Farrow, D. (2019). Assessment of
+elite junior tennis serve and return practice: A cross-sectional observation.
+Journal of Sports Sciences, 37(24), 2818-2825. https://doi.org/10.1080/0
+2640414.2019.1665245
+Martínez-Gallego, R. (2015). The analysis of tactics in tennis. E-Coach-Tennis
+Coach's Electronic Magazine, 24(8), 4-9.
+Martínez-Gallego, R., Guzmán, J. F., James, N., Ramón-Llin, J., Crespo, M., &
+Vuckovic, G. (2013). The relationship between the incidence of winners/
+errors and the time spent in different areas of the court in elite tennis.
+Journal of Human Sport and Exercise, 8(3). http://dx.doi.org/10.4100/
+jhse.2013.8.Proc3.05
+O’Donoghue, P., & Ingram, B. (2001). A notational analysis of elite tennis strategy.
+Journal of sports sciences, 19(2), 107-115. https://doi.org/10.1080 /
+026404101300036299
+Reid, M., McMurtrie, D., & Crespo, M. (2010). The relationship between match
+statistics and top 100 ranking in professional men’s tennis. International
+Journal of Performance Analysis in Sport, 10(2), 131-138. https://doi.org/
+10.1080/24748668.2010.11868509
+Reid, M., Morgan, S., & Whiteside, D. (2016). Matchplay characteristics of Grand
+Slam tennis: Implications for training and conditioning. Journal of Sports
+Sciences, 34(19), 1791-1798. https://doi.org/10.1080/02640414.2016.1
+139161
+CONFLICTS OF INTEREST AND FUNDING
+The authors declare that they have no conflict of interest, nor
+have they received any funding related to the development of
+this study.

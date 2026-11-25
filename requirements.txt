@@ -1,0 +1,15 @@
+anthropic==2.8.0
+ipykernel==7.4.0
+jupyterlab==4.6.6
+kaggle==2.2.5
+matplotlib==3.11.2
+nbconvert==7.17.2
+numpy==2.4.6
+pandas==3.1.1
+pyarrow==26.0.1
+pymupdf==2.1
+pytest==9.2.0
+python-dotenv==1.2.4
+pyyaml==6.0.3
+tiktoken==0.14.0
+scipy==1.17.1

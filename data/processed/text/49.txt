@@ -1,0 +1,230 @@
+Title: Adolescent female tennis players: Injury prevalence and prevention
+Authors: Harriet Rogers, Lisa Taylor
+Year: 2021
+Issue: Vol. 29 No. 83 (2021)
+Article id: 49
+
+ABSTRACT
+This literature review aimed to identify injury prevalence in adolescent female tennis
+players, and was conducted in accordance to the PRISMA guidelines (Shamseer et
+al., 2015).  The lower extremity encountered the greatest number of injuries and
+musculotendinous injuries were the most common injury type. Injury prevalence and
+the anatomical location of injuries changed with chronological age. Acknowledging
+the results can help tailor strength and conditioning programmes to target the most
+prevalent injuries within each age group.
+INTRODUCTION
+Tennis is played by over 87 million people worldwide, making it
+one of the most popular global sports (ITF, 2019) with a growth
+in female participation. A literature review was undertaken
+to identify adolescent female specific injury prevalence and
+prevention, to help tailor coaching programmes accordingly.
+Many injury risk factors are unfortunately non-modifiable. It is
+important for coaches to be aware and take advantage of any
+risk factors that can be modified. The main injury prevention
+themes identified from the literature review are presented.
+METHODS
+The literature review used the Preferred Reporting Items for
+Systematic Reviews and Meta-Analysis (PRISMA) (Figure 1)
+(Shamseer et al., 2015). Inclusion criteria involved analysing
+female tennis players between 10-19 years, published in
+English between 2009-August 2019 and an evaluation of injury
+outcomes (incidence, prevalence, type, location, severity).  A
+systematic search was performed utilising Medline Ovid as
+the primary electronic database and replicated in: Web of
+Science, Sport Discus, PsychInfo, Scopus and CINAHL, with
+predefined the keywords and Boolean terms displayed in
+Table 1.
+Table 1
+Search Strategy Keywords and Boolean Terms.
+www.itfcoachingreview.com
+April 2021. 29th Year. Issue 83. 16-20.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i83.49
+Adolescent female tennis players:
+Injury prevalence and prevention
+Harriet Rogers  & Lisa Taylor
+School of Health Sciences, University of East Anglia.
+Key words: adolescent, female,
+injuries, tennis
+Received: 18 January 2021
+Acepted: 1 March 2021
+Corresponding author: School of
+Health Sciences, University of East
+Anglia, Norwich Research Park,
+Norwich NR4 7TJ, UK. Email: Lisa.
+Taylor@uea.ac.uk
+COACHING & SPORT
+SCIENCE REVIEW
+Figure 1. PRISMA flow chart of literature retrieval and selection.
+DISCUSSION
+Table 2
+Characteristics of the reviewed studies.
+INJURY
+CLASSIFICATION,
+TYPE
+AND
+ANATOMICAL
+DISTRIBUTION
+Acute, traumatic injuries accounted for 34.5-44.4% and
+overuse injuries explained up to 55.6-65.5% of reported
+of female injuries. Overuse injuries were more frequent in
+the upper extremities (75%) than the trunk (67%) or lower
+extremity (39%). Injury severity analysis reveal nearly 50%
+of female injuries were classified as severe and required >28
+days to return to participation (Correia et al., 2016; Hjelm
+et al., 2012). Musculotendinous complaints were the most
+common injury representing 71.3% of all female injuries,
+followed by joint injuries (17.2%). Ligaments were the most
+common injury within a joint, representing 12.1% of all
+injuries. The anatomical distribution of injuries revealed the
+lower extremity was the most prevalent injury site (41.4%),
+followed by the upper limb (29.9%) and the lower back/
+trunk (22.2-25.90%). When analysed more acutely by subregions the lower back/lumbar spine accounted for 12.1% of
+trunk injuries, the shoulder recorded the highest number of
+injuries  in the upper limb (16.7%) and the knee represented
+14.9-18.5%, of total lower limb injuries in female adolescent
+players (Correia et al., 2016; Hjelm et al., 2012).  The results of
+anatomical injury location is presented in Table 3.
+AGE
+Of particular interest to coaches is the reported increase
+in injury prevalence with chronological age (13-18 years)
+from 2.0 ± 0.2 to 2.9 ± 0.1 injuries per 1000 exposure hours
+(Gescheit et al., 2019). In adolescents 14 years and under the
+shoulder was the most dominant injury location, followed by
+the hip/groin (Gescheit et al., 2019; Kovacs et al., 2014). The
+knee was particularly prevalent in the under-16 category
+(Kovacs et al., 2014). However, a consistent observation
+between 14-18 years of age was the high prevalence lumbar
+spine injuries (Gescheit et al., 2019).
+THE SHOULDER
+A considerable proportion of injuries occur in a player’s
+dominant shoulder (Fernandez-Fernandez et al., 2019) and
+are overuse in nature (Ellenbecker et al., 2009). The high
+level of repetition involved in tennis places the shoulder
+and particularly the rotator cuff at risk of sport specific
+muscular adaptations (i.e., a muscular imbalance and a loss
+of internal rotation ROM) (Fernandez-Fernandez et al.,
+2019). The research suggests that from an early age players
+are developing a high incidence of shoulder related injuries.
+Therefore, should be a prevention focus as early as possible
+in players.
+LUMBAR SPINE
+The spine is at considerable risk of injury, particularly if the
+correct technique is not executed (Salzmann et al., 2018).
+The serve is frequently associated with the development of
+lower back pain in adolescent players, due to the high-level of
+muscular activation and mechanical loading. The kick serve,
+commonly introduced between 12-15 years of age (Campbell
+et al., 2013), potentially contributes to the high incidence of
+lumbar spine injuries. A commonly observed predisposing
+factor is muscular imbalance. Injury prevention should focus
+on extensive core stability, involving both flexor and extensor
+muscular development. Rotational exercises are required to
+build resilience to the high repetitive demands (Ellenbecker
+et al., 2009).
+HIP AND GROIN
+The loading, multidirectional movements and extreme range
+of motion that are demanded of the hip during tennis, place
+the joint and the surrounding soft tissue structures at risk of
+injury (Safran, 2014). The hip joint muscles play a vital role in
+the transfer of forces through the kinetic chain. Hip muscle
+strength can impact the load through the joint, altering its
+function, impacting injury risk, not only to the hip but also the
+lower back and knee (Ellenbecker et al., 2009).
+KNEE
+A high prevalence of knee injuries was observed particularly
+in females of 16 years of age. Many knee injuries share similar
+risk factors that can be targeted. Both ligaments injuries
+and patellofemoral pain are often associated with muscle
+weakness, and /or imbalance and limited flexibility in the knee
+and pelvic-femoral region. A decreased level of neuromuscular
+control around the knee has been reported in female athletes
+during maturational growth (Hewett et al., 2004), potentially
+contributing to the increased level of knee injuries witnessed.
+Integrating core stability training into an athletes training
+has been demonstrated to be crucial in preventing and
+reducing injuries, particularly to the lower limb. It has been
+suggested that the core is the foundation of the kinetic chain
+and facilitates the transfer of energy from the lower to the
+upper extremities (Huxel-Bliven & Anderson, 2013) which
+is pivotal in tennis and for enhancing performance. The
+exercises below focus on some core exercises that provide
+stability for the tennis player (Huxel-Bliven & Anderson,
+2013). The subsequent region specific exercises, focus on
+the most prevalent female adolescent injuries identified
+from the literature review. These exercises may be useful to
+incorporate into an adolescent female’s injury prevention
+strength and conditioning routine.
+Core stabilisation exercise:
+Bridge:
+	▪Trains the back, abdominal  and gluteal muscles
+simultaneously
+	▪Lie on your back with knees flexed to 90 °
+	▪Push pelvis up
+	▪Ensure the pelvis and torso are in one line
+Figure 2. Brige.
+Table 3
+Injury Anatomical Distribution.
+Dead bugs:
+	▪On your back place hips and knee at 90°
+	▪Lower opposite arm and leg
+	▪Keep the small of your back pushed into the ground by
+activating your core and do not compensate by arching
+the back
+	▪Develops lumbopelvic stability
+Figure 3. Dead bugs.
+Superman exercise:
+	▪In four point kneeling with a neutral spine
+	▪Extend opposite arm and leg
+	▪Engage core muscles and do not hyperextend their spine
+when extending the leg
+	▪Targets the gluteal, hamstrings, external obliques and
+back muscles
+Figure 4. Superman exercise.
+Side Plank:
+	▪Lying on side
+	▪Lift up into a side plank with feet stacked or one foot in
+front of the other
+	▪Ensure a straight line from feet to shoulders
+	▪This targets the Abdominal muscles (external obliques,
+rectus abdominus), back muscles and  gluteus medius
+Figure 5. Side Plank.
+Many exercises focus on one particular region but can be
+beneficial for other anatomical locations due to the pivotal
+role of the whole kinetic chain in tennis. Below are some
+region specific exercises.
+Shoulder Emphasis:
+•	 Lawnmower exercises: initiating the exercise with the
+lower extremities increases scapular muscle activation and
+recruitment (Funk et al., 2018)
+•	 The step-up with resistance band: requires hip extension
+and this reinforces gluteal and sequential activation
+throughout the kinetic chain. The resistance band also
+reinforces rotator cuff muscle activation (Funk et al., 2018).
+•	 Shoulder external rotation with resistance band: providing
+support to the working limb will also ensure selective
+recruitment of the rotator cuff muscles (Funk et al., 2018)
+Lower extremity
+•	 Clams and Reverse Clams: to target hip Internal and
+external rotation, perform on both sides to work on
+achieving symmetrical hip rotational strength in the lower
+limbs (Ellenbecker & Pluim, 2009).
+•	 Multidirectional lunge: To strengthen hip, knee, ankle
+and core stability while also challenging dynamic balance,
+required for multidirectional movements in tennis (Samson
+et al., 2007; Huxel-Bliven & Anderson, 2013)
+•	 Single leg squat: Focuses on improving neuromuscular
+control particularly of the knee (Hewett et al., 2004),
+targets the gluteal muscles, while also challenging core
+stability. Poor gluteal strength has also been linked with
+reduced shoulder performance in overhead sports (Funk et
+al., 2018).
+CONCLUSION
+Adolescent female players need to be provided with core
+strength and conditioning and also more specific strength and
+conditioning that is tailored to prevent the most prevalent
+age related injuries that have been reported in the literature.
+Further research focusing on adolescent female injury is
+recommended, as the current paucity of research impacts on
+evidence based targeted injury prevention programmes for
+this group of tennis players.

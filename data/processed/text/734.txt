@@ -1,0 +1,852 @@
+Title: The Impact of Strength and Conditioning on Footwork Development in Youth Tennis
+Authors: Giovanna Ramos, Juanjo Climent, Kyosuke Kiuchi, Gillian Brennan
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 734
+
+www.itfcoachingreview.com
+December 2025. 33rd  Year. Issue 97. 36-42
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i97.734
+INTRODUCTION
+Footwork is frequently highlighted as a crucial element
+in tennis, with many coaches and players arguing that it is
+the foundation of success in the sport (International Tennis
+Performance Association [ITPA], n.d.; Roetert et al., 2016).
+Proper footwork is widely believed to account for a significant
+percentage of a player's success on the court due to the fact
+that most tennis players' mistakes result from a lack of ability
+to move efficiently (Broudy, 1997; Feingold, 2017; Roetert et
+al., 2016). Good footwork enables players to move effectively,
+ensuring they are in the optimal position to execute each
+stroke with both power and precision. Additionally, it allows
+them to react quickly, set up properly, and hit their shots with
+control and accuracy (Elliott et al., 2009; Kovacs et al., 2007;
+Ogunmah, 2024).
+Despite its importance, footwork is often overlooked in many
+training programs and discussions about athletic performance
+(Kovacs, 2006; Ogunmah, 2024). When developing youth
+athletes, many strength and conditioning (S&C) coaches focus
+on speed, strength, and power, assuming that training these
+qualities will naturally translate to improved movement on
+the court. While speed, strength, and power are essential for
+improving athletic performance in tennis and should remain
+central components of every training program, prioritizing
+only these qualities neglects the specific footwork skills
+needed to move efficiently and effectively during a match
+(Kovacs, 2007).
+ABSTRACT
+Footwork is a foundational element in tennis performance, directly impacting a player’s
+ability to move efficiently, react quickly, and execute strokes with power and precision.
+Despite its importance, footwork remains a neglected area in many strength and
+conditioning programs focused on developing youth tennis. Traditional strength and
+conditioning programs often emphasize general physical qualities such as speed, strength,
+and power, under the assumption that these will naturally enhance movement on the
+tennis court. However, this approach overlooks the need for targeted, tennis-specific
+footwork training. Hesitation to address specific skills and uncertainty over whether
+responsibility lies with the strength and conditioning coach or the tennis coach contribute
+to this gap. This article explores the important role that strength and conditioning can
+play in developing effective tennis footwork patterns for youth athletes. By integrating
+sport-specific footwork training with foundational physical development, coaches can
+better support long-term athletic success and improve on-court performance.
+The Impact of Strength and Conditioning on
+Footwork Development in Youth Tennis
+Giovanna Ramos¹, Juanjo Climent², Kyosuke Kiuchi¹& Gillian Brennan¹
+¹IMG Academy, USA. ²TAP Mindset, USA.
+Key words: Tennis-specific
+footwork, Tennis Strength
+and conditioning, Athletic
+development, Youth tennis
+Received: 7 August 2025.
+Accepted: 1 October 2025.
+Corresponding author: Giovanna
+Ramos - giovanna.ramos@
+imgacademy.com
+Neglecting sport-specific footwork in training is common
+for multiple reasons, including concerns about specificity, as
+well as confusion about responsibilities. Many S&C coaches,
+particularly those working with youth athletes, emphasize
+general physical development over strict specificity in
+programming, as early specialization may lead to a narrow
+focus on immediate performance outcomes and potentially
+limit long-term athletic development (Lloyd & Oliver, 2012).
+Focusing on specific movements may result in overlooking
+foundational physical elements, such as foundational
+movement patterns and overall strength, which are crucial
+for long-term development (Lloyd et al., 2015). In addition
+to hesitancy with specificity, another factor contributing to
+the lack of structured tennis-specific footwork training is the
+ongoing debate about whether responsibility for that training
+lies with the S&C coach or the tennis coach. This division
+often results in fragmented or inconsistent development,
+despite the fact that both roles are critical to optimizing
+player movement (Kovacs, 2006; Reid et al., 2013).
+Given these discrepancies regarding tennis-specific footwork
+training, the aim of this article is to identify the unique
+need for tennis footwork training and clarify the role that
+strength and conditioning coaches can play in supporting and
+enhancing footwork development and overall performance
+during the youth phase in tennis. By doing so, this discussion
+aims to promote an integrated approach where sport-specific
+footwork training is combined with foundational physical
+development to better support long-term athletic success
+and enhance on-court performance in young athletes.
+COACHING & SPORT
+SCIENCE REVIEW
+THE IMPORTANCE OF FOOTWORK IN TENNIS
+ In tennis, a player's ability to hit the ball with power is often
+the most visible and celebrated aspect of performance,
+leading many to believe it is the key to success. However,
+what is less obvious, but equally critical, is the footwork that
+allows players to be in a position to strike the ball effectively
+(Kovacs et al., 2007; Ogunmah, 2024). Footwork forms the
+foundation of positioning, enabling athletes to cover the
+court efficiently, maintain balance, and prepare each stroke
+with optimal alignment and timing (Ogunmah, 2024; Roetert
+et al., 2016). Whether returning to a serve, transitioning
+from baseline to net, or recovering between shots, every
+movement on the court is governed by the quality of a player's
+footwork. Theoretically, if a player could reach every ball and
+return it successfully, they would never lose, underscoring
+the importance of training effective footwork.
+Understanding crucial footwork in tennis is essential to
+knowing why athletes need to perform it properly and how to
+improve those movements. The split step (a quick jump from
+the ready position) enables athletes to position their legs and
+load weight effectively for an explosive takeoff (Ogunmah,
+2024). Through recent high-speed video analyses, Kovacs
+(2009) revealed that elite tennis players do not land both
+feet simultaneously during the split step. Instead, they begin
+their reaction while still airborne, typically landing first on
+the foot opposite their intended direction, followed closely
+by the other foot. This staggered landing pattern facilitates
+quicker directional changes and improved balance, enhancing
+a player’s ability to respond rapidly to the ball (Kovacs,
+2009). The asymmetrical split-step landing is a movement
+strategy unique to tennis, allowing players to initiate quicker
+directional changes on larger courts and harder surfaces,
+even when compared to other racquet sports (Shepherd
+& Sandercock, 2017), and requires deliberate attention in
+training.
+Immediately following the split step, tennis players choose
+how to approach the ball based on the situation after
+taking an explosive first step in the direction of the ball.
+The average tennis player sprints 3 meters each shot and
+changes direction 3–4 times per point throughout a match
+(Fernandez-Fernandez et al., 2014). Because of the size
+of the tennis court, first-step explosiveness is an essential
+element of tennis movement and also requires intentional
+development in context.
+After the split step and explosive step in the direction of the
+ball, tennis players will then engage in one of four stances to
+prepare them for making contact with the ball. There are four
+primary stances used in tennis when executing a groundstroke:
+open (Figure 1), semi-open (Figure 2), closed (Figure 3), and
+neutral (Figure 4). Open stance is a widely adopted footwork
+pattern in modern tennis and has become increasingly
+common across all court surfaces due to the rising pace of the
+game (ITPA, n.d.). Under time pressure, players often cannot
+step across with the opposite leg. Instead, they slide the
+outside leg toward the ball, which helps maintain balance and
+enables efficient recovery for the next shot (Adamthwaite,
+2021). The semi-open stance involves positioning the back
+foot diagonally behind the front foot, creating a stable base
+to load force and transfer explosive energy into the stroke
+(Gaby, 2020). Closed and neutral stances are often grouped
+together, as both position the front leg closer to the net.
+The closed stance is commonly used on the backhand side,
+helping players transfer their body weight into the shot for
+added control and power (ITPA, n.d.). The neutral stance is
+typically used when moving forward to attack an easier or
+shorter ball (Gaby, 2020).
+Figure 1. Open Stance.
+Figure 3. Closed Stance.
+Figure 2. Semi Open Stance.
+Figure 4. Neutral Stance.
+Once the players have completed their groundstroke, they
+will then engage in a recovery movement. In the recovery
+movement of tennis, players typically use two movement
+positions after hitting a groundstroke: the lateral shuffle and
+the lateral crossover. Kovacs (2009) asserts that the lateral
+crossover is more effective for covering greater distances
+and making quick directional changes. The lateral crossover
+is often used when a player is forced wide off the court
+and needs to cover more distance quickly to recover in the
+middle of the court (Reynolds, 2021). By pushing the ground
+explosively with the outside foot, tennis players can initiate
+a quick recovery movement. Conversely, the lateral shuffle is
+typically used when players have more time to recover and
+reposition before the next movement (Kovacs, 2009). Tennis
+players use a lateral shuffle to recover instead of running
+back because it is similar to the ready position, which allows
+them to transition to the split step immediately when their
+opponent returns the ball. If they run back to the middle, their
+opponent can easily hit the ball behind them, and it will be
+difficult for them to change direction to the back.
+Learning effective footwork is essential not only for optimal
+positioning on the court but also for improving energy
+efficiency and reducing the risk of injury (WTA Staff, 2019).
+In a fast-paced sport like tennis, players are required to make
+constant adjustments in direction, speed, and balance. By
+learning proper footwork technique, athletes can minimize
+the steps to cover the court, which enables them to conserve
+energy and maintain performance throughout a long match.
+Athletes with proper footwork technique and who keep their
+weight on the ball of their foot are better able to absorb and
+redirect forces during sudden stops, starts, and directional
+changes (Kovacs, 2009; WTA Staff, 2019). This control
+reduces the strain placed on joints and soft tissues, thereby
+lowering the risk of common overuse injuries such as ankle
+sprains, patellar tendinopathy, or knee ligament stress (Martin
+et al., 2023). Implementing footwork drills that develop foot
+control, movement efficiency, and proper landing mechanics
+can help athletes move more effectively while reducing stress
+on the body (Zhou et al., 2025).
+Strength and conditioning coaches can be a valuable resource
+for developing and training tennis-specific footwork.
+It is important to note the impact S&C coaches have on
+the overall development of youth tennis players to fully
+understand the critical role they can play in maximizing the
+effectiveness of footwork training. Their impact is evident in
+several areas such as improving physical qualities, minimizing
+the risk of injuries, building resilient athletes, and enhancing
+movement efficiency, among others (Baechle & Earle, 2021;
+Weldon et al., 2022).
+The development of speed, strength, and power plays a
+critical role in supporting effective footwork. Research has
+shown a strong correlation between muscular strength and
+both speed and power in youth athletes, which are qualities
+that directly translate to sport performance (Lloyd & Oliver,
+2012; Suchomel et al., 2016). While any physical activity
+carries inherent injury risk, structured strength training in
+youth has been associated with a reduced risk of injury by up
+to 50%, largely due to improvements in biomechanics, muscle
+strength, and functional movement (Lloyd et al., 2016). When
+implemented with proper periodization and adequate rest,
+strength and conditioning training provides a wide array of
+physical benefits that prepare young athletes for the demands
+of their sport.
+When designing a strength and conditioning program
+for tennis, it is essential to consider the sport’s physical
+demands, particularly the high volume of lateral and
+multidirectional movement (ITPA, n.d). Strength development
+is an essential component for effective change of direction
+(COD) performance. Strength contributes directly to the
+three phases of COD: eccentric strength for deceleration,
+isometric strength for planting, and concentric strength for
+re-acceleration (Spiteri et al., 2014). These qualities serve
+as the foundation for efficient footwork, which is crucial
+across many sports, including tennis. Long-term training
+appears especially effective.  A 12-week randomized
+controlled trial involving skilled male youth tennis players
+who performed functional resistance training three times per
+week demonstrated significant improvements in movement
+quality and technical skill performance (Xiao et al., 2025).
+The researchers noted that this type of structured training
+enhanced
+neuromuscular
+coordination
+and
+functional
+strength, which are essential for efficient force application
+during tennis-specific movements. These findings support
+the idea that implementing resistance early in an athlete’s
+development not only contributes to general health and
+injury prevention but also improves movement efficiency and
+enhances sport-specific performance outcomes.
+In addition to strength, power and speed are critical for
+optimizing COD. Tennis, for instance, involves lateral
+movements approximately 48% of the time (Parsons &
+Jones, 1998), making first-step quickness, acceleration,
+and lateral movement key determinants of performance
+(Salonikidis & Zafeiridis, 2008). Plyometric training, through
+enhancement of the stretch-shortening cycle, has been
+shown to significantly improve COD ability by increasing
+neuromuscular efficiency, rate of force development (RFD),
+and power output. A meta-analysis by Asadi et al. (2016)
+recommends plyometric programs lasting seven weeks,
+performed twice weekly with 100 jumps per session and 72
+hours of rest, to yield measurable gains in COD. Furthermore,
+speed itself is a strong predictor of COD performance.
+Jones et al. (2009) found that linear sprint speed accounted
+for 58% of the variance in COD ability among university
+athletes.  Similarly, Sinković et al. (2023) investigated young
+competitive tennis players and found that linear sprint
+performance over short distances was significantly correlated
+with COD speed and reactive agility, especially for reactive
+agility. These findings highlight that quicker acceleration over
+short sprints is associated with more effective directional
+changes in tennis. While speed is a key factor, COD training
+is also essential for developing technical movement patterns,
+such as deceleration mechanics, re-acceleration angles, and
+proper foot placement, that underline successful directional
+changes (Nimphius et al., 2016). These findings suggest
+that, particularly for developing athletes, a combination of
+targeted strength, speed, plyometric, and COD training can
+significantly enhance movement quality and performance by
+improving both physical capacity and skill execution.
+While strength and conditioning programs build a solid
+movement foundation, due to the unique emphasis in tennis
+on body positioning to strike the ball with optimal timing, it
+must be acknowledged that the patterns of COD and foot
+placement are distinct from those in other sports, and should
+be addressed accordingly (ITPA, n.d.; Kovacs, 2009; Shepherd
+& Sandercock, 2017). For example, a tennis player may need
+to decelerate rapidly in an open stance to reach a wide ball
+or continually reposition their shoulders, hips, and feet to
+achieve proper alignment for hitting or initiating movement.
+This contrasts with traditional COD training approaches,
+where athletes are typically taught to keep the hips square and
+toes facing forward to promote efficient transitions through
+braking, planting, and re-acceleration phases (Dos'Santos et
+al., 2019).
+While traditional COD principles and drills can improve
+general movement efficiency, not all of them fully transfer
+to tennis performance due to the sport’s unique demands
+on footwork and body positioning. Therefore, incorporating
+tennis-specific footwork patterns, movement strategies,
+and stances into strength and conditioning speed sessions
+adds significant value, particularly when introduced early
+in an athlete’s development (Reid et al., 2013). This aligns
+with long-term athletic development (LTAD) models, which
+emphasize the importance of early exposure to sport-specific
+movement competencies (Lloyd et al., 2016). By applying
+training that reflects the principle of transfer, coaches can
+better ensure that athletic gains translate to actual on-court
+performance (Baechle & Earle, 2021). This approach not only
+enhances movement efficiency but also lays the foundation
+for long-term competitive success through improved sportspecific movement skills.
+In addition, when youth tennis players work on footwork with
+their S&C coach, they can focus exclusively on movement
+mechanics without the distraction of other tennis elements,
+demonstrating the benefits when S&C coaches incorporate
+this responsibility into their training. While tennis coaches
+inherently incorporate footwork into their sessions, the
+primary focus often shifts to stroke technique, timing, ball
+contact, and targeting. As a result, footwork may not receive
+the full attention it requires. Dedicated footwork sessions
+with an S&C coach may help isolate and refine movement
+tennis and S&C coaches, going beyond basic communication
+to embrace a unified approach to language, timing, and goals
+(Gambetta, 2007). Shadow footwork drills serve as a powerful
+bridge between mechanics and match play, allowing players
+to rehearse technical patterns such as the split step, load,
+and recovery, without the distraction of the ball, thereby
+enhancing neuromuscular precision and body awareness
+(Elliott et al., 2009; Kovacs, 2009; Schöllhorn et al., 2009).
+On-court hybrid drills further this integration by combining
+physical and tactical elements; for instance, a medicine ball
+rotational throw followed by a cross-court forehand replicates
+the demands of explosive power into shot execution (Kovacs,
+2006). A shared vocabulary and consistent cueing across
+both departments, such as reinforcing a “low split and pushoff,” creates clarity and reinforces movement habits (USTA,
+2025). To maintain this alignment, weekly coaching meetings
+are essential for coordinating footwork themes, addressing
+player-specific needs, and ensuring that key movement skills
+are reinforced consistently across all practice environments
+(Gambetta, 2007). Additionally, it is vital for the S&C coach to
+develop a deep understanding of tennis-specific movement
+patterns through ongoing education. This knowledge
+enables more effective support of the technical aspects of
+footwork. With consistent messaging and unified efforts,
+every repetition becomes a step toward more efficient and
+effective movement.
+Implementing footwork in a strength and conditioning session
+While components like plyometrics, strength, speed, and
+endurance must be carefully tailored to an individual's age and
+developmental stage to provide adequate preparation, specific
+tennis footwork training has more flexibility, as it focuses more
+on coordination, agility, and movement patterns (Behm et al.,
+2008; Lloyd & Oliver, 2012; Kovacs, 2009). Since advanced
+players, regardless of age, tend to outperform novices in both
+tennis skill and tactical knowledge (McPherson & Thomas,
+1989), it is important to consider a youth athlete's skill level,
+not just age, when designing footwork programs as part of
+a strength and conditioning regimen. Tailoring footwork to
+the player's experience ensures appropriate challenge and
+transfer to on-court performance. Advanced players typically
+have a better grasp of the game and can understand more
+advanced tennis movements, allowing their footwork training
+to be more detailed (McPherson & Thomas, 1989; Reid et al.,
+2016). The progression from beginner to advanced tennis
+footwork training should follow a structured path designed
+to develop athletic foundations, enhance footwork efficiency,
+and ultimately improve on-court movement.
+At the beginner level, the emphasis is placed on building a
+strong foundation of general athletic movement. Most of the
+training should focus on fundamental athletic movements
+such
+as
+running
+mechanics,
+shuffling,
+acceleration,
+deceleration, and COD, prioritizing the development of agility,
+coordination, and reaction time (Lloyd & Oliver, 2012). In
+addition to these core athletic components, beginner training
+introduces tennis-specific footwork, including split-steps, first
+steps, recovery steps, and stance drills, with a focus on proper
+technique and execution to lay the groundwork for efficient
+movement and performance on the court (Kovacs, 2009).
+The volume of repetition remains low for specific footwork to
+ensure mastery of movement patterns and to maintain quality
+of the movement, consistent with recommendations for youth
+training emphasizing lower volume for technique focus (Behm
+et al., 2008; Faigenbaum et al., 2009). See Table 1.
+patterns, leading to more efficient court coverage, improved
+movement, and a reduced risk of injury (Kovacs, 2009). These
+sessions also help bridge the gap between general speed
+training and tennis-specific movement, reinforcing how
+these elements complement one another to enhance overall
+performance.
+Footwork training in tennis: A shared responsibility
+With the understanding that S&C professionals are essential
+not only for improving qualities that support overall athletic
+development but also valuable in enhancing tennis-specific
+footwork training, a recurring question emerges: Who should
+be responsible for training footwork, the tennis coach or the
+S&C coach? The answer is both. But it is the collaboration
+and clarity of roles that truly elevate an athlete’s movement
+to a world-class level. (Kovacs, 2006; United States Tennis
+Association [USTA], 2024, p.5).
+Footwork in tennis is a multifaceted skill. It blends technical
+execution, tactical awareness, and physical capacity. To build
+athletes who move efficiently and explosively, tennis coaches
+and S&C coaches must work together, bringing their unique
+expertise and aligning under a shared vision (Gambetta, 2007;
+ITPA, n.d).
+The tennis coach is responsible for teaching footwork as
+both a technical and tactical tool. This involves training
+movement patterns within tactical contexts, as footwork is
+never performed in isolation during a match, and it must be
+integrated with shot selection, court positioning, and strategic
+decision-making (ITPA, n.d.). For example, teaching recovery
+after a wide forehand should also include when and where
+to reposition based on the opponent’s possible responses.
+Footwork must also be embedded into drills and live play
+consistently reinforcing technical cues like split step, unit
+turn, and push-off as well as during basket-fed drills to openpoint scenarios, so that movement becomes an ingrained
+part of the athlete’s rhythm and match identity (USTA,
+2025). Once a solid foundation is built, coaches must adapt
+footwork to align with each player’s strengths, biomechanics,
+and playing style (Kovacs, 2006). Whether an athlete is an
+aggressive baseliner or a counterpuncher, their movement
+patterns should support how they plan to win points.
+The S&C coach supports and enhances on-court movement
+by developing the physical qualities that underpin footwork.
+This includes training tennis-specific footwork mechanics
+such as lateral shuffles, first step, crossover steps, stances,
+and reactive split steps, all performed efficiently and under
+game-like conditions, reinforcing the principle of specificity
+(NSCA, 2016). They also focus on developing the physical
+qualities that drive the elite movement, including acceleration,
+deceleration, coordination, and COD, through targeted speed
+and agility training focused on tennis mechanics (NSCA,
+2016; Yessis, 2006), helping to bridge general speed and COD
+drills with tennis-specific footwork. Additionally, the S&C
+coach targets the muscular structures that power movement,
+emphasizing the strength and reactivity of key muscles, not
+just for performance, but for durability throughout long
+matches and tournaments (Bompa & Haff, 2009; Yessis,
+2006).
+While both tennis and S&C coaches provide significant
+value to the development of tennis players and their
+footwork, collaboration is often the missing link in many
+tennis programs to maximize athlete development. The most
+effective programs are built on seamless integration between
+As players progress to the intermediate level, the focus shifts
+more evenly between general athletic fundamentals and
+tennis-specific footwork. Athletes begin to refine their COD
+skills and quickness while continuing to enhance movement
+efficiency and reduce wasted motion on the court (Lloyd &
+Oliver, 2012; Kovacs, 2009). Footwork-specific drills can be
+performed at moderate volume but high intensity, prioritizing
+precision and speed without sacrificing technique, in line
+with recommendations for progressive overload and skill
+refinement in youth athletic development (Behm et al., 2008;
+Faigenbaum et al., 2009).  See Table 2.
+Finally, at an advanced level, the goal is to maximize
+movement efficiency and sustain high-speed performance
+throughout matches. A greater portion of training can be
+devoted to tennis-specific movement drills, focusing on multidirectional movement patterns applied in high-intensity,
+game-like scenarios (Kovacs, 2009; Reid et al., 2016). This
+stage continues to reinforce general athletic fundamentals
+such as acceleration, deceleration, and COD to maintain a
+well-rounded physical profile (Lloyd & Oliver, 2012). Because
+athletes are highly skilled in these movements, footwork can
+be performed at high volumes and intensities, which sharpens
+court coverage and prepares players to move explosively and
+efficiently under the demands of competitive play (Behm et
+al., 2008; Faigenbaum et al., 2009).  See Table 3.
+Table  1
+Guidelines for Implementing footwork in a Strength and Conditioning
+session of Beginner Tennis Players.
+Beginner Level
+Drill Example
+Instructions
+General
+Athletic
+Movement
+(Main Focus at
+this level)
+Zig-Zag Shuffle drill +
+sprint back
+Start in an athletic
+stance and shuffle in a
+zig-zag pattern through
+the cones, then pivot
+and sprint backward to
+the start.
+Tennis-Specific
+Footwork
+(Introduction at
+this level)
+Split step to multidirection sprint
+to the cone with
+deceleration in any
+tennis stance to a
+lateral crossover step
+Perform a split step,
+and sprint to a cone,
+decelerate into a stable
+tennis stance (open,
+semi-open, closed, or
+neutral), and execute a
+single lateral crossover
+as a recovery step.
+Training Volume
+Low repetition
+volume for tennisspecific footwork
+drills to maintain
+quality execution
+and technical
+development, while
+keeping effort
+intensity high.
+Example: 6 sets 1 rep
+for Tennis-Specific
+Footwork
+Table  2
+Guidelines for Implementing footwork in a Strength and Conditioning
+session of Intermediate Tennis Players.
+Intermediate
+Level
+Drill Example
+Instructions
+General Athletic
+Movement
+(Main Focus at this
+level)
+Zig-Zag Shuffle
+drill + sprint
+to 1 lateral
+crossover to
+shuffle back
+(sprint 10
+yards – lateral
+crossover to
+shuffle 5 yards)
+Start in an athletic
+stance and shuffle in a
+zig-zag pattern through
+the cones, then sprint
+10 yards, focusing
+on acceleration, and
+transition into a lateral
+crossover to shuffle back
+for 5 yards
+Tennis-Specific
+Footwork
+(Main Focus at this
+level)
+Medicine Ball
+or Shadow
+forehand or
+backhand stroke
+Drill
+Start in an athletic stance
+with a medicine ball
+or racquet for shadow
+strokes, perform a split
+step, and move into a
+forehand or backhand
+motion, decelerating into
+a stable tennis stance
+(open, semi-open, closed,
+or neutral), and recover
+with a lateral crossover
+to shuffle back to the
+starting position.
+Training Volume
+Moderate
+repetition
+volume for
+tennis-specific
+footwork drills
+prioritizing
+precision and
+speed without
+sacrificing
+technique, while
+keeping effort
+intensity high
+Example: 6 sets of 3-4
+reps for Tennis-Specific
+Footwork. *Collaboration
+drills, like medicine ball/
+shadow strokes followed
+by live feeding, are
+effective at this stage.
+Table  3
+Guidelines for Implementing footwork in a Strength and Conditioning
+session of Advanced Tennis Players.
+Advanced Level
+Drill Example
+Instructions
+General Athletic
+Movement
+(Maintenance at
+this level)
+Zig-Zag Shuffle
+drill + sprint to
+1 cross-over to
+shuffle back (sprint
+10 yards – Lateral
+crossover to shuffle
+5 yards) *Add
+Shadow strokes
+Start in an athletic
+stance and shuffle in a
+zig-zag pattern through
+the cones, performing
+a shadow forehand or
+backhand at each cone,
+then sprint 10 yards,
+focusing on acceleration
+and transition into a
+lateral crossover to
+shuffle back for 5 yards
+Tennis-Specific
+Footwork
+(Main Focus at
+this level)
+Medicine Ball or
+Shadow forehand
+or backhand
+stroke Drill - with
+resistance bungee
+band
+Start in an athletic stance
+with a medicine ball
+or racquet for shadow
+strokes and a resistance
+bungee band for added
+intensity. Perform a split
+step, and move into a
+forehand or backhand
+motion, decelerating into
+a stable tennis stance
+(open, semi-open, closed,
+or neutral), and recover
+with a lateral crossover
+to shuffle back to the
+starting position.
+Training Volume
+High repetition
+volume for tennisspecific footwork
+drills to improve
+court coverage and
+prepare players to
+move explosively
+and efficiently
+under the demands
+of competitive
+play, while keeping
+effort intensity high
+Example: 6 sets 6-8
+reps for Tennis-Specific
+Footwork *Collaboration
+drills like medicine ball/
+shadow strokes, followed
+by live feeding, are
+effective at this stage.
+It is relevant to note that both speed and specific tennis
+footwork are consistently included in the strength and
+conditioning program from beginner to advanced levels. What
+differs is the proportion of each and the intensity, depending
+on the athlete's skill level. The more advanced the player, the
+greater the emphasis on specific footwork training to match
+the demands of high-level play (Lloyd & Oliver, 2012; Kovacs,
+2009; Reid et al., 2016).
+CONCLUSION
+Footwork is not just a technical component of tennis; it is a
+physical skill that supports every aspect of performance on
+the court. Ignoring it in strength and conditioning programs
+leaves a critical gap in the athletic development of youth
+tennis players. Both tennis and strength and conditioning
+professionals share responsibility for developing efficient,
+sport-specific movement patterns, and collaboration between
+the two is essential. S&C coaches must embrace footwork as
+a core element of their programming, integrating with speed,
+strength, and power training. When footwork is treated as
+a foundational aspect of physical development, athletes are
+better prepared to move efficiently, react faster, and execute
+with greater precision. By building sport-specific movement
+literacy early on, specificity becomes the foundation that
+allows players to gain the agility, coordination, adaptability,
+and understanding needed to succeed on court. Specific
+footwork is not just a technical necessity; it is a strategic
+investment in a player's future.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare no conflict of interest and confirm that
+no funding was received for this research.
+RERERENCES
+Adamthwaite, T. (2021, November 8). Brief introduction to tennis stances.
+SiamSportsPro. https://siamsports.pro/brief-introduction-to-tennis-stances
+Asadi, A., Arazi, H., Young, W. B., & de Villarreal, E. S. (2016). The effects of
+plyometric training on change-of-direction ability: A meta-analysis.
+International Journal of Sports Physiology and Performance, 11(5), 563–
+573. https://doi.org/10.1123/ijspp.2015-0694
+Baechle, T. R., & Earle, R. W. (Eds.). (2021). Essentials of strength training and
+conditioning (4th ed.). Human Kinetics.
+Behm, D. G., Faigenbaum, A. D., Falk, B., & Klentrou, P. (2008). Canadian Society
+for Exercise Physiology position paper: Resistance training in children and
+adolescents. Applied Physiology, Nutrition, and Metabolism, 33(3), 547–
+561. https://doi.org/10.1139/H08-020
+Bompa, T. O., & Haff, G. G. (2009). Periodization: Theory and methodology of
+training (5th ed.). Human Kinetics.
+Broudy, J. (1997). The real spin on tennis: Grasping the mind, body, and soul of
+the game. ICS Books.
+Dos'Santos, T., Thomas, C., Comfort, P., & Jones, P. A. (2019). The role of the
+penultimate foot contact during change of direction: Implications on
+performance and risk of injury. Strength & Conditioning Journal, 41(1),
+87–104. https://doi.org/10.1519/SSC.0000000000000425
+Elliott, B., Reid, M., & Crespo, M. (2009). Technique development in tennis
+stroke production. International Tennis Federation.
+Faigenbaum, A. D., Kraemer, W. J., Blimkie, C. J. R., et al. (2009). Youth resistance
+training: Updated position statement paper from the National Strength and
+Conditioning Association. Journal of Strength and Conditioning Research,
+23(5 Suppl), S60–S79. https://doi.org/10.1519/JSC.0b013e31819df407
+Feingold, P. (2017, August 31). Footwork is more important than stroke
+technique. New York Tennis Magazine. https://newyorktennismagazine.
+com/article/footwork-more-important-stroke-technique/
+Fernandez-Fernandez, J., Ulbricht, A., & Ferrauti, A. (2014). Fitness testing
+of tennis players: How valuable is it? British Journal of Sports Medicine,
+48(Suppl 1), i22–i31. https://doi.org/10.1136/bjsports-2013-093152
+Gaby. (2020, December 18). Learn 4 basic tennis stances for forehand and
+backhand. Fit In Tennis. https://fitintennis.com/learn-4-basic-tennisstances-for-forehand-and-backhand/
+Gambetta, V. (2007). Athletic development: The art & science of functional
+sports conditioning. Human Kinetics.
+International Tennis Performance Association (ITPA). (n.d.). CTPS certification
+materials. https://www.itpa-tennis.org/
+Jones, P. A., Bampouras, T., & Marrin, K. (2009). An investigation into the
+physical determinants of change of direction speed. Journal of Sports
+Medicine and Physical Fitness, 49(1), 97–104. https://pubmed.ncbi.nlm.
+nih.gov/19188902/
+Kovacs, M. S. (2006). Applied physiology of tennis performance. British
+Journal of Sports Medicine, 40(5), 381–386. https://doi.org/10.1136/
+bjsm.2005.023309
+Kovacs, M. S. (2007). Tennis physiology: Training the competitive athlete.
+Sports Medicine, 37(3), 189–198. https://doi.org/10.2165/00007256200737030-00001
+Kovacs, M., Chandler, W. B., & Chandler, T. J. (2007). Tennis training: Enhancing
+on-court performance. Racquet Tech Publishing.
+Kovacs, M. S. (2009). Movement for tennis: The importance of lateral training.
+Strength and Conditioning Journal, 31(4), 77–85. https://doi.org/10.1519/
+SSC.0b013e3181afe806
+Lloyd, R. S., Cronin, J. B., Faigenbaum, A. D., Haff, G. G., Howard, R., Kraemer,
+W. J., & Oliver, J. L. (2016). National Strength and Conditioning Association
+position statement on long-term athletic development. Journal of Strength
+and Conditioning Research, 30(6), 1491–1509. https://doi.org/10.1519/
+JSC.0000000000001387
+Lloyd, R. S., Faigenbaum, A. D., Stone, M. H., Oliver, J. L., Jeffreys, I.,
+Moody, J. A., Howard, R., & Myer, G. D. (2015). Position statement on
+youth resistance training: The 2014 International Consensus. British
+Journal of Sports Medicine, 49(4), 241–247. https://doi.org/10.1136/
+bjsports-2014-093524
+Lloyd, R. S., & Oliver, J. L. (2012). The youth physical development model: A new
+approach to long-term athletic development. Strength and Conditioning
+Journal, 34(3), 61–72. https://doi.org/10.1519/SSC.0b013e31825760ea
+Martin, C., Micallef, J. P., Radziszewski, M., & Dorel, S. (2023). Influence of shoe
+torsional stiffness on foot and ankle biomechanics during tennis forehand
+strokes. European Journal of Sport Science, 23(2), 211–220. https://doi.or
+g/10.1080/17461391.2022.2153232
+McPherson, S. L., & Thomas, J. R. (1989). Relation of knowledge and performance
+in boys’ tennis: Age and expertise. Journal of Experimental Child Psychology,
+48(2), 190–211. https://doi.org/10.1016/0022-0965(89)90002-7
+National Strength and Conditioning Association (NSCA). (2016). Essentials of
+strength training and conditioning (4th ed.). Human Kinetics.
+Nimphius, S., Callaghan, S. J., Spiteri, T., & Lockie, R. G. (2016). Change of direction
+deficit: A more isolated measure of change of direction performance than
+total time. Journal of Strength and Conditioning Research, 30(2), 302–
+305. https://doi.org/10.1519/JSC.0000000000001111
+Ogunmah, V. (2024, July 10). Why footwork is the secret weapon of top
+athletes. Silicon Valley Tennis Academy. https://siliconvalleytennis.com/
+why-footwork-is-the-secret-weapon-of-top-athletes/
+Parsons, L. S., & Jones, M. T. (1998). Development of speed, agility, and
+quickness for tennis athletes. Strength and Conditioning Journal, 20(3),
+14. https://doi.org/10.1519/1073-6840(1998)020&lt;0014:dosaaq&gt;2
+.3.co;2
+Reid, M., Crespo, M., & Santilli, L. (2013). The importance of footwork in tennis:
+Implications for training and performance. International Tennis Federation
+Coaching and Sport Science Review, 60(21), 9–11.
+Reid, M., Morgan, S., & Whiteside, D. (2016). Matchplay characteristics of
+Grand Slam tennis: Implications for training and conditioning. Journal of
+Sports Sciences, 34(19), 1791–1798. https://doi.org/10.1080/02640414
+.2015.1136051
+Reynolds, R. (2021, April 18). Tennis footwork - foundation of tennis basics.
+Tennis Nation Racquet Sports. https://www.tennisnation.com/lessonsclasses/ultimate-tennis-footwork-guide/
+Roetert, E. P., Kovacs, M. S., & Ellenbecker, T. S. (2016). Complete conditioning
+for tennis (2nd ed.). Human Kinetics.
+Salonikidis, K., & Zafeiridis, A. (2008). The effects of plyometric, tennisdrills, and combined training on reaction, lateral and linear speed,
+power, and strength in novice tennis players. The Journal of Strength
+& Conditioning Research, 22(1), 182–191. https://doi.org/10.1519/
+JSC.0b013e31815f57ad
+Schöllhorn, W. I., Hegen, P., & Davids, K. (2009). The nonlinear nature of
+learning: A differential learning approach. The Open Sports Sciences
+Journal, 2, 1–8. https://doi.org/10.2174/1875399X00902010001
+Shepherd, S. O., & Sandercock, G. R. (2017). Movement demands in racket
+sports: A comparison of badminton, squash, and tennis. Journal of Sports
+Sciences, 35(3), 232–238.
+Sinkovic, F., Novak, D., Foretic, N., Kim, J., & Subramanian, S. V. (2023). The
+plyometric treatment effects on change of direction speed and reactive
+agility in young tennis players: A randomized controlled trial. Frontiers in
+Physiology, 14, 1226831. https://doi.org/10.3389/fphys.2023.1226831
+Spiteri, T., Nimphius, S., Hart, N. H., Specos, C., Sheppard, J. M., & Newton, R. U.
+(2014). Contribution of strength characteristics to change of direction and
+agility performance in female basketball athletes. The Journal of Strength
+& Conditioning Research, 28(9), 2415–2423.
+Suchomel, T. J., Nimphius, S., & Stone, M. H. (2016). The importance of muscular
+strength in athletic performance. Sports Medicine, 46(10), 1419–1449.
+https://doi.org/10.1007/s40279-016-0486-0
+United States Tennis Association. (2024). USTA training block recommendations
+for high-performance tennis players (p. 5). USTA Player Development
+https://www.playerdevelopment.usta.com/Strength_Conditioning
+United States Tennis Association. (2025). Strength & Conditioning: Tennis
+Specific Drills to Improve Quickness On Court. USTA Player Development.
+https://www.playerdevelopment.usta.com/Strength_Conditioning
+Weldon, A., Duncan, M. J., Turner, A. N., Lockie, R. G., & Loturco, I. (2022).
+Practices of strength and conditioning coaches in professional sports:
+A systematic review. Biology of Sport, 39(3), 715–726. https://doi.
+org/10.5114/biolsport.2022.107480
+WTA Staff. (2019, January 24). Fit for tennis: The importance of footwork
+and how to improve it. WTA Tennis. https://www.wtatennis.com/
+news/1443726/fit-for-tennis-the-importance-of-footwork-and-how-toimprove-it
+Xiao, W., Bu, T., Zhao, F., Zhang, J., Bai, X., & Geok, S. K. (2025). Effects of
+functional training on skill performance and movement quality among
+skilled youth male tennis players: A cluster randomized control trial. BMC
+Sports Science, Medicine and Rehabilitation, 17, Article 43. https://doi.
+org/10.1186/s13102-025-01085-7
+Yessis, M. (2006). Build a better athlete: What’s wrong with American sports
+and how to fix it. Trafford Publishing
+Zhou, Y., Bai, Y., Liang, Y., Yang, K., & Yang, Y. (2025). Effects of neuromuscular
+training on tennis players: A systematic review and meta-analysis. BMC
+Sports Science, Medicine and Rehabilitation, 17, Article 172. https://doi.
+org/10.1186/s13102-025-01219-x
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2025 Giovanna Ramos, Juanjo Climent, Kyosuke Kiuchi & Gillian Brennan
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix, transform, and
+build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms

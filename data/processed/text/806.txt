@@ -1,0 +1,665 @@
+Title: Managing Heat Risk in Wheelchair Tennis: An Evidence-Informed Decision Framework Integrating Competition Rules and Athlete-Specific Risk
+Authors: Shion Hotta
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 806
+
+Introduction
+Tennis schedules can expose players to prolonged
+intermittent exercise in hot and humid conditions.
+Environmental heat strain can impair performance
+and, in severe cases, contribute to exertional heat
+illness. Contemporary guidance therefore treats
+heat management as a shared responsibility among
+athletes, coaches, medical personnel, officials, and
+tournament organisers rather than as a matter of
+hydration alone (Pluim et al., 2026; Racinais et al.,
+2023). This is particularly important in wheelchair
+tennis, where tennis-specific demands interact with
+heterogeneous impairments, wheelchair propulsion,
+and potentially altered thermoregulatory function.
+Heat risk is not uniform among wheelchair tennis
+players. Athletes with SCI may have reduced sweating
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 102-110
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.806
+Managing heat risk in wheelchair tennis: An evidenceinformed decision framework integrating competition
+rules and athlete-specific risk
+Shion Hotta1,2
+1 The University of Tokyo Hospital, Tokyo, Japan
+2 Keio University School of Medicine, Tokyo, Japan.
+Abstract
+Heat-risk management in wheelchair tennis requires coordination between tournament procedures
+and athlete-specific assessment, but rules and evidence address different parts of the problem. This
+targeted narrative review combined PubMed searches, reference tracing, wheelchair-tennis literature,
+broader spinal cord injury (SCI) and Para sport evidence, general tennis research, and current ITF
+regulations. Direct evidence was sparse and based mainly on small observational or crossover studies.
+Cooling generally reduced physiological or perceptual thermal strain more consistently than improved
+performance. Broader evidence indicated variation associated with thermoregulatory function, lesion
+characteristics, previous heat response, health status, acclimation, hydration, and cooling access. The
+2026 ITF regulations provide tournament-level environmental triggers and procedures for modifying or
+suspending play, but they do not define individual medical safety. The proposed framework therefore
+separates tournament-level triggers from athlete-specific risk and assigns time-sequenced actions to
+players, coaches, officials, tournament organisers, and medical personnel. It distinguishes rule-based
+requirements, evidence-informed recommendations, conditional practical considerations, and medical
+escalation. The framework supports transparent decision-making but is not a validated predictor of
+safety or performance.
+Key words: thermoregulation; spinal cord injury; Para sport; wet-bulb globe temperature.
+Received: 15 July 2026. Accepted: 20 August 2026.
+Corresponding author: Shion Hotta, shotta@g.ecc.u-tokyo.ac.jp
+and cutaneous vasodilation below the lesion because
+autonomic pathways are disrupted; responses vary
+with lesion level, completeness, preserved sweating
+capacity and surface area, and exercise conditions
+(Griggs et al., 2015; Grossmann et al., 2021; Price,
+2006). Wheelchair tennis also includes athletes
+without SCI, and diagnosis alone does not determine
+risk. Previous heat illness, current health, acclimation,
+hydration,
+environmental
+exposure,
+medication
+use requiring clinical consideration, and access to
+cooling may further modify preparation and response.
+Individual assessment should therefore complement
+impairment-related knowledge.
+Wheelchair-tennis-specific evidence remains limited.
+A field pilot involving eight players found a somewhat
+larger increase in core temperature among players
+with SCI than among those without SCI, but the
+Methods
+Design and scope
+This article is a targeted narrative review with
+evidence-informed practical framework synthesis.
+This design was selected because the objective was
+to translate a small and heterogeneous evidence
+base, together with current competition rules, into
+role-specific actions rather than to estimate a pooled
+intervention effect or claim exhaustive coverage.
+The article is therefore not presented as a systematic
+review or meta-analysis.
+The review considered four source groups: wheelchairtennis-specific studies; research involving athletes or
+physically active people with SCI or closely related
+impairments; transferable general tennis and Para
+sport evidence; and current regulations, consensus
+statements, and official health-care guidance.
+Literature identification
+Targeted PubMed searches were conducted on
+3 August 2026 using combinations of the terms
+“wheelchair tennis”, “heat”, “thermoregulation”,
+“cooling”, “hydration”, “spinal cord injury”, “Para
+athlete”, “tennis”, and “wet-bulb globe temperature”.
+Key wheelchair-tennis and SCI reviews were used
+for backward citation tracing, and related PubMed
+records were checked for more recent studies. The
+WTCSSR archive and the official ITF and IOC websites
+were searched for tennis-specific reviews, current
+regulations, and health-care guidance.
+Sources were included when they informed heat
+strain or thermoregulatory function; impairment- or
+athlete-related risk modifiers; preparation, hydration,
+cooling,
+symptom
+recognition,
+withdrawal,
+or
+recovery; environmental thresholds and competition
+procedures; or stakeholder roles and authority.
+Commercial or unverifiable material was excluded.
+Evidence from adjacent populations was used only
+when the transfer pathway to wheelchair tennis could
+be stated explicitly.
+Source selection and synthesis
+The author prioritised direct wheelchair-tennis
+evidence, followed by SCI or closely related wheelchairsport evidence, broader Para sport evidence, general
+tennis evidence, and authoritative rules or guidance.
+Bibliographic details and manuscript claims were
+checked against PubMed records, available full texts,
+publisher pages, or official documents. No formal
+study-flow count, independent dual screening, or
+formal risk-of-bias scoring was undertaken, and the
+review does not claim systematic completeness.
+Findings were extracted narratively for population,
+impairment characteristics, environmental conditions,
+intervention or exposure, thermoregulatory and
+perceptual outcomes, performance outcomes, practical
+small sample and moderate conditions precluded
+firm inference (Veltmeijer et al., 2014). Girard (2015)
+reviewed
+thermoregulation
+and
+practical
+heat
+management in wheelchair tennis, emphasising both
+potential vulnerability and the scarcity of direct
+evidence. Ice-slurry ingestion subsequently reduced
+physiological and perceived thermal strain during
+repeated wheelchair sprints in the heat without
+improving repeated-sprint performance (Stephenson
+et al., 2022). Broader SCI and Para sport research
+suggests potential benefits of selected cooling and
+preparation strategies but also shows heterogeneous
+responses and incomplete implementation (Alkemade,
+Daanen, et al., 2023; O'Brien et al., 2022). Many
+practical actions must therefore rely on adjacent
+evidence or authoritative guidance rather than direct
+match-play trials.
+Competition rules provide a distinct source of decision
+support. Appendix K of the 2026 ITF Wheelchair Tennis
+Competition Regulations specifies on-court wet-bulb
+globe temperature (WBGT) thresholds for modifying
+and suspending play, measurement procedures, and a
+player-requested 15-minute break under modification
+conditions (International Tennis Federation [ITF],
+2026). These provisions create tournament-level
+triggers and allocate formal authority. They do not
+establish that every athlete is medically safe below a
+threshold or explain how players, coaches, and medical
+personnel should integrate impairment-related risk,
+preparation, symptoms, and available resources.
+Conversely, an individual athlete's elevated risk does
+not transfer formal authority to suspend an event.
+The
+IOC
+consensus
+statement
+emphasised
+environmental monitoring, event logistics, athlete
+preparation, medical readiness, and collaboration
+among organisers, federations, athletes and their
+entourages, and medical teams (Racinais et al., 2023).
+A recent tennis-specific panel similarly called for
+harmonised yet differentiated heat policies, including
+for wheelchair athletes (Pluim et al., 2026). Targeted
+PubMed searching and citation tracing did not
+identify a wheelchair-tennis-specific framework that
+separates tournament-level environmental triggers
+from impairment- and athlete-specific risk, makes the
+directness of supporting evidence transparent, and
+translates both layers into role-specific actions across
+competition phases.
+Accordingly, this targeted narrative review aimed to
+integrate evidence on heat strain, thermoregulatory
+impairment, and heat mitigation with the 2026 ITF
+regulations and to develop an evidence-informed
+decision framework for wheelchair tennis. The
+framework distinguishes tournament-level triggers
+from individual risk, indicates the directness of
+evidence supporting each action, and organises
+responsibilities
+for
+players,
+coaches,
+officials,
+tournament organisers, and medical personnel before,
+during, and after play.
+Results
+Evidence base identified by targeted searching
+Targeted PubMed searching and citation tracing
+identified a small core of directly relevant wheelchairtennis evidence: a cooling crossover study, a related
+single-athlete case report involving a similar cooling
+approach, an eight-player field pilot, an ice-slurry
+crossover trial, and a wheelchair-tennis-specific expert
+commentary (Diaper & Goosey-Tolfrey, 2009; Girard,
+2015; Goosey-Tolfrey et al., 2008; Stephenson et al.,
+2022; Veltmeijer et al., 2014). The cooling component
+of the case report was treated as contextual rather
+than independent confirmation because it used a
+similar cooling approach. The search also identified
+mixed-sport Para-athlete studies, SCI syntheses,
+general tennis studies, current ITF documents, and
+a 2024 systematic review showing that wheelchairtennis match-demand evidence is concentrated in
+international male players on hard courts (Williamson
+et al., 2024).
+The evidence underpinning each action domain is
+summarised in Table 1.
+limitations, and transferability. Official documents
+were reviewed for version, scope, environmental
+thresholds, procedures, actors, decision authority,
+timing, and escalation points. Missing information
+was not imputed.
+Framework development
+Evidence was organised by population directness:
+direct wheelchair-tennis evidence; SCI or closely
+related wheelchair-sport evidence; other Para sport or
+general tennis evidence; and authoritative regulations
+or guidance. Actions were then classified as rule-based
+requirements, evidence-informed recommendations,
+conditional practical considerations, or medical
+assessment and escalation. Regulatory authority was
+not treated as proof of physiological effectiveness,
+and scientific evidence was not treated as conferring
+tournament-wide decision authority.
+The synthesis mapped tournament-level triggers,
+athlete-specific risk modifiers, mitigation options,
+and role-specific actions across competition phases.
+No meta-analysis or statistical vote counting was
+performed. Actions were included only when they could
+be traced to a rule, a scientific source, an authoritative
+guideline, or an explicitly labelled practical inference.
+Table 1. Evidence map underpinning the wheelchair-tennis heat-risk framework.
+Action
+domain
+Direct wheelchair-tennis
+evidence
+Transferred evidence /
+authority
+Practical implication
+and limits
+Individual risk
+Eight-player field pilot; direct
+data too small for thresholds
+(Veltmeijer et al., 2014).
+SCI reviews; Para-athlete studies
+(Grossmann et al., 2021; Alkemade,
+de Korte, et al., 2023).
+Use function- and athletespecific assessment. Do not
+equate wheelchair use or
+diagnosis with a uniform risk.
+Cooling
+Head/neck cooling
+programme; single-athlete
+case report; ice-slurry trial
+(Goosey-Tolfrey et al., 2008;
+Diaper & Goosey-Tolfrey,
+2009; Stephenson et al., 2022).
+SCI cooling meta-analysis and
+review (Griggs et al., 2015; O'Brien
+et al., 2022).
+May reduce physiological
+or perceptual strain;
+performance benefits
+and an optimal method
+are unproven. Rehearse
+tolerance and logistics.
+Hydration and
+preparation
+Cooling study showed lower
+fluid intake with cooling; the
+targeted search identified no
+wheelchair-tennis-specific
+fixed fluid-intake prescription
+(Goosey-Tolfrey et al., 2008).
+IOC consensus; Para-athlete
+preparedness survey (Racinais et
+al., 2023; Alkemade, Daanen, et al.,
+2023).
+Plan individually; cooling
+does not replace drinking,
+acclimation, symptom
+monitoring, or medical
+advice.
+Environmental
+procedures
+No direct trial identified in
+this review established a
+wheelchair-tennis-specific
+medical threshold.
+2026 ITF Appendix K: WBGT
+measurement, modification, breaks,
+suspension, immediate suspension,
+and Quad-specific resources.
+Treat thresholds as
+tournament-operational
+triggers, not individual
+clearance criteria.
+Roles and
+escalation
+No validated wheelchairtennis stakeholder algorithm
+was identified in the targeted
+search.
+ITF rules and health-care
+standards; IOC consensus; tennis
+panel (ITF, 2025, 2026; Pluim et al.,
+2026; Racinais et al., 2023).
+Separate rule authority,
+coaching support, player
+withdrawal, and medical
+assessment; framework
+is organisational, not
+validated.
+Note. Evidence directness and regulatory authority are separate dimensions. Direct evidence remains sparse and heterogeneous.
+32.2°C. Shade and ice buckets must be available on
+court for Quad players.
+These provisions are operational triggers, not
+individual medical safety thresholds. SCI syntheses
+show that thermal strain varies with neurological level,
+completeness, preserved sweating capacity and surface
+area, and autonomic function. Grossmann et al. (2021)
+reviewed 32 studies and found the greatest burden
+among participants with higher lesions or tetraplegia.
+O'Brien et al. (2022) found that cooling reduced core
+temperature, skin temperature, and thermal sensation
+overall, with larger effects at higher lesion levels. The
+evidence therefore supports functional and athletespecific assessment rather than assumptions based on
+wheelchair use or diagnosis alone.
+Mitigation and framework synthesis
+The evidence did not support cooling as a substitute
+for hydration, preparation, symptom monitoring,
+or regulatory action. Broader Para sport evidence
+suggested potential roles for acclimation, pre-cooling,
+per-cooling, and skin wetting in selected athletes but
+also showed heterogeneous responses. Among 107
+Paralympic athletes, 57% reported previous heatstress symptoms and 9% reported medically diagnosed
+exertional heat illness; heat acclimation and cooling
+were not universally used (Alkemade, Daanen, et
+al., 2023). General tennis data likewise suggested
+differences in access to and use of strategies according
+to competitive level and environment (Robin et al.,
+2024).
+The framework retained two non-interchangeable
+layers. The tournament layer comprises environmental
+measurement, communication, schedule modification,
+breaks, suspension, and required resources. The
+athlete layer comprises previous heat response,
+thermoregulatory function, health and medication
+considerations,
+acclimation,
+hydration,
+feasible
+cooling, current symptoms, and access to medical
+assessment. Tournament organisers and officials
+establish and operate the event system; players,
+coaches, and medical personnel establish individual
+precautions and respond to deterioration. Individual
+withdrawal or medical escalation may be necessary
+below a tournament-wide threshold, but individual
+concern does not alter the formal suspension authority
+assigned by the regulations.
+The synthesis supported three practical conclusions:
+tournament-level triggers and athlete-specific risk
+are both necessary but non-substitutable; practical
+actions draw on evidence of differing directness; and
+responsibilities are distributed across stakeholders and
+phases while formal authority remains concentrated
+in designated tournament and medical roles.
+Role- and phase-specific actions are summarised in
+Table 2.
+Wheelchair-tennis-specific evidence
+In a crossover trial, eight highly trained wheelchairtennis players completed two 60-minute intermittent
+sprint sessions at 30.4 ± 0.6°C, with and without headand-neck cooling (Goosey-Tolfrey et al., 2008). Fluid
+intake was lower with cooling (700 ± 393 mL compared
+with 1,198 ± 675 mL; p = .042). Thermal sensation
+and perceived exertion were numerically lower with
+cooling, but the differences were not statistically
+significant. Participants were mildly dehydrated on
+average, suggesting that improved thermal comfort
+may not ensure adequate fluid intake.
+The related case report of a world-class female player
+with incomplete SCI illustrated the feasibility of
+combining pre-cooling with head-and-neck cooling
+during a simulated one-hour protocol. Thermal
+sensation was lower and peak sprint speed was better
+maintained, but the single-participant design and its
+use of a similar cooling approach to the 2008 study
+precluded treatment as independent confirmatory
+evidence (Diaper & Goosey-Tolfrey, 2009; GooseyTolfrey et al., 2008). At the 2013 British Open,
+Veltmeijer et al. (2014) monitored eight players in
+moderate conditions (WBGT, 18–20°C). Usable coretemperature data were available for two players
+with SCI and four without SCI; increases were 0.6 ±
+0.1°C and 0.3 ± 0.1°C, respectively. The sample and
+environmental exposure were insufficient to establish
+a threshold or causal conclusion.
+In a subsequent trial at approximately 32°C, ice-slurry
+ingestion lowered gastrointestinal and forehead
+temperatures, thermal sensation, and sweat rate but
+did not improve repeated 20-m sprint performance
+(Stephenson et al., 2022). Across the direct studies,
+cooling effects were more consistent for physiological
+or perceptual strain than for performance, and no
+single superior match-play strategy was identified.
+A mixed-sport study including wheelchair-tennis
+and para-cycling athletes found that hot-humid
+conditions reduced maximal exercise performance,
+but the heterogeneous sports and impairments did not
+permit a wheelchair-tennis-specific effect estimate
+(Alkemade, de Korte, et al., 2023).
+Tournament-level triggers and athlete-specific
+risk
+Appendix K of the 2026 ITF regulations specifies
+modification of play at an on-court WBGT of 28.0°C
+or higher, suspension at 30.1°C or higher, and
+immediate suspension at 32.2°C or higher (ITF,
+2026). Measurements should be taken at least three
+times daily and ideally every two hours by the ITF
+Supervisor, Tournament Director, or a designee.
+Under modification conditions, players may request a
+15-minute break between the second and third sets.
+Suspension at 30.1°C takes effect at the end of the
+set, whereas play must be suspended immediately at
+Figure 1. Two-layer decision architecture for heat-risk management in wheelchair tennis.
+Note. Tournament-level actions are governed by environmental monitoring and competition rules, whereas athlete-level actions depend
+on individual thermoregulatory function, health modifiers, preparation, and symptoms. The layers interact but are not interchangeable:
+tournament thresholds do not establish individual medical safety, and individual risk does not transfer formal authority to suspend an
+event.
+Table 2. . Role- and phase-specific actions for heat-risk management in organised wheelchair tennis.
+Stakeholder
+Before play
+During play / when triggered
+After play / recovery
+Player
+[E/M] Review previous heat
+responses, thermoregulatory
+function, health, acclimation,
+hydration and same-day load.
+Rehearse tolerated fluids/
+cooling and communicate the
+plan.
+[E/C] Use rehearsed mitigation at
+permitted opportunities; report
+symptoms promptly. [R] Request
+the 15-minute break when
+applicable. [E/M] Stop or withdraw
+and seek assessment for concerning
+symptoms, irrespective of the
+tournament threshold.
+[E/M] Cool, rehydrate and
+reassess; seek follow-up
+after persistent or severe
+symptoms and revise the
+plan before the next match.
+Coach
+[E/C] Support preparation,
+supplies, timing,
+communication and
+contingencies without
+prescribing beyond
+competence.
+[E/C] Observe cognition, behaviour,
+coordination and performance
+change; facilitate permitted
+mitigation. [C/M] Communicate
+concern, support withdrawal and
+medical escalation; do not claim
+official or clinical authority.
+[E/C] Support recovery
+logistics, document
+relevant observations and
+arrange referral when
+indicated.
+Officials and
+tournament
+decisionmakers
+[R] Confirm the current
+Appendix K procedure,
+communication route and the
+distinct roles of the chair/offcourt umpire, ITF Supervisor
+and Tournament Director.
+[R] The chair or off-court umpire
+notifies players and applies the
+permitted-break procedure. The
+ITF Supervisor and/or Tournament
+Director makes or implements
+authorised delay, modification,
+suspension and resumption
+decisions at the rule-specified time.
+Summon medical assistance and
+respect a player's decision to stop.
+[R/C] Record and report
+official decisions, actions
+and incidents as applicable.
+Tournament
+organiser
+[R] Ensure that required
+environmental-monitoring
+equipment, authorised
+personnel, medical cover,
+water, ice, shade, an emergency
+plan and a transport route are
+available.
+[R/C] Support the ITF Supervisor,
+Tournament Director or authorised
+designee in conducting and
+communicating on-court
+measurements; maintain resources,
+including Quad-specific shade
+and ice; and implement the
+operational arrangements required
+after authorised modification,
+delay, suspension or resumption
+decisions.
+[C] Replenish resources,
+document incidents and
+revise local procedures.
+Medical
+personnel
+[M] Support emergency
+readiness and assess individual
+risk when requested, including
+health and medication
+considerations within scope.
+[M] Evaluate symptoms, guide
+cooling/rehydration, initiate
+emergency management for
+severe signs and advise on medical
+disposition without assuming
+competition-rule authority.
+[M] Reassess, document,
+arrange follow-up and
+advise on return to training
+or competition.
+Note. R = rule-based requirement, authority, or permission; E = evidence-informed recommendation; C = conditional practical
+consideration; M = medical assessment or escalation. Rule-based actions were derived principally from ITF (2025, 2026); athletepreparation and event-planning actions from Racinais et al. (2023), Griggs et al. (2015), Grossmann et al. (2021), and the direct
+wheelchair-tennis studies summarised in Table 1. Conditional actions represent the author's practical synthesis where direct
+evidence was unavailable. Table 2 is an evidence-informed organisational framework, not a validated clinical algorithm.
+Implications for coaching and event practice
+Responsibility is distributed but not symmetrical.
+Players can report symptoms and stop play; coaches
+can support preparation, monitoring, communication,
+and withdrawal decisions. Tournament organisers
+establish environmental monitoring, shade, ice,
+scheduling, communication, and medical systems.
+Officials apply the governing procedures and exercise
+the authority assigned to them. Medical personnel
+assess symptoms, treat suspected heat illness, and
+advise on withdrawal or return to play. This structure
+is consistent with the IOC emphasis on coordinated
+planning (Racinais et al., 2023) and with ITF healthcare guidance recommending emergency planning,
+water, ice, accessible treatment areas, and appropriate
+medical expertise at wheelchair-tennis events (ITF,
+2025).
+For coaches, the practical task is not to diagnose
+heat illness or make tournament-wide suspension
+decisions. It is to know the athlete's heat history,
+prepare permitted hydration and cooling options,
+recognise meaningful deterioration, and facilitate
+communication, withdrawal, and medical escalation.
+The evidence codes reinforce these boundaries. A
+rule-based requirement derives from governing
+authority; an evidence-informed recommendation
+derives from empirical or consensus evidence but
+creates no competition authority; and a conditional
+practical consideration remains dependent on indirect
+evidence, context, and resources. Keeping these
+categories separate reduces the risk of presenting a
+governing threshold as a universal safety boundary or
+a plausible cooling strategy as a mandatory standard.
+Limitations and future research
+The principal limitation is the targeted narrative
+design. PubMed, citation tracing, WTCSSR articles,
+and official documents were used, but the review did
+not employ exhaustive multi-database searching,
+independent dual screening, or formal risk-of-bias
+scoring. Relevant literature may therefore have been
+missed, and source selection and synthesis depended
+on author judgement. The direct evidence involved
+very small samples, and the cooling component of
+the 2009 single-athlete report was not treated as
+independent confirmation of the 2008 crossover
+findings. Interpretation of the Veltmeijer et al.
+(2014) pilot was subsequently debated in a published
+Letter to the Editor (Silver, 2014), further supporting
+cautious use of its small descriptive dataset. Evidence
+disproportionately concerns SCI, with limited direct
+information on other eligible impairments, women,
+junior players, Quad players, doubles, non-hardcourt settings, and resource-constrained tournaments
+(Williamson et al., 2024). Most interventions assessed
+Discussion
+Principal findings and interpretation
+This
+targeted
+synthesis
+indicates
+that
+heatrisk management in wheelchair tennis is a twolayer decision problem. The 2026 ITF regulations
+provide tournament-level environmental triggers,
+communication procedures, and formal authority to
+modify or suspend play. These provisions promote
+consistent tournament management but are not
+individual medical safety thresholds. Athlete-level
+risk varies with thermoregulatory function, lesion
+characteristics where SCI is present, previous heat
+response, acclimation, hydration, health status,
+clinically relevant medication considerations, and
+feasible mitigation. By contrast, elevated individual
+risk does not confer authority to suspend a tournament.
+The framework therefore preserves the boundary
+between competition governance and personalised
+risk management.
+The practical evidence base is less direct than many
+apparently straightforward heat recommendations
+imply. The wheelchair-tennis literature identified
+through
+targeted
+searching
+comprised
+few,
+heterogeneous reports based on very small samples,
+and most assessed simulated exercise or physiological
+and perceptual responses rather than heat illness,
+match completion, or clinical outcomes. Cooling
+generally reduced physiological or perceptual strain
+without consistently improving performance. The
+lower fluid intake observed during head-and-neck
+cooling warrants caution because improved thermal
+comfort may not reliably signal adequate hydration
+(Goosey-Tolfrey et al., 2008). Cooling should therefore
+be considered one component of preparation and
+symptom management, not a substitute for hydration,
+environmental monitoring, or escalation.
+These findings are consistent with SCI evidence
+suggesting greater thermal strain at higher lesion
+levels and potential benefits of selected pre- or percooling strategies (Grossmann et al., 2021; O'Brien
+et al., 2022). A mixed-sport study that included
+wheelchair-tennis athletes further showed substantial
+performance impairment in humid heat, although
+its heterogeneous sample prevents tennis-specific
+inference (Alkemade, de Korte, et al., 2023). Transfer
+to wheelchair tennis nevertheless requires caution
+because players have varied impairments and the
+functional consequences of a diagnosis differ. A
+function-based approach that considers sweating
+capacity,
+previous
+heat
+intolerance,
+autonomic
+dysfunction, health and medication considerations,
+and cooling feasibility is more defensible than a
+diagnosis-based rule.
+Conflict of interest
+The author declares no conflicts of interest.
+Funding
+No specific funding was received for this work.

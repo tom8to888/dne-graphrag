@@ -1,0 +1,200 @@
+Title: Teaching tactics in tennis. A constraint-based approach proposal
+Authors: Antonio Fonseca Morales, Rafael Martínez-Gallego
+Year: 2021
+Issue: Vol. 29 No. 84 (2021)
+Article id: 198
+
+ABSTRACT
+The aim of this article is to provide a structure framed in constraint-based approach,
+which will help coaches to classify tactical exercises, and in turn, serve as a reference
+for the creation of new exercises depending on the objectives and the game situation
+they wish to develop. By way of example, a proposal is made for exercises for the serve
+situation, with the intention that these can serve as inspiration for coaches to create their
+own.
+INTRODUCTION
+A sport such as tennis is characterised by taking place in an
+environment of constant uncertainty, where players are forced
+to adapt continuously, reacting to the many different stimuli that
+occur in a multitude of dynamic and unpredictable situations
+(Sanz et al., 2012). During matches and training sessions, there
+are many aspects that make every action different:
+•	 Different strokes and movements
+•	 The opponents
+•	 Partners (doubles discipline)
+•	 Types of surfaces
+•	 Types of balls
+•	 Climatic conditions
+•	 Other…
+Having framed tennis as an open skill sport, it is important to
+define the concept of tactics, as this will be closely related to
+the open nature of the sport. Tactics is associated with the
+players' decision making during the game based on the options
+available and the risks and opportunities associated with each
+option (Fuller and Alderson, 1990). Therefore, tactics will be
+related to the decisions players make regarding the use of their
+technical, physical and psychological resources to solve the
+changing situations that occur during the game.
+Traditional tennis teaching methodologies are based on the
+principle of learning by reproducing ideal models, through
+constant repetitions of different patterns of play. However, if we
+understand that tennis is an open sport, with the characteristics
+mentioned above, coaches must create practice situations with
+conditions similar to those of matches (Sanz and Hernández.,
+2013). Therefore, it is very important to avoid training sessions
+and drills always focusing on repeating patterns under the
+www.itfcoachingreview.com
+August 2021. 29th Year. Issue 84. 6-8.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i84.198
+Teaching tactics in tennis.  A constraint-based
+approach proposal
+Antonio Fonseca-Moralesa & Rafael Martínez-Gallegob
+aCampus Tenis Elianers, bUniversity of Valencia, Spain.
+Key words: methodology,
+dynamical systems, learning,
+exercises.
+Received: 20 April 2021
+Accepted: 30 May 2021
+Corresponding author: Antonio
+Fonseca-Morales. Email: anton.
+fon@gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+same conditions. The tactical training process should be based
+on learning produced in an environment that provides all
+possible stimuli to cope with the multiple game situations that
+tennis demands (Sahan et al., 2018). In doing so, players should
+develop their ability to adapt to the environment and make
+decisions that are best suited to each specific situation.
+The proposal made in this article is based on an alternative
+model to cognitive learning proposals, mainly from the
+dynamic systems theory or the constraints led-approach.
+Constraints are pressures that limit or prevent certain
+movements, facilitating or allowing others (Davids et al.,
+2008). All categories of constraints from the environment
+(physical and social characteristics), the individual (personal
+characteristics) and the task (e.g. goals, rules and equipment)
+directly or indirectly influence decision-making and action
+in play. Therefore, a coach can manage player constraints,
+task constraints or environmental constraints to promote the
+emergence and development of successful performance.
+Task constraints are based on:
+•	 Amplify the sources of information present in the context
+(e.g., place a rope over the net so that players focus their
+attention on the height of the ball).
+•	 Gestures and a whole range of non-verbal actions that
+a coach can use (e.g., combined signals with players that
+can indicate which side to scan on the opponent, how
+high or how deep the ball should go, or whether to go
+further into or out of the court).
+•	 Using verbal language, corresponding to the so-called
+augmented feedback and the interrogative method (e.g.
+two players play a point and the coach asks them if the
+pattern used during the point was the most appropriate
+one).
+Individual constraints are based on:
+•	 Structural constraints, which refer to morphology, body
+composition or skill level in a particular task, i.e. aspects
+of the individual that remain relatively constant over
+time.
+•	 Functional constraints, which refer, among others, to
+thoughts or emotions (Araújo and Volossovitch, 2005).
+Environmental constraints are based on:
+•	 The effect of factors such as the presence and behaviour
+of the public or the presence of family members
+("social constraints"), the conditions of the venue
+(e.g. temperature or brightness), or even the type of
+competition from an organisational point of view (e.g.
+regional tournament, national championship), on the
+performance of the players must also be considered.
+Although the manipulation of these factors is more
+difficult, it is important to consider their effect on
+performance and training.
+•	 It is important to consider the influence of the coaching
+environment on players' performance and decisionmaking. The coach through his intervention can create
+two types of environments: player ego-oriented
+environment and player task-oriented environment
+(Roberts, et al., 2007).
+Therefore, given the open-ended nature of tennis, and given
+the importance of creating training situations that provide the
+maximum possible stimuli to cope with the demands of the
+situations encountered during competition, constraint-based
+approach provides a theoretical framework and structure
+that can be very useful for the creation and classification of
+exercises for tactical training.
+PRACTICAL PROPOSAL
+In this section, based on the three categories of constraints and
+the five game situations, we propose a structure for classifying
+tactical training exercises and, as an example, we propose some
+exercises for training tactics in the serve situation.
+Table 1 shows the proposed classification of tactical training
+exercises. It is proposed to classify the exercises into a total of
+15 categories depending on the constraint being manipulated
+and the game situation.
+Table 1
+Structure for the classification of tactical training exercises
+Serve
+Return
+Baseline
+Net
+Passing
+TASK
+Cat. 1
+Cat. 4
+Cat. 7
+Cat. 10
+Cat. 13
+INDIVIDUAL
+Cat. 2
+Cat. 5
+Cat. 8
+Cat. 11
+Cat. 14
+ENVIRONMENT
+Cat. 3
+Cat. 6
+Cat. 9
+Cat. 12
+Cat. 15
+Proposed exercises
+Exercise Category 1 (Task constraint for serve situation)
+•	 Objective: Pattern selection.
+•	 Description: The receiver shall change his position
+before the serve. Accordingly, the server should use a
+pattern in the serve that is appropriate to the position of
+the receiver.
+•	 Premises and/or variations: The receiver shall change his
+position just as the server throws the ball.
+Category 2 exercise (Individual constraint for serve situation)
+•	 Objective: Consistency.
+•	 Description: The server does a series of explosive drills
+for 15 sg ( e.g. two 360 degree jump turns, several
+kangaroo jumps, quick skipping in place 5 sg and a pushup) and then starts the point with a single serve.
+•	 Premises and/or variants: vary the exercises and duration
+according to the level of play and the degree of fatigue of
+the player.
+Exercise Category 3 (Environmental constraint for serve
+situation)
+•	 Objective: Stabilisation of patterns.
+•	 Description: The player will listen to different types of
+noises/sounds for 15 sg in the service position. He then
+has to perform the pattern of play previously indicated
+by the coach.
+•	 Premises and/or variants: at the end of the point, the
+coach will ask for information about the song (author,
+title, etc...).
+CONCLUSIONS
+The aim of this article is to provide a framework with which to
+plan and develop tennis drills and tasks through a classification
+based on constraint-based approach and game situations.
+As previously indicated, the classification is based on dynamic
+learning theories, which argue that the constraints of a training
+task should be representative of the context for which this
+experience is intended to provide. Thus, we must ensure that
+the requirements of the proposed tasks correspond to the
+characteristics and requirements of the performance context
+for which the results are intended to be applied. Therefore,
+it is essential that the coach's intervention seeks to ensure
+training exercises that allow the perception-action coupling
+to be established based on the information that is available in
+the game context. (Carvalho et al., 2011).

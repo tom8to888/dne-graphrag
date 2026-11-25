@@ -1,0 +1,183 @@
+Title: A Study of the Physiological Characteristics of Tennis
+Authors: Bernardino Javier Sánchez-Alcaraz Martínez
+Year: 2014
+Issue: Vol. 22 No. 64 (2014)
+Article id: 515
+
+www.itfcoachingreview.com
+December 2014. 22nd Year. Issue 64. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i64.515
+
+A study of the physiological characteristics of
+Bernardino Sánchez-Alcaraz Martínez.
+University of Murcia, Spain.
+ABSTRACT
+
+This article describes the most important physiological characteristics of tennis
+players, as heart rate, lactate concentration, oxygen consumption and subjective
+perception of effort, depending on the players´ age, level, and gender. This
+information will help coaches to plan training sessions according to these
+parameters.
+
+Key words: Hart rate, Lactic acid
+concentration, Oxygen consumption.
+Received: 2 August 2014.
+Acepted: 30 August 2014.
+Corresponding author: Bernardino
+Sánchez-Alcaraz Martínez, University
+of Murcia, Spain.
+Email: Bjavier.sanchez@um.es
+
+INTRODUCTION
+Tennis is an intermittent sport, with effort intervals that vary
+from low to high intensity due to short and repeated but highly
+intensive
+actions
+(Kovacs,
+2007).
+Even
+though
+its
+characteristics in terms of temporal structure with a number of
+continuous action intervals are similar, there are some
+characteristics such as court surface (carpet, natural lawn,
+artificial lawn, cement, clay, etc.), the age, gender, level of the
+player or the match situation that can have a direct impact on
+the characteristics of the effort or even the metabolic pathways
+used, and the physiological parameters of the players.
+METABOLIC PATHWAYS USED IN RACKET SPORTS
+Competitive tennis, analysed in its formal structure, can be said
+to be a sport in which different metabolic pathways are
+involved (Sanz & Ávila, 2004), due to the interval characteristics
+of the activity. Studies performed on tennis players indicate
+that tennis is predominantly an alactic anaerobic activity (70%
+of the playing time), with a minor lactic anaerobic activity (20%)
+and a supporting aerobic base (10%) (Bergeron, Maresh,
+Kraemer, Abraham, Conroy & Gabaree, 1991; Ferrauti, Maier &
+Weber, 2002; Weber, Ferrauti, Porten & Rochelt, 2002).
+Thus, generally speaking, we can state that the metabolic
+demands in this sport vary between the supply of anaerobic
+energy during the high intensity phase (for example in direction
+and hitting changes) and a good aerobic base to recover the
+energy easily, closing the lactate accumulation pathway,
+delaying fatigue and indirectly, favouring concentration,
+technical skill and the level of work during the match (König et
+al, 2001; Roetert et al., 1992). The analysis of the metabolic
+pathways used in tennis have been analysed according to the
+evolution of those parameters such as heart rate, oxygen
+consumption, (VO2) lactic acid concentration (LA) or the
+subjective perception of effort (RPE) and observing the working
+and resting times during competition matches (König et al.,
+2001; Roetert et al., 1992).
+Heart rate
+One of the most deeply studied physiological parameters in
+tennis is the evolution of the heart rate during a match (Torres
+& Carrasco, 2004), since it is one of the few direct physiological
+indexes that we can get, and it is related to other cardiorespiratory effort indexes such as oxygen consumption in submaximal effort.
+The study of the heart rate in high intensity exercises such as
+tennis, identifies the characteristics of effort and volume in
+terms of number and duration (Cabello, 2004). This way, when
+we study the evolution of the heart rate in competition, we
+must analyse the maximal and medium heart rate in order to
+determine the cardiovascular load that the sport demands
+(Bangsbo, 1996). The study of the medium heart rate on its
+own, does not reflect the intermittent nature of the game
+(Fernández, Sanz & Méndez, 2012).
+Due to the intermittent nature of racket sports, including
+tennis, there are great variations in heart rate every few
+seconds. Research has shown how a tennis player’s maximum
+heart rate can reach between 190-200 beats per minute when
+rushing to the net or to a drop-shot, while during resting
+periods between points it can decrease and reach 120-130
+beats per minute (Bergeron et al. 1991; Gallach, 1992).
+As a general reference, the medium heart rate in tennis players
+varies between 140-160 BPM, which is an intensity between
+60- 80% of the maximum heart rate (Torres & Carrasco, 2004)
+however, these values may vary depending on the age, if
+players are playing singles or doubles, the weather and even if
+
+the player is serving or receiving (Morgans, Jordan, Baeyens &
+Franciosa, 1987; Reilly & Palmer, 1995; Smekal et al., 2001).
+Several studies have shown higher heart rate values for players
+who are serving than for those players who are returning, both
+in male and female players (Méndez, Fernández, Fernández &
+Terrados, 2007; Fernández, Fernández & Terrados, 2007). In
+comparison, the maximum heart rate based on other studies
+show similar results to those in sports like badminton and
+paddle tennis. Baiget, Iglesias & Rodríguez (2008) showed
+maximum heart rate values that ranged between 189 & 191
+BPM in male competition tennis players, higher than the results
+of Galiano, Escoda & Pruna (1996) with values that were
+relatively lower, 178- 180 BPM.
+
+Table 1. Most important research related to HR in tennis. Adapted from
+Torres & Carrasco (2004).
+
+Lactic acid concentration
+The lactate concentrations have been used to estimate the
+intensity of the work during sport competition and training and
+to provide information about the energy production through
+glycolytic processes (König et al 2001; Roetert et al 1992). It is
+important to be careful when interpreting the lactic acid
+concentration during matches and training, since results may be
+affected by several factors such as fitness at the time of
+measuring (Fernández, Sanz & Méndez, 2012).
+Studies made during a tennis match are usually low with
+averages between 1.00 y 4.00 mmol.L-1 (Bergeron et al., 1991;
+Christmass et al. 1998; Ferrauti et al., 2001; Reilly & Palmer,
+1995; Smekal et al., 2001). However, during long and intense
+points, it is possible to find lactic acid close to 10 mmol.L-1
+(Méndez et al, 2007). High lactic acid values have also been
+found in concrete actions like rushing to the net or during a
+sprint (Gallach, 1992), in highly trained players (Therminarias,
+Dansou, Chirpaz & Quirino, 1990), or during service where
+values were higher than in return (Méndez et al., 2007). The
+authors consider that the possible lactate concentrations do
+not remain high during a tennis match due to the ratio between
+working time and rest, in which the latter lasts more than the
+first (Bergeron et al. 1991; Christmass et al., 1998; Smekal et
+al., 2001).
+Oxygen consumption
+In general, tennis players consume more oxygen (VO2max),
+which varies between 47 & 53 mL/kg/min; higher than the
+sedentary population 38-42 mL/kg/min (González, 1992).
+Similarly, research shows that a male tennis players’ VO2max is
+higher than in female tennis players and VO2max is significantly
+higher among junior players (16-17 years) as compared with
+children 8-12 years (Reilly & Palmer, 1995; König et al, 2001).
+Subjective perception of effort
+Effort subjective perception can be defined as `the subjective
+intensity of effort, stress, discomfort and / or fatigue during
+physical exercise´ (Robertson, 1997). The scale of effort
+perception in Borg (RPE) is a simple and reliable method to
+measure the intensity of exercise (Borg, 1998). There is little
+information to describe the response to RPE during a tennis
+match (Fernández & cols., 2012), although in competition
+players, values range from 12-13 in Borg´s scale (Méndez,
+Fernández, Bishop & Fernández., 2010), just as there have been
+increases in RPE values in response to longer points or more
+strokes per point (König et al., 2001; Roetert et al. 1992).
+Practical application for coaches
+The aim of knowing the physiological profile of a player is to
+determine the physiological and contextual demands that
+impact on performance, in turn to adapt training sessions and
+optimise the player´s profile (Torre-Luque, Sánchez-Pay,
+Bazaco & Moya, 2011). Thus, with elements like the pulse
+meter, it is possible to control training loads for players,
+allowing for better planning and periodisation for their training
+sessions. The coach or the trainer can control, not only the
+training volume with temporal parameters, but also its intensity
+through knowledge of the heart rate or oxygen volume.
+Finally, the regular control of these physiological parameters
+and their evolution will help the coach to be aware of the effect
+of certain training loads and programmes for physical, tactical
+or technical work on court.
+CONCLUSIONS
+With the revised data, it is possible to state that tennis is an
+intermittent sport due to players reaching, between 130 and
+160 beats per minute during a match and it can be classified as
+a sport of moderate / high intensity. Further research is still
+necessary since, as observed, depending on the gender, the
+playing surface or the level of the players, values vary
+enormously.

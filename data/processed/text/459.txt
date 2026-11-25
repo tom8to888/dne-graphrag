@@ -1,0 +1,374 @@
+Title: Development of national tennis player value chain structure: statistical analysis of tennis player pathway
+Authors: Andi Cakravastia, Titah Yudhistira, Andi Ameera, Martin Setiawan
+Year: 2023
+Issue: Vol. 31 No. 90 (2023)
+Article id: 459
+
+ABSTRACT
+Creating a system of tennis player development to establish and sustain a nation's
+competitive performance is a problem faced by many countries. This research attempts to
+implement the value chain structure of tennis player development and the tennis player
+pathway developed by Cakravastia and Setiawan (2022). This paper develops a partial
+least squares model by analysing the data of 41 countries from the ITF Global Report
+(2021). The results of this study identify number of certified tennis coaches and number
+of tennis courts in a country have significant effect on the number of total tennis players
+in that country. Subsequently, this study confirmed there is a significant relationship
+between the total number of tennis players, the total number of junior players, the total
+number of pro players, and the total number of players representing a country in the
+grand slam main draw.
+INTRODUCTION
+To sustain a nation' competitive performance at the global
+level, efforts have been made in many countries to create
+a structure for tennis player development from junior to
+professional players (Gerdin et al., 2020). Each country may
+have a different strategy to develop and sustain its tennis
+performance. Different stakeholder groups, relationships
+between stakeholders, and the structure of the overall system
+may create varying results for nation-wide performance in
+tennis.
+This challenging problem attracts researchers to study the
+structure of the national tennis development system from
+various perspectives. The identification of stakeholders for
+elite athlete development in tennis has been conducted by
+Brouwers et al. (2015b). From the angle of country macro
+policy, Crespo et al. (2022) explain the programme of the
+Spanish tennis federation. Brouwers et al. (2015) explain
+country policies and identify factors supporting national
+tennis performance at the international level. Cakravastia
+and Setiawan (2022) proposed a value chain structure of
+stakeholders and a pathway from grass-roots tennis player
+to professional athlete. In this value chain structure, key
+stakeholders are the family, education sector, tennis club,
+national and local government, national tennis federation,
+international tennis federation, and private and professional
+sectors. Interaction and collaboration between stakeholders
+are required to develop a path to international-level
+performance.
+www.itfcoachingreview.com
+August 2023. 30th Year. Issue 90. 24-27
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i90.459
+Development of national tennis player value chain
+structure: Statistical analysis of tennis player
+pathway
+Andi Cakravastia1, Titah Yudhistira1,2, Andi Ameera Sayaka Cakravastia2 & Martin
+Setiawan3
+1Industrial Engineering Program. 2Engineering Management Program Faculty of Industrial Technology, Bandung
+Institute of Technology (Indonesia). 3ITF Junior Tennis Initiative Coordinator for Indonesia.
+Key words: Value chain, national
+performance, statistical analysis,
+tennis player pathway.
+Received: 1 June  2023
+Accepted: 25 July 2023
+Corresponding author: Andi
+Cakravastia. Email: andi@itb.ac.id
+Focusing on the journey of athlete performance, Kovacs et al.
+(2015) provide an analysis of the milestone ranking of the top
+100 ATP athletes. Brouwers et al. (2012) analyse indicators of
+junior performance to predict the success of future athletes
+tennis careers. Reid (2007) emphasises the importance of
+competition structure for national performance in women’s
+tennis.
+ITF (2021) published a global tennis report by providing
+participation and performance data for their country
+members. This paper is positioned as the subsequent research
+of Cakravastia and Setiawan (2022). This paper utilises ITF
+Global Tennis Report data to find important variables and
+relationships among variables for developing tennis grassroots players and to find a path from the pool of talent of
+tennis players into global tennis performance.
+COACHING & SPORT
+SCIENCE REVIEW
+Figure 1. Proposed Model.
+PROPOSED MODEL
+This research attempts to find variables and interaction
+among variables of value chain structure of tennis player
+development and the tennis player pathway developed by
+Cakravastia and Setiawan (2022). Considering the availability
+of the data, Figure 1 depicts the model proposed in this paper.
+Data for this research was extracted from the ITF Global
+Tennis Report (2021). The data in this report is divided into
+two categories: (i) participation data and (ii) performance
+data. Participation data includes: tennis players (number
+of players, percentage of population that plays tennis, and
+player gender balance); access to tennis (total clubs, number
+of clubs per 1000 populations, and total courts); and tennis
+delivery (number of certified coaches, number of certified
+coaches per 1000 players, and certified coach gender
+balance). The elements of performance data include: ranked
+players (number of ranked junior and professional players,
+number of professional players ranked in the top 250, and
+number of professional players ranked in the top 100), grand
+slam representation (numbers of main draw and qualifying
+drawing representation for junior and professional players),
+and professional players in the top 50 classified by age.
+Considering the availability of the data, this paper uses
+the number of tennis courts, the number of tennis clubs,
+and the number of tennis coaches as variables related to
+the development of grass-roots tennis players in a country.
+Following the tennis player pathway proposed by Cakravastia
+and Setiawan (2022), this research is using the number of
+tennis players, followed by the number of ranked juniors, the
+number of ranked professionals, and the number of Grand
+Slam main draw representatives, as the path of a tennis
+player's career. To develop the career of a tennis player from
+grass-roots player to professional player, the number of
+certified coaches is considered to have a relationship with the
+number of ranked juniors, the number of ranked pros, and the
+number of country Grand Slam main draw representatives.
+DATA COLLECTION AND ANALYSIS
+The ITF Global Report (2021) shows 41 countries with
+complete participation data. This paper uses all of these 41
+countries in its research. Following the proposed model in
+Figure 1, this paper considers total tennis courts, total tennis
+clubs, and total tennis coaches as variables relevant for the
+development of total tennis players in a country. Following
+the pathway of tennis players developed by Cakravastia and
+Setiawan (2022), total tennis players, total ranked junior tennis
+players, total ranked professional players, and total Included in
+the analysis will be the total number of rated juniors, the total
+number of ranked professionals, and the Grand Slam main
+draw representation. To deal with the different magnitudes
+of the data, player data will be presented in millionths, court
+data in thousands, and coach data in thousands. This paper
+use the latest participation of 2018 and the performance data
+of 2019. The latest performance data is 2020, however the
+pandemic in 2020 limit the opportunity for tennis players to
+travel and compete.
+A path analysis is applied to show direct and indirect effects
+between variables as proposed by model in Figure 1. To
+perform the analysis, this research is using MPlus statistical
+software. Table 1 indicates that there is multicollinearity
+between the number of tennis courts and the number of
+clubs. Availability of tennis courts and coaches are the core
+element of tennis club. Therefore, in this paper we apply these
+two variables.
+In Table 2, the number of tennis courts and the number of
+coaches are significantly related to the number of tennis
+players. Further, there is a relationship between the number
+of players, the number of ranked juniors, the number of
+ranked professionals, and the number of tennis players who
+represent a country in the Grand Slam main draw. The data
+reveals that the number of coaches in a country has a direct
+effect on the total number of junior players and the total
+number of professional players.
+From the indirect effect in Table 3 and Table 4, the number of
+coaches shows an indirect effect with the total players who
+represent a country in the Grand Slam main draw. Therefore,
+it can be interpreted  that coaches increase the number of
+ranked professionals, which in turn increases the number of
+Grand Slam main draw representation.
+Based on the result above, number of tennis courts and number
+of certified coaches have  significant role in determining the
+number of tennis players in a country. Number of tennis courts
+that can be accessed is the basic requirement to develop pool
+of tennis players. Some countries build number of public tennis
+courts, so players at any level can have access to play and
+practice tennis. Competitive player need to have experience to
+play in different surfaces and it need to be provided.
+Number of certified coaches is important to increase
+number of ranked player in both junior and professional
+level in a country. Further, it is potentially increase number
+representative of the country in grand slam main draw.
+Therefore, the coach education program in every country
+is very important, not only to ensure higher participation
+retention, also to increase the number of high-quality players
+that can compete in international level. In a tennis-growing
+country, National Association need to have a coach education
+structure, managers, and tutors to produce sufficient number
+of quality coaches for all level of players. A system that includes
+certification and Continuing Professional Development (CPD)
+would be the ideal one.
+Table 1
+Multi collinearity.
+Model
+Unstandardized
+Coefficients
+Standardized
+Coefficients
+t
+Sig.
+Collinearity Statistics
+B
+Std. Error
+Beta
+Tolerance
+VIF
+(constant)
+125.063
+531.367
+
+.235
+.815
+
+Total Tennis Clubs
+-.687
+.183
+-1.188
+-3.761
+.001
+.069
+14.456
+.128
+.123
+.112
+1.036
+.307
+.589
+1.699
+Total Tennis Courts
+.266
+.048
+1.862
+5.526
+.000
+.061
+16.455
+Table 2
+Direct Effect.
+Dependent
+Variable
+Independent
+Variable(s)
+Estimate
+Standard Error
+Est. Std Error
+Two-tailed p-value
+Total Tennis
+Players
+Total Tennis
+Courts
+0.094
+0.017
+5.606
+0.000*
+Total Certified
+Coaches
+0.240
+0.133
+1.789
+0.072
+Total Ranked
+Junior Players
+Total Tennis
+Players
+0.012
+0.003
+3.848
+0.000*
+Total Certified
+Coaches
+0.007
+0.004
+1.997
+0.046*
+Total Ranked
+Total Ranked
+Junior Players
+0.473
+0.051
+9.191
+0.000*
+Professional
+Players
+0.007
+0.001
+4.850
+0.000*
+Total
+Grand Slam
+Main Draw
+Representative
+Total Ranked Pro
+Players
+0.097
+0.010
+9.753
+0.000*
+Total Certified
+Coaches
+0.000
+0.000
+0.689
+0.491
+*significant variable.
+Table 3
+Total and Indirect Effect.
+Effects from Total
+Coaches to Total Grand
+Slam Representative
+Estimate
+Standard Error
+Est. Std Error
+Two-tailed p-value
+Total
+0.001
+0.000
+5.271
+0.000
+Total Indirect
+0.001
+0.000
+4.847
+0.000
+Table 4
+Specific Indirect Effect.
+Specific Indirect
+Estimate
+Standard Error
+Est. Std Error
+Two-tailed p-value
+Total Main Draw Grand
+Slam Representative
+0.001
+0.000
+4.343
+0.000
+Total Ranked Professional
+Players
+Total Main Draw Grand
+Slam Representative
+0.000
+0.000
+1.914
+0.056
+Total Ranked Professional
+Players
+Total Ranked Junior
+Players
+Total Main Draw Grand
+Slam Representative
+0.000
+0.000
+1.582
+0.114
+Total Ranked Professional
+Players
+Total Ranked Junior
+Players
+Total Tennis Players
+CONCLUDING REMARKS
+This research attempts to find variables and interaction among
+variables of value chain structure of tennis player development
+and the tennis player pathway developed by Cakravastia and
+Setiawan (2022). This paper identifies the number of tennis
+courts and the number of coaches as significant variables in
+determining the number of tennis players in a country. These
+two variables are important for creating the grass roots of a
+tennis player. Further investigation is required to find other
+variables to attract people to playing tennis. The number of
+tennis players, as a pool of talent, is significantly correlated
+with the number of ranked junior pros. This research shows
+that there is a path between the number of tennis players, the
+number of ranked juniors, the number of ranked professional
+tennis players, and the number of players in the Grand Slam
+main draw of a country. Therefore, this research confirms
+the model of the pathway of a tennis player proposed by
+Cakravastia and Setiawan (2022).
+Further research can be directed towards considering the
+number of junior and professional tournaments in a country
+in the model. The resources of the family and the roles of
+the government and private sectors are interesting to be
+investigated in the model.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that he has no conflict of interest and
+that he did not receive any funding to carry out the research.

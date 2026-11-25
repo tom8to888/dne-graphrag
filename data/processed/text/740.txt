@@ -1,0 +1,822 @@
+Title: Best practices in recreational wheelchair tennis coaching: Perspectives from certified tennis coaches
+Authors: Jason Allen
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 740
+
+Introduction
+Wheelchair tennis, a rapidly growing adaptive sport,
+presents unique coaching challenges that differentiate
+it from conventional tennis instruction. Despite its
+increasing popularity and inclusion in major national
+tennis organizations, there remains a notable lack
+of formalized educational resources and evidencebased best practices, particularly for coaches working
+with beginner and intermediate-level athletes. This
+study addresses that gap by exploring the practical
+experiences of certified tennis professionals who
+have specialized in wheelchair tennis coaching.
+Drawing on the expertise of coaches across various
+U.S. regions, this research aims to identify and codify
+the most effective coaching strategies, equipment
+considerations, and player engagement techniques
+essential for developing entry-level wheelchair tennis
+players.
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 55-63
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.740
+Best practices in recreational wheelchair tennis
+coaching: Perspectives from certified tennis
+coaches
+Jason Allen
+
+Racquet Sports Department, United States Tennis Association
+Abstract
+The purpose of this study was to identify best coaching practices for beginner and intermediate
+wheelchair tennis players. A focus group, comprising eight certified tennis coaches with wheelchair
+tennis expertise, was conducted using a semi-structured, 10-question interview format. Participants
+were purposefully sampled from eight USTA sections across the United States. Data were collected via
+video-conferencing, transcribed using voice-to-text software, and analyzed through thematic coding,
+resulting in nine overall themes: equipment, engagement in group lessons, engagement in private
+lessons, disability and lesson planning, challenges with group and private lessons, best practices in
+player development, chair setup, and improving coaching. Key findings included the critical importance
+of proper adjustable tennis wheelchairs and modified equipment for stroke production and mobility.
+For engagement, competitive, games-based coaching and detailed, long-term lesson planning were
+highlighted. The study also revealed challenges related to adapting lessons for varying disabilities and
+ensuring safety. A lack of formal educational resources and mentoring opportunities were identified
+as major barriers to improving coaching practices. The findings provide specific recommendations for
+coaches and organizations seeking to enhance the quality of beginner and intermediate wheelchair
+tennis instruction.
+Key words: wheelchair tennis, tennis wheelchairs, modified equipment, adaptive coaching
+Received: 15 November 2026. Accepted: 01 July 2026.
+Corresponding author: jason.allen@usta.com
+Through a semi-structured focus group interview
+with eight experienced coaches, this study gathered
+qualitative data on ten key aspects of coaching,
+ranging from lesson planning and mobility instruction
+support this institutional transition (Bertram et al.,
+2016). These structured networks promote collective
+reflection, combat professional isolation, and provide
+essential forums for coaches to resolve complex
+systemic issues related to program administration,
+funding, and classification logistics (Bertram et al.,
+2016; Taylor et al., 2015).
+Procedures
+The approach used to collect data in this study was
+a focus group. Purposeful sampling was used to
+identify eight wheelchair tennis coaches who work
+with beginner to intermediate athletes (Claxton &
+Michael, 2020). Coaches were explicitly chosen from
+eight regions of the United States delineated by USTA
+sections (Get to Know the USTA Sections, n.d.). Those
+sections were Florida, Southern, Midwest, Southern
+California, Intermountain, Texas, Southwest, and New
+England. Interviewees were coaches who had added
+wheelchair tennis as a specialty to their existing
+tennis professional certification (PTR - Professional
+Tennis Registry, n.d.; USPTA Members Home, n.d.).
+Thus, they were certified conventional tennis coaches
+who had also taken the only known wheelchair tennis
+coach development workshop provided by the USTA
+(USTA Wheelchair Tennis Coaching, n.d.).
+The focus group comprised of a face-to-face,
+10-question, semi-structured interview that allowed
+for follow-up questions (Claxton & Michael, 2020, p.
+55). After obtaining consent from the participants,
+it was conducted at the USTA National Campus
+in Orlando, Florida, and used video-conferencing
+powered by Zoom software. The focus group was
+recorded, lasted 96 minutes, and responses were
+transcribed using Otter.ai, voice-to-text software.
+Coding was used to establish themes. Data were
+organized using a codes and themes table to easily
+contribute to a list of best practices in wheelchair
+tennis coaching (Claxton & Michael, 2020, p. 65).
+Questions were predetermined and created based on
+existing academic literature.
+Questions
+1. Describe the equipment you use to coach
+wheelchair tennis.
+This question aimed to explore if coaches are using
+modified equipment.  Miley (2017) explained that
+modified equipment such as smaller court sizes,
+shorter racquets, and lower compression balls
+significantly increase athlete achievement. Tennis
+requires a great deal of hand-eye coordination, balltracking skills, and movement. Miley reported that
+great coaches use progressions and regressions not
+only in skill development but also in equipment. As
+athletes progress, they can move to a larger court,
+bigger racquets, and more bouncy tennis balls.
+to managing group dynamics and overcoming
+logistical challenges. The findings culminated in nine
+overarching themes, revealing critical insights into
+the practical application of coaching pedagogy in the
+adaptive sports context. By synthesizing these lived
+experiences, this research provides a comprehensive
+foundation for future coach development programs
+and offers a practical list of recommendations to
+enhance the quality and consistency of coaching for
+beginner and intermediate wheelchair tennis players.
+Literature review
+A significant gap exists in empirical research
+specifically
+addressing
+coaching
+practices
+and
+structured education in wheelchair tennis (Patatas
+et al., 2018; Wareham et al., 2018). While general
+parasport literature has expanded, existing studies
+remain
+disproportionately
+focused
+on
+medical,
+psychological,
+or
+high-performance
+frameworks
+rather than pedagogical methodology (Townsend
+et al., 2021). Consequently, coach development in
+adaptive sports relies almost exclusively on informal,
+experiential learning characterized by trial and error
+(Bentzen et al., 2021; Townsend et al., 2021). This lack
+of structured, formal educational frameworks breeds
+low self-efficacy, hesitation, and anxiety among
+coaches transitioning from able-bodied sports (Judge
+et al., 2021; Macdonald et al., 2016). This dynamic
+ultimately hinders both athlete recruitment and
+sustained tournament participation (McKenzie et al.,
+2021).
+To
+address
+these
+profound
+knowledge
+gaps,
+contemporary research emphasizes the integration
+of informal and non-formal educational techniques
+into formal sport-specific pathways (Bentzen et al.,
+2021). A primary mechanism for boosting coach
+self-efficacy
+is
+reciprocal
+mentorship,
+wherein
+experienced
+wheelchair
+tennis
+players
+mentor
+certified able-bodied coaches (Allen & Douglas, 2021).
+This collaborative approach effectively bridges the
+knowledge deficit that certified tennis coaches face
+regarding disability-specific dynamics, equipment
+configurations, movement patterns, and psychosocial
+factors (Allen & Douglas, 2021). Furthermore,
+Townsend et al. (2021) advocates for a critical shift
+toward a specialized disability coaching education
+framework that leverages these established athletecentered pedagogical principles.
+Structurally, national governing bodies are increasingly
+pressured to integrate adaptive sports within existing
+athlete development models (Townsend et al., 2021).
+For example, the United States Tennis Association
+adapted the American Development Model to include
+dedicated curricula focused on learner-centered
+coaching, instructional differentiation, and stageappropriate modified equipment (Davies, 2017, 2020).
+Finally, establishing formal Communities of Practice
+and Professional Learning Communities is vital to
+exacerbate the challenging nature of giving feedback.
+By collecting data on these challenges, it assisted in
+informing best coaching practices.
+6. What are the challenges associated with
+coaching private lessons in wheelchair tennis?
+The purpose of this question was to collect feedback on
+complex aspects of coaching wheelchair tennis players
+individually. Douglas et al. (2018) reported that due to
+a lack of formal education opportunities in parasport
+coaching, most learning occurs through non-formal
+or informal opportunities. Thus, it is possible that
+coaches do not have appropriate training in general
+best education practices. Answers to this question
+gave specific data that informed recommendations for
+best coaching practices in individual lessons.
+7. Describe best practices for player development
+in coaching wheelchair tennis.
+Sanchez-Pay and Sanz-Rivas (2020) conducted a
+narrative review in wheelchair tennis by analyzing the
+small number of publications on the sport since 1980.
+This open-ended question sought to gain feedback on
+how to progress wheelchair tennis players along the
+pathway from beginner to advanced. Although some
+coaches do not intend to progress wheelchair tennis
+players to higher levels, it is generally understood that
+both coaches and players aspire to continue training
+for mastery to achieve a higher level. Thus, the authors
+highlighted that most literature is concerned with
+advancing players to Paralympic levels of play.
+8. How do you teach mobility in wheelchair
+tennis?
+This question aimed to specifically answer one of the
+most salient aspects that differentiate wheelchair
+tennis from able-bodied tennis. Sanchez-Pay and SanzRivas (2020) concluded that movement in wheelchair
+tennis is the most crucial tennis-specific aspect that
+aspiring coaches must learn. Data collected from this
+question sought to add to more specific wheelchair
+tennis coaching practices instead of general education
+recommendations.
+9. Describe how you teach an athlete about
+wheelchair tennis chair setup.
+This question sought to collect information on how
+coaches deliver instruction on configuring the tennis
+wheelchair specific to one’s disability. There is a
+great deal of literature on wheelchair configuration
+across all parasports. However, it is more based
+on biomechanical aspects. Rietveld et al. (2021)
+conducted a narrative review on this subject specific
+to wheelchair tennis. It resulted in various findings,
+but the central theme of the conclusion was that
+research in wheelchair configuration specific to tennis
+is scarce. Therefore, it would appear that there is a
+significant lack of coaching practices in this area. A
+2. How do you keep athletes engaged during
+group lessons?
+This question sought to identify specific teaching
+techniques that enhanced athlete engagement.
+According to Davies (2017), traditional tennis coaching
+was not conducive to athlete achievement. In the
+past, students were primarily engaged in line drills
+where all would have to wait an excessive amount of
+time before they got a chance to hit another ball. In
+essence, tennis players would hit one shot, then move
+to the end of the line and wait their turn. Although
+line drills promote organization, they represent a
+coach-centered teaching approach instead of athletecentered coaching. Davies recommends conducting
+more live-ball play opportunities so that athletes
+stay engaged and participate in cooperative learning
+activities.
+3. How do you keep an athlete engaged during
+private lessons?
+ This question aimed to analyze techniques to keep
+athletes engaged while working one on one with
+a coach. As the literature illustrates, there are few
+formal education opportunities in wheelchair tennis
+(Bentzen et al., 2021). Moreover, Dr. Paul Roetert,
+Managing Director of USTA Coaching Education,
+pointed out a lack of proven education best practices
+in general tennis coaching (personal communication,
+July 30, 2021). Whitaker (2020) examined nineteen
+best teaching practices that, although in the
+classroom, could be used effectively in wheelchair
+tennis coaching. Therefore, this interview question
+presented an opportunity to compare successful
+individual engagement techniques with proven best
+education practices.
+4. Describe how you use an athlete’s disability to
+inform your lesson planning.
+This question sought to investigate to what extent
+wheelchair tennis coaches use an athlete’s disability
+to adjust specific instruction. Alexander et al. (2020)
+reported that coaches who inappropriately address
+an athlete’s disability led to negative psychological
+consequences.
+Specific
+to
+wheelchair
+tennis,
+one’s disability will significantly inform teaching
+equipment, wheelchair set up, and mobility efficacy.
+Moreover, it will also influence a coach’s lesson plan,
+affecting transitions between activities.
+5. What are some of the challenges you encounter
+when coaching wheelchair tennis group lessons?
+This question aimed to identify critical areas that are
+challenging for wheelchair tennis coaches in a group
+setting. Hume (2018) researched some of the difficulties
+in teaching group lessons specific to tennis and found
+it was difficult to provide individual feedback in large
+group settings. When considering large groups in
+wheelchair tennis, individual disabilities will further
+from the themes and their number of occurrences will
+be shown in parentheses.
+Equipment
+According to the participants, this theme was a
+critical element to coaching properly. One of the
+most discussed issues was the tennis wheelchair (35).
+Without the right chair and its precise adjustments
+depending on the athlete's needs, students will not be
+able to progress. It was agreed that an adjustable chair
+was optimal for new players and younger people who
+are still developing physically. Fixed frames would be
+appropriate once an athlete specializes in the sport
+and is done growing.
+The use of modified equipment (22) and disabilityspecific devices (8) was also discussed in detail. All
+agreed that transition equipment such as smaller
+court sizes, smaller racquets, and lower compression
+balls was of the utmost importance for proper stroke
+production and mobility (22). One coach mentioned,
+“we use the transition tennis balls mainly, but the red
+ball presents some difficulty as it does not bounce
+very high and is hard to grab. Eventually, when they
+are ready for tournaments, we use yellow ball. For
+players with limited hand strength, we will tape.”
+It leads to age and stage-appropriate development
+that creates more opportunities for fun. Disabilityspecific equipment such as athletic tape, straps, and
+belts was also identified. For those with less function,
+impaired balance, and limited hand strength, taping
+the racquet to one's hand and using straps for balance
+also increased player ability and enjoyment.
+Interviewees
+highlighted
+creative
+approaches
+to problem solving. One said, “for grassroots
+programming, I've learned to go to Walmart and grab
+a couple weightlifting belts for straps. I never know
+what kind of players are coming in and out with all
+different levels of disability, so I have various types of
+straps for those that have balance issues. I also always
+have athletic tape for taping the racket to the hand.”
+The importance of the correct-sized sports wheelchair
+was also mentioned. One interviewee said, “more
+junior chairs, usually they get in a chair and the chairs
+are too big for them.”
+Engagement in Group Lessons
+Participants conveyed that one of the most crucial
+aspects of formal tennis coaching education is the
+difference between teaching group lessons and
+private lessons. Keeping students engaged in a group
+lesson can be challenging, specifically in wheelchair
+tennis. Participants were asked to share how they
+keep engagement levels high. Competitive and
+games-based coaching (21), combined with the proper
+modified equipment (11), were the most salient best
+practices. One particular coach said, “everything I do
+is competition. At the end of the day, I add their points
+and determine who wins a prize.
+search of literature databases showed no results of
+this theme in conjunction with coaching.
+10. How would you improve coaching practices
+in wheelchair tennis?
+There have been various studies on the learning
+pathways, experiences, and mentoring in wheelchair
+tennis
+from
+the
+Paralympic,
+high-performance
+perspective (Alexander et al., 2020; Bentzen et al., 2021;
+Douglas et al., 2018; Fairhurst et al., 2017; Falcão et
+al., 2015; Sánchez-Pay & Sanz-Rivas, 2020; Wareham
+et al., 2019). Yet, there is nothing regarding beginner
+to intermediate coaching practices in the literature.
+Data is needed from all levels of coaching experience
+to provide a comprehensive list of recommendations
+for improving coaching in wheelchair tennis.
+Focus group findings
+The focus group was conducted with eight certified
+recreational wheelchair tennis coaches to ascertain
+the best coaching practices specific to beginner and
+intermediate level players. All coaches were certified
+by either the PTR or the USPTA. The ages ranged from
+35 to 55 years. They were chosen from eight different
+sections from the USTA (Southern, Eastern, Midwest,
+Southern California, Intermountain, Florida, Missouri
+Valley, and Northern) They were specifically identified
+in conjunction with USTA National Wheelchair Tennis
+staff based on their proven experience in coaching
+and existing programs in their region. The interviewer
+took notes to facilitate follow-up questions during
+the focus group. After the focus group session,
+the transcription was reviewed, and themes were
+established based on the ten questions. Codes emerged
+from each question and were analyzed by creating a
+table in Microsoft Word. The table is comprehensive
+and far too large for publication. However, it can be
+requested by correspondence with the author.
+Codes and Themes from the Focus Group Data
+The researcher identified themes and conducted a
+word search. The word search results can be found
+in the Frequency Codes Across Focus Group Data, as
+reported in Table 1.
+Discussion of the Findings and Practical
+Application
+Nine overall themes emerged from the focus group.
+With an emphasis on coaching recreational wheelchair
+tennis players, those themes were: equipment,
+engagement in group lessons, engagement in private
+lessons, disability and lesson planning, challenges
+with group lessons, challenges with private lessons,
+best practices in player development, chair setup, and
+improving coaching. The various codes that surfaced
+Table 1. Themes and Frequency Codes Across Focus Group Data.
+Themes
+Code Word
+Occurrences Across
+Data
+Equipment
+Tennis Wheelchairs
+Modified Equipment
+Tennis Equipment
+Disability-Specific Equipment
+Volunteers
+Engagement in Group Lessons
+Equipment
+Toys
+Music
+Stations
+Lesson Plans
+Competition/Games
+Participants Lead
+Engagement in Private Lessons
+Have a Plan
+Player Leads
+Reflection
+Disability and Lesson Planning
+Assessing Disability
+Challenging the Athlete
+Challenges with Group Lessons
+Adapting
+Safety
+Chair as a Negative
+Challenges with Private
+Lessons
+Cognitive Disabilities
+Best Practices in Player
+Development
+Movement
+Planning
+Tactics
+Modeling Mobility
+Net Generation Curriculum
+How to Push with a Racquet
+Chair Setup
+Use Experts
+Adjustable Frames
+Improving Coaching
+Mentoring
+Excursions
+Create More Awareness
+More Educational Resources
+Communities of Practice
+Inclusive Tennis Teaching
+Consistency in Programming
+Qualified Coaches
+varying levels of skill. So, trying to keep upper players
+motivated, as well as offering enough challenge for the
+newer person, but not overwhelming them and making
+them feel they can’t do it.” Adapting also served as
+a precursor for the second-most reported challenge,
+ensuring safety (6). In group lessons, respondents
+spoke about the need to know how many athletes
+will attend any given session so that proper planning
+and preparation can occur regarding tennis-specific
+wheelchairs, extra strapping, belts, and athletic
+tape. Without that knowledge, athletes will not be as
+engaged, and time will be wasted securing them safely
+in the wheelchair. An interviewee said, “safety, safety!
+With groups, you need to have plenty of space.”
+Most group members agreed that there could
+sometimes be resistance to playing in a wheelchair for
+those that are ambulatory with the use of a prosthetic.
+Respondents relayed how some players reported that
+sitting in a wheelchair can be perceived as a step down
+in recovery. However, coaches mentioned that playing
+in a wheelchair improves mobility, balance, safety,
+and presents a new challenge. This same challenge
+went hand in hand with the only challenge explicitly
+related to private lessons, which was dealing with
+athletes that also have cognitive impairments (3).
+When a cognitive impairment is present, it is difficult
+to integrate that person into group lessons without a
+one-on-one volunteer to assist. Within the scope of
+cognitive disabilities, there was emphasis on having
+more routines. In essence, participants concluded that
+it requires more planning. One interviewee stated,
+“I kind of stick with the same routine when dealing
+with cognitive issues. They thrive when there is a
+set routine.” Yet, the more significant issue, which
+was observably uncomfortable to discuss, was a clear
+sentiment among the able-bodied population that
+people in wheelchairs have a cognitive impairment.
+Respondents
+brought
+up
+that
+the
+wheelchair
+community, and parasport athletes in general, take
+great offense to being labeled a Special Olympian.
+The Special Olympics is specifically for people with
+cognitive impairments. Conversely, Paralympians
+are athletes with physical disabilities. Therefore,
+according to interviewees, wheelchair tennis players
+can become quite bothered when training with others
+with intellectual disabilities. It was also mentioned
+earlier that it is frequently challenging to convince
+someone who uses a prosthetic to play in a wheelchair.
+Coaches agreed that due to the lack of awareness
+and education on adaptive sports, emotions and
+misperceptions play a prominent role.
+Best Practices in Player Development
+In most sports, the term player development typically
+connotes high-performance training. However, in
+this context, members were asked to speak about
+specific topics essential to developing players from
+the beginning and intermediate stages. The most
+Respondents shared that people generally enjoy
+playing. Therefore, when players use age and stageappropriate equipment, it promotes more point play
+and longer rallies. Spending more time on lesson
+planning for group lessons stood out (9). Coaches
+reported that it was necessary to design a series
+of group lessons. It was also reported that letting
+students lead (5) certain activities was beneficial for
+more buy-in and station work led to more engagement
+as students experienced less downtime. Finally, music
+(1) was identified as a way to relax the environment
+and increase the fun.
+Engagement in Private Lessons
+Participants spent most of the time focusing on
+lesson planning during the private lesson portion of
+the focus group. It was highlighted that individual
+player
+development
+required
+more
+short
+and
+long-term planning (23). Doing so requires more
+frequent assessments and reflection (4) to prepare
+for discussions with the athlete. Participants shared
+that in individual lessons, students engage more in
+asking high order questions regarding the reasoning
+behind specific drills, activities, live-ball, fed-ball,
+athletic development, and competition. Coaches must
+demonstrate that they care about the athlete and are
+willing to put the extra time in to prepare. In doing so,
+athletes will be more engaged in their development.
+An interviewee explained, “privates are the best time
+to go after individualized goals and individualized
+projects. There should be an assessment period
+followed by goal setting.”
+Disability and Lesson Planning
+Disability-specific knowledge (8) is essential to
+coaching wheelchair tennis players. Yet, participants
+spoke more about the specific time they take to
+properly assess one's disability as there tends to be
+more variation in function at the recreational levels.
+A participant mentioned, “I immediately look at
+how their chair is set up. It tells me a lot about their
+disability. I also notice any extra strapping.” Athletes
+can vary from amputees, paraplegic, quadriplegic,
+congenital disabilities, with a combination of
+cognitive and physical impairments. Athletes can also
+show up to play in everyday chairs, adjustable frames,
+fixed frames, and even power chairs. Once there is a
+determination made of one's ability and the proper
+equipment has been identified, coaches reported that
+it was then incumbent upon them to try and challenge
+players (3) to do more than they think is possible.
+Challenges with Group and Private Lessons
+As participants in this focus group work extensively
+with group and private lessons, they were asked to
+opine on specific challenges in each. One's ability
+to constantly make adaptations (3) for current and
+prospective wheelchair athletes was reported as the
+main challenge. A coach noted, “there are always
+a one-stop-shop online for videos, curricula, tips,
+online courses, and more. A coach said, “so I really
+think that we should always have the resources online
+to share with anyone who's interested. We also need
+more mentoring opportunities. If there was a library
+of online resources or a one-stop-shop, that would be
+very helpful.” Another coach agreed and highlighted
+mentoring, “we need more mentoring. We also need
+much more educational resources like videos, photos,
+and diagrams.”
+Limitations and further study
+Several limitations in the present study should be
+noted, which concurrently offer valuable avenues for
+future inquiry. First, this research relied on a single
+focus group consisting of a relatively small sample size
+(N = 8) of certified tennis coaches. While purposeful
+sampling ensured geographical diversity across eight
+distinct USTA sections, the small cohort restricts
+the generalizability of the findings to the broader
+population of adaptive sports educators across the
+United States. Future research should replicate
+this design using a larger, multi-center sample or
+quantitative surveys to validate these themes on a
+national scale.
+Second, the study utilized a qualitative framework based
+on self-reported insights from video-conferencing
+software. Self-reported data inherently introduces
+potential response, recall, or social desirability biases,
+as coaches may overreport positive strategies or
+misremember specific lesson dynamics. Furthermore,
+this study prioritized the perspectives of conventional
+able-bodied certified tennis coaches who transitioned
+into adaptive coaching. This focus inherently omitted
+the direct lived experiences of recreational wheelchair
+tennis athletes themselves, whose unique viewpoints
+are crucial for confirming coaching efficacy. Future
+studies would benefit from incorporating triangulated
+methodologies, including direct on-court behavioral
+observations and qualitative interviews with entrylevel and intermediate wheelchair athletes.
+Finally, the scope of this study was limited to identifying
+broad best practices for beginner and intermediate
+recreational players. Consequently, the research did
+not deeply investigate the nuances of coaching athletes
+with specific, overlapping cognitive impairments, nor
+did it structurally analyze the mechanical differences
+between specific equipment setups (e.g., fixed vs.
+adjustable frames). An essential avenue for further
+study involves creating and evaluating specific,
+formalized coach education curricula based on these
+findings. Future inquiry should explicitly track the
+longitudinal efficacy of these targeted educational
+resources and online repositories on coach selfefficacy and athlete retention rates.
+discussed subject was that developing players requires
+much more planning (23). For example, one coach
+shared, “back to planning, player development is all
+about taking the daily lesson plan from the weekly
+plan that you're trying to establish for that week, and
+take that weekly plan from the monthly plan and the
+six-month plan and the year plan and so forth.”
+Participants reported that player development also
+involves an emphasis on mobility skills and stronger
+pushing (21). However, all agreed that technique and
+mobility improvements come from a solid foundation
+that can be taught from the Net Generation Curriculum
+(5). Once a player is ready to compete, coaches spoke
+about working more on tactics and strategy (13), which
+relates to planning and reflection for future sessions.
+An interviewee said, “disabled players are a lot more
+tactical than you expect. Ultimately, a good player will
+know how to tactically exploit another's weakness.”
+Chair Setup
+Although participants mentioned specifics regarding
+wheelchairs in a previous question about equipment,
+it was still essential to obtain responses on chair
+expertise. Of the eight focus group members, two
+are wheelchair users in everyday life. The other six
+reported that detailed wheelchair setup knowledge is
+challenging to master, while the two chair users said
+it was not challenging. Most able-bodied wheelchair
+tennis coaches lean heavily on the more experienced
+players in the local program, or they call mentors for
+extra help (3). Everyone still agreed that the use of an
+adjustable wheelchair was paramount for beginning to
+intermediate players (7). The move towards purchasing
+a fixed frame should only occur after significant
+commitment to the sport and athletes have stopped
+growing physically. One coach mentioned, “I always
+encourage new players to get an adjustable frame so
+that we can play around and find their sweet spot.”
+Improving Coaching
+Participants
+were
+asked
+to
+give
+specific
+recommendations for improving wheelchair tennis
+coaching. Each of the eight members had a unique
+recommendation: mentoring (4), excursions (2), create
+more awareness (3), more educational resources (8),
+communities of practice (2), inclusive tennis teaching
+(2), consistency in programming (3), and qualified
+coaches (5). The most agreed-upon recommendation
+was the creation of more educational resources
+which can be related to some of the other themes.
+More education could lead to a more formalized
+mentoring program, better awareness of parasports,
+communities
+of
+practice,
+inclusive
+teaching
+methodologies, consistency in coaching, culminating
+in more qualified coaches. The lack of accessible
+online educational content was also cited. Thus, a
+recommendation offered by the group was to create
+Bertram, R., Culver, D. M., & Gilbert, W. (2016). Creating value
+in a sport coach community of practice: A collaborative
+inquiry. International Sport Coaching Journal, 3(1),
+2–16. https://doi.org/10.1123/ISCJ.2014-0122
+Claxton, B. L., & Michael, K. Y. (2020). Conducting Applied
+Research
+in
+Education.
+Kendall/Hunt
+Publishing
+Company.
+Davies, K. (2017). Growing the game, the modified way! ITF
+Coaching and Sport Science Review, 25(72), 10–11.
+Davies, K. (2020). American Development Model for Tennis.
+Douglas, S., Falcão, W. R., & Bloom, G. A. (2018). Career
+development and learning pathways of paralympic
+coaches with a disability. Adapted Physical Activity
+Quarterly,
+35(1),
+93–110.
+https://doi.org/10.1123/
+apaq.2017-0010
+Fairhurst, K. E., Bloom, G. A., & Harvey, W. J. (2017). The
+learning and mentoring experiences of Paralympic
+coaches. Disability and Health Journal, 10(2). https://
+doi.org/10.1016/j.dhjo.2016.10.007
+Falcão, W. R., Bloom, G. A., & Loughead, T. M. (2015).
+Coaches’ perceptions of team cohesion in paralympic
+sports. Adapted Physical Activity Quarterly, 32(3), 206–
+222. https://doi.org/10.1123/APAQ.2014-0122
+Get to know the USTA sections. (n.d.). Retrieved July 31,
+2021, from https://www.usta.com/en/home/about-usta/
+who-we-are/national/get-to-know-the-usta-sections.
+html
+Hume, D. (2018). Teaching large groups the tennis serve:
+Optimizing
+practice
+opportunities
+and
+providing
+individual feedback. A Journal for Physical and Sport
+Educators, 31(1), 35–41. https://doi.org/10.1080/089245
+62.2017.1394242
+Judge, L., Woodward, S., Gillham, A., Blom, L., Hoover, D.,
+Schoeff, M., Fox, B., Burt, T., & Bellar, D. (2021). Efficacy
+sources that predict leadership behaviors in coaches of
+athletes with disabilities. Journal of Human Kinetics, 78,
+271–281. https://doi.org/10.2478/hukin-2021-0056
+Macdonald, D. J., Beck, K., Erickson, K., & Côté, J. (2016).
+Understanding sources of knowledge for coaches of
+athletes with intellectual disabilities. Journal of Applied
+Research in Intellectual Disabilities, 29(3), 242–249.
+https://doi.org/10.1111/jar.12174
+Mckenzie, G., Willis, C., & Shields, N. (2021). Barriers and
+facilitators of physical activity participation for young
+people and adults with childhood-onset physical
+disability:
+A
+mixed
+methods
+systematic
+review.
+Developmental Medicine and Child Neurology, 63(8),
+914–924. https://doi.org/10.1111/dmcn.14830
+Miley, D. (2017). How to better introduce and retain
+recreational adult tennis players in tennis. . . the best
+sport for life, general health and fitness. Coaching &
+Sport Science Review, 25(72), 21–23.
+Patatas, J., De Bosscher, V., & Legg, D. (2018). Understanding
+parasport: An analysis of the differences between ablebodied and parasport from a sport policy perspective.
+International Journal of Sport Policy and Politics, 10(2),
+235–254. https://doi.org/10.1080/19406940.2017.13596
+PTR - Professional Tennis Registry. (n.d.). Retrieved April 3,
+2021, from https://www.ptrtennis.org/
+Rietveld, T., Vegter, R., der Woude, L., & de Groot, S. (2021).
+The interaction between wheelchair configuration and
+wheeling performance in wheelchair tennis: A narrative
+review. Sports Biomechanics, 1–22. https://doi.org/10.1
+080/14763141.2020.1840617
+Conclusion
+This qualitative study successfully addressed the
+critical gap in formalized educational resources for
+beginner and intermediate wheelchair tennis coaches
+by synthesizing the practical expertise of eight certified
+tennis professionals. Through a semi-structured
+focus group, the research yielded rich qualitative
+data, revealing nine overarching themes essential for
+effective coaching: equipment, engagement in group
+and private lessons, disability and lesson planning,
+challenges in group and private lessons, best practices
+in player development, chair setup, and improving
+coaching practices. The findings underscore the
+specialized nature of adaptive sports instruction,
+particularly the paramount importance of appropriate,
+adjustable equipment and the necessity for highly
+individualized, planned instruction that accounts
+for diverse physical and cognitive impairments. The
+prominence of themes such as "Have a Plan" and the
+continual need for "Adapting" confirms that successful
+coaching in this domain moves beyond general tennis
+pedagogy, demanding an athlete-centered approach
+rooted in flexibility, assessment, and long-term
+developmental strategy.
+Crucially, the collective recommendations from the
+participants, foremost among them the creation
+of "More Educational Resources," provide a clear
+mandate for advancing the field. By codifying lived
+experiences into practical insights, this research
+furnishes a foundational evidence base that can
+directly inform the development of comprehensive,
+standardized coach education curricula. Ultimately,
+the synthesis of these expert perspectives offers not
+only a set of best practices but also a blueprint for
+fostering a more consistent, qualified, and inclusive
+coaching environment, thereby enhancing the quality
+of experience and developmental pathways for entrylevel and intermediate wheelchair tennis athletes.
+Conflict of interest
+The author declares that he has no known conflict of
+interest to disclose.

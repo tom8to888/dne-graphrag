@@ -1,0 +1,206 @@
+Title: Influence of Fatigue on the Muscular Activity and Performance of the Upper Limb
+Authors: Samuel Rota, Christophe Hautier
+Year: 2012
+Issue: Vol. 20 No. 58 (2012)
+Article id: 424
+
+www.itfcoachingreview.com
+December 2012. 20th Year. Issue 58. 7-10
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v20i58.424
+
+Influence of fatigue on the muscular activity
+and performance of the upper limb.
+Samuel Rota & Christophe Hautier.
+University of Lyon, France.
+ABSTRACT
+
+The aim of this study was to examine the effect of fatigue on accuracy, ball
+speed and muscle activity in the serve and forehand. The fatigue protocol
+resulted in a decrease of ball speed in serves and of accuracy in forehands,
+associated with the decreased activation of certain muscles. The players
+experiencing fatigue seemed to use an adaptation strategy based on the type
+of stroke, without modifying their inter-muscular coordination. These results
+make us consider the possibility to work on resistance to fatigue for specific
+strokes and muscle groups.
+
+Key words: Fatigue, Ball speed,
+Accuracy, Adaptation strategy.
+Received: 6 June 2012
+Acepted: 8 October 2012
+Corresponding author: Samuel
+Rota, University of Lyon, France.
+Email: samuel.rota@fft.fr
+
+INTRODUCTION
+With the physical dimension of modern tennis, fatigue
+becomes an issue that is inextricably linked to the performance
+of competition. While there is a consensus on the importance
+of fatigue in tennis and its influence on the outcome of the
+game, it remains necessary to understand why it occurs in order
+to limit its effects. Several scientific studies have confirmed the
+observations of coaches on the degradation of strokes,
+movements and poor tactical choices occurring in situations of
+fatigue (Davey et al., 2002). A summary of the results published
+in this area was conducted by Hornery et al. (2007). It was
+shown that after a tennis session leading to exhaustion, fatigue
+led to a 69% decline in precision in groundstrokes and a 30%
+drop in ball speed in serves (Davey et al., 2002). Similarly, an
+intense workout of 2 hours resulted in a decrease in speed and
+precision in groundstrokes and second serves, as well as an
+increase in the error rate of the latter (Vergauwen et al., 1998).
+Finally, the electromyography activity (EMG) and the maximal
+isometric force of the quadriceps decreased significantly
+during simulated matches (Girard et al., 2006, 2008). According
+to Girard et al. (2008), the deterioration of the neuromuscular
+function during a prolonged tennis match could be explained
+by a failure at both central (motor command) and peripheral
+(excitation / contraction) levels.
+However, in spite of significant fatigue being experienced,
+some players maintain speed and accuracy on their serve
+(Hornery et al., 2007). Thus, it seems that during serve,
+compensatory neuromuscular strategies may occur in
+situations of fatigue (Girard et al., 2009) to maintain the level of
+performance. It therefore seems interesting to study the
+muscular adaptations of the upper limb associated with fatigue
+in tennis.
+
+Figure 1: Structure of the experimental protocol and the various
+parameters measured. (EMG: surface electromyography; RPE:
+perceived exertion; Performance: measures of accuracy and ball
+speed; FC: heart rate)
+
+METHOD
+Following a standard 20 min warm-up, 8 adult tennis players
+(ranked 15 to 4/6) were submitted to a test measuring their
+stroke performance before and after an intermittent exercise
+leading to fatigue (Figure 1).
+The performance test focused on the speed - measured by a
+radar - and accuracy of the serves and cross-court forehands.
+
+The subjects had to hit a powerful and accurate serve, seeking
+the ace on the “T”. The forehands were fed using a ball machine
+(3 seconds per stroke). Shot accuracy was evaluated by means
+of targets, the smallest yielding the most points (Figure 2), a
+ball bouncing outside the target areas yielding no points. The
+error rate was calculated as the number of strokes in the target
+/ the total number of strokes. The electrical activity of eight
+muscles of the dominant upper limb was recorded by the
+surface EMG during stroke production. The starts, ends,
+durations and levels of the activation of each muscle were
+calculated.
+
+Figure 2. Diagram of the performance test and coefficient values
+associated with target areas (squares for serves)
+
+The fatigue-inducing exercise consisted of four sequences of
+12 repetitions of 1 serve + 8 cross-court forehands (2 seconds
+per stroke). Recovery periods of 20 seconds (semi-active)
+between repetitions and 90 seconds (seated) between
+sequences were allowed (Figure 1). The players had to hit at
+maximum intensity and reposition at centre court between
+each forehand. The heart rate (HR), blood lactate concentration
+([La] s) and perceived exertion (RPE) were measured during
+testing.
+Repeated ANOVA measures and a Student’s t-test were used
+to assess the differences between the various indicators before
+and after fatigue.
+RESULTS
+
+Values: mean (standard deviation). * Significant difference
+between pre and post-test (p <0.05)
+Table 1. Performance criteria for serve and forehand in pre and
+post- fatigue states.
+
+The average heart rate remained constant between the
+sequences (174.7 ± 10.6 bpm) while the [La] s increased
+significantly from 2.8 mmol.l-1 to 5.7 mmol.l-1 (p = 0.04). RPE
+values increased between sequences (p <0.02) except between
+sequences 3 and 4. The players saw their effort as “hard” (RPE
+= 14.5) during the first sequences, then “very hard” (RPE = 17.5)
+during the last sequence of the exercise.
+Significant decreases were observed in serve speed (3.2%) and
+forehand accuracy (21.1%) after the fatigue-inducing exercise
+(Table 1). The error rate also tended to increase, especially in
+the forehand (27.6%) (p = 0.056)
+
+Figure 3. Standardized EMG activation level of upper limb muscles
+in the serve and forehand in pre and post-fatigue states. (LD:
+latissimus dorsi; PM: pectoralis major, PD: posterior deltoid; MD:
+middle deltoid; AD: anterior deltoid, T: triceps, FCR: flexor carpi
+radialis, ECR: extensor carpi radialis)
+
+LEMG activation levels of the pectoralis major (PM) and flexor
+carpi radialis (FCR) decreased significantly during the serve and
+forehand, while they decreased for the extensor carpi radialis
+(ECR) during the forehand (p <0.04). No difference was
+reported in the starts, ends and durations of muscle activity,
+irrespective of the muscle observed.
+DISCUSSION
+This study brought to light the negative effect of fatigue on
+serve speed and forehand accuracy, as well as a significant
+decrease in the amplitude of the PM, FCR and ECR EMG .
+However, the temporal pattern of the inter-muscular
+
+coordination did not seem to change. Given the average heart
+rate, blood lactate and evaluation of perceived exertion (RPE),
+the fatigue protocol imposed a workload greater than that of
+a match, approaching that of an intense rally (Kovacs 2006).The
+specific fatigue experienced by the player triggered different
+coping strategies depending on the stroke. Indeed, players
+decreased their serve speed, probably in order to maintain a
+high accuracy and a low error rate. However, in forehands, they
+preferred to preserve speed at the expense of precision and
+consistency. Despite differences in protocol across studies, our
+results confirm those of previous work (Hornery et al., 2007).
+This strategy, whether conscious or unconscious, refers to Fitts’
+speed-precision conflict, which might explain the inverse
+evolutions of ball speed and stroke accuracy.
+Serve is considered one of the most important elements of the
+game of tennis (Elliott, 2001) and has a significant impact on
+the results of a modern tennis match (Gillet et al., 2009). Thus,
+in training as in competition, the accuracy and consistency of
+the serve are perceived by players as essential. Regarding the
+forehand, it has been described as a key stroke of modern
+tennis (Brabenec, 2000) and is often used as an offensive
+weapon in order to hit winners. Working on the forehand
+during training involves exercises with target areas much larger
+than those used for the serve and that are based more on
+power than on the search for accuracy. Therefore, these strokespecific training requirements might influence the strategies
+adopted in relation to the speed-precision conflict during
+fatigue situations.
+Fatigue could likely cause a remodeling of the inter-muscular
+coordination in order to maintain task performance. However,
+no change in the temporal pattern of activation was observed
+in our study. Still, the loss of speed in the serve could be partly
+explained by the decreased activity of two muscles involved in
+generating speed, the PM and FCR, which appear to be
+determining in the acceleration phase (Morris et al. 1989, Ryu
+et al., 1988). They are involved, respectively, in the rotation of
+the shoulder and flexing of the wrist, which contribute 40% and
+30% to the total speed of the serve (Elliott, 2006). During a
+state of fatigue, players seem to decrease the activation of
+these muscles, causing a decrease in speed. The purpose of this
+adaptation may be to limit the risk of injury by reducing the
+amplitude and forces of the movement (Kovacs, 2006). The
+deterioration of forehand precision could be linked to the
+decrease of the FCR and ECR EMG activation levels since a
+decreased activity of these muscles can lead to poor racket
+control. This decline in muscular activity could cause an
+alteration of racket holding, wrist stabilization (Morris et al.,
+1989) as well as impact shock and vibration dampening (Chow
+et al., 2007). Changes in the EMG activity of the FCR and ECR
+muscles observed in the forehand, associated with the forearm
+pains experienced by some players confirm that the high
+gripping forces generated at impact during groundstrokes
+lead to significant constraints on the forearm of the player
+(Davey et al., 2002) and can generate highly localized fatigue.
+CONCLUSION
+This study highlights the utility of working on serve speed and
+forehand accuracy while in a state of fatigue. It also seems
+useful to develop the muscular endurance of the PM and the
+muscles of the forearm, which appear most susceptible to
+fatigue. Thus, based on these results, coaches and players will
+be able to develop a specific training program designed to
+delay the onset of fatigue and develop effective strategies for
+maintaining performance, while reducing the risk of injury.

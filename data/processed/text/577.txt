@@ -1,0 +1,134 @@
+Title: Analysis of the Game of Blind Tennis
+Authors: Shuhei Sato, Ryoso Tomosue, Masayuki Sato, Keiko Yoshinari, Daisuke Hirata, Nobuaki Tanaka, Miyoshi Takei, Ayako Matsui, Philippe Azar
+Year: 2010
+Issue: Vol. 18 No. 52 (2010)
+Article id: 577
+
+www.itfcoachingreview.com
+December 2010. 18th Year. Issue 52. 23-25
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v18i52.577
+
+An analysis of the game of blind tennis.
+Shuhei Sato, Ryoso Tomosue, Masayuki Sato, Keiko Yoshinari, Daisuke Hirata, Nobuaki
+Tanaka, Miyoshi Takei, Ayako Matsui & Philippe Azar.
+International Tennis Federation.
+ABSTRACT
+This research compared specific elements of the men’s final of a blind tennis
+tournament to the standard game of top ATP professional tennis players in order
+to better understand the distinctive features and characteristics of blind tennis.
+The present rules and regulations of blind tennis allow the visually impaired to
+enjoy and compete in essentially the same way as normal tennis players.
+
+Key words: Blind tennis, Game
+analysis, Match time, Rally strokes.
+Received: 5 November 2010.
+Acepted: 10 December 2010.
+Corresponding author: Shuhei Sato,
+International Tennis Federation.
+Email: tsvkrv7q@jcom.home.ne.jp
+
+INTRODUCTION
+Blind tennis was created in 1984 by Mr. Miyoshi Takei and was
+originally called ‘Visually Handicapped Tennis’. The first
+tournament was held in Japan at the National Rehabilitation
+Center for the Disabled in 1990. Traditionally, visually impaired
+versions of various sports are played on the ground and the
+floor. However, blind tennis is played in three dimensions - over
+a net, using a special ball that emits a rattling sound as it travels
+and bounces. The exterior of the ball is made of sponge with
+the rattling ping-pong ball at its core.
+
+Figure 1. Blind tennis ball.
+
+Purpose
+The present study aimed to address a dearth of research into
+blind tennis. Specific elements in the men’s final of a blind
+tennis tournament were compared to the game characteristics
+of an ATP tour match in order to better understand the
+distinctive features and characteristics of blind tennis.
+
+Figure 2. Blind tennis player.
+
+METHODS
+Comparative analysis
+•Japan Blind Tennis Tournament 2008 Men’s Final:
+Miyoshi Takei VS Yasushi Segawa
+•Delray Beach ATP Tournament 2008 Men’s Final:
+Kei Nishikiori VS James Blake
+This study compared the following elements over a span of 4
+games, as blind tennis is played on a 4 game set rule.
+•time in which the ball is in play
+•time in which the ball is out of play
+•maximum rally time
+
+•minimum rally time
+•average rally time
+•maximum rally strokes
+•minimum rally strokes
+•average rally strokes
+•first service percentage
+•number and type of errors/winners
+RESULTS
+Match time
+The following table compares total match time, the time the
+ball is spent in play, and the ‘dead’ time between points
+
+Table 1. Time of play & time out of play in minutes.
+
+Based on the above data, it appears to take more time to
+complete four games of blind tennis when compared with
+normal tennis. In addition to this, the ball in blind tennis is likely
+to be in play longer than in conventional tennis. Results also
+found that there is hardly any difference in the time that the
+ball is out of play. It is likely that the rule allowing blind tennis
+players to let the ball bounce up to 3 times before hitting may
+be the causal factor for the length of time that the ball is in
+play.
+Rally time
+The following table compares rally times in terms of the longest
+rally, shortest rally and also the average rally time.
+
+Table 2. Maximum rally time, minimum rally time & average rally
+time. Based on this data, the maximum, minimum and average
+rally time is longer in blind tennis. The smaller rackets, slower
+balls, the smaller sizeof the tennis court are all thought to affect
+the result.
+
+Rally strokes
+
+Table 3. Maximum rally strokes, minimum rally strokes & average
+rally strokes count.
+
+Based on this data, there is no significant difference in the
+maximum, minimum or average rally strokes between blind
+tennis and conventional tennis.
+Serving percentage
+
+Table 4. First service percentage.
+
+Based on this data, the first service percentage is higher in
+normal tennis.
+Winner and error classification
+Based on this data, there are marked differences in missed
+shots where the player fails to make contact with the ball. In
+addition, winners and aces are considerably higher for normal
+tennis.
+
+Figure 1. Number and kinds of errors and winners.
+
+CONCLUSION
+The data comparing blind tennis with normal tennis has
+revealed a marked difference in the playing time between the
+two games. The speed of the ball certainly effects this result,
+however the number of the bounces is thought to be the main
+cause for this discrepancy (totally blind players are allowed up
+to three bounces).
+The present study also found significant differences in the
+number and kinds of errors and winners. Despite these
+differences, there were also a lot of similarities observed
+between both versions of tennis, such as the average rally
+strokes for example. It is concluded that given the unique
+characteristics of the game of Blind tennis, the present rules
+and regulations of allow the visually impaired to enjoy and
+compete in essentially the same way as normal tennis players.

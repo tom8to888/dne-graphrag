@@ -1,0 +1,837 @@
+Title: Factors that enable breakthroughs in tennis: A case study of elite college tennis players in Japan
+Authors: Kazuki Hioki, Shion Hotta, Takashi Iba
+Year: 2024
+Issue: Vol. 32 No. 92 (2024)
+Article id: 512
+
+www.itfcoachingreview.com
+April 2024. 32th Year. Issue 92. 30-37
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i92.512
+INTRODUCTION
+In the world of sports, the phenomenon of a dramatic
+improvement in competition results at some point is called
+a “breakthrough.” The word “breakthrough” generally refers
+to breaking through a difficulty or barrier. In the world of
+sports, at the Laureus World Sports Awards, also known as
+the Academy Awards of the sports world, Laureus World
+Breakthrough of the Year is awarded to athletes who
+show rapid growth throughout the year. Thus, the word
+“breakthrough” has become a keyword that attracts attention
+in the sports world.
+Roger Federer, the former number one tennis player, and
+a six-time Laureus World Sportsman of the Year laureate,
+said in an interview, “2003 was a breakthrough year for me”
+(Tennis Classic editorial department, 2020). Ranked 3rd in
+the world at the time, he won his first title at the Nitto ATP
+Finals and moved up to No. 2 in the world rankings. In that
+tournament, he defeated Andre Agassi, the former No.1
+player, and looked back, saying, “It opened up my belief that
+I could fight and defeat the best baseliner head-on” (Tennis
+Classic editorial department, 2020). Then, two months later,
+he won the Australian Open and took over the world rankings
+and held that position until August 2008.
+In addition, Naomi Osaka, a former world champion,
+became the first Japanese player to win the Laureus World
+Breakthrough of the Year in February 2019. She jumped from
+No.68 in the world rankings at the end of 2017 to No.1 after
+winning the US Open in August 2018 and the Australian Open
+in January 2019.
+ABSTRACT
+In the world of sports, the phenomenon of a dramatic improvement in competition
+results at some point is called a “breakthrough.” In this study, “breakthrough” is defined
+as “a dramatic improvement in competition results at some point,” and the purpose of
+this study is to reveal hypothetical findings on the factors that enable “breakthroughs”
+in tennis. Semi-structured interviews were conducted with eight Japanese college tennis
+players who had experienced a “breakthrough” in the past, and who had records of being
+in the top 8 or above in national championships. The interview content was transcribed
+and used to conduct a qualitative analysis. As a result, the following three hypothetical
+findings were revealed: “maintaining high motivation,” “continuous growth,” and “high
+performance during games” are important for enabling “breakthroughs” in tennis.
+Those hypothetical findings will be useful information for athletes who are aiming for
+“breakthroughs” and for coaches who support them.
+Factors that enable breakthroughs in tennis: A
+case study of elite college tennis players in Japan
+Kazuki Hioki¹
+ , Shion Hotta²
+  & Takashi Iba¹
+¹Keio University, Japan. ²The University of Tokyo, Japan.
+Key words: breakthrough,
+expertise, tennis, qualitative
+research.
+Received: 16 October 2023
+Accepted: 12 December 2023
+Corresponding author: Kazuki
+Hioki. Email: kazukihioki@keio.jp
+The phenomenon of a dramatic improvement in competition
+results at some point in sports is conceivable this way. And
+the interest of this research is to find out what factors enable
+“breakthroughs.”  There are no studies, yet, dealing with
+“breakthroughs” in the field of sports and there is no clear
+definition of what a “breakthrough” is. Therefore, in this
+study, “breakthrough” is operationally defined as “a dramatic
+improvement in competition results at some point.”
+In reviewing the previous studies relating to “breakthroughs,”
+we can study those that have acquired advanced knowledge
+and skills in a specific field (otherwise known as experts).
+Research has also been conducted to reveal how these
+experts acquired their skills. For example, Ericsson (1996)
+COACHING & SPORT
+SCIENCE REVIEW
+proposes that it takes more than ten years of practice and
+experience to acquire high levels of knowledge and skills.
+Furthermore, it has been stated that it is not enough just to
+go through ten years of practice and experience and that the
+practice must be a “deliberate practice” that requires a high
+level of concentration and effort (Ericsson et al.,1993).
+Therefore, it is conceivable that the development of skills
+may be an important factor that enables a “breakthrough.”
+But, if a “breakthrough” is defined as “a dramatic
+improvement in competition results,” it is necessary to
+understand “breakthroughs” from a more comprehensive
+perspective, including the perspective of acquisition of
+advanced knowledge and skills, the perspective of changes
+in competition results, and the clarification of factors behind
+such “breakthroughs.”
+Due to the paucity of previous research on "breakthroughs," it
+is difficult to hypothesize factors that enable such a scenario.
+Therefore, it is necessary to conduct exploratory research
+aimed at generating hypothetical findings on factors that
+enable “breakthroughs.” Qualitative research is said to be
+an effective research method for exploratory research into
+unknown phenomena and the characteristics of people's
+experiences (Nochi, 2000).
+Therefore, in this study, we conduct qualitative research
+focusing on the experiences of tennis players who have
+experienced “breakthroughs” in the past and reveal
+hypothetical findings on factors that enable such instances.
+The hypothetical findings of this study are thought to be of
+useful information for athletes aiming for “breakthroughs”
+and for coaches who support them.
+METHODS AND PROCEDURES
+Subject
+The subjects of this study were Japanese college tennis
+players who had experienced “breakthroughs” in the past
+and had won top prizes in the national championships in
+Japan. The subjects of this study are shown in Table 1. It is
+hoped that the subjects of this study remember episodes of
+their “breakthroughs” and the factors that made it possible.
+Therefore, in this study, the following two selection criteria
+were used to select the survey subjects. (1) Have experienced
+“breakthroughs” in a tennis competition in the past, and (2)
+achieved top 8 or higher in an individual game at a national
+championship. The reason for this is that it is expected that
+national top-class college athletes have more episodes of
+“breakthroughs” than other athletes.
+The subjects of this study were eight Japanese college
+tennis players (four males and four females, average age
+19.9±0.6 years) who met the above two selection criteria
+and cooperated in the survey.  The study was conducted after
+confirming that the above two selection criteria were met.
+Table 1
+Attribute of subjects .
+Subjects
+Gender
+Age
+Best Results in National
+Championship
+A
+Male
+Winner
+B
+Male
+Winner
+C
+Female
+Winner
+D
+Female
+Winner
+E
+Female
+Runner-up
+F
+Female
+Runner-up
+G
+Male
+Quarterfinals
+H
+Male
+Quarterfinals
+Procedure
+The survey period was from April 2021 to November 2022. In
+this study, a semi-structured interview method was adopted.
+The survey was conducted online (videoconferencing using
+Zoom) and lasted 40 to 100 minutes (an average of about
+68 minutes). The interview was centered on the question
+“Looking back on your career, when do you think you had
+your breakthrough?” “Why do you think 'breakthroughs' are
+possible?” and the interviewees were asked to give specific
+episodes in their answers.
+In addition, as ethical considerations, the survey participants
+were informed of the right to refuse participation in the study,
+of the handling of their personal information, and that their
+anonymity would be preserved. They were also informed
+of the necessity to record the contents of the interviews to
+transcribe them into text. They survey was conducted after
+obtaining their consent.
+Data Analysis
+A qualitative inductive analysis was conducted. The procedure
+is as follows. First, we made a verbatim transcript of the selftalk data. Next, sentences that were related to factors that
+enable “breakthroughs” were extracted from the verbatim
+transcript of 90855 characters. The 101 extracted sentences
+were separated by meaningful phrases and codes. Codes
+were grouped according to the similarity of their contents
+and subcategorized with appropriate and concise words.
+Subcategories were grouped according to the similarity of
+their contents and categorized with appropriate and concise
+words.
+RESULTS
+As a result of the analysis of the interview content, the 101
+semantic units were classified into 13 subcategories, and
+finally into three categories: “maintaining high motivation,”
+“continuous growth,” and “high performance during games”
+(Table 2).
+The contents of each category and subcategory are described
+in detail below. The codes representing the categories and
+subcategories and the utterance data are shown in Tables 3, 4,
+and 5. The codes are denoted by 【 】, subcategories by < >, and
+categories by « ».
+Maintaining high motivation
+In the category of «maintaining high motivation», the content is
+related to motivation for continuing daily practice and training
+(Table 3-1). This category consists of four subcategories:
+<setting achievable goals>, <setting goals related to the skill>,
+<having a reason>, and <observing games>.
+First, in the subcategory of <setting achievable goals>, it was
+shown that the goal should be set as high and clear as possible
+within the feasibility of the goal. Next, in the subcategory of
+<setting goals related to the skill>, it was shown that setting
+a goal related to their play, in addition to achievement goals
+at competitions was important. Next, in the subcategory of
+<having a reason>, it was shown that the reason for aiming to
+achieve the goal should be clarified, such as “I want to win for
+the sake of...” Next, in the subcategory of <observing games>,
+the importance of visiting and watching target competitions
+and matches was shown.
+Continuous growth
+In the category of «continuous growth», the content is related
+to continuing to improve competitiveness (Table 3-2). This
+category consists of five subcategories: <increasing practice>,
+<practicing with better players>, <recognizing own strengths
+and weaknesses>, <trying new ideas>, and <escaping from
+mistaken beliefs>.
+First, in the subcategory of <increasing practice>, it was
+shown that increasing the amount of practice due to changes
+in the environment, and time for independent practice due to
+going on to schools of higher education was important. Next,
+in the subcategory of <practicing with better players>, it was
+shown that creating opportunities to practice with players
+who are at a higher level or who are better at certain skills
+Table 2
+Overall Results
+Category
+Subcategory
+Subjects
+A
+B
+C
+D
+E
+F
+G
+H
+maintaining high motivation
+setting achievable goals
+〇
+〇
+〇
+
+〇
+〇
+
+setting goals related to the skill
+
+〇
+〇
+
+〇
+
+〇
+having a reason
+〇
+
+〇
+〇
+〇
+observing games
+
+〇
+〇
+
+〇
+continuous growth
+increasing practice
+
+〇
+〇
+
+〇
+〇
+〇
+〇
+practicing with better players
+〇
+
+〇
+
+〇
+
+〇
+〇
+recognizing own strengths and
+weaknesses
+〇
+〇
+〇
+
+〇
+〇
+
+〇
+trying new ideas
+〇
+
+〇
+
+〇
+
+〇
+〇
+escaping from mistaken beliefs
+
+〇
+
+〇
+
+〇
+〇
+high performance during games
+match emulation
+〇
+
+〇
+〇
+〇
+
+game repetition
+
+〇
+〇
+
+〇
+
+focusing on what should be done
+〇
+
+〇
+
+〇
+
+taking it easy
+
+〇
+〇
+〇
+〇
+
+〇
+ Place a "〇" for subjects with a self-talk that corresponds to the subcategory.
+was important. Next, in the subcategory of <recognizing own
+strengths and weaknesses>, it was shown that understanding
+one’s own strengths and weaknesses through feedback from
+coaches, self-analysis, and review of matches was important.
+Next, in the subcategory of <trying new ideas>, it was shown
+that to improve one's skills, continuing to make changes based
+on what one noticed in matches and feedback from coaches
+was important. Next, in the subcategory of <escaping from
+mistaken beliefs>, it was shown that breaking free from
+one’s own false common sense, which had been formed by
+accumulating experience and knowledge, was important.
+High performance during games
+In the category of «high performance during games», the
+content is related to demonstrating the skills developed
+through practice and training in an environment different
+from practice, such as a match (Table 3-3). This category
+consists of four subcategories: <match emulation>, <game
+repetition>, <focusing on what should be done>, and <taking
+it easy>.
+First, in the subcategory of <match emulation>, it was shown
+that daily practice should be approached with pressure like
+that of a game. Next, in the subcategory of <game repetition>,
+it was shown that to get accustomed to the environment of
+the game, which is different from daily practices, experiencing
+many opportunities of the game was important. Next, in the
+subcategory of <focusing on what should be done>, it was
+shown that regardless of the opponent's level, clarifying what
+one should do during the game and playing without hesitation
+was important. Next, in the subcategory of <taking it easy>,
+it was shown that approaching the games with less excessive
+expectations
+towards
+themselves
+and
+less
+excessive
+attachment to winning or losing was important.
+Table 3-1
+Typical utterance of «maintaining high motivation».
+«maintaining high motivation»
+＜setting achievable goals＞
+【Set goals that can get serious】 I think the breakthrough moment is the moment when you want to win a tournament or when you are
+serious about it. When you have a goal, and you are serious about it, you will notice a lot of things while you are playing. [Subject A]
+【Set clear goal】 First, set a clear goal in your mind. If you want to enter the main tournament, enter the main tournament, if you want
+to go to the national tournament, enter the national tournament. [Subject C]
+＜setting goals related to the skill＞
+【Set a goal of ideal play】 I set goals for how I want to play. [Subject B]
+【Practice to achieve ideal play】 Rather than finding the issues, I practice thinking about how I want to play and how I want to be able
+to hit the ball. [Subject H]
+＜having a reason＞
+【The desire to win for higher education】 I wanted to enter the high school of my choice. When I am under pressure to achieve results
+for that purpose, I may be motivated and become stronger. [Subject F]
+【The desire not to lose for the sake of teammates】 I feel that it was important for me to feel that I could not lose for the sake of my
+friends around me. This had a positive effect on me to the extent that I did not feel pressured. [Subject G]
+＜observing games＞
+【Go to the venue of the competition you are aiming for】 You will not know what a national tournament is like or what the atmosphere
+is like unless you have been there. It is important to go there and think "I want to play here". [Subject D]
+【Watching a tournament that was not able to compete in】 I went to see the tournament that I lost in the qualifying round. When I saw
+people playing in that tournament, I felt even more that I wanted to play there myself. [Subject F]
+Categories are denoted by « », subcategories by < >, codes by 【 】 , and subjects who spoke by [ ]
+Table 3-2
+Typical utterance of «continuous growth».
+«continuous growth»
+＜increasing practice＞
+【Increased practice due to environmental changes】 I think the amount of practice has increased a lot since I entered high school.  I
+practiced from past 7:00 to around 8:00, went to club activities in the afternoon, and went to tennis school afterward. [Subject E]
+【More time for self-practicing】 If I did not have a good practice that day, I practiced by myself after that practice. I also practiced a lot
+by practicing in my free time or by asking my coach to practice with me. [Subject F]
+＜practicing with better players＞
+【Ask a higher-level player to practice with】 I think it's important to practice with higher-level players. Practicing with higher-level
+players makes you realize more and makes you think that you have to reach this level to win. [Subject A]
+【Practice with players who have the skills you want to learn】 In my case, I am not good at doubles at all, so I have been practicing with
+a senior who is a strong doubles player. As a result, I am finally gaining confidence. [Subject H]
+＜recognizing own strengths and weaknesses＞
+【Finding strengths and weaknesses through self-analysis】 It is important to do a thorough self-analysis and think about your strong
+points and your weak points. Specifically, you need to look at the games you played when you were good and determine what style of
+play you will adopt. [Subject B]
+【Finding challenges from the game regardless of whether you win or lose】 Sometimes I have perfect matches, but usually, I have
+problems whether I win or lose a match. Especially in losing matches, I know that this shot was not good enough, so I try to practice it.
+[Subject C]
+＜trying new ideas＞
+【Adopt and discard new skills】 I believe that players who can adopt new skills and make a choice for  them are the strongest. [Subject
+G]
+【Make an exaggerated change】 When we lost the national tournament last year, my persistence didn't work at all, and I realized that
+I had to attack. For about six months after that tournament, I made a conscious effort to play extremely aggressively in practice and
+competitions. [Subject A]
+＜escaping from mistaken beliefs＞
+【Escape from the assumption that offense is the only strategy】 In practice, we often do offensive practice, such as chance ball practice
+and volleying practice. In addition, when I watch professional matches, points won by winners tend to be the focus, and that image has
+stuck in my mind. [Subject E]
+【Understand the importance of reducing errors】 Until now, I had an ideal pattern of attacking points, and I was obsessed with winning
+points with that pattern. However, after entering the university, I have come to understand that it is very important to be persistent and
+patient. [Subject E]
+Categories are denoted by « », subcategories by < >, codes by 【 】 , and subjects who spoke by [ ]
+Table 3-3.
+Typical utterance of «high performance during games».
+«high performance during games»
+＜match emulation＞
+【Increase tension in practice】 The atmosphere in practice was so scary that I was not allowed to make mistakes. I think it was probably
+similar to the pressure in a game. Personally, the pressure to not make mistakes was greater than in games. [Subject G]
+【Play a practice match under pressure】 Unlike when I was in tennis school, I pushed myself in the matches within the club, as if I was
+the strongest player and should not lose to others. [Subject E]
+＜game repetition＞
+【Play the game until the game becomes like practice】 I think it's important to play games regularly. Even if you practice a lot, it is
+completely different from playing matches. Winning or losing, it's important to get a feel for the game. [Subject D]
+【Regularly compete in tournaments】 I think it is important to participate in many tournaments. When I was a junior high school
+student, I used to participate in a tournament once a month, even though it was a low-grade tournament. I think it is important to have
+a good feel for the game. [Subject F]
+＜focusing on what should be done＞
+【Focus on what you can do, even if your opponent is strong】 When I was playing against strong players, I did not want to be weak or
+to be pushed by pressure. I was conscious of playing my tennis no matter what my opponent was doing. [Subject A]
+【Try not to get lost in the game.】 If you want to play sticky, keep hitting the sticky ball and wait until you have a chance. On the other
+hand, if you want to play offensively, you need to keep hitting the ball offensively. Halfway is the worst. [Subject E]
+＜taking it easy＞
+【Play the game with a spirit of challenge】 It's very nerve-wracking to play an important match against a superior player. So, I think it is
+a good idea to play every match as if you are going broke. [Subject D]
+【Try not to be too conscious of winning or losing】 I think I play well when I don't expect much from myself. It is not that I don't want to
+win, but when I don't care too much about winning or losing, the results are better. Maybe it is mental relaxation. [Subject B]
+Categories are denoted by « », subcategories by < >, codes by 【 】 , and subjects who spoke by [ ]
+DISCUSSION
+The purpose of this study is to reveal hypothetical findings on
+the factor that enable “breakthroughs” in tennis. As a result,
+the following three hypothetical findings were revealed:
+“maintaining high motivation,” “continuous growth,” and
+“high performance during games” are important for enabling
+“breakthroughs” in tennis.
+This suggests that to achieve a “breakthrough,” in addition
+to improving competitive performance, it is necessary
+for one to carry out their daily practice and training with
+strong motivation and to be able to fully demonstrate their
+competitive ability in the special environment of competition,
+which is different from practice.  From this point on, we will
+focus on each category and make a discussion.
+Maintaining high motivation
+To achieve a “breakthrough” in tennis, it is necessary to
+practice and train daily and continue to improve. Ericsson
+et al. (1993) showed that athletes who have reached the
+“professional” level have accumulated 10,000 hours of
+deliberate practice by the age of 20. Deliberate practice
+is defined as a practice that requires players to perform
+sophisticated tasks, provide feedback, repetition, error
+correction, and have a specific set of goals. It is also said a
+“painful” and “tedious” practice also requires dedication and
+commitment. To accumulate such practice without giving up,
+high motivation and mental strength are necessary. In fact, a
+study comparing the motivation of professional and amateur
+tennis players demonstrated that professional players have a
+higher level of motivation (Butt & Cox, 1992).
+The subjects used various methods to stay highly motivated.
+First, in the subcategory of <setting achievable goals>, the
+importance of setting clear goals at appropriate heights was
+demonstrated. Goal setting theory (Locke & Latham, 1990)
+indicates the importance of goals being somewhat difficult
+and challenging, and of having concrete goals with numerical
+values and deadlines, rather than vague goals. In this manner,
+setting goals and the motivation to achieve them have been
+demonstrated to be essential factors in the growth of talented
+junior tennis players (Unierzyski, 2003).
+Next, in the subcategory of <setting goals related to the
+skill>, the importance of having a goal for one's play was
+demonstrated. Dweck (1986) classifies achievement goals
+into two main categories: a performance goal and a learning
+goal. A performance goal is a goal that emphasizes relative
+advantage over others in comparison with others. A learning
+goal is a goal that emphasizes the development of one's
+abilities through learning and understanding. In the study
+of the relationship between goal orientation and intrinsic
+motivation in tennis competition, it was shown that taskoriented undergraduate tennis players exhibited high levels
+of intrinsic motivation (Duda et al., 1995).
+Next, in the subcategory of <having a reason>, the importance
+of having a clear reason to win, such as “for my teammates” or
+“for higher education” was demonstrated. Such motivations
+are considered extrinsic motivations. Generally, extrinsic
+motivation is weaker than intrinsic motivation, such as
+“quitting the activity when the external reward is lost” or
+“giving up when suffering.” However, self-determination
+theory (Ryan & Deci, 2002), which goes beyond the intrinsic/
+extrinsic framework and takes a more detailed view of
+motivation, distinguishes four types of extrinsic motivation
+based on the degree of autonomy: external adjustment,
+introjected adjustment, identified adjustment, and integrated
+adjustment. The identified adjustment and integrated
+adjustment are motivations for a high degree of autonomy,
+personal value, and importance to learning, and positive
+engagement. Subject F, who stated that “going on to higher
+education,” also looked back on those days and said, “I would
+spend all my free time playing tennis. When I didn't have
+anyone to practice with, I practiced serving by myself. I guess I
+was able to push myself harder” (Subject F).
+Next, in the subcategory of <observing games>, the
+importance of watching target competitions and matches in
+person was demonstrated. Although we could not find any
+direct previous studies on the effects of watching target
+tournaments and games, we will discuss them by assuming
+that “admiration” and “inferiority” are the emotions that arise
+when watching target tournaments.
+In the field of psychology, admiration has been examined
+under the concept of “identification.” And in the field of
+sports, Uechi (2011) examined the relationship between
+identification and motivation.  It is shown that there is a
+significant relationship between the intensity of identification
+and autonomous motivation for exercise and sports. As for
+feelings of “inferiority,” Yamada & Mizuno (2011) showed that
+it does not necessarily have an inhibitory effect on motivation,
+but in some cases, they can increase motivation and stimulate
+efforts to overcome them.
+Continuous growth
+To achieve a “breakthrough” in tennis, one must continue
+to improve their competitiveness. However, the process of
+athletic performance improvement is not linear, and there
+is a phenomenon called “plateaus,” in which skills do not
+improve even after continued practice, and “slumps,” in which
+performance declines and athletic performance stagnates.
+Kudo et al. (2011) showed that plateaus and slumps inevitably
+occur in the process of skill acquisition and improvement.
+Indeed, even the current world number one in men's tennis,
+Novak Djokovic, has spoken about experiencing slumps
+(Davis, 2017). Overcoming these obstacles in the process of
+maturity and continuing to grow is a major challenge for the
+athlete.
+The subjects were attempting to continuously improve their
+performance in various ways. First, in the subcategory of
+<increasing practice>, the importance of lots of practice to
+improve technique was demonstrated. Chase & Simon (1973)
+found that it takes more than ten years of practice to achieve
+outstanding performance. And similar results have been
+shown in tennis as well (Monsaas, 1985).
+Next, in the subcategory of <practicing with better players>,
+the importance of creating practice opportunities with higherlevel players was demonstrated. Ericsson et al. (1993) showed
+that it is important to challenge oneself with high goals that
+are slightly beyond one’s current level, rather than simply
+repeating technical exercises, to achieve a deliberate practice.
+To achieve that, tennis clubs need to implement appropriate
+governance to ensure that players have a fair opportunity to
+practice with higher-level players (Hotta & Yamamoto, 2022).
+Next, in the subcategory of <recognizing own strengths
+and weaknesses>, the importance of having a proper
+self-awareness of one's strengths and weaknesses was
+demonstrated.
+Cowden
+(2017)
+supports
+a
+positive
+relationship between self-awareness and mental toughness in
+tennis players, emphasizing the importance of self-awareness.
+Next, in the subcategory of <trying new ideas>, the importance
+of adopting new practice methods and experimenting
+with new skills was demonstrated. Looking at previous
+studies examining the effects of standard practice, in which
+repetitions are performed in a drill-type format, and variable
+practice, in which a variety of practices are performed, most
+results support the effectiveness of variable practice (e.g.,
+Kerr & Booth, 1978; Williams & Rodney, 1978; Magil & Reeve,
+1978). In tennis as well, Douvis (2015) has demonstrated the
+effectiveness of variable practice in mastering the forehand
+drive. Thus, it is important not only to repeat the same
+practice methods but also to keep changing them.
+Next, in the subcategory of <escaping from mistaken beliefs>,
+the importance of breaking free from false beliefs formed by
+accumulated knowledge and experience was demonstrated.
+Such a process has some overlap with conceptual change
+theory (Chi, 1992). When people learn, they use the structure
+of existing knowledge to understand and enrich their
+knowledge. In the subject's case, the subject said, “In practice,
+we often do offensive practice, such as chance ball practice
+and volleying practice. In addition, when I watch professional
+matches, points won by winners tend to be the focus, and that
+image has stuck in my mind” (Subject E). As stated above, it is
+considered that the subject had formed the false knowledge
+that “Offense is the only strategy” (Subject E) from daily
+practice and experience of watching professional players'
+matches. However, most points in a tennis match end in errors.
+It is conceivable that we can move on from false assumptions
+to the correct perception that “Playing aggressively is not the
+only strategy, since it is the same as an opponent making an
+error or me outplaying them” (Subject E).
+High performance during games
+To achieve a “breakthrough” in tennis, it is important to
+improve one's skills through practice, but it is equally
+important to be able to demonstrate one's ability under the
+pressure of competition. The subject said, “When I was a
+child, I was the type of person who couldn't show my ability in
+a match. I have been playing tennis since I was a child, so my
+technique is good. But something is missing, I can't show my
+strength” (Subject H).
+Baumeister (1984) called pressure a factor or a combination
+of factors that increase the importance of high performance
+in a particular situation, and he called the phenomenon in
+which performance decreases due to “Choking.” Various
+studies have been conducted on choking. Kanamoto et al.
+(2002) reported that more than 90% of athletes felt pressure
+during games. Thus, pressure and agitation are factors that
+prevent athletes from demonstrating their abilities in-game,
+and overcoming these factors may play an important role in
+achieving a “breakthrough” in tennis.
+The subjects were trying to cope with pressure and choking in
+various ways and to demonstrate their abilities in games. First,
+in the subcategory of <match emulation>, the importance
+of experiencing the same or greater tension in practice as
+in a game was demonstrated. Oudejans & Pijpers (2010)
+investigated dart-throwing practices in two groups: one in a
+“high place with fall hazard” and the other in a “safe low place.”
+In the subsequent performance, the group that had practiced
+at a high place with fall hazards performed better. It has also
+been shown that simply imagining tense situations during
+practice can lead to higher performance under pressure than
+practicing without doing anything.
+Next, in the subcategory of <game repetition>, the
+importance of participating in many tournaments and
+becoming accustomed to the game environment was
+demonstrated. Kanamoto & Yokozawa (2003), which analyzed
+the factor structure of choking in sports situations, extracted
+“unfamiliarity of the game situation” as one of the factors.
+This indicates that “the atmosphere was different from usual”
+and “it was a situation that we do not experience every day.”
+Frequent participation in matches may be an effective way to
+cope with such “unfamiliarity of the game situation.”
+Next, in the subcategory of <focus on what should be
+done>, the importance of focusing on the task at hand in a
+game situation was demonstrated. Hodge and Smith (2014)
+investigated the target method of choking in the New Zealand
+national rugby team. As a result, “involved a process/task
+focus” is mentioned.  Thus, it is considered important to
+concentrate on tasks that can be controlled by oneself, not
+on the performance of the opponent or the outcome of the
+match, which are beyond one's control.
+Next, in the subcategory of <taking it easy>, the importance
+of playing in a relaxed state in achieving high performance in
+the game was demonstrated. Arimitsu (2002) and Higuchi et
+al. (2007) extracted coping strategies for choking and found
+that “easy going tolerance,” was one of the factors in both
+cases, indicating that it is effective in reducing choking.
+CONCLUSION
+The purpose of this study was to reveal hypothetical findings
+on the factor that enable “breakthroughs” in tennis. Semistructured interviews were conducted with eight Japanese
+college tennis players who had experienced a “breakthrough”
+in the past, and who had a record of being in the top 8 or
+above in national championships. The interview content
+was transcribed, and qualitative analysis was conducted.
+As a result, the following three hypothetical findings were
+revealed: “maintaining high motivation,” “continuous growth,”
+and “high performance during games” are important for
+enabling “breakthroughs” in tennis.
+This suggests that to achieve a “breakthrough,” in addition to
+improving competitive performance, it would be necessary
+for them to carry out their daily practice and training with
+strong motivation and to fully demonstrate their competitive
+ability in competitions. There have been no studies dealing
+with “breakthroughs” in the field of sports in the past, and
+those hypothetical findings will be useful for athletes who
+are aiming for “breakthroughs” and for coaches that support
+them.
+LIMITATIONS AND FUTURE WORK
+Since this study was conducted on eight college tennis players
+who had experienced a “breakthrough” in the past, and
+who had a record of 8 or better in a national championship,
+more research needs to be conducted at different levels of
+competition and different ages to generalize the results. In
+addition, although this study was conducted only for tennis,
+it is possible that differences and commonalities among the
+sports can be found by expanding the scope of the study to
+other sports in the future.
+Since the hypothetical findings revealed in this study
+are based on interviews and considerations concerning
+previous studies, we have not been able to verify the causal
+relationship. Therefore, prospective studies to verify causal
+relationships and quantitative studies to test hypotheses
+should be conducted in the future.
+ACKNOWLEDGEMENTS
+We would like to express our deepest gratitude to the athletes
+who cooperated in the survey, as well as to the many other
+people whose support has made this study possible, which
+cannot be mentioned here.  We also thank Ms. Kaya Kudo,
+Mr. Bradley Suzuki, and Mr. Myles Hirozumi Shiotsu of Keio
+University for their detailed advice on this research.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.
+RERERENCES
+Arimitsu, K. (2002). Examing varieties, the factor structure, and differentiations
+of the coping strategies of “agari” (stage fright) in its eliciting situation.
+Japanese Journal of Psychology, 72(6), 482-489. https://doi.org/10.4992/
+jjpsy.72.482
+Baumeister, R.F. (1984). Choking under pressure: Self-consciousness and
+paradoxical effects of incentives on skillful performance. Journal
+of
+personality
+and
+social
+psychology,13,
+610-620.
+https://doi.
+org/10.1037/0022-3514.46.3.610
+Butt, D. S., & Cox, D. N. (1992). Motivational patterns in Davis Cup, university
+and recreational tennis players. International Journal of Sport Psychology,
+23(1), 1-13.
+Chi, M. T. H. (1992). Conceptual change within and across ontological
+categories: Examples from learning and discovery in science. In R. Giere
+(Ed.), Cognitive models of science: Minnesota studies in the philosophy of
+science (pp.129-186). University of Minnesota Press.
+Chase, W. G., & Simon, H.A. (1973). Perception in chess. Cognitive psychology,
+4(1), 55-81. https://doi.org/10.1016/0010-0285(73)90004-2
+Cowden, Richard G. (2017). On the mental toughness of self-aware athletes:
+Evidence from competitive tennis players. South African Journal of
+Science, 113(1-2), 1-6. https://dx.doi.org/10.17159/sajs.2017/20160112
+Davis, S. (2017). Novak Djokovic is mired in a baffling slump, and even he
+doesn't know what to do about it. http://uk.businessinsider.com/novakdjokovic-slump-baffling-2017-6?r=US&IR=T (Accessed 1, October, 2023).
+Douvis S. J. (2005). Variable practice in learning the forehand drive in tennis.
+Perceptual and motor skills, 101(2), 531–545. https://doi.org/10.2466/
+pms.101.2.531-545
+Duda, J. L., Chi, L., Newton, M. L., Walling, M. D. (1995). Task and ego orientation
+and intrinsic motivation in sport. International Journal of Sport Psychology,
+26(1), 40–63.
+Dweck, C. S. (1986). Motivational processes affecting learning. American
+Psychologist, 41, 1040-1049. https://doi.org/10.1037/0003-066X.41.10.1040
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate
+practice in the acquisition of expert performance. Psychological Review,
+100(3), 363-406. https://doi.org/10.1037/0033-295X.100.3.363
+Ericsson, K. A. (Ed.). (1996). The road to excellence: The acquisition of expert
+performance in the arts and sciences, sports, and games. Lawrence
+Erlbaum Associate.
+Fitts, P. M., & Posner, M. I. (1967). Human performance. Brooks/Cole.
+Higuchi, M., Minamitani, N., Kuranaga, H., & Fukada, H. (2007). A study of
+the process and the effect of the coping strategies of "agari" in the selftalk situation. Hiroshima psychological research, 7, 93-101. https://doi.
+org/10.15027/24786
+Hodge, K., & Smith, W. (2014). Public expectation, pressure, and avoiding the
+choke: A case study from elite sport. The Sport Psychologist, 28(4), 375389. https://doi.org/10.1123/tsp.2014-0005
+Hotta, S., & Yamamoto, M. (2022). A practical example of strengthening
+governance in Japanese College Tennis Clubs. ITF Coaching & Sport
+Science Review, 30(87), 18-24. https://doi.org/10.52383/itfcoaching.
+v30i87.334
+Kanamoto, M., & Yokozawa, T. (2003). The structural analysis on causal
+attributions of “agari” in athletes. The Japan journal of coaching studies,
+16(1), 119-127. https://doi.org/10.24776/jcoaching.16.1_119
+Kanamoto, Megumi., Yokozawa, T., & Kanamoto, Masuo. (2002). The study
+on casual attributions of “agari” in athlete. Sophia University studies
+in physical education,35, 33-40. http://digital-archives.sophia.ac.jp/
+repository/view/repository/00000002884
+Kerr, R., & Booth, B. (1978). Specific and varied of motor skill. Perceptual and Motor
+Skills, 46(2), 395-401. https://doi.org/10.1177/003151257804600201
+Kudo, K., Miyazaki, M., Sekiguchi, H., Kadota, H., Fujii, S., Miura,A., Yoshie, M.,
+& Nakata, H.(2011). Neurophysiological and dynamical control principles
+underlying variable and stereotyped movement patterns during motor skill
+acquisition. Journal of advanced computational intelligence and intelligent
+informatics, 15(8), 942-953. https://doi.org/10.20965/jaciii.2011.p0942
+Locke, E.A., & Latham, G.P. (1990). A theory of goal setting and task performance.
+Prentice Hall.
+Magill, R. A., & Reeve, T. G. (1978). Variability of prior practice in learning and
+retention of model motor response. Perceptual and Motor Skills, 46,
+https://doi.org/10.2466/pms.1978.46.1.107
+Monsaas, J. A. (1985). Learning to be a world-class tennis player. In B. S.
+Bloom (Ed.), Developing talent in young people (pp.211-269). New York:
+Ballantine Books.
+Nochi, M. (2000). Shitsuteki (teiseiteki) kenkyu hou [Qualitative research
+methods]. In Shimoyama, H (Ed.), rinsho shinrigaku kenkyu no gihou
+(pp.56-65). Fukumura shuppan.
+Oudejans, R. R., & Pijpers, J. R. (2010). Training with mild anxiety may prevent
+choking under higher levels of anxiety. Psychology of Sport and Exercise,11
+(1), 44-50. https://doi.org/10.1016/j.psychsport.2009.05.002
+Ryan, R. M., & Deci, E. L. (2002). An overview of self-determination theory:
+An organismic-dialectical perspective. In Deci, E. L & Ryan, R. M (Eds.),
+Handbook of self-determination research. Rochester (pp.3-33). University
+of Rochester Press.
+Tennis Classic editorial department (2020). Federer's success triggered by
+fight with Agassi! “It's been a breakthrough year”. https://tennisclassic.jp/
+article/detail/1287, (Accessed 1, January, 2022).
+Uechi, H. (2011). Relationship between Identification and motivation in exercise
+and sport. Japan Journal of Physical Education, Health and Sport Sciences,
+56(1), 215-228. https://doi.org/10.5432/jjpehss.10033
+Unierzyski P. (2003). Level of achievement motivation of young tennis players
+and their future progress. Journal of sports science & medicine, 2(4), 184186.
+Williams, I. D., & Rodney, M. (1978). Intrinsic feedback interpolation and closedloop theory. Journal of Motor Behavior, 10, 25-36. https://doi.org/10.1080
+/00222895.1978.10735132
+Yamada, M., & Mizuno, M. (2011). Relation between Achievement Motivation
+and Inferiority Feeling in University Students. Journal of health and sports
+science Juntendo, 2(4), 150-154. https://library.med.juntendo.ac.jp/il4/
+meta_pub/G0000002gakui_2457
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2024 Kazuki Hioki, Shion Hotta & Takashi Iba
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms

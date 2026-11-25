@@ -1,0 +1,128 @@
+Title: Differences in young tennis players ́ agility depending on their playing level
+Authors: Bernardino J Sánchez, Guillermo F López, Ainara Pagán
+Year: 2016
+Issue: Vol. 24 No. 69 (2016)
+Article id: 190
+
+www.itfcoachingreview.com
+August 2016. 24th Year. Issue 69 19-21
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v24i69.190
+
+Differences in young tennis players ́ agility
+depending on their playing level
+Bernardino J. Sánchez (ESP), Guillermo F. López (ESP) and Ainara Pagán (ESP)
+ITF Coaching and Sport Science Review 2016; 69 (24): 19 - 21
+ABSTRACT
+This research aims to evaluate young tennis players’ agility and to analyze the differences
+depending on their playing level. 24 male tennis players, aged between 8 and 10 years
+old were involved in this research and completed three different agility tests (the 5x10m
+test, the spider test and the hexagon test). The findings revealed that more advanced
+players reached significantly higher scores in each agility test.
+
+Key words: Physical
+conditioning, agility, playing
+level.
+Received: 18 March 2016
+Accepted: 16 July 2016
+Corresponding author:
+Bernardino J. Sánchez
+Email: bjavier.sanchez@um.es
+INTRODUCTION
+The speed of tennis strokes has increased, particularly over the
+last few years, so, players have to move quickly in different
+directions to be able to reach the ball and to hit it in the best
+possible conditions (Domı́nguez, 2011; Sánchez-Alcaraz, 2013).
+Thus, agility is a very important component in those sports that
+demand a direction change (Jones, Bampouras, & Marrı́n, 2009),
+defined as “a rapid movement of the whole body changing
+direction as a response to a stimulus” (Sheppard, & Young, 2006).
+Different findings from different research show that 60-80% of
+the motion/ movement during a tennis match is lateral, between
+10- 30% is linear and forward, and between 8-10% is linear and
+backwards (Pieper, Exler & Weber, 2007). Besides, tennis
+players change direction an average of 4 times per point (Roetert,
+Ellenbecker & Chu, 2003), but it is possible to change from just
+one movement to more than 15 changes of direction during a
+point (Kovacs, 2009).
+So, initial acceleration and deceleration or stopping phase, and
+the capacity to make multi-directional explosive movements will
+be vital components for tennis players, and will determine their
+performance (Kovacs, 2007; Sánchez-Alcaraz, 2015).
+Therefore, this research tries to know the values of young tennis
+players ́ agility and to analyse the differences, depending on their
+playing level.
+
+METHOD
+Sample
+24 male tennis players aged between 8 and10 years,
+were supported by their national tennis federation (average age
+= 8.97 ± .83 years/ weekly training= 6 hours) and 13 were not
+(average age = 9.17 ± .68 years/ weekly training= 3 hours).
+
+Instruments
+5x10 test: For this test, the player will stand behind the starting
+line, in a high starting position, and towards a line which will be
+5 metres away. Given the signal, the player will have to run as
+fast as possible towards the next line, he has to step on it with
+one foot. They will immediately change direction to go back to
+the starting line, which they will have to step on. They will have
+to do this 5 times, completing a total of 50 mts. (Galiano, 1992).
+The stopwatch will stop when the player crosses the starting line
+and will register the time that they took for the test.
+
+Hexagon test: For this test, the player will be at the centre of a
+60 cm side hexagon. Given the signal, they will jump forward
+over the line and return to the centre of the hexagon. Looking in
+the same direction, they will repeat the action on each side of the
+hexagon clockwise. The stopwatch will stop when they have
+finished three complete turns, and their feet are at the centre of
+the hexagon again. The time that will be registered, will be the
+better of their two attempts.
+Image 2: Hexagon test (Roetert & Ellenbecker, 2008).
+
+Spider test: Having positioned the tennis balls in the corners
+and centre of the longest side of an 8.23 x 5.49m rectangle, the
+player will start from the centre of one of the sides, and will take
+each ball returning to the starting point “J” and will leave them
+as the next image indicates. When all balls are taken, the watch
+
+will stop and the time for the test will be registered.
+
+Procedure
+For this procedure used for the execution of the tests, the
+researchers had to go to the clubs. After obtaining the consent of
+the families and clubs, the players completed the different
+physical tests voluntarily and anonymously. One researcher was
+present on-court during the test and no players withdrew.
+Finally, the statistical analysis of the data was made using an
+SPSS 21.0. IT package. Descriptive statistics were made after
+each test and the different variables of the groups were
+compared by means of Mann-Whitney U tests for independent
+tests.
+
+RESULTS
+Table 1 shows the descriptive statistics for all participants, for
+each agility test, (5x10m, hexagon and spider test), getting media
+values between 20 and 30 seconds, in all three tests.
+
+COMMENTS
+To comply with the first objective, the agility level of tennis
+players was evaluated. In this aspect, tennis players scored
+worse in the 5x10, spider and hexagon tests when compared to
+the research made by Sánchez, Yagüe, Fernández and Petisco
+(2014), Le Deuff (2003), and Reid, Quinn and Crespo (2010),
+respectively, although these studies utilised 12U athletes.
+On the other hand, depending on their playing level, more
+advanced players scored significantly better in each agility test,
+this coincides with other tennis research that compared
+beginner and experienced players. More advanced players
+displayed a greater level of declarative, procedural and tactical
+knowledge (Garcı́a, Moreno, Moreno, Iglesias, & Del Villar, 2008)
+apart from a greater accuracy when hitting strokes (Vergauwen,
+Madou, & Behets, 2004).
+CONCLUSIONS
+Better level players achieved better agility scores in each test.
+Therefore, the findings from this research can be useful for
+coaches and trainers for the conditioning, coaching and
+evaluation of their tennis players.

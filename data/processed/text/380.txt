@@ -1,0 +1,195 @@
+Title: Motor imagery and serving precision: A case study
+Authors: Simon Desliens, Aymeric Guillot, Isabelle Rogowski
+Year: 2011
+Issue: Vol. 19 No. 55 (2011)
+Article id: 380
+
+www.itfcoachingreview.com
+December 2011. 19th Year. Issue 55. 13-15
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i55.380
+
+Motor imagery and serving precision: A case
+study.
+Simon Desliens, Aymeric Guillot & Isabelle Rogowski.
+University of Lyon, France.
+ABSTRACT
+
+The goal of this case study was to outline the influence of practice setting
+conditions and motor imagery on service precision. The eight conditions that
+were conducted showed that mentally imagining the serve four times whilst
+in the service position improved the accuracy and location of the ball bounce
+on the opponent’s court and that using visual imagery whilst in the service
+position itself helped to improve consistency. The results have enabled the
+researchers to identify the strengths and weaknesses of the motor imagery
+ability of the evaluated player with a view to defining mental preparation goals
+for coaching sessions, as well as making the participant’s serve more efficient
+in competitive situations.
+
+Key words: Imagery,
+psychology, service precision.
+Received: 12 September 2011
+Acepted: 6 October 2011
+Corresponding author: Simon
+Desliens, University of Lyon,
+France.
+Email:
+isabelle.rogowski@univlyon1.fr
+
+INTRODUCTION
+In the search towards greater efficiency, the serve must
+combine speed and precision in order to increase its
+percentage level of success, thereby augmenting the number
+of easily won points (Brody, 2003). Improving efficiency in the
+serve involves the optimization of the technical, physical and
+mental abilities of the player so as to produce the best possible
+outcome. Motor imagery techniques are commonly used for
+mental preparation (Mamassis, 2005) and consist in forming
+mental representations of an action without concomitant
+movement (Guillot & Collet, 2008). Motor imagery presents
+applications in four different fields, including that of
+performance (Guillot & Collet, 2008). Previous research has
+shown that motor imagery helps improve the precision of the
+serve for advanced tennis players (Guillot et al., 2011). The
+purpose of this work was to study the influence of different
+practice conditions using motor imagery and their associated
+effect on service precision. Using experimental design
+methodology, this research specifically aimed to study the
+influence of the type of imagery, the number of mental
+repetitions and the practice setting (where the imagery is
+performed) on the precision of the serve.
+METHOD
+Three experimental variables were studied: type of imagery (TI),
+number of repetitions (NbR) and practice setting of imagery (S).
+Each one of these variables was divided into two modalities
+corresponding to two levels (-1 and +1), namely visual imagery
+vs. kinaesthetic imagery for TI, one vs. four repetitions for NbR,
+and off-court vs. in serve position for S.
+
+A 23 full factorial design was used to define the 8
+experiments/conditions to be conducted (Table 1) and to
+quantify the main effects and interactions between the
+variables of serve precision, based on the following
+mathematical model:
+Y = b0 + b1*TI + b2*NbR+ b3*S + b12*TI*NbR + b13*TI*S +
+b23*NbR*S+ b123*TI*NbR*S
+Y represents the response (serve precision), b0 the constant of
+the model, bi the coefficient of the main effects of the
+experimental variables (TI, NbR and S), bij the coefficients of
+
+level 1 interaction effects between the experimental variables,
+bijk the coefficient of level 2 interaction effects between the
+experimental variables.
+The experimental protocol consisted of motor imagery of a
+serve (according to the conditions described in table 1)
+followed by the performance of an actual serve. All of the
+conditions were repeated 10 times (5 serves in each diagonal)
+on a hard in-door court and were performed by a volunteer
+tennis player (24-years-old; French ranking = 5/6). The
+performance instructions were to hit a precise and powerful
+serve on the “T” (i.e. to seek an ace). The precision was
+evaluated based on the location of the rebound of the ball in
+the opponent’s box. The most accurate bounces within the
+0.5*0.5m area (determined from the central line and the service
+box lines) yielded 5 points; a rebound located in the 1*1 m area
+yielded 3 points; a rebound located elsewhere in the box
+yielded 1 point. The precision was quantified by two
+parameters: the score corresponding to the sum of the points
+obtained after performing the 10 actual serves of each
+condition (the higher the score, the better the precision) and
+the consistency corresponding to the coefficient of variation
+(CV) of the score (the lower CV, the higher the consistency).
+The coefficients of the models were calculated through
+multiple linear regressions by using the NEMROD-W program
+(LPRAI, Marseille, France). The level of significance of the
+coefficients was set to p≤0.05.
+
+Table 1. Matrix of experiments showing the modalities and
+levels of the three experimental variables (TI: type of imagery;
+NbR: number of mental repetitions; S: practice setting of
+imagery), and responses corresponding to each experiment (CV:
+coefficient of variation).
+RESULTS
+Results showed that the best compromise for optimal accuracy
+is to perform four mental repetitions whilst in the service
+position.
+The model calculated for the precision score is the following:
+Score = 15 – 0.25*TI + 2*NbR+ 3*S – 0.75*TI*NbR + 0.25*TI*S
+- 1*NbR*S - 0.75*TI*NbR*S
+Only the coefficients associated with variables NbR and S are
+statistically significant (p=0.03 and p=0.003, respectively).
+Furthermore, results showed that the best way to increase
+consistency (lower CV) according to this study is to use visual
+imagery whilst in the serve position. The model calculated for
+CV is the following:
+CV = 15 + 10.7*TI + 0.9*NbR – 11.5*S + 0.2*TI*NbR + 3.3*TI*S
+– 4.1*NbR*S+ 1.5*TI*NbR*S
+Only the coefficients associated with variables TI and S are
+statistically significant (p=0.008 and p=0.006, respectively). The
+number of mental repetitions and the interactions between the
+experimental variables had no significant influence on CV.
+DISCUSSION
+The main results show that four mental repetitions performed
+in the service position help improve the precision score of the
+serve and that using visual imagery in the service position
+improves consistency in the serve. This information makes it
+possible to refine the instructions and practice conditions
+associated with imagery in order to increase its effectiveness.
+First and foremost, the results of this case study confirm the
+efficiency of motor imagery in tennis performance (Coehlo et
+al., 2007 ; Noel, 1980 ; Robin et al., 2007). They also confirm the
+importance of the practice setting of motor imagery, which
+means that it must be used preferentially in a context close to
+the environment of actual practice (Holmes & Collins, 2001 ;
+Guillot et al., 2005). Indeed, mentally simulating the movement
+using data from the visual, kinaesthetic, auditory and
+proprioceptive senses can facilitate the production of mental
+representations. These data are first memorized during practice
+before being recognized, selected and retained, which helps
+form a better representation of the situation.
+The results also show that using visual imagery prompted a
+better consistency in the serve of the evaluated player. This
+modality gives the player the opportunity of visualising the
+
+outcome of the movement, including the trajectory and the
+impact of the ball in the opponent’s box. Likewise, repeating
+the serve four times has allowed the player to improve the
+precision of his serve. The choice of the modality of imagery, as
+well as the number of repetitions will be considered as
+conditions that remain specific to the evaluated player since no
+previous study has really established the superiority of visual
+imagery over kinaesthetic imagery, nor has determined a
+specific number of repetitions for optimal efficiency. However,
+this study allows us to formulate recommendations for
+improving efficiency in the serve of the tested player.
+In competitive situations, this player will use preferentially
+visual imagery several times before serving and will endeavour
+to do it while in serve position. Integrating these modalities of
+imagery into the preparation routine seems to be the best
+compromise; however, it will be necessary to adapt the number
+of repetitions in order to avoid exceeding the 20 seconds limit
+between points imposed by the rules of tennis. It may therefore
+be possible to propose to players a concentration routine
+based on motor imagery that would really optimize their serve,
+distinguishing itself from the usual bounce-the-ball ritual.
+During coaching sessions, it will be recommended to develop
+the ability of modalities of imagery other than visual in order
+to diversify training and avoid any sense of weariness due to
+using only the visual channel. For instance it would be possible
+to devise an imagery protocol based on kinaesthetic
+information (relaxation during preparation, muscle activation,
+and explosiveness when hitting the ball), and then to make it
+evolve towards the visualization of the ball bouncing off the
+racket strings all the way to the opponent’s box. Similarly, a
+complementary work could be undertaken in order to reduce
+the number of repetitions necessary for the imagery to be
+efficient, and therefore limit the mental load before serving.
+CONCLUSION
+This study confirms the fact that imagery contributes to
+improving the precision and consistency of the serve in tennis.
+Based on a simple and rigorous methodology, this study has
+allowed us to identify the strengths and weaknesses of the
+motor imagery of the tested player in order to define mental
+preparation objectives for that player in coaching sessions, and
+to make the participant’s serve more efficient in competitive
+situations.

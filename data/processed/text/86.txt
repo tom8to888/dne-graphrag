@@ -1,0 +1,240 @@
+Title: Characteristics of the return in professional women’s tennis on clay courts
+Authors: Rafael Martínez-Gallego, Arnau Giner
+Year: 2019
+Issue: Vol. 27 No. 78 (2019)
+Article id: 86
+
+www.itfcoachingreview.com
+August 2019. 27th Year. Issue 78. 8-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i78.86
+
+Characteristics of the return in professional
+women’s tennis on clay courts
+Rafael Martínez-Gallego a         & Arnau Giner a
+a University of Valencia, Valencia, Spain.
+
+ABSTRACT
+
+The number of studies related to notational analysis of the serve has grown in recent
+years, and this latest research has suggested that: players win more with the serve at
+younger age groups; with males, there is more variation in direction and more points are
+won on the forehand than the backhand return; and, women return closer to the net with
+a flatter trajectory than male counterparts. Despite advances in research there is still
+little on female tennis, especially on clay courts. In this study, 795 points of female
+matches at the BBVA Open Valencia 2017 ITF event were analysed. On the first serve, on
+the left, players use mainly backhands and hit crosscourt, whereas on the right, there
+were no significant differences in forehands and backhands hit, and there was more
+variation in direction. On the second serve, on the left, players still mainly used backhands
+but hit more shots down the line; whereas on the right, players hit mainly inside-out
+forehands and there were no differences in the direction hit.
+
+Key words:  return of serve,
+women's tennis, direction, clay.
+Received: 18 June 2019
+Accepted: 10 July 2019
+Corresponding author: Rafael
+Martínez-Gallego, Faculty of
+Physical Activity and Sport
+Sciences, University of
+Valencia, Spain. Email:
+ramargal@hotmail.com
+
+INTRODUCTION
+The return is fast becoming one the most important strokes in
+modern tennis. As a matter of fact, different articles can be
+found in previous issues of this review which focus on this skill
+(Zawadzki y Roca, 2009; Aviles, Bengugui, Beaudoin & Godart,
+2002; Bolletieri, 1995; Hedelund y Rasmussen, 1997;
+Kleinoder, 2001). Furthermore, in recent years, through
+notational analysis, it has been possible to obtain more
+reliable and objective information from different indicators
+that are of interest for the assessment of tactical performance
+of players   arti nez-Gallego, 2018). This has led to the
+existence of a significant number of studies that, through this
+type of analysis, have provided very interesting information
+related to the return. In this article, the main conclusions of
+some of the most relevant studies of this area will be drawn.
+Gillet, Leroy, Thouvarecq y Stein (2009) analysed the
+effectiveness of the serve and the return on clay courts
+according to the effect and the direction in male tennis
+players. The main conclusions obtained were that the serve
+and the return had a great influence on the final score and, in
+addition, that the flat serves to the “T and the return in the
+centre of the court were the strokes that were more effective
+for scoring points.
+
+Furthermore, Hizan, Whipp y Reid (2011) also analysed the
+effectiveness of the serve and the return, comparing between
+professional players, 16&U high level players and 12&U high
+level players, without differentiating between their sex. The
+variables analysed were the type of serve, the type of return
+and the winner of the point. The main conclusions obtained
+were the following:
+Professional players were the ones who
+scored the fewest points on return of first
+serves.
+16&U players won equally on the first
+serve return and second serve return.
+12&U players won a higher number of
+points on return of first serve, according
+to the two study cases.
+According to Kovalchik y Reid (2018), in male players on hard
+court, there is a greater variation in the direction with a return
+with the forehand than with a backhand and, in fact, a higher
+number of points are scored by returning with a forehand
+than with a backhand. Moreover, when it comes to varying the
+direction of the return, girls vary more than boys. Finally,
+regarding this study, in male players, conclusions can be
+drawn that a higher number of points are scored by returning
+fast and flat as opposed to high and with topspin.
+
+In a recent study by Reid, Morgan and Whiteside (2016),
+which compared the differences between women and men at
+the Australian Open, it was concluded that women returned
+closer to the net, hit the ball lower and with a flatter trajectory
+than men.
+As can be seen, in spite of the fact that in recent years the
+information available regarding the tactics used by the players
+for return has increased, there is little information about
+women’s tennis, and none about women’s tennis on clay
+courts. That is why the objective of this article is to describe
+and
+analyse
+the
+potential
+differences
+the
+main
+characteristics of the return in the women’s game on clay
+courts.
+
+METHODS AND PROCEDURES
+Sample
+The sample of this study consisted of 15 sets corresponding to
+7 matches at the BBVA Open Valencia 2017 in which 795
+points were analysed belonging to the, a tournament that
+takes place in November in the facilities of the Valencia tennis
+Club and is played on clay courts in the open air. The matches
+were played by professional female tennis players who are
+ranked between 200 and 900 in the WTA world ranking. All
+the players were right-handed. The average age of the players
+was 23.1 years old. In order to be able to record matches
+during the competition, written consent was obtained from
+the tournament organisers.
+
+Variables analysed
+The variables analysed in the study are the following:
+Independent variables
+Side of the court  – The side where the player serves
+(deuce/advantage).
+Type of serve – The type of serve performed (first
+or second serve; open/body/T).
+Dependent variables
+Type of return – The type of stroke performed for
+the return (forehand/handback/reverse forehand,
+reverse handback)
+Return zone – The side where the return bounces
+(down the line / crossed)
+
+Statistical analysis
+Statistical analysis was carried out using the SPSS statistical
+package version 21 for Mac (SPSS Inc., Chicago, Illinois,
+United-States). The Kolgomorov Smirnov test was performed
+to check the normal distribution of the data in each of the
+variables, and this obtained atypical values and large
+differences in variance in all variables derivations of
+normality, thus non-parametric tests were used. The
+Friedman test was used to check if there were significant
+differences between the different variables analysed. In order
+to compare data between winners and losers, the Wilcoxon
+signed-rank test was used.
+
+RESULTS
+With regard to the type of return, graph 1 shows how, on the
+right side, the percentage of forehand and backhand returns
+was significantly higher than the other types of stroke. On the
+left side (graph 2), the most commonly used type of stroke was
+the backhand.
+
+Regarding the trajectory, as can be seen in graph 3, the players
+performed a significantly higher percentage of down the line
+returns on the right side. However, on the left side, they
+performed a higher percentage of crossed returns.
+Graph 2. Percentage of first serve returns on the left side, according
+to the type of stroke. * Significative difference (p<0,05) with other
+types of stroke. @ Significative difference (p<0,05) between forehand
+and backhand.
+Graph 1. Percentage of first serve returns, according to the type of
+stroke.  * Significant difference (p<0,05) between Reverse forehand
+and Reverse backhand. @ Significant difference (p<0,05) with other
+
+On the right side, as can be seen in graph 5, there is no
+difference in the percentage of forehand, backhand and
+reverse forehand, a trend (p=0.56) indicates that the
+percentage of reverse forehand was significantly higher. As
+far as the left side is concerned, the type of return that was
+performed the most was the backhand return.
+
+With regard to the direction of the return of the second serve,
+there were no differences on the right side (graph 7), while on
+the left side there were more down-the-line returns (graph 8).
+
+DISCUSSION AND CONCLUSIONS
+regarding the first serve return are the following:
+
+Graph 3. Percentage of first serve returns on the right side, according
+to the trajectory of the stroke. * Significative difference (p<0,05).
+Graph 4. Percentage of first serve returns on the left side, according
+to the trajectory of the stroke. * Significative difference (p<0,05).
+Graph 5. Percentage of second serve returns on the right side,
+according to the type of stroke. * Significative difference (p<0,05)
+with reverse backhand. & Significative difference (p<0,05) with other
+Graph 6. Percentage of second serve returns on the left side, according
+to the type of stroke. * Significative difference (p<0,05) with backhand
+and reverse backhand. $ Significative difference (p<0,05) with other
+types of stroke. & Significative difference (p<0,05) with backhand.
+Graph 7. Percentage of second serve returns on the right side,
+according to the trajectory of the stroke.
+Graph 8. Percentage of second serve returns on the left side,
+according to the trajectory of the stroke.
+
+On the right side:
+Although the players do return more with
+backhands, this difference is not significant
+Players only do a few less forehands than
+backhands
+Players do more down-the-line than crossed
+returns
+On the left side:
+The players mainly return with backhands
+The players do more crossed than down-the-line
+returns
+
+regarding the second serve return are the following:
+On the right side:
+The players do a large number of reverse forehands
+and rarely hit backhands
+The are no differences in the percentage of downthe-line and cross court returns
+On the left side:
+The players mainly hit backhands
+The players do a larger number of down-the-line
+than cross court returns
+The fact players do not entirely focus on the first serve return
+seems logical, as the speed of the first serve is usually higher
+than the second one (Reid, 2016) and therefore, the players
+have less time to react. In addition, on the left side, a large
+number of backhand returns indicates that the server mainly
+uses open serves. Moreover, the trajectory of the first serve
+return shows that players try to serve most of the time to the
+opponent’s backhand. In this sense, for future studies, it would
+be advisable to establish another area that indicates which
+returns go to the centre of the court, given the importance of
+the return’s trajectory  Hizan y cols., 2011).
+The data regarding second serve indicates that servers try to
+serve on the backhand of their rivals, but the rivals have the
+time to move to the right, whereas on the left side they do it
+less, because of the open trajectory of the serve. Regarding
+the trajectories of returns, on the right side they do vary a lot,
+while on the left side they tend to look for down-the-line
+options.

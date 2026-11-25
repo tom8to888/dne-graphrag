@@ -1,0 +1,10 @@
+kind,pair,comprehensiveness,diversity,empowerment,directness
+big_picture,global vs basic,0.23,0.37,0.13,0.1
+big_picture,global vs local,0.5,0.45,0.5,0.5
+big_picture,local vs basic,0.33,0.43,0.27,0.17
+connecting,global vs basic,0.27,0.4,0.1,0.23
+connecting,global vs local,0.57,0.53,0.4,0.43
+connecting,local vs basic,0.2,0.37,0.27,0.2
+lookup,global vs basic,0.23,0.43,0.1,0.33
+lookup,global vs local,0.5,0.63,0.27,0.2
+lookup,local vs basic,0.2,0.27,0.23,0.4

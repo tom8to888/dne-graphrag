@@ -1,0 +1,503 @@
+Title: From Inclusion to Functional Excellence: An Emerging Paradox in High-Competition Wheelchair Tennis
+Authors: David Sanz Rivas
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 815
+
+Introduction
+Wheelchair tennis has undergone a great evolution
+since its appearance as an exhibition sport at the
+Seoul 1988 Paralympic Games and after being part of
+the official program in Barcelona 1992, suffering since
+then one of the fastest growths of the Paralympic
+program, with the presence of athletes from more than
+a hundred countries and a progressive incorporation
+into the four Grand Slam tournaments.  starting with
+the Australian Open in 2002, followed by the US Open
+(2005), Wimbledon (2005 doubles and 2016 singles) and
+Roland Garros (2007). Recently, some ATP and WTA
+tournaments have also begun to integrate wheelchair
+tennis competitions into their own programmes, thanks
+to the restructuring of the UNIQLO Wheelchair Tennis
+Tour, which may make it a trend on the World Tennis
+circuit itself (ITF, 2026).
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 128-134
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.815
+From inclusion to functional excellence: An emerging
+paradox in high-competition wheelchair tennis
+David Sanz Rivas
+Faculty of Health Sciences. Atlantic Mediterranean Technological University-UTAMED, Spain.
+Abstract
+Wheelchair tennis has undergone a remarkable evolution over the last decades, both in participation
+and professionalization as well as in integration within the professional tennis circuit (WT/ATP/WTA).
+At the same time, the increase in the physical and technical-tactical demands of the game invites us
+to analyse whether the functional profile of players capable of reaching the elite is also changing.
+This article proposes, based on the scientific literature and documented cases, the hypothesis that the
+increasing demands for mobility, acceleration, power and technical actions may progressively favour
+athletes with lower functional deficits within the Open Division. Recent studies show that trunk function
+conditions relevant mobility variables and that functional severity can affect actions such as service.
+This evidence is analysed alongside the generational contrast between players such as Shingo Kunieda,
+Alfie Hewett and Tokito Oda, whose characteristics illustrate the heterogeneity currently present in
+the elite. A possible inclusion-exclusion paradox is thus posed: a sport that emerged as a competitive
+sport suitable for people with a significant physical impairment could evolve towards high performance
+in which certain profiles find it more difficult to reach the top positions. Finally, we propose a second
+reflection on the relationship between the current simple ranking system and the successful integration
+of wheelchair tennis in Grand Slams and professional tournaments. Both issues require longitudinal
+analyses before drawing conclusions, but they open a relevant debate for classification, the recruitment
+of new athletes and the future governance of wheelchair tennis.
+Key words: wheelchair tennis; sports classification; spinal cord injury; sports performance.
+Received: 1 July  2026. Accepted: 17 August 2026.
+Corresponding author: david.sanz@utamed.es
+This evolution has allowed wheelchair tennis to gain
+visibility, professionalization and sports recognition.
+It has also changed the game itself. The competition
+basketball or rugby there is a functional classification
+that tries to compensate for the differences between
+players and, in other individual Paralympic sports,
+such as table tennis, there are also different functional
+classes according to the level of impairment. Tennis, on
+the other hand, concentrates the competition in two
+major divisions: Open and Quad.
+The Open Division groups together athletes who have
+sufficient functional loss in one or both lower limbs.
+The Quad category requires additional involvement in
+the upper extremities. Within the Open there are no
+categories that differentiate players according to the
+degree of function of the trunk, the type of injury or the
+severity of its affectation (ITF, 2026).
+This structure has obvious advantages. It facilitates
+competition, simplifies the structure of the frames and
+allows athletes with different physical disabilities to
+face each other.
+Contemporary Paralympic classification tries to ensure
+that success depends mainly on one's abilities to
+practice sport and not on the severity of the disability
+(Tweedy & Vanlandewijck, 2011; Tweedy et al., 2014).
+Achieving this goal requires knowing precisely which
+bodily functions affect performance.
+At wheelchair tennis there are still open questions.
+Hutchinson et al. (2021) reviewed the measures
+applicable to the classification of chair sports and
+found limitations in the validity and reliability of
+several procedures used to assess coordination, range
+of motion, and other functions. The current rankings
+make it possible to determine who can compete,
+but there is less evidence on how much functional
+differences influence the eligible players themselves.
+One of the first works directly related to this issue was
+that of Cavedon et al. (2014). When analysing players
+grouped according to different levels of functional
+limitation, they found significant differences in service
+variables. Athletes with less impairment could generate
+higher hitting speeds, which showed that functional
+characteristics had a mechanical implication on a
+relevant action of the game. This aspect becomes more
+interesting as wheelchair tennis increases its demands.
+The work on the analysis of the activity pattern has
+described a progressive intensity in the gambling actions.
+Between the Athens 2004 and Rio 2016 Paralympic
+Games, different indicators related to duration, number
+of strokes and point structure increased (Sánchez-Pay
+and Sanz-Rivas, 2021a). Other studies have confirmed
+significant physiological demands during competition
+and differences according to level and playing surface
+(Sindall et al., 2013; Sánchez-Pay et al., 2016; Ponzano
+& Gollin, 2017; Sánchez-Pay & Sanz-Rivas, 2021b).
+Williamson et al. (2024), in a systematic review with
+meta-analysis, confirmed the high physical demand
+of wheelchair tennis and at the same time pointed
+is more demanding, with high-intensity exchanges
+accompanied by a high demand on displacements,
+accelerations and changes of direction. (Sánchez-Pay
+et al., 2015; Sánchez-Pay et al., 2016; Sánchez-Pay &
+Sanz-Rivas, 2021a; Williamson et al., 2024).
+However, given this development, we wonder if the
+functional profile of the players who achieve the top
+positions in the world ranking has also changed.
+We do not yet have a longitudinal study that
+allows us to answer precisely. The World Tennis'
+historical ranking lists are not systematically linked
+to clinical and functional information on players.
+Even so, the observation of elite competition, some
+well-documented cases and, above all, the recent
+development of research, allow us to formulate a
+hypothesis that we consider relevant.
+Wheelchair tennis was born closely linked to people
+with spinal cord injury and other serious impairments of
+mobility. Currently, within the Open Division, athletes
+with very different profiles compete, complete and
+incomplete spinal cord injuries, amputations, sequelae
+of bone tumours, hip alterations and other deficiencies
+that meet the minimum disability criteria. All of them
+are legitimately eligible and what we wonder is whether
+the evolution of the game may be progressively
+increasing the competitive value of certain residual
+functional abilities. In other words, if trunk function,
+acceleration and wheelchair mobility are becoming
+increasingly decisive, it may be that players who retain
+higher levels of these abilities have an advantage that
+the current ranking system does not fully compensate.
+This approach also takes on a social dimension. In many
+countries, wheelchair tennis is introduced in hospitals
+and rehabilitation centres as a sports option for people
+who have just contracted a spinal cord injury. Elite
+players are supposed to be role models and role models
+in this process, but if the functional profile of those
+who dominate the circuit progressively distances itself
+from that of these new practitioners, the perception of
+whether it is an attractive sport to practice or not could
+also change.
+We do not raise this reflection to question the
+results, merits or right to compete of any athlete.
+Everyone participates according to the established
+eligibility rules. The interest is on another level: how
+classification, performance evolution and the level of
+functional impairment interact, and what consequences
+this interaction may have for the future of wheelchair
+tennis.
+Functional classification and evolution
+of the demands of the game
+In wheelchair tennis, the classification system has
+a characteristic that differentiates it from other
+sports practiced in wheelchairs. In disciplines such as
+world ranking in the last decade and the players who
+reached the quarterfinals of the men's modality at the
+Paralympic Games from Barcelona 1992 to Paris 2024.
+For more than a decade, Shingo Kunieda was the
+dominant figure in men's chair tennis. His career and
+number of titles have placed him as one of the great
+historical references of wheelchair tennis. Kunieda
+presented paralysis of the lower limbs because of
+a spinal tumour, a profile clearly associated with a
+severe neurological impairment of mobility. After his
+retirement, two of the players who have marked the
+international competition have different profiles.
+Alfie Hewett has Perthes disease, a hip disorder that
+significantly affects the function of his lower limbs.
+He can walk, but his impairment prevents him from
+competing on equal terms in conventional tennis.
+The case of Tokito Oda is different. After being
+diagnosed with osteosarcoma at age nine, he lost some
+of the function of a lower limb. His disability meets the
+criteria required to compete in wheelchair tennis, but
+he does not respond to the classic profile of spinal cord
+injury either.
+It would be methodologically incorrect to interpret this
+sequence as evidence of structural change. Kunieda,
+Hewett and Oda belong to different generations, and
+each brings together a wide set of technical-tactical,
+physical and psychological skills and qualities.
+The case of Hewett adds a particularly interesting
+element. During the review of the classification
+criteria conducted between 2019 and 2021, there was
+a possibility that her disability would no longer meet
+the minimum threshold necessary to participate. After
+a lengthy review and appeal process, the player finally
+maintained his eligibility.
+This episode highlights the difficulty of establishing
+where the Minimum Impairment Criterion (MIC) should
+be located. There is no simple functional boundary
+between who should and who should not compete. Nor
+can it be assumed that all people above the MIC have an
+equivalent impact of their disability on performance.
+Here we find a relevant distinction. The MIC mainly
+answers the question of who is eligible. The question
+we pose in this article is different: among all those
+who meet the criterion, does functional severity still
+have enough influence on performance to modify the
+probabilities of reaching the top positions?
+The inclusion-exclusion paradox
+Wheelchair tennis emerged as an opportunity for
+people with significant mobility limitations to practice
+and compete in the sport of tennis. For many years,
+especially for those with a spinal cord injury, it was one
+of the few ways to develop a competitive career within
+the sport. We believe that the current evolution poses a
+possible paradox.
+out a significant lack: we know much less about how
+these demands are related to the degree of functional
+impairment.
+Another aspect to mention, and especially relevant
+in wheelchair tennis, is that of mobility. De Groot
+et al. (2016) and Rietveld et al. (2019) observed that
+different displacement, acceleration and agility tests
+allow discriminating between performance levels.
+Subsequent work, using inertial measurement units,
+has made it possible to more accurately characterize
+mobility during real matches (Rietveld et al., 2023).
+Here we find one of the central arguments of our
+proposal. If mobility differentiates competitive levels
+and today's tennis demands increasingly faster and
+more efficient movements, we need to know how
+much that mobility depends on the player's residual
+functional capacity.
+The study by van der Slikke et al. (2026) provides
+particularly relevant information. In a sample of 51
+elite players grouped according to three levels of trunk
+function, athletes with greater functional capacity
+achieved higher speeds, accelerations and rotational
+capacities during specific mobility.
+The trunk participates directly in basic actions of
+wheelchair tennis. It helps to stabilize the body during
+propulsion, allows rotations to be generated during
+strokes and makes it easier to regain balance after
+hitting situations. For all these reasons, a greater
+functional capacity of the trunk will be a mechanical
+advantage for movements and hits.
+We also know that specific physical factors condition
+the speed of the serve (Sánchez-Pay et al., 2021c) and
+that there are differences in the effectiveness of some
+shots between high-level winners and losers (SánchezPay et al., 2017).
+We are not yet facing a proven causal relationship. The
+available evidence does allow us to establish a plausible
+sequence: the game has become more demanding;
+mobility has a growing weight; the function of the trunk
+conditions part of this mobility; and these capabilities
+contribute to technical and competitive performance.
+If all these characteristics gain importance, which
+functional profiles will have the greatest chance of
+reaching the elite?
+The generational contrast: Kunieda,
+Hewett and Oda
+The recent history of the men's wheelchair tennis
+circuit offers some cases that help to visualize the
+problem. Logically, we do not intend to indicate that
+these three players are representative enough to
+establish a decisive conclusion, but we do consider that
+it is a clear trend according to the study carried out with
+the players who have occupied the top positions in the
+Functional equity and integration in
+professional tennis
+On the other hand, there is a second issue that probably
+needs to be analysed together with the previous one.
+Wheelchair tennis has achieved something that few
+Paralympic sports have achieved: integrating itself
+into the very structure of conventional professional
+sport. All four Grand Slams currently include chair
+competition, and similar experiences are beginning
+to appear at ATP and WTA events. This restructuring
+of the UNIQLO Wheelchair Tennis Tour announced by
+World Tennis will divide the professional circuit into
+three levels: the development, the international and
+the Premier Tour (the highest level). The Premier Tour
+includes Grand Slams, year-end Masters and integrated
+tournaments classified as follows:
+•	 Wheelchair 1000 Events: Integrated into ATP
+and WTA Masters 1000 tournaments (such as the
+Miami Open, which already operated under this
+model in a pioneering way).
+•	 Wheelchair 500 Events: Coupled to ATP/WTA 500
+tournaments.
+•	 Wheelchair 250 Events: Coupled to ATP/WTA 250
+tournaments.
+This integration (which includes at least seven
+additional integrated tournaments in 2026) provides
+obvious benefits. Players compete in prestigious venues,
+media coverage and visibility of the sport increases,
+commercial opportunities grow, and the public
+perceives wheelchair tennis as part of professional
+tennis.
+Given this situation, it would be appropriate to ask how
+important the simplicity of the competitive system
+has been, where only two divisions are proposed at the
+functional level (Open and Quad).
+This structure makes it possible to organize relatively
+small paintings that are understandable to all audiences
+and audiences. For years, some Grand Slams worked
+with just eight players per category, a figure that shows
+the logistical limitations that exist when an additional
+competition is incorporated into an already complex
+event.
+Possibly if a more detailed classification were
+implemented, it could increase functional homogeneity
+among the participants, but it would also probably
+imply more categories, more draws, more matches and
+greater needs for courts and programming, complicating
+the logistics and management of resources for the
+Tournament.
+There is no evidence to support World Tennis
+maintaining the current model for this purpose. Nor
+have we found documentation that establishes a
+causal relationship between the classification system
+and professional integration. We pose it only as a
+A system designed to include could generate, without
+intending to, a form of competitive selection in which
+some of the profiles with the greatest functional
+impairment would have increasingly difficulty reaching
+the sporting elite and, therefore, could be excluded.
+We are not talking about normative exclusion. A person
+with a spinal cord injury who meets the requirements
+can compete today in the Open Division just as they did
+twenty years ago. Nor do we suggest that players with
+less impairment have an absolute advantage or that
+their performance can be explained by their disability.
+Rather, understanding that high sports performance in
+wheelchair tennis requires slightly higher acceleration,
+greater stability during hits in stable and/or unstable
+positions, faster recovery, among other factors, these
+differences between some players and others depending
+on residual body function, could condition the sports
+evolution over time.
+In addition, the evolution of the game itself could
+intensify this dynamic. The higher the speed of the
+competition, the more value capabilities such as
+acceleration, power, travel efficiency and trunk control
+acquire. In this scenario, small functional differences
+that twenty years ago were perhaps less decisive could
+have a greater influence today.
+This
+interpretation
+remains
+a
+hypothesis.
+To
+demonstrate this, we need to reconstruct the functional
+profile of the ranking during different historical periods
+and study whether the proportion of athletes with less
+impact in their top positions has really increased over
+time.
+Even without such longitudinal evidence yet, the issue
+has practical implications. One of them appears in the
+introductory programs to wheelchair tennis developed
+in hospitals and rehabilitation centres. For a person
+who has just contracted a spinal cord injury, meeting
+other players with similar experiences and functional
+abilities can have a strong identifying effect.
+For decades, many international leaders had profiles
+clearly associated with spinal cord injuries. If those
+in the top positions progressively show different
+functional characteristics, there could be a certain
+distance between the new practitioner and the elite
+model he observes.
+This does not reduce the rehabilitative, social or sporting
+value of wheelchair tennis. Tennis can improve physical
+condition, promote autonomy, improve socialization
+and provide a competitive activity regardless of the
+level achieved.
+The question is in the message we convey. Perhaps
+recruitment programs should not rely solely on the
+figures of the world's Top 10-15 as a representation of
+what it means to practice wheelchair tennis. Showcasing
+athletes with different functional levels and different
+competitive goals can offer a broader and more realistic
+picture of sport.
+severe injuries, it is advisable to present a diversity of
+references. International champions are important, but
+so are national players, veteran athletes or practitioners
+who show other forms of successful participation.
+Finally, the bodies responsible for sport could
+incorporate this issue into future classification reviews.
+Not starting from the idea that the current system is
+necessarily unfair, but periodically asking whether the
+functional differences within the category continue
+to be compatible with the principle that the result
+depends fundamentally on sporting ability or perhaps,
+we should bet on a modality of wheelchair tennis that
+is a highly professionalized sport and that allows it to
+be included in professional programs (ATP/WTA) to
+achieve greater visibility,  dissemination and resources
+for the practice of this sport in other disciplines of the
+same, accepting that possibly the level of functional
+impairment is a limitation to access that "division".
+Limitations and future lines of research
+The main limitation of this work derives from its very
+nature. We present a narrative review and a working
+hypothesis, not a longitudinal review.
+We do not yet have a systematic analysis that allows us
+to affirm that players with less functional impairment
+have increased their representation in the top positions.
+The examples used have a high illustrative value, but
+they do not replace a complete reconstruction of the
+ranking. We have based ourselves on the lists of players
+who reached the quarterfinals at the Paralympic Games
+from 1992 to Paris 2024 in the men's Open category
+and the players in this category to reach the top of the
+rankings in the last 10 years without considering the
+women's or the Quad category.
+We should also avoid identifying clinical diagnosis with
+functional capacity. A spinal cord injury, an amputation
+or a sequel of cancer does not define by themselves how
+a player moves, how much trunk control he retains or
+what performance he can develop.
+The available scientific literature is still relatively
+limited and uses small samples, which is understandable
+in high-level Paralympic sport. Williamson et al. (2024)
+also noted considerable heterogeneity among the
+protocols used to study physical demands.
+We
+need,
+therefore,
+longitudinal
+analyses
+and
+standardized systems of functional assessment that
+allow us to relate disability, specific activity and
+competitive performance more directly.
+The institutional hypothesis on professional integration
+presents an additional limitation. The coexistence
+between a simple qualification and a high level of
+integration in major tournaments does not allow
+causality to be established. Studying it would require
+incorporating the perspective of organisers, World
+Tennis, Grand Slams, players and other stakeholders.
+governance conjecture that we consider worth paying
+attention to.
+From a strictly functional perspective, it might be
+desirable to reduce the differences between players
+competing for the same titles, however, from the
+perspective of the organization of the circuit,
+maintaining few categories favours a compact format
+and possibly facilitates their presence within the major
+tournaments.
+It does not seem appropriate to pose it as a binary
+choice between equity or integration and probably,
+intermediate solutions could be implemented, such
+as the study of differentiated participation systems,
+or even alternative classification systems without
+necessarily if each functional level must generate an
+independent table.
+However, this type of proposal will require a greater
+study of the quality and quantity of the data offered by
+the circuit and its history.
+Implications for the development of
+wheelchair tennis
+The first priority should be to know if the phenomenon
+in question really exists and what its magnitude is.
+In this sense, we propose to carry out a review study
+on the World Top 20 at different times (for example,
+2010, 2015, 2020 and 2025) to later relate each player
+with sufficiently documented clinical and functional
+information. This would make it possible to analyse
+whether the distribution of profiles has changed
+and whether there is any temporal association with
+regulatory modifications or with the evolution of
+performance itself.
+It would also be interesting to complement clinical
+diagnoses with functional measures. Two athletes with
+the same aetiology can have very different abilities. To
+really understand the effect on performance we need
+data on trunk function, strength, stability, mobility and
+propulsion capacity, beyond the name of the injury.
+From the point of view of training, this line of research
+can help to better individualize physical and technical
+preparation. Players with less core control may need
+specific saddle configuration strategies, stability
+work or technical-tactical adaptation that reduce the
+disadvantage associated with certain actions.
+In development programmes it would also be
+interesting to follow players with different functional
+profiles longitudinally. It is not enough to know who
+makes it to the Top 10. We need to know who starts the
+sport, who quits, who progresses and at what point the
+biggest differences appear.
+Recruitment in rehabilitation centres deserves special
+attention. If we want to maintain wheelchair tennis as
+an attractive option for people with more functionally
+Funding
+This work has not received specific funding from public,
+private, or nonprofit sector agencies.
+Conflict of interest:
+The author declares that he has no conflicts of interest.

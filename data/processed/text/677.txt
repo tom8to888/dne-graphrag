@@ -1,0 +1,630 @@
+Title: The effect of self-perception on performance perfectionism behaviours in young tennis players: the case of Turkey
+Authors: Seniz Karagoz, Elif Bozyigit
+Year: 2025
+Issue: Vol. 33 No. 96 (2025)
+Article id: 677
+
+www.itfcoachingreview.com
+August 2025. 33th Year. Issue 96. 49-54
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i96.677
+INTRODUCTION
+Tennis is a complex, dynamic, and open-skill sport that
+demands the harmonious integration of physical, mental,
+technical, and strategic skills (Cui, 2018; Kovacs, 2006; TorresLuque, 2018). It also involves high levels of psychological
+adaptability due to constantly changing environmental and
+competitive conditions. Understanding the psychological
+components that influence individual performance is critical
+for supporting athlete development and sustaining highlevel performance behaviours (Torres-Luque, 2018; Yoo,
+2003). Among these psychological components, performance
+perfectionism is recognized as a multidimensional construct
+involving the tendency to set excessively high standards and
+to evaluate oneself critically following performance (Flett &
+Hewitt, 2005; Jowett et al., 2016). In tennis, a sport requiring
+rapid decision-making and intense focus, perfectionism can
+both enhance and hinder performance depending on its
+interaction with other psychological traits such as motivation,
+anxiety, and self-perception (De Muynck et al., 2021;
+Hollowell et al., 2019).
+Self-perception, defined as individuals’ beliefs about their
+skills, physical competence, and overall performance
+capabilities, plays a key role in shaping an athlete’s confidence
+ABSTRACT
+Perfectionism in sport is a multidimensional construct influenced by various psychological
+factors, including athletes' self-perception. This study aimed to examine the influence of
+self-perception on performance perfectionism among elite young tennis players. A total
+of 163 elite athletes (n = 105 female, n = 58 male, AgeMean=14.13±1.02 years), aged
+between 13 and 16, voluntarily participated in the study. Quantitative research methods
+were employed, and data were collected using the Elite Athlete Self-Perception Inventory
+(EASPI) and the Perfectionism in Sport Scale (PPS-S). Descriptive statistics, reliability
+analyses, Pearson correlation, and multiple linear regression analyses were conducted.
+A low-level negative correlation was found between age and all sub-dimensions of selfperception (p < .05, r = –.17 to –.28). However, regression analysis revealed that selfperception had a very limited explanatory power for performance perfectionism and
+did not form a statistically significant model (R² = .03, p > .05). These findings suggest
+that enhancing young tennis players' performance requires not only the development of
+physical skills but also the reinforcement of motivational and social support structures.
+Developing holistic training programs that account for individual differences may help
+manage perfectionism levels in a healthier way.
+The effect of self-perception on performance
+perfectionism behaviours in young tennis players:
+the case of Turkey
+Şeni̇z Karagöz¹ & Elif Bozyigit²
+¹Afyon Kocatepe University, Turkey. ²Pamukkale University, Turkey.
+Key words: Elite tennis players,
+Self-perception, Performance
+perfectionism.
+Received: 2 February 2025
+Accepted: 24 April 2025
+Corresponding author:
+senizkaragoz@gmail.com
+and behavioural outcomes (Çağlar et al., 2017; Kramer et
+al., 2017). During adolescence, self-perception undergoes
+significant development as young athletes face heightened
+self-awareness,
+social
+comparisons,
+and
+performance
+pressures (Harter, 2012; Kolman et al., 2021). The 13–16 age
+range represents a transitional phase in which cognitive and
+emotional maturation intersects with escalating competitive
+demands in tennis (Gullich et al., 2022). This developmental
+period is marked by increased vulnerability to external
+feedback and internalized expectations, making it a critical
+phase for investigating how self-perception influences
+perfectionistic tendencies (Madigan et al., 2016). Particularly
+during adolescence, a developmental period marked by
+increased self-awareness and performance pressure, selfperception may influence how young players internalize
+success and respond to challenges (Kolman et al., 2021). This
+is especially relevant for young elite tennis players, whose
+engagement in competitive environments from an early age
+often demands not only physical and technical readiness,
+but also strong mental and emotional control (Baturkina &
+Budyakova, 2019; Seang-Leol & Calderon Jr., 2018).
+Although self-perception and perfectionism have been
+individually explored in various sports contexts, there is a lack
+of focused research investigating their interrelationship in
+COACHING & SPORT
+SCIENCE REVIEW
+adolescent tennis players. Given the sport's unique cognitive,
+emotional, and physical demands, such an investigation could
+provide valuable insights into how young athletes interpret
+performance expectations and shape their athletic identity. As
+Young (2010) emphasized, striving for perfection is common
+in elite tennis environments, but demanding flawlessness can
+impair motivation and confidence.
+Therefore, the primary aim of this study is to examine the
+relationship between self-perception and performance
+perfectionism behaviours in young elite tennis players aged
+13–16. By identifying the psychological factors that underpin
+perfectionistic tendencies in youth tennis, this study aims
+to inform coaches, sports psychologists, and practitioners
+about targeted strategies to foster adaptive performance
+traits. By identifying the psychological factors that underpin
+perfectionistic tendencies in youth tennis, this study aims to
+inform coaches, sports psychologists, and practitioners about
+targeted strategies that foster adaptive performance traits
+and support long-term success. Moreover, the findings are
+expected to support the long-term performance sustainability
+of competitive junior athletes transitioning to elite levels.
+In this context, the primary aim of the study is to examine
+the relationship between perfectionistic behaviours and the
+sub-dimensions of self-perception among young elite tennis
+players, and to reveal how the age variable interacts with
+these psychological constructs. Accordingly, the following
+hypotheses were tested:
+H1: All sub-dimensions of self-perception significantly predict
+excellent performance behaviours among young tennis
+players aged 13–16.
+H2: The age variable is significantly associated with excellent
+performance behaviours and the sub-dimensions of selfperception.
+METHODS AND PROCEDURES
+Research Model
+In this research, source documents were examined, and
+quantitative research methods were used (Karasar, 2012).
+This research was conducted with permission from Afyon
+Kocatepe University Social and Human Sciences Publication
+Ethics and Research Board with the decision numbered
+2023/174 dated 16.05.2023. Prior to participation in the
+research, informed consent and permission were obtained
+from the athletes' coaches or families. The model of the
+research can be seen in Figure 1.
+Figure 1. Peffect of all sub-factors of self-perception (independent
+variables) on performance perfectionism (dependent variable).
+Participants Group
+The study group consisted of 163 tennis players (female
+n=105, male n=58) between the ages of 13 and 16
+(Mage=14.13±1.02 years) who played at least six national
+tournaments per year. Data were collected from official
+national tournaments organized by the Turkish Tennis
+Federation and from players of tennis clubs registered by the
+federation through face-to-face interviews by the researchers
+between June and October 2023. The average height of the
+tennis players was 166 ± 7 cm for females and 170 ± 10.4 cm
+for males, and the average body weight was 53 ± 7.4 kg for
+females and 59 ± 10.3 kg for males.
+All participants were classified as “elite youth tennis players”
+based on multiple performance and participation criteria,
+aligned with definitions provided in the literature (Swann et
+al., 2015; Vaeyens et al., 2009).
+Measurement tools used in the research
+“Personal Information Form”, “Performance Perfectionism
+Scale for Sport” and “Elite Athlete Self-Perception Inventory”
+were used as data collection tools.
+Personal Information Form
+The Personal Information Form is a form prepared by
+researchers to determine the personal characteristics of the
+participants and to create independent variables. This form
+includes questions about age, gender, training age, weekly
+training frequency and duration.
+Elite Athlete Self-Perception Inventory (EASPI)
+The inventory used to determine the athlete self-perception
+of tennis players, “Elite Athlete Self-Perception Inventory
+(ESBAE),” developed by Marsh et al. in 1997 and adapted into
+Turkish by Çağlar et al. (2017), interprets the physical and
+mental fitness athletes to need to be aware of themselves
+to achieve success in sports. The elite athlete self-perception
+inventory consists of 29 items and six sub-dimensions. The
+inventory is answered on a 6-point Likert scale (1. Completely
+False to 6. Completely True).
+Performance Perfectionism Scale for Sport (PPS-S)
+ The scale, which was analysed for Turkish validity and
+reliability by Esentaş et al. (2020) for child athletes, consists
+of a single sub-dimension of 5 items. A 7-point Likert-type
+rating system was used: (1) strongly disagree, (2) disagree, (3)
+partially disagree, (4) undecided, (5) partially agree, (6) agree,
+(7) strongly agree.
+Data Analysis
+The skewness-kurtosis values, Mahalanobis distance, and
+Levene test results of the data obtained from the variables
+were examined, and it was concluded that the data were
+normally distributed. The reliability of the scales was tested by
+calculating Cronbach Alpha internal consistency coefficients.
+Multiple linear regression analysis was performed to test the
+main problem. All data were analysed using SPSS statistical
+software (v.26.0); p-value less than 0.05 was deemed
+statistically significant.
+
+RESULTS
+Table  1
+Descriptive Statistics and Reliability Analysis Values (n=163).
+Measurement Tools
+Item
+Score Mean ± Sd
+Skewness
+Kurtosis
+Cronbach α
+Performance perfectionism
+2.92 ± .81
+.314
+-.906
+.616
+Self-perception
+4.10±.91
+.916
+-.101
+.958
+Perceived skill
+3.86 ± 1.14
+-.327
+-.377
+.891
+Body fitness
+4.15 ± 1.15
+-.423
+-.073
+.872
+Aerobic fitness
+4.13 ± 1.13
+-.659
+.072
+.869
+Anaerobic fitness
+4.06 ± 1.09
+-.603
+.094
+.889
+Mental skill
+4.25 ± 1.09
+-.587
+-.050
+.859
+Overall performance
+4.13 ± 1.13
+-.442
+-.505
+.908
+
+Descriptive statistics and internal consistency values of the measurement tools used in the study are presented in Table 1. The
+mean score of the Performance Perfectionism Scale for Sport (PPS-S) was 2.92 (SD = .81), with a Cronbach’s alpha value of
+.616, indicating moderate internal consistency. For the Elite Athlete Self-Perception Inventory, the overall mean score was 4.10
+(SD = .91), with excellent internal consistency (α = .958). Among the subdimensions, the highest reliability coefficients were
+observed for overall performance (α = .908) and perceived skill (α = .891).
+Table  2
+Distribution of scores obtained by tennis players from the scales (n=163).
+Variables
+Scales
+PPS-S
+Self-Perception
+
+A
+B
+C
+D
+E
+F
+
+n
+!̅±ss
+!̅±ss
+!̅±ss
+!̅±ss
+!̅±ss
+!̅±ss
+!̅±ss
+Gender
+Female
+2.89±.77
+3.84±1.15
+4.21±1.17
+4.13±1.18
+4.08±1.08
+4.35±1.08
+4.23±1.12
+Male
+2.96±.89
+3.89±1.16
+4.07±1.12
+4.14±1.05
+4.02±1.13
+4.09±1.12
+3.96±1.15
+Training age
+(years)
+3-7 y
+3.13±.80
+3.75±1.22
+4.07±1.27
+3.87±1.29
+3.94±1.28
+4.03±1.22
+4.02±1.17
+7+ y
+2.80±.80
+3.91±1.10
+4.20±1.07
+4.28±1.01
+4.12±.97
+4.38±1.01
+4.20±1.10
+Training
+day/hour
+3+days/over 6h
+2.95±.77
+3.43±1.17
+3.79±1.28
+3.69±1.26
+3.58±1.34
+4.05±1.31
+3.89±1.17
+4-5 d/8-10h
+2.99±.94
+3.93±1.21
+3.98±1.28
+4.12±1.10
+4.15±1.03
+4.38±1.09
+4.23±1.26
+6+ d/over 12h
+2.89±.80
+4.03±1.07
+4.40±.98
+4.35±1.02
+4.25±.92
+4.31±.99
+4.22±1.06
+PPS-S: Performance perfectionism Scale for Sport, A: perceived skill, B: body fitness, C: aerobic fitness, D: anaerobic fitness, E: mental skill, F: overall performance, y: Year, d: Day, h:
+Hour
+As presented in Table 2, female athletes exhibited slightly higher scores than males across most self-perception sub-dimensions,
+particularly in mental skill and overall performance, while performance perfectionism scores remained similar between genders.
+Athletes with 3–7 years of training experience demonstrated higher levels of performance perfectionism compared to those
+with more than 7 years of experience. Furthermore, individuals training 6 or more days per week for over 12 hours showed the
+highest self-perception scores across all dimensions, indicating a potential positive association between training volume and
+perceived performance.
+Table  3
+Correlation values between age, performance perfectionism and self-perception (n=163).
+
+Performance
+perfectionism
+Perceived
+skill
+Body fitness
+Aerobic
+fitness
+Anaerobic
+fitness
+Mental
+skill
+Overall
+performance
+r
+-0,002
+-.186*
+-.171*
+-.280**
+-.184*
+-.160*
+-.219**
+p
+0,976
+.017
+.029
+.000
+.019
+.041
+.005
+*p<.05 **p<.01
+As presented in Table 3, no significant relationship was found between age and performance perfectionism (p > .05). However,
+a low-level negative correlation was observed between performance perfectionism and all subdimensions of self-perception:
+perceived skill (r = -.186, p < .05), body fitness (r = -.171, p < .05), aerobic fitness (r = -.280, p < .01), anaerobic fitness (r = -.184,
+p < .05), mental skill (r = -.160, p < .05), and overall performance (r = -.219, p < .01). These findings indicate that higher levels
+of self-perception are associated with lower levels of performance perfectionism among elite tennis players.
+Table  4
+Correlation values for multicollinearity (n=163).
+
+Self-perception
+
+PPS-S
+A
+B
+C
+D
+E
+F
+A. Perceived skill
+r
+.067
+1.000
+
+p
+.199
+.
+
+B. Body fitness
+r
+.075
+.582
+1.000
+
+p
+.171
+.000
+.
+
+C. Aerobic fitness
+r
+-.006
+.674
+.673
+1.000
+
+p
+.470
+.000
+.000
+.
+
+D. Anaerobic fitness
+r
+.054
+.666
+.679
+.786
+1.000
+
+p
+.247
+.000
+.000
+.000
+.
+
+E. Mental skill
+r
+-.052
+.531
+.390
+.473
+.462
+1.000
+
+p
+.256
+.000
+.000
+.000
+.000
+.
+
+F. Overall performance
+r
+.006
+.705
+.503
+.575
+.552
+.664
+1.000
+p
+.471
+.000
+.000
+.000
+.000
+.000
+.
+r<.080, PPS-S; performance perfectionism scale
+It was determined that the correlations (r<.80) between the independent variables (A, B, C, D, E, F) did not create a
+multicollinearity problem (Berry & Feldman, 1985) and that the performance perfectionism scores were linearly related to all
+independent variables. Multivariate linear regression analysis was performed to determine whether the factors that constitute
+self-perception explained the performance perfectionism. It was observed that the tolerance values were below .2 (Field,
+2013), the VIF values were below 5 (Craney & Surles, 2002), and the Mahalanobis distance value was .470 (α=.001), and the
+Durbin-Watson test value was 2.011. It was determined that the errors were normally distributed, and it was observed that the
+independent variables created a homoscedastic structure in the dependent variable.
+Table  5
+The results of elite athlete self-perception values predicting excellent performance.
+
+Unstandardized Coefficients
+Standardized
+Coefficients
+
+Variable
+B
+SE B
+β
+t
+P
+Tolerance
+VIF
+Constant
+2.897
+.307
+
+9.447
+.000
+
+Perceived skill
+.096
+.093
+.134
+1.031
+.304
+.370
+2.706
+Body fitness
+.074
+.081
+.104
+.911
+.363
+.474
+2.109
+Aerobic fitness
+-.129
+.102
+-.179
+-1.272
+.205
+.316
+3.162
+Anaerobic fitness
+.071
+.104
+.095
+.682
+.496
+.320
+3.124
+Mental skill
+-.083
+.080
+-.112
+-1.045
+.298
+.543
+1.843
+Overall performance
+-.012
+.093
+-.017
+-.130
+.897
+.379
+2.641
+R = .17 R2 = .03 F(4-162) = .77
+*p<.05 **p< .01 ***p< .001
+The regression model revealed that the six subdimensions of self-perception did not significantly predict performance
+perfectionism behaviour (R = .17, R² = .03, F(6, 156) = .77, p > .05). None of the predictor variables, including perceived skill (β
+= .134, p = .304), body fitness (β = .104, p = .363), and mental skill (β = -.112, p = .298), showed statistically significant effects
+on performance perfectionism.
+DISCUSSION
+This study examined the relationship between selfperception sub-dimensions and performance perfectionism
+in tennis players aged 13–16 using correlation and regression
+analyses. Correlation results revealed a statistically significant
+negative relationship between performance perfectionism
+and all subdimensions of self-perception, including perceived
+skill, body fitness, aerobic fitness, anaerobic fitness, mental
+skill, and overall performance. These findings suggest
+that as athletes' self-perception improves, their tendency
+toward performance perfectionism decreases. However,
+multiple regression analysis demonstrated that none of
+the self-perception sub-dimensions significantly predicted
+performance perfectionism. The regression model was
+not statistically significant, indicating that these variables
+collectively explained only a small proportion of the variance
+in performance perfectionism.
+As presented in Table 3, our findings revealed that age was
+not significantly correlated with performance perfectionism
+(r = –.002, p > .05), suggesting that older and younger elite
+tennis players exhibit similar levels of perfectionist tendencies
+related to their performance. This finding contrasts with
+some previous research indicating that younger athletes
+may display higher levels of perfectionism due to increased
+competitive pressure and developmental factors (Appleton
+et al., 2009; Gotwals, 2011). However, it is consistent with
+studies reporting no significant age-based variation in
+perfectionism among high-performing athletes, possibly
+due to the standardizing effect of elite sports environments
+that cultivate similar psychological traits regardless of age
+(Stoeber, 2011; Madigan et al., 2016). Thus, it can be inferred
+that at the elite level, age may not play a decisive role in
+shaping or maintaining perfectionist attitudes.
+In contrast, low-level but significant negative correlations
+were found between age and all sub-dimensions of selfperception. This suggests that as elite tennis players grow
+older, they tend to develop a more realistic perception of
+their physical and mental attributes. While younger athletes
+may hold more optimistic or inflated self-perceptions, older
+players might become increasingly aware of the demands and
+constraints imposed by the sport, leading to more tempered
+evaluations of their capabilities. This age-related shift in selfawareness reflects a cognitive and emotional maturation
+process that is common in long-term athletic engagement.
+These findings are supported by studies emphasizing the
+influence of age-related differences in performance on
+athletes’ self-concepts and psychological outlook (Barnett et
+al., 2013; Caniklitemel & Ağralı, 2024).
+Another significant finding of our study is that the subdimensions of self-perception were found not to significantly
+explain performance perfectionism. This suggests that
+performance perfectionism has a more complex structure,
+influenced not only by individual factors but also by the
+interaction of multiple variables. Similar studies in the
+literature indicate that performance is affected by a broader
+range of variables, such as motivation, environmental support,
+and stress management (Aydoğdu et al., 2018; Crespo &
+Reid, 2007; Kolman et al., 2021; Kramer et al., 2017; Robin
+et al., 2023). Additionally, the limitations of the measurement
+tools and the fact that the sample group consisted of young
+athletes may also explain this result. These findings highlight
+the need for tennis players to adopt holistic approaches that
+focus not only on improving their self-perception but also on
+developing motivational and social support structures.
+CONCLUSION AND RECOMMENDATIONS
+This study demonstrated that the effects of all sub-dimensions
+of self-perception on excellent performance behaviours
+among tennis players were limited, and no significant
+relationship was found between the age variable and
+performance perfectionism. However, the results revealed a
+negative correlation between age and all sub-dimensions of
+self-perception.
+For future research, it is recommended to investigate more
+comprehensive models that also consider psychosocial and
+environmental factors affecting tennis players. Moreover,
+the findings of this study provide valuable insights for tennis
+coaches, sports scientists, mental coaches, and sports
+psychologists. To enhance tennis players' performance, it
+is essential not only to focus on physical skills but also to
+strengthen motivational and social support structures. In
+this regard, holistic approaches that consider individual
+differences should be adopted.
+CONFLICTS OF INTEREST AND FUNDING
+The authors declare that they have no conflict of interest, nor
+have they received any funding related to the development
+of this study

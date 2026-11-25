@@ -1,0 +1,210 @@
+Title: Adaptive and Reactive Skills Involved in the Return of Serve in Tennis
+Authors: Carlos Avilés, Luis Ruiz-Pérez, David Sanz, José Navia
+Year: 2014
+Issue: Vol. 22 No. 64 (2014)
+Article id: 516
+
+www.itfcoachingreview.com
+December 2014. 22nd Year. Issue 64. 8-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v22i64.516
+
+Adaptive and reactive skills involved in the
+return of serve in tennis.
+Carlos Avilés, Luis Ruiz-Pérez, David Sanz & Jose Navia.
+Madrid Complutense University, Spain.
+ABSTRACT
+
+Some years ago, Nick Saviano notified qualitative observations. In this study we
+have made a chronometric analysis of the split -step and the response times of
+experienced returners to prove qualitative observations in a quantitative way.
+The research included the relationship between the different phases of the splitstep and the reaction of the players. A 250 fps. high speed camera was used. The
+results partially confirm landing with the opposite foot. The ability to adapt the
+landing of the feet in a functional way was implemented by three of the five
+participants. It was also proved that those players who were faster to land, were
+also faster to react. There was also a relationship between the national
+qualification of the participants and the ability to react, since the best male player
+(M1) and the best female player (F1) had shorter response times.
+
+Key words: Split-step, Taking off,
+Adjustments
+before
+landing,
+Reaction.
+Received: 14 September 2014.
+Acepted: 28 October 2014.
+Corresponding author: Carlos Avilés,
+Madrid
+Complutense
+University,
+Spain.
+Email:  caviles@pdi.ucm.es
+
+INTRODUCTION
+The talent that professional tennis players exhibit on court is
+the product of many years of practice and implicit and explicit
+perceptive motor learning processes. This hard work is directed
+at becoming a top level returner with the capability of quickly
+perceiving the direction of the ball. Top level returners can
+intuitively return to the right side and accurately regulate their
+body movements until the time to make contact (Ruiz, 2012).
+After qualitative observation, Nick Saviano (2000) stated that
+top level players unconsciously produce functional behaviour
+to adapt to demanding strokes in different game situations.
+Saviano (2000) states that top level players are able to regulate
+the landing phase of the split-step, instead of landing with both
+feet simultaneously, they touch the ground first with the foot
+that is further away from the direction of the ball, so as to start
+the stroke with an explosive movement towards that side.
+Saviano concluded from his observations that when the players
+are in the air, they are able to perceive the direction of the ball.
+It is from these ideas that a chronometric study was performed
+in order to increase, by means of quantifiable data, the
+knowledge about specific footwork when returning, to prove
+that experienced returners are able to adjust or adapt the
+landing of their feet during the flight before contacting the
+ground. Another objective of the analysis was to find out if the
+different phases of the split-step (take off, flight and landing)
+were relative to the response times of returners.
+METHOD
+Participants
+Two male players and three female players voluntarily
+participated in this study. The average age of the participants
+was 15.4 years with 5.6 years of intensive practice. The
+participants were selected by the Castilla-La Mancha Tennis
+Federation and each trained between 12 and 15 hours a week.
+The players participating in the research competed regularly in
+their respective categories and had a high national ranking in
+the RFET competition qualification system.
+Material and Procedure
+The players were filmed with a TroubleShooter TS250MS
+camera, Fastec Imaging (250 fps). The camera was placed
+behind the returning player to capture the moment of impact
+of the server, and the return shot from the deuce side and from
+the advantage side. Two additional JVC GY-301E and Cannon
+MV950 (25 fps) cameras recorded the service landing area and
+the accuracy of the return shots. A Sports Radar SR-3600 was
+used to record the service speed. The average speed for the
+male service was 162 km/h and for the females was 133 km/h.
+Each player was recorded both as a server and as a returner.
+When serving, they were asked to serve a powerful and flat first
+serve in a certain sequence and the returner had the open
+court. The returner then had to direct the return shots to cones
+in each corner of the court. The return was scored between
+zero and four points depending on the accuracy. 13 attempts
+were recorded per player and the image after image analysis
+occured every four milliseconds (ms) (Figure 1). A Quick Time 7
+Player, was used in addition to a portable MacBook and an
+auxiliary monitor .
+
+Figure 1. The player´s left foot touches the ground 32 milliseconds before
+his right foot helping to increase the dynamism of the return towards his
+right in the direction of the ball.
+Findings and discussion
+Table 1., Figure 2. and Figure 3. show the main results in time,
+percentage and score. Correlating to previous research,
+participants M1, M2 & F2 showed that they took off almost at
+the time of impact of the server (Avilés, Benguigui, Beaudoin, &
+Godard, 2002; Avilés, Ruiz, & Benguigui, 2006). Female players
+F1 & F3 took off late, +72 ms and +76 ms, after hitting. In
+reference to the time in the air, important individual differences
+were detected among participants. Player M2 remained in the
+air 172 ms while female player F1 was in the air only 60 ms.
+
+Table 1. The three phases of the split-step in milliseconds and the response
+time. Typical deviations are between brackets.
+Percentages of landing with the opposite foot and the score when
+returning are on the right. Participants are ranked from the best to the
+worst, males (M) and females (F).
+
+In relation to the adjustment of the feet just before touching
+the ground, Saviano´s (2000) observations were confirmed,
+although four participants passed the random level (50%), only
+three players (F1, F2 & F3) surpassed 70%. The best player (M1)
+landed with his opposite foot 66.7% of the times, so it showed
+a tendency to adaptive adjustments just before landing (Table
+1. & Figure 2.).
+It is possible that the frequency of landing with the opposite
+foot benefited some participants because of a late take off.
+Taking off later (after impact and initial flight of the ball), the
+players can get more reliable information about the direction of
+the ball. On the other hand, anticipating take off makes it more
+difficult to obtain and use the information about the direction
+of the shot, and as a consequence, it is more complicated to
+adjust the feet when landing. For example, players F1 & F3
+adjust landing on the opposite foot on 78 and 83% of the
+services, while player M2, who started take off prior to the
+stroke, did so 36% of the times.
+
+Figure 2. Percentage of landing on the opposite foot for each participant.
+(Surpassing 70% is evidence that this behaviour has a purpose and it is not
+just by chance).
+
+The great adaptability of the best player is worth mentioning.
+She took off late and to make up for this she remained in the
+air for an extremely short time of 60ms. so that she could gain
+time to land, touching the ground in just 132ms. Besides, she
+landed with the opposite foot 78.6% of the time, only to react
+in just 169ms.
+If all five participants had landed in a high percentage (over
+70%) with the opposite foot, it would have been possible to
+consider the instant of landing as the true reaction, but this
+level was surpassed by all three female (F1, F2 & F3) but not by
+the two male players (M1 & M2). It is still uncertain what really
+happens when the returner is in the air, if the muscular preactivation of the gastrocnemio regulates the visio-motor
+function before landing (Nieminen, Piirainen, Salmi, & Linnamo,
+2013).
+Landing is a crucial moment that illustrates the quickness of the
+returner and it could be considered strongly connected to
+reaction. If this is to be true, the following question could arise:
+Is there a relationship between the landing time and the
+response time? The response to this question is affirmative
+since the best players (M1 & F1) fell rapidly in 138ms and
+132ms, and were the fastest in reaction with relatively short
+response times (see Gillet, Leroy, Thouvarecq, Mégrot, & Stein,
+2010). The two female players who landed later (F2 & F3),
+reacted with slower times closer to 230 ms and similar to those
+in previous studies (Uzu, Shinya, & Oda, 2009; Vaverka,
+
+Stromsik, & Zhanel, 2003; Williams, Singer, & Weigelt, 1998)
+(see Figure 3.).
+
+Figure 3. Time to take off, time to land and response time for each player.
+Returners who landed earlier (M1 y F1) also reacted faster.
+
+In consideration that the response times of all five returners
+were over 160ms, and the accuracy of their responses (98.4%),
+it is possible to infer that the players responses were more
+adaptive and reactive than anticipatory (see Triolet, Benguigui,
+Le Runigo, & Williams, 2013). It is worth mentioning that the
+players who were fast, as well as those players who were slow,
+in landing and reacting have the chance to adjust their
+movement when hitting a return, in order to have accuracy
+when directing their shots to targets. For example, the fastest
+M1 player won 1.4 points and F2 with a long 234ms response
+time was the best performer with 1.5 points. The score of F2
+indicates that even though she reacted much slower she still
+had a margin to adjust her movement until making contact with
+the ball.
+CONCLUSIONS
+In view of the results and the constraints of the size of the
+sample, we can state that there were important individual
+differences among experienced players. Returners showed
+adaptive skills to regulate the time of landing and the hitting
+movement.
+Given the importance of a good return in todays game, the
+coach should evaluate and develop the player´s action and
+reaction capabilities. Thus, he should examine the different
+phases of the split-step (take off/ flight/ landing), detect if he
+takes off early, within time or late, or even if he is fast or slow
+to land and react. The development of this area is an important
+aspect of the progression of a player and to improve their
+returning game, just 30ms can make a difference.
+Acknowledgements
+This project benefited from a research subsidy granted by the
+ITF Development Department. We would like to thank
+Conrado López, Ramón Guzmán, Virginia García, Ana Martín,
+Miriam Palomo, Juan Ángel Simón and Guillermo Viguria for
+their collaboration and for the help provided by the RFET
+Research and Teaching Area of Castilla-La Mancha Tennis
+Federation.

@@ -1,0 +1,330 @@
+Title: Editorial
+Authors: Luca Santilli, Miguel Crespo
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 746
+
+Welcome to the 97th issue of the ITF Coaching & Sport Science
+Review, the third and final of 2025, celebrating 33 years of
+publication. This issue places a strong emphasis on the junior
+game, offering a collection of research and practical insights
+aimed at developing the next generation of players. Among the
+featured topics is an analysis of the predictive validity of the
+ITF Juniors Tour for professional career outcomes, guidelines
+on specific approaches for working with GSPDP ITF/TE
+Touring Teams, the constraints-led approach methodology, and
+the impact of strength and conditioning on junior footwork.
+Management, historical and psychological perspectives are
+also covered, with articles on the ITF World Tennis Number,
+knowledge management applied to tennis organisations, the
+history of French tennis and its federation, and research into key
+skills of champions, resilience in tennis coaching and the effects
+of coach feedback and motor imagery on junior players.
+In this editorial, we also spotlight several key ITF initiatives
+designed to strengthen the global delivery of effective tennis
+development programmes. These efforts reflect the ITF’s
+commitment to creating inclusive pathways, supporting coaches,
+and ensuring players at every level have access to the tools they
+need to succeed. These initiatives are part of the ITF’s long-term
+strategy to make tennis a sport for everyone, from grassroots
+to elite competition, while embracing innovation and inclusivity.
+Editorial
+Luca Santilli  & Miguel Crespo
+
+Tennis Development, Development Department, International Tennis Federation, London, UK.
+www.itfcoachingreview.com. December 2025. 33rd  Year. Issue 97. ISSN 2225-4757
+COACHING & SPORT
+SCIENCE REVIEW
+ITF WORLD COACHES CONFERENCE
+The 24th ITF World Coaches Conference in Vilnius concluded
+with a strong sense of collaboration, innovation, and inspiration,
+perfectly reflecting its theme: “Future Trends in Tennis: Preparing
+Today for Tomorrow’s Game.”
+Held at the SEB Arena in partnership with the Lithuanian
+Tennis Union and Tennis Europe, the event brought together
+479 delegates from over 92 countries, showcasing the global
+reach of the coaching community. Across three days, keynote
+presentations, interactive workshops, and dynamic discussions
+highlighted how coaching continues to evolve at the core of
+tennis.
+The conference brought together leading experts in sports
+medicine, performance analysis, and tennis innovation, alongside
+ITF leadership, offering diverse and inspiring perspectives
+on coaching and player development. As the event began,
+anticipation was high. The programme celebrated the global
+tennis coaching community and its essential role in shaping
+the future of the sport. In his opening address, ITF President
+Dave Haggerty urged coaches to embrace progress through
+modern methodologies, technological innovation, and player
+development strategies. His call to leave Vilnius with actionable
+ideas and practical tools resonated throughout the programme.
+With the next generation of talent in focus, the 2025 ITF World
+Coaches Conference not only reflected on the current state of
+the game but also outlined a clear vision for its future direction.
+Experts and speakers explored critical topics shaping the sport’s
+future: inclusivity, sustainability, data-driven decision-making,
+and the integration of AI and digital tools in coaching. Italy’s
+Billie Jean King Cup captain, Tathiana Garbin, inspired attendees
+with insights on leadership, team culture, and the importance of
+people behind success, while advocating for women in tennis and
+sharing the Italian pathway for talent development.
+Dr Brian Hainline reinforced tennis as a lifelong sport,
+encouraging coaches to leverage research and community
+networks to support players of all ages and abilities. Former
+professionals Ernest Gulbis, Kaia Kanepi, and Ričardas Berankis
+offered personal perspectives on transitioning from junior to
+professional tennis, emphasizing adaptability and resilience.
+Sessions on performance and partnerships added further depth.
+Jacco Eltingh examined the nuances of doubles development,
+focusing on communication and trust, while conditioning
+expert Beni Linder presented modern approaches to physical
+preparation, recovery, and holistic training.
+Equity and empowerment were central themes. Salma Mouehli
+addressed challenges in coaching female athletes, highlighting
+confidence-building, communication, and the importance of role
+models, reinforcing ITF’s Advantage All commitment to inclusion.
+Breakout sessions encouraged knowledge-sharing and practical
+application. Mental strategies placed athlete well-being at the
+forefront, while workshops on tactical analysis showcased
+how AI, video, and data are transforming player development.
+Inclusive coaching frameworks demonstrated how tennis can
+truly be accessible to all.
+Global collaboration remained a cornerstone of the event, with
+federations and coaches exchanging ideas to raise standards
+worldwide and creating the adequate tennis culture (Nash et al.,
+2024). Updates on ITF’s education and certification frameworks
+underscored ongoing efforts to strengthen coaching at every
+level through reflection, learning and development (MartínezGallego et al., 2023).
+Beyond the court, talent development, sustainability and
+community engagement were key discussion points, inspiring
+coaches to use their programmes as platforms for positive change
+in offering more and better opportunities at a global scale (Crespo
+et al., 2025). A highlight was the ITF-USTA Red Ball initiative,
+illustrating innovative adult engagement pathways from red to
+yellow ball play—a success story since its launch at the US Open.
+The conference marked a significant step forward in promoting
+diversity. It featured 92 speakers from across the globe,
+including keynote presenters and workshop leaders, with women
+representing roughly one-third of the overall line-up. Gender
+representation among the 25 keynote speakers was nearly equal,
+with 12 women and 13 men, reflecting the ITF’s commitment to
+inclusive leadership in tennis coaching. This progress aligned with
+the ITF Advantage All programme and broader efforts to advance
+gender equality in the sport. According to the latest ITF Global
+Tennis Report, the total female playing population had grown by
+8.3%, while the proportion of women coaches increased from
+20.6% in 2019 to 24.3% in 2024. Women officials accounted for
+31% of the officiating workforce.
+As the conference closed, delegates departed Vilnius energized
+and united in their commitment to advancing coaching and
+shaping the future of tennis worldwide. The conference explored
+the technologies and emerging trends that were shaping the next
+era of player development, offering insights into how innovation
+continues to transform the future of tennis.
+Following the main conference, over 40 National Junior Tennis
+Initiative (JTI) Coordinators and ITF Tutors participated in the
+4th Global JTI Workshop and a dedicated tutor session. These
+gatherings extended the dialogue, focusing on implementing
+the new ITF School Tennis Teacher Certification to maximize
+grassroots development and increase tennis exposure for future
+generations. They are a practical application of the needs for
+continuous coach education as concluded by recent studies
+(Crespo et al., 2024; Hannays, 2020).
+As highlighted by tennis-specific research showing the
+importance coaches place on online education (Mester & Wigger,
+2011; Sackey-Addo & Pérez Camarero, 2016) , all presentations
+from the recent conference have been made available on ITF
+Academy for those who attended. This ensures that participants
+can revisit key insights, deepen their understanding of emerging
+trends, and apply practical knowledge shared during the event
+at their own pace. By providing on-demand access to expertled sessions, the ITF continues to support lifelong learning and
+professional development for coaches worldwide, reinforcing its
+commitment to innovation and accessibility in coach education.
+WORLD TENNIS
+The International Tennis Federation (ITF) will adopt the name
+World Tennis in 2026, following a decisive vote in favour of
+the proposal by its member national associations at today’s ITF
+Annual General Meeting. Recommended by the ITF Board and
+Executive, this change aims to better represent the organisation’s
+role as the global governing body and guardian of the sport, as
+well as its partnership with member nations to grow and develop
+tennis worldwide.
+The name World Tennis was selected after extensive research and
+stakeholder consultations across the sport, confirming the need
+for a title that reflects the organisation’s scale and significance
+within the global tennis ecosystem, which spans 213 member
+associations.
+This evolution will create a clearer, more relevant identity for
+players, fans, partners, and stakeholders, aligning the brand with
+other leading international sports federations. It also builds on
+recent brand developments, including the introduction of subbrands such as World Tennis Tour and World Tennis Number.
+The rebrand forms part of a long-term strategy to drive greater
+engagement, recognition, and investment across all levels of
+tennis—from grassroots participation to elite competition.
+After more than a century as the ITF, the organisation is entering
+an exciting new chapter as World Tennis, continuing to expand
+its global impact on the sport. The new name reflects its role as
+the international governing body and guardian of tennis, working
+closely with member nations to deliver tennis for life.
+This evolution follows extensive consultation across the global
+tennis community and represents a shared ambition to strengthen,
+unify, and grow the game worldwide. The rebrand is part of a
+broader strategy to enhance engagement and recognition, and
+the full identity and plans will be unveiled in the coming months.
+Founded in Paris in 1913 as the International Lawn Tennis
+Federation, the organisation became the International Tennis
+Federation in 1977. The new trading name will take effect on 1
+January 2026, with the World Tennis brand officially launched in
+summer 2026 as part of a phased rollout.
+INTERNATIONAL BLIND TENNIS ASSOCIATION (IBTA)
+The International Tennis Federation (ITF) and the International
+Blind Tennis Association (IBTA) have signed a Memorandum of
+Understanding (MOU) to strengthen collaboration and drive
+global development of blind tennis.
+This agreement reflects a shared commitment to making tennis
+inclusive and accessible for all, while creating more opportunities
+for blind and visually impaired players of all ages and skill levels.
+Under the MOU, the ITF will gain deeper insight into blind
+tennis’ structure, regulations, classification systems, and longterm development needs. In turn, the IBTA will benefit from the
+ITF’s expertise in governance, programme development, and its
+experience advancing other disability tennis formats such as
+wheelchair tennis.
+The partnership supports a key pillar of the ITF’s 2024+4 strategy
+– ‘Opportunity’, which focuses on making tennis a sport for
+everyone. It reinforces the ITF’s ongoing work with organisations
+representing different tennis variations to expand participation
+and create new pathways for players. For the IBTA, as the global
+body for blind and visually impaired tennis, the agreement will
+help increase worldwide participation, standardise adaptive
+equipment, and align classification regulations with international
+standards such as IBSA and IPC.
+This collaboration marks an important step in the ITF’s
+commitment to understanding and developing all disability tennis
+formats. It represents the beginning of a valued partnership
+aimed at ensuring long-term growth, sustainability, and greater
+opportunities for blind and visually impaired players worldwide.
+For those interested, several articles on blind tennis have already
+been published in this journal and can be found both in the
+website and the ITF Academy, including introductory concepts
+(Bullock, 2007), game analysis (Sato et al., 2010),  examples of
+programmes (Young & Fitz-Gerald, 2015), and equipment related
+studies (Roth et al., 2023). Other scientific studies conducted on
+this field are related to practical approaches (Battarel, 2013), and
+barrier elimination (Polak-Sopinska & Nebelska, 2019). For more
+details on IBTA, visit: https://www.internationalblindtennis.org/
+ITF PLAYER CARE PROGRAMME
+The ITF has introduced its Player Care Programme, a
+comprehensive initiative designed to support athletes’ wellbeing
+both on and off the court. As the global governing body of
+tennis, the ITF is reinforcing its commitment to players’ mental
+and physical health by offering tailored resources and expert
+guidance to help athletes navigate the unique challenges of
+professional tennis.
+The programme is available to all players competing on ITF
+professional tours, including the World Tennis Tour, Wheelchair
+Tennis Tour, and Beach Tennis Tour.
+A key feature is the Wellbeing Tracking app, enabling players to
+monitor and record their wellbeing and understand its connection
+to performance.
+Additional resources, accessible via the ITF Academy, include:
+•	 Wellbeing Matters: Practical guides on topics such
+as mood regulation, sleep optimisation, relationship
+management, and travel fatigue.
+•	 Video-based education on financial literacy, covering
+budgeting, savings, and sports taxation.
+•	 Expert advice on navigating the digital landscape and
+managing online abuse.
+•	 Confidential
+online
+consultations
+with
+wellbeing
+professionals.
+•	 An online course (developed with International SOS)
+promoting player safety during travel.
+•	 An IOC-provided course offering guidance on life beyond
+tennis, skill-building, and career preparation.
+Players are recognised as more than just competitors, and
+achieving peak performance requires a balance of physical health
+and mental wellbeing. The Player Care Programme reflects this
+principle, offering a comprehensive package of free resources
+to support athletes at every stage of their journey—from elite
+professionals to those preparing for life after competition.
+This initiative provides tools and guidance to help players
+manage wellbeing risks, enabling them to focus on maximising
+their potential and enhancing their overall experience on tour. By
+addressing both on-court performance and off-court challenges,
+the programme ensures that tennis players worldwide have the
+support they need to thrive.
+KEY CHANGES TO ITF WORLD TENNIS TOUR JUNIORS
+FROM 1 JANUARY 2026
+The ITF World Tennis Tour Juniors – a vital stage in the player
+pathway and a launchpad for future stars – is on track for a recordbreaking year, with more than 1,000 tournaments expected for
+the first time. This milestone reflects the ITF’s mission to create
+opportunities for players everywhere, from playground to
+podium, while supporting talent from underrepresented nations.
+To further strengthen this pathway, several important changes
+will take effect from 1 January 2026, aimed at enhancing player
+development and competitive experience.
+New Round-Robin Format at J30 and J60 Events
+A hybrid approach will be introduced at selected J30 and J60
+tournaments, combining a round-robin group stage with an
+elimination phase.
+•	 Format: 32 players divided into eight groups of four,
+competing over the first three days. Group winners
+advance to the quarter-finals.
+•	 Why: The current elimination-only format means half of
+the players exit after one match. The new system ensures
+more match play, helping players aged 13–16 reach the
+recommended 50–70 high-quality matches per year.
+•	 Benefits: Greater competitive experience reduced travel
+for single-match events, and better value for families.
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2025 Luca Santilli & Miguel Crespo
+This text is under a Attribution 4.0 International (CC BY 4.0).
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix, transform, and
+build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms.
+Players will be informed at entry whether the tournament uses
+the traditional elimination format or the new hybrid format.
+“Introducing round-robin formats at J30 and J60 level will give
+more players the competitive opportunities they need to develop
+and gain valuable international experience,” said Matt Byford, ITF
+Executive Director of Juniors, Masters and Beach Tennis.
+Expanded Use of ITF World Tennis Number (WTN)
+Since 2022, WTN has been a secondary acceptance criterion for
+junior events. From 2026, its role will grow:
+•	 A portion of direct acceptances into qualifying and main
+draw singles at J30 and J60 events will be based solely
+on WTN.
+•	 Example: In a 32-player draw, six direct acceptances will
+be awarded based on WTN.
+ This change ensures players progressing through national and
+regional tours with strong WTNs can access ITF events, even if
+their junior ranking is lower.
+Evolution of the 16&U Regional Reserved Programme
+The current programme, which reserves places for players from
+Europe and South America, will expand globally and adopt WTN
+as the acceptance measure.
+•	 From 2026, up to two players aged 16-and-under from
+each region will receive direct acceptance into the main
+draw based on WTN (if not already accepted via ranking).
+•	 The programme will be renamed the 16&U WTN
+Regional Reserved Programme, ensuring fair and
+consistent access for players worldwide.
+These changes reflect the ITF’s commitment to providing more
+matches, fairer access, and improved value, strengthening the
+international player pathway and helping the next generation
+progress.
+We hope this editorial has provided valuable insights and
+sparked meaningful reflection. Its aim is to showcase some of the
+significant initiatives the ITF is undertaking to promote tennis
+worldwide. We also invite new contributions to the ITF CSSR via
+the designated submission platform. Our heartfelt appreciation
+goes to all the authors for their contributions and to everyone
+who shared their work. Detailed guidelines for submissions and
+publications are available on the platform and in the latest issue
+section of the ITF Academy. We trust you will enjoy this final
+edition of the ITF Coaching and Sport Science Review.

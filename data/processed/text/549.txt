@@ -1,0 +1,230 @@
+Title: Hydration, Dehydration, and Performance: A Literature Review
+Authors: Mark Kovacs
+Year: 2011
+Issue: Vol. 19 No. 53 (2011)
+Article id: 549
+
+www.itfcoachingreview.com
+April 2011. 19th Year. Issue 53. 31-35
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i53.549
+
+Hydration, Dehydration, and Performance: A
+Literature Review.
+Mark Kovacs.
+United States Tennis Association.
+ABSTRACT
+Hydration at any level of competitive sport is crucial to optimal performance and
+recovery. The present article outlines how dehydration can affect bodily
+functioning and presents research outlining preferable hydration strategies and
+techniques. Practical applications include how to measure dehydration levels,
+and what appropriate fluids are available for consumption to optimise
+performance and recovery.
+
+Key words: Hydration, Recovery,
+Sodium, Cramp, Sports drinks
+Received: 17 September 2010.
+Acepted:
+February
+2011.
+Corresponding
+author:
+Mark
+Kovacs, United States Tennis
+Association.
+Email: Kovacs@usta.com,
+
+INTRODUCTION
+At any competitive level, it is commonly understood that
+proper rehydration- the restoration of carbohydrate stores,
+along with fluid and electrolyte levels- after practice or
+competition is vital to performance, health and safety.
+However, specific guidelines or recommendations have not yet
+been well established in the literature for tennis. This is partly
+due to the fact that tournament tennis play is often varied in
+terms of matches per day, tournament length, and actual
+length of a match (ranging from 30 minutes, to over 11 hours).
+SWEATING AND DEHYDRATION
+Evaporative cooling (sweating) is the most effective method
+that humans use to limit the rise in core temperature(Kovacs,
+2006). Sweating is maintained by intracellular water shifting to
+the extracellular space, which results in cell dehydration. The
+goal of adequate hydration is to limit fluid loss from sweat and
+respiration.
+Effects of dehydration on cognitive and mental
+functioning
+Researchers have studied the influence of limiting fluid
+volumes and human body function. Evidence is emerging
+that hyperthermia (increases in body temperature
+induced by dehydration) directly affects brain function by
+altering cerebral blood flow and metabolism, thereby
+decreasing
+the
+level
+of
+central
+cognitive
+or
+neuromuscular drive, which may in turn decrease muscle
+function, alter the perception of effort, or both (Cheung &
+Sleivert, 2004).
+Dehydration has also been shown to manifest with
+clinical symptomatology similar to concussion, including
+fatigue, drowsiness, headaches, poor concentration and
+balance problems (Patel et al., 2007).
+It is clear that more needs to be done to reduce the
+aforementioned effects, as research has shown that there
+is a high prevalence of junior players walking onto court
+already dehydrated (Bergeron, Waller & Marinik, 2006).
+Effect of dehydration on muscle groups and muscle action
+No specific muscle group or action appears more susceptible
+to hypohydration than others (Judelson et al., 2007), however
+muscular performance is reduced when athletes are
+dehydrated. This study found that high intensity muscular
+endurance, as measured during 30- 120 seconds of repeated
+activity, is reduced by 10% when the athlete is dehydrated by
+3-4%. Upper and lower body power which is crucial in tennis
+has also been shown to effected (Jones et al., 2008).
+REHYDRATION
+When discussing tennis recovery, specifically post-training or
+post- competition, one of the most important areas to consider
+is rehydration. As mentioned previously, many tennis players
+go into practice and/or competition already in varying states of
+the rehydration needs of the athletes relative to a euhydrated
+(normal) state before practice or competition.
+
+Water vs Carbohydrate solutions
+Shireffs et al. (2007) along with previous studies has shown that
+the ingestion of a carbohydrate-electrolyte beverage resulted
+in more effective rehydration than plain water (GonzalezAlonso, Heaps & Coyle, 1992); others have also observed a
+lower urine output with carbohydrate-electrolyte solution than
+with water- which will aid positive hydration status (Costell &
+Sparks, 1973).
+
+Table 1. Comparison of popular sports drinks and beverages.
+Information adapted from Von Duvillard et al. (2008).
+
+Sodium’s role in hydration and rehydration for tennis
+Research has shown that rehydration capabilities are improved
+for athletes who ingest sodium enriched fluids compared to
+plain water, and that many sports drinks do not contain enough
+sodium, albeit more than water. Shirreffs and Maughan (1998)
+have shown that athletes typically recover faster to adequate
+sodium and plasma volume levels with a 6% carbohydrateelectrolyte drink in comparison with water.
+The right amount of sodium?
+Excessive drinking of water alone, will not allow for adequate
+hydration after exercise. Shirreffs et al. (1996) demonstrated
+that even when a volume equal to twice the amount lost in
+sweat is ingested after exercise, subjects could not remain in
+positive fluid balance when a low sodium drink (23 mmol/L)
+was consumed. A positive fluid balance was eventually
+maintained when drinks containing 61 mmol/L of sodium were
+consumed in amounts > 1.5 times the loss of water.
+However, if excessive sodium is added to the fluid it can make
+the liquid unpalatable, thereby reducing the total volume
+consumed (Wemple, Morocco & Mack, 1997). Therefore, the
+balance between palatability which effects consumption level,
+and actual sodium content must be achieved. A 6%
+carbohydrate-electrolyte drink will achieve a preferable
+balance. It is possible to make your own 6% drink by mixing
+five tablespoons of table sugar, and one-third teaspoon of salt
+per litre of water.
+OTHER ELECTROLYTES – ARE THERE BENEFITS?
+Potassium
+Potassium is the major ion in the intracellular fluid, whereas
+sodium is the major ion in the extracellular fluid. Potassium is
+thought to be important in achieving rehydration by aiding the
+retention of water in the intracellular space. However, more
+research data is needed before conclusive evidence is able to
+show the benefits of potassium supplementation for
+rehydration.
+The banana effect
+It has previously been speculated that potassium may be a
+beneficial electrolyte for athletes in general since it is a major
+cation (positively charged ion or group of ions) in the
+intracellular space, and potassium supplementation could
+enhance the replacement of intracellular water after exercise
+and thus promote rehydration (Nadal, Mack & Nose, 1990).
+Experimental investigation has demonstrated that inclusion of
+potassium (25 mmol•l-1) may, in some situations, be as
+effective as sodium (60 mmol•l-1) in retaining water ingested
+after exercise- induced dehydration however it appears that
+there is no additive effect of including both ions (potassium
+and sodium).
+CRAMPING
+Muscle cramping during and after tennis play is an
+unwarranted aspect of high-level competitive tennis. Cramps
+typically occur with slight muscle fasciculations (Bergeron,
+2007) or “twitches” that the athlete only notices between points
+or at the changeover. With respect to exercise-related muscle
+cramping, there are typically two forms of cramping that tennis
+players are most often confronted with:
+1) Overworked muscle fibers
+2) Muscle cramps related to extensive sweat losses and a
+sodium deficit, known as exertional heat cramps.
+
+Figure 1. Suggested Fluid Mixtures for Exertional Heat CrampProne Athletes Using Sports Drink and Table Salt (NaCl) (adapted
+from Bergeron, 2007).
+
+PRACTICAL APPLICATIONS & TOOLS
+Due to the fact that individual sweat rates are highly variable
+and the sweat sodium concentrations between athletes can
+range between 20-80 mmol/L (Verde et al., 1982), it would be
+an oversimplification to prescribe a universal drink formulation
+for all tennis players. This is why an individualized fluid program
+is suggested.
+A practical tool for coaches and trainers to help athletes with
+their hydration monitoring is to utilize a urine color chart
+(Kovacs & Yorio, 2008). Figure 2. is a simple chart that can help
+athletes’ awareness of their hydration status in a simple, noninvasive manner.
+Post-practice or match hydration is not only important for
+immediate recovery, but also for subsequent performance
+during play in a subsequent session on the same or the
+following day. Rehydration post exercise has three major
+purposes:
+1) Replace fluid volume to an equal or greater extent than the
+volume lost while sweating
+2) Ingest liquid and/or solid carbohydrates to aid in glycogen
+resynthesis (Sherman, 1992)
+3) Replace electrolytes lost during sweating
+Water cannot be the only fluid consumed after tennis play, as
+the athlete is typically in a hypohydrated (dehydrated) state
+and an increase in plain water will dilute the lowered electrolyte
+concentration in the blood and plasma even further. This fall in
+plasma osmolality and Na+ (Sodium/Salt) concentration
+reduces the athlete’s drive to drink and stimulates urine output,
+which could lead to adverse consequences such as excessive
+hypohydration and hyponatraemia. The addition of Salt (Na+)
+in post-exercise beverages has been supported by multiple
+position stands (Convertino et al., 1996).
+
+Figure 2. Am I Hydrated? – Urine Color Chart.
+
+CONCLUSIONS & PRACTICAL REHYDRATION GUIDELINES
+(WENDT ET AL., 2007)
+• The use of sports drinks with 6-8% carbohydrate solution and
+sodium improves intestinal water absorption. In addition,
+flavoured, more palatable drinks lead to more fluid being
+consumed when compared with water.
+• Water retention can be optimized by the ingestion of
+solutions containing at least 50mmol/L of sodium (~3 grams/L
+of table salt) in a volume of liquid 1-1.5 times the amount of
+sweat lost. It is possible to make your own 6% drink by mixing
+five tablespoons of table sugar, and one-third teaspoon of salt
+per litre of water. Assistance from a professional nutritionist is
+advised.
+• Rehydrating with water alone can have negative effects
+because this can result in a rapid fall in plasma osmolality and
+sodium concentration.
+• Consumption of fluids during rehydration after exercise
+should exceed fluid lost (130-150%).
+
+• It takes 20-30 min for ingested fluids to be evenly distributed
+throughout the body.
+• Heart rate, core temperature and hydration do influence each
+other during and after exercise- keep on top of hydration.
+PUBLICATION NOTE
+This information has been reprinted in an adapted form with
+permission from: Kovacs, M. S., Ellenbecker, T. S., & Kibler, W.
+B. (Eds.). (2009). Tennis recovery: A comprehensive review of
+the research. Boca Raton, Florida: USTA.

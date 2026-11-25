@@ -1,0 +1,684 @@
+Title: Physiological and performance effects of high-intensity interval training in tennis players: a systematic review
+Authors: Durukan Durmuş, Hasan Ödemiş, Mustafa Söğüt
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 366
+
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 42-50
+ISSN 2225-4757
+https://doi.or/10.52383/itfcoaching.v31i89.366
+lasts longer than an hour and, in some cases, more than five
+hours (Christmass et al., 1998; Fernandez-Fernandez et al.,
+2009; Kovacs, 2007; Smekal et al., 2001). Competitive tennis
+players in this situation require a combination of fitness traits
+such as speed, agility, power, and well-developed aerobic
+fitness to accomplish high-performance levels (Kovacs,
+2007; Ferrauti et al., 2011; Mero et al., 1991). During match
+play, demands alternate between replacing energy sources
+and restoring balance in the body during intervals of highintensity activities such as change of directions, acceleration
+and decelerations through intramuscular phosphates and
+glycolysis, and energy requirement for rounds of highintensity
+activities
+through
+intramuscular
+phosphates
+(Glaister, 2005; Smekal et al., 2001; Spencer et al., 2005). As
+INTRODUCTION
+High-intensity interval training (HIIT) is a training protocol
+that involves short periods of intense exertion followed by
+brief recovery periods or low-intensity activity (Billat, 2001;
+Buchheit & Laursen, 2013; Gibala et al., 2012; Gillen & Gibala,
+2014; Ross et al., 2016; Bishop et al., 2019). When compared
+to sedentary (non-exercising) or moderate-intensity groups,
+HIIT is effective in strengthening cardiorespiratory fitness,
+aerobic capacity, and body composition (Buchan et al., 2011;
+Costigan et al., 2015; Kessler et al., 2012; Laursen & Jenkins,
+2002; Logan et al., 2014; Sawyer et al., 2020; Sperlich et al.,
+2011). An increasing body of research shows that HIIT can be
+an excellent option instead of conventional endurance training,
+resulting in similar or even better physiological outcomes in
+healthy individuals compared to a matched-work basis which
+is still one of the methods of comparisons prevalently used to
+evaluate the efficacy of HIIT vs. continuous training, as the
+study by MacInnis et al. (2016) testifies (Hwang et al., 2011;
+Tjønna et al., 2009; Wisløff et al., 2007). HIIT is recognized as a
+time-efficient training method based on several physiological,
+performance-related, and health-related criteria because of
+its similar or even superior adaptations compared to regular
+moderate-intensity continuous training (Babraj et al., 2009;
+Burgomaster et al., 2005; Gibala et al., 2006; Jakeman et al.,
+2012; Wewege et al., 2017).
+Tennis includes high efforts combined with periods of lowintensity activity, with active (between two points) and
+passive recovery periods (between the games) occurring
+during a match based on the literature review which often
+ABSTRACT
+The purpose of this systematic review was to overview the physiological and
+performance effects of high-intensity interval training (HIIT) in tennis players. Searches
+for this review were performed by using four electronic databases: Web of Science,
+Scopus, SPORTDiscus with Full-Text, and PubMed. Intervention studies investigating
+the effects of HIIT on tennis players were searched from inception to December 29th,
+2021. Seven studies met all inclusion criteria and were included in the study. The findings
+revealed that tennis players who participated in HIIT interventions had improved their
+aerobic capacity and tennis performance. Fluctuating results were reported for agility,
+sprint, and jump performances. In conclusion, the results of the review may suggest that
+HIIT is beneficial for tennis players to achieve improvement in cardiorespiratory fitness
+and technical abilities regardless of age, gender, and competitive level.
+Physiological and performance effects of highintensity interval training in tennis players:
+A systematic review
+Durukan Durmuş1,2  , Hasan Ödemiş1
+ & Mustafa Söğüt1
+1Department of Physical Education and Sports, Faculty of Education, Middle East Technical University, Ankara, Türkiye.
+2Department of Coaching Education, Faculty of Sport Sciences, Gazi University, Ankara, Türkiye.
+Key words: Repeated sprint
+ability; speed endurance training;
+controlled trial; cardiorespiratory
+fitness.
+Received: 20 November 2022
+Accepted: 7 March 2023
+Corresponding author: Hasan
+Ödemiş. Email: hasan.odemis@
+metu.edu.tr
+COACHING & SPORT
+SCIENCE REVIEW
+a result, it appears that professional players' training should
+concentrate on developing their capacity to complete highintensity exercises frequently while recovering quickly
+(Glaister, 2005; Kovacs, 2007). That is why tennis training
+should incorporate aerobic and anaerobic physical activity.
+Tennis requires players to repeatedly generate powerful
+strokes and rapid movements on the court for a long period
+of time; therefore, to meet and endure these challenging
+physiological conditions, modern-day players need a mixture
+of fitness qualities such as speed, agility, and power combined
+with well-developed aerobic fitness (Girard et al., 2015;
+Kovacs, 2007). Thus, developing the capacity to successfully
+endure high-intensity activities and recover quickly from
+them, known as repeated-sprint ability or RSA, can provide
+competitive advantages for players (Girard et al., 2015). To
+achieve this goal, one option that coaches frequently use is
+repeated straight-ahead sprint patterns as a streamlined,
+pre-planned "on-court" or "off-court" high-intensity run on
+the field (Bishop et al., 2011).
+In practice, since young tennis players spend a lot of time on
+technical and tactical drills, not enough time is dedicated to
+increasing their aerobic fitness (Crespo & Miley, 1998). To
+improve aerobic performance, HIIT integrated into gamespecific on-court exercises has been advised (Kilit et al.,
+2018). Such a session aims to preserve technical skills while
+minimizing training time (Fernandez-Fernandez et al., 2001;
+Fernandez-Fernandez et al., 2012). However, evidence
+suggests that while dedicated playing HIIT sessions may meet
+aerobic goals in cardiac requirements, they might also cause
+groundstroke velocity- and accuracy-related technical issues
+in young tennis players (Pialoux et al., 2015).
+There are already studies on the effects of HIIT and sportsspecific training programs in team sports, mainly soccer
+(Hill-Haas et al., 2009; Impellizzeri et al., 2006; Sperlich et
+al., 2011). Yet, to the best of the authors’ knowledge, no
+systematic review has been conducted to investigate the
+effects of HIIT in tennis. Therefore, the purpose of this study
+was to overview the physiological and performance influences
+of HIIT on tennis players.
+METHODOLOGY
+In the present systematic review, a literature search was
+performed to maintain the articles focusing on the effects of
+HIIT in tennis. PRISMA statement (Page et al., 2021) formed
+the basis of the study and report. Searching procedures are
+completed for all relevant articles on Dec 29, 2021. Four
+electronic databases were used. These included the Web of
+Science Core Collection, which contains a vast collection of
+literature on science, technology, and social sciences. Another
+database was Scopus, which is a multidisciplinary database
+with over 18,000 peer-reviewed periodicals covering a wide
+range of subjects. SPORTDiscus with Full-Text was another
+database that provided comprehensive coverage of sportsrelated literature. The last database was PubMed, which is a
+database comprising over 35 million citations for biomedical
+literature from MEDLINE, life science journals, and online
+books. The Boolean searching strategy was preferred to
+achieve the full potential of the search engines mentioned
+above. It was aimed to form a keyword set that covers the
+articles in sports focusing on tennis. The following keyword
+structure was set: "tennis" AND ("high-intensity interval
+training" OR "HIIT" OR "high-intensity intermittent training"
+OR "interval training" OR "sprint interval training" OR
+"repeated sprint training" OR "speed endurance training").
+Studies were included if (1) they were intervention studies
+(randomized-controlled
+or
+non-randomized-controlled
+trials); (2) they were conducted with tennis players with
+no restriction of the duration of the intervention, age, and
+competition level; (3) HIIT was the focus of the study; (4)
+they were original articles; (5) they were published in English.
+Studies were excluded if (1) they were cross-sectional studies;
+(2) were not conducted with tennis players; (3) used HIIT
+intervention along with other training methods; (4) were
+not original articles; (5) were not published in English. Two
+authors (DD and HO) independently removed duplicates and
+applied inclusion/exclusion criteria phases. Regarding the
+criteria application phase outcomes, reviewer disagreements
+were discussed and solved before finalization.
+The Critical Review Form Qualitative Studies (Law et al., 1998)
+was used to assess the quality of the applied methodology in
+the included articles. This tool can be used to determine a
+wide range of qualitative investigations. The following areas
+were utilized to assess each article: journal level, the aim
+of the study, background information on the topic, study
+design, sample group, study outcomes, data analysis methods,
+findings, conclusion, and implications for future research
+(Table 1). These questions were scored 1 (meets the criterion)
+or 0 (does not match the requirements). Total scores for each
+article out of 15 points were calculated, as 0 point for Not
+Registered (NR), in which no information was given on the
+validity and reliability of the instruments employed in the
+study. The methodological quality of the assessed studies is
+presented in Table 1. A total score of fewer than seven points
+indicated low, from seven to ten points indicated good, and
+eleven points or more indicated high quality (Van der Fels et
+al., 2015). Two authors independently evaluated the quality
+of the included studies. Only around 5% of the time, the
+researchers disagreed about the results. When a discrepancy
+occurred in the methodological quality of the study, a
+consensus on the study was reached by reevaluation.
+109 studies were attained from the above-mentioned
+databases (Figure 1). After manually removing duplicate
+studies (n = 52), 57 studies were obtained for the title and
+abstract reading. After the title and abstract reading of the
+studies, 25 full-text articles were evaluated for eligibility. 18
+of the 25 articles were excluded as they were not intervention
+studies (n = 8), were not conducted with tennis players (n = 2),
+or combined HIIT with other training methods (n = 8). Finally,
+7 studies examining the effects of HIIT interventions in tennis
+were included.
+
+Studies excluded: 18
+Reason 1 (not intervention studies) (n = 8)
+Reason 2 (not tennis players) (n = 2)
+Reason 3 (HIIT combined with other
+training methods) (n = 8)
+Records excluded on basis of title or abstract
+(n = 32)
+Records after duplicates removed
+(n = 57)
+Identification of studies via databases
+Records screened
+(n = 57)
+Full texts articles
+assessed for
+eligibility
+(n = 25)
+Studies included in review
+(n = 7)
+Screening
+Eligibility
+Included
+Identification
+Scopus = 29
+SPORTDiscus with Full Text = 32
+PubMed = 22
+Web of Science = 26
+(n = 109)
+Figure 1. Flow chart showing identification of studies selected for systematic review
+RESULTS
+Table 1 summarizes the overall quality assessments of the
+studies by using the Critical Review Form - Quantitative
+Studies (Law et al., 1998). The review included seven studies
+from the HIIT category. Except for one study (Girard et al.,
+2015), they were all of high methodological quality. Six studies
+received 11 to 15 points, with two receiving 15 points (Table
+1). The following are the most notable outcomes: Four of the
+seven studies failed to justify the sample size (item 7), and
+three failed to report study limitations (item 15). All studies
+met the criteria and received one point for the first, third,
+fourth, fifth, eighth, eleventh, and thirteenth items. There
+was only one study for the ninth item and four for the tenth
+item. Finally, for the 15th item, four studies met the criteria.
+Even though six studies had high methodological quality, only
+two received a total score of 15 on the Critical Review Form
+- Quantitative Studies. All studies, apart from one (Fernandez
+et al., 2012), were published after 2015.
+Table 1
+The methodological quality of the reviewed articles a.
+Question Number b
+Author (Year)*
+Total
+Brechbuhl et al. (2018)
+Brechbuhl et al. (2020)
+Fernandez et al. (2012)
+NR
+Fernandez et al. (2017)
+NR
+Girard et al. (2015)
+NR
+NR
+Kilit et al. (2018)
+Wiewelhove et al. (2016)
+NR
+*Only the first author is mentioned; NR = not registered; a 1 = meet criteria; 0 = does not meet criteria; b (1) The study is published in a peer-reviewed
+journal or book. (2) The study is published in an indexed journal. (3) Was the aim of the study stated clearly? (4) Was relevant background literature
+reviewed? (5) Was the design appropriate for the research question? (6) Was the sample described in detail? (7) Was the sample size justified? (8) Was
+informed consent obtained? (9) Were the outcome measures reliable? (10) Were the outcome measures valid? (11) Were results reported in terms
+of statistical significance? (12) Was practical importance reported? (13) Were conclusions appropriate given the study findings? (14) Are there any
+implications for future research given the results of the study? (15) Were limitations of the study acknowledged and described by the authors?
+Table 2 provides a review of the included studies and the
+effects of HIIT programs in the included studies. It contains
+information about the author, study design, sample,
+intervention, and results. Three of the seven investigations
+were controlled, while the other four were not.
+Analysis of the studies revealed that three of the seven
+studies were conducted with competitive-level tennis players
+(Fernandez et al., 2012; Girard et al., 2015; Wiewelhove,
+2016), three with well-trained players (Brechbuhl et al., 2018;
+Brechbuhl et al., 2020; Fernandez et al., 2017), and one with
+intermediate players (Kilit et al., 2018). Fernandez et al. (2012)
+had the most participants of the seven research, with 31
+competitive male players. On the other hand, Wiewelhove et
+al. (2016) had the fewest participants, with only 8 competitive
+male junior players. Girard et al. (2015) had the youngest
+participants, with a mean age of 12.8, whereas Brechbuhl et
+al. (2020) had the oldest individuals, with a mean age of 28.8
+± 5.9. Three studies (Fernandez et al., 2012; Kilit et al., 2018;
+Wiewelhove, 2016) contained solely male participants, while
+two studies (Fernandez et al., 2017; Girard et al., 2015) did
+not state the gender of the final sample.
+Brechbuhl et al. (2018) compared repeated sprint trainings
+(RST) in normobaric hypoxia versus normoxia. This study
+revealed performance improvements in total time to
+exhaustion scores (p < 0.01, η2 = 0.01) in both groups, while
+aerobic capacity remained unchanged after the intervention.
+Brechbuhl et al. (2018) reported no significant improvement
+in repeated sprint ability (RSA) performance following
+intervention in both groups in their study. They reported that
+only players who participated in RST in normoxic conditions
+improved significantly in terms of ball accuracy (p < 0.01) and
+tennis performance index (p < 0.05).
+In another study, Brechbuhl et al. (2020) compared the short-
+(the week after intervention) and long-term (3 weeks after
+Post-1) effects of RST in hypoxia vs. normoxia in competitive
+tennis players. They revealed performance increases in total
+time to exhaustion scores (p < 0.001) in both hypoxia and
+normoxia groups, while VO2max remained unchanged after
+intervention in both groups. Brechbuhl et al. (2020) found
+significant improvements in the total duration of RSA at Post1 and Post-2 in the RSH group compared to the pretest. Their
+results revealed no significant time or interaction effect for
+heart rate variability.
+Fernandez et al. (2012) compared the physiological and
+performance effects of HIIT and RST in competitive tennis
+players. Both training methods similarly improved overall
+aerobic fitness. Their results revealed improvements in
+VO2peak of 4.9% for RST and 6.0% for HIIT. In contrast, no
+changes were observed in the control group. Fernandez et
+al. (2012) reported no increase in jumping or running ability
+for none of the training methods. Similarly, no differences
+in 20-m sprint time were reported from the pretest to the
+posttest. Their findings revealed significant improvements
+in the RSA mean time. After the intervention, the mean time
+during the RSA test significantly reduced in the RST; however,
+no significant differences were reported for the HIIT and
+control group between the pretest and posttest.
+In a similar study conducted with young tennis players,
+Fernandez et al. (2017) analyzed the influence of HIIT
+combined with sport-specific drill training (MT) and sportspecific drill training alone (DT) on fitness parameters.
+Pre- and post-training testing revealed that both groups
+improved significantly in VO2peak and velocity obtained in
+the intermittent fitness test (IFT). Fernandez et al. (2017)
+observed no changes in the remaining variables following
+the training session. Furthermore, there were no changes
+between DT and MT after training. Their results showed no
+significant differences between training groups in terms of
+the rate of perceived exertion.
+Girard
+et
+al.
+(2015)
+compared
+repeated
+maximum
+unidirectional- and shuttles-sprint trainings in terms of
+physical tennis performance indicators in 15 competitive
+teenage players. None of the physical performance indicators
+in their study showed a major effect of group or any significant
+interaction between time and group. The Control group had a
+3% improvement in performance. However, the unidirectional
+group outperformed the shuttles group in terms of tennisspecific endurance (Hit & Run Tennis Test). Girard et al. (2015)
+discovered that both the unidirectional and the shuttles
+groups significantly improved their isolated (linear 20-m
+sprint) and repeated-sprint performance, indicating that
+repeated-sprint training with or without direction change
+Table 2
+Summary table of studies included for the review.
+Study
+Participants
+Design
+HIIT Format
+Intervention
+Measures
+Results
+Brechbuhl et al. (2018)
+18 well-trained
+players (16 males
+and 2 females)
+between the ages of
+18 to 35 years
+Non-controlled
+Repeatedsprint training
+in normoxic
+and hypoxic
+conditions
+12 days,
+5 sessions,
+~60 minutes
+- RSA
+- TEST
+- AC
+- TP
+- RSA: remained unchanged after intervention in both groups.
+- TEST: significantly improved (p < 0.01) in both groups.
+- AC: remained unchanged after intervention in both groups.
+- TP: ball accuracy (p < 0.01) and tennis performance index (p < 0.05)
+improved significantly in only players who participated in repeated
+sprint training in normoxic condition (RSN).
+Brechbuhl et al. (2020)
+30 well-trained
+players (RSH n = 11,
+RSN n = 11, Control
+n = 8) 28.8 ± 5.9
+years old
+Controlled
+Repeatedsprint training
+in normoxic
+and hypoxic
+conditions
+12 days,
+5 sessions,
+~60 minutes
+- RSA
+- TEST
+- HRV
+- AC
+- RSA: Compared to Pre, RSA total time increased significantly
+at Post-1 and Post-2 (-1.9 and -2.5%, p < 0.05) in repeated sprint
+training in hypoxic condition (RSH) only.
+- TEST: From Pre to Post-1 and Post-2, RSH improved TEST time to
+exhaustion (+18.2 and +17.3%; both p < 0.001). Markers of TEST
+performance did not change for both RSN and the control group
+(CON).
+-HRV: Did not change in either supine or standing positions.
+-AC: There was a significant interaction between time and group for
+total time to exhaustion (TTE) (p < = 0.05). Compared to Pre, TTE
+increased at Post-1 (C18.3%, p < 0.001, d = 0.97) and Post-2 (C17.3%, p <
+0.001, d = 0.97) in RSH, with no change in RSN and CON.
+Fernandez et al. (2012)
+31 competitive male
+players
+(HIIT n = 11, RST n =
+12, CON n = 9)
+HIIT= 22.6 ± 4.8
+years old
+RST= 21.2 ±5.1
+years old
+CON= 22.1 ±3.3
+years old
+Controlled
+HIIT= 3X (3 X
+90 seconds,
+90–95%
+HRmax), with
+3-minute rest
+RST= 3 X (10
+X 5-second)
+shuttle sprints,
+with 20-second
+rest between
+repetitions,
+3 minutes
+between sets
+6 weeks,
+18 sessions
+- RSA
+- AC
+- HTT
+- CMJ
+- 20-m ST
+- RSA: The mean time during the RSA test was significantly reduced
+in the repeated sprint training (RST) (3.8%; p = 0.000) after the
+intervention, whereas there were no differences between the pretest
+and posttest for the HIIT (p = 0.951) and CON (p = 0.541).
+- AC: Both groups induced similar significant increases in the
+VO2peak level (HIIT: 6%, p = 0.008; RST: 4.9%, p = 0.010) whereas no
+changes occurred in CON.
+- HTT: Both the RST and HIIT groups showed a significant
+improvement in their maximum level achieved during the HTT from
+the pretest to the posttest. The RST group saw an increase of 14.5%
+(with a significance level of p = 0.014) and the HIIT group had a
+much larger increase of 28.9% (with a significance level of p = 0.000).
+Furthermore, the post-training values for the HIIT group were
+significantly higher than those of the RST group (with a significance
+level of p = 0.010). On the other hand, the players from the CON
+group only experienced a small increase of 2.4% (with a nonsignificant significance level of p = 0.549).
+- CMJ and 20-m ST: The training protocols, HIIT and RST, had no
+effect on the CMJ performance and 20-meter ST. Additionally, there
+was no significant change observed in the performance of the CMJ
+and 20-meter ST for both groups from the pre-test to the post-test.
+Fernandez et al. (2017)
+20 well-trained
+players
+14.8 ± 0.1 years old
+DT (drill training)
+= 10
+MT (HIIT combined
+with sport-specific
+drill training) = 10
+Non-controlled
+Mixed highintensity
+intermittent
+runs
+8 weeks,
+16 sessions,
+68.9 ± 12.7
+minutes
+- AC
+- 30-15 IFT
+- AT
+- CMJ
+- ST
+- RPE
+- AC: After the training period, there were significant improvements
+in VO2peak in both drill training alone (DT) and HIIT combined with
+sport-specific drill training (MT) groups (DT 2.4%, ES = moderate; MT
+4.2%, ES = large).
+- 30-15 IFT: After the training period there were significant
+improvements in velocity obtained in the intermittent fitness test
+(IFT) (DT 2.2%, ES = small; MT 6.3%, ES = large) in both groups.
+- AT – CMJ - ST: After the training period neither of the training
+programs led to significant improvements in speed/agility (5- to 20-m
+sprint, 505 test) or explosive power (CMJ).
+- RPE: No differences were found between training groups regarding
+the rate of perceived exertion (RPE) (6.4 ± 1.1 vs 7.2 ± 1.3 for DT and
+MT, respectively).
+Girard (2015)
+15 competitive
+teenage players
+Unidirectional
+Group: 12.8 ± 1.6
+years old
+Shuttles Group:
+13.6 ± 1.5 years old
+CON: 13.6 ± 1.5
+years old
+Controlled
+Unidirectional
+repeated
+sprint training
+and shuttles
+repeated sprint
+training
+5 weeks,
+10 sessions,
+~60 minutes
+- HRTT
+- 20-m ST
+- AT
+- RSA
+- CMJ
+- There was no significant difference found in any of the physical
+performance variables between the groups or any significant change
+in the variables over time based on the group.
+- The Unidirectional Group showed twice as much improvement in
+tennis-specific endurance, as measured by the Hit & Run Tennis Test
+(HRTT), compared to the Shuttles Group.
+- The performance improvement in the linear 20-meter sprint, agility,
+shuttles repeated-sprint ability test, and CMJ tests was 2-3 times
+greater with the Shuttles Group compared to the Unidirectional
+Group.
+Kilit and Arslan (2018)
+29 intermediate
+level male players
+13.8 ± 0.4 years old
+Non-controlled
+LiHIIT
+6 weeks,
+16 sessions,
+Total 203
+minutes.
+- AC
+- JT
+- ST
+- AT
+- TP
+- AC: Significant changes were observed in VO2max responses in both the
+HIIT and on-court tennis training (OTT) groups (HIIT: +5.2%, p < 0.05, d =
+1.36; OTT: +5.5%, p < 0.05, d = 1.50).
+- JT - ST: Sprinting (20 m with 5- and 10-m splits) and jumping (CMJ, SJ, and
+DJ) performances improved in both groups from pre-test to post-test (p <
+0.05, d ranging from 0.40 to 1.10). The 400-m running test time decreased
+significantly from pre-testing to post-testing in the HIIT (24.9%, p < 0.05, d =
+1.32) and OTT groups (22.2%, p < 0.05, d = 0.60).
+- AT: OTT group showed significantly higher performance responses after
+test than before test (27.0%, p < 0.05, d = 0.88).
+- TP: OTT group had significantly higher performance responses in terms of
+technical scores (+10.7%, p < 0.05, d = 0.77).
+Wiewelhove (2016)
+8 competitive male
+junior players
+15.1 ± 1.4 years old
+Non-controlled
+SiHIIT
+14 sessions
+in 2 fourday periods
+separated by 4
+months
+- CMJ
+- CKA
+- BLC
+- BLC: In both recovery interventions, lactate concentration was
+significantly increased immediately after training (p = .001), and
+significantly decreased immediately after the recovery intervention
+(p = .001).
+- CMJ and DOMS: The HIIT microcycle induced a significant decrease
+in CMJ height and a significant increase in DOMS in both recovery
+interventions.
+- PR and Stress: The perceived recovery decreased, and perceived
+stress increased significantly between testing days in both
+interventions.
+- CKA: The Creatine Kinase activity was not significantly different
+after the microcycle, compared with the baseline values, in the active
+recovery and passive recovery intervention.
+will help players get quicker. Following the shuttles group,
+performance enhancements for the linear 20-m sprint, agility,
+shuttles repeated-sprint ability test, and CMJ tests were
+greater (2-3 fold) than following the unidirectional group.
+Kilit et al. (2018) compared HIIT and on-court tennis training
+(OTT) on young tennis players in terms of psychophysiological
+and performance responses, and technical ability. They
+observed significant changes in VO2max responses in both
+groups. Kilit et al. (2018) found that the OTT group had
+significantly greater performance outcomes in terms of
+technical ability.
+Wiewelhove (2016) evaluated the effect of repeated use of
+active recovery on fatigue markers throughout a 4-day shock
+microcycle with 7 HIIT sessions. They found that the HIIT
+shock microcycle significantly reduced counter movement
+jump performance. Wiewelhove (2016) observed that the HIIT
+shock microcycle led to a significant decrease in perceived
+recovery, in addition to a moderate to significant increase in
+creatine kinase levels, delayed-onset muscle soreness, and
+perceived stress, compared to the scores before the training
+program.
+DISCUSSION
+This systematic review investigated the effects of HIIT
+interventions in tennis players. The main findings of the
+review are the following: HIIT interventions have significant
+beneficial effects on cardiorespiratory fitness in tennis
+regardless of age, gender, and competitive level; structured
+on-court HIIT exercises are more effective than off-court HIIT
+training in terms of technical ability; no adverse effect was
+detected related to HIIT intervention, so it turns out to be a
+safe and practical alternative to improve tennis performance.
+The effects of HIIT related to tennis performance have been
+attracting the attention of researchers increasingly in recent
+years because HIIT is a time-efficient training strategy in
+addition to its undeniable performance effects (Babraj et al.,
+2009; Burgomaster et al., 2005; Gibala et al., 2006; Jakeman
+et al., 2012; Wewege et al., 2017). Consistent with the
+literature, the findings of this review revealed that players in
+HIIT intervention groups have significant improvements in
+functional capacities compared to the players in control groups
+(Brechbuhl et al., 2018; Brechbuhl et al., 2020; Fernandez et
+al., 2012; Fernandez et al.; Girard et al., 2015; Kilit et al., 2018;
+Wievelhowe, 2016). To this date, few studies investigated the
+effects of HIIT interventions on fatigue in tennis players. In
+their study with competition-level male tennis players, Suárez
+Rodríguez & del Valle Soto (2017) found that reduced fatigue
+levels and higher precision in specific tennis-related exercises
+were achieved. However, in contrast with Suárez Rodríguez &
+del Valle Soto (2017), Wiewelhove et al. (2016) indicated that
+HIIT had no effect on exercise-induced fatigue.
+The findings of this review showed that HIIT intervention
+overall has positive effects on physical performances in
+tennis players. Nevertheless, when specific interval types
+are observed, this review indicates that tennis players may
+benefit more from practicing using on-court tennis-specific
+drills to improve their technical abilities (Fernandez et al.,
+2017; Kilit et al., 2018). Overall, based on the findings of the
+review, a HIIT strategy, especially on-court approaches, could
+be an effective way to develop a more significant physiological
+demand since an on-court approach has a more crucial effect
+on stroke performance than an off-court program; thus, this
+intervention should be well-integrated into periodization
+programs of tennis players.
+This systematic review may have practical implications for
+coaches. The findings of the included studies confirmed the
+effectiveness of HIIT interventions in developing the aerobic
+capacity of tennis players; therefore, HIIT-integrated exercise
+programs could help improve players’ cardiorespiratory fitness
+levels. In addition, studies including specific interval programs
+confirmed the effectiveness of on-court HIIT interventions on
+players' technical ability and stroke performance; therefore,
+coaches can benefit from HIIT strategies and programs
+mentioned in the included studies as tools to give tennis
+players a competitive edge. This systematic review is subject
+to one main limitation. Although very general keywords were
+selected and the exclusion criteria were not too strict, a small
+number of articles were attained as a result of searching four
+databases. Therefore, the number of searched databases
+and languages should be higher to maximize the study's
+comprehensiveness and reliability.
+CONCLUSION
+In conclusion, this review aimed to analyze the influence of
+HIIT interventions in tennis. The main findings of the studies
+highlighted that tennis players who participated in HIIT
+interventions had improved their aerobic fitness and technical
+abilities regardless of age and competitive level which could
+be considered an effective tool to support players’ tennis
+competitiveness. Another notable result was that structured
+HIIT exercises positively affected tennis players' technical
+ability and stroke performance. Since competitive tennis
+requires too much time to be on the court for technical and
+tactical skills, this systematic review suggests that structured
+high-intensity interval exercises could be an effective tool
+for coaches to improve players’ performance by being a
+time-efficient strategy while meeting the physiological
+requirements of tennis.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

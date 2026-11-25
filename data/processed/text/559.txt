@@ -1,0 +1,914 @@
+Title: Initial evidence on the impact of the 2023 World Tennis Number algorithm change for predicting match outcomes
+Authors: Nathan Krall, Nicholas Maroulis, Rebecca Mayew, William Mayew
+Year: 2024
+Issue: Vol. 32 No. 94 (2024)
+Article id: 559
+
+www.itfcoachingreview.com
+December 2024. 32th Year. Issue 92. 52-58
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i94.559
+INTRODUCTION
+On July 26, 2023, the International Tennis Federation (ITF)
+implemented significant revisions to the algorithm responsible
+for computing a player's World Tennis Number (WTN). The
+intention behind the change was to increase WTN accuracy
+in competitive events, particularly with regard to age (ITF,
+2023a). The United States Tennis Association (USTA) noted
+that the algorithm revision would result in minor WTN changes
+for adult players between 19 and 29 years of age.  However,
+adult players over 30 and junior players 10 and under were
+expected to move down the quality scale, and players aged
+17 and 18 were expected to move up the quality scale (USTA,
+2023a).  This change raised the question of whether the WTN
+prior to the algorithm change was inaccurate. In response,
+the USTA stated that the previous WTN was indeed accurate
+within a given player’s network and would remain so after the
+algorithm change (USTA, 2023a).
+Given that a WTN accuracy improvement should result in
+an improved ability of WTN to predict match outcomes, we
+empirically examine whether or not the 2023 algorithm
+change had any impact on WTN’s ability to predict match
+outcomes at the USTA Junior National Championships.
+Ascertaining whether the WTN algorithm change leads to any
+improvement is important as organizations within the tennis
+community evaluate whether to adopt WTN or  Universal
+Tennis Rating (UTR) as their preferred measure of player skill.
+For example, in the United States, the Intercollegiate Tennis
+Association (ITA) switched their official rating system from
+ABSTRACT
+The World Tennis Number (WTN) algorithm was changed in 2023.  We examine 2,956
+matches from the United States Tennis Association (USTA) Junior National Championships
+to ascertain whether this algorithm change improved the ability of WTN to accurately
+classify match winners.  We assess improvement relative to two benchmarks: Universal
+Tennis Rating (UTR) values and WTN values prior to the algorithm change.  Existing
+research establishes that UTR and WTN exhibit equivalent classification accuracy for
+match outcomes and we find no evidence in any tournament division that the algorithm
+change improves WTN relative to UTR.  When we compare classification accuracy of
+WTN values under the new algorithm to WTN values prior to the algorithm change, we
+find a statistically significant improvement in only one of four tournament divisions.  The
+overall evidence is most consistent with statements by the USTA that within a player’s
+network, little accuracy improvement may be observed from the WTN algorithm change.
+Our findings update prior literature on the classification accuracy of UTR and WTN and
+provide a new reference point for evaluating future algorithm changes.
+Initial evidence on the impact of the 2023 World
+Tennis Number algorithm change for predicting
+match outcomes
+Nathan Krall¹, Nicholas Maroulis¹, Rebecca L. Mayew² & William J. Mayew¹
+¹Duke University. ²RSPA Tennis Coach
+Key words: World Tennis Number
+(WTN), Universal Tennis Rating
+(UTR), Junior Tennis, Match
+Forecasting.
+Received: 20 July 2024
+Accepted: 4 November 2024
+Corresponding author: W. Mayew,
+email: wmayew@duke.edu
+UTR to WTN in 2023 (ITA, 2023).  Despite this change, UTR
+appears to nonetheless be preferred over WTN when college
+coaches engage in recruiting (Palmer, 2024).  If the WTN
+algorithm change has improved WTN perhaps constituents
+like college coaches will change their view about which rating
+is superior.
+We focus on the USTA Junior National Championships for
+three reasons.  First, as a prestigious national tournament,
+players from across the country are represented.  This differs
+from regional or sectional USTA tournaments that are more
+geographically bounded and reflect a less generalizable
+participant pool.  Second, how well WTN predicts match
+outcomes has been reported for this particular tournament
+in recent prior research (Mayew and Mayew, 2023; Im and
+Lee, 2023).  Finally, and most importantly, the participants
+compete in divisions based on both age (18u and 16u) and
+gender (boys and girls) bands that hold the player network
+relatively constant.  Given the USTA comments, within a
+division, we would expect no match classification accuracy
+difference as a result of the WTN algorithm change. On the
+other hand, the 18u division of this tournament contains the
+17 to 18-year-old demographic that the ITF stated would
+likely result in WTN changes.  If this WTN change improves
+accuracy, we may see an improvement in the ability of WTN
+to predict match outcomes.
+We test whether the 2023 algorithm change improved
+the ability of WTN to predict match outcomes in two
+complementary ways.  First, we note that existing research
+COACHING & SPORT
+SCIENCE REVIEW
+prior to the 2023 algorithm change shows that WTN values
+predict match outcomes at better than chance levels and at
+levels statistically equivalent to the UTR (Im and Lee, 2023;
+Mayew and Mayew, 2023).  As such, our first test assesses
+whether WTN now outperforms UTR in terms of predicting
+match outcomes during the 2023 USTA Junior National
+Championship, which was one of the first tournaments
+occurring after the WTN algorithm change.  This empirical
+strategy exploits the fact that no known changes to the
+UTR algorithm have occurred, allowing UTR to serve as
+a benchmark against which WTN derived under the new
+algorithm can be assessed.  As our second test, we re-examine
+the 2022 USTA Junior National Championship matches.  The
+original WTN values in place during the 2022 USTA Junior
+National Championships were prior to the algorithm change.
+We obtain retroactively restated WTN values that reflect
+the 2023 WTN algorithm change and compare their ability
+to predict match outcomes with the original WTN values in
+place at the time of the 2022 tournament.  With this empirical
+strategy, we take the originally reported WTN values as the
+benchmark and ascertain whether the restated WTN values
+predict match outcomes better than the original WTN values.
+METHODS
+Sample
+For our analysis of the 2023 USTA Junior Championships, we
+obtain match and player information by reviewing publicly
+displayed match draws on the USTA tournament website
+(USTA, 2023b; Tournament ID 23-04247 for boys starting
+August 5, 2023 and Tournament ID 23-60720 for girls starting
+August 4, 2023).  The total number of potential matches is
+2,028, which includes the main draw and consolation draw
+for both boys and girls in both 18u and 16u divisions.  After
+removing 256 byes in both the main and consolation draws,
+87 withdrawals prior to the match starting and 3 matches
+where players had identical WTN or UTR values, we are left
+with a final sample of 1,426 total matches, representing 768
+unique players.  Player WTN and UTR values were collected
+on August 3, 2023, prior to the start of play.  UTR values for
+each player were obtained via a power subscription to the
+UTR Sports App (UTR, 2023).  WTN values for each player
+were obtained from the WTN rating website (ITF, 2023b), and
+these WTN values reflect the WTN algorithm change.
+For our analysis of the 2022 USTA Junior National
+Championship, we obtain the data analyzed in Mayew and
+Mayew (2023), which contained 1,532 matches and 870
+unique players.  The WTN values analyzed in Mayew and
+Mayew (2023) were the prior to the algorithm change.  We
+append to this dataset restated WTN values for each of the
+870 players which were provided to us by the ITF, delivered
+via a Google Sheet from the USTA Manager of Community
+Tennis Digital Services.  We then removed two matches
+where competing players had identical restated WTN values,
+resulting in 1,530 matches.
+Statistical Analysis
+For each match played in the 2023 tournament, we follow
+Im and Lee (2023) and randomly choose one player from the
+match as the reference player.  We then regress an indicator
+variable for whether the randomly chosen reference player
+won the match on the difference between the reference
+player’s rating versus the rating of the other player.  Separate
+bivariate logistic regressions are estimated for UTR and WTN
+ratings using STATA/SE 17.0 statistical software.  From each
+logistic regression we obtain two measures of classification
+accuracy utilized in the tennis match forecasting literature:
+the area under the receiver operator characteristic curve
+(AUC) (Im and Lee 2023; Mayew and Mayew 2023), and the
+Brier score (Boulier and Stekler, 1999; del Corral and PrietoRodriguez, 2010; Mayew and Mayew 2023).  An AUC (Brier
+score) value of 0.50 (0.25) represents random chance levels of
+classification accuracy, and an AUC (Brier score) of 1.00 (0.00)
+represents perfect classification accuracy.  We compare the
+WTN AUC (AUCWTN) to the UTR AUC (AUCUTR) and the WTN
+Brier score (BRIERWTN) to the UTR Brier score (BRIERUTR).
+Observing statistical differences in AUC and Brier scores
+where AUCWTN> AUCUTR and BRIERWTN < BRIERUTR would
+support the conclusion that the 2023 WTN algorithm change
+improved match outcome classification accuracy.  If there
+is no statistical difference, it would support the USTA claim
+that within a player’s network, WTN values would not exhibit
+a difference in accuracy.  We consider p-values < 0.05 to be
+statistically significant.
+For the 2022 Junior National Championships, we undertake
+the same analysis as 2023 except our ratings of interest are
+no longer WTN versus UTR, but rather the original WTN used
+during the 2022 tournament (WTNO) versus a retroactively
+restated WTN (WTNR).  We would conclude that the WTN
+algorithm change improved match classification accuracy if
+AUCWTNR > AUCWTNO and BRIERWTNR < BRIERWTNO.
+RESULTS
+Panel A of Table 1 provides WTN and UTR values for players
+in the 2023 Junior National Championships by division.
+WTN values for these players reflect the 2023 algorithm
+change.  Recall that lower (higher) WTN (UTR) values indicate
+higher skill.  The Boys 18u division has the highest-skilled
+players with an average UTR and WTN of 11.37 and 13.48,
+respectively.  The Girls 16u division has the lowest-skilled
+players with and average UTR and WTN of 8.48 and 19.07,
+respectively.  Holding gender constant, older players have
+higher UTR values and lower WTN values in both the Boys
+and Girls divisions, reflecting natural development in skill as
+players age.
+In Panel B we tabulate how often the favored player wins the
+match.  Across divisions, the favored player based on WTN
+wins between 76.29% (Boys 16u division) and 72.45% (Girls
+16u division) of the time. Based on UTR, the favored player
+wins between 76.33% (Girls 18u division) and 71.07% (Girls
+16u division).  In no division do the proportion of matches won
+by the favored player differ statistically between UTR and
+WTN.  Considering all matches together, the favored player
+wins based on their rating in a head-to-head match 74.40%
+of the time for WTN and 74.33% for UTR.  These proportions
+do not statistically differ (p-value = 0.94), are very similar to
+the 75% and 76% rates documented for this tournament in
+the prior year (Mayew and Mayew, 2023), and fall in between
+the ranges of 71.2% and 81.8% documented in professional
+tournaments (del Corral and Prieto-Rodriguez, 2010; Boulier
+and Stekler, 1999).
+Assessing the proportion of matches won by the favored
+player only considers the sign of the difference in ratings
+but not the magnitude of the difference. The magnitude is
+considered in our logistic regression estimations from which
+we derive AUC and Brier scores to assess classification
+accuracy.  In Panel C, across divisions we find AUC values
+Panel A. Player Level Descriptive Statistics
+
+Boys 18u
+(n=192)
+Boys 16u
+(n=192)
+Girls 18u
+(n=192)
+Girls 16u
+(n=192)
+OVERALL
+(N=768)
+VARIABLE
+MEAN
+STD
+MEAN
+STD
+MEAN
+STD
+MEAN
+STD
+MEAN
+STD
+WTN
+13.48
+3.19
+16.83
+2.65
+15.93
+2.78
+19.07
+2.36
+16.33
+3.41
+UTR
+11.37
+0.86
+10.54
+0.89
+9.26
+0.73
+8.48
+0.67
+9.91
+1.37
+Panel B. How Often Favored Players Win Matches
+Boys 18u
+(n=358)
+Boys 16u
+(n=367)
+Girls 18u
+(n=338)
+Girls 16u
+(n=363)
+OVERALL
+(N=1,426)
+
+     #
+%
+#
+%
+     #
+%
+#
+%
+#
+%
+FAVORED PLAYER
+WINSWTN
+74.30%
+76.29%
+74.56%
+72.45%
+1,061
+74.40%
+FAVORED PLAYER
+WINSUTR
+73.74%
+76.29%
+76.33%
+71.07%
+1,060
+74.33%
+P-value of test of
+equal proportions+
+
+0.75
+
+1.00
+
+0.35
+
+0.46
+
+0.94
+
+Panel C. Match Outcome Prediction Analysis Based on Logistic Regression Results
+Boys 18u
+(n=358)
+Boys 16u
+(n=367)
+Girls 18u
+(n=338)
+Girls 16u
+(n=363)
+OVERALL
+(N=1,426)
+VARIABLE
+EST
+95%
+CI
+EST
+95%
+CI
+EST
+95%
+CI
+EST
+95%
+CI
+EST
+95%
+CI
+AUCWTN
+0.814
+0.7710.856
+0.837
+0.796 -
+0.877
+0.825
+0.7810.868
+0.796
+0.7510.765
+0.817
+0.796 -
+0.839
+AUCUTR
+0.825
+0.7830.867
+0.848
+0.809 -
+0.886
+0.853
+0.8140.892
+0.809
+0.7660.853
+0.833
+0.813 -
+0.854
+P-value of test++:
+AUCWTN =AUCUTR
+0.33
+
+0.33
+
+0.01
+
+0.17
+
+<0.01
+
+BRIERWTN
+0.175
+0.1540.195
+0.165
+0.1440.186
+0.171
+0.1500.192
+0.184
+0.1640.204
+0.174
+0.1640.185
+BRIERUTR
+0.171
+0.1510.191
+0.159
+0.1380.180
+0.157
+0.1350.179
+0.178
+0.1580.198
+0.167
+0.1560.177
+P-value of test+++:
+BRIERWTN=BRIERUTR
+0.49
+
+0.34
+
+0.01
+
+0.17
+
+<0.01
+
+Table 1 presents data for 768 sample players in Panel A and 1,426 sample matches in Panels B and C from the 2023 USTA Junior
+National Championships.  UTR is the UTR value as of the start of the tournament, which ranges from 1.00 (lowest skill) to 16.50 (highest
+skill).  WTN is the WTN value as of the start of the tournament, which was after the 2023 algorithm change, and ranges from 40.00
+(lowest skill) to 1.00 (highest skill).  FAVORED PLAYER WINSWTN(UTR)  indicates the player with the lower (higher) WTN (UTR) won the
+match.  AUCWTN and BRIERWTN represent the area under the receiver operator curve and Brier score, respectively, derived from a bivariate
+logistic regression where the dependent variable is an indicator for whether a randomly chosen reference player from the pair wins the
+match and the independent variable is the reference player WTN minus the WTN of the other player.  AUCUTR  and BRIERUTR represent
+the area under the receiver operator curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent
+variable is an indicator for whether a randomly chosen reference player from the pair wins the match and the independent variable is the
+reference player UTR minus the UTR of the other player.  AUC (Brier score) values of 0.50 (0.25) represent chance levels of classification
+accuracy and 1.00 (0.00) represent perfect classification accuracy.  EST is the derived estimate and 95% CI indicates the 95% confidence
+interval. All reported p-values are two tailed.   +McNemar test of equal proportions; ++DeLong et al. (1998) test of equal areas called via
+the roccomp command in STATA; +++Paired t-test.
+Table 1. Analysis of 2023 USTA Junior National Championships.
+ranging from 0.796 to 0.837 for WTN and from 0.809 to
+0.853 for UTR.  Comparing WTN to UTR, we find no statistical
+statistically significant differences between WTN and UTR
+classification accuracy in three of the four divisions, whether
+we consider AUC or Brier score differences.  However, in the
+Girls 18u division we find UTR exhibits statistically better
+classification accuracy when considering AUC differences
+(AUCUTR = 0.853 versus AUCWTN= 0.825, p-value = 0.01) and
+Brier score differences (BRIERUTR = 0.157 versus BRIERWTN
+= 0.171, p-value = 0.01).  When considering all divisions
+collectively, both AUC differences (AUCUTR = 0.833 versus
+AUCWTN= 0.817, p-value = 0.01) and Brier score differences
+(BRIERUTR = 0.167 versus BRIERWTN = 0.174, p-value = 0.01)
+suggest UTR statistically provides superior classification
+accuracy, but this finding is not independent of the divisional
+findings as the full collection of matches includes the Girls
+18u division.  We have no explanation why the Girls 18u
+division would exhibit a statistically significant difference in
+classification accuracy while other divisions do not.  In terms
+of an overall inference, we note that prior research studying
+UTR and WTN classification accuracy at the USTA Junior
+National Championships prior to the 2023 WTN algorithm
+change concludes both ratings are equivalent predictors of
+match outcomes (Im and Lee 2023; Mayew and Mayew 2023).
+Given we find no evidence that WTN derived under the new
+algorithm outperforms UTR, we conclude that the WTN
+2023 algorithm change does not improve WTN classification
+accuracy when UTR is used as the benchmark.
+Table 2 presents the re-examination of the 2022 tournament,
+where we consider the original WTN as the benchmark
+instead of UTR. Panel A compares the originally reported
+WTN against the WTN restated as if the 2023 algorithm
+change was hypothetically in place for the 2022 tournament.
+Viewing the differences by division, we see the effects of
+the 2023 WTN algorithm change vary by gender.  The mean
+restated WTN is statistically higher than the original WTN in
+a paired t-test for the Boys 18u (12.32 versus 12.05; p-value
+< 0.01) and Boys 16u (15.66 versus 15.31; p-value < 0.01)
+divisions.  Since higher WTN indicates lower skill, this implies
+the 2023 algorithm change shifted boys down the quality
+scale.  The opposite is true for girls, where restated WTN
+values are statistically smaller than original WTN values for
+both the Girls 18u (16.52 versus 16.78; p-value < 0.01) and
+Girls 16u (17.89 versus 18.15; p-value < 0.01) divisions.   This
+implies the 2023 algorithm change had the effect of moving
+girls up the quality scale. Why this is the case is unclear given
+the USTA suggested that shifts up the quality scale should
+more likely be observed by age (i.e. in the 18u divisions) rather
+than by gender.  Considering all players overall, the restated
+WTN is not statistically different from the original WTN in a
+paired t-test (WTNR = 15.65 versus WTNO = 15.63; p-value
+0.07).  However, this overall finding is not independent of the
+division findings and observing no statistically significant
+difference overall is due to offsetting effects of the 2023
+WTN algorithm change for boys versus girls.
+In Panel B, we tabulate the proportion of matches won by the
+favored player where the favored player is assessed using
+original WTN and the restated WTN values.  We find that
+the proportion of matches won by the favored player does
+not statistically differ between the original and restated
+WTN in any division or overall.   The overall favored-player
+win proportion is 75.62% for the restated WTN, statistcially
+equivalent to the original WTN of 75.69%.
+In terms of classification accuracy, in Panel C we find that
+in each division the restated WTN results in slightly higher
+(lower) AUC (Brier scores).  However, these differences are
+not statistically significant in three out of the four divisions.
+Only in the Girls 18u division do we observe a statistically
+significant difference, where the restated WTN outperforms
+the original WTN, whether assessed with AUC (AUCWTNR =
+0.848 versus AUCWTNO = 0.839; p-value = 0.01) or Brier scores
+(BRIERWTNR = 0.160 versus BRIERWTNO = 0.164; p-value =
+0.01).  Despite being statistcially different, the magnitude of
+the AUC and Brier score differences in the Girls 18u division
+are economically modest, at 0.009 and 0.004, respectively.
+Pooling all matches from all divisions reveals a statistically
+larger (smaller) AUC (Brier score) value for the restated WTN
+rating over the original, but again this overall result is not
+independent of the results observed at the individual division
+level. We conclude from this analysis of the 2022 tournament
+that the algorithm change has not systematically improved
+WTN classification accuracy given the only improvement is
+observed in the Girls 18u division.
+DISCUSSION
+We provide initial evidence on the impact of the 2023 WTN
+algorithm change for predicting match outcomes at the USTA
+Junior National Championships.  Using UTR classification
+accuracy as a benchmark for WTN values generated under
+the new algorithm in the 2023 tournament, we find WTN does
+not outperform UTR in any division.  To the contrary, UTR
+classification accuracy outperforms WTN but only in the Girls
+18u division.  Using classification accuracy from original WTN
+values prior to the 2023 algorithm change as the reference
+point in the 2022 tournament, we find WTN values restated
+to retroactively reflect the algorithm change predict match
+outcomes to a statistically equivalent extent in three of the
+four tournament divisions.  In the Girls 18u division, the
+restated WTN ratings statistically outperform the original
+WTN ratings in terms of classification accuracy.  Overall,
+across the eight divisions we examine, six divisions provide
+no statistically significant support of a WTN classification
+accuracy improvement from the algorithm change, in one
+division we find inferiority (Girls 18u in the 2023 tournament),
+and in one division we find superiority (Girls 18u in the 2022
+tournament). This collective evidence does not support
+the conclusion that the 2023 WTN algorithm change has
+systematically improved the ability of WTN ratings to predict
+match outcomes.
+Interestingly, the Girls 18u division was the only division to
+exhibit statistically significant differences, albeit in different
+directions with respect to the effects of the 2023 WTN
+algorithm change.  Why the Girls 18u division in particular
+exhibits
+statistically
+significant
+classification
+accuracy
+differences in both tournaments while other divisions do not
+is an import issue to consider in future research.  Insights
+specific to the Girls 18u division are not available in the extant
+literature, as Im and Lee (2023) only considered boys divisions
+and Mayew and Mayew (2023) considered girls overall but
+not separately for the 18u and 16u divisions.
+That we observe no systematic improvement in classification
+accuracy from the 2023 WTN algorithm change is most
+consistent
+with
+the
+USTA
+statement
+that
+accuracy
+improvements may not be observed within a player’s network.
+Given USTA junior tournaments are generally conducted
+within narrow age bands, the age span of players in a given
+tournament division may not be sufficiently “out of network”
+to observe WTN algorithm change effects.  Our results,
+therefore, cannot be extrapolated to other tournaments to
+imply that the 2023 WTN algorithm change had no effect
+whatsoever on the ability of WTN to predict match outcomes.
+Future research should therefore consider a wider set of
+tournaments, such as local USTA open tournaments that do
+not have age restrictions. In these tournaments, sufficient
+age differences in participants are likely and potential WTN
+algorithm change effects may be detectable.
+Additionally, we acknowledge that WTN classification
+accuracy improvements may ultimately not be possible in
+the context of the USTA Junior National Championships.  The
+players in this tournament are among the most accomplished
+junior players in the nation, reaching this status by playing
+many matches per year.  As such, their WTN values may be so
+well calibrated that any algorithm enhancement effects will
+be difficult to detect.  Existing research reveals that, prior to
+the 2023 algorithm change, WTN predicted match outcomes
+at the Junior National Championships at better than chance
+levels and on par with oddsmakers at the professional level
+(Mayew and Mayew, 2023).  If oddsmakers represent the gold
+standard for classification accuracy, there may be little room
+to improve WTN for predicting match outcomes at the USTA
+Junior National Championships.
+Table 2. Reanalysis of 2022 USTA Junior National Championships with Restated WTN Values.
+Panel A. Player Level Descriptive Statistics
+Boys 18u
+(n=208)
+Boys 16u
+(n=222)
+Girls 18u
+(n=216)
+Girls 16u
+(n=224)
+OVERALL
+(N= 870)
+VARIABLE
+MEAN
+STD
+MEAN
+STD
+MEAN
+STD
+MEA
+N
+STD
+MEA
+N
+STD
+ORIGINAL
+WTN
+(WTNO)
+12.05
+2.84
+15.31
+2.52
+16.78
+2.96
+18.15
+2.69
+15.63
+3.55
+RESTATED
+WTN
+(WTNR)
+12.32
+2.86
+15.66
+2.53
+16.52
+2.91
+17.89
+2.65
+15.65
+3.41
+P-value of
+test+++:
+WTNO =
+WTNR
+<0.01
+
+<0.01
+
+<0.01
+
+<0.01
+
+0.07
+
+Panel B. How Often Favored Players Win Matches
+
+Boys 18u
+(n=337)
+Boys 16u
+(n=401)
+Girls 18u
+(n=375)
+Girls 16u
+(n=417)
+OVERALL
+(N= 1,530)
+#
+%
+#
+%
+#
+%
+#
+%
+#
+%
+FAVORED
+PLAYER
+WINSWTNO
+74.78%
+76.56%
+76.27%
+75.06%
+1,158
+75.69%
+FAVORED
+PLAYER
+WINSWTNR
+74.48%
+76.06%
+77.07%
+74.82%
+1,157
+75.62%
+P-value of
+test of equal
+proportions+
+0.76
+
+0.59
+
+0.37
+
+0.70
+
+0.87
+
+Panel C. Match Outcome Prediction Analysis Based on Logistic Regression Results
+Boys 18u
+(n=337)
+Boys 16u
+(n=401)
+Girls 18u
+(n=375)
+Girls 16u
+(n=417)
+OVERALL
+(N=1,530)
+VARIABLE
+EST
+95% CI
+EST
+95% CI
+EST
+95%
+CI
+EST
+95% CI
+EST
+95% CI
+AUCWTNO
+0.830
+0.7870.873
+0.845
+0.8070.883
+0.839
+0.8000.878
+0.818
+0.7770.858
+0.832
+0.8120.852
+AUCWTNR
+0.834
+0.7910.876
+0.846
+0.8080.883
+0.848
+0.8100.886
+0.820
+0.7810.860
+0.836
+0.8170.856
+P-Value of
+Test++:
+AUCWTNO
+=AUCWTNR
+0.34
+
+0.79
+
+0.01
+
+0.41
+
+0.02
+
+BRIERWTNO
+0.168
+0.1470.190
+0.160
+0.1400.180
+0.164
+0.1430.184
+0.174
+0.1550.193
+0.167
+0.1570.177
+BRIERWTNR
+0.167
+0.1450.188
+0.159
+0.1400.179
+0.160
+0.1390.180
+0.173
+0.1530.192
+0.165
+0.1550.175
+P-Value of
+Test+++:
+BRIERWTNO
+=BRIERWTNR
+0.41
+
+0.65
+
+0.02
+
+0.41
+
+0.03
+
+Table 2 presents data for 870 sample players in Panel A and 1,530 sample matches in Panels B and C from the 2022 USTA Junior National
+Championships.  WTNO is the original WTN value as of the start of the tournament, which was prior to the 2023 WTN algorithm change,
+and ranges from 40.00 (lowest skill) to 1.00 (highest skill). WTNR is the WTN value restated as if the 2023 WTN algorithm change
+was retroactively in place instead of the original WTN value, and also ranges from 40.00 (lowest skill) to 1.00 (highest skill).  FAVORED
+PLAYER WINSWTNO(WTNR)  indicates the player with the lower WTNO (WTNR) won the match.  AUCWTN O and BRIERWTNO represent
+the area under the receiver operator curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent
+variable is an indicator for whether a randomly chosen reference player from the pair wins the match and the independent variable is the
+reference player WTNO minus the WTNO of the other player.  AUCWTNR  and BRIERWTNR represent the area under the receiver operator
+curve and Brier score, respectively, derived from a bivariate logistic regression where the dependent variable is an indicator for whether
+a randomly chosen reference player from the pair wins the match and the independent variable is the reference player WTNR minus the
+WTNR of the other player.  AUC (Brier score) values of 0.50 (0.25) represent chance levels of classification accuracy and 1.00 (0.00)
+represent perfect classification accuracy.  EST is the derived estimate and 95% CI indicates the 95% confidence interval. All reported
+p-values are two tailed.  +McNemar test of equal proportions; ++DeLong et al. (1998) test of equal areas called via the roccomp command
+in STATA; +++Paired t-test.
+Our analysis comparing WTN to UTR in the 2023 tournament
+also serves the purpose of updating prior research investigating
+the differential ability of WTN and UTR to predict match
+outcomes. Prior to the 2023 WTN algorithm change, Im and
+Lee (2023) report AUC values based on WTN of 0.851 for Boys
+18u and 0.846 for Boys 16u.  We document values equal to
+0.814 and 0.837 for Boys 18u and 16u, respectively.  For UTR,
+Im and Lee (2023) report AUC values of 0.862 for Boys 18u
+and 0.860 for Boys 16u, while we document values of 0.825
+and 0.848, respectively.  Thus, the classification accuracy we
+document is slightly lower than Im and Lee (2023) whether
+using WTN or UTR.  One possible reason for the slightly lower
+ability of both WTN and UTR to predict match outcomes in
+2023 versus 2022 is that the USTA decreased the number of
+participants in the 2023 tournament relative to 2022.  Fewer
+participants has the effect of eliminating lower skilled players,
+which in turn compresses the skill variation across players
+and makes predicting match outcomes more difficult.
+Mayew and Mayew (2023) also studied the 2022 tournament
+and report AUC values that are systematically lower than
+what we document here and what is documented in Im and
+Lee (2023).  This is because the bivariate logistic regression
+estimations in Mayew and Mayew (2023) that underpin their
+AUCWTNand AUCUTR values use the higher-rated player as
+the reference player for constructing rating differences as
+opposed to a randomly chosen reference player.  As Huo and
+Glickman (2024) show, estimations where the stronger player
+is used as the reference will generally generate systematically
+lower AUCs.  As such, our findings are not directly comparable
+to Mayew and Mayew (2023) with respect to updating our
+understanding of the classification accuracy of UTR and WTN.
+However, Mayew and Mayew (2023) do provide a mapping
+function between UTR and WTN prior to the WTN algorithm
+change and we can assess whether that has changed.
+Re-examining the mapping between UTR and WTN is
+important because some junior players compete in events
+where UTR is the preferred rating, while others compete in
+events where WTN is the preferred rating.  As such, a given
+player may not have both a UTR and WTN rating.  Given WTN
+is the official rating of the International Tennis Federation
+(ITF), we assess how to uncover a WTN from a UTR using the
+2023 data that contains post-algorithm change WTN values.
+Mayew and Mayew (2023) use an ordinary least squares
+regression where they regress WTN on UTR to uncover a
+mapping function equal to: (WTN = 39.18 – 2.40*UTR).  Our
+estimation using the 768 players in the 2023 tournament
+reveals a function with similar parameters (WTN = 37.23 –
+2.11*UTR).  For reference, the regression model underpinning
+this function had a reasonable model fit with an R2 of 71.7%.
+However, since we observed the 2023 WTN algorithm change
+impacted boys and girls differently in Panel B of Table 2, we
+provide a scatterplot of WTN and UTR by gender in Figure 1.
+Figure 1 reveals that the mapping of UTR to WTN varies by
+gender.  Estimating the mapping function separately by gender
+reveals (WTN = 51.7 - 3.34*UTR) for boys and (WTN = 49.89 –
+3.65*UTR) for girls.  These functions look quite different than
+the estimation based on all data pooled together.  Moreover,
+estimating the function by gender results in superior
+model fits, with an R2 of 91.2% for boys and 94.1% for girls,
+compared with 71.7% when all players are pooled together.
+This evidence suggests that gender may be an important
+consideration when considering the mapping between UTR
+and WTN.  However, we acknowledge that the gender effects
+we observe are based upon a sample of elite players that
+participate in the USTA Junior National Championships and
+future research should consider how WTN and UTR values
+map to each other for players outside of the WTN and UTR
+ranges we study here. Moreover, WTN recently underwent an
+algorithm enhancement on September 11, 2024.  Whether the
+classification accuracy of WTN has subsequently improved
+and whether the UTR to WTN mapping we observe changes
+as a result of the 2024 WTN algorithm change is an important
+area of inquiry for future research.
+CONCLUSION
+We provide initial insights on whether the classification
+accuracy of WTN improved after the 2023 algorithm
+change using 2,965 matches from the USTA Junior National
+Championships.  We find no systematic evidence of an
+improvement, which is perhaps a result of players in the
+tournament being sufficiently within their own age and
+gender networks, where an accuracy improvement is less
+likely to occur.  Our findings update prior research on the
+classification accuracy of WTN and can serve as a reference
+point when evaluating the efficacy of future WTN algorithm
+enhancements.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare no conflicts of interest and did not
+receive funding to conduct this research.
+ACKNOWLEDGEMENTS
+We appreciate helpful comments from Charles Allen, Yue
+Jiang, Mark Glickman, Lucas Kiely, Will Mayew, and Ian Mayew.
+We also thank members of the USTA office of Strategy and
+Innovation for helpful discussions and for facilitating access
+to the ITF restated WTN data.  The views expressed in this
+paper are those of the authors and do not represent positions
+of the Racquet Sports Professional Association.
+Figure 1: Scatter plot depicting the relationship between WTN values
+derived under the revised WTN algorithm (vertical axis) and UTR values
+(horizonal axis) by gender for the sample of 768 players in the 2023
+USTA Junior National Championships.

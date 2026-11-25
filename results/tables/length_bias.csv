@@ -1,0 +1,7 @@
+,Opus 5.5,Opus 5.5,Mistral Small 24B,Mistral Small 24B
+,share_longer_won,n,share_longer_won,n
+criterion,,,,
+comprehensiveness,0.661,360,0.638,337
+diversity,0.658,357,0.727,359
+empowerment,0.606,360,0.68,359
+directness,0.447,360,0.447,313

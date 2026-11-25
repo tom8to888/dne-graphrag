@@ -1,0 +1,154 @@
+Title: The relationship between distance of overhand ball throw and maximal ball speed of serve in elite junior tennis players
+Authors: Károly Dobos, Csaba Nagykáldi
+Year: 2017
+Issue: Vol. 25 No. 73 (2017)
+Article id: 304
+
+www.itfcoachingreview.com
+December 2017. 25th Year. Issue 73. 32-34
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.304
+
+The
+relationship
+between
+distance
+of
+overhand ball throw and maximal ball speed of
+serve in elite junior tennis players
+Károly Dobos and Csaba Nagykáldi
+
+ABSTRACT
+The aim of this research was to test the hypothesis that there is a positive
+correlation between the distance of the overhand ball throw and maximal ball
+speed of serve of elite junior tennis players for a wide-scale representative
+sample comprising both sexes (80 boys and 80 girls). A significant, positive
+correlation was found in both sexes (girls r=0.72; boys=0.78), which is why the
+application of overhand ball throw training and its use as a performance
+diagnostic method is suggested in the general preparation of elite junior tennis
+players.
+
+Key words: ball speed,
+correlation, plyometric
+movements
+Received: 14 May 2017
+Acepted: 27 August 2017
+Corresponding author:
+Károly Dobos.
+Email:
+doboskaresztenisz@gmail.com
+
+INTRODUCTION
+In the modern tennis game, the key role of the serve is
+unquestionable. The serve is the only technical element that is
+executed by the player independent of the opponent’s ball.
+This independent execution ensures the highest possible level
+of movement control (Bhamonde & Knudson, 2003). In
+addition, the ability of the players to generate high-speed balls
+has become one of the basic fundamentals of successful
+competition performance (Cross & Pollard, 2009). The serve hit
+with a higher speed allows a shorter preparation time for the
+receiver. At a 117 km/hour average second serve speed, the
+preparation time is 1,200 milliseconds, which decreases to 900
+milliseconds in the case of a 160 km/hour first serve. The time
+spent on preparation further decreases on hard court to about
+200 milliseconds (Kleinöder, 2005). At the professional level, it
+is not rare that served balls travel at a speed of 200 km/hour
+for men and at 190 km/hour for women. This results in a further
+decrease in preparation time, which is why it is thought that the
+use of training equipment developing motor skills (e.g.
+overhand ball throw) in preparation phase (especially in the
+case of junior tennis players) is of key importance, helping the
+player in forming the proper service movements and in
+speeding up the racket.
+
+Reid, Giblin & Whiteside (2015) and Wagner et al. (2014)
+investigated the relationship between the kinematic specialities
+of the overhand throw and of the serve. The results showed
+that the overhand throw and the speed of serve showed a slight
+positive correlation. Besides the mechanical similarities of the
+two movements, there are several mechanical differences as
+well which show the difference between the two types of
+movements. But the researchers agreed that the movement
+pattern of the overhand throw ensures a proper basis for the
+development of the serve.
+
+The mentioned tests were carried out on only a small sample
+(n=28; n=10). In addition, the relationship which exists between
+the distance of the overhand ball throw and the maximal speed
+of the serve could also be interesting as suggestions from the
+professions and other scientific researchers have already
+proven the relationship between the speed of stroke and the
+distance of different throws (Genevois, Pollet & Rogowski,
+2014; Ikeda et al., 2007). Therefore, the aim of this research on
+a wide representative sample comprising both sexes (80 boys
+and 80 girls) was to test the hypothesis that the distance of the
+overhand ball throw of elite junior tennis players and the speed
+of serve shows a close positive correlation in both sexes.
+
+METHODS AND PROCEDURES
+The sample consisted of elite junior tennis players (under 12,
+14, 16 and 18). The subjects were selected with the stratified
+random sampling method, so in each age-category 20 boys
+and 20 girls, altogether 160 people, were tested. From the
+point of view of the research, one boy and one girl age group
+was formed (Table 1). The selected sample represents the best
+girl and boy populations of Hungarian junior tennis players.
+
+To examine the relationship between maximal ball speed of
+serve and distance of overhand ball throw, two field tests
+(Figure 1.) were used (Nádori et al., 2005; Ulbricht, FernandezFernandez & Ferrauti, 2013). The players had to execute the
+field tests in a given order (overhand ball throw and serve
+velocity) after a 15-minute standard warm up. The players had
+three trials in the overhand ball throw and eight for the serve
+velocity tests. The best results were used for later analysis. The
+weight of the small ball was 100 grams (diameter 6.5cm). To
+measure the speed of serve, the “Stalker ATS II” serve speed
+measurer (within 1 km/h accuracy) was used.
+
+Pearson correlation coefficient was calculated to determine the
+relationship between the maximal ball speed of the serve and
+distance achieved in the overhand ball throw. The level of
+significance was determined at p <0.05. The statistical analysis
+of the data was carried out with SPSS 13.0 software.
+
+RESULTS
+In both sexes, a significant strong positive correlation was
+found between the distance of the overhand ball throw and
+the maximal ball speed of serve (Figure 2. 3.).
+
+DISCUSSION
+The explosive strength of the dominant upper arm of elite
+junior tennis players showed a strong positive correlation to
+the maximal ball speed of serve. The results well-demonstrate
+the statement that the so-called “plyometric” movement form
+(the stretch-shorten cycle) is the most frequent muscle
+contraction type in tennis, as the coordination pattern of most
+of, the strokes comprises this contraction type. Thus, those
+tennis players who can make use of their strength most
+effectively are able to hit the ball hardest, and will have the
+strongest serves (Chu, 2003). Furthermore, the mechanical
+similarities of these two movements (Reid, Giblin & Whiteside,
+2015; Wagner et al., 2014) aid the player in building up a
+successful serve. Therefore, in our opinion the explosive
+strength manifested in the overhand ball throw can be well
+transferred to the movement pattern of the serve.
+
+Accordingly, this is why the use of the overhand ball throw as
+a plyometric throwing practice is indispensable in creating a
+
+proper serve speed. In addition, the determinant coefficients
+also show (girls, r2=0.52; boys, r2=0.62) that the two
+movement forms are similar to each other, but are not the
+same. The results reinforce the suggestions of the previous
+research results (Reid, Giblin & Whiteside, 2015; Wagner et al.,
+2014).
+
+CONCLUSIONS
+The research was carried out on a representative sample
+comprising all official age-groups, in which the distance of the
+overhand ball throw and the maximal ball speed of serve
+showed a strong and significant correlation in both sexes.
+Therefore, it is suggested that the overhand ball throw be a part
+of junior tennis players’ general preparation and be used as a
+means of performance diagnostics.

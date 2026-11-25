@@ -1,0 +1,192 @@
+Title: Effects of lower limb position on ball speed in tennis ground strokes
+Authors: Vitor Cabral
+Year: 2017
+Issue: Vol. 25 No. 71 (2017)
+Article id: 225
+
+www.itfcoachingreview.com
+April 2017. 25th Year. Issue 71 26-28
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i71.225
+
+Effects of lower limb position on ball speed in
+tennis ground strokes
+Vitor Cabral (POR)
+ITF Coaching and Sport Science Review 2017; 71 (25): 26 - 28
+ABSTRACT
+According to Schoenborn (2002) groundstrokes are 62% of all tennis strokes in competition.
+The forehand is considered the main “weapon” in modern tennis, along with the serve, and
+74% of top 100 male players use a two handed backhand. This percentage rises to 92% in
+women. The forehand drive is of great importance in the male professional tennis and it is
+considered the most important stroke after the serve (Reid, Elliot, & Crespo, 2013).
+
+Key words: Groundstrokes,
+ball speed, lower limbs
+Received: 02 Dec 2016
+Accepted: 03 Jan 2017
+Corresponding author:
+Vitor Cabral
+Email: vitor.cabral@netcabo.pt
+INTRODUCTION
+The placing of the lower limbs (more exactly of the feet),
+relative to the direction of the ball, during the preparation
+phase of a groundstroke in Tennis, as always been somewhat
+controversial. With the game getting much faster, players need
+to be able to react more quickly, adopting more frontal
+positions (Bahamonde, 2001). Elliott (2007) refers that modern
+tennis is more based on open stances, high rotation strokes and
+effective use of elastic energy can increase ball acceleration by
+20%. However, most of the top players seem to assume a more
+closed position to look for a winner. Although there seems to a
+clear shift in the latter years towards the open stance position,
+the debate goes on.
+The more closed stances seem to be linked to more power and
+precision. Bahamonde & Knudson (2003) found that closed
+stance players produce larger moments of force and
+consequently more power and joint loading. Analyzing the
+stances, Knudsen (2004) affirms that square (or closed) stances
+promote larger hitting zones. Also, the open stances produce
+lower (-6%) racquet speeds in college level players, than closed
+stances. Main advantages of open stance are considered to be
+quick reaction after the stroke and the use of more elastic
+energy. The shoulder rotation over the hips, and the position of
+the upper limbs when related to the trunk and core muscles on
+the preparation phase, creates the perfect condition for pre
+stretching (Elliot, 2006).
+As these are aspects that influence the way the technique is
+taught and are quite important in advanced players, it is of the
+foremost importance to accurately measure the two
+techniques (open and closed stance) and determine their
+characteristics.
+
+METHODOLOGY
+A group of 5 male players, all with a best ranking within the top
+100 ATP where selected for the study. All were right handed
+and used a two handed backhand except one left-handed with
+a
+one
+hand
+backhand.
+
+The test protocol included the execution of a series of 4 sets of
+5 shots at maximum speed, with the players instructed to
+execute forehands and backhands both in closed stance and
+open stance. For each stroke a full series was executed. The 10
+best shots were selected, eliminating the inaccurate shots (in
+foot placement, racket impact and precision), according to
+preliminary trial studies.
+Two preparation tests were conducted with each player,
+ensuring adequate learning of the test protocol and
+environment.
+Each series was captured using a QualisysTM motion capture
+system, with 1100 frames per second, 3 megapixel resolution
+and full field of view. Impact point was captured with Photron
+Fastcam SA4, at 12000 frames per second, at 1080p (Full HD)
+resolution. A Stalker ATS 2 radar gun was used as a redundancy
+speed measurement.
+Paired samples T-Test was used for comparison and Pearson
+correlation coefficient for reliability, as well as average and
+standard deviation for characterization of results. Confidence
+level was maintained at 0,05.
+
+RESULTS
+Data seems to indicate a small speed advantage for the closed
+position in both strokes. The small difference (3,06km/h for the
+forehand and 3,38km/h for the backhand) is statistically
+significant (p≤0,01). The results also reflect the expected
+difference in ball speed between the forehand and the
+backhand (13,2km/h for the open stance and 12,88km/h for
+closed
+stance,
+p≤0,001).
+
+Kinematic analysis permitted to evaluate the angle of shoulder
+rotation during the backswing for both strokes in each stance.
+We verify that there is statistically significant difference
+(p≤0,001) in shoulder rotation in favor of the forehand and the
+closed stances. Although small, the higher rotation of the
+shoulder probably promotes a longer acceleration path for the
+racket during the acceleration phase on to the impact point.
+
+In the graphical representation seems to be clear the
+consistency of the scores, inferring a possible relationship
+between
+two
+variables.
+
+DISCUSSION
+The scores seem to indicate a slight advantage in speed of the
+closed stances in both the backhand and the forehand. There
+are a few differences in the two techniques that can probably
+explain these results.
+It has been mentioned that the leg drive and probable weight
+transfer in the closed stance can be a determining factor, and
+also a slightly better balance can affect both speed and
+precision. However the clear preference for the open stance
+cannot be underestimated. The movement advantage is great
+and the difference is speed is slight, which probably explains
+why most players prefer the open stance in most situations.
+
+In any case, it’s important to remember that match play speeds
+can be different (lower) because of precision, mental pressure
+and opponent constraints. Hawkeye data from Australian Open
+2012 to 2014 as show that average shot speed from top level
+players was 95,6km/h (Whiteside, Bane & Reid, 2015).
+
+Closed stances also seem to promote a higher shoulder rotation
+during the backswing. The difference is also slight (4,47° for the
+forehand and 5,4°, p≤0,001) but can also be an important factor
+to explain the speed difference. The higher shoulder rotation
+will probably promote a longer acceleration path for the racket,
+resulting in higher racket speed at impact point and
+consequently a higher ball speed. One of the main reasons for
+performing the backswing in tennis is to increase the distance
+at which acceleration can develop during the forward swing
+(Aleksovski, 2015).
+The results of shoulder rotation seem to be close the literature
+findings. It is although interesting to verify that, for this group,
+the rotation was higher for the closed stances in both strokes
+and much higher for the forehand (21,61° for the closed stance
+strokes and 22,54° for the open stance strokes, p≤0,001).
+
+We can also see clearly the limitation imposed by open stance
+on trunk rotation in the backhand, with a average score of
+78,14°, significantly lower than the other strokes.
+
+The higher degree of shoulder rotation can be a determining
+factor in the increased speed observed in closed stance
+however other factors can be in play. Other probable
+advantage for the closed stance in forehands and backhands is
+precision. Muhamad, Golestani & Razak (2015) demonstrated a
+higher accuracy for closed stance strokes with intermediate
+players.
+This probably explains why normally top players use more
+often open stance during rally but seem to prefer the use of
+closed stance, especially in the forehand, to go for the winner
+shot. However we can also argue that the winner shot appears
+in response to shorter balls with the necessity to “step in” for
+the shot.
+It is very important to continue the debate and research on this
+topic, to provide the best possible information to coaches and
+assist them to better develop performance players.
+
+CONCLUSIONS
+With this study we aim to contribute for the characterization
+of the open and closed stance position in the groundstroke’s,
+mainly focusing on their advantages. In this context we can
+state that in our study we found:
+1. There seems to be a small ball speed but statistically
+significant advantage for the closed stance position, both in
+forehand and backhand;
+2. As expected, forehand strokes produced higher ball speed
+than backhands;
+3. Shoulder rotation was higher in closed stance strokes;
+4. Open stance backhand shoulder rotation was especially
+limited achieving the lowest average scores, as expected;
+Summarizing, although there is a clear movement reaction
+advantage in open stance strokes, closed stance seem produce
+more power probably associated accuracy mainly due more
+shoulder rotation and larger hitting zones in the direction of
+travel. Therefore closed stance is probably a best choice for
+pressure/winner forehand shots, especially combined with the
+necessity to step in.

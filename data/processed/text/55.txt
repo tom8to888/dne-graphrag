@@ -1,0 +1,291 @@
+Title: Determinant physical factors in the wheelchair tennis player
+Authors: Alejandro Sánchez-Pay
+Year: 2021
+Issue: Vol. 29 No. 83 (2021)
+Article id: 55
+
+www.itfcoachingreview.com
+April 2021. 29th Year. Issue 83. 35-37.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i83.55
+COACHING & SPORT
+SCIENCE REVIEW
+Procedure
+During a national camp, the players carried out a battery
+of tests distributed as follows: Day 1; Speed test (5, 10 and
+20 m.), agility test (T-test), service speed test, and medicine
+ball throw test (forehand, backhand and serve). Day 2:
+incremental resistance test (Hit and Turn Tennis Test) and
+manual dynamometry. All tests were conducted on an indoor
+hard court. The characteristics of each of the tests were:
+•	 Displacement speed test: The time to travel a distance
+of 20 metres with doors located at 0, 5, 10, and 20 m.
+was measured. The players performed the test with and
+without a racquet three times each.
+•	 Agility test (T-Test). The time to perform the agility test
+consisting of accelerations and decelerations, as well
+as turns for both sides, was measured. Each participant
+performed the test three times without a racquet,
+and three times with a racquet, with a 2 min. rest time
+between each repetition.
+•	 Service speed: The average service speed of 10 serves
+was measured and recorded using a radar gun. The
+radar was positioned behind the player at the same
+hitting height and oriented in the same direction as the
+ball.
+•	 Medicine ball throw: Explosive force was evaluated
+through three 2 kg medicine ball throw tests, simulating
+forehand, backhand and serve shots. The players had to
+throw the ball simulating the technical gesture of the
+backhand and forehand (on each side with two hands)
+and the serve (with one hand from the loading position).
+INTRODUCTION
+Wheelchair tennis (WT) has achieved the professionalization
+of the best players in the international ranking (Sánchez-Pay,
+2019). This has been possible due to the fact that, in recent
+years, there has been an increase in the revenue through
+the prize money distributed in tournaments worldwide, as
+well as a growth in the companies interested in sponsoring
+players. No doubt that the presence of WT in the four Grand
+Slam has facilitated such professional growth. It is therefore
+vitally important for players to maintain the highest position
+possible in the ranking, although the information that
+identifies the most determinant variables for performance is
+still very scarce.
+There are studies that show the differences between winners
+and losers based on match statistics (Sánchez-Pay, TorresLuque, Cabello Manrique, Sanz-Rivas, & Palao, 2015),
+physiological parameters (Sindall et al., 2013), as well as
+speeds and distances during a match (Mason, van der Slikke,
+Hutchinson, & Goosey-Tolfrey, 2020). However, there is no
+related information on the physical parameters of the athlete
+that better identify the ranking of the players. Therefore, the
+aim of this paper is to analyse the relationship of the fitness
+level of WT players and its relation with their position in the
+ranking.
+METHOD
+Participants
+The sample consisted of the nine best male wheelchair
+tennis players in the Spanish national ranking (38.35 ± 11.28
+years, 63.77 ± 7.01 kg. weight). All of them played in the
+Open category and took part in national and international
+competitions. They were or had been among the top 150 in
+the international ranking.
+ABSTRACT
+The objective of this research was to identify the most determining physical factors
+in the ranking position of wheelchair tennis players (WT). In a national camp, the nine
+best nationally ranked Spanish male WT players (38.35 ± 11.28 years, 63.77 ± 7.01
+kg. weight) completed a test battery. Significantly higher correlations were observed
+in medicine ball throws, 5 and 20-metres sprints with racquet and in an agility test
+without racquet. In addition, the regression analysis identified two predictor models
+of the player's ranking position that included both the serve throw and the 5-metre
+racquet sprint. In conclusion, it is recommended that coaches and physical trainers
+include in their training programmes medicine ball exercises as well as acceleration
+drills over short distances.
+Determinant physical factors in the wheelchair
+tennis player
+Alejandro Sánchez-Pay
+Faculty of Sports Sciences. University of Murcia.
+Key words: tennis, performance,
+biomechanics, physical tests
+Received: 23 January 2021
+Acepted: 15 March 2021
+Corresponding author: Alejandro
+Sánchez-Pay. Faculty of Sports
+Sciences. University of Murcia.
+Calle Argentina, 19, 30720 San
+Javier, Murcia, España. Email:
+aspay@um.es
+•	 Manual dynamometry: The maximum isometric force in
+the flexors of the fingers was measured using a manual
+dynamometer. The best value of three attempts was
+recorded in N · kg-1.
+•	 Incremental resistance test (Hit and Turn Tennis Test):
+An adaptation of the test proposed by Ferrauti, Kinner,
+and Fernández-Fernández (2011) was carried out. The
+only difference was that the shots had to be performed
+on top of a cone located at the intersection of the
+singles line with the bottom line, coinciding with the
+sound signals emitted by a CD.
+Statistical analysis
+The Shapiro-Wilk and Levene tests were used to contrast the
+normality and homogeneity of variances for each variable.
+A Spearman correlation analysis was performed to identify
+those variables related to the ranking position. Subsequently,
+a stepwise linear regression analysis was performed to
+identify the parameters with the greatest influence on the
+ranking position. The significance was established at p <0.05.
+All data were analysed with the IBM SPSS 25.0 statistical
+package for Macintosh (Armonk, NY: IBM Corp).
+RESULTS
+Table 1 shows the correlation coefficients of the different
+physical tests with the player ranking. The higher statistically
+correlation was observed in the medicine ball serve throw
+(r = -0.995), showing a negative correlation. The 5 to 20
+metre tests with racquet, and T-test without racquet showed
+the highest positive correlations (r = 0.817, r = 0.833 and
+r = 0.817 respectively).
+Table 1
+Correlation coefficient of the physical tests with the ranking position.
+Test
+r
+p
+Dyna. Dom (kg)
+-0.247
+0.522
+Dyna. Non-Dom (kg)
+-0.150
+0.708
+Spe. Serve (km h -1)
+-0.767
+0.021
+5m without racquet (s)
+0.783
+0.017
+10m without racquet (s)
+0.783
+0.017
+20m without racquet (s)
+0.717
+0.037
+5m with racquet (s)
+0.817
+0.011
+10m with racquet (s)
+0.383
+0.313
+20m with racquet (s)
+0.833
+0.008
+T-Test without racquet (s)
+0.817
+0.011
+T-Test with racquet (s)
+0.783
+0.017
+Ball throw F (m)
+-0.733
+0.031
+Ball throw B (m)
+-0,700
+0.043
+Ball throw S (m)
+- 0.995
+<0.001
+Hit and Turn
+-0.778
+0.014
+Table 2 shows the results of the multiple regression analysis.
+The analysis mainly identified two models. The first model
+showed the medicine ball throw simulating a serve as the
+main predictive measure of the player's ranking (r2 = 0.830,
+p <0.001). The second model showed the medicine ball
+throw simulating a serve and the 5-metre sprint with the
+racquet as the two predictive variables in the player's ranking
+(r2 = 0. 929, p <0.001).
+Table 2
+Multiple regression statistical analysis.
+R
+R2
+R2 adjusted
+F
+Sig F.
+Model 1
+0.911
+0.830
+0.806
+Beta
+34.193
+T
+< 0.001
+Sig T.
+Ball Throw S (m)
+
+- 0.911
+-0.911
+<0.001
+R
+R2
+R2 adjusted
+F
+Sig F.
+Model 2
+0.964
+0.929
+0.905
+Beta
+39.239
+T
+<0.001
+Sig T.
+Ball Throw S (m)
+- 0.641
+-4.463
+0.004
+5m with racquet (s)
+0.415
+2.890
+0.028
+The relationship between the medicine ball throwing tests
+simulating a serve and the 5-metre sprint with a racquet
+is observed in Figures 1 and 2. The throw test maintains a
+negative relationship, since as the player's ranking moves
+away from the first place (greater numerical value), the
+distance of the throw decreases. On the contrary, in the
+5-metre sprint the relationship is positive, since as the
+player's ranking is higher (lower numerical value), the time to
+cover the 5 metres decreases.
+Figure 1. Relationship between the medicine ball throw test simulating
+a serve (m) and the player's ranking. Figure 2. Relationship between the
+5-metre sprint with a racquet and the player's position in the ranking.
+Figure 2. Relationship between the 5-metre sprint with a racquet and
+the player's position in the ranking.
+DISCUSSION
+Knowing how physical demands relate to each other
+and identifying which are the variables that determine
+performance, can provide coaches with important and specific
+information for the design of exercises tailored to the needs
+of the sport. The objective of this research was to know the
+relationship of different physical demands evaluated through
+field tests with the ranking position of WT players. In general,
+it is observed that the vast majority of the measurements
+carried out showed a relationship with the ranking position of
+the players, although only the medicine ball throw simulating
+a serve and the 5-metre sprint with a racquet were shown as
+the predictive variables.
+The medicine ball throw was shown as the main predictive
+measure of the player's ranking position (table 2). Given
+the similarity in the mechanics of throwing with the service
+technique, this test could have a direct relationship with
+service speed, which is known to be a good performance
+indicator in standing tennis (Brown & O ' Donoghue, 2008)
+and is related to some parameters of the physical condition
+of tennis players (Fett, Ulbricht, & Ferrauti, 2020). However,
+this is a hypothesis that needs to be tested in future studies.
+The 5-metre racquet sprint was shown as a predictor variable
+of the player's ranking position (table 2). Therefore, a shorter
+acceleration time in the first 5 metres seems to be a good
+performance indicator. A good mobility in competitive WT is
+essential (Bullock & Pluim, 2003), since it allows the player to
+hit more shots with success (Filipcic & Filipcic, 2009). These
+movements are intermittent and multidirectional, which
+challenges the player to use specific movements such as
+accelerating, sprinting, braking, and turning the wheelchair
+(Roy, Menear, Schmid, Hunter, & Malone, 2006; Sanz, 2003).
+The fact that the 5-metres sprint is shown as a predictor of
+performance, stresses the importance of accelerating versus
+achieving high speeds (Vanlandewijck, Theisen, & Daly, 2001),
+where the propulsion most effective is when the maximum
+possible speed is achieved in the least number of pushes to
+the chair (Goosey-Tolfrey & Moss, 2005).
+CONCLUSIONS
+The medicine ball toss simulating the serve, and the 5-metre
+sprint were shown as the variables that best predicted the
+ranking position of WT players. Therefore, coaches and
+physical trainers are encouraged to include the medicine
+ball throw as a transfer exercise to the technical gesture of
+serving within their training programmes. In the same way,
+a specific work of acceleration with the chair is necessary
+in the first metres, paying special attention to the individual
+biomechanics of the gesture, since the functional limitation of
+each athlete will determine to a greater or lesser extent the
+impulse technique on the chair hoops.

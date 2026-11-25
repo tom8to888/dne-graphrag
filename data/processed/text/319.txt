@@ -1,0 +1,377 @@
+Title: A constraints-led approach to coaching the serve
+Authors: Luke Regan
+Year: 2025
+Issue: Vol. 33 No. 97 (2025)
+Article id: 319
+
+www.itfcoachingreview.com
+December 2025. 33rd  Year. Issue 97. 31-35
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i97.319
+solutions that exploit the fit between the performer and their
+surroundings, often in nonlinear and unpredictable ways. The
+coach as learning designer is able to manipulate and modify
+this environment in innumerable ways to influence this
+self-organisation process. This implies a greatly diminished
+role for technical instruction and augmented feedback for
+correcting “errors”. An emphasis on self-organisation is
+contrasted with the traditional coaching approach of using
+prescribed movements to pursue ideal form or postures
+based on the templates of the most successful athletes in a
+sport. However, this association between targeting a singular
+“correct” technique and the cognitive approach has been
+misrepresented according to Taylor, Taylor, Ashford, & Collins
+(2023).
+In the CLA, the term ‘constraints’ refers to “influential
+factors within the learning environment” (Davids, 2010).
+Understanding the player as a complex adaptive system,
+constraints serve as boundaries that guide self-organisation
+and are categorised as either “task”, “environmental”, or
+“individual”, according to a model developed by Newell (1986).
+An example list of constraints available to be manipulated by
+a tennis coach can be found in Figure 1 below.
+INTRODUCTION
+There are two main theoretical positions that currently
+dominate the study of skill acquisition. The cognitive
+approach is sometimes referred to as information processing,
+and commonly as the ‘traditional’ approach, though perhaps
+somewhat pejoratively (Collins & Taylor, 2025). It can be
+contrasted with the ecological dynamics approach, which
+draws on the science of complex systems and psychological
+theories of direct perception. Predictive processing, a
+burgeoning explanatory framework across many branches
+of psychology, seems a likely candidate for a third approach,
+but yet has little published research in the sport domain (for
+examples see Cappuccio, Kirchnoff, Alnajjar, & Tani, 2019;
+and Harris, Arthur, Broadbent, Wilson, Vine, & Runswick,
+2022). For the purposes of the current article, and for the
+benefit of coaches, the principles of the ecological approach
+to coaching will be contrasted to the cognitive approach for
+description and clarity. Any comments or reflections from a
+predictive processing perspective are beyond the scope of
+this paper and will be omitted.
+The cognitive account of motor learning is founded on the
+strengthening of mental representations, or schemas, of
+movements through practice and repetition, and is greatly
+attributed to the work of Schmidt (1975). In contrast to
+the cognitive approach, which recommends high volumes
+of rote repetition based on an ‘expert’ model of technique,
+alternative methods have drawn on complex systems theory
+and ecological psychology to give rise to the constraints-led
+approach to coaching (CLA). Critical to this methodology, and
+in contrast to the fundamental role of mental representations
+in a cognitive approach, self-organisation is the basis for skilled
+movement. Self-organisation refers to the inherent tendency
+in complex adaptive systems to adhere to stable, patterned
+behaviours (Button, Seifert, Chow, Araujo, & Davids, 2021). In
+the case of sport coaching, a learner is considered part of an
+athlete-environment system. Information flowing between
+the environment and the learner acts as a confluence of
+constraints that drive the system towards coherent movement
+ABSTRACT
+The purpose of this article is to build on previous work in this publication and make
+recommendations to coaches for developing the serve, based on the principles of an
+ecological dynamics approach to skill acquisition. The article outlines the theory of
+the ecological view of motor learning, the most prominent methodology arising from
+which is the constraints-led approach (CLA). Evidence-informed recommendations for
+coaches wishing to apply these principles to coaching the serve are provided, along
+with an overview of some of the most important practical tenets of an ecological
+approach.
+A constraints-led approach to coaching the serve
+Luke Regan
+United Kingdom
+Key words: Skill acquisition,
+constraints, serving, selforganisation, coaching.
+Received: 21 March 2022
+Accepted: 11 September 2025
+Corresponding author: Luke
+Regan, lwgregan@gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+Unlike in the cognitive approach, in the CLA prescriptive
+instruction is minimised to harness the self-organising
+tendencies of the athlete-learner. The value of massed,
+isolated, and part-whole practice is considered subordinate
+to the concepts of: representative learning design, where the
+constituent elements of competition are recreated as much
+as possible in the practice environment (Button et al., 2021);
+and the maxim of “repetition without repetition”, attributed
+to Bernstein (1967) who used the phrase to capture how
+no two movements are ever precisely the same, even when
+produced to achieve the same outcome. The role of the
+coach is therefore to guide intention, awareness, and focus
+the attention of the player so that he or she may become
+better attuned to relevant feedback and information in the
+environment (Renshaw, Davids, Newcombe, & Roberts,
+2019). For developing technique, this means that the coach
+should work to manipulate constraints in a way that guides
+the player away from undesirable movement patterns, allows
+exploration of the perceptual-motor search space, and
+facilitates discovery of alternative movement solutions that
+satisfy the task demands.
+The CLA and the wider ecological dynamics approach have
+been criticised for theoretical inconsistencies, ignoring the
+role of mental representations in sporting expertise, and
+failing to offer an expansive set of tools across the entire
+coaching process (Carson & Taylor, 2025). Despite this, the
+success of the CLA has been demonstrated in tennis, for
+instance by Lee, Chow, Komar, Tan, & Button (2014); using
+task constraints such as ball-compression (Hammond &
+Smith, 2006); and the scaling of equipment (e.g. Beak, Davids,
+& Bennett, 2002), which was found to promote functional
+movement variability (Buszard, Garofolini, Reid, Farrow,
+Oppici, & Whiteside, 2020).
+The purpose of this article is to build on previous work in
+this publication guiding coaches in how learning might be
+designed from an ecological perspective in the application of
+skill acquisition for tennis (see Carvalho, Correia, & Araújo,
+2013;  Martinez, 2015; Morales, & Martinez-Gallego, 2021;
+Parry, & O’Rourke, 2023; Parry, O’Callaghan, & Strawsma,
+2025). More specifically, the following will contain evidenceinformed ideas and guidance for coaches wishing to use
+the CLA to help players improve their serving. There is no
+intended implication of any objective superiority of this
+approach over any other method. The intention is to outline
+examples of evidence-informed practice stemming from a
+theoretical foundation rooted in the ecological dynamics
+view of the performer as a self-organising, complex adaptive
+system. While it is beyond the scope of this article to test
+these proposals experimentally or quantify their value in
+comparison to any other method, the following exercises
+consist of logical progressions from the tenets of an ecological
+approach to coaching, progressions that have led to anecdotal
+success in building adaptive serving techniques.
+Figure 1. An Example List of Constraints available to a Tennis Coach.
+RECOMMENDATIONS FOR COACHING THE SERVE
+Task Simplification Versus Task Decomposition
+Firstly, it is strongly suggested that however the serve is
+practised it should be done so in such a way that the integrity
+of the serving action is preserved, as opposed to being broken
+down into constituent parts to be practised in isolation and
+then re-assembled. The ecological model emphasises the
+importance of perception-action couplings, which form in
+a cyclical relationship whereby environmental information
+guides movement, which in turn allows further perception
+in an ongoing interdependency (Davids, Button, & Bennett,
+2008). The implication is that perception and action should
+not be separated in training, e.g. rather than practising the ball
+placement separately, the toss and racket-swing should be
+practised together to maximise skill transfer. In the instance
+of serving, this is important because connecting information
+and movement allows the individual to better perceive
+opportunities for action in the serve, e.g. swinging the racket
+fast (Button et al., 2021). Also, the server’s intrinsic dynamics
+mean that adaptive ball placements are unique to them and
+not dictated by a coach or expert; and thirdly because actions
+are nested (Gray & Sullivan, 2023), or in other words the
+act of performing a ball-toss without a swing, changes the
+very motion of tossing itself, resulting in a loss of practice
+specificity.
+It is therefore recommended that, when practising the serve,
+players are encouraged to swing and attempt to hit the ball
+on every toss, regardless of whether the toss is deemed “good
+enough” to hit. To aid beginners, rather than deconstructing
+the serve, it can be made easier by modifying task constraints,
+such as by scaling the equipment or enlarging the target area.
+For example, an abbreviated service action, starting in the
+‘trophy’ position; a shorter racket, or a wider-diameter ball,
+could be used to simplify the challenge of serving without
+resorting to part-practice (Farrow & Reid, 2010).
+Representative Learning Design
+Building on the aforementioned importance of representative
+learning design and the faithful sampling of key informational
+sources in the environment, several principles follow from
+which coaches and players can optimise learning environments
+(Parry et al., 2024). One key element of competitive tennis,
+for example, is that a player is always serving to an opponent.
+Without this key information source, behaviour has found to
+differ when serving to an active returner, raising questions
+about the value and purpose of prolonged serving practice
+into an empty court when an opponent or practice partner
+is available (Krause, Farrow, Buszard, Pinder, & Reid, 2019).
+Serving in tennis is however a skill that can readily be practised
+alone and unopposed, something which can be a gainful
+activity when coaches and practice partners are unavailable.
+One of the criticisms of the ecological dynamics approach is
+that it does not fully recognise the role of embedding skills with
+high volumes of this kind of “non-representative” practice,
+the kind commonly found in the developmental histories of
+many successful athletes (Carson and Taylor, 2025). However,
+it is recognised that this type of unopposed practice can be
+profitable for skill development, and fun. The goal however
+should not be to achieve some technical ideal through rote
+repetition. Rather, unopposed practice is an opportunity for
+exploring ways to do things differently and find effective
+solutions, not to adhere to a prescribed technique (Parry,
+Myszka, Yearby, O Sullivan, & Otte, 2024). Therefore, in
+one-to-one sessions, coaches should carefully weigh up the
+relative value of standing next to the player while they serve,
+for closer observation and ease of instruction; versus playing
+the role of the returner and fulfilling the role of a key source
+of external feedback and perceptual information.
+Velocity
+A critical task constraint for serving is velocity. When serving,
+whatever constraints are employed, it is crucial that the
+learner practises with the goal of sending a ball at speed
+or to distance. A powerful serve requires a qualitatively
+different action from a soft or gentle one because, with the
+intention of creating velocity, it is more likely that, through
+self-organisation, a greater range of motion will be explored,
+and range of different body parts and muscle groups will
+be recruited. This will ultimately lead to more effective
+projection of the ball. Velocity acts as a control parameter
+that, at a critical value, precipitates a phase transition from
+one movement to another (Southard, 2002). This is akin to
+changing gait from a walk to a jog as speed increases: i.e.
+both walking and jogging are means of upright locomotion,
+but fundamentally different movements (jogging is more than
+just fast walking). This is not to say that velocity is a critical
+objective element of a functional serving technique, but
+the intention to increase velocity and the associated forces
+through the body as control parameters are an essential part
+of the search for an adaptive movement. Soliciting physical
+effort in the quest for racket-speed will allow the player to
+self-organise around the task to achieve a serving action
+that satisfies the current task constraints. Therefore, any
+task or exercise involving practising the serve should invite
+the intention of sending the ball to distance or with power.
+Celebrated anecdotal evidence of this can be found in the
+developmental history of Andre Agassi (2009), whose father
+imposed a high-volume practice regime where he encouraged
+young Andre to maximise his power on groundstrokes, “Hit
+harder, my father yells. Hit harder.”
+According to Bosch (2020), building functional movement
+attractors that optimise efficiency and protect against injury
+is a key goal for training physical skills. He states that, at the
+intermuscular level, when training motor skills, forces are
+more important than body positions for movement specificity.
+In other words, learners in tennis should be encouraged to hit
+the ball as hard as they can as early as possible.
+“If it is true that information about the force landscape is
+more important than information about body posture… it
+makes sense to provide exercises early in the motor learning
+process that include large and emphatically changing forces”
+(Bosch, 2020).
+The implication for coaching therefore is that serving practise
+should incorporate the goal of propelling the ball to distance
+or at speed as early in development as possible.
+To supplement serving practices and exercises variability
+could be used through switching among different balls and
+rackets for varying combinations of force and inertia to
+promote effective adaptations (Gray & Sullivan, 2023). With
+these guiding principles in mind, some practical ideas for
+encouraging racket-speed based on Newell’s (1986) model
+of constraints are included below to help players develop
+functional movements when serving.
+Modifying the Task
+Goal: To encourage the learner to explore the use of a range
+of muscle-groups and different movements solutions to
+propel the ball further.
+Skill Level: Beginner – Intermediate
+Exercises:
+•	 Serving to an expanded target area: e.g. a larger service
+box, or anywhere into the court.
+•	 Serving from an increased distance to the target area e.g.
+further behind the baseline, or into an adjacent court.
+•	 Serving from inside baseline (e.g. from the service line) to
+the regular service area, but with the goal of maximising
+distance between 1st and 2nd bounce (this can also help
+develop wrist flexion (Farrow & Reid, 2010)).
+Variations: these exercises can be employed for an isolated
+serving practice (for greater volume of repetition), or as part
+of match-play or a conditioned game (for greater emphasis on
+representative learning design).
+Exploiting the Environment
+Manipulating environmental constraints is more difficult for
+most—few coaches have the option of switching between
+the court-surfaces and climates in which they can train,
+however there are some options to take by utilising changing
+conditions in an opportunistic way.
+Goal: To develop a faster, flatter serve
+Skill Level: Intermediate – Advanced
+Exercises:
+•	 Serving into a head-wind
+•	 Practising the serve on cold and damp days
+•	 Serving from an unstable base (e.g. standing in a
+sandpit or on a beach) invites use of the lower body and
+recruitment of the leg muscles (Farrow & Reid, 2010).
+Variations: Schedule practices for evenings or early mornings;
+or watering a clay court before practice, are further means of
+creating slower environmental conditions.
+Manipulating Individual Constraints
+Emotional, physical and psychological states act as individual
+constraints. For example, to facilitate the biomechanical
+efficiency necessary to serve at speed, mental and physical
+relaxation are beneficial—fear of failure can increase physical
+tension and inhibit freedom to ‘go for it’ on the serve.
+Confidence could be increased in the short-term by a coach
+through an implicit learning paradigm such as an ‘errorless
+learning’ task. Such practice has been shown to improve skill
+when performing without any knowledge of the outcome
+(Maxwell, Masters, Kerr & Weedon, 2001).
+Goal: To reduce error-anxiety and guide attention away from
+the outcome and towards intrinsic sources of information and
+feedback
+Skill level: All
+Exercise:
+•	 An “errorless learning” task: serving at speed from close
+proximity into a wire fence or partition of the kind
+commonly found on tennis courts, with no specific target
+or aiming instructions. A task such as this builds skill and
+reduces anxiety about mistakes that might otherwise
+hinder a learner from serving at speed.
+Physical tension is a barrier to serving at speed. Highly
+activated mental states and physical arousal can create
+tightness and overthinking. Beyond the beginner level, when
+a basic serving action has been established, manipulating
+these states is a possible avenue through which a coach could
+allow a player to play more freely and just “let it happen”.
+Goal: Facilitate racket-speed and an external focus through
+decreased muscle tension and a relaxed mental state
+Skill level: Intermediate – Advanced
+Exercises:
+•	 Precede serves with a task to fatigue the wrist. This can
+usually be achieved with ~60 seconds of continuous
+tap-downs of a ball. This reduces muscular tension and
+inhibition of the kinetic chain through the forearm.
+•	 Practising serving while when sleep-deprived, or
+jetlagged (as some Olympic skiers have successfully
+tried; Blumberg, 2018).
+CONCLUSION
+The CLA is a skill acquisition methodology that is not reliant
+on direct provision of copious amounts of prescriptive
+information based on the fallacy of a single, universally
+optimal technique. The above ideas are examples of how using
+an ecological approach may be applied to tennis in order to
+encourage players’ search of the perceptual-motor workspace
+in order to satisfy constraints, with the coach as a guide for
+educating intention and attention. It is natural for coaches
+to be apprehensive of working without continuous resort to
+prescriptive instructions, but an ecological approach does
+not preclude verbal input. However, rather than aspiration
+to a model of technique, the emphasis is on providing a
+base from which a player can search for an individually
+appropriate movement solution. As Passos, Araújo, Davids, &
+Shuttleworth (2008) state, coaches can use verbal feedback
+as a task constraint which; “…should aim to get players into a
+‘ball park’ area of movement solutions from which they need
+to practise finding a functional ‘emergent’ action…”.
+To restate the purpose of this paper, the intention is to provide
+some practical examples of using an ecological dynamics
+approach to help build adaptive movement solutions among
+players when coaching the tennis serve. As a final thought, it
+is recommended that coaches aspiring to use an ecological
+approach in their coaching should appreciate the value of
+conveying the associated benefits to the athlete-client and
+promoting performer understanding (Cruickshank, 2025).
+Among the potential drawbacks of the CLA is the resistance
+that may be experienced from players who express a desire
+for technical information and have expectations of movement
+prescription when attending a coaching session. This presents
+a challenge for the coach, and delicate management of the
+coach-player relationship to satisfy clients’ wishes but also
+create buy-in that leads to enthusiasm for tasks and exercises,
+optimising the potential for improvement.
+DECLARATION OF CONFLICT OF INTEREST AND FUNDING
+The author declares that he is not aware of any conflict of
+interest in writing this article and that he has not received any
+funding for this study.

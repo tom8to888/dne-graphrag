@@ -1,0 +1,162 @@
+Title: Using inertial sensors to monitor on-court tennis training sessions
+Authors: Cyril Genevois, Christel Amsallem, Cédric Brandli, Isabelle Rogowski
+Year: 2018
+Issue: Vol. 26 No. 75 (2018)
+Article id: 250
+
+www.itfcoachingreview.com
+Aug 2018, 26th Year, Issue 75. 24-26
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i75.250
+
+Using inertial sensors to monitor on-court
+tennis training sessions
+Cyril Genevois, Christel Amsallem, Cédric Brandli and Isabelle Rogowski
+
+ABSTRACT
+
+Technological innovation provides coaches with practical tools that allow them
+to have more information about a player’s activity during training and
+competition. This article presents a study using inertial sensors integrated into
+a wristband to quantify the different types of shots hit by players during one
+pre-season training week and to compare them with competition demands.
+
+Key words: training
+monitoring, connected device,
+injury prevention
+Received: 27 June 2018
+Acepted: 10 July 2018
+Corresponding author:
+Cyril Genevois.
+Email: Cyril.genevois@aol.fr
+
+INTRODUCTION
+Training load management and its relation to injury risk has
+become an important point of interest for sport scientists in
+recent years (Soligard et al, 2016). More specifically, in tennis,
+it has been advocated that it is not the load itself but an
+inappropriate transition to a higher load, called the “road to
+load” that causes injuries (Pluim and Drew, 2016; Rogowski et
+al., 2016). Recently, it has been shown that upper arm injuries
+and in-event treatment frequency increased by ≥2.4 times in
+both sexes at the Australian Open Grand Slam over a 5-year
+period (Gesheit et al., 2017). These kinds of injuries are a direct
+result of the mechanical loads imposed on the musculoskeletal
+system (especially the serve) and it is suggested that some
+measure of ball striking be considered to feature in an upper
+limb/body exposure (Reid et al., 2018). Moreover, studies have
+shown some differences between junior and senior tennis
+players regarding the number of strokes hit during matches
+that coaches have to consider when planning training sessions,
+in order to match the demands of competition (Myers et al.,
+2016; Kovalchik et al., 2017; Perri et al., 2018). To quantify shot
+counts, coaches can use inertial sensors that are non-invasive,
+portable and able to discriminate between tennis strokes
+(Whiteside et al., 2017).
+
+The goal of this study was to quantify the number of strokes
+and the hitting intensities (rate of strokes per minute)
+performed by junior male players during their on-court
+sessions over one week using inertial sensors. This training
+week took place in the preseason period aiming at preparing
+specifically the players to the upcoming tournaments and the
+subsequent analysis of data was used to provide coaches with
+information regarding the potential gap between the content
+of on-court sessions and competition demands.
+
+METHOD
+Five on-court tennis sessions data of 14 junior male players
+(age: 15.4 ± 2.0 years, ranging from 13 to 19 years old, height:
+172.8 ± 9.9 cm, weight: 60.0 ± 10.2 kg, years of experience: 9.7
+± 3.1 years, weekly training: 12.0 ± 2.5 hours, International
+Tennis Number = 3) were analysed using a sensor-packed
+smart wearable wristband on the dominant hand (Babolat Pop)
+(Figure 1). The player’s activity was tracked during the tennis
+session and the information was sent wirelessly to a mobile
+device to be broken down stroke by stroke.
+
+The total number of shots and the number of shots per minute
+were calculated for the full group. The descriptive analysis
+included average and standard deviation for serves, forehands,
+and backhands for the five sessions. Correlations between age
+and number of shots were also calculated. Finally, outcomes
+between shot types in the same session were compared using
+Student’s
+
+t-tests for paired samples with α set at 0.05. All statistical
+analyses were performed using SPSS 11.0 software (SPSS, Inc.,
+Chicago, IL, USA).
+
+RESULTS
+Figure 2 shows the average distribution of forehands,
+backhands and serves hit during each of the five tennis sessions
+for the full group.
+
+On average, the duration of a tennis session was 87.0 ± 32.3
+minutes in which players hit 291.1 ± 150.5 forehands, 198.1 ±
+100.6 backhands, and 53.5 ± 33.7 serves. The average weekly
+number of forehand shots was significantly higher than that of
+backhand shots (p<0.05). Both average weekly number of
+forehand and
+
+backhand shots were both significantly higher than that of
+serves (p<0.05). There were no correlations between the age
+and the number of shots hit over the five training sessions.
+
+DISCUSSION
+The main finding is that there is a large disparity between the
+average numbers of serves, forehands and backhands hit in
+each session. The average forehand/backhand ratio in our
+study is 1.58 ± 0.64, which is higher than 1.24 ± 0.37 found for
+professional male players in competition (Reid et al, 2016). If
+the overemphasis on forehand shots seems to be a feature of
+the modern game, it should not be to the detriment of the
+improvement of backhand shots. Indeed, a study revealed that
+forehands are associated with a greater number of points won,
+while more points are lost with backhands played as the final
+shot (Cam et al., 2013). It could be argued that these results are
+unsurprising if one shot is played (or practiced) more than the
+other. Moreover, the average external load of training seems
+not to match the demands of competition which may be the
+goal in the pre-season. The hitting intensities (strokes/min) of
+groundstroke shots range from 4,3 ± 0,6 up to 6,8 ± 1,6 and
+are lower than those observed by Murphy et al. (2016) for
+training session (7 ± 1.0), simulated match play (10 ± 5.1) and
+tournament (14 ± 3.6). This difference could be due to longer
+rest time and/or a more technical/tactical focus.
+
+Regarding the average number of serves, it was lower than the
+120 serves proposed by Myers et al. (2016). Our results are
+similar to those of Perry et al. (2018) who observed that the
+number of serves during training session was significantly
+lower than that of competition for U15 male players (38.6 ±
+24.2 vs 82.0 ± 24.8). Because tournament schedules for junior
+players are often condensed, the players may be required to
+play several matches in few days with a number of total serves
+that exceeds that of their current training week. This difference
+in volume of serves in competition compared to training
+suggests that coaches should better plan training serve loads
+(volume and intensity) to match competition to ensure a
+reduction in injury risk from inadequate exposure. Different
+recommendations may be implemented during training
+sessions to both improve serving efficiency and decrease the
+risk of overload shoulder injury. Firstly, the volume and the
+intensity of serves should be variable from session to session
+to allow tissue regeneration and should be planned with
+intervals simulating the real game (Myers et al, 2016). Secondly
+other training modalities, as motor imagery (Guillot et al, 2012)
+or physical training (Fernandez-Fernandez et al, 2013), have
+been shown to be effective in improving serving performance
+with junior players and could be combined with a decreased
+serve volume. Finally, it is also important to limit the imbalances
+in strength and range of motion between internal and external
+rotators by following a regular injury prevention program.
+
+CONCLUSION
+The inertial sensor is a practical tool allowing coaches to
+analyse relevant information about the number and rate of
+strokes. It can help them to better prescribe sessions according
+to the goals of the different training periods. Future
+longitudinal studies are warranted to establish references
+concerning the optimal number of strokes for performance
+improvement without increasing risk of injury.

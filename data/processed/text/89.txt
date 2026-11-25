@@ -1,0 +1,373 @@
+Title: ITF report: The state of the game 2018
+Authors: Jamie Capel-Davies, James Spurr
+Year: 2019
+Issue: Vol. 27 No. 78 (2019)
+Article id: 89
+
+www.itfcoachingreview.com
+August 2019. 27th Year. Issue 78. 19-24
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i78.89
+
+ITF report: The state of the game 2018
+Jamie Capel-Davies a & James Spurr a
+a Tennis Development, Integrity and Development Department, International Tennis Federation, London,
+UK.
+
+ABSTRACT
+
+In order to fulfil its mission of protecting the nature of tennis and encouraging innovation
+and improvements, the ITF Technical Centre quantifies the parameters that describe the
+essence of the sport at the elite level, and thus constitute ‘the state of the game’. This
+annual report aims to establish how players, their equipment and the interaction between
+them are changing over time, to analyse the impact of these changes on the game and to
+contemplate the merits of any necessary counter-measures. Point length is a key metric
+of the nature of the game. Too many short points is generally considered unattractive.
+Low serve returnability can lead to short points, therefore serve returnability should be
+monitored and understood. Serve returnability is strongly dependent on post-bounce
+speed, serve angle and the proximity of the bounce to the centre serviceline or sideline.
+Taller players typically serve faster than shorter players and therefore generate higher
+post-bounce speeds, lower returnability serves and consequently more short points. The
+higher post-bounce speed of serves by these players can be reduced, increasing their
+returnability, by using a slower court and/or larger ball. A warning indicator signalling an
+excessive number of short points could be used to determine when regulation of
+equipment might be used to counteract the rise of shorter points. A more radical response
+would be to make the service-box narrower to increase the returnability of serves
+without impacting the speed of subsequent shots.
+
+Key words:  elite tennis,
+technical, notational analysis.
+Received: 13 June 2019
+Accepted: 19 July 2019
+Corresponding author: Jamie
+Capel-Davies, ITF Bank
+Lane, Roehampton, London
+SW5XYZ, Great Britain. Email:
+technical@itftennis.com
+
+INTRODUCTION
+In order to fulfil its mission of protecting the nature of tennis
+and encouraging innovation and improvements, the ITF
+Technical Centre quantifies the parameters that describe the
+essence of the sport at the elite level, and thus constitute ‘the
+state of the game’. This annual report aims to establish how
+players, their equipment and the interaction between them
+are changing over time, to analyse the impact of these changes
+on the game and to contemplate the merits of any necessary
+counter-measures.
+The following quotes were made two decades ago, but remain
+relevant and contextualise the purpose of the state of the
+game report:
+“I think you have to look at what it will be like in 10 years
+down the road. I have seen some statistics that say that in one
+big final last year 54% of the points finished after the first two
+strokes. I don’t think there’s anything pretty to look at there.”
+- Ivan Lendl
+“The big guys have an edge… We should not be frightened of
+changing the rules if it developed so that 90% of the top 50
+
+were more than 6’6’’ (198 cm) and that finesse was being lost.”
+- John Newcombe
+The following four metrics are believed to be key
+characteristics of the game that appeal to spectators and
+influence players’ satisfaction and enjoyment:
+
+Point length is measured by the number of shots in a
+point. A match that consists mainly of very short points is
+undesirable as it risks being reduced to a serving contest.
+Conversely, a match that consists of too many very long
+points can become tedious. Point length is dependent on
+serve dominance, the players’ (relative) ability and
+tactics, and ball speed.
+
+Point quality is defined by the ‘style’ of play, which
+includes the location of the players on the court (i.e.
+proximity to the net or baseline and sidelines), shot
+selection and frequency of winners and errors.
+
+
+Set length is measured by the number of points in a set
+and is dependent on the number of points in a game and
+games in a set. If the serve is dominant, then points and
+games will be short but there will tend be more games in
+the set since neither player can break serve. If one player
+is significantly superior, both the games and sets will be
+short.
+
+Set quality is determined by the proportion of important
+points in the set (i.e. those points that strongly affect the
+outcome of the match). For example, break points are
+typically important points. Hence, set quality is also
+dependent on serve dominance and the relative ability of
+the players.
+This report focuses on point length, examining the factors that
+influence point length, how they are changing over time and
+how they might be regulated if deemed necessary.
+
+POINT LENGTH
+Point length is dependent on serve dominance. At the
+extreme, a winning serve has a point length of one. Successful
+serve and volleying has a point length of three. There is an
+inverse relationship between the length of a point and the
+impact of the serve on the outcome, as shown in figure 1.
+Understanding the returnability of a serve (defined as the
+probability it will be successfully returned ‘in’) enables the
+prediction of point length.
+
+Figure 1. Percentage of points won by the server against point
+length in selected Davis Cup matches. Dotted trendline is a
+moving average of two periods.
+
+Serve returnability
+Nearly 40,000 men’s serves from Davis Cup matches played
+on acrylic and grass courts in the past seven years were
+analysed to identify the critical determinants of their
+returnability1. The serves were clustered into 80 groups of
+similar characteristics, based on 305 trajectory features (e.g.
+height of impact, initial speed). This method created a
+continuum of serve returnability (from the binary ‘returned’
+or ‘unreturned’ outcomes). In doing so, the factors associated
+with high/low returnability could be isolated. Figure 2 shows
+the returnability of each cluster. The cluster returnability
+scores ranged from 22% (i.e. the types of serves in this cluster
+had a low probability of being returned) to 88%.
+
+Figure 2. Returnability scores for each of the 40 serve clusters
+for the deuce court (green) and advantage court (yellow).
+Figure 3. Returnability scores for each of the 80 serve clusters
+against post-bounce speed.
+
+1 The same analysis will be applied to women’s serves in the
+Fed Cup.
+
+Three key factors were identified using regression analysis:
+serve angle (i.e. the angle between direction of the serve and
+the position of the receiver), proximity of the ball bounce
+location to a long line (sideline or centre serviceline), and postbounce ball speed. Figure 3 shows a negative linear
+correlation between post-bounce speed and returnability: as
+post-bounce
+speed
+increases
+by
+1 km/h
+returnability
+decreases by almost 1%. Above a post-bounce speed of
+110 km/h, the returnability score tends to be below 50%. A
+receiver facing a serve with a high post-bounce speed has less
+time to respond and must control the speed of the incoming
+ball. Several variables can contribute to a higher post-bounce
+speed, including a greater serve speed, a smaller ball (which
+generates less drag) and a faster court pace rating (CPR). A
+1 km/h change in post-bounce speed is equivalent to around
+2 CPR points.
+
+Figure 4. Returnability scores for each of the 80 serve clusters
+against serve angle.
+
+Figure 5. Returnability scores for each of the 80 serve clusters
+against proximity of the impact to the centre serviceline.
+Figure 4 shows a non-linear relationship between serve angle
+and returnability. A receiver facing a serve with a higher serve
+angle has further to travel to reach the ball (and therefore less
+time to play their shot). Below a serve angle of approximately
+3 degrees, there is not a strong effect of serve angle on
+returnability,
+but
+above
+3 degrees
+the
+decrease
+in
+returnability is sharp. Above 5.5 degrees, the returnability
+score tends to be below 50%. Figure 5 shows a non-linear
+relationship between proximity of the bounce location to a
+long line and returnability. Returnability is lower when the ball
+lands close to a long line (within 40 cm). Receivers typically
+stand near to the midpoint of the advantage or deuce courts.
+Therefore, they have less time to play their return when the
+serve bounces close to centre serviceline or the sideline. Wide
+serves will typically have a larger serve angle and land close to
+the
+sideline,
+making
+them
+lower-returnability
+serves
+(provided they are not too slow).
+When a server exploits all three critical determinants, serves
+have very low returnability. ‘Super-serves’ had a post-bounce
+speed of at least 110 km/h, a serve angle of at least
+5.5 degrees and proximity to the centre serviceline of 40 cm,
+or less. These serves had a returnability of 20%, or one in five
+serves, which is enough to comfortably win a service game if
+produced consistently.
+
+Player analysis
+Figure 6 shows a positive linear correlation between first
+serve speed and player height. Taller players typically have a
+greater arm span, which produces a higher racket head speed
+(for a constant swing speed), and consequently a faster serve.
+Figure 7 shows a positive linear correlation between postbounce speed and player height: faster serves, from taller
+players, result in high post-bounce speeds. Although serve
+speed cannot be moderated, post-bounce speed can be
+reduced through use of a larger ball and/or slower surface.
+Figure 6. Average first serve speed against player height.
+
+Figure 9. Individual heights of the top 50 women (red) and men
+(blue) in 2002 and 2018.
+
+Figure 7. Average post-bounce speed against player height.
+
+Figure 8 shows that the average heights of the top 50 women
+and men have increased since 2002, by 2 cm and 3 cm
+respectively. This increase in the average height of the men
+was due to the number of players over 200 cm tall who are
+currently active (prior to 2007 there were none) and a general
+increase in height across all 50 players (see figure 9). In 2002,
+women in the top 50 were 12 cm shorter, on average, than
+their male counterparts. This difference has remained
+reasonably consistent and is now 13 cm. The tallest woman in
+the current top 50 is the same height as the average height of
+the top 50 men (188 cm).
+
+Figure 8. Average height of the top 50 women (red) and men
+(blue).
+
+To summarise, taller players have an advantage over shorter
+players, because their additional height enables them to serve
+faster, and several of them have made it into the men’s top 50
+(possibly because of this edge). Player height cannot be
+capped, but the associated advantage of serve speed can
+potentially be attenuated by making changes to reduce postbounce speed. Shorter players are less likely to be affected by
+these changes as they tend to serve slower in the first place.
+
+Longitudinal analysis
+The Grand Slam tournaments are a valuable gauge for
+assessing longitudinal changes in the sport as they have
+consistently strong draws, include a variety of surface types
+(with differing court pace) and inform many people’s view of
+the game due to their high profile. Analysis of shot
+returnability and point lengths in these competitions is not
+currently possible due to a lack of data. In the absence of
+those data, other metrics, such as ace rates and serve points
+won, are used as proxies.
+Figure 10 shows that, with the exception of the Australian
+Open, the incidence of aces has been stable at the Grand
+Slams. Higher
+ace
+rates
+contribute
+to
+lower
+serve
+returnability. The ace rates at Wimbledon have been roughly
+double those at Roland Garros. This demonstrates the
+influence of the speed of the court, as grass has the highest
+CPR of the Grand Slam surfaces and clay the lowest.
+Throughout the period analysed, men served aces at twice the
+rate of women. This would suggest that points were generally
+shorter at Wimbledon than at Roland Garros and that men’s
+points were shorter than women’s points.
+Figure 10. Percentage of aces per serve in Grand Slam singles
+matches.
+Fi
+fastest
+
+Figure 14. Percentage of short (less than 4 shots), medium (48 shots) and long (more than 8 shots) points played by men in
+selected ties in Davis Cup.
+
+Figure 11. Average serve speed for the fastest 20 servers in
+Grand Slam singles matches.
+
+Analysis of serve speeds at the Grand Slam events shows that
+the fastest serves of the top 20 fastest-serving men and
+women have increased since 2002 (see figure 11). However,
+most of this increase was between 2002 and 2005. Over the
+past decade, the top 20 fastest serving men served, on
+average, at 215 km/h and the women at 185 km/h.
+
+ Figure 12. Percentage of points won on serve in Grand Slam
+singles matches.
+
+Figure 13. Percentage of games broken in Grand Slam
+singles matches.
+Figure 12 shows that points won by the server is generally
+increasing over time and is highest at Wimbledon. It is
+therefore likely that returnability of serves at Wimbledon is
+lowest too (as indicated by the high ace rate). Remarkably,
+although the aces served at Roland Garros were less frequent
+(figure 10), the serve points won have been comparable to
+those at the US Open. Serve points won at the Australian
+Open have been gradually increasing for both men and
+women. One explanation for this trend could be a change in
+court pace over time, but this has not been verified. Figure 13
+shows the percentage of service games broken each year, the
+decreasing trend in which is largely the inverse of serve points
+won. The serve has been less dominant in the women’s game
+than it has been in the men’s game. If serve returnability is
+low, the frequency of games broken is typically low. In the past
+10 years, the average percentage of games broken in men’s
+matches has been less than 25% at all of the Grand Slams and
+below 20% at Wimbledon.
+
+Figure 15. Percentage of short (less than 4 shots), medium (48 shots) and long (more than 8 shots) points played by women
+in selected ties in Fed Cup.
+
+Figure 14 shows that typically more than half of points in the
+selected Davis Cup ties were ‘short’ (less than 4 shots) and
+just over 10% were ‘long’ (more than 8 shots). In the Fed Cup
+there were fewer short points and more ‘medium-length’
+points (4-8 shots), as illustrated in figure 15. This is consistent
+with the predicted difference in point length between men
+and women for the Grand Slams. There was no identifiable
+trend of increasing or decreasing point length in the past 8
+years in either competition. If it were to be agreed that short
+points are undesirable, it would be possible to establish a
+warning indicator at a particular level. For example, if the
+proportion of short points were to exceed that level in
+consecutive years, then action could be taken to reduce the
+incidence of short points. For instance, regulation could be
+introduced to increase the returnability of the serve. This
+could include use of slower court surfaces and/or larger balls.
+Alternatively, the size of the service box could be reduced by
+the creation of ‘side servicelines’ (see figure 16). This
+modification is more radical but would target the returnability
+of serves only and not affect other shots (which would be
+impacted if ball size was increased).
+
+Figure 16. Court markings with the introduction of side
+service lines, which are on each side of the centre serviceline
+and run parallel to it 7.43 m apart from one another.
+CONCLUSION
+Point length is a key metric of the nature of the game. Too
+many short points is generally considered unattractive. Low
+serve returnability can lead to short points, therefore serve
+returnability should be monitored and understood. Serve
+returnability is strongly dependent on post-bounce speed,
+serve angle and the proximity of the bounce to the centre
+serviceline or sideline. Taller players typically serve faster
+than shorter players and therefore generate higher postbounce speeds, lower returnability serves and consequently
+more short points. The higher post-bounce speed of serves by
+these players can be reduced, increasing their returnability, by
+using a slower court and/or larger ball. A warning indicator
+signalling an excessive number of short points could be used
+to determine when regulation of equipment might be used to
+counteract the rise of shorter points. A more radical response
+would be to make the service-box narrower to increase the
+returnability of serves without impacting the speed of
+subsequent shots.
+
+Copyright (c) 2019 Jamie Capel-Davies & James Spurr
+
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any
+medium or format – and Adapt the content - remix, transform, and
+build upon the material for any purpose, even commercially under
+the following terms:
+Attribution: You must give appropriate credit, provide a link to
+the license, and indicate if changes were made. You may do so in
+any reasonable manner, but not in any way that suggests the
+licensor endorses you or your use.
+CC BY 4.0 license terms summary       CC BY 4.0 license terms
+
+8.23 m

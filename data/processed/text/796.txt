@@ -1,0 +1,529 @@
+Title: Advances in wheelchair tennis: a literature review
+Authors: Chencheng Xu, Manrique Rodríguez-Campos, Fernando Vives, Ana Piquer-Piquer
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 796
+
+Introduction
+Wheelchair tennis began in the mid-1970s, when
+Brad Parks started experimenting with tennis from a
+wheelchair after a skiing accident left him paraplegic
+(Paralympic, 2012). By the 1980s, wheelchair tennis
+had spread beyond the United States and was
+being promoted through clinics, exhibitions, and
+tournaments in other regions. The International
+Wheelchair Tennis Federation was formed in the
+late 1980s, and the sport was later integrated into
+the International Tennis Federation in 1998 (Lockie,
+2026). Wheelchair tennis became a full medal sport at
+the Paralympic Games in Barcelona in 1992. Over time,
+it was also added to all four Grand Slam tournaments,
+with Roland Garros becoming the last to integrate
+wheelchair events in 2007 (Paralympic, 2012). Today,
+it is a global sport with more than 160 tournaments
+across more than 40 countries.
+Scientific consensus demonstrates that wheelchair
+tennis is far from being just "tennis in a chair." It is
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 64-69
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.796
+Advances in wheelchair tennis: A literature review
+Chencheng Xu, Manrique Rodríguez-Campos, Fernando Vives and Ana
+Piquer-Piquer
+University of Valencia, Spain.
+Abstract
+This literature review synthesizes recent scientific evidence (2016–2026) regarding elite performance
+and training in wheelchair tennis. By systematically analyzing peer-reviewed experimental studies, it
+examines the sport's competitive evolution, characterized by increased point duration, shot frequency,
+and intermittent high-intensity demands. Results highlight the significant influence of court surfaces
+on tactical requirements and the critical role of trunk function as the primary determinant of mobility,
+acceleration, and hitting power. Beyond physical conditioning, this review integrates emerging
+evidence on neurocognitive efficiency, emphasizing core executive functions like inhibitory control,
+and the necessity of a socio-environmental paradigm shift. Furthermore, the effectiveness of targeted
+interventions, such as High-Intensity Interval Training (HIIT) and specialized strength circuit models, is
+demonstrated for optimizing athletes' metabolic and musculoskeletal capacities. The study concludes
+with practical guidelines for coaches, focusing on task design specificity and wheelchair configuration
+optimization to improve overall player performance. By combining task-specific conditioning, wheelchair
+configuration optimization, and psychosocial interventions, practitioners can foster resilience and
+improve overall performance in this complex, evolving sport.
+Key words: wheelchair tennis, match performance, training interventions, literature review.
+Received: 29 June 2026. Accepted: 12 August  2026.
+Corresponding author: ana.piquer@uv.es
+a highly complex sport where performance relies
+on the continuous interaction between the athlete,
+propulsion mechanics, equipment, and the court
+surface. Furthermore, wheelchair tennis follows tennis
+rules with one key adjustment: players may let the ball
+bounce twice, but must return it before a third bounce,
+and the second bounce can be inside or outside the
+court. At the serve, the player must be stationary
+before striking the ball, though one wheelchair push
+is allowed before contact (Paralympic, 2012).
+Recent research has focused on understanding
+the
+complex
+physiological,
+biomechanical,
+and
+tactical demands inherent to elite wheelchair tennis
+performance. Match analysis reveals that the game
+is highly intermittent, characterized by an effective
+playing time of merely 20% and a work-to-rest ratio of
+1:4.12 (meaning one unit of active play time for every
+4.12 units of rest time), with physical and movement
+demands changing drastically depending on the
+playing surface (Sánchez-Pay & Sanz-Rivas, 2020). In
+this context, equipment optimization plays a crucial
+Methods
+Design and Search Strategy
+A structured literature review was conducted in
+June 2026 to synthesize recent evidence regarding
+performance and training in wheelchair tennis. The
+search was carried out using Google Scholar, restricting
+results to peer-reviewed articles and experimental
+studies published between January 2016 and June
+2026, in terms of adding new information to previous
+reviews in wheelchair tennis (Villaplana-Velasco &
+Fuentes-García, 2015). To ensure a comprehensive
+identification of relevant literature, the following
+search string was utilized: [allintitle: "wheelchair
+tennis" (performance OR training OR competition
+OR match OR elite OR paralympic) -"table tennis"
+-"review"].
+Google Scholar was selected as the search database
+due to its broad interdisciplinary coverage and
+high search sensitivity, which are advantageous for
+capturing relevant literature in wheelchair tennis
+research. Furthermore, its open-access nature and
+user-friendly interface facilitate the reproducibility of
+the search strategy and allow practitioners, including
+coaches, to replicate the search by copying the search
+string.
+Inclusion and Exclusion Criteria
+To align with the practical purpose of this synthesis,
+studies were selected based on the following criteria:
+•	 Inclusion: Peer-reviewed original research and
+experimental designs focused on wheelchair
+tennis (singles or doubles) at recreational or
+professional levels; studies examining match/
+competition demands, physiological profiles,
+biomechanics, or specific training interventions;
+and publications written in English or Spanish.
+•	 Exclusion:
+Documented
+literature
+reviews,
+validation
+studies,
+social
+or
+psychological
+programs
+unrelated
+to
+physical/tactical
+performance, and studies published prior to 2016.
+Screening and Data Synthesis
+Records were retrieved and were independently
+screened by two authors based on titles and abstracts
+against the pre-defined eligibility criteria. Full texts
+of potentially eligible articles were retrieved and
+further evaluated by both reviewers to confirm their
+inclusion. Any discrepancies during the selection
+process were resolved through discussion and mutual
+consensus with the other authors. To enhance the
+rigor and transparency of the review process, all
+screening decisions were documented and maintained
+in a dedicated spreadsheet to ensure transparency
+and to allow for auditing of the selection process. The
+full-text retrieval and data extraction procedures were
+role; specific wheelchair modifications, such as those
+adapted for grass courts, directly enhance a player's
+speed, safety, and overall competitive outcomes.
+Furthermore, regarding physical performance, recent
+research suggests that accumulated experience in
+wheelchair handling directly impacts agility and
+sprinting capabilities, sometimes proving to be a
+more decisive factor than the player's actual ranking
+(Williamson et al., 2024).
+Beyond the physical environment, contemporary
+sports science emphasizes the need to evaluate
+wheelchair tennis through a holistic lens that
+integrates socio-environmental and neurocognitive
+paradigms (Leale et al., 2025). From a socioenvironmental
+perspective,
+athletes
+often
+face
+systemic barriers and ableist ideologies that restrict
+athletic development, leading current researchers to
+advocate for the human rights model of disability,
+a framework derived from the United Nations
+Convention on the Rights of Persons with Disabilities
+(CRPD) that promotes equity and integration based
+on ability level rather than disability status (Altomare
+et al., 2026). Concurrently, as an open-skill sport,
+wheelchair tennis demands extreme neurocognitive
+efficiency where elite performance relies heavily
+on core executive functions—specifically inhibitory
+control, working memory, and cognitive flexibility to
+manage real-time tactical adjustments and suppress
+emotional impulses under intense spatio-temporal
+constraints (Di Muccio & Grossenbacher, 2026).
+This neurocognitive load is deeply intertwined
+with the intermittent, high-intensity nature of the
+sport, where players cover almost 4 kilometres per
+match at an average intensity of 75% of their peak
+heart rate (Williamson et al., 2024). To optimize
+training conditioning for these specific metabolic
+and mechanical demands, integrated programming
+utilizing High-Intensity Interval Training (HIIT) and
+specialized strength circuit models has emerged as
+a crucial methodology. Targeted HIIT interventions,
+which encompass multi-directional accelerations
+and reactive agility drills performed with the racket
+in hand, have proven highly effective in concurrently
+enhancing
+cardiorespiratory
+fitness,
+upper-body
+musculoskeletal strength, and sport-specific agility
+(Yulianto et al., 2024).
+Since the bibliographic review from Villaplana-Velasco
+& Fuentes-García (2015), there is a need to synthesize
+the most recent scientific evidence on performance
+and training in wheelchair tennis to optimize practical
+interventions. Consequently, the aim of this study
+is to compile and analyse recent scientific literature
+to identify the key factors influencing athlete
+performance, with particular emphasis on their direct
+implications for the design of training programs.
+Influence of Court Surface
+The playing surface modulates the external load
+and tactical approach. Hard courts involve the
+highest external load, characterized by longer match
+durations and a greater number of strokes (SánchezPay
+&
+Sanz-Rivas,
+2021b).
+However,
+research
+indicates that matches lasting less than 90 minutes
+do not induce significant neuromuscular fatigue or
+performance decrements (Ponzano & Gollin, 2017a).
+Notably, playing on hard courts provides an acute
+coordinative stimulus that significantly improves
+non-linear sprinting speed (by approximately 2%)
+immediately post-match (Ponzano & Gollin, 2017a).
+In contrast, while clay courts require greater technical
+mastery to manage friction, they do not produce
+similar post-match speed gains (Ponzano & Gollin,
+2017a). Tactically, grass courts favor aggressive play,
+characterized by a higher frequency of aces and netbased shots such as volleys (Sánchez-Pay & SanzRivas, 2021b).
+Mobility, Trunk Function, and Biomechanics
+Wheelchair mobility performance is defined by six
+main components: four rotational (curves and turns
+to both racket and non-racket sides) and two linear
+(velocity and acceleration) (Rietveld et al., 2023). Trunk
+function has been identified as the core of mobility,
+serving as a stronger predictor of acceleration and
+rotational speed than isolated arm strength (van der
+Slikke et al., 2026). Athletes with full trunk control
+achieve significantly higher maximal speeds (4.1 m/s)
+compared to those with no functional trunk control
+(3.2 m/s) (van der Slikke et al., 2026). Furthermore,
+the use of a racket during propulsion reduces maximal
+speed by 5.3% and alters trunk kinematics (van der
+Slikke et al., 2026).
+Biomechanically, elite serve performance relies
+on
+specialized
+neuromuscular
+coordination.
+Electromyographic analysis shows that Paralympic
+champions possess more refined muscle synergies,
+four compared to three in sub-elite players, specifically
+utilizing a synergy in the early takeback phase
+(involving the lower trapezius and triceps brachii) to
+optimize trunk rotation and energy transfer (Hakariya
+et al., 2026).
+Effectiveness of Training Interventions
+Targeted training programs have proven highly
+effective in enhancing sport-specific capabilities.
+In terms of muscular strength training, Azeez &
+Majeed (2022) proved that twelve weeks significantly
+improved arm endurance and speed. Also, upper limb
+overload training (2 sessions/week for 2 months) has
+been shown to improve service response times by 42%
+(Salierno et al., 2021). Additionally, the use of rubber
+also conducted independently, with cross-checking
+performed to verify the accuracy of the extracted
+information. Data concerning study purpose, sample
+characteristics, and practical outcomes were then
+extracted to provide evidence-based guidelines for
+tennis coaches.
+Results
+The initial literature search yielded a total of 47
+records. After examining the titles and abstracts and
+assessing the full articles according to the eligibility
+criteria, a final selection of 17 peer-reviewed studies
+was included for this evidence synthesis. The included
+articles covered a broad methodological spectrum to
+provide a structured and comprehensive overview for
+tennis coaches and sports scientists. The extracted
+evidence has been categorized into four thematic
+areas: (1) competitive evolution and activity profiles,
+(2) tactical and physical influence of court surfaces,
+(3) mobility, trunk function, and biomechanical
+parameters, and (4) effectiveness of specific training
+interventions.
+ Competitive Evolution and Activity Profiles
+Professional wheelchair tennis has undergone a
+significant evolution in its physical and technical
+demands. Longitudinal analysis of Paralympic Games
+from Athens 2004 to Rio 2016 reveals that point
+duration has increased from 7.4 s to approximately 9 s,
+with a corresponding increase in shots per rally from
+3.5 to 4.5 (Sánchez-Pay & Sanz-Rivas, 2021a). Match
+play is characterized by intermittent, multidirectional
+activity, typically lasting between 50 and 80 minutes
+(Sánchez-Pay & Sanz-Rivas, 2021b).
+Activity profiles vary significantly across divisions.
+Physical performance measures (speed, distance,
+and acceleration) are generally highest in the Men’s
+division, followed by Women and Quads (Mason et
+al., 2020). Elite male players demonstrate a "vigorous
+lifestyle" during competition, with total energy
+expenditure ranging from 3,118 to 3,368 kcal/day and
+physical activity levels between 2.0 and 2.2 (Ellis et al.,
+2023). During match play, heart rates average 125 ± 7
+bpm, rarely exceeding 140 bpm, indicating a moderate
+cardiovascular demand relative to other wheelchair
+sports (Ponzano & Gollin, 2017b). While match result
+has a minimal effect on physical activity, losing
+players tend to perform more high-speed activity to
+stay in rallies, and score margins significantly impact
+intensity, sets with a small score margin (≤ 3 games)
+elicit higher physical demands (Mason et al., 2020).
+Successful performance is further distinguished by
+technical efficiency, as winners commit fewer unforced
+errors and achieve higher effectiveness in serving and
+returning (Sánchez-Pay et al., 2017).
+•	 Optimizing Mobility: Given that trunk function
+serves as the core driver of acceleration and
+rotational
+speed,
+coaches
+must
+prioritize
+individualized
+wheelchair
+configurations.
+Adjustments such as backrest height and strapping
+should be optimized to maximize trunk stability
+and rotation, which are stronger predictors of
+performance than isolated arm strength (van der
+Slikke et al., 2026).
+•	 Training with the Racket: Research indicates
+that the presence of the racket reduces maximal
+propulsion speed by 5.3% and significantly alters
+trunk kinematics. Consequently, all agility and
+sprint-specific conditioning should be conducted
+with the racket in hand to ensure athletes adapt
+to the specific technical constraints of match play
+(van der Slikke et al., 2026).
+•	 Integrative HIIT and Strength: Programming
+should
+incorporate
+High-Intensity
+Interval
+Training (HIIT) sessions of 10–30 minutes to
+improve reactive agility. Furthermore, upperbody overload training performed at least twice
+weekly has been demonstrated to enhance
+explosive response times, particularly beneficial
+for defending against powerful serves (Yulianto et
+al., 2024; Salierno et al., 2021).
+•	 Holistic Development: Training should extend
+beyond
+physical
+conditioning
+to
+include
+psychosocial components. Structured programs,
+such as 8-week developmental protocols, have
+been shown to enhance sportive character, moral
+attitudes, and resilience, which are critical factors
+for sustained high-performance and ethical
+decision-making in competitive environments
+(Şahinler et al., 2026).
+Conclusion
+This literature review concludes that modern
+wheelchair tennis has evolved into a highly complex,
+intermittent
+sport,
+characterized
+by
+increasing
+competitive demands, with point durations extending
+to approximately 9 seconds and rally frequencies
+reaching 4.5 strokes. Elite performance relies on a
+sophisticated synergy between physical conditioning
+and neurocognitive efficiency; trunk control serves
+as the primary driver of mobility—proving more
+predictive of acceleration and rotational speed than
+isolated arm strength—while executive functions,
+such as inhibitory control, are essential for tactical
+decision-making under pressure.
+Furthermore, the sport’s environment exerts a
+decisive influence, as surface characteristics modulate
+physical exertion and tactical requirements. Notably,
+practitioners must account for the mechanical
+constraints of the sport, such as the 5.3% reduction
+in maximal swing speed caused by holding the racket,
+and the human rights-based framework that promotes
+equitable
+athletic
+development.
+Consequently,
+training must go beyond basic physical conditioning.
+ropes with variable resistance improves the speed of
+the striking arm joints during the serve (Mahdi, 2021).
+Regarding cardiovascular responses, High-Intensity
+Interval Training (HIIT) specific programming (with
+only 10–30-minute sessions) effectively increased
+reactive agility (Yulianto et al., 2024). Agility training
+models
+incorporating
+manoeuvres
+and
+zigzags
+improve change-of-direction speed (Mohammad et
+al., 2024), while 8 weeks of general mobility training
+can enhance 20m sprint performance by 11.5%
+(Rangarajan & Elumalai, 2020).
+Beyond physical gains, training programs also
+empowered psychosocial state development, with
+an 8-week structured training program significantly
+enhancing the sportive character and moral attitudes
+of players, fostering fair play and resilience (Şahinler
+et al., 2026).
+Practical Applications for Coaches
+Based on current evidence-based findings, the
+following guidelines are recommended for optimizing
+wheelchair tennis training:
+•	 Drill Design and Simulation: Training tasks must
+replicate modern competitive demands to ensure
+transferability. Drills should be structured around
+sequences lasting approximately 9 seconds,
+incorporating an average of 4 to 5 shots per rally.
+This specific structure mirrors current elite match
+patterns, preparing athletes for the intensified
+nature of modern professional play (Sánchez-Pay
+& Sanz-Rivas, 2021a).
+•	 Work-Rest Ratios: To maintain physiological
+specificity and ensure appropriate recovery
+intervals, coaches should implement a 1:4 workto-rest ratio during technical and tactical training
+sessions. This ratio aligns with the intermittent
+demands observed in elite matches, ensuring
+athletes are conditioned for the specific energy
+system requirements of the sport (Sánchez-Pay &
+Sanz-Rivas, 2021b).
+•	 Surface-Specific Preparation: Training must be
+periodized based on the upcoming tournament
+surface, as court characteristics modulate both
+physical and tactical requirements:
+	▪Grass Courts: Focus should be placed on
+explosive serve power and net-play execution
+(volleys).
+	▪Hard Courts: Programming must emphasize
+physical conditioning to withstand higher
+external loads and longer match durations.
+	▪Clay Courts: Emphasis should be placed on
+tactical court positioning to maximize the
+advantage of the second bounce rule (SánchezPay & Sanz-Rivas, 2021b; Ponzano & Gollin,
+2017b).
+Mahdi, M. H. (2021). The Effect of Training with Rubber
+Ropes and Controlling the Resistance Arm on the
+Response Time and some Biomechanical Variables
+for the Skill of Sending for Wheelchair Tennis Players.
+Indian Journal of Forensic Medicine & Toxicology, 15(1),
+2232–2238. https://doi.org/10.37506/ijfmt.v15i1.13735
+Mason, B., Hutchinson, M., Goosey-Tolfrey, V., & Van der
+Slikke, R. (2020). Division, result and score margin
+alter the physical and technical performance of elite
+wheelchair tennis players. Journal of Sports Sciences.
+https://doi.org/10.1080/02640414.2020.1737361
+Mohammad, R., Sukamti, E., Irianto, D., Alim, A., Fauzi,
+F., Tomoliyus, T., & Hartanto, A. (2024). An agility
+training model for wheelchair court tennis athletes:
+An experimental study. Fizjoterapia Polska, 24, 28–34.
+https://doi.org/10.56984/8ZG5608Y6G
+Paralympic. (2012, 05/06). How One Man’s Idea Spawned
+Wheelchair
+Tennis.
+Paralympic.org.
+https://www.
+paralympic.org/feature/how-one-man-s-idea-spawnedwheelchair-tennis
+Ponzano, M., & Gollin, M. (2017a). Effects of hard courts
+and clay courts on sprinting performance after a
+wheelchair tennis match: An acute study. Medicina dello
+Sport, 70(4), 430-438. https://doi.org/10.23736/S00257826.17.03088-5
+Ponzano, M., & Gollin, M. (2017b). Physical demand of
+wheelchair tennis match-play on hard courts and clay
+courts. International Journal of Performance Analysis in
+Sport, 17, 656–665. https://doi.org/10.1080/24748668.20
+17.1384975
+Rangarajan, G., & Elumalai, S. (2020). Influence of wheelchair
+mobility training on sprint performance of amateur
+wheelchair tennis players. JETIR Research Journal, 10,
+248–254.
+Rietveld, T., Vegter, R. J. K., van der Slikke, R. M. A., Hoekstra,
+A. E., van der Woude, L. H. V., & de Groot, S. (2023). Six
+inertial measurement unit-based components describe
+wheelchair mobility performance during wheelchair
+tennis matches. Sports Engineering, 26(1), 1–9. https://
+doi.org/10.1007/s12283-023-00424-6
+Şahinler, Y., Ulukan, M., & Atasoy, T. (2026). The Impact
+of an 8-Week Training Program on the Sportive
+Character and Moral Approaches of Wheelchair Tennis
+Players. PALAESTRA, 40(1). https://doi.org/10.18666/
+PALAESTRA-2025-V40-I1-13549
+Salierno, M., Esposito, G., Izzo, R., Fattore, S., & D’Isanto,
+T. (2021). Propulsive strength training in wheelchair
+tennis to improve service response. Journal of Human
+Sport & Exercise, 16(726–734). https://doi.org/https://
+doi.org/10.14198/jhse.2021.16.Proc2.58
+Sánchez-Pay, A., & Sanz-Rivas, D. (2020). Wheelchair tennis,
+from health to competitive analysis: A narrative review.
+Journal of Human Sport and Exercise, 16(2). https://doi.
+org/10.14198/jhse.2021.162.05
+Sánchez-Pay, A., & Sanz-Rivas, D. (2021a). Competitive
+Evolution of Professional Wheelchair Tennis from
+the Paralympic Games in Athens 2004 to Rio 2016:
+An Observational Study. International Journal of
+Environmental Research and Public Health, 18(6), 3157.
+https://doi.org/10.3390/ijerph18063157
+Sánchez-Pay, A., & Sanz-Rivas, D. (2021b). Physical and
+technical demand in professional wheelchair tennis on
+hard, clay and grass surfaces: Implication for training.
+International Journal of Performance Analysis in Sport,
+21(4), 463–476. https://doi.org/10.1080/24748668.2021.
+1912957
+Coaches are encouraged to adopt a holistic, integrated
+programming model that combines HIIT for metabolic
+adaptation, specialized strength protocols to optimize
+trunk and upper-body kinematics, and structured
+psychosocial interventions to foster resilience and
+moral character. Moving forward, the integration
+of these multifaceted strategies will be essential to
+optimizing player performance and ensuring the
+continued evolution of wheelchair tennis.
+Acknowledgements
+The authors gratefully acknowledge the financial
+support received by one of them for this study through
+a predoctoral grant reference: CIACIF/2024/507.
+Conflicts of interest
+The authors declare that they have no conflicts of
+interest.

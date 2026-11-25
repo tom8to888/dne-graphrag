@@ -1,0 +1,10 @@
+[project]
+name = "dne-graphrag"
+version = "0.1.0"
+description = "GraphRAG vs plain RAG on the World Tennis Coaching & Sport Science Review (IM1102 DNE A2)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+filterwarnings = ["ignore:builtin type .* has no __module__ attribute:DeprecationWarning"]

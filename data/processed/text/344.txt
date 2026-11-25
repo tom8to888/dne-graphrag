@@ -1,0 +1,297 @@
+Title: Development of reaction times in young tennis players using the SensoBuzz application
+Authors: Fabrizio Senatore, Salvatore Buzzelli
+Year: 2022
+Issue: Vol. 30 No. 88 (2022)
+Article id: 344
+
+www.itfcoachingreview.com
+December 2022. 30th Year. Issue 88. 34-38
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i88.344
+This study analyses young tennis players through an
+evaluation of simple reaction times (RTsS) and complex
+reaction times (RTsC) with the aid of a SensoBuzz console.
+Knowing that the best way to detect the simple reaction
+times is to use a handpiece equipped with a release button
+(Buzzelli, 2021), to allow a correct comparison of the data,
+the pressure key system was used for the detection of the
+complex reaction times, which consists of a stopwatch,
+connected to a release platform, three push buttons and
+two conductance platforms. This device was used before
+and after the evaluation tests. Young tennis players have
+been able to diversify the attentional-cognitive-motor
+training on reaction times, extremely important in modern
+tennis. In fact, in addition to the initial tests, an application
+of the SensoBuzz was used, to train attentional-cognitivemotor training on the tennis court.
+To the best of our knowledge, no scientific articles have
+focused on how to train reaction times in tennis, especially
+in the youth field, using the described tools.
+TOOLS AND METHODOLOGY
+Subjects
+60 subjects were considered, including 30 males and 30
+females, aged between 10 and 16 years. The subjects
+tested trained from 1 to 6 times a week (1 hour and 30
+minutes per training session). Each of them presented a
+ranking between 3.1 and 4.NC of the classification of the
+Italian Tennis Federation.
+INTRODUCTION
+The reaction time is a special coordination capacity, which
+allows everyone to respond to a stimulus in the shortest
+possible times (Mead et al., 2000; Jui-Hung Tu et al., 2010;
+Emre et al., 2010; Uzu et al., 2009). The reaction time is
+defined as "simple" when a single signal corresponds to
+a single predetermined action; it is defined as "complex"
+when the signals can be different, and the response can
+be chosen among many possible (Buzzelli, 2021; Zajdel &
+Nowak, 2007; Buzzelli, 2020).
+In tennis sport, the reaction times are shorts, especially in
+the response to the service, which has become more and
+more a fundamental shot since the speed of the ball in the
+game phase has had a substantial increase. This is certainly
+due to the development of new materials for the rackets,
+today built with increasingly lighter and more performing
+materials, developed especially for the prevention of
+injuries. Moreover, a more accurate and specific physical
+preparation, associated with the nutritional part, has
+undoubtedly contributed to an increase in the speed of the
+ball (Senatore & Cannataro, 2019).
+In tennis sport, being able in a few milliseconds to prepare,
+hit the ball and direct it to a specific point of the opposite
+half of the court, is essential to put the opponent in
+difficulty. Precisely in this case different coordination
+skills come into play, also associated with attentional and
+cognitive aspects, which should be trained daily, to improve
+the ability to react.
+ABSTRACT
+This study is aimed at analyzing young tennis players through an evaluation of the simple
+reaction times (RTsS) and complex reaction times (RTsC) using the SensoBuzz console,
+equipped with a chronometer, connected to a release button, three push buttons and
+two conductance platforms. The SensoBuzz console was used for a first evaluation of
+the simple and complex reaction times of the young tennis players and a subsequent
+verification, after three months of training. Following the first measurement, the
+subjects trained weekly with the help of the SensoBuzz application installed on the
+coach's device (tennis coach and/or physical trainer) diversifying the workouts on
+reaction times. After three months of training, the results showed shorter reaction
+times following the training with the SensoBuzz application compared with training
+without the SensoBuzz application. More specifically, we observed an effect on simple
+reaction times when comparing players’ training once per week and players training six
+times per week.
+Development of reaction times in young tennis
+players using the SensoBuzz application
+Fabrizio Senatore1 & Salvatore Buzzelli
+1Italian Tennis Federation, Trento, Italy.
+Key words: Tennis, reaction times,
+cognitive, SensoBuzz
+Received: 18 July 2022
+Accepted: 30 July 2022
+Corresponding author: Fabrizio
+Senatore. Email: senfab@libero.it
+COACHING & SPORT
+SCIENCE REVIEW
+Tools
+Two scientific technological tools were used:
+1.	The SensoBuzz console is a system designed by Salvatore
+Buzzelli, which evaluates simple and complex reaction
+times. It is equipped with a chronometer connected to a
+release button, three pressure keys and two conductance
+platforms (see Fig.1). The in-house software measured
+simple reaction times (RTsS) and complex reaction times
+(RTsC). To evaluate simple reaction times, the visual
+stimulus used was the yellow color and when the color
+appeared on the led installed the top left of the console,
+the young tennis player had to release the button of the
+handpiece. On the screen placed at the top right of the
+console was displayed the corresponding reaction times
+registered between the visual stimulus and the release
+of the handpiece. To evaluate complex reaction times,
+the visual stimuli used were three colors: red, yellow,
+green; the auditory stimuli were two: high and low tone.
+The tennis young player after receiving the visual and/
+or auditory stimulus were instructed to press either the
+press keys on the console, or one of the two conductance
+platforms located to the right and left side of the young
+tennis player. This tool was used for a first evaluation
+of the simple and complex reaction times of the young
+tennis players and a subsequent verification, after
+three months of training.
+Figure 1. The figure shows the SensoBuzz console used to evaluate
+simple and complex reaction times.
+2.	The SensoBuzz application is a tool designed to train
+reaction times in all sports. It is designed and built by
+Salvatore Buzzelli. This application is dedicated to
+the analysis and development of some coordination
+and sensorimotor skills, focusing on attentional skills.
+Available on devices with Android and iOS systems, it
+allows to train the reaction times through visual and
+auditory stimuli provided randomly. The visual stimuli
+are composed of: 4 colors (green, yellow, red, blue), 4
+arrows (top, bottom, right, left), and 4 symbols (x, +, ?,
+#); the auditory stimuli are two: high and low tones. For
+each visual and/or auditory stimulus, a motor task is
+performed. For example, when the green color appears
+on the device, the young tennis players have to run
+forward for 3 meters, when the blue color appears on the
+device the young tennis player have to run to the right for
+3 meters, when the device emits a high tone, the young
+tennis player have to run back three meters.
+Methodology
+For each subject we collected anamnestic (personal data)
+and anthropometric data (weight and height). We then
+proceeded with the measurement of the simplex and
+complex reaction times through the SensoBuzz console.
+The simple reaction times was detected with the use of a
+handpiece equipped with a release button (normally closed
+circuit).
+Specifically, for the detection of the simple reaction times,
+it was asked to hold down the button on the handpiece, to
+release it as soon as the stimulus was received and to reenter it immediately after. This made it possible to process
+the reaction times by the instrument and to view it in real
+times on the display of the SensoBuzz console.
+The complex reaction times was always detected with the
+use of the SensoBuzz console, on which three pressure
+buttons of different colors were positioned and to which
+two platforms, also of different colors, were connected to
+the ground (normally closed circuit).
+Each subject was asked to react to stimuli either with the
+use of the hands (in the simple reaction times) or with the
+use of the feet (in the complex reaction times).
+To measure complex reaction times, we used different
+colors corresponding to three visual signals and platforms
+of two different colors, each placed on the sides of the
+examiner's feet.
+The number of stimuli emitted was five for the simple
+reaction times and ten for the complex reaction times.
+Three months after the first training session, all subjects
+were re-examined following the same procedure.
+Based on the initial evaluation, subjects were distributed in
+three study groups and one control group:
+•	 Group 1: 10 subjects trained 1 time a week for 20 minutes
+with the SensoBuzz application.
+•	 Group 2: 10 subjects trained 3 time a week for 20 minutes
+with the SensoBuzz application.
+•	 Group 3:  10 subjects trained 6 time a week for 20
+minutes with the SensoBuzz application.
+•	 Control group: 30 subjects trained 6 time a week for 20
+minutes without the SensoBuzz application.
+During each training session, the study groups used the
+SensoBuzz application, installed on the coach's device,
+while the control group trained without the use of the
+SensoBuzz application. After three months of training, we
+evaluated the reaction times with the SensoBuzz console.
+All subjects were tested in indoor courts, with an average
+atmospheric temperature of 8° C. Each training session
+provided four young tennis players and an expert (tennis
+coach and/or physical trainer) on the court.  During the
+weekly training sessions, lasting 1 hour and 30 minutes, the
+young tennis players trained for about 20 minutes only on
+reaction times. The trainings were carried out with random
+exercises by both the tennis coach and the physical trainer
+and took place on a single surface, fast in resin glass, in
+order to have as a parameter a single reference surface.
+ANALYSIS
+Data were analyzed using the following measures: RTsS,
+RTsC, RTs control group.
+We performed 4 different analyses.
+In order to pinpoint a reduction in reaction times due to
+the use of the SensoBuzz application, in the first analysis
+we compared RTsS registered from players that used
+SensoBuzz application versus RTs of the control group
+(training without the use of the SensoBuzz application).
+Similarly, the second analysis compared RTsC registered
+from players that used SensoBuzz application to RTs of the
+control group (training without the use of the SensoBuzz
+application).
+Differences between RTsS and RTs control group, and RTsC
+vs. RTs control group were highlighted using paired sample
+t-tests.
+The third and fourth analysis were performed aiming to
+demonstrate an effect of training due to the SensoBuzz
+application. Thus, simple and complex RTs were analyzed
+for different Types of Training (one a week, three times per
+week, six times per week). Differences in RTsS and RTsC
+per Type of Training (one time per week, three times per
+week, six times per week) were entered separately into
+an Analysis of Variance (ANOVA) with Type of Training
+as between-subjects factor. Post-hoc analyses were
+conducted via pairwise comparisons (t-tests). We used
+Holm correction for all comparisons.
+Figure 2. The figure shows the average of RTsS measured from the
+study groups compared to the average of RTs measured from the control
+group. The bars represent the standard deviation from the average. The
+y-axis displays RTs in ms.
+Figure 3. The figure shows the average of RTsC measured from the
+study groups compared to the average of RTs measured from the Control
+Group. The bars represent the standard deviation from the average. The
+y-axis displays RTs in ms.
+The paired t-test indicated a significant difference between
+RTsC and RTs control group (p<.001) showing shorter RTsC
+compared to RTs of the control group.
+RESULTS
+RTs simple versus RTs control group
+The paired t-test indicated a significant difference between
+RTsS and RTs control group (p<.001) showing shorter RTsS
+compared to RTs of the control group.
+RTsS and RTsC for different training
+The ANOVA indicated a significant main effect of Type of
+Training [F (2, 27) = 10.080, p < .001], a main effect of RTs
+[F (1, 27) = 227.676, p < .001], the interaction RTs*Type of
+Training [F (2, 27) = 0.586, p = .564] was not significant.
+To assess differences between RTsS and RTsC, and between
+Types of Training post hoc comparisons were performed.
+We observed a statistically significant difference in
+the RTsS compared to RTsC (p<.001) with shorter RTsS
+compared to RTsC.
+We also observed significant differences between all Types
+of Training (Training one time per week vs. Training three
+times per week, p =.048; Training one time per week vs.
+Training six times per week, p <.001; Training three times
+per week vs. Training six times per week, p =.048) showing
+shorter RTs in players that trained six times per week
+compared to players that trained one and three times per
+week.
+Additionally, post hoc comparisons were performed per
+Type of Training across different RTs (simple, complex). The
+results highlighted significant differences in RTsS between
+players that trained one time per week and players that
+trained six times per week (p = .002) showing shorter RTs
+in the second compared to the first. No other significant
+differences were observed.
+Figure 4. The figures show the comparison of the RTs simple (left)
+and RTs complex (right) measured during the various Types of Training
+(Training one time per week, Training three times per week, Training six
+times per week).
+CONCLUSIONS
+The present study demonstrates, for the first time ever,
+that training with SensoBuzz application results in shorter
+reaction times in young tennis players compared to training
+without SensoBuzz application.
+Moreover, different reaction times were associated to
+the amount of training (one, three or six times per week)
+with the SensoBuzz application showing faster RTsS in the
+players that trained six times per week compared to those
+who trained one and three times per week. The use of
+SensoBuzz application seems to do not influence RTsC in
+any of the Types of Training tested in this study.
+Therefore, more young tennis players train with the
+SensoBuzz application shorter the simple reaction times
+measured.
+We hypothesized that young tennis players using
+SensoBuzz application could shortened their RTs especially
+in response to the service of the opponent leading thus
+to an increase of speed, effectiveness, technic and tactic.
+Future research may address this point more specifically.
+Modern tennis is more dynamic and faster compared
+to the tennis played years ago. Thanks to the training
+described in the previous section, players may increase
+their effectiveness and awareness due to an improvement
+of essential coordination capabilities: the ability to react
+(more assimilable in adolescence than in adulthood).
+Finally, the use of SensoBuzz application during training
+results in boosted sensory and cognitive activations also
+due to the processing of visual and auditory stimuli which
+in turns led to an enhancement of attentional and motor
+responses, motivating the player to improve daily.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

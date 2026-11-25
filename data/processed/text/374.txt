@@ -1,0 +1,523 @@
+Title: Review of ITF-approved Player Analysis Technology (PAT)
+Authors: Antonio Vaquer Castillo
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 374
+
+ABSTRACT
+In this article an instrumental review is carried out from a technical/tactical point of
+view of measuring devices and apparatus applied to tennis. More specifically, a review
+of the current panorama of the "Player Analysis Technology" (PAT) approved by the
+ITF (International Tennis Federation) is proposed. The rationale would be the growing
+importance and application that they are acquiring since the approval of rule 31 by the
+ITF that allows the use of these PATs in tournaments.
+INTRODUCTION
+Tennis is a sport with specific game characteristics and physical
+demands. As indicated by Sanz Rivas et al. (2009) "the tennis
+match is characterised by intermittent exercise, alternating
+short sets (4-10 seconds) of high intensity exercises and short
+sets (10-20 seconds) of recovery interrupted by several rest
+periods of longer duration (60-90 seconds)". That is why in
+the teaching-learning process of tennis it is very important to
+know how to quantify and deal with the loads at a technicaltactical, physical, and mental level. For this reason, there
+has been an increasing use of new analysis tools and their
+application in the process of game development, which
+provides evidence of the technical level in real time, allows
+comparison between different training sessions or matches
+and the data collected can be shared and communicated on
+different platforms (Quinlan, 2013).
+In 2006, the Hawk-Eye was officially introduced at the Miami,
+NASDAW-100 ATP Open tournament in Miami, which set a
+revolutionary technological precedent within the sport that
+served as a precursor to many other technological innovations
+(Gellard et al., 2018) and which has proven to be a very useful
+tool for both chair umpires in their work and for the player's
+coaching staff as a means of assessing player performance
+(Baodong, 2014; Gellard et al., 2018).
+As a consequence of the implementation of Hawk-Eye, in
+2014 the ITF incorporated Rule 31 into its regulations which
+allows players to wear "smart" equipment in tournaments.
+Devices placed around the court to track the player are
+also permitted. Only ITF-approved PAT devices are allowed
+during competition (Tennis Industry, 2014; ITF, 2019). This
+Rule 31 is supplemented by Appendix III of the ITF Rules and
+Regulations  which defines "Player Analysis Technology" as
+any equipment that can perform the functions of recording,
+storing, transmitting, analysing, and communicating with the
+player during a match. Such information must be accessible
+to the player in accordance with Rule 30 (coaching) and
+Appendix II (The Racket).
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 27-35
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i89.374
+Review of ITF-Approved Player Analysis
+Technology (PAT)
+Antonio Vaquer Castillo
+Performance Analysis & Biomechanics in Sport, Faculty of Sport Sciences, University of Murcia, Spain.
+Key words: Player Analysis
+Technology, International Tennis
+Federation, new technologies,
+training.
+Received: 8 January 2023
+Accepted: 23 February 2023
+Corresponding author: Antonio
+Vaquer. Email: vaquercastillo@
+gmail.com
+This Player Analysis Technology can measure and compare
+a wide variety of time-based, performance-related variables
+divided into three groups in relation to:
+•	 Player. The primary variables are position and
+acceleration; stride length and frequency; heart rate;
+and sweat rate. Secondary variables refer to total and
+average distance travelled; work-rate; and sweat rate
+(Reilly, 2005; Ugarte, 2014) and energy consumption. As
+tertiary variables, an example would be fatigue.
+•	 Hitting.
+Primary variables are the position and
+orientation of the racket. Secondary variables are the
+point of impact of the racket with the ball; the type of
+stroke (serve, volley, forehand, backhand), type of spin
+(slice, topspin); and power (of the racket).
+•	 Ball. The primary variable is position. Secondary
+variables comprise trajectory; speed; and outcome (in
+or out). The tertiary variables consist of outcome; match
+time; and match simulation.
+These technologies have been submitted by a total of 19
+companies from 14 different countries, including Austria,
+Czech Republic, Finland, France, Germany, Poland, Slovenia,
+Spain, Switzerland, and Great Britain in Europe; Hong Kong,
+Israel, and Japan in Asia; and the United States in America.
+Finland, France, the UK are home to two developers and only
+the US has three companies on this list.
+This article presents the different TAPs approved to date
+by the ITF, grouped by category. In addition, some of their
+characteristics, such as the variables that these devices are
+capable of analysing, will be discussed in more detail.
+METHODOLOGY
+For the procedural review of these devices, the list of PATs has
+been deepened in January 2022 with a total of 28 products.
+In the document "Player Analysis Technology Overview" (ITF,
+2019) establishes three distinct categories:
+COACHING & SPORT
+SCIENCE REVIEW
+•	 Integrated equipment. Equipment that can be worn
+or used on court by players. This includes clothing,
+wearables; tennis-specific equipment (e.g., rackets); and
+non-tennis specific equipment (e.g., heart rate monitors,
+activity monitors).
+•	 Remote equipment. Any device not carried or used by
+the player (e.g., camera-based player tracking systems).
+•	 Auxiliary equipment. Equipment that does not record
+player performance information but can perform any of
+the other PAT functions, such as tablets, mobile phones
+and the software that operates on these devices.
+Disregarding the ancillary equipment that may be required for
+each of these approved technologies, we find that there are
+19 in the first group and 9 in the second. A separate grouping
+will be made based on the type of device technology.
+RESULTS AND DISCUSSION
+Table 1 gives an initial classification of these devices
+according to the type of equipment. Of the total of 28, 19
+are distinguished as integrated equipment and 9 as remote
+equipment.
+Table 1
+Grouping of ITF-approved PAT teams based on equipment type.
+INTEGRATED TEAM
+REMOTE EQUIPMENT
+Armbeep
+Bigbow Camera System
+Artengo Personal Coach
+Billie Jean King Cup match
+insights App
+Babolat Play Aeropro Drive
+eyes3 For Tennis Pro
+Babolat Play Pure Aero
+Flightscope Player Tracking
+Babolat Play Pure Drive
+Foxtenn
+Diamond
+Player
+Pro-Performance Court
+Babolat Play Pure Drive V2
+Hawk-Eye
+Babolat Play Pure Drive Lite
+Playsight Smart Court
+Babolat Pop
+Wingfield
+Bigbow Basic Sensor
+Zennis
+Bigbow Champion Sensor
+Catapult Optimeye S5
+Catapult Vector
+Firstbeat
+Head Tennis Sensor
+Kitris Kit
+Kitris Kit Bia
+Sony Smart Tennis Sensor
+Whoop
+Zepp Tennis
+A second distinction will be made based on the type of
+solution. Thus, a distinction will be made between racket
+sensors (integrated in the racket as standard, integrated
+in the racket, in the handle, in the strings, on the wrist);
+wearable sensors other than wrist sensors; umpiring systems,
+tracking systems, statistical applications and game analysis
+applications; "smart courts" systems; score trackers either on
+a wristband, an auxiliary device or specific hardware on court
+and sports smartwatches or compatible bracelets. Based on
+this distinction, the different devices will be presented in
+groups.
+Among the different racquet sensors is the Artengo Personal
+Coach (2014) (Figure 1), developed in France, which consists
+of two separately available devices, the first of which is a 24gram weight sensor, adjustable to all types of racquets (ITF,
+2019). The information can be seen after the training session
+on a computer or in real time on the second of the two devices,
+a watch which, in addition to the tennis functions in training or
+match mode, can be used as a heart rate monitor to measure
+heart rate as well (ITF, 2019). (Diario, 2013; Europa Press,
+2013; Tennis-Technology, 2020a).  Significantly, however, it is
+currently not available in Decathlon shops, nor is it available
+in the Artengo catalogue.
+Figure 1. Artengo Personal Coach (2014).
+Figure 2. Sony Smart Tennis Sensor (2014).
+Sony (Japan), on the other hand, brought to market another
+smart sensor, its Sony Smart Tennis Sensor (2014) (Figure
+2), for rackets that can be attached to the end of the grip of
+Wilson, Yonex, Prince and Head rackets (Sacristán, 2015;
+Tennis-Technology, 2020c; Vts-tennis, n. d.).
+For its part, Babolat, together with its development partner
+PIQ Sport Intelligence (Businesswire, 2016) marketed the
+first smart racquet, the Babolat Play Pure Drive (2014)
+(Figure 3), which comes standard with a built-in smart
+device. (Dominik, 2020; Tennis-Technology, 2020b). Babolat
+is expanding its smart racket portfolio in 2016 with the new
+version of its previous model, the Babolat Play Pure Drive
+V2, as well as the new Babolat Play Aeropro Drive, Babolat
+Play Pure Aero and Babolat Play Pure Drive Lite. To point out
+that from the ITF website (ITF, 2019) you can download the
+different certificates of approval but not the reports, you can
+only download the report of the first model.
+The Czech company Proavis S.R.O. presented two smart
+devices in 2016 that are primarily intended to be attached to
+the end of the racquet handle but are also adaptable to other
+types of sports equipment: the Bigbow Basic Sensor and the
+Bigbow Champion Sensor (Figure 5). The main difference
+between the two lies in the connectivity for data transmission.
+Figure 5. Bigbow Basic Sensor.
+Figure 3. Babolat Play Pure Drive (2014).
+Figure 7. Kitris Kit.
+Figure 6. Head Tennis Sensor.
+Figure 4. ZEPP Tennis (Tennis-Technology, 2020d).
+ZEPP Labs, USA, developed the third ITF-approved smart
+sensor (2015), adjustable to the end of the racket's grip
+like the Sony Smart Tennis Sensor, the ZEPP Tennis (TennisTechnology, 2020d) (Figure 4). Today, however, ZEPP has
+stopped marketing this sensor and offers only its upgrade,
+which does not appear on the ITF list (Europa Press, 2017;
+GizTab, 2017; ZEPP Labs, n. d.-b). Add informatively that
+this company offers other possibilities within this line of
+smart sports equipment for other sports such as golf, tennis
+or football that could be perfectly adapted to the practice of
+tennis. (ZEPP Labs, n.d.-a).
+Only one new device is approved in 2018, the Head Tennis
+Sensor (Figure 6) from Austrian Head developed by Zepp.
+(Best tennis  sensors (updated in 2022!), 2020; Tennis Sensor
+- HEAD, n. d.; Top 5 best  tennis  sensors 2020 - track and
+analyze, 2020).
+Among the wearable devices, the first device to be approved
+was the Kitris Kit (Figure 7) from Kitris AG, Switzerland,
+which is a wrist device that serves as a scoreboard, audio
+record of how points were won and lost, and voice recorder
+for capturing mid-game notes. (KITRIS, n. d.). To ensure that
+this device does not violate ITF Rule 30, which prohibits
+on-court coaching, on-court recording and notes cannot be
+accessed. (Tennishead, n. d.).
+In 2015, Kitris AG introduced an upgrade to their device,
+the Kitris Kit Bia (Figure 8). Currently, only this upgrade is
+marketed on their website under the name Kitris Kit (KITRIS
+AG, n. d.-a). From what they advertise, it seems that Kitris
+has refocused their offer from tennis to sport in general by
+offering an easy to install "plug & play" system offering a
+product similar to Playsight Smart Court (KITRIS AG, n. d.-b).
+In the same year, two new devices arrived from Catapult
+PTY. Ltd (Figure 11). Catapult introduced its Catapult
+Optimeye S5 sensors (Fernández-García & Torres-Luque,
+2018) and Catapult Vector, which are worn inside a bib worn
+by the athlete. The data is captured by a receiver and can
+be viewed through the Catapult OpenField software on an
+auxiliary device in both cases or also through a smartwatch
+or smartphone with the Catapult Vector app in the case of
+the Catapult Vector. The Catapult company is not limited
+to the tennis market and offers several other products
+easily applicable to racquet sports that are not listed by ITF
+(Catapult, n. d.; Catapult Support, n. d.).
+Figure 9. Babolat Pop.
+Figure 11. Catapult PTY. Ltd.
+Figure 10. Armbeep
+Figure 12. Firstbeat.
+Figure 8. Kitris Kit Bia.
+For its part, Babolat presented a smart wrist sensor, the
+Babolat Pop (2015) (Figure 9) that can be worn either under a
+normal wristband or sheathed inside an accessory wristband
+that comes with it (Private Sport Shop, n. d.; VTS Tennis, n. d.).
+In 2019, the Slovenian company Biometrik D.O.O. Armbeep
+was approved. (ITF, 2019; Tennis analytic system, 2020)
+(Figure 10).
+In 2020, Finland's Firstbeat Technologies OY unveiled its
+Firstbeat device (Figure 12). Unlike the Catapult sensors, this
+one is integrated with a chest strap. (ITF, 2019; You have it in
+you, n. d.). Data can be accessed through two apps in different
+ways. The Live app allows coaches to view and obtain data
+from multiple players simultaneously. (Introducing Firstbeat
+Sports Sensor and Live app, n. d.). The Sports app app
+(Firstbeat Sports Standard + Sensor, n. d.) allows players to
+log in individually to a personal account and access their own
+coaching information (ITF, 2019).
+Figure 13. Whoop 3.0.
+Figure 15. Foxtenn.
+Figure 14. Hawk-Eye (40).
+Figure 17. Playsight Smart Court.
+Figure 16. FlightScope Player Tracking.
+Also in 2020, the US-based Whoop Inc. certified Whoop
+3.0 (Figure 13) (ITF, 2019). Currently, the company markets
+version 4.0, which is not registered in the list (WHOOP, n. d.).
+Within the refereeing systems, in 2013, the Hawk-Eye (40)
+(Figure 14) (Great Britain), consisting of a system of multiple
+video cameras (8-10), personal computer, two-way radio
+with intercom panel, in-stadium display and auxiliary device
+(smartphone) was approved (ITF, 2019).
+In 2017, Foxtenn BegreenS.L. introduced the first and so
+far only Spanish smart technology applied to tennis with its
+Foxtenn Diamond Player Pro-Performance Court system
+(Figure 15) which uses multiple high-speed cameras and highfrequency laser scanners placed around the court connected
+to a server to capture player and ball trajectories (Foxtenn
+Diamond System, n. d.; ITF, 2019). The system can optionally
+be connected to audio output and data can be displayed
+through auxiliary devices. Compared to the Hawk-Eye, it
+allows to visualise the live spot and the impact of the ball with
+the ground with millimetre accuracy instead of working with
+triangulations via cameras (Rigueira, 2017; Serras, 2017).
+Their website differentiates two types of solutions for the
+Foxtenn Diamond system today, one focused on tournaments
+and professional players and another for academies and
+players in training (Foxtenn Diamond System, n. d.).
+The Flightscope Player Tracking (Figure 16) from Poland's
+FlightScope SP Z.O.O., 2017 also became the third
+electronic line arbitration system to meet the criteria set
+by the committee (About FlightScope Tennis, n. d.; Ramos,
+2020). The software reconstructs player positions in three
+dimensions from multiple camera images; player position data
+is used to generate coaching information including distance
+travelled, player speeds and court coverage and can be
+transmitted to the stadium screen, television or other devices
+via the internet (ITF, 2019). It should be mentioned firstly that
+this company also uses its technology in other sports; and
+secondly that the listed link does not work and that they seem
+to be implementing a new solution with this technology for
+the current year 2022 (FlightScope tennis, 2022).
+Among the "smart courts" solutions is the Playsight Smart
+Court (PlaySight, n. d.) (Figure 17) developed by Playsight
+Interactive LTD in Israel (2014), a fully automated oncourt monitoring system that offers line shot umpiring, live
+streaming, multi-angle video replays with the possibility
+of video analysis and detailed game statistics offered in an
+interactive court-side display unit (Gellard et al., 2018) which
+turns the court into something we could call a "smart court".
+Figure 18. Making tennis Smart.
+Figure 21. Eyes3 For Tennis Pro.
+Figure 20. Zenniz.
+Figure 19. Bigbow Camera System.
+Figure 22. Billie Jean King Cup Match Insights App.
+In 2019, the Wingfield from the German company Wingfield
+GmbH is approved, which is another integrated solution that
+turns the tennis court into a "smart court" (ITF, 2019; Making
+tennis smart, n. d.). This system consists of two cameras on
+both sides of the net and another one on one of the back
+courts connected to a kiosk at the side of the court, next to the
+net. The software reconstructs the players' positions and ball
+trajectories in three dimensions from the incoming images.
+The useful training information is not displayed on the box,
+but on the Wingfield App via an auxiliary device.
+As tracking systems, 2016 saw the introduction of the Bigbow
+Camera System (Figure 19), a system composed of multiple
+smart cameras connected to a server using the BigBow
+Manager software which displays the position of the ball and
+players in three dimensions, ball speed and identification of
+ball impacts (racket and court).
+In 2017 the eponymous Finnish company presented its
+Zenniz device (Zenniz, n. d.) (Figure 20) consisting of multiple
+microphones placed around the court connected to a central
+unit that houses a touchscreen user display and speaker
+that allows the ball trajectories to be reconstructed in three
+dimensions. The information displayed on the screen depends
+on the selected mode (ITF, 2019). From what they present on
+their website, they seem to have evolved the system to offer a
+kind of "smart court" similar to what is offered by Play Sight by
+now integrating the screen into a kiosk at the court side and
+incorporating cameras also to offer video analysis (Zenniz,
+n. d.). Apart from offering a line refereeing system and live
+statistics it also offers interactive training exercises (Zenniz,
+n. d.). However, these improvements are not reflected in the
+official list of approved PATs.
+From Hong Kong comes the Eyes3 For Tennis Pro system from
+Infinite Cube (Figure 21), a portable electronic VAR and line
+umpiring system (Eyes3 Fair Play technologies for sports, n.d.;
+ITF, 2019). The difference between this system and the rest is
+that no specific hardware is needed and it can be quickly set up
+on the court and at a lower cost; however, it requires auxiliary
+devices, at least eight mobile phones as image capture devices
+and another as a control device (Eyes3 Fair Play technologies
+for sports, n.d.; ITF, 2019). A negative aspect is that they only
+work on Apple operating systems (ITF, 2019).
+Finally, as a last PAT, in 2021 US giant Microsoft released
+its Billie Jean King Cup Match insights App (Figure 22) that
+combines live scores with ball/player tracking data to provide
+near real-time coaching information to an ancillary device
+(Billie Jean King Cup- Microsoft powers data and insight at
+Billie Jean King Cup Finals, n.d.; ITF, 2019).
+This results in the following grouping.
+Table 2
+Grouping of ITF-approved PAT teams based on solution type.
+Integrated equipment
+Remote equipment
+Racket sensors
+Wearable devices
+Arbitration systems
+“Smart court"
+solutions
+Tracking systems
+Applications
+Artengo Personal
+Coach
+Kitris Kit
+Hawk-Eye
+Playsight Smart
+Court
+Bigbow Camera
+System
+Billie Jean King Cup
+Match Insights App
+Sony Smart Tennis
+Sensor
+Kitris Kit Bia
+Foxtenn Diamond
+Player ProPerformance Court
+Wingfield
+Zenniz
+Babolat Play Pure
+Drive
+Babolat Pop
+Flightscope Player
+Tracking
+Eyes3 For Tennis
+Pro
+Babolat Play Pure
+Drive V2
+Armbeep
+Babolat Play
+Aeropro Drive
+Catapult Optimeye
+S5
+Babolat Play Pure
+Aero
+Catapult Vector
+Babolat Play Pure
+Drive Lite
+Firstbeat
+ZEPP Tennis
+Whoop 3.0
+Bigbow Basic
+Sensor
+Bigbow Champion
+Sensor
+Head Tennis Sensor
+First, it should be mentioned that the grouping presented
+based on the type of solution is based on the main function of
+this technology, and it may be the case that the same product
+has functions of one or other type of solution.
+On the other hand, to analyse these devices in the current
+landscape, it is necessary to highlight the effects of the
+COVID-19 pandemic that have affected this niche as well.
+As mentioned above, Artengo stopped marketing its system.
+Babolat announced the cessation of sales of its Play and Pop
+smart devices (PLAY & POP - Discontinuation of connected
+services, n. d.) due to the bankruptcy of its development
+partner PIQ Sport Intelligence (PIQ adventure just ended, n.
+d.). FlightScope was acquired by IMGArena in 2021 (Sports
+services, 2021) which makes the above mentioned change
+of domain and product vision understandable. It seems that
+Proavis s.r.o. also undergoes some kind of a reshuffle, which
+would make it understandable that the domain or its products
+can no longer be found for sale. (PROAVIS s.r.o. , Praha IČO
+25671227 - Obchodní rejstřík firem, n. d.).
+Another factor to consider is the product development
+itself, which may lead the company to replace its product
+with another product or to integrate it into another type of
+solution. As mentioned, this has happened with the original
+Kitris Kit model which has been replaced by the later Kitris Kit
+Bia under the name Kitris Kit. Zepp, for its part, is marketing
+the second version of its racquet sensor (having stopped the
+first one) as well as developing the Head one. Also mentioned,
+Zenniz seems to have incorporated the use of cameras for
+a reorientation of its product, although it seems that it will
+continue to market the approved system. Finally, Whoop has
+switched to marketing its Whoop 4.0 device, making Whoop
+3.0 obsolete. As a result, at the beginning of 2022, only
+fifteen of the twenty-eight registered products are still on the
+market, although we could increase this figure to seventeen if
+we consider the new unregistered models of the Whoop and
+Zepp products.
+CONCLUSIONS
+The conclusions of this work are as follows: Firstly, the main
+game characteristics and specific physical demands of tennis
+are identified, highlighting the importance in the tennis
+teaching-learning process of knowing how to quantify and
+work the loads at a technical-tactical-physical-mental level.  In
+addition, the official introduction of the Hawk-Eye in the Miami
+tournament and the consequent drafting of Rule 31 in the ITF
+regulations that allows players to use "intelligent" equipment
+in official tournaments is also discussed. The different player
+analysis technologies that have been approved by the ITF
+up to the beginning of 2022 are also analysed, with a total
+of 28 of them, 19 as integrated equipment and 9 as remote
+equipment. It should be noted that only fifteen of the twentyeight registered are still on the market, although there would
+be seventeen if the new unregistered models of two of these
+devices were to be considered.
+On the other hand, these technologies include racket sensors
+(integrated in the racket as standard, integrated in the racket,
+in the fist, in the strings, on the wrist); other wearable sensors
+apart from wrist sensors; umpiring systems, tracking systems,
+statistical applications and game analysis applications; smart
+court systems; scoreboards either by wristband, auxiliary
+device or specific hardware on the court and compatible
+sports smartwatches or bracelets. Likewise, it is highlighted
+that the use of smart devices in tennis can be of great help
+to the training process and that their choice will depend
+fundamentally on the parameters to be monitored and the
+target audience of the tennis player. Likewise, some direct
+effects caused by the COVID-19 pandemic can be observed.
+After the closure of the Babolat Play line, smart rackets are no
+longer available, although there is still a good supply of smart
+sensors. Also, some market trends towards offering integrated
+systems, smart courts, and diversification of solutions to also
+cover other sports are evident.
+A possible extension and complementary avenue would be
+to review other PAT solutions that are not on the ITF list.
+Another possible avenue for expansion would be to analyse
+the devices according to the analysis variables. A proposal to
+liberalise and promote the use of racket sensors would be the
+standardisation of the hole at the end of the racket handle,
+which would make it easier to use the sensor of the player's
+choice on any racket. With a target group of non-professional
+users in mind, new integrated systems could be investigated
+with the minimum specific hardware that would encompass
+an integrated plug and play solution, a smart court with an oncourt referee system and scoreboard and/or auxiliary device,
+compatible with sports smartwatch devices, chest straps and
+racket sensors and connection to some kind of platform for
+statistical analysis, video analysis of the player and online
+social platform and also the possibility of carrying out fitness
+or off-court training. Another possible proposal for nonprofessional users would be the creation of an application for
+smartwatches at a relatively low cost and offering what tennis
+players in training or regular players demand.
+CONFLICT OF INTEREST AND FUNDING
+The author declares that he has no conflict of interest and
+that he did not receive any funding to carry out the research.

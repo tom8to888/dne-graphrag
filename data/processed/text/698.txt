@@ -1,0 +1,558 @@
+Title: Initial validation of the ITF World Tennis Number (WTN) on-court assessment
+Authors: Rafael Martínez-Gallego, Manrique Rodríguez-Campos, Ana Piquer-Piquer
+Year: 2025
+Issue: Vol. 33 No. 95 (2025)
+Article id: 698
+
+ABSTRACT
+This study validates an initial on-court assessment for the International Tennis
+Federation (ITF) World Tennis Number (WTN), designed for players without prior
+ratings. The research followed a multi-phase approach: (1) literature review, (2) ITNWTN equivalence analysis, (3) evaluation of existing on-court tests, and (4) validation
+with 106 recreational players across six countries. Pearson’s correlation and stepwise
+multiple regression identified ITN-based test as the strongest predictor of WTN (r =
+-0.45, p < 0.05), followed by serve (r = -0.39, p < 0.05) and volley (r = -0.31, p < 0.05).
+The final model (β = -0.0464, p < 0.001) explained 19.8% of WTN variance. These results
+confirm the ITN-based on-court test as a reliable tool for assigning initial WTN ratings.
+The implemented tests assessed serve, groundstrokes depth, groundstrokes accuracy,
+and volleys. Their strong correlation with WTN supports their validity in structured
+player classification. This assessment offers a standardized, accessible approach for
+players without match history, ensuring a fairer rating system.
+INTRODUCTION
+A player tennis rating is a numerical representation of a tennis
+player's skill level, designed to facilitate fair and competitive
+matchups. Systems such as the International Tennis
+Federation's World Tennis Number (WTN) and those used by
+several national tennis federations, provide a standardized
+measure of a player's abilities based on their performance in
+matches (ITF, 2025). These ratings consider various factors,
+including match outcomes, the strength of opponents, and the
+competitiveness of the matches. By offering a consistent and
+objective assessment, tennis ratings help players, coaches,
+and organizers to gauge skill levels accurately, ensuring that
+players compete against others of similar proficiency, which
+enhances the overall competitive experience. While rating
+systems typically rely on match data, such approaches may
+be impractical or inaccurate for players without a competition
+history. Alternative methods, such as self-assessment or
+coach-reported ratings, are susceptible to subjective bias
+and inconsistencies across contexts. In contrast, an on-court
+assessment offers a standardized and objective means to
+evaluate technical competencies, providing a more equitable
+entry point into the rating system. This is particularly crucial
+for newcomers or recreational players, for whom reliable
+competitive data may be unavailable.
+The importance of an appropriate initial on-court test for
+tennis ratings cannot be overstated. Such assessments are
+crucial for establishing a reliable baseline rating for players
+who lack prior ratings, ensuring that their skill levels are
+accurately reflected from the outset. This initial evaluation
+usually focuses on technical competencies, such as serve,
+forehand, and backhand strokes, which are fundamental to
+www.itfcoachingreview.com
+April 2025. 33th Year. Issue 95. 51-56
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i95.698
+Initial validation of the ITF World Tennis Number
+(WTN) on-court assessment
+Rafael Martínez Gallego, Manrique Rodríguez-Campos & Ana Piquer-Piquer
+Research Group on Sports Technique and Tactics, Universidad de Valencia (Spain).
+Key words: rating, skill, level,
+competency, evaluation,
+technique
+Received: 21 March 2025
+Accepted: 30 April 2025
+Corresponding author: Manrique
+Rodríguez-Campos. manrocam@
+alumni.uv.es
+a player's performance (Strecker et al., 2011). In addition to
+traditional models like the ITN or NTRP, recent developments
+in performance rating systems have incorporated advanced
+computational methods to improve accuracy and applicability.
+Kyriakides et al. (2015) introduced AccuRATE, a hybrid
+approach that combines linear algebra models with machine
+learning to enhance prediction capabilities in football.
+Similarly, Ismail (2023) proposed the Estimated Performance
+Rating (PRe), a novel system designed to overcome the
+limitations of traditional Tournament Performance Ratings
+(TPR), particularly in cases of perfect or null scores, and
+applicable across tennis, football, and chess. These models
+highlight the ongoing evolution of rating systems toward
+more robust and adaptable frameworks.
+Implementing a scientifically validated on-court test helps to
+maintain the integrity of the rating system, providing a fair
+and equitable starting point for all players. This approach
+COACHING & SPORT
+SCIENCE REVIEW
+not only promotes fair competition but also aids in the
+development of tailored training programs that address
+individual strengths and weaknesses, ultimately contributing
+to the player's growth and progression in the sport (Šlosar et
+al., 2019).
+The ITF continues to successfully roll out the ITF World Tennis
+Number (WTN) product with the aim to build a large, engaged
+community of global players in all nations of the world. The
+ITF World Tennis Number is a real-time skill level rating
+system designed for tennis enthusiasts of all levels (Santilli
+& Crespo, 2024). Like a golf handicap, the WTN provides a
+numerical representation of a player’s ability, enabling them
+to find opponents who match their skill level anywhere in
+the world. This global rating system simplifies the process
+of identifying suitable playing opportunities, making tennis
+more accessible and enjoyable for everyone. It also serves as
+a tool to track the development of one’s game over time. One
+of the largest and more accurate database of  match  records
+from close to nations is used to power both a singles and a
+doubles algorithm that updates globally on each Wednesday
+of each week. In 2023, the Intercollegiate Tennis Association
+(ITA) adopted ITF World Tennis Number as its exclusive rating.
+The WTN and is now seen on rosters and player profiles for
+all US College players (Santilli & Crespo, 2023).
+Research has explored the validity and accuracy of the
+ITF WTN and has concluded that its accuracy levels are
+statistically greater than chance and is a valid measure of
+player skill based upon its ability to predict match outcomes
+(Im & Lee, 2023; Krall et al., 2024; Mayew & Mayew, 2023).
+Following the ITF WTN current success and mirroring the
+steps taking for the implementation of the ITF WTN, it was
+suggested to create an on-court assessment to facilitate the
+delivery of this new rating system. The aim of the new oncourt assessment was structured around various terms of
+reference. Initially, it would be geared towards individuals
+who had no ITF WTN rating. The assessment would not
+provide an indication of the player's tennis skill level but
+rather its equivalency to the ITF WTN. It would be intended
+as a one-off assessment to provide the initial ITF WTN rating
+and would not be used for periodic ratings, which would only
+be achieved through participation in competitions.
+The development of the assessment would be evidencebased, following a scientific study conducted in the field,
+and would incorporate practical experience and knowledge
+from previous on-court rating assessments, such as the
+ITN. The assessment would be designed to be technically
+sound, focusing on the technical competency of the player.
+In principle, it would not consider tactical, physical, mental,
+or competitive competencies as variables to facilitate its
+practical implementation in a variety of tennis settings
+worldwide.
+LITERATURE REVIEW
+As part of this process, and in line with usual research
+processes, a literature review was deemed necessary. This
+section will cover previous assessments of tennis skill levels,
+including the ITN and other relevant tests. Key studies
+and methodologies will be discussed highlighting the skills
+measured in tennis and their correlation with performance
+levels.
+Historically, research has explored the use of on-court tennis
+assessments to provide accurate player ratings (Broer & Miller,
+1950; Digennaro, 1969; Dyer, 1935; Fox, 1953; Hewitt, 1965,
+1966, 1968; Kemp & Vincent, 1968; Miller, 1953; Purcell,
+1981). As an example, the National Tennis Rating Program
+(NTRP) has been used in the USA (Delaney, 1982) to rate the
+tennis ability of amateur players for a considerable number
+or years.
+In 2003, the ITF launched the International Tennis Number
+(ITN) as an instrument to increase participation in the ITF’s
+member nations. The ITN was structured in a 1-10 rating
+system which was very straightforward and simple for tennis
+players around the world to comprehend. The introduction
+of sub-categories for beginner players (ITN 10.3, ITN 10.2,
+and ITN 10.1) facilitated the inclusion of players of all skill
+levels to have an ITN (ITF, 2003a). It was also related with
+existing national rating systems in some nations (such as the
+NTRP in the USA, the "classement" system in France, and the
+British rating system) using an ITN Conversion Chart (ITF,
+2003b) as well as a description of standards (ITF, 2003c). It
+was adopted by close to 40 nations worldwide. Furthermore,
+since its launch, the ITN has been used as an indicator of the
+skill level of tennis players in multiple research studies related
+to physical fitness (Olcucu & Vatansever, 2015), health
+benefits (Fernandez Fernandez et al., 2009), psychology
+(Cherappurath et al., 2020), or stroke classification (Wu et al.,
+2022) among others. Apart from research projects, the ITN
+was also used by sport organisations such as Special Olympics
+for the classification of the tennis players participating in
+their competitions (Special Olympics, 2025).
+To emphasise the practical application of the ITN, an objective
+on-court assessment was developed. This tool was created
+specifically for the ITN and was an important instrument
+to facilitate the adoption of the rating. It was developed to
+engage recreational players who did not regularly participate
+in competitions. It served as an objective method for
+initially rating players at this level. While some limitations
+acknowledged as related to assessments non based on tennis
+match results (such as static feeding, assessing strokes in a
+closed situation, and only evaluating certain strokes), it was
+felt that the assessment could be used alongside the ITN.
+It not only provided an objective method for initially rating
+players without previous competition results but also served
+as an instrument that would assist in the promotion of the
+game and motivate players of all levels to have a more
+objective awareness of the level of their game (ITF, 2004).
+The assessment measured certain key strokes on consistency,
+accuracy (1st bounce), power (2nd bounce) and measures
+mobility. Coaches were registered as official assessors to
+use the instrument to rate players for competition and
+training (Sharp, 2007). The ITN on-court assessment was also
+included in the syllabi of the ITF coach education courses as
+part of the content for the first certification levels.
+Therefore, following the steps taken in the implementation
+of the ITN and the ITN on-court assessment, the goal of this
+article is to outline the development and validation of an
+initial on-court assessment for the ITF World Tennis Number
+(WTN). This assessment is designed for players without a prior
+WTN rating and focuses on their technical competencies.
+The assessment is evidence-based, drawing from scientific
+research and practical experience with previous on-court
+rating assessments, such as the ITN.
+METHODOLOGY
+Study design and implementation phases
+The
+research
+was
+conducting
+following
+several
+implementation phases. The first one was the literature
+review which encompassed a comprehensive examination
+of existing studies on tennis skill assessments and their
+pertinence to the World Tennis Number (WTN) as shown
+previously. The second phase consisted in an initial search
+for equivalence between the ITN and WTN was explored,
+considering various tests. This exploration aimed to establish
+a foundational equivalency between the two rating systems.
+Subsequently, the third phase involved the analysis of the most
+pertinent tests undertaken based on the literature. Notable
+examples of these tests included the Avery Richardson Tennis
+Serve Test (Avery et al., 1979, 1981; McGhee, 1981), the ITN
+on-court assessment, and the Dutch Technical-Tactical Tennis
+Test (D4T) (Kolman et al., 2017). These tests were chosen for
+their relevance and ability to accurately measure tennis skills.
+The initial conclusion of this phase was that the ITN on-court
+test seemed the most accurate and viable according to the
+goals of the study.
+Finally, the fourth phase consisted in the establishment of
+an equivalency between the ITN-based on-court test and
+the WTN. This validation was conducted through practical
+on-court testing involving 106 players, who were later
+categorized into four distinct WTN level groups. Statistical
+analysis was employed to identify the sections of the ITNbased on-court test that most effectively predicted the
+players' WTN, ensuring the reliability and accuracy of the
+assessment process.
+Sample
+The sample included 106 recreational players, with a mean
+age of 18.62 ± 9.33 years and a WTN between 20 and 40,
+representing the national federations from the following
+nations: Argentina, Brazil, Colombia, Singapore, the United
+Kingdom, and the United States. The selection criteria for
+these nations included the degree of implementation of
+the ITF WTN, availability of test deliverers, availability of
+players, regional distribution, and recognition of their Coach
+Education System.
+All players joined voluntarily to take part in the study, they were
+informed of the research procedure prior to commencement
+by the test deliverer, they all indicated that were healthy and
+injury free, were given the opportunity to ask any questions
+regarding the process and agreed to participate freely in the
+activity. Table 1 shows the geographical distribution of the
+players participating in the study.
+Table  1
+Geographical distribution of the players participating in the study.
+Countries
+Number of players
+Argentina
+Brazil
+Colombia
+Singapore
+United Kingdom
+United States
+TOTAL
+Instrument
+As indicated, it was considered that the ITN was the oncourt assessment test that would better adapt to the goals
+of the study. Furthermore, due to previous challenges
+in the implementation and measurement of the mobility
+section of the ITN test, it was agreed that the test would
+comprehensively cover all the basic tennis strokes — serve,
+groundstrokes depth, groundstrokes accuracy and volleys —
+ensuring that players were assessed across the full range of
+fundamental techniques. The decision to exclude physical
+components from the assessment was made deliberately to
+ensure broad applicability and ease of implementation across
+diverse tennis settings. While tactical decision-making and
+physical fitness are undoubtedly integral to overall tennis
+performance, their reliable measurement typically requires
+more complex testing protocols, greater assessor expertise,
+and specific equipment or match-play conditions. These
+constraints would hinder the scalability of the tool, particularly
+in developing contexts or grassroots programs. Therefore,
+prioritizing technical stroke execution allows for a valid and
+objective assessment that remains accessible, time-efficient,
+and consistent across settings, without compromising the
+purpose of initial classification. It was believed that this
+inclusion guarantees a holistic evaluation of a player’s oncourt capabilities as per stroke production. For a description
+of the main characteristics of the ITN on-court assessment
+test interested readers are directed to its guide (ITF, 2004).
+The ITN-based on-court assessment tests selected for this
+study are shown in Figure 1.
+Figure  1. ITN-based on-court assessment tests selected for this study.
+Data analysis
+Descriptive statistics were calculated for all variables,
+expressed as means and standard deviations. The normality
+of the distribution was assessed using the Shapiro-Wilk test,
+revealing that all variables followed a normal distribution.
+Given these results, parametric tests were applied for
+normally distributed variables. A Pearson’s correlation
+analysis was computed to assess the relationships between
+the variables. Correlations were classified as trivial (0–0.1),
+small (0.1–0.3), moderate (0.3–0.5), large (0.5–0.7), very large
+(0.7–0.9), nearly perfect (0.9), and perfect (1.0) Additionally,
+a stepwise multiple regression analysis was performed
+to determine the best predictors of WTN, retaining only
+the most relevant variables based on Akaike Information
+Criterion (AIC). The final predictive model was evaluated in
+terms of its explanatory power, using the adjusted R² value
+and the Root Mean Square Error (RMSE), obtained through
+cross-validation. Statistical significance was established at an
+alpha level of p ≤ 0.05. All statistical analyses were performed
+using RStudio (Version 2024.04.1+748.)
+RESULTS
+Table 2 presents the descriptive statistics for each of the
+analysed variables. The results indicate that the mean serve
+score was 66.30 (SD = 16.23), ranging from 25 to 96. The
+average groundstrokes depth was 52.33 (SD = 12.28), with
+values between 20 and 80, while groundstrokes accuracy had
+a mean of 55.08 (SD = 14.65), ranging from 23 to 91. The
+mean volley score was 34.51 (SD = 10.62), with a minimum
+value of 14 and a maximum of 60.
+Regarding rating systems, the International Tennis Number
+had a mean value of 211.86 (SD = 37.43), ranging from 118 to
+305. The World Tennis Number showed an average of 27.81
+(SD = 3.83), with a minimum of 20 and a maximum of 40.
+Table  2
+Descriptive statistics of performance and rating variables.
+Variable
+Mean (SD)
+Min-Max
+Serve
+66.30 (16.23)
+25-96
+Groundstrokes depth
+52.33 (12.28)
+20-80
+Groundstrokes accuracy
+55.08 (14.65)
+23-91
+Volley
+34.51 (10.62)
+14-60
+ITN-based on-court test
+211.86 (37.43)
+118-305
+World Tennis Number
+27.81 (3.83)
+20-40
+SD: Standard deviation; Min: Minimum; Max: Maximum; ITN: International
+Tennis Number.
+The correlation coefficients between the variables are shown
+in Figure 2. The ITN-based test had the strongest negative
+correlation with WTN (r = -0.45, p < 0.05), followed by Serve
+(r = -0.39, p < 0.05) and Volley (r = -0.31, p < 0.05). Other
+variables (Groundstrokes depth and Groundstrokes accuracy)
+showed weaker correlations with WTN. These results indicate
+that higher ITN scores are associated with lower WTN scores,
+suggesting that ITN-based test is a critical factor in predicting
+WTN.
+As shown in Table 3, the stepwise multiple regression
+analysis retained ITN as the only significant predictor of
+WTN, removing groundstrokes depth, Volley, groundstrokes
+accuracy, and serve due to their lack of statistical significance.
+The final regression equation was: WTN=37.64−0.0464×ITNbased.
+Table  3
+Stepwise regression model results.
+Predictor
+Estimate
+Std. Error
+t-value
+p-value
+AIC
+Intercept
+37.6429
+1.9229
+19.577
+<0.001
+263.17
+ITN-based
+test
+-0.0464
+0.0089
+-5.194
+<0.001
+The model was statistically significant (F (1, 104) = 26.98,
+p < 0.001), indicating a meaningful relationship between
+ITN-based test and WTN. The adjusted R² value was 0.198,
+suggesting that ITN explains approximately 19.8% of the
+variance in WTN. The negative coefficient for ITN (-0.0464,
+p < 0.001) confirms that as ITN-based test increases, WTN
+decreases. The residual standard error of the model was
+3.428, and the Root Mean Square Error (RMSE) on the test
+dataset was 3.54, indicating moderate predictive accuracy.
+DISCUSSION
+The findings of this study provide strong support for the initial
+validation of the ITF World Tennis Number (WTN) on-court
+assessment as a reliable method for assigning initial player
+ratings. The observed correlations between WTN ratings and
+on-court performance indicators align with previous research
+validating rating systems such as the ITN and UTR (Im & Lee,
+2023; Krall et al., 2024). This reinforces the legitimacy of
+using standardized assessment methods to determine player
+skill levels, particularly for those without prior match results.
+A key implication of our results is that the assessment offers
+a practical and scientifically grounded solution for assigning
+initial WTN ratings. Prior to this, rating systems like the WTN
+relied primarily on competitive match data (Santilli & Crespo,
+2023). However, this approach posed challenges for new
+players, as they required match history to receive an accurate
+rating. The introduction of an on-court assessment addresses
+this gap, ensuring that all players, regardless of competition
+history, receive an initial rating that reflects their technical
+abilities.
+Our findings are in line with previous research highlighting
+the importance of objective skill assessments in tennis.
+For example, standardized rating scales such as the ITN
+have been successfully utilized in junior player evaluations,
+demonstrating high validity and reliability (Ngatman et
+al., 2023). Similarly, studies on tennis ratings have shown
+that
+structured
+assessment
+methodologies
+contribute
+to improved match predictability (Im & Lee, 2023; Krall
+et al., 2024). The results of our study further confirm that
+structured on-court assessments can serve as effective tools
+for categorizing player skill levels in a manner consistent with
+broader rating frameworks. While the predictive accuracy
+of the WTN system has been affirmed in prior studies (Im
+& Lee, 2023; Mayew & Mayew, 2023), questions remain
+regarding the impact of algorithm modifications on rating
+stability (Krall et al., 2024). Future research should examine
+whether adjustments to the WTN algorithm, such as those
+Figure  2. Correlation between the tests of the ITN-based test with the
+WTN.
+Note: GS: Groundstrokes
+implemented in 2023, enhance the predictive capacity of the
+system or introduce new biases (Krall et al., 2024). Moreover,
+further investigations should explore the extent to which
+on-court assessments predict future match performance,
+especially among junior and recreational players.
+Another important consideration is the potential integration
+of physical and tactical components into the on-court
+assessment. Although our study focused primarily on
+technical competencies, prior research suggests that physical
+attributes, such as agility and endurance, also correlate with
+player performance (Morais et al., 2024; Olcucu & Vatansever,
+2015). However, the objective of this initial validation was to
+provide a test that is as simple as possible to apply, ensuring
+that coaches can implement it with ease. Objective and
+standardized measurement of these components typically
+requires either advanced monitoring equipment (e.g., wearable
+sensors or video analysis) or simulated match-play conditions,
+which may not be accessible in all implementation contexts.
+Moreover, such additions could increase administration
+time, reduce portability, and complicate scoring reliability. As
+such, while theoretically valuable, the practical integration
+of physical and tactical aspects must be carefully weighed
+against the assessment’s intended simplicity and scalability.
+In summary, our study demonstrates that the WTN on court
+assessment is a valid and practical method for establishing
+initial player ratings.
+LIMITATIONS
+Despite the promising findings, this study has some limitations.
+First, the sample size was limited, and further research with a
+larger and more diverse participant pool is needed to confirm
+the generalizability of the results. Second, the assessment
+strictly considers technical competencies, excluding physical,
+mental, and tactical aspects. While this is a limitation, it was
+intentionally designed this way to ensure a simple and easily
+applicable test for coaches. Third, external factors such as
+player motivation and environmental conditions were not
+considered, aligning with the study's focus on an objective,
+skill-based evaluation.
+PRACTICAL APPLICATIONS
+From a practical standpoint, the implementation of the WTN
+on court assessment offers a valuable tool for coaches and
+tennis organizations seeking to integrate a standardized
+and accessible rating system. The ease of administration
+makes it a practical solution for evaluating players who
+lack match history. Additionally, by providing an objective
+measure of technical ability, the WTN on court assessment
+can assist in training program design and player development
+strategies. By providing a standardized approach to rating
+assignment, the WTN on court assessment enhances the
+inclusivity and accessibility of the WTN system. Furthermore,
+organizing tournaments often presents challenges in
+accurately determining player levels, and this tool could help
+address that issue by offering a reliable initial classification.
+Future research should continue to refine the assessment
+methodology and investigate its long-term implications for
+player development and competitive fairness.
+CONCLUSIONS
+The decision to implement the on-court test for ITN-based
+test has proven to be appropriate, providing a highly accurate
+correlation between on-court performance and WTN
+classification. The developed formula allows for consistent
+and objective calculation of a player's WTN rating based
+on their on-court performance. This on-court assessment
+provides a highly accurate correlation between on-court
+performance and the classification within the ITF World
+Tennis Number, ensuring that players are rated reliably based
+on their skills and abilities displayed during actual play.
+It was also concluded that the ITN on-court test does not
+need to be conducted in its entirety. The final physical
+test segment has been eliminated, as it was found to be
+unnecessary for predicting WTN ratings. The streamlined test
+structure focuses on essential components while maintaining
+the accuracy and validity of the results, ensuring a holistic
+evaluation of players' capabilities. By focusing solely on the
+most critical performance components, the revised structure
+ensures a comprehensive yet practical assessment, making it
+more accessible for a broader range of players and evaluators.
+The WTN On-Court Assessment could transform the
+landscape of tennis, particularly for recreational players,
+over the next few years. Through the WTN On-Court
+Assessment, there would be opportunities not only to attract
+new individuals to the sport but also to retain and motivate
+both new and existing players to engage more with tennis.
+It is anticipated that, in a short time, most tennis players
+worldwide would hold a WTN On-Court Assessment, which
+would be recognized as the most objective procedure to
+access the ITF WTN, thus incorporating this crucial rating
+language in the tennis community.
+As the ITF World Tennis Number continues to evolve, it is
+suggested that its on-court assessment will have to be
+committed to refining and expanding to be used by as
+many interested parties as possible. Future research should
+explore additional variables that may enhance the predictive
+accuracy of WTN ratings while ensuring the system remains
+adaptable to diverse playing conditions and competitive
+levels. Moreover, continuous feedback from players,
+coaches, and tennis organizations will be crucial in optimizing
+the assessment protocol, ensuring it meets the needs of a
+growing and diverse tennis-playing population. By embracing
+these developments, the WTN On-Court Assessment has
+the potential to become a cornerstone of modern tennis
+evaluation, supporting data-driven player progression at all
+levels of the sport.
+ACKNOWLEDGEMENTS
+The authors would like to thank the players participating in
+the study, the International Tennis Federation Development
+Department, as well as Dr. Karl Davies (United States Tennis
+Association), Valeria MacLoughlin (Asociación Argentina de
+Tenis), Armando Gonzalez (Federación Colombiana de Tenis),
+Caio Cortela (Confederação Brasileira de Tênis), Merlin van de
+Braam (Lawn Tennis Association), and Wilson Tay (Singapore
+Tennis Association) for their invaluable assistance in ensuring
+the participation of players in the study.
+CONFLICT OF INTEREST AND DECLARATION OF FUNDING
+This study was funded by the International Tennis Federation
+Development Department and Generalitat Valenciana grants
+for Emergent Research Groups (CIGE - 2023/127). The
+authors declare that they do not have any conflict of interest
+in conducting the study.

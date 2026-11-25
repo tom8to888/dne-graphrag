@@ -1,0 +1,344 @@
+Title: Preliminary kinematic analysis of the serve in 10 and under players
+Authors: Maxime Fadier, Caroline Martin, Pierre Touzard
+Year: 2021
+Issue: Vol. 29 No. 85 (2021)
+Article id: 275
+
+ABSTRACT
+The serve is a fundamental stroke to win a match at a high level. From a long-term player
+development perspective, it is necessary to know the biomechanical learning stages of
+this stroke. However, the scientific data concerning the biomechanics of the serve have
+focused on the 12&U, 14&U, 16&U, 18&U and +18 categories. The objective of this
+study is to propose a preliminary kinematic analysis of the serve in children aged 10 and
+under (10&U) to provide benchmarks for coaches regarding the teaching of the serve in
+younger players.
+INTRODUCTION
+At a high level, the serve is the most important shot of the
+game, as it allows the player to dominate the opponent and
+win the rally quickly (Whiteside et al., 2013). Its effectiveness
+can influence the player's performance, the outcome of the
+point and the result of the match. Players who win the match,
+make fewer double faults and outperform their opponents
+in 1er serve percentage (Hizan et al., 2011). The percentage
+of total points won and points won after the first serve are
+determining factors in the junior game (Kovalchik & Reid,
+2017). If a player expects to have success at a high level on the
+junior and then the professional tour, learning to serve from
+the first years of practice (7&U, 9&U, 10&U) is very important.
+However, the serve is a complex shot whose execution can
+pose real problems to young players. For example, research
+has shown that in the 10&U category on green court the
+success rate is the lowest for the serve (Fitzpatrick et al.,
+2018). Therefore, when training these young players, the
+knowledge related to the technical execution of this stroke
+is paramount to provide guidance to coaches. However, data
+in the scientific literature regarding the biomechanics of the
+serve have focused on the 12&U, 14&U, 16&U, 18&U and +18
+categories (Fett et al., 2021; Fleisig et al., 2003; HernándezDavó et al., 2019; Touzard et al., 2019; Whiteside et al., 2013).
+Data for the 10&U category are very limited (Durovic et al.,
+2008). Therefore, the aim of this study is to describe different
+kinematic parameters of the 10&U serve.
+METHOD
+Six departmental level players, two girls and four boys,
+participated in this study (age: 9.3 ± 0.8 years; height: 136.0 ±
+5.8 cm; mass: 27.8 ± 3.8 kg). The study took place on a "green"
+court (24 m x 8.23 m) equipped by a motion capture system
+comprising 23 optoelectronic cameras (Oqus 7+, Qualisys
+System, Gothenburg, Sweden). The players were asked to
+serve 3 first flat serves in the serve box. The players and their
+rackets were equipped with reflective body markers (Figure
+www.itfcoachingreview.com
+December 2021. 29th Year. Issue 85. 12-14
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i85.275
+Preliminary kinematic analysis of the serve in 10
+and under players
+Maxime Fadier, Pierre Touzard & Caroline Martin
+M2S Laboratory, University of Rennes 2, Bruz, France.
+Key words: service, performance,
+biomechanics .
+Received: 27 September 2021
+Accepted: 15 November 2021
+Corresponding author: Caroline
+Martin. Email: caroline.martin@
+univ-rennes2.fr
+COACHING & SPORT
+SCIENCE REVIEW
+1). The ball speed was measured with a radar (Stalker Pro II+,
+USA). 16 kinematic parameters were calculated to describe
+the biomechanics of the serve (Table 1).
+Figure 1. Position of front and back markers.
+RESULTS
+The players hit the serves with a ball speed of 94 ± 10 km/h
+and a maximum racquet head speed of 93 ± 9 km/h. The
+10&Us showed a maximum rear knee flexion angle of 134 ±
+10 ° and a front knee flexion angle of 121 ± 12 °. The internal
+angles of maximum flexion were 83 ± 5° for the rear ankle and
+82 ± 9° for the front ankle. The speed of maximum extension
+was 508 ± 108 °/s for the rear ankle and 478 ± 100 °/s for the
+front ankle. The speed of maximum extension of the rear knee
+was 366 ± 153 °/s and 489 ± 160 °/s for the front knee. The
+maximum rear hip velocity was 1.3 ± 0.2 m/s, and 0.9 ± 0.3 m/s
+at the front hip. The maximum longitudinal hip rotation speed
+was 493 ± 154 °/s. The children flexed their trunk at a maximum
+speed of 286 ± 45 °/s. At the level of the dominant upper limb,
+10&U year olds reached maximum elbow extension velocities
+of 1003 ± 403 °/s, wrist flexion of 1472 ± 155 °/s and shoulder
+internal rotation of 1668 ± 668 °/s.
+DISCUSSION
+Ball speed is an indicator used in training to characterise the
+level of expertise of players and to evaluate the efficiency
+of their serves (Fleisig et al., 2003). Our results showed that
+the serve of 10&U players is about 60 km/h slower than
+that of 16&U players (Fett et al., 2021) and about 90 km/h
+slower than that of +18 professional players (Fleisig et al.,
+2003). Although these differences are largely related to the
+maturation of physical abilities from childhood to adulthood
+(Kovalchik & Reid, 2017), there are kinematic parameters that
+may account for the lower ball speed observed in 10&Us.
+The serve follows a proximo-distal sequence during which
+the movement starts with the proximal segments. At the
+start of the kinematic chain, our results showed that 10&Us
+flex the front knee more than the back knee (121 ± 12 ° vs.
+134 + 10 °). The maximum extension speed of the front knee
+was greater than that of the back knee (489 ± 160 °/s vs 366 ±
+153 °/s). For older age categories (12&U to adult), players do
+the opposite by increasing the flexion and then the extension
+speed of the back knee (Fett et al., 2021; Whiteside et al.,
+2013). Our results therefore demonstrated a still immature
+rear knee thrust in 10&U departmental level players. It can
+be hypothesized that this immature thrust is associated with
+an overly long stretch-shortening cycle of the lower limb
+resulting in dissipation of stored elastic energy having the
+effect of limiting the extension velocity produced by the lower
+limbs (Whiteside et al., 2013). Conversely, our results showed
+a more mature action at the ankles in 10&U as the maximum
+extension velocity of the rear ankle was approximately 30 °/s
+higher than that of the front ankle.
+At the trunk level, the maximum longitudinal hip rotation
+speed of 10&Us was similar to that of older players (Fett
+et al., 2021; Fleisig et al., 2003). In contrast, the maximum
+trunk flexion speed of 10&Us was lower than that of 16&Us
+(Fett et al., 2021). This result suggests that 10&Us favour
+longitudinal rotation of the trunk to create speed instead of
+the lateral trunk or shoulder over shoulder rotation, which is
+still not very effective because the leg thrust is still immature
+at that age. These two actions of the trunk (flexion and lateral
+tilt) thus constitute axes of progress to be considered during
+adolescence.
+Table 1
+Comparative table of the different parameters measured according to the age categories 10&U, 12&U, 16&U and +18.
+Parameters
+Our results
+Fett et al, (2021)
+Whiteside et al, (2013)
+Fleisig et al, (2003)
+10&U
+16&U
+12&U
+16&U
++18
++18
+Ball speed (km/h)
+94 ± 10
+151 ± 20
+/
+/
+/
+Men: 183 ± 14
+Women: 149 ± 14
+Maximum racquet head speed (km/h)
+93 ± 9
+/
+108 ± 11
+148 ± 11
+155 ± 11
+/
+Internal angle of maximum
+rear knee flexion (°)
+134 ± 10
+102 ± 10
+93 ± 10
+93 ± 8
+92 ± 8
+/
+Maximum internal angle of flexion
+of the front knee (°)
+121 ± 12
+108 ± 16
+105 ± 10
+115 ± 7
+111 ± 8
+/
+Maximum rear knee extension speed (°/s)
+366 ± 153
+518 ± 102
+/
+/
+/
+/
+Maximum front knee extension speed (°/s)
+489 ± 160
+447 ± 99
+/
+/
+/
+800 ± 400
+Maximum internal angle of flexion
+of the rear ankle (°)
+83 ± 5
+/
+/
+/
+/
+/
+Maximum internal ankle flexion angle (°)
+82 ± 9
+/
+/
+/
+/
+/
+Maximum rear ankle extension speed (°/s)
+508 ± 108
+/
+/
+/
+/
+/
+Maximum front ankle
+ extension speed (°/s)
+478 ± 100
+/
+/
+/
+/
+/
+Maximum rear hip speed (m/s)
+1,3 ± 0,2
+/
+1,8 ± 0,2
+1,9 ± 0,1
+2,3 ± 0,1
+/
+Maximum speed of the front hip (m/s)
+0,9 ± 0,3
+/
+1,4 ± 0,2
+1,5 ± 0,1
+1,7 ± 0,1
+/
+Maximum longitudinal
+hip rotation speed (°/s)
+493 ± 154
+424 ± 96
+/
+/
+/
+440 ± 90
+Maximum trunk bending speed (°/s)
+286 ± 45
+493 ± 71
+/
+/
+/
+/
+Maximum elbow extension speed (°/s)
+1003 ± 403
+1564 ± 327
+1147 ± 185
+1592 ± 191
+1524 ± 144
+1510 ± 310
+Maximum wrist flexion speed (°/s)
+1472 ± 155
+1071 ± 299
+1164 ± 189
+1581 ± 184
+1911 ± 264
+1950 ± 510
+Maximum shoulder internal
+1668 ± 668
+2029 ± 332
+1288 ± 365
+2165 ± 373
+2000 ± 297
+Men: 2420 ± 590
+Women: 1370 ± 730
+Maximum longitudinal shoulder
+585 ± 144
+/
+/
+/
+/
+870 ± 120
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2021 Maxime Fadier, Pierre Touzard & Caroline Martin
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms
+The dominant arm joints contribute strongly to speed
+production (Tanabe & Ito, 2007). The maximum elbow
+extension speed of 10&Us is comparable to that of 12&Us
+(Whiteside et al., 2013). In contrast, there is a significant
+deficit between the 10&Us and 16&Us, indicating minimized
+elbow involvement at younger ages. Thus, our results support
+the hypothesis of (Whiteside et al., 2013) that younger
+players employ a less ascending pre-impact racket trajectory
+than that used by older players, potentially explaining the
+differences in ball speed between these age categories.
+The internal shoulder rotation velocity of the 10&Us is
+higher than that of the 12&Us obtained by Whiteside et al.,
+(2013) but is significantly lower than those obtained by the
+16&Us, 18&Us and +18s (Table 1). The same is true for the
+maximum wrist flexion speed. These results provide a better
+understanding of the reduced ball speed in 10&Us insofar as
+it has been shown that shoulder internal rotation and wrist
+flexion speeds are the main contributors to linear racquet
+head speed (Tanabe & Ito, 2007).
+PRACTICAL APPLICATIONS
+The
+results
+of
+this
+study
+provide
+some
+practical
+recommendations for coaches of young players. After the
+age of 10 (12&U and 14&U categories), biomechanical work
+to improve the serve technique can be oriented on the action
+of the back knee. The aim is to progressively bring the young
+players to bend the back knee more to store a certain amount
+of elastic energy in the quadriceps and then to produce an
+explosive extension of the back knee that will allow them to
+efficiently engage the upward projection of the back hip and
+the rotation actions of the trunk (trunk flexion and shoulder
+over shoulder rotation) and the upper limb (elbow projection
+and internal rotation of the shoulder). Thereafter, targeted
+and adapted muscle strengthening work during adolescence
+(16&U, 18&U and +18) will allow to optimize segmental and
+joint rotation speeds such as rear knee extension, shoulder
+internal rotation, elbow extension or trunk flexion.
+CONCLUSIONS AND WAY FORWARD:
+This study shows that the 10&Us perform immature actions of
+the back knee, elbow and shoulder during the serve compared
+to older age groups, which helps to explain their reduced ball
+speed performance. In contrast, the ankle and longitudinal hip
+rotation actions were found to be biomechanically already in
+place. Future work is needed to determine whether scaling
+the environment (court size, net height) to the morphology
+of the 10&Us would facilitate serve learning, improve their
+performance, and result in biomechanical parameters closer
+to those measured for older age groups.
+CONFLICT OF INTERESTS AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.
+ACKNOWLEDGEMENTS
+The authors want to thank Nicolas Cantin, territorial sports
+advisor, Brittany Tennis League and all the players who
+participated in this study.

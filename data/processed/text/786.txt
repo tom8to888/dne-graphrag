@@ -1,0 +1,643 @@
+Title: From park courts to podium: How sports science transformed GB Wheelchair Tennis
+Authors: Victoria Goosey-Tolfrey, Dawn Newbery, Jayant Mistry
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 786
+
+Early Development: Limited Structure,
+Minimal Evidence
+In the late 1980s and early 1990s, wheelchair tennis
+was characterised by low participation numbers,
+limited competition structures, and minimal scientific
+understanding. Athletes such as four-time Paralympian
+Jayant Mistry competed at the inaugural Barcelona
+1992 Games (Figure 1) and went on to win a Wimbledon
+wheelchair doubles title in 2005. They operated in an
+environment with few tournaments, limited funding,
+and no formal performance system. At this stage,
+training was largely unstructured and based on general
+activity rather than sport-specific preparation. In
+1993, the International Wheelchair Tennis Foundation
+(IWTF) organised its first Wheelchair Tennis Coaches
+Conference in Austria, identifying key themes that
+national coaches could disseminate within their
+respective countries, marking an early step towards
+the sharing of knowledge and good practice. Crucially,
+there was little understanding of the physiological,
+biomechanical, and technical demands unique to
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 17-24
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.786
+From park courts to podium: How sports science
+transformed GB Wheelchair Tennis
+Vicky Goosey-Tolfrey1, Dawn Newbery and Jayant Mistry
+1Centre for Para and Disability Sport Innovation, Loughborough University, UK.
+Abstract
+Over the past three decades, GB wheelchair tennis has evolved from a largely informal participation
+sport into a highly professional, performance-driven discipline underpinned by applied sports science.
+This transformation has been driven by sustained collaboration between athletes, practitioners, and
+academic institutions, enabling the development of evidence-based approaches to training, equipment
+design, and competition preparation. Early stages were characterised by limited infrastructure,
+minimal scientific understanding, and unstructured training. However, targeted research in physiology,
+biomechanics, and performance analysis established the foundation for structured athlete development.
+Advances in field- and laboratory-based testing have enabled practitioners to identify key determinants
+of performance, including aerobic and anaerobic capacity, mobility efficiency, and technical proficiency.
+Research has highlighted the importance of movement efficiency and the athlete-wheelchair interface,
+with optimised chair configuration and propulsion mechanics enhancing performance and reducing
+injury risk. Interdisciplinary support, including nutrition, recovery, and thermal management strategies,
+has further improved athlete preparation. Collectively, the GB model demonstrates how integrated
+sports science can transform Paralympic sport, contributing to sustained international success and
+providing a framework for future innovation.
+Key words: athlete-equipment interaction; performance analysis; thermoregulation; wheelchair mobility.
+Received: 13 February 2026. Accepted: 30 April 2026.
+Corresponding author: V.L.Tolfrey@lboro.ac.uk
+wheelchair tennis. Subsequent comparative research
+highlighted that wheelchair tennis imposes distinct
+physiological demands relative to other wheelchair
+sports, reinforcing the need for sport-specific training
+approaches and targeted scientific investigation (Croft
+et al., 2010).
+Establishing an Evidence Base for
+Performance
+The late 1990s and early 2000s marked the beginning
+of systematic research into wheelchair tennis
+performance, particularly following Sydney 2000
+Paralympic Games. Prior to this period, competitive
+success had been concentrated among a small number
+of nations, with only five countries (The Netherlands,
+USA, Australia, Germany and France), winning
+medals across the previous three Paralympic Games
+(Bunting, 2001). This concentration highlighted both
+the limited global performance depth and the need
+for a more robust, evidence-based approach to athlete
+development.
+University’s
+in
+UK,
+notably
+Manchester
+Metropolitan
+University
+and
+Loughborough
+University, played a pivotal role in advancing applied
+research in the sport. These institutions contributed
+to the development of athlete testing and monitoring
+methodologies, introducing both field-based and
+laboratory protocols (Figure 2a and 2b) to assess
+aerobic and anaerobic capacity, mobility performance,
+and sport-specific fitness (Goosey-Tolfrey & Leicht,
+2013). These approaches formed the foundation
+for more structured training programmes and, in
+collaboration with individual and national coaches,
+enabled the identification of key performance
+determinants across the men’s, women’s, and quad
+divisions. Training environments began to evolve, with
+performance camps and training weekends becoming
+increasingly interdisciplinary, integrating coaching,
+sport science, and medical support. This marked a
+transition towards more focused, performance-based
+programmes, including systematic player screening
+and profiling practices.
+Importantly, research demonstrated that wheelchair
+tennis performance is multifactorial, influenced not
+only by physiological capacity but also by movement
+efficiency and court mobility. Match-play analysis
+revealed that higher-ranked players typically move
+faster and cover greater distances while operating
+at similar physiological loads to their lower-ranked
+counterparts, highlighting efficiency rather than
+effort as a key differentiator (Sindall et al., 2013).
+Subsequent work further demonstrated that match
+context, including score margin and competition
+level, significantly influences the physical and
+technical demands of play (Mason et al., 2020).
+Collectively, this growing evidence base underpinned
+the professionalisation of the sport and informed the
+development of more targeted, sport-specific training
+interventions.
+The Athlete-Chair Interface: Ergonomics
+and Biomechanics
+A defining feature of wheelchair tennis is the interaction
+between the athlete and their equipment. Research
+into wheelchair configuration has demonstrated that
+performance is dependent on the combined system
+of athlete and chair, rather than in isolation (Mason
+et al., 2013). Advances in ergonomics have shown
+that variables such as seat position, wheel camber,
+and hand-rim design directly influence propulsion
+efficiency, mobility, and injury risk. In addition, the
+presence of a racket introduces further biomechanical
+constraints on propulsion, as athletes must generate
+force asymmetrically while maintaining ball control.
+Propelling with a racket has been shown to reduce
+wheelchair velocity compared to propulsion without,
+highlighting the additional technical and physical
+demands imposed during tennis-specific movement
+(Goosey-Tolfrey and Moss, 2005).
+Early
+qualitative
+and
+experimental
+studies
+highlighted how athletes perceive and adapt their
+chair configurations to optimise performance (Mason
+et al., 2010; Mason et al., 2013). Recent technological
+developments have further enhanced this field. The
+use of inertial measurement units (IMUs) now allows
+detailed quantification of drag forces, propulsion
+mechanics, and power output during tennis-specific
+movement tasks (Rietveld et al., 2024). These
+innovations enable more precise individualisation of
+equipment and training interventions.
+Movement Analysis and Performance
+Tracking
+The ability to quantify movement and match demands
+has been critical to performance development.
+Early work evaluating data logging technologies
+highlighted methodological limitations and the need
+for higher-resolution tracking systems in wheelchair
+sport (Sindall et al., 2013). More broadly, early wheelrotation logger approaches can be accurate at low
+speeds but show meaningful error when speeds
+exceed ~2.5 m·s⁻¹, which is problematic as wheelchair
+Figure 1. British athlete (Jayant Mistry) warming up at
+the 1992 Paralympic Games. Photo courtesy of Dawn
+Newbery.
+vary according to sport class (open versus quad),
+gender, and playing surface, with the current evidence
+base heavily weighted towards male athletes in the
+open division and comparatively limited data available
+for female and quad players (Williamson et al., 2024).
+Surface type further influences match characteristics
+and physical demands. Research has demonstrated
+differences in rally length, shots per point, and
+overall match structure across hard, clay, and grass
+courts, with hard courts generally associated with
+longer rallies and greater physical demands compared
+to clay and grass surfaces (Sánchez-Pay & SanzRivas, 2021). These findings highlight the need for
+training prescription to be contextualised not only
+to competition level but also to environmental
+constraints and athlete classification.
+Crucially, modern tracking systems enable analysis
+beyond linear distance and speed, capturing the
+rotational and multidirectional characteristics that
+define wheelchair tennis. In IMU-derived datasets,
+wheelchair mobility performance can be reduced
+to key components including rotational movement
+(racket vs non-racket side), linear accelerations, and
+high-speed propulsion (Rietveld et al., 2023). Applied
+benchmarks indicate high-speed efforts (>2 m·s⁻¹)
+occur approximately 2.7-3.7 times per minute,
+with mean accelerations around 1.10-1.25 m·s⁻²,
+highlighting
+intermittent,
+high-intensity
+nature of match play (Rietveld et al., 2023). These
+developments have strengthened the specificity of
+training prescription and enhanced the capacity to
+individualise conditioning and mobility interventions.
+Furthermore,
+practice-based
+interventions
+have
+been shown to improve both propulsion skill and
+psychological
+outcomes,
+including
+self-efficacy,
+reinforcing the importance of skill acquisition
+alongside physical conditioning (Sindall et al., 2021).
+Training,
+Recovery,
+and
+Athlete
+Preparation
+As the sport professionalised, training approaches
+evolved from volume-based models to structured,
+periodised programmes informed by physiological
+testing and competition demands. Multidisciplinary
+support teams became embedded within performance
+pathways,
+integrating
+expertise
+in
+physiology,
+biomechanics, nutrition, and psychology. Research
+has highlighted the importance of individualised
+training prescription and monitoring in wheelchair
+court sports (Paulson & Goosey-Tolfrey, 2017). In
+parallel, attention has turned to recovery strategies,
+with studies identifying a wide range of practices used
+by athletes to support performance and reduce fatigue
+(Murphy et al., 2021). Nutritional and hydration
+strategies have also been investigated, revealing the
+need for tailored approaches to support training and
+competition demands (Goosey-Tolfrey & Crosland,
+2010).
+court sports regularly surpass this threshold and
+require accurate high-speed tracking. This limitation
+has driven the transition toward inertial measurement
+units (IMUs), which provide continuous, highfrequency kinematic data (van der Slikke et al., 2021).
+Subsequent validation studies confirmed the reliability
+of inertial sensors for measuring speed and mobility
+in wheelchair court sports (Mason et al., 2014), with
+reported low error in speed estimates (<0.06 m·s⁻¹ up
+to ~6.0 m·s⁻¹), supporting their application in highintensity, multidirectional environments (van der
+Slikke et al., 2021).
+Recent
+IMU-based
+match
+monitoring
+provides
+clear applied benchmarks for conditioning and load
+prescription. Wheelchair tennis players are typically
+reported to compete for ~60 min per match, covering
+~1800–2200 m per set and reaching peak velocities
+of ~3-4 m·s⁻¹ (Sindall et al., 2013; Mason et al., 2020).
+These values offer practical anchors for developing
+tennis-specific conditioning and contextualising
+training load relative to competition demands.
+However, these demands are not uniform across
+the sport. Emerging evidence indicates that match
+duration, rally characteristics, and physical demands
+Figure 2. Modern day on-court testing of (a) Lucy
+Shuker with IMUs on court 3 at AELTC Wimbledon
+and (b) Alfie Hewett at Loughborough University on
+the instrumented wheelchair ergometer.
+Figure 3. Athens 2004 GB wheelchair tennis support
+staff, Nik Diaper (physiologist) and Lynda Daley
+(physiotherapist) with Peter Norfolk (1st wheelchair
+tennis gold medallist). Photo courtesy of Dawn
+Newbery.
+Thermal Physiology and Environmental
+Challenges
+Wheelchair tennis is frequently played in challenging
+environmental conditions, with major competitions
+such as the Paralympic Games and Grand Slam
+tournaments often held in hot and humid climates.
+These conditions place significant thermoregulatory
+demands on athletes particularly for athletes with
+spinal cord injury (SCI), where reduced sweating and
+vasomotor control below the lesion can constrain
+heat dissipation and increase heat storage (Griggs
+et al., 2015). In match settings, even under moderate
+environmental conditions, wheelchair tennis can
+elicit meaningful increases in core body temperature.
+For example, during a 45 min singles match at
+the British Open (WBGT ~18–20 °C), core body
+temperature increased by ~0.6 ± 0.1 °C in players with
+SCI compared to ~0.3 ± 0.1 °C in players without a
+SCI, despite similar match intensity (Veltmeijer et al.,
+2014). This greater rise may reflect reduced capacity
+for heat dissipation during intermittent recovery
+periods, leading to cumulative thermal strain in
+athletes with a SCI.
+Practitioner
+Development
+and
+Embedded Sports Scientist Model
+Alongside advances in physiology, biomechanics, and
+performance analysis, a defining feature of the GB
+wheelchair tennis system has been its approach to
+practitioner development. This centred on embedded,
+athlete-focused model of sports science delivery.
+Rather than working as external consultants, sports
+scientists were integrated into daily training and
+competition environments. They worked closely
+with athletes and coaches to co-develop applied
+solutions. Importantly, GB wheelchair tennis was one
+of the few Paralympic sports at the time to include
+a dedicated physiologist with its own support team,
+as demonstrated at the Athens 2004 Paralympic
+Games. This early integration of sport science support
+helped establish a more holistic and interdisciplinary
+performance model.
+The embedded approach played a key role in both
+knowledge translation and practitioner development.
+Early examples include Nik Diaper (Figure 3),
+who gained initial experience as a master’s-level
+physiologist at the Athens 2004 Paralympic Games.
+This exposure contributed to his later leadership roles
+within the English Institute of Sport (now UK Sports
+Institute), where he helped shape interdisciplinary
+support models across Paralympic programmes.
+Similarly, John Lenton’s early applied work within
+wheelchair tennis supported his progression to senior
+roles within British Cycling’s Paralympic programme.
+This highlights the transferability of expertise
+developed within disability sport environments.
+Central to this approach has been a philosophy of
+co-production, where research questions emerge
+directly from athlete and coach needs rather than
+being imposed externally. This aligns with broader
+perspectives in Paralympic sport science, which
+emphasise the importance of “asking the right
+questions” and developing context-specific solutions
+in collaboration with athletes (Goosey-Tolfrey, 2010;
+Paulson & Goosey-Tolfrey, 2017). Such an approach
+has
+enabled
+rapid
+iteration
+between
+research
+and practice, ensuring that scientific insights are
+both ecologically valid and directly applicable.
+The embedded scientist model has also facilitated
+integration
+of
+multidisciplinary
+expertise,
+allowing practitioners to link physiological testing,
+biomechanical analysis, and performance tracking
+within a coherent support framework. Importantly,
+this model has extended beyond the UK, with similar
+approaches now being adopted internationally as
+other nations seek to replicate the success of British
+Paralympic sport systems. Collectively, practitioner
+development and embedded sports science delivery
+have been key drivers of innovation in wheelchair
+tennis, highlighting that performance gains are not
+only the result of new technologies and methods, but
+also of the environments and systems in which they
+are developed and applied.
+limited and often framed through narratives of
+inspiration or personal overcoming. However, over
+the past decade, there has been a clear shift towards
+recognising Para athletes as elite performers, with
+coverage increasingly centred on performance quality,
+competition, and statistical analysis.
+In the UK, this transition is evident across multiple
+platforms. Wimbledon, broadcast by the BBC, has
+progressively elevated wheelchair tennis by moving
+matches onto show courts and into live broadcast slots,
+exposing wider audiences to the speed, technical skill,
+and tactical complexity of the sport. This increased
+visibility has translated into growing audiences, with
+viewing figures for wheelchair tennis at Wimbledon
+rising as matches have been showcased alongside
+able-bodied events, reinforcing its legitimacy as
+high-performance sport. Complementing this, digital
+innovations such as the BBC Red Button and live
+streaming have expanded access beyond traditional
+broadcast schedules, exemplified by coverage of
+events such as Loughborough Lightning wheelchair
+basketball. These platforms allow audiences to engage
+with Para sport in real time, increasing both reach and
+depth of engagement (LTA, 2022).
+Early work from Webborn and colleagues (2010)
+demonstrated that in a controlled hot environment
+(32 °C; 50% RH), precooling and cooling during
+exercise (with an ice vest) significantly attenuated
+increases in core temperature (37.3 ± 0.3 °C control vs
+36.5 ± 0.6 °C precooling and 37.0 ± 0.5 °C per-cooling;
+P < 0.01), alongside reductions in perceived exertion
+(Webborn et al., 2005). Subsequent work confirmed
+the performance relevance of these interventions,
+with cooling strategies improving tolerance to
+intermittent high-intensity exercise in the heat. Time
+to exhaustion was extended (e.g., ~52.8 ± 5.8 min
+precooling vs ~47.2 ± 10.8 min control), demonstrating
+that reducing thermal strain can preserve repeatedeffort capacity (Webborn et al., 2010).
+From a mechanistic perspective, the effectiveness
+of cooling strategies is strongly influenced by heat
+transfer properties. Water has approximately 25-27
+times greater thermal conductivity than air, meaning
+water-based cooling methods can remove heat more
+effectively when sufficient surface area contact is
+achieved (Griggs et al., 2015). For example, cold-water
+immersion (~10 °C for ~20 min) can remove ~100150 W of heat, although such approaches are often
+impractical during match play and may interfere with
+hand function in wheelchair sports (Griggs et al.,
+2015). In contrast, commonly used strategies such
+as wet towels or brief water dousing may provide
+only localised cooling with limited impact on core
+temperature, particularly in humid conditions where
+evaporative cooling is restricted (Figure 4). Evidence
+suggests such approaches do not consistently improve
+performance or perceptual responses in SCI athletes
+when used in isolation (Griggs et al., 2015). Practically,
+this highlights the need for a layered approach to
+thermal management. Combining internal cooling
+(e.g., ice slurry ingestion), targeted external cooling
+(e.g., cooling garments), and structured hydration
+strategies is likely to be more effective than single
+interventions alone. In wheelchair tennis, ice slurry
+ingestion (~6.8 g·kg⁻¹ total dose) has been shown to
+reduce gastrointestinal temperature and improve
+thermal sensation during exercise in the heat
+(Stephenson et al., 2022). Hydration also requires
+careful planning, as interventions that improve
+thermal comfort may reduce voluntary fluid intake.
+For instance, cooling garments have been shown to
+reduce ad libitum fluid consumption despite ongoing
+sweat
+losses
+(~200–1300 mL),
+emphasising
+need for structured hydration strategies rather than
+reliance on thirst alone (Goosey-Tolfrey et al., 2008).
+Media and Communication: From Visibility
+to High-Performance Recognition
+The growing visibility of Para sport within UK
+media has played a critical role in the evolution of
+wheelchair tennis and Paralympic sport more broadly.
+Historically, media coverage of disability sport was
+Figure 4. Older cooling strategies - Chris Illingworth
+trying to keep cool in Atlanta 1996 with a water bottle
+held to his head and Danni di Toro cooling down using
+a wet towel. Photos courtesy of Dawn Newbery.
+•	 Thermal management matters: Cooling strategies
+(e.g. ice slurry ingestion, cooling garments)
+are essential in hot environments to maintain
+performance and reduce risk.
+•	 Small changes can have large effects: Equipment
+modifications (e.g. low-compression balls) and
+surface-specific adjustments can meaningfully
+influence movement and skill development
+(Sindall et al., 2014).
+Conclusion: A Model of Integrated
+Sports Science
+The evolution of GB wheelchair tennis provides a
+clear example of how sports science can transform
+a sport. From early descriptive studies to advanced
+biomechanical modelling and applied interventions,
+research has informed every aspect of performance,
+from equipment design to training, recovery, and
+competition preparation. Crucially, this progress
+has
+been
+driven
+by
+an
+integrated
+approach,
+combining laboratory research, field-based testing,
+and practitioner expertise alongside individual and
+national coaching staff. The embedded sports scientist
+model, alongside the development of practitioners
+within applied environments, has been central to
+this success, enabling rapid translation of research
+into practice. As the sport continues to evolve, future
+developments in data analytics, artificial intelligence,
+and personalised performance modelling are likely to
+further enhance athlete preparation. The success of
+GB wheelchair tennis on the global stage reflects not
+only athlete talent, but also the sustained impact of
+science-informed practice, demonstrating the value
+of interdisciplinary collaboration in Paralympic sport.
+Importantly, this progression now extends beyond
+the training environment. The growing alignment
+between sports science, performance systems, and
+media representation ensures that wheelchair tennis
+is not only advancing in practice, but increasingly
+communicated, evaluated and recognised as an elite
+sport on the global stage.
+Conflict of Interest
+The authors declare that they have no conflicts of
+interest.
+Funding
+The study received no external funding.
+The Paralympic Games have been particularly
+influential in reshaping media narratives. Since
+London 2012, UK broadcasters most notably Channel 4
+have transformed the Paralympics into a mainstream
+sporting spectacle, delivering unprecedented levels of
+coverage and accessibility. For example, the Paris 2024
+Paralympics reached nearly 20 million UK viewers and
+generated billions of minutes of viewing across linear
+and streaming platforms, highlighting both the scale
+of audience engagement and the demand for Para
+sport content. Importantly, research indicates that
+this exposure has shifted how audiences perceive
+disability sport. Viewers increasingly recognise
+Paralympic competition as elite sport, valuing athletic
+performance and competitive excellence rather than
+solely personal narratives (Pullen et al. 2020).
+Academic work within media and communication has
+highlighted this shift as part of a broader transition
+from “inspirational” framing to “sporting legitimacy.”
+Paralympic broadcasting has contributed to the
+normalisation of elite disabled athletes, positioning
+them
+within
+high-performance
+sport
+discourse
+and emphasising metrics such as speed, distance,
+tactical execution, and medal success. This aligns
+closely with developments in sports science, where
+performance data, biomechanics, and match analytics
+now underpin both preparation and commentary. As
+a result, media coverage increasingly mirrors that
+of non-disabled sport, incorporating performance
+statistics, tactical breakdowns, and expert analysis
+reinforcing the credibility and professionalism of
+Para sport. In this way, media does not merely reflect
+progress in wheelchair tennis; it actively reinforces it,
+shaping how athletes are understood, evaluated, and
+celebrated within the wider sporting landscape.
+Key Messages for Coaches and Practitioners
+•	 Performance
+is
+multidisciplinary:
+Success
+is underpinned by integrated support teams
+combining physiology, biomechanics, nutrition,
+and psychology.
+•	 Movement efficiency is performance-critical:
+Higher-ranked players move faster and more
+effectively
+without
+increasing
+physiological
+strain, highlighting the importance of technical
+mobility training.
+•	 The athlete–chair interface is central: Optimal
+wheelchair configuration (e.g. seat position,
+camber, hand-rim) directly affects propulsion
+efficiency, performance, and injury risk.
+•	 Test, monitor, individualise: Reliable field and
+laboratory testing enables tailored training
+programmes and better understanding of athletespecific needs.
+Murphy, C. J., Mason, B. S., & Goosey-Tolfrey, V. L. (2021).
+Exercise
+recovery
+practices
+of
+wheelchair
+court
+sports athletes. Journal of Strength and Conditioning
+Research,
+35(2),
+366–372.
+https://doi.org/10.1519/
+JSC.0000000000003926
+Paulson, T., & Goosey-Tolfrey, V. L. (2017). Current
+perspectives on profiling and enhancing wheelchair
+court sport performance. International Journal of Sports
+Physiology and Performance, 12(3), 275–286. https://
+doi.org/10.1123/ijspp.2016-0231
+Pullen, E., Jackson, D., & Silk, M. (2020). Watching disability.
+UK audience perceptions of the Paralympics, equality
+and social change. European Journal of Communication,
+35(5). https://doi.org/10.1177/0267323120909290
+Rietveld, T., Mason, B. S., Goosey-Tolfrey, V. L., van der
+Woude, L. H. V., de Groot, S., & Vegter, R. J. K. (2024).
+Inertial measurement units to estimate drag forces and
+power output during wheelchair tennis tests. Sports
+Biomechanics, 23(8), 968–986. https://doi.org/10.1080/
+14763141.2021.1902555
+Rietveld, T., Vegter, R. J. K., van der Slikke, R. M. A., van
+der Woude, L. H. V., & de Groot, S. (2023). Six inertial
+measurement
+unit-based
+components
+describe
+wheelchair mobility performance during wheelchair
+tennis matches. Sports Engineering, 26, 32. https://doi.
+org/10.1007/s12283-023-00424-6
+Sánchez-Pay, A., & Sanz-Rivas, D. (2021). Physical and
+technical demand in professional wheelchair tennis on
+hard, clay and grass surfaces: Implication for training.
+International Journal of Performance Analysis in Sport,
+21(4), 463–476. https://doi.org/10.1080/24748668.2021.
+1912957
+Sindall, P., Lenton, J. P., Malone, L., Douglas, S., Cooper, R. A.,
+Hiremath, S., Tolfrey, K., & Goosey-Tolfrey, V. L. (2014).
+Effect of low-compression balls on wheelchair tennis
+match-play. International Journal of Sports Medicine,
+35(5), 424–431. https://doi.org/10.1055/s-0033-1354384
+Sindall, P., Lenton, J. P., Mason, B. S., Tolfrey, K., Cooper, R.
+A., Martin Ginis, K. A., & Goosey-Tolfrey, V. L. (2021).
+Practice improves court mobility and self-efficacy in
+tennis-specific wheelchair propulsion. Disability and
+Rehabilitation: Assistive Technology, 16(4), 398–406.
+https://doi.org/10.1080/17483107.2020.1761892
+Sindall, P., Lenton, J. P., Tolfrey, K., Cooper, R. A., Oyster,
+M. L., & Goosey-Tolfrey, V. L. (2013). Wheelchair
+tennis match-play demands: Effect of player rank and
+result. International Journal of Sports Physiology and
+Performance,
+8(1),
+28–37.
+https://doi.org/10.1123/
+ijspp.8.1.28
+Stephenson, B. T., O’Brien, T. J., Hutchinson, M. J., D’Angeli,
+C., Cockram, A., Mason, B. S., & Goosey-Tolfrey, V. L.
+(2022). Ice slurry ingestion lowers thermoregulatory
+strain in wheelchair tennis players. International
+Journal of Sports Physiology and Performance, 17(12),
+1748–1755. https://doi.org/10.1123/ijspp.2022-0174
+van der Slikke, R. M. A., Rietveld, T., Goosey-Tolfrey, V. L.,
+& Berger, M. A. M. (2026). Trunk function: The core of
+mobility performance in wheelchair tennis. Frontiers
+in Sports and Active Living, 8, 1783088. https://doi.
+org/10.3389/fspor.2026.1783088
+van der Slikke, R. M. A., Sindall, P., Goosey-Tolfrey, V. L., &
+Mason, B. S. (2021). Load and performance monitoring
+in wheelchair court sports: A narrative review. European
+Journal of Sport Science, 21(10), 1411–1421. https://doi.
+org/10.1080/17461391.2020.1803390

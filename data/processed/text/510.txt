@@ -1,0 +1,643 @@
+Title: Skill Acquisition and representative design: recommendations for tennis practice
+Authors: Tom Parry, Philip O'Callaghan, Audrey Strawsma
+Year: 2024
+Issue: Vol. 32 No. 94 (2024)
+Article id: 510
+
+www.itfcoachingreview.com
+December 2024. 32th Year. Issue 92. 37-50
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i94.510
+INTRODUCTION
+Traditional, linear views of skill learning are prevalent in
+coaching due to an information processing view being the
+leading theoretical framework at coaching conferences and
+on licensure courses. However, the influence of information
+processing as the predominant explanation of skill learning
+has waned in the academic literature with the advent of
+more contemporary theories (Reid et al., 2007; Anderson
+et al., 2021), such as ecological dynamics (Araujo & Davids,
+2011). Furley (2016) suggests the drop in popularity may be
+due to information processing accounts of skilled behavior
+not adequately accounting for the complex dynamic nature
+of sport. This would indicate that commonly held coaching
+beliefs grounded in an information processing view of skill
+learning need to be updated (Parry & O’Rourke, 2023;
+Renshaw & Chow, 2019). Experiential knowledge gained
+through coaching experience must be complemented by
+knowledge from empirical, motor skill learning research, so
+that unsubstantiated opinions of historical precedence, even
+if successful for the coach as a player, do not bias learning
+designs in sport (Chow et al., 2022). It is without a doubt
+that a coach’s beliefs and assumptions about skill acquisition
+play an integral role in how they design activities, the focus
+of their instruction and provision of feedback. Traditionally
+this may look like the demonstration of “correct” technique,
+isolated practice drills and extensive verbal feedback all
+grounded in an information processing view of skill (Davids
+et al., 2008; Anderson et al., 2021). Unfortunately, although
+these coaching practices are common, they do not have
+extensive support from the skill acquisition literature. In fact,
+many are often counter to what we know about how people
+develop and control skilled action. Whether articulated or
+not, all coaching methods are driven by our underlying beliefs
+about skill learning [See Figure 1] (Parry & O’Rourke, 2023).
+If a coach’s assumptions about skill learning are not grounded
+in sound skill acquisition theory, all coaching methods used
+as a function of those assumptions are somewhat flawed. A
+common approach of repetitively practicing so-called “correct
+technique” in sterile environments, could be attributed to
+ABSTRACT
+This article discusses the concept of representative practice design and the supporting
+skill acquisition theoretical framework. Implications for tennis coaching will be presented
+including a model for tennis task design. The goal of this paper is to introduce coaches
+to the concept of representative practice design, explain the rationale and supporting
+theoretical evidence and provide tools for coaches to design their own practice tasks to
+maximize skill development.
+Skill acquisition and representative design:
+recommendations for tennis practice
+Tom Parry¹, Philip O'Callaghan² & Audrey Strawsma³
+¹Butler University, ²Carrignafoy Community College, ³IU Kokomo.
+Key words: ecological dynamics,
+skill learning, practice design.
+Received: 5 October 2024
+Accepted: 2 May 2024
+Corresponding author: Tom Parry,
+tparry@butler.edu
+COACHING & SPORT
+SCIENCE REVIEW
+the belief in “muscle memory”, that players must first ingrain
+the correct technique prior to game application (Smith,
+2018). What is problematic is that from a skill acquisition
+perspective, the concept of muscle memory has zero evidence
+to support its existence (Parry & O’Rourke, 2023; Roetert et
+al, 2018; Ivancevic et al., 2012). Many coaches solely depend
+on their playing and coaching experiences to guide their
+beliefs and therefore are susceptible to myths such as muscle
+memory which perpetuates traditional practices (Figure 1).
+This underlines the importance for coaches to have a strong
+grasp of skill acquisition theories to support their coaching
+and ultimately athlete performance. Therefore, as noted
+in Figure 1, prior experiences of learning to play becomes
+the foundation of coaching that then feeds into the coach’s
+unquestioned assumptions and beliefs about learning, that in
+turn perpetuates traditional methods of instruction.
+Figure 1. Relationship between assumptions and beliefs about learning
+and chosen practice methods. Adapted from Parry & O’Rourke (2023).
+DEFINING SKILLED PERFORMANCE
+Skill can be described in numerous ways depending on the
+theoretical lens one uses; the two main ones being information
+processing and ecological dynamics. Information processing
+is aligned with schema theory, where the development
+of mental representations of skilled action is established
+through repeated practice of the correct action (Schmidt,
+1975, Renshaw & Chow, 2019). Ecological dynamics on the
+other hand views skill as an adaptive, functional relationship
+between the individual and performance environment
+(Araujo & Davids, 2011). In this vein, skill learning is not
+the acquisition of mental representations, but the process
+of adapting and attuning to the information present in the
+performance environment (Renshaw & Chow, 2019).
+One thing they do seem to agree on is that skill is goaldirected, meaning it is performed to achieve some objective,
+it has a purpose (Coker, 2021). Although both theories appear
+to agree that achieving a task goal is a key descriptor of
+skilled behavior, many coaches appear to be enamored with
+movement production, such as specific techniques, without
+enough attention on the movement outcome, or achievement
+of the task goal. The assumption is that if a player can develop
+correct technique, it will somehow seamlessly transfer
+effectively to the game environment, a large assumption
+with little supporting evidence (Weigelt et al., 2000). The
+concept of fundamental techniques is still a common belief
+that is widespread across the coaching community (Rudd et
+al., 2021). This often results in methods that isolate or break
+down skills, focus on mechanical forms, and use repetitive
+practice void of game-based contextual information, such as
+scoring, which takes precedence over a more representative,
+game-like framework (Krause, Farrow, Pinder, et al., 2019).
+A key question for coaches is whether “correct” technique is a
+requirement for successful performance?
+Technique training is often undertaken via isolated drills,
+with the aim of feedback to reduce the gap between what the
+movement looks like and the putative “ideal” technical model
+(Renshaw, Davids & O’Sullivan, 2022). What is interesting is
+that many professional athletes do not perform with this socalled ideal technique. In fact, many high-level tennis players
+appear to adapt to what the competitive context offers them
+(Renshaw, Davids & O’Sullivan, 2022). It is suggested that
+coaches move away from “correct techniques” in terms of
+movement postures, and towards an optimal technique using
+a framework such as BIOMEC presented by the ITF Academy
+coach education courses (Martinez-Gallego, 2024). This helps
+coaches to avoid focusing on idiosyncratic and cosmetically
+displeasing features of a stroke (i.e. the look of the stroke) but
+instead will help them focus on the effectiveness of the stroke
+(ITF-Academy, 2024).
+Defining skill as being goal-directed and focusing on
+effectiveness, actually reduces the requirement of a particular
+technique, as technique is just one of many coordination
+patterns we can use to achieve a task goal (Bennett & Fransen,
+2023). As Martens (2012 p.151) suggests, “technique and skill
+are different”. What coaching “correct” techniques doesn’t
+take into consideration is that individual, environmental and
+task constraints act as boundaries which guide the emergence
+of skilled movement behavior (Fitzpatrick, Davids, & Stone,
+2017, Regan, 2021). The interaction of these constraints
+can have a dramatic influence on performance, as noted by
+Fitzpatrick, Davids & Stone (2018) showing developmentally
+appropriate smaller courts and lower compression balls
+resulted in longer rally lengths in comparison to a traditional
+set up for 7-14 year olds. Instructions can also act as a task
+constraint (Gray, 2021), so coaches need to be aware how their
+instructions may be over-constraining their players search
+for functional solutions. Coaches are encouraged to instruct
+the goal of the practice task and utilize questioning to guide
+players away from non-functional techniques and toward
+effective ones without prescribing solutions. Coaches can
+also use feedback top guide players to functional solutions.
+Traditionally, this post-performance information has been
+focused on correcting errors from a prior movement attempt.
+However, the literature suggests a focus on feedback that
+helps players transition to a new pattern of coordination, by
+focusing on key information sources in the environment (Otte
+et al., 2020). Coaches may direct players attention to ball
+flight, position of opponent, or even opponent tendencies to
+facilitate the search for functional movement solutions.
+The performance environment created in practice is a key
+factor in the development of skill and dictates how effectively
+these skills transfer to the competition environment. As
+Araújo & Davids (2009 p.6) put it, “to do, is always to do
+something, somewhere”, illustrating that skill is in the
+relationship between a performer and their environment.
+This relationship is termed individual-environment mutuality
+(Gibson, 1979; Araújo & Davids, 2011) and is central to
+ecological dynamics theory.
+ECOLOGICAL DYNAMICS - A NEW THEORETICAL LENS
+Ecological dynamics is a contemporary theory of skill
+development that combines ideas from ecological psychology,
+dynamical systems, and complexity sciences (Davids et al.,
+2013). In this view, skill does not refer to the acquisition of
+an entity, such as a mental representation, as suggested by
+traditional, information processing-based theories of skill
+learning. From an ecological dynamics perspective, skilled
+performance derives from the increasingly improved function
+fit between an individual and an environment (Araújo &
+Davids, 2011; Chow et al., 2022). This individual-environment
+mutuality is a key concept in ecological dynamics focusing
+on the importance of the performance environment in the
+development of skill. This suggests the specific environment
+the coach designs and the instructions they provide will shape
+the skills that they develop (Araújo et al., 2004). Ultimately,
+context is key in the development of skilled behavior (Otte et
+al., 2021).
+Another key element of this theory is the concept of
+perception-action coupling and the production of functional
+movement behavior under constraints. As Gibson (1979
+p.223) put it, “we must perceive in order to move, and we
+also move in order to perceive”. What we perceive guides
+our actions, and our actions guide our perception, they are
+functionally coupled in a reciprocal relationship. What we are
+perceiving are opportunities to act, or affordances (Gibson,
+1979) scaled to our own action capabilities. For example,
+a short player (organismic constraint) may not perceive
+approaching the net as an affordance as they could easily get
+lobbed, whereas a tall player may see it as a strong affordance
+(Parry & O’Rourke, 2023). When using ecological dynamics
+as a theoretical framework, coaches should be aware of
+how individual, environmental and task constraints interact
+to influence the perception of affordances, the perceptionaction cycle, and the production of functional movement
+behavior (Figure 2). Therefore, the design of representative
+practice tasks that maintain the information-movement
+couplings experienced in competition should be a large
+portion of practice. Every time a player performs a task in a
+performance environment they are acting under the influence
+of constraints. Constraints can be identified as boundaries
+or features that eliminate certain possibilities or options for
+action, but
+may present others (Newell, 1986; Gray 2021). For example,
+if a coach creates an activity where the court is halved in
+width, a long and thin court, this acts as a task constraint
+and will limit certain actions but encourage others. It is
+important to note that constraints do not prescribe a certain
+action, they simply limit options to act, there should still be
+multiple options, or affordances, available to the player.
+Creating practice activities that present multiple emerging
+and decaying affordances can be a valuable tool for coaches
+to facilitate the development of skilled movement behavior.
+Quality practice task design, using representative design
+principles, is where coaches can have the most influence
+on player development. The goal is to present game-like
+problems and guide the player, mainly through questioning,
+to their own functional solutions. Coaches should refrain
+from over-constraining practice activities, such as “you must”
+or “you can only” as it does not allow the performer to find
+their own, unique, functional movement solution and become
+an active problem solver. Coaches should facilitate athleteenvironment interactions which encourage players to adapt
+their movements under constraints that are representative
+of those experienced in competition (Yearby et al., 2022).
+For example, when working with two players, one could be
+incentivized through more points to volley, whereas the other
+could be incentivized to lob. Each task constraint presents
+opportunities to the other player, and each must actively pick
+up information from their environment to be successful. The
+goal of representative practice design is to help athletes to
+attune their attention to the relevant sources of information
+in the environment, e.g., ball flight, opponent movement, that
+will help guide their choices and actions.
+REPRESENTATIVE LEARNING DESIGN (RLD)
+Brunswik (1956) first coined the phrase representative
+design when discussing the need for ecological validity in
+behavioral research. This idea has since been adopted eagerly
+by sport performance researchers interested in the adaptive
+movement behaviors exhibited by athletes in competitive
+environments (Pinder et al., 2011). Due to perception-action
+coupling and the mutuality that exists between the performer
+and the environment, the design of practice tasks must ensure
+that the constraints, specifying perceptual information
+and actions present in the competitive performance have
+been adequately sampled (Button et al., 2020; Vilar et al.,
+2012). RLD is underpinned by two key elements, action
+fidelity and functionality. Action fidelity refers to how the
+movement behavior performed during practice replicates
+that of competition (Travassos et al., 2012; Krause, Farrow,
+Buszard, et al., 2019). Functionality refers to the degree to
+which an athlete can use the same information sources (e.g.,
+ball flights, speed and spin rate) present during competition
+to contextualize their decisions and movement to achieve
+a similar level of success in practice (Pinder et al., 2011).
+Notice in both definitions that the similarity of actions and
+information sources between practice and competition is
+key. Ultimately, coaches should be looking to simulate the
+competitive environment in most practice tasks so that
+performance is representative, increasing the chances of
+positive transfer. Passos, Araújo and Davids (2013) suggest
+that without appropriate representative design, movement
+behaviors that emerge may not be functional and realistic
+in dynamic sports performance environments. This is based
+on compelling evidence that shows when the informational
+constraints of a task are altered, different movement
+behaviors emerge (Araújo, Davids, & Hristovski, 2006; Dicks,
+Button & Davids, 2010; Pinder et al, 2011).
+Through an ecological dynamics lens, decontextualized,
+repetitive, technical practice tasks that remove important
+perceptual information, such as an opponent and varied ball
+flight, would not elicit positive skill transfer and thus should
+be used sparingly. With novice learners, coaches do not
+need to use task decomposition, by breaking the skill down
+to its component parts. Instead, RLD principles such as task
+simplification, allow coaches to simplify the practice task,
+whilst maintaining the perception-action coupling between
+their movements and information in the environment. Game
+and equipment scaling is a good example of task simplification,
+where smaller courts, lower nets, lower compression balls
+and developmentally appropriate racquets can have a
+dramatic effect on the movement behavior of young players.
+Decision-making is predicated on the perceptual information
+a player is attuned to in the competitive environment (Krause,
+Figure 2. The Constraints Model (Newell, 1986).
+Farrow, Buszard et al., 2019). Therefore, the removal of key
+information sources from practice tasks would appear to be a
+waste of time if the goal is positive skill transfer to competition.
+The main key information sources in tennis are the movement
+of the ball, movement of opponent, and court boundaries.
+This does not, however, mean that all practice tasks must be
+a full competitive match, a common misconception. Coaches
+can manipulate court size and dimensions; the type of ball
+and racquet used and constrain the opponent in some way to
+present opportunities to solve the game problem. Methods
+such as the Constraints-Led Approach (CLA) can be used
+to scale practice tasks appropriate for the level of their
+participants by manipulating key individual, environmental and
+tasks constraints to facilitate the emergence of goal-directed
+functional movements (Chow et al., 2022; Hopper & Rhoades,
+2022; Regan, 2021; Renshaw et al, 2019). Allowing a novice
+player to volley the ball to themselves before attempting to
+hit over the net is an example where task constraints can be
+altered to facilitate learning. A representative task does not
+equal just playing games either, although modified games
+do have many of the key characteristics of a representative
+task. For example, practice games often look somewhat
+like actual competition, often involve an opponent, have
+consequences tied to actions and involve key characteristics
+of the competition environment such as a net, boundaries,
+and scoring. Manipulating key constraints, scaling equipment
+and boundaries to create a more representative practice task
+has been shown to improve tennis performance of varying
+levels of performers in a number of studies (Krause, Farrow,
+Pinder et al., 2019; Krause, Farrow, Buszard et al., 2019;
+Fitzpatrick, Davids & Stone, 2018; Fitzpatrick, Davids &
+Stone, 2017). Therefore, traditional approaches will continue
+to be challenged until key movement and informational
+performance characteristics experienced in competition are
+more effectively represented in practice tasks (Pinder et
+al., 2011; Davids, Araujo, Vilar et al., 2013; Krause, Farrow,
+Buszard et al., 2019).
+RLD IMPLICATIONS FOR TENNIS COACHING
+Applying these ideas in practice requires a shift in mindset for
+tennis coaches. Coaches need to see themselves as learning
+environment designers who work with athletes to manipulate
+key constraints (Woods et al., 2020a). This shift in mindset can
+be difficult as coaches need to let go of some of their control
+which can be one of the hardest things to do for many (Chow et
+al., 2023). Another barrier that coaches will need to overcome
+is the influence of the tennis form of life on their coaching
+practices. In the context of player development, a form of
+life refers to the cultural aspects that shape an individual's
+attitudes and behaviors towards developing expertise and
+includes values, beliefs, traditions, and customs that influence
+a coach’s approach to skill acquisition (Rothwell et al., 2019).
+Tennis coaching is heavily influenced by traditional coaching
+pedagogies where repetitive drills to build consistency are
+at the fore (Reid et al.,2007). As ‘traditional practice’ is so
+ingrained in the tennis practice culture, it can be very difficult
+for coaches to move away from these ideas (Anderson et al.,
+2021). Coaches utilizing an Ecological Dynamics approach
+must appreciate that the players must ‘learn to learn to move’
+in specific performance contexts, recognizing the inseparable
+connection between the individual and their environment
+(Otte et al.,2021).
+The design of representative tasks needs to be based on
+a detailed sampling of informational variables that are
+present in specific performance environments (Button et al.,
+2020). These informational variables are also referred to as
+affordances which are invitations and opportunities for action
+that an athlete can use in a performance environment (Otte et
+al., 2021). A key part of the coach's role as a learning designer
+is to identify these key affordances that are going to influence
+a player's behavior (Woods et al., 2020a). Information from
+ball flight and the position of opponents have been identified
+as key affordances for tennis players (Krause, Farrow, Buszard
+et al., 2019). Therefore, a representative task in tennis would
+have to include both key affordances as they provide valuable
+information for the control of action. Designing practice using
+representative learning design would better prepare athletes
+for competition and allow coaches to test the effectiveness of
+their coaching (Renshaw et al., 2022).
+An important aspect to RLD is that a representative task
+doesn’t need to fully replicate the performance environment
+(Oppici et al., 2019). Fully representative tasks can often be
+too complex for learning and don’t present the learner with
+enough opportunities to engage with specific areas they are
+focusing on. However, reverting to isolated, repetitive, drilling
+of technique is not the answer either as it is missing key
+information used in competition. A key concept to implement
+RLD effectively is Task Simplification.  This involves making
+movement skills easier to perform while maintaining the
+connection between perception and action (Chow et al.,
+2021). These simplified constraint-led games are going to be
+less representative but still contain some of the key important
+information needed in the performance environment. As
+players progress, we can gradually increase the levels of
+representativeness by designing more specific constraint led
+games. Coaches could think of ‘turning up’ or ‘turning down’
+the levels of representativeness depending on the needs
+of the player. For example, coaches could incentivize the
+search for solutions by increasing or decreasing space after
+players reach a certain point total. As the task constraints
+change, so must the solutions. Figure 3 illustrates levels of
+representativeness and associated practice activities, with
+most practice time being devoted to the green zone (Adapted
+from Renshaw et al., 2019).
+Lastly, it is crucial for coaches to understand that decisionmaking and problem solving are key elements of RLD. Tasks
+with unpredictable outcomes and strategies should be
+utilized as these "alive" tasks help athletes adapt to changing
+conditions and develop essential problem-solving skills
+(Myszka et al., 2023). Coaches could think of creating slices of
+the game that focus on specific situations while maintaining
+elements of the competition environment. The players
+problem-solving skills can be enhanced by experiencing the
+game in "slices" where rapid invitations for action emerge and
+decay, challenging them to adapt (Yearby et al., 2022). As the
+players progress, we can then challenge them by designing
+more complex, dynamic representative tasks to further
+enhance their decision making (Otte et al., 2021).
+DESIGNING TENNIS SPECIFIC LEARNING ENVIRONMENTS
+Figure 4 is proposed as a guide for coaches to create tennis
+specific learning environments that maximize transfer to
+competition. Including these key elements in practice tasks
+will increase their representativeness creating effective,
+adaptable players.
+Figure 4. Foundations for Tennis Task Design (Adapted from O’Sullivan
+et al., 2021 Foundations for Task Design Model).
+Representative Information
+At the heart of the practice design is representative
+information. As discussed above, key information such as ball
+flight information and information from opponents needs
+to be present during practice tasks. The players will need to
+learn to attune to this representative information to help
+develop their decision-making skills (Araujo & Davids, 2009).
+Ball
+Coaches need to make sure that there is a ball present and
+that the players have a chance to learn to attune to the key
+information from its flight. The type of tennis ball used will
+change depending on the needs, action capabilities and
+skill level of the player, from sponge, red, orange and green
+transition balls up to a regulation ball.
+Over a Net/Barrier
+Tennis is a divided court game. The objective is to hit the ball
+over a net/barrier to achieve a winner, make the opponent
+miss, or force a mistake. Adjusting net height can be a useful
+way to extend rallies or help more advanced players search
+ways to produce more topspin (Hopper & Rhoades, 2022).
+Shot Selection
+Giving players the choice to decide how they hit the ball and
+in which direction is crucial. Coaches sometimes use drills like
+'cross courts' that limit players to hitting the ball in a specific
+direction. However, this approach restricts decision-making
+and can result in less representative behaviors in comparison
+to competition. Representative tasks should encourage both
+variation between and variation within shots (Krause, Farrow.
+Buszard et al., 2019).
+Consequences
+By incorporating consequences, learners can improve their
+ability to perceive and respond to relevant information in the
+performance environment. For example, in a match, when a
+player hits the ball over the net, there will be an opponent
+aiming to return the ball and potentially win the point.
+Depending on the practice task intention, different scoring
+systems can be created to incentivize certain behavior
+for each player. For example, players may receive 3 points
+winning using a volley, and only one point for other winners
+(Hopper & Rhoades, 2022b). This would incentivize volleying
+and discourage playing the ball high and short as that would
+present an opportunity for the opponent to volley.
+Opponent
+Opponents play a crucial role as sources of information for
+players, providing them with valuable insights that they can
+use to adapt their movement strategies. Players need to learn
+to ‘attune’ to the information provided by their opponents'
+behaviors, such as their favored side or reluctance to
+approach the net. By attuning to this information, players can
+better exploit gaps and spaces to either hit a winning shot,
+force their opponent to make a mistake, or force them to miss.
+HELPING
+COACHES
+“G.R.A.S.P”
+REPRESENTATIVE
+LEARNING DESIGN
+Providing examples can help support coaches looking to move
+away from traditional methods which focus on technical
+performance templates prescribed in coaching manuals
+(Woods et al., 2020b). It is very important for coaches to
+understand why learning tasks are designed in a specific way as
+it will enable them to more effectively adapt practice tasks to
+meet the needs of their own players (Chow et al., 2023). When
+using representative learning design, the goal is to simulate
+the key aspects of a specific performance environment in
+training (Krause et al., 2018). One of reasons we do this is to
+Figure 3. Levels of Representativeness in Tennis Practice
+help learners to develop the skills that will help them to thrive
+in the dynamic performance environment (Chow et al., 2021).
+The ‘Foundations for Tennis Task Design’ diagram provides
+a framework for coaches to design practice tasks that are
+representative of the game and appropriate for their players.
+To build on this idea, coaches can use the acronym G.R.A.S.P,
+explained below, to help them identify key components of
+their role and the design of practice tasks:
+Guiding role of the coach
+The coach takes on the role of a ‘Learning Environment
+Designer’ where there is a focus on manipulating constraints
+to create learning experiences with the players (Woods et al.,
+2020b). The goal is for players to find functional movement
+solutions that work for them, not an idealized technique.
+Therefore, the coach, instead of being a director of the
+experience, providing detailed instructions and feedback,
+design practice environments that allow them to explore
+effective solutions.
+Representative information
+Ensuring the key representative information is present during
+the practice task must be a major focus for the coach. In
+tennis, the most important key information is from ball flight
+and the movements of their opponents. (Krause et. al., 2019).
+This has a dramatic effect on how we design activities as it
+provides a framework to make sure important elements that
+guide performance are included.
+Alive Tasks
+The major question for coaches is how a movement practiced
+in isolation positively transfers to the dynamic, unpredictable
+nature of the game. It would therefore make sense for coaches
+to include appropriately scaled levels of unpredictability,
+or aliveness, so players are not simply reproducing a set of
+prescribed actions. Perception and action are coupled and
+therefore should not be separated in practice tasks by only
+practicing the action component of the movement separated
+from the perception and decision-making components. These
+‘slices’ of the game should include lots of problems for players
+to solve, so they are learning in context (Myszka et al., 2023;
+Yearby et al., 2022).
+Simplification
+Task decomposition, where skills are broken down into
+component parts, is common in tennis coaching. The
+contentious assumption is that these pieces can be effectively
+put back together later in a game-like context. Task
+simplification, on the other hand, reduces task difficulty while
+maintaining the connection between perception and action
+(Chow et al., 2022).
+Progress
+It is important to scale practice appropriately using concepts
+such as task simplification, whilst considering the skill level of
+the performer. But, the practice tasks also need to progress
+appropriately to be challenging for each learner. To address
+this issue Guadagnoli & Lee (2004) presented the ChallengePoint framework and noted that the conditions of practice
+contribute to the functional difficulty of the task. Therefore,
+coaches need to find the appropriate challenge point for
+each player and progress their practice tasks from there. This
+demonstrates the importance of finding the ‘Goldilocks Zone’,
+not too hard, not too easy, for each individual (Robertson &
+Woods, 2021).
+PUTTING IT INTO PRACTICE
+A good starting point for coaches looking to put these ideas
+into practice is to start by creating practice tasks where the
+key information sources are designed into tasks to simulate
+the perception-action demands during matches (Krause et
+al., 2019). This is important because if the key information
+sources are removed from the practice task, then players lose
+the opportunity to learn to regulate their action to this key
+information (Renshaw et al., 2022). The coaching competency
+required here is the art of constraint manipulation.
+Constraint manipulation is the cornerstone of all practice
+using a Constraint-Led Approach. Adopting a constraintsled approach gives coaches a framework for understanding
+how the interaction of ‘performer, task and environmental
+constraints shape each individual’s performance (Renshaw
+et al., 2010). While constraints are often viewed as barriers,
+Newell (1986) suggests a constraint refers to any factor
+related to the task, environment, or individual that affects
+or shapes the observed outcome of movement. Some great
+examples of constraint manipulations for various levels of
+performer can be found in Regan (2021).
+EXEMPLAR OF REPRESENTATIVE PRACTICE DESIGN
+For this example, coaches would look to create a ‘slice’ of
+the game for a player that is struggling with their 1st volley
+when approaching the net. This is often an area that beginner
+and intermediate players are initially uncomfortable with, so
+would be an ideal scenario to use a constraints-led approach.
+Using Figure 4. Foundations for Tennis Task Design, coaches
+can design appropriate learning environments to provide
+the appropriate level of challenge by manipulating certain
+constraints. The practice task examples below (Figures 5 & 6)
+show how the principles of task simplification can be used to
+design developmentally appropriate activities for a variety of
+learners.
+These practice tasks would fall under the category of
+‘Simplified Constraint Led-Game’ as shown in Figure 3.
+Where these tasks fall on the level of representativeness
+would depend on the constraints implemented, but can be
+progressively adjusted to increase the representativeness of
+the full game.
+Representative Information
+While the game is ‘simplified’, the key regulatory information
+is maintained, specifically the movement of the opponent and
+ball flight. To ensure a developmentally appropriate delivery,
+the coach can feed the initial ball into play.
+Ball
+In the first task, a sponge ball can be used to simplify the task,
+then to maintain an appropriate challenge point, can transition
+into red, orange and green lower compression balls. There
+is always a ball present at this is important representative
+information for the player.
+Figure 5. Short court volley task.
+Figure 6. Volley task progression
+Opponent
+By including an opponent in these simplified tasks, perceptionaction coupling is maintained, and key representative
+information is present. By varying the starting position of both
+players, the attacking player will get the opportunity to learn
+make decisions on where to volley based on their opponent’s
+movements. As the point is played out, they will get further
+chances to couple their decisions and actions during the point
+to hit shots at the net.
+Consequence
+In these tasks, the involvement of an opponent creates a
+consequence that is representative of gameplay. Coaches
+can utilize scoring as a constraint to afford opportunities for
+certain behaviors. For example, using a 3,2,1 points scale for
+winning the point on the first volley, second volley, or any time
+after, encourages players to find solutions to end the point
+quickly.
+Shot Selection
+The focus in these tasks is to emphasize repetition without
+repetition, where players are presented with different
+problems and thus must find different solutions. In these
+tasks, varying the start positions of the attacking and
+defending players will present different opportunities to
+select appropriate shots to maintain the rally or win the point.
+Coaches should avoid prescribing solutions and instead allow
+players to explore solutions to achieve the task goal.
+Over a net/barrier
+In these tasks the net is a standard net, but to identify an
+appropriate challenge point for each player, the net could be
+adjusted lower or higher.
+CONCLUSIONS
+A major goal of coaching is for skills to transfer from practice
+to the competitive environment, a key product of effective
+representative practice design. Using the foundations for
+tennis task design model (Figure 4), coaches can effectively
+design practice tasks that have an appropriate level of
+representativeness, scaled to the needs of their athletes.
+Coaches should aim to spend most of their time in the green
+zone (See Figure 3) by using simplified and specific constraintled games plus some specific game situations. This will help
+their athletes attune to key sources of information that will
+guide their choices and actions in competition, creating
+functional, adaptable, effective tennis players.
+CONFLICT OF INTEREST AND FUNDING DECLARATION
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

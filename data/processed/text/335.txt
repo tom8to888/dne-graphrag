@@ -1,0 +1,579 @@
+Title: The impact of the changes made to the men's professional tennis tour system: A case study of Japanese players
+Authors: Shion Hotta, Kiso Murakami, Daisuke Hirata, Shoichi Horiuchi, Morihiro Takeda, Kazuki Hioki
+Year: 2023
+Issue: Vol. 31 No. 91 (2023)
+Article id: 335
+
+ABSTRACT
+In 2019, the International Tennis Federation implemented major changes to the men's
+professional tennis tour system in order to (1) reduce the number of professional players
+who cannot make a living, and (2) create a system that allows talented junior players
+to quickly transition to the professional level. These changes in the tour system are
+considered to have had a significant impact on the players' environment and psychological
+aspects. The purpose of this study is to examine the impact of the tour system changes
+on Japanese male tennis players. The subjects of the study were four Japanese male
+tennis players who participated in the ITF World Tennis Tour held in Japan. They were
+interviewed one-on-one for approximately 40 minutes using a semi-structured interview
+method. The interview was centered on the question “How did the change in the tour
+system affect you?” Interviewees were asked to give specific reasons for their answers.
+Following a qualitative inductive analysis of the verbatim transcripts of the interviews,
+five areas of impact were identified: feeling, game plan, status, environment, and requests.
+INTRODUCTION
+In the world of professional tennis, the top ten most talented
+players in the world tend to earn relatively large amounts
+of money compared to the top players in other sports. For
+example, Roger Federer, the long-time world number one
+in men's tennis, had the seventh highest income among all
+athletes in the world in 2021 (Forbes, 2021). Also in 2021,
+the top two highest earners among all Japanese athletes
+were Naomi Osaka (women's tennis) and Kei Nishikori (men's
+tennis) (Forbes, 2021). This is due to the fact that the top
+players in professional tennis attract the attention of many
+people, and this leads to a large amount of sponsorship
+income. In fact, tennis has about 1.1 billion fans worldwide,
+the fifth largest after football, cricket, basketball, and field
+hockey (Sports Show, 2021). It is also the only one of these
+five popular sports that has a 50-50 ratio of male and female
+fans (Gemba, 2020). Furthermore, a small number of players
+(two or four) play a match on the court for a long time (Hotta,
+2023), and the Grand Slam tournaments, which are called the
+four major tournaments, are televised from beginning to end
+(Gregg et al, 2006).
+On the other hand, it is clear that most of the professional
+players registered with the International Tennis Federation
+(ITF) do not earn enough money, despite the spectacular
+success of these top players. In fact, of the 8,874 men and
+4,862 women tennis players who played in international
+www.itfcoachingreview.com
+December 2023. 30th Year. Issue 91. 26-31
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i91.335
+The impact of the changes made to the men's
+professional tennis tour system: A case study of
+Japanese players
+Shion Hotta1
+ , Kiso Murakami2, Daisuke Hirata3
+ , Shoichi Horiuchi4, Morihiro
+Takeda5
+  & Kazuki Hioki6
+
+1The University of Tokyo, Japan. 2Tokyo University of Science, Japan. 3Senshu University, Japan. 4Asia University,
+Japan. 5Hiroshima Bunka Gakuen University, Japan. 6Keio University, Japan.
+Key words: Tennis professional,
+environment, competition system,
+qualitative research.
+Received: 30 June 2022
+Accepted: 16 April 2023
+Corresponding author: Shion
+Hotta. Email: shotta@g.ecc.utokyo.ac.jp
+tournaments at the professional level in 2013, only the top
+336 men and 253 women players were estimated to have
+income equal to or higher than their activity expenses (ITF,
+2017). In other words, with the exception of a few top players,
+most professional players do not earn enough to sustain
+their livelihood. This is due to the fact that the organizers
+do not televise professional tennis tournaments in the lower
+tournaments, hence sponsorship income cannot be expected,
+and prize money is extremely low. In fact, the prize money for
+winning a singles title in the lower tournaments is only about
+150,000 yen: approximately US$1100 (Asia University, 2015).
+COACHING & SPORT
+SCIENCE REVIEW
+Under these circumstances, it is impossible for prize money to
+cover even the cost of overseas tours (Ide, 2016). And the lives
+of many professional players are not affluent. It has also been
+pointed out that this situation is a factor that induces matchfixing (ITF, 2017). Furthermore, it has been reported that the
+professional players playing in these lower tournaments are
+getting older, which is an obstacle for talented young players
+to enter the market (ITF, 2017).
+In response to this situation, in January 2019, the ITF
+implemented major changes to the professional tennis tour
+system to (1) reduce the number of professional players
+who cannot make a living and (2) create a system that
+allows talented junior players to quickly transition to the
+professional level (ITF, 2019). In fact, in the men's professional
+tennis tour, the ITF Futures was abolished and a new lowerlevel tournament, the ITF World Tennis Tour (WTT), was
+established. The changes are shown in Figure 1.
+the ATP ranking to the WTT and re-expanding the size of
+qualifying draws (ITF et al, 2019). In addition, the priority
+quota for junior players was reduced and the number of
+tournament days was extended up to eight days. However, the
+WTT ranking is maintained and the ATP ranking and the WTT
+ranking are used together.
+Thus, the repeated changes in the tour system are considered
+to have a great impact on the players' activity environment
+and psychological aspects. Therefore, it is important to
+understand how these changes in the tour system have
+affected the players and to take measures to help their
+competitive activities.
+Until now, issues and conditioning related to overseas travel
+of top athletes have been examined for various athletic events.
+For example, Gould et al. (2002) reported that travel to the
+venue, availability of sponsors, relationship with sponsors,
+schedule during the tournament, and time difference affected
+the performance of athletes who participated in the Olympic
+Games. Greenleaf et al. (2001) conducted an interview
+survey of athletes who participated in the Olympic Games
+and reported that psychological and physical preparation
+including sleep and motivation, support from surroundings,
+and adaptability to the Olympic environment were important
+factors for their performance. The results show that
+psychological and physical preparation including sleep and
+motivation, support from surroundings, and adaptability
+to the Olympic environment are important factors for
+performance. In other words, athletes feel a great deal of
+stress during overseas expeditions due to environmental
+factors such as travel, time differences, and difficulties in
+maintaining motivation. In response to this, Murakami et al.
+(2011) examined the psychological conditioning of Japanese
+athletes who participated in the Olympic Games. As a result,
+it was reported that the success factors of performing well
+included “demonstration of psychological skills,” “usual
+feelings and behaviors,” and “support from surroundings,”
+while the failure factors included “lack of psychological
+skills,” “maladaptation to the Olympic environment,” and
+“inadequate support system.” Therefore, it is pointed out that
+psychological aspects may have a significant influence on the
+performance in a long-term expedition.
+However, as seen in the situation where the ITF has
+implemented two major changes in the touring system in a
+short period of time, there have been few studies that have
+analyzed the impact of the change in the tournament system
+itself on the athletes. Therefore, the purpose of this study is
+to examine the impact of the change in the men's professional
+tennis tour system on Japanese players from environmental
+and psychological perspectives.
+PROCEDURES
+The attributes of the subjects of this study are shown in Table
+1. The subjects were four Japanese male athletes who were
+competing in the WTT held in Japan.
+Mr. A is a veteran player in his 30s and has a high ranking
+among the WTT competitors. Mr. B and Mr. C are in their 20s,
+the average age of professional athletes, and their ranking
+is middle to low among WTT contestants. Mr. D is young, in
+his teens, and his ranking is in the upper to middle level of
+WTT competitors, which is amongst the top in Japan in his
+generation.
+Previously, all matches in the ITF Futures were ranked based
+on the ATP Ranking, which meant that all professional players,
+regardless of their ranking or the level of tournament they
+played in, were listed on the same ranking. Consequently,
+lower-ranked players who primarily competed in lower-level
+tournaments had the opportunity to compete in higherlevel tournaments, including ATP Challenger and ATP Tour
+tournaments.
+On the other hand, in WTT, only points counted towards the
+WTT ranking are awarded with the exception of a few matches.
+In principle, only the top ranked WTT players are given the
+opportunity to participate in the ATP Challenger tournaments
+where they can get the ATP points. In other words, the WTT
+results are no longer directly related to the entry of the Grand
+Slam tournaments or ATP Tour tournaments. Thus, the ITF
+aimed to eliminate players who could not break out of the WTT
+and reduce the number of professional players who could not
+make a living by clearly positioning the WTT ranking as lower
+than the ATP ranking. In addition, the WTT aimed to reduce
+the cost of tournament management by reducing the size of
+the qualifying draw and by setting the tournament schedule
+within 7 days. In addition, the top 100 players in junior tennis
+were given priority to play in the main draw of the WTT, and
+a system was established to enable talented young players to
+quickly move up to the professional level.
+However, even though ATP rankings cannot be earned in
+the WTT, the ATP ranking holders are given priority in the
+selection of players to participate in the WTT, and since this
+change in the tour system, opportunities to participate in
+the WTT have been effectively taken away from those with
+low or no WTT rankings. Therefore, in May 2019, the ITF
+implemented another change to the tour system, returning
+Figure 1. Men's Professional Tennis Tour System Changes for January
+2019.
+Table 1
+Demographics.
+Player
+Age
+Career-high
+ranking
+A
+Early 30s
+200 - 300
+B
+Early 20s
+1000 - 2000
+C
+Early 20s
+701 - 1000
+D
+Late teens
+501 - 700
+The survey period was from April 2019 to July 2019. In this
+study, the semi-structured interview method was adopted
+from two viewpoints: (1) to keep the structure of the interview
+so that there is no difference in the interview content among
+the subjects by preparing the interview items in advance,
+and (2) to secure the freedom to change the wording and
+order of the questions according to the subjects' situations
+and responses. After obtaining the subject's consent, a oneon-one interview of about 40 minutes was conducted. The
+interview was centered on the question “How did the change
+in the tour system affect you?” and the interviewees were
+asked to give specific reasons for their answers.
+DATA ANALYSIS
+A qualitative inductive analysis was conducted. First, we
+made a verbatim transcript of the speech data recorded by
+an IC recorder during the interview. Next, sentences that
+were considered to be related to the influence on the players
+themselves were extracted from the verbatim transcripts.
+Extracted sentences were separated by meaningful phrases
+and coded. The sentences were grouped according to the
+similarity of their coded contents and subcategorized with
+appropriate and concise words. Similar sentences in the
+subcategories were combined and categorized.
+In the process of this analysis, a total of three analysts, two
+sport psychologists with tennis coaching experience and
+one with tennis experience, discussed the results until they
+reached a consensus. Afterwards, a new sports psychologist
+with tennis coaching experience, who did not participate in
+this discussion, was added to the group and the results were
+re-examined. According to Lincoln & Guba (1985), repeating
+this procedure establishes triangulation and improves
+the reliability of the analysis results. The responses with
+ambiguous contents and those with unclear meanings were
+excluded in the process of analysis.
+ETHICAL CONSIDERATIONS
+Prior approval was obtained from the Research Ethics Review
+Committee of Senshu University (Approved on April 25, 2019,
+Reception No. 2018-1219). In addition, the consent of the
+organizer of the WTT held in Japan was obtained prior to the
+implementation of the survey. The purpose of the study was
+explained to the survey subjects both in writing and orally,
+and the following conditions were also given: (1) the results
+would not be used for any purpose other than the research
+purpose, (2) cooperation in the interview would be voluntary,
+(3) no disadvantages would arise from nonparticipation in the
+study, (4) participation in the study could be cancelled even
+during the course of the study, and (5) that the interviewee
+could ask any questions or clarify any doubts about the
+research at any time, and obtained consent in writing. It was
+also informed that the privacy of the contents of the interview
+would be strictly protected.
+RESULTS
+Following a qualitative inductive analysis of the verbatim
+transcripts of the interviews, five areas of impact were
+identified: feeling, game plan, status, environment, and
+requests.
+Feeling
+The “feeling” category consisted of three subcategories:
+anxiety, motivation, and goals. First, in the subcategory of
+"anxiety," respondents indicated their anxiety about the
+decline in ranking and the transition to the ATP Challenger
+level, such as “I have anxiety about the tournaments I cannot
+participate in, regardless of my current ranking” (Mr. A), “I
+am anxious and impatient that I will not be able to move up
+to the Challenger level no matter how long I stay active” (Mr.
+B), and “I am anxious that I will not be able to participate in
+tournaments that I was able to participate in before” (Mr. C).
+On the other hand, one respondent said, “I had ATP points, so
+it didn't make much difference, I was a little lucky” (Mr. D).
+Next, in the sub-category of "motivation," there were
+responses related to decreased motivation, such as “I wonder
+how long I should continue my activities as an athlete without
+being able to participate in my target tournaments” (Mr. B), “I
+felt depressed because I thought I would not be able to get ATP
+points” (Mr. C), and “I lost my motivation because I thought
+I couldn't get ATP points” (Mr. D). On the other hand, there
+were also answers related to increased motivation, such as “I
+have to keep fighting and grab the Challenger's qualification, I
+have to be determined to do it” (Mr. A), “It is a chance for me”
+(Mr. D), and so on.
+In the sub-category of “goals,” some respondents answered
+that they would like to improve their goals, such as “I would
+like to aim for more ATP points if I have the chance, and my
+goal is to become an ATP Challenger” (Mr. C) and “I used to be
+able to aim for the top 300 by only competing in ITF Futures,
+but now I have to compete in ATP Challenger tournaments to
+reach the top” (Mr. D). Mr. D also answered, “Since the ranking
+points are divided between WTT and ATP, I have started to
+think strategically about which ranking to focus on”.
+Game plan
+The category of “game plan” consisted of two subcategories:
+changes in the level of tournaments entered and increase in
+the number of tournaments played. First, in the sub-category
+of “changes in the level of tournaments played”, there were
+responses such as “I now select more M25 tournaments
+(WTT tournaments with a prize pool of $25,000), than M15
+tournaments (WTT tournaments with a prize pool of $15,000)
+because I can earn ATP points if I make it to the finals” (Mr.
+A). These responses reflect a focus on playing in higher-level
+tournaments.
+On the other hand, there were some responses regarding the
+decline in the level of the tournaments they participated in,
+such as “Compared to the WTT, the Japan Tennis Association
+(JTA) tournaments earn more prize money, so I have been
+participating in those tournaments more” (Mr. C).
+Next, in the sub-category of “increase in the number of
+tournaments”, there were responses related to an increase in
+the number of tournaments entered, such as “I have entered
+more ITF tournaments in order to move to the challenger
+level” (Mr. A). And Mr. C said, “After the change in the system,
+I made a point of actively participating in the competitions I
+was able to enter” (Mr. C).
+Status
+The “status” category consisted of two subcategories, ranking
+and player selection. First, in the subcategory of “ranking,”
+there were responses related to improving one's status,
+such as “I am now seeded” (Mr. D). In contrast, there were
+some responses regarding the decline in their ranking, such
+as, “I used to have a high ranking, but I am no longer seeded,
+and it has become more common for me to participate in the
+qualifying instead of the main draw” (Mr. B).
+Next, in the sub-category of “player selection,” there
+were responses related to the decrease in the number of
+tournaments options, such as “For the first time, I was not able
+to participate in a tournament I had planned to participate in”
+(Mr. A) and “In the past, I had a chance to qualify for the ATP
+Challenger tournament in Japan” (Mr. B). Mr. A added, “The
+rule is not fair to junior players who cannot compete in ITF
+junior tournaments due to financial or academic reasons,
+players who want to become professionals after going to
+college, and veteran players who believe in their chances”.
+On the other hand, there were some responses regarding
+the increase in the number of tournaments options, such as
+“junior players can enter the main tournament based on their
+junior world ranking, so it is easier for them to move up, and
+there are more opportunities for young players” (Mr. D).
+Environment
+The category of “environment” consisted of five subcategories:
+sponsors, schedule, expenses, clarification of goals, and
+tournament level. First, in the subcategory of “sponsors,”
+respondents answered that “it is a disadvantage when
+acquiring new sponsors” (Mr. B), “it is tough if you do not have
+at least ATP points, and ATP ranking is important for acquiring
+sponsors" (Mr. D) regarding the loss of sponsors. On the other
+hand, some respondents answered that there was no impact
+on their sponsors, such as “There is no impact on sponsors at
+this time” (Mr. A) and “I was able to renew my contract this
+year, and I was told to continue to do my best” (Mr. C).
+Next, in the sub-category of “schedule,” there were responses
+regarding the busy schedule, such as “It depends on the
+tournament, but sometimes I play two qualifying matches a
+day on Mondays, and I am exhausted by the time I play the
+main draw” (Mr. B). Related to this, there was also a response
+regarding the change of training method, such as “We
+changed our training method to two-part training in order to
+fight through the tournament” (Mr. A).
+In the sub-category of “expenses,” there were responses
+related to cost reduction, such as “The tournament is now
+held from Monday to Sunday, so the cost of lodging has been
+reduced” (Mr. B). Mr. A also made a similar comment regarding
+the reduction of accommodation expenses.
+In the sub-category of “clarification of goals,” there were
+responses related to the clarification of the path to the top,
+such as “It is easier to understand the path to the top, and if
+you are really good, you can get to the top faster in this system”
+(Mr. D). In addition, Mr. A said “While I was worried about the
+system change, I was determined to win if I had the chance to
+participate in the tournament, and my goal was clear” (Mr. A).
+Furthermore, in the sub-category of “tournament level,”
+there were responses regarding the improvement of the
+tournament level, such as “It is tougher than before, there
+are more strong opponents and young players from the first
+round, and only players who are really aiming for the top are
+competing” (Mr. D). Mr. A also said, “I can't participate in any
+qualifying matches of the challenger tour, and I feel that it has
+become more difficult than before” (Mr. A).
+Requests
+The “requests” category consists of five subcategories:
+improvement of treatment, method of holding tournaments,
+number
+of
+tournaments,
+domestic
+tournaments,
+and
+provision of information. First, in the sub-category of
+“improvement of treatment,” there were responses such as
+“Compared to overseas tournaments, Japanese tournaments
+are inconvenient because there are no parking lots, few
+practice courts, and practice balls are not prepared” (Mr. B),
+“If transportation from the hotel is more thorough, it would be
+easier for overseas players to come. (Mr. B), “I think it would
+be easier for foreign players to come to Japan if they are
+thoroughly picked up from their hotels” (Mr. B).
+In the “Method of holding the tournament” subcategory,
+participants made comments about tournaments held in
+Japan every March for six consecutive weeks, traveling
+across various regions of the country. One participant said,
+“I would like organizers to stop holding the tournament for
+six consecutive weeks in March because it is difficult to move
+around” (Mr. B), while another participant mentioned that
+“It's pretty hard to fly around the country every week” (Mr. C).
+In the sub-category of “number of tournaments,” there were
+responses related to increasing the number of tournaments,
+such as “increase the number of M15 and M25 tournaments
+in Japan” (Mr. B) and “double the number of ATP Challenger
+tournaments in Japan” (Mr. D) and so on.
+In the sub-category of “domestic tournaments,” there
+were responses regarding the enhancement of domestic
+tournaments, such as “Players should take the initiative in
+enhancing domestic tournaments, rather than leaving it to
+JTA and tournament organizers” (Mr. A).
+In addition, in the sub-category of “provision of information,”
+there were responses regarding the provision of more
+information on the changes in the system, such as “I would
+like to know about the changes in the tour system and the
+conversion method of ATP points in the JTA rankings as
+soon as possible”. In response to these requests, there were
+also responses regarding concrete actions, such as “I also
+raised the issues of the tour system changes on my blog via
+Facebook, and players responded to it, so I compiled their
+opinions and submitted them to the ITF” (Mr. A).
+DISCUSSION
+Feeling
+The “feeling” category consisted of three subcategories:
+anxiety, motivation, and goals. First, in the sub-category of
+"anxiety," Mr. A, Mr. B, and Mr. C, who have different rankings
+and ages, reported their concerns that they would not be
+able to participate in some tournaments due to the change
+of the tour system. On the other hand, since Mr. D is a young
+teenager and his ranking is sufficient to participate in the
+WTT, he thinks that the change in the tour system will be more
+advantageous to him than other competitors, and feels little
+anxiety about it. Therefore, it is considered that the change
+of the tour system has caused anxiety to the players, except
+for young players who already have the necessary ranking to
+participate in the WTT.
+Next, in the sub-category of "motivation," Mr. B and Mr. C,
+who were anxious about whether they could participate in the
+WTT or not, reported a decrease in their motivation for playing
+tennis. On the other hand, Mr. A, who was ranked higher, was
+determined to aim for a higher level and was rather excited
+about it. In addition, Mr. D, who thinks that the change in the
+tour system will be advantageous to him, reported an increase
+in his motivation. This suggests that the change in the tour
+system may have had an effect of decreasing motivation on
+the players in the middle to lower rankings.
+Next, in the subcategory of "Goals," the respondents reported
+that their goals had improved. This may be because it is no
+longer easy to maintain the ATP ranking without competing in
+ATP Challenger tournaments.
+Game plan
+The category of “game plan” consisted of two subcategories:
+Changes in the level of tournaments entered and increase
+in the number of tournaments played. First, in the subcategory of "changes in the level of tournaments entered” the
+participants reported an increase or decrease in the level of
+tournaments competed in. Mr. A, who has a high ranking and is
+capable of winning the WTT, selected M25 tournaments more
+often than M15 tournaments because he could earn ATP
+points if he reached the finals. On the other hand, Mr. C, who
+is in the middle to the bottom of the ranking, has decreased
+in the number of tournaments he participates in. He chooses
+domestic JTA tournaments where he can earn more prize
+money more often. This may have had the effect of increasing
+the level of tournaments for the top-ranked players and
+decreasing the level of tournaments for the middle to lowranked players.
+Next, in the sub-category of "increase in the number of
+tournaments played," the impact of the increase in the number
+of tournaments played was reported due to the difficulty of
+competing in the ATP Challenger tournaments.
+Status
+The “status” category consisted of two subcategories, ranking
+and player selection. First, in the subcategory of "ranking,"
+the effects of gaining and losing status were reported. The
+one who improved his status, such as being seeded, was Mr.
+D, a young player in the top to middle ranking. On the other
+hand, Mr. B, who was ranked lower, experienced a decline in
+his status, as he was no longer seeded or participated in the
+qualifying instead of the main draw.
+Next, in the sub-category of "selection of players," the effects
+of the tournaments were reported in terms of an increase
+and a decrease in the choices of tournaments. The number
+of choices increased for the top-ranked, middle-ranked, and
+young players (Mr. D), while the number of choices decreased
+for the top-ranked players (Mr. A) and the low-ranked players
+(Mr. B). This may reflect the reduction of draw sizes in the
+ATP Challenger and WTT, and the introduction of the junior
+priority quota.
+Environment
+The category of “environment” consisted of five subcategories:
+sponsors, schedule, expenses, clarification of goals, and
+tournament level. First, in the sub-category of "sponsors,"
+some players reported the loss of sponsors. This may be due
+to the fact that the WTT ranking is not directly related to
+the participation in Grand Slam tournaments, and thus the
+benefits of sponsors have decreased.
+Next, in the sub-category of "schedule," some players reported
+that they had a busier schedule, and some of them changed
+their training methods to cope with the schedule change.
+In the sub-category of "expenses," there were reports on cost
+reduction. This is considered to be due to the reduction of
+travel expenses caused by the shortening of the tournament
+schedule.
+In the sub-category of "clarification of goals," there was
+a report on the clarification of the path to the top. This is
+considered to be due to the clarification of the point that only
+those players who have the ability to get out of the WTT can
+take the next step to the Grand Slam tournaments.
+Furthermore, in the sub-category of "tournament level," there
+were responses concerning the improvement of the level of
+tournament. This may be due to the fact that higher ranked
+players are now competing in the WTT due to the reduction
+of draw size and other reasons.
+Requests
+The “requests” category consists of five subcategories:
+improvement of treatment, method of holding tournaments,
+number of tournaments, domestic tournaments, and provision
+of information. First, in the sub-category of "improvement
+of treatment," it was reported that the parking lots, practice
+courts, and practice balls are not adequately prepared for
+WTTs in Japan. It was also pointed out that transportation to
+and from the official hotels is also insufficient.
+Next, in the sub-category of "method of holding tournaments,"
+it was requested that the WTT be held in the same venue as
+the WTT is held in Japan for six consecutive weeks in spring
+every year. Furthermore, these tournaments are run by
+university tennis club members, so it is also important to
+ensure the governance of the club (Hotta et al., 2022a; Hotta
+et al., 2022b).
+In the sub-category of "Number of tournaments", there was
+a request to increase the number of M15, M25 and ATP
+Challenger tournaments in Japan.
+In the sub-category of "domestic Tournaments", the need to
+enhance the domestic JTA tournaments was pointed out.
+In the sub-category of "provision of information", it was
+reported that the information to the players regarding the
+changes in the tour system should be provided more promptly
+and better.
+From these requests, it can be understood that the
+improvement
+of
+the
+professional
+tennis
+tournament
+environment in Japan is what is desired (Hotta, 2021), while
+the changes in the men's professional tennis tour system by
+the ITF have affected Japanese players in various ways.
+CONCLUSIONS
+Following a qualitative inductive analysis of the verbatim
+transcripts of the interviews, five areas of impact were
+identified: feeling, game plan, status, environment, and
+requests.
+This study clarified the impact of the change in the men's
+professional tennis tour system on Japanese players from
+both environmental and psychological perspectives, and is
+considered to have provided valuable suggestions for the
+development of the tennis world. In the future, it is necessary
+to take measures to make it easier for professional tennis
+players to compete in international tournaments, based on
+this study.
+ACKNOWLEDGEMENTS
+We would like to express our deepest gratitude to the
+organizers of the WTT and the athletes who cooperated in the
+survey, as well as to the many other people whose support has
+made this study possible, which cannot be mentioned here.
+We also thank Ms. Kaya Kudo, Mr. Bradley Suzuki and Mr.
+Myles Hirozumi Shiotsu of Keio University for their detailed
+advice on this research.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest. This study was supported by the 2019 Japan Society
+on Tennis Science Research Project Grant.

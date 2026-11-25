@@ -1,0 +1,9 @@
+pair,criterion,q_first_better,q_second_better,q_tied_or_split,p_sign,p_holm,significant,p_wilcoxon,p_holm_wilcoxon,significant_wilcoxon
+global_8k vs basic_8k,comprehensiveness,14,24,7,0.1433,0.5732,False,0.1048,0.419,False
+global_8k vs basic_8k,directness,9,34,2,0.0002,0.0012,True,0.0002,0.0015,True
+global_8k vs basic_8k,diversity,21,14,10,0.3105,0.7434,False,0.2992,0.8956,False
+global_8k vs basic_8k,empowerment,4,34,7,0.0,0.0,True,0.0,0.0,True
+global_8k vs global,comprehensiveness,19,8,18,0.0522,0.2822,False,0.0343,0.2056,False
+global_8k vs global,directness,19,21,5,0.8746,0.8746,False,0.6364,0.8956,False
+global_8k vs global,diversity,25,12,8,0.047,0.2822,False,0.0381,0.2056,False
+global_8k vs global,empowerment,17,10,18,0.2478,0.7434,False,0.2985,0.8956,False

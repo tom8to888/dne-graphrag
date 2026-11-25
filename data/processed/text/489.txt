@@ -1,0 +1,605 @@
+Title: Influential literature in tennis medicine and science
+Authors: Duane Knudson
+Year: 2024
+Issue: Vol. 32 No. 92 (2024)
+Article id: 489
+
+ABSTRACT
+This study examined the most influential peer-reviewed journal articles and books in
+tennis medicine and science based on citations (C).  Systematic searches were performed
+to extract authors, titles, year, journal, C, and research focus for the top cited publications
+indexed in Google Scholar (GS).  The top 100 articles had high numbers of citations (85
+to 1,164) and citation rates (3 to 41 C/year) that were similar between tennis medicine
+and science, with fewer citations to tennis books. The influence of tennis research has
+increased over the last decade, with citations and citation rates were higher than was
+previously reported (Knudson, 2012). The study confirmed important research topics and
+journal outlets and identified influential authors. Influential tennis research continues
+to focus on injuries, physiological and psychological factors, with recent increases in
+analytics and business aspects of the sport.
+INTRODUCTION
+There is worldwide interest in tennis as a recreational,
+competitive, and spectator sport. The health benefits and
+injuries of a lifetime sport like tennis result in considerable
+scientific interest. Several scientific and professional journals
+publish research on tennis, particularly tennis medicine and
+sport science. There are even several journals that specialize
+in tennis medicine and science like the International Journal
+of Racket Sport Science, the ITF Coaching & Sport Science
+Review, and the Journal of Medicine & Science in Tennis.
+There has been initial bibliometric research on these
+specialized journals (Crespo & Over, 2010; Knudson, 2020;
+Knudson & Myers, 2021) and in Chinese publications (Yuhan,
+2016). The development of knowledge in tennis medicine
+and science throughout the wider scientific literature,
+however, is less well known. One study documented the most
+cited original research, reviews, and books in tennis using
+Google Scholar (Knudson, 2012). This study found that the
+top 30 cited research articles emphasized sports medicine,
+exercise physiology, biomechanics, and psychology topics.
+Interestingly, original research articles were cited more
+frequently than review articles, with even fewer citations
+to tennis books. Bibliometric research often focusses on
+metrics derived from citations (C) to determine the usage,
+influence, or impact of published research (Knudson, 2019).
+A decade has passed since the Knudson (2012) study and
+research and journal outlets have dramatically expanded,
+so there was a need to update the most influential research
+in tennis medicine and science. The aim of this study was to
+document the most cited peer-reviewed journal articles and
+books in tennis medicine and science.  The study identified
+the 100 most cited journal articles in both tennis medicine
+www.itfcoachingreview.com
+April 2024. 32th Year. Issue 92. 24-29
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i92.489
+Influential literature in tennis medicine and
+science
+Duane Knudson
+Department of Health and Human Performance, Texas State University (USA).
+Key words: bibliometrics, book,
+citation, impact.
+Received: 14 August 2023
+Accepted: 20 October 2023
+Corresponding author: Duane
+Knudson. Email: dk19@txstate.
+edu
+and tennis science, as well as the twenty most cited tennis
+books. This may confirm trends reported in previous work and
+expand knowledge of influential research topics, journals, and
+authors in tennis.
+METHOD
+The study used the Google Scholar (GS) bibliometric service
+given its superior coverage of peer-reviewed literature
+compared to curated databases (e.g., CINAHL, PubMed,
+Scopus, SPORTDiscus, Web of Science) and other open (e.g.,
+Dimensions) bibliometric services (Delgado-Lopez-Cozar
+& Cabezas-Clavjo, 2013; Halevi et al., 2017: Harzing &
+Alakangas, 2016; Martin-Martin et al., 2018, 2021; Meho &
+Yang, 2007; Walters, 2009). The advantage of more complete
+coverage of peer-reviewed publications comes at the cost
+of greater manual searching, extracting, and checking of
+COACHING & SPORT
+SCIENCE REVIEW
+bibliometric records (Halevi et al., 2017; Schultz, 2007).
+This greater demand on the investigator in data extraction,
+review, and analysis was accepted to overcome the limited
+coverage and search engine errors common in most databases
+(Gusenbauer & Haddaway, 2020).
+The GS database service was used to perform multiple
+searches using “tennis” and combinations of “tennis” with
+“science” and “medicine.” The large numbers of GS indexed
+records (“tennis” returned “about 1.3 million records”, “tennis
+and medicine” 486,000, and “tennis and science” 712,000),
+however, were not a problem for identifying the most cited
+publications. The GS algorithm returns only the top 1000
+records, but they correspond roughly to descending order
+by citations. This combined with the strong positive skew of
+citations to scientific publications (Knudson, 2015; Opthof
+et al., 2004; Seglen, 1992) ensures that identification of
+the top 100 cited articles and top 20 cited books could be
+reliability achieved with careful, manual review. A positive
+skew means citations are not symmetrically distributed, with
+most citations in fewer highly cited publications, and fewer
+citations in a long “tail” of numerous publications with few
+or even no citations. The investigator manually accessed and
+reviewed all 3000 records for the three searches. For many
+searches, later records could be more easily scanned because
+they receive very few citations and sometimes include grey
+literature (Haddaway et al., 2015) that were not the focus of
+this study. Grey literature refers to non-profit publications
+by academics, businesses/organizations, or governments like
+technical reports, theses, conference abstracts, and white
+papers.
+Two kinds of indexed publications on tennis were the focus
+of this study: research reports published in peer-reviewed
+journals and books. This study included both original research
+and review articles in the research reports extracted. Studies
+were considered focused on tennis if the topic was primarily
+on the sport, related medical conditions (e.g., epicondylosis;
+tennis leg), or tennis players. Chapters, proceeding articles,
+and patents were excluded. Studies comparing tennis players
+with controls or one other sport were included, while studies
+and reviews focusing on more than two sports including
+tennis were excluded. Studies comparing numerous sports
+are more likely to attract citations related to other sports and
+not specifically tennis.
+GS and publication data for over 330 articles and 21 books
+were entered into an Excel spreadsheet to ensure that the top
+cited publications were obtained. Searches occurred during
+the first week in August 2023 and ended before GS refresh
+on August 8, 2023. The investigator used a combination of
+GS data and accessed the hyperlink to the original source
+to confirm the authors, title, source, year of publication, and
+citations (C). Author surname and initials were extracted for
+up to the first four authors, with an annotation made if there
+were more coauthors.  GS citation rate was also calculated
+(CR = C/(2023-year published). Data were reviewed for
+errors and incorrect inclusion before proceeding to analysis.
+The investigator subjectively classified the topic of each
+highly cited journal article and book into one of seven
+categories:
+Analytics/Coaching,
+Biomechanics,
+Exercise
+Physiology/Fitness, Multdisiciplinary, Psychology/Sociology/
+Motor Behavior, Sports Business, and Sports Medicine.
+Articles with two topics were classified based on the primary
+study question and articles with more than two topics were
+classified as Multidiscplinary. The top 100 cited articles
+classified as Sports Medicine were identified and compared
+to the top 100 cited with all other classifications. This
+combination of articles from other categories was considered
+the tennis sports science group. The focus on two areas of
+tennis research (medicine and science) was selected given the
+dominance (56-63%) of sports medicine in a previous study of
+tennis citation classics (Knudson, 2012). The larger and more
+diverse sample in this study promises to provide a superior
+description of influential tennis research.
+Descriptive data were calculated using JMP Pro 14 (SAS
+Institute, Cary, NC). Content analysis was performed on
+article topic data. Citations and content of the most cited
+tennis publications were compared to previous studies of
+influential tennis medicine and science research (Knudson,
+2012, 2021; Knudson & Myers, 2021).
+RESULTS
+The top 100 journal articles in tennis medicine and tennis
+science had 24,241 and 23,750 GS indexed citations,
+respectively. Descriptive data of article influence were also
+similar between primarily tennis medicine and tennis science
+(Table 1). Top cited tennis medicine articles were more skewed
+(γ  = 2.3) than tennis science (γ = 1.7). Ninety of the top tennis
+medicine articles were citation classics, while all top 100
+tennis science articles were citation classics. Citation classics
+are highly cited publications in a specific research area or
+specialization, usually defined as 100 or more (Gehanno,
+2007, Knudson, 2012).  Almost half of the citations in both
+areas were dominated by four journals. Highly cited tennis
+sports medicine articles were published most often in British
+Journal of Sports Medicine (21%), American Journal of Sports
+Medicine (11%), Journal of Bone and Joint Surgery (7%), and
+Clinics in Sports Medicine (7%). Highly cited tennis sports
+science articles appeared more often in the British Journal of
+Sports Medicine (16%), Medicine and Science in Sports and
+Exercise (11%), American Journal of Sports Medicine (9%),
+and Journal of Sports Sciences (9%).
+Most top cited tennis medicine articles focused on tennis
+elbow (39%), injury epidemiology (13%), shoulder injury (7%),
+bone development (5%), and heat illness (4%). The top 100
+cited tennis science articles included all topical categories
+with relatively more papers in Exercise Physiology/Fitness
+(46%) and Biomechanics and Psychology/Sociology/Motor
+Behavior both with 22%. Table 2 lists the 20 most cited
+articles in tennis medicine and science, as well as the top 17
+cited tennis books.
+Table 1
+Influence statistics for the top cited 100 journal articles indexed in Google Scholar.
+Mean
+SD
+Max
+75th
+Me
+25th
+Min
+Tennis Medicine
+Citations
+1,164
+CR
+11.6
+8.5
+41.3
+14.3
+9.1
+5.5
+2.2
+Tennis Science
+Citations
+CR
+12.7
+7.2
+35.3
+16.4
+10.8
+8.0
+2.8
+Note: Citation Rate (CR) = Citations/(2023-year published) and median (Me).
+Table 2
+Highest cited tennis journal articles and books.
+Tennis Medicine
+Author
+Year
+Title
+Journal
+C
+Nirschl RP et al.
+1979
+Surgical treatment of lateral . . .
+J Bone Joint Surg
+1,164
+Kannus P et al.
+1995
+Effect of starting age of physical . . .
+Ann Inter Med
+Kraushaar BS et al.
+1999
+Tendinosis of the elbow . . .
+J Bone Joint Surg
+Roles NC et al.
+1972
+Radial tunnel syndrome . . .
+Bone Joint J
+Bisset L et al.
+2006
+Mobilisation with movement . . .
+Br Med J
+Nirschl RP
+1992
+Elbow tendinosis/tennis elbow
+Clinics Sports Med
+Haapasalo H et al.
+2000
+Exercise-induced bone gain . . .
+Bone
+Bass SL et al.
+2002
+The effect of mechanical loading . . .
+J Bone Min Res
+Bisset L et al.
+2005
+A systematic review and meta . . .
+Br J Sports Med
+Coonrad RW et al.
+1973
+Tennis elbow: Its course . . .
+J Bone Joint Surg
+Sharma R et al.
+2002
+Physiologic limits of left . . .
+J Am Col Cardio
+Vergaar JAN
+1994
+Tennis elbow
+Int Orthopaedics
+Pluim BM et al.
+2006
+Tennis injuries: Occurrence . . .
+Br J Sports Med
+Huddleston AL et al.
+1980
+Bone mass in lifetime tennis . . .
+J Am Med Assoc
+Kibler WB
+1995
+Biomechanical analysis of the . . .
+Clinics Sports Med
+Bjordal JM et al.
+2008
+A systematic review with . . .
+BMC Musculosk DIsord
+Gruchow et al.
+1979
+An epidemiological study of tennis . . .
+Am J Sports Med
+Boyer MI et al.
+1999
+Lateral tennis elbow: Is there . . .
+J Shoulder Elbow Surg
+Nirschl RP et al.
+2003
+Elbow tendinopathy . . .
+Clinics Sports Med
+Kibler WB et al.
+1996
+Shoulder range of motion in elite . . .
+Am J Sports Med
+Tennis Science
+Gould D et al.
+1996
+Burnout in competitive junior tennis. . .
+Sport Psych
+Williams AM et al.
+2002
+Anticipation skills in a real. . .
+J Exp Psych
+Fernandez-Fernandez J et al.
+2006
+Intensity of tennis match play
+Br J Sports Med
+McPherson SL et al.
+1989
+Relation of knowledge and . . .
+Res Quart Exerc Sport
+Kovacs MS
+2007
+Tennis physiology: training . . .
+Sports Med
+O'Donoghue P et al
+2001
+A notational analysis of elite . . .
+J Sports Sciences
+Lees A
+2003
+Science and the major racket . . .
+J Sports Sciences
+Gould D et al.
+1996
+Burnout in competitive junior . . .
+Sport Psych
+Kovacs MS
+2006
+Applied physiology of tennis . . .
+Br J Sports Med
+Ward P et al.
+2002
+Visual search and biological . . .
+Res Quart Exerc Sport
+Ellenbecker TS et al.
+2002
+Glenohumeral joint rotation . . .
+Med Sci Sports Exerc
+Elliott B
+2006
+Biomechanics of tennis
+Br J Sports Med
+Smekal G et al.
+2001
+A physiological profile of tennis . . .
+Med Sci Sports Exerc
+Kraemer WJ et al.
+2000
+Influence of resistance training . . .
+Am J Sports Med
+Elliott B et al.
+2003
+Technique effects on upper . . .
+J Sci Med Sport
+Elliott B et al.
+1995
+Contributions of upper limb . . .
+J Appl Biomech
+Fernandez-Fernandez J et al.
+2009
+A review of the activity profile . . .
+Strength Cond J
+Kraemer WJ et al.
+2003
+Physiological changes with . . .
+Med Sci Sports Exerc
+Chandler TJ et al.
+1990
+Flexibility comparisons of junior . . .
+Am J Sports Med
+Bergeron MF et al.
+1991
+Tennis: A physiological profile . . .
+Int J Sports Med
+Tennis Books
+Author
+Year
+Title
+Publisher
+C
+Gallwey WT
+1975
+The inner game of tennis (Mult. Editions)
+Macmillan
+1,877
+Brody H
+1987
+Tennis science for tennis players
+Univ Penn Press
+Kovacs MS et al.
+2016
+Complete conditioning . . . (2 editions)
+Human Kinetics
+Groppel JL
+1992
+High-tech tennis (2 editions)
+Leisure Press
+Brody H et al.
+2002
+The physics and technology of tennis
+Rac Tech Pub
+Elliott BC et al.
+2003
+Biomechanics of advanced tennis
+Int Tennis Fed
+Baltzell ED
+2017
+Sporting gentlemen: Men’ tennis . . .
+Taylor Francis
+Roetert EP et al.
+2001
+World-class tennis technique
+Human Kinetics
+Loehr J
+1990
+The mental game: winning . . .
+S Greene Press
+Knudson D
+2006
+Biomechanical principles of tennis . . .
+Rac Tech Pub
+Chu DA
+1995
+Power tennis training
+Human Kinetics
+Braden V et al.
+1998
+Tennis 2000: Strokes . . . (2 editions)
+Little Brown
+Plagenhoef S
+1970
+Fundamentals of tennis
+Prentice Hall
+Roetert EP et al.
+2019
+Tennis anatomy
+Human Kinetics
+Kovacs M et al.
+2007
+Tennis training: enhancing . . .
+Rac Tech Pub
+Pluim BM et al.
+2004
+From breakpoint to advantage . . .
+Rac Tech Pub
+Elliott B et al.
+1983
+The art and science of tennis
+Sanders
+The most prolific authors of highly cited research were different between tennis medicine and tennis science (Table 3). The top cited
+authors in tennis medicine focused on tennis elbow, injuries, bone development, and heat illness. The top cited dozen authors in tennis
+science focused on all topic categories and primarily biomechanics, fitness, physiology, and psychology.
+Table 3
+Top authors and number of coauthored articles in top 100 cited tennis medicine and science publications.
+Tennis Medicine
+n
+Tennis Science
+n
+Nirschl RP
+Fernandez-Fernandez J
+Haapasalo H
+Ellenbecker TS
+Kannus P
+Elliott BC
+Kibler WB
+Gould D
+Bergeron MF
+McPherson SL
+Pluim BM
+Roetert RP
+Sievanen H
+Reid M
+Bisset L
+Girard O
+Renstrom PA
+Mendez-Villanueva A
+Kontulainen S
+Sanz-Rivas D
+Sobel J
+Kovacs MS
+Ellenbecker TS
+Kraemer WJ
+DISCUSSION
+This study confirmed that research interest in tennis medicine
+and science has continued to grow over the last decade. The
+top 25% cited articles in this study (Table 1) had between 279
+and 1,163 citations which was higher than the 113 to 499
+citations for tennis articles in July of 2012 (Knudson, 2012).
+The high citation totals and citation rates in the current study
+(Table 1) were similar between tennis medicine and tennis
+science research. This indicates that there is approximately
+equal influence and knowledge development in both medical
+and sport science areas. Inspection of Table 1 shows that
+influential tennis research with high citation totals result
+from both long-term relevance with lower citation rates
+(4 - 19 C/year) and more recent articles that represent hot
+topics with higher citation rates (> 20 C/year). A current GS
+search “tennis” returns “About 1.3 million” records compared
+to the 550,000 reported a decade ago (Knudson, 2012). The
+expansion of research and journal outlets may also contribute
+to the increasing citation of tennis medicine and science
+research.
+Separating tennis medicine from tennis science topics
+shows more journals for the former (45) than the latter (27)
+publishing the top cited 100 articles indexed in GS. While a
+few sports medicine journals publish about half of the highly
+cited tennis research (British Journal of Sports Medicine,
+American Journal of Sports Medicine, Medicine and Science in
+Sports and Exercise), influential tennis medicine and science
+is published in a variety of multidisciplinary and specialized
+journals. One ITF Coaching & Sport Science Review article
+was in the top 100 most cited tennis science articles (Cross
+& Pollard, 2009), having 131 citations and a citation rate
+(9.4) higher than is common in highly specialized journals
+(Knudson, 2020; Knudson & Myers, 2021; Postma, 2007).
+Scholars interested in tennis research should search a variety
+of bibliometric databases to be sure to identify relevant
+research (Gusenbauer & Haddaway, 2020; Knudson, 2019).
+The most highly cited tennis journal articles focused on tennis
+injuries/tennis elbow, physiology/fitness, biomechanics, and
+psychological/motor behavior topics. This was in general
+agreement with the five disciplinary areas reported in
+the Knudson (2012) study of tennis citation classics. New
+observations of the current study (larger with more topic areas)
+were the appearance of top cited tennis research in analytics/
+coaching (8%) and business/management (3%) aspects of the
+sport. The top cited books in the current study did confirm
+several observations of the previous study of tennis citation
+classics (Knudson, 2012): lower citations (60-70%) to books
+than journal articles, a majority on biomechanics (41 – 60%),
+and the fewest on sports medicine (5-7%).
+Another novel observation of the current larger study of
+tennis research is the identification of influential researchers.
+Many of the authors of citation classics in tennis original
+research, reviews, and books reported in the previous study
+by Knudson (2012) were confirmed in the present study.
+Inspection of table 3 confirms highly influential authors of
+tennis sports medicine research on tennis elbow (RP Nirschl,
+L Bisset), heat illness (MF Bergeron), bone (H Haapasalo, P
+Kannus), and injuries and their treatment (WB Kibler, BM
+Pluim; PA Renstrom). The current study was able to identify
+that influential researchers in tennis science were different
+from tennis medicine and new influential researchers in topics
+with accelerating rates of citation. The most frequent authors
+in tennis science tended to publish in the Exercise Physiology/
+Fitness topic, both over a long time (TS Ellenbecker, EP Roetert)
+and in the last 15 years (J Fernandez-Fernandez). Influential
+long-term authors in tennis biomechanics (BC Elliott),
+psychology (D Gould), and motor learning (SL McPherson)
+were identified. A higher percentage of greater than four
+authors per article was observed in tennis medicine articles
+(37%) than in tennis science (22%). Future tennis bibliometric
+research should strive to replicate and extend these results
+on current authorship and research topics. Greater detail
+on knowledge development in tennis using interdisciplinary
+teams of scholars and on sport-specific topics would assist
+both coaches, researchers, and tennis organizations.
+The results of this study should be interpreted in the context
+of its limitations. There is potential for error in the manual
+searching, extraction, entry, and cleaning of GS data. The lack
+of curation of GS and the unknown accuracy and reliability
+of the classification of primary topics by the investigator are
+also limitations. Focus on the top cited work is standard in
+bibliometrics, however limits the identification of potentially
+influential recent publications that do not have enough time
+to accrue citations, particularly in small fields like tennis
+medicine and science. The extensive coverage of GS, the high
+correlations between citations from GS and other curated
+databases (Knudson, 2019, 2022), the consistency of the
+study results with previous studies, and large sample however,
+all indicate the limitations do not likely bias the results of this
+study.
+CONCLUSION
+It was concluded that the influence of tennis research has
+increased based on increases in current citations in GS
+compared to a previous study (Knudson, 2012). The high
+citations and citation rates are approximately equal between
+top cited tennis medicine and tennis science journal articles,
+with fewer citations seen to top cited tennis books. Influential
+tennis research continues to focus on injuries, physiological
+and psychological factors, with recent increases in the
+analytics and business aspects of the sport.
+CONFLICT OF INTEREST AND FUDING
+The author has no conflict of interest to declare and did not
+receive funding to conduct this research.

@@ -1,0 +1,252 @@
+Title: Bibliometrics of ITF Coaching & Sport Science Review
+Authors: Duane Knudson
+Year: 2020
+Issue: Vol. 28 No. 82 (2020)
+Article id: 20
+
+www.itfcoachingreview.com
+December 2020. 28th Year. Issue 82. 27-30
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v28i82.20
+
+Bibliometrics of ITF Coaching & Sport Science
+Review
+Duane Knudsona
+a Texas State University, United States of America.
+
+ABSTRACT
+
+This study documented the citation metrics of articles published by the ITF
+Coaching & Sport Science Review (ITFCSSR) and indexed in Google Scholar
+(GS). A systematic searching of GS returned 209 unique ITFCSSR indexed
+articles published between 1993 and 2019 with 1139 citations. ITFCSSR
+articles had relatively low citation rates that confirmed previous bibliometric
+research on the gradual development of tennis knowledge compared to faster
+moving biomedical fields. ITFCSSR articles may make unique contributions to
+knowledge development in tennis science, particularly in coaching, physiology,
+and analytics/tactics.
+
+Key words: Citation, index
+infometrics, knowledge,
+scientometrics.
+Received: 20 September 2020
+Accepted: 25 October 2020
+Corresponding author:
+Duane Knudson, Department
+of Health and Human
+Performance, Texas State
+University, United States of
+America. Email:
+dknudson@txstate.edu
+
+INTRODUCTION
+Tennis is a popular sport world-wide so there is considerable
+scientific interest in the sport. Research on tennis is
+published in a wide variety of disciplines on many sportspecific topics (Knudson, 2012; Knudson & Myers, 2021).
+There are also specialized journals in tennis science
+including the Journal of Medicine & Science in Tennis (JMST) and
+the ITF Coaching & Sport Science Review (ITFCSSR).
+Previous tennis bibliometrics studies of tennis research has
+focused on highly cited articles (Knudson, 2012), ten years of
+Chinese research (Yuhan, 2016), and contributions from
+articles published in the Journal of Medicine & Science in Tennis
+(Knudson & Myers, 2020). Overall, these studies indicate
+stable knowledge production in tennis knowledge that may
+progress at a slower pace than other exercise or biomedical
+sciences based on citation rate to articles (Knudson & Myers,
+2020).
+In 2020, the ITFCSSR marked its 28th year with over 80 issues
+published in several languages. Research published in
+ITFCSSR contributes to tennis scientific knowledge and
+application of that knowledge for athletes, coaches, and
+sports professionals. Crespo and Over (2010) reported a
+content analysis the first 17 years (50 issues) of ITFCSSR and
+noted most articles were on psychology, coaching, and
+conditioning. Expansion of this initial content research to a
+complete bibliometric analysis of ITFCSSR could
+
+extend our understanding of knowledge development in
+tennis and document the unique contributions of this journal.
+The purpose of this study was to document the bibliometrics
+of articles published by the ITFCSSR and indexed in Google
+Scholar (GS).
+METHOD
+Systematic searches of the articles published by the ITFCSSR
+(ISSN 1812-2302 and 2225-4757) that were indexed by GS
+were conducted. GS provides the largest academic search
+engine of scholarly publication and their citations in journals,
+edited books, and patents. GS is also most relevant to
+searching for citations to ITFCSSR articles given the major
+subscription bibliometric databases (Scopus or Web of Science)
+do not index articles from the journal and are therefore
+provide a misleading and biased perspective on the articles
+published by the journal. GS indexes an estimated over
+40,000 scholarly publications (Delgado-Lopez-Cozar &
+Cabezas-Clavjo, 2013) at least 2 to 4 times larger than most
+major bibliometric databases.
+The search of GS was conducted using the following strategy.
+Records of searches of nine variations of the name of the
+
+(including common wording errors) were collected. These
+searches and the number of returned results were:
+
+These results were reviewed and cleaned by examination of
+the title, abstracts, and if necessary, text of the articles.
+Duplicate records were combined and records to other
+publications
+(proceedings,
+books,
+chapter)
+removed.
+Following clean up there were 210 articles available for
+analysis as of July 30, 2020.
+Two research usage/impact variables were collected from GS
+and one study variable was extracted from the articles. The
+usage variables were GS citations (C) to the articles and their
+citation rate [CR = C/(2020-year published)]. The study
+variable was the primary topic or main independent variable
+of each article. Article topic was classified into one of nine
+categories:
+Analytics/tactics,
+biomechanics/technique,
+coaching/teaching, equipment, nutrition, physiology/training,
+psychology/perceptual-motor, sports medicine/injury, or other
+(Knudson & Myers, 2020). A previous study reported the
+reliability of classification of study topics was 80 to 85%
+agreement between two investigators. Descriptive statistical
+analysis of the data were performed with JMP Pro 14 (SAS
+Institute, Cary, NC). Data were qualitative compared to
+previous research and the journal’s list of articles from the
+first 79 issues posted on the International Tennis Federation
+website (ITF, 2020).
+ RESULTS
+A total of 209 unique ITFCSSR articles were indexed in GS.
+This represented 25% of the 846 articles published by the
+journal between 1993 and 2019 (ITF, 2020). The indexed
+articles were cited 1142 times according to GS. The
+distribution of citations to these articles was positively
+skewed (γ = 2.8) so descriptive statistics reported in Table 1
+include the median and 25th and 75th percentiles (interquartile
+range).  Typical SR to indexed ITFCSSR articles were between
+0.28 and 0.44 citations/year (Table 1).
+
+ Table 1.  Impact/usage of articles published in ITFCSSR and
+indexed in Google Scholar
+  Note: Citation Rate = C/(2020-year published)
+The most common topics of indexed ITFCSSR articles were in
+coaching/teaching
+(44%),
+analytics/tactics
+(14%),
+and
+physiology/training
+(12%)
+with
+others
+having
+smaller
+percentages (Figure 1). There was no apparent trend in
+primary topics of indexed ITFCSSR articles over the years,
+although coaching articles were more common early on
+when the journal was titled ITF Coaches Review (Figure 2).
+
+Figure 2. Distribution of primary topics of ITFCSSR articles indexed
+in GS by year of publication. Primary topics categories were:
+Analytics/tactics
+(ana),
+biomechanics/technique
+(bio),
+coaching/teaching (coa), equipment (equ), nutrition (nut),
+physiology/training (phy), psychology/perceptual-motor (psy),
+sports medicine/injury (sm), or other (oth).
+DISCUSSION
+Articles published in all of the first 79 issues (1993 until 2019)
+of ITFCSSR were indexed in GS. No articles for 2020 issues
+were indexed given the limited for the work to be cited. Five
+to 13 articles per year were typically indexed between 2000
+and 2016, with fewer articles in the first eight, and fewer the
+last three volumes due to reduced time for citation (Figure 2histogram bar height represent numbers of records).
+The majority (95%) of the indexed articles were cited in
+subsequent tennis scientific research indexed by GS,
+although the indexed articles represented only 25% of all the
+articles published by the journal. The typical CR to these
+articles was low and about one citation over two years (Table
+1). This agrees with the low CR reported for the JMST
+(Knudson & Myers, 2020) and most small, specialized
+scientific fields (Postma, 2007). CR to articles from ITFCSSR
+and JMST indicate that tennis scientific knowledge may
+advance slower than many biomedical and exercise science
+fields (Owlia, Vasei, Goliaei, & Nassiri, 2011; Knudson,
+2014). Few (2-6%) indexed articles in ITFCSSR and JMST had
+high citation rates (> 2 C/year), however this is consistent
+with the results reported for even all the top cited articles in
+tennis science indexed in GS (Knudson, 2012).
+ITFCSSR articles indexed in GS made broad contributions to
+tennis knowledge and were particularly strong in analytics,
+coaching, and physiology studies. The distribution of primary
+topics of indexed ITFCSSR articles (Figure 2) generally
+followed the distribution of article topics as identified by the
+journal itself (Figure 3), although the journal uses different
+categories.  The most common topics identified by the
+journal were 22% (combination of coaching and teaching),
+miscellaneous (16%), psychology (12%), and conditioning
+(11%). Only 7% of articles ITFCSSR classified as tactics,
+however a higher percentage of the indexed and cited
+articles (14%) were classified in the current study as
+analytics/tactics.
+
+Figure 3. Distribution of topics of all 1993 to 2019 ITFCSSR articles
+according to the journal (ITF, 2020).
+ITFCSSR had more articles (209) than the JMST (101) indexed
+in GS. The greater coverage (44%) of coaching/teaching by
+ITFCSSR is a strength of the journal that compliments the lower
+coverage (8%) of this topic by JMST. ITFCSSR also had many
+indexed articles on tennis analytics and physiology (Figure
+1). Similar to a recent report JMST indexed articles in GS
+(Knudson & Myers, 2020), the distribution of topics of
+ITFCSSSR indexed articles did not appear to change over time
+(Figure
+2).
+JMST,
+however,
+had
+qualitatively
+higher
+percentages of articles in sports medicine (13%) than ITFCSSR
+(2%). The current results also indicate a potential need for
+more tennis research in the area of nutrition (0%) and
+equipment. Only 1% of indexed articles in ITFCSSR and 5% in
+JMST were on equipment (balls, courts, rackets, shoes) even
+though it has a significant influence on players and the sport.
+The limitations of the study were related to the subjectivity of
+GS academic search engine, manual counting, cleaning, and
+classification of the results. GS has been criticized for lack of
+control of publications monitored, lack of time-control, limited
+text access, and search control features (Schultz, 2007;
+Pitsouni, & Malietzis, 2008). This search engine, however,
+better
+coverage
+than
+publisher-driven,
+subscription
+(Walters, 2009).  The major bibliometric databases like
+Web of Science are biased against small, specialized journals
+do not index. The labor-intensive and subjective process of
+cleaning errors in GS records, however, is also a limitation of
+
+bibliometric database research (Knudson, 2019). The
+of several results of this study with previous studies of GS
+in tennis science (Knudson, 2012; Knudson & Myers, 2020),
+however indicate these limitations do not seriously affect the
+accuracy of the data or the inferences made.
+ CONCLUSION
+It was concluded that ITFCSSR articles indexed in GS had
+relatively low citation rates that confirmed previous
+bibliometric research on the gradual development of tennis
+scientific knowledge compared to faster moving biomedical
+fields. ITFCSSR articles may make unique contributions to
+knowledge development in tennis, particularly in coaching,
+physiology, and analytics/tactics.
+Disclosure: In accordance with my ethical obligation as a
+researcher, I have previously published in the journal under
+study that may be affected by the research in this report.

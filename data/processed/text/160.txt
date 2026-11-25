@@ -1,0 +1,156 @@
+Title: Selection criteria for intelligent devices for tennis
+Authors: Ángel Iván Fernández-García, Gema Torres-Luque
+Year: 2018
+Issue: Vol. 26 No. 76 (2018)
+Article id: 160
+
+www.itfcoachingreview.com
+Dec. 2018. 26th Year. Issue 76. 20-22
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i76.160
+
+Selection criteria for intelligent devices for
+tennis
+
+Ángel Iván Fernández-García and Gema Torres-Luque
+
+University of Jaén, Andalusia, Spain.
+
+ABSTRACT
+
+Today coaches can resort to a great number of devices that contribute to the
+tennis training process. Still, more often than not, the selection of one device
+over another creates uncertainty due to the great variety in the market, and to
+the lack of knowledge about the performance of the different models.
+Therefore, the target of this study is to provide some detailed technical
+information about the performance of those devices that provide technical and
+kinetic data, and to present some criteria for coaches and players to rely on, in
+order to get the tool that best suits their needs.
+
+Key words: tennis, new
+technologies, training
+Received: 27 April 2018
+Acepted: 10 June 2018
+Corresponding author: Ángel
+Iván Fernández-García,
+University of Jaén, Andalusia,
+Spain.
+Email:
+angelivanfg@hotmail.com ,
+gtluque@ujaen.es
+
+INTRODUCTION
+During the development process of a tennis player, a key
+element when programming the teaching-learning process
+consists of the analysis and evaluation of the different areas
+(Sanz, 2012). Due to scientific advances, the information that
+coaches have available is much more powerful, with more
+complete and accurate data, which are presented in an
+immediate and easily represented fashion.
+
+Thus, the evaluation and analysis of technique and kinetics
+have been one of the most systematized areas in tennis, more
+than others such as tactics and psychology. The first reference
+to the use of technology for tennis player development goes
+back to the early 20th. century (Beldam & Vaile, 1905; Vaile,
+1906; Paret, 1926; Lacoste, 1928). However, it was not until
+recently that technology started growing exponentially in the
+market, offering an affordable and economic way of getting
+data, a process that has taken the place of the “coach´s eye”, a
+system which presents deficiencies regarding the accuracy of
+data based on excessive subjectivity (Sanz, 2012).
+
+Another benefit of the use of the new tools is the greater
+motivation that its application brings about in the teachinglearning process for players and coaches, given that it can give
+evidence of the technical level in real time, and allow checking
+of progress by comparing the different training sessions or
+matches. Furtthermore, these data can be shared by means of
+the different social platforms (Quinlan, 2013).
+
+This paper aims to analyse the performance of the tools that
+provide technical and kinetic information of the action of the
+racket on the ball, and show a criteria for coaches and players
+to base their decisions on.
+
+METHODS AND PROCEDURES
+These are the devices analyzed: Sony Smart Tennis Sensor,
+Babolat Pop, Babolat Play (Pure Drive), Zepp Tennis, Zepp
+Tennis 2 and Artengo Personal Coach. A detailed analysis of the
+official websites of the devices selected was carried out in order
+to understand their performances.
+
+FUNCTIONALITY OF THE DEVICES
+A classification of the different devices and their recording
+capacities for the different items is presented below. In fact,
+Table 1 shows the capacity to record aspects related to the
+training volume in the different devices.
+
+CRITERIA FOR THE SELECTION OF A DEVICE
+Here are some reasons for coaches and players on which to
+base their decisions when selecting the most appropriate
+device for their needs:
+
+From the point of view of the coach
+Number of students: in the case of school coaches who
+work with a great number of students, it would be ideal to
+look for a device that can be used with a variety of racket
+brands and models. Coaches working individually, or with
+small groups can choose a more restricted model.
+
+Information level required according to the level of the
+students, and the knowledge of the coach (competition
+versus amateur): coaches must value the type and quantity
+of information they can interpret and they need, in order
+to improve the level of the students they work with. The
+higher the level and technical knowledge of the students,
+the higher the information requirements will be. Possible
+
+examples could be spin related data, the training load or
+the performance comparison between the different
+training sessions or matches.
+
+Recordings: if the “video” option is preferred, with specific
+data on the execution in real time, Sony Smart Tennis
+Sensor and the two Zepp models, will be best options since
+they are the only ones that offer this possibility.
+
+Competition statistics data: for coaches who need game
+statistics as well as technical and kinetic data, the only
+device offering this possibility is Zepp 2 sensor.
+
+Type of population: one of the greatest constraints for
+teaching tennis at an early age is that devices cannot be
+adapted to smaller rackets, so junior and pre-tennis rackets
+are excluded. From the point of view of the player for
+individual use
+
+From the point of view of the player for individual use
+Frequency with which the player breaks the strings: if a
+player breaks the strings on a regular basis, or alternates
+different rackets, it will be necessary to choose a sensor
+that can be changed to another racket, while an amateur
+player will be able to choose an internal device.
+
+To share data and performance in the social media: if
+players want to compare their results with those of others,
+using the same tool, they can buy any device, except the
+Artengo Personal Coach.
+
+If the player practices with a coach or not: in case a player
+has a coach, he/she should first ask the coach for advice, to
+make sure which the most convenient tool is, depending
+on their characteristics. Just as explained above, the higher
+the level and the technical knowledge of the player, the
+higher the information requirements will be.
+
+CONCLUSION
+The use of intelligent devices in tennis, is no doubt, a
+considerable help to the training process, but it is important to
+bear in mind that they are there to contribute and help, and
+never to take the place of the coach. The selection of one
+device over another will largely depend on the parameters you
+want to control, i.e. whether they are more targeted towards
+the knowledge of the stroke dynamics, to having immediate
+'videos' or feedback, to getting competition statistics, etc. No
+doubt, the tables presented will help to allow for a better
+selection based on concrete interests.

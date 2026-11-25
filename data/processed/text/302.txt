@@ -1,0 +1,155 @@
+Title: Using technology in modern tennis: an insight into the practice of the world’s top tennis player
+Authors: Dario Novak, Magnus Norman
+Year: 2017
+Issue: Vol. 25 No. 73 (2017)
+Article id: 302
+
+www.itfcoachingreview.com
+December 2017. 25th Year. Issue 73. 24-26
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.302
+
+Using technology in modern tennis: an insight
+into the practice of the world’s top tennis
+player
+Dario Novak and Magnus Norman
+Zagreb University, Faculty of Kinesiology
+ABSTRACT
+
+Investigating physical activity profiles of individual-sport practice and
+competition provides coaches with an understanding of the aspects of physical
+fitness that may influence match performance. In the present study, we tracked
+(1) the activity profiles in approximately a 30-minute period of practice of a top
+tennis player, and (2) the intensity of activity during predefined periods of
+practice match-play of the player. The player wore the GPS device (OptimEye
+S5, Catapult, Australia) during their on-court practice. It can be concluded that
+using technology in modern tennis could be of great help for coaches in order
+to avoid overtraining but also enables coaches to greatly improve the quality
+of feedback to their athletes.
+
+Key words: technology,
+analysis, GPS
+Received: 15 March 2017
+Acepted: 28 July 2017
+Corresponding author: Dario
+Novak, Zagreb University,
+Faculty of Kinesiology.
+Email: dario.novak@kif.hr
+
+INTRODUCTION
+On-court tennis training and match play involve prolonged,
+physically demanding activity profiles, resulting in substantial
+elevation of physiological and perceptual strain and reduced
+contractile function. Tennis players are expected to be in
+optimal condition during a large number of tournaments
+during the year, and there is no time for the “long” preparation
+period (Duffield et al., 2014). For this reason all the
+measurements that provide a quick feedback of performance
+are very beneficial. Early identification of high training load is
+critical for avoiding overtraining (Hagger & Chatzisarantis,
+2005). There are many monitoring devices in elite sport, with
+many coaches using them to enhance performance and
+mitigate injury risk. In general, using technology in sport could
+be very useful in analysis of sport performance and enabling
+coaches to greatly improve the quality of feedback to
+players/athletes,
+but
+also
+increase
+accuracy
+in
+time
+measurements of sport performance. However, fewer studies
+to date have focused on quantifying activity profiles during the
+practice of top tennis players. In the present study, the
+experiments investigated (1) activity profiles in approximately
+a 30-minute period of practice of a top tennis player, and (2)
+the intensity of activity during predefined periods of practice
+match-play of the player.
+
+METHODS AND PROCEDURES
+The subject in this study was an elite male player who was top
+10 in the world while this study was conducted (The
+Association of Tennis Professionals ranking list, December,
+2016). He gave consent in accordance with the requirements
+of the Declaration of Helsinki. The study was performed during
+the winter off-season (November and December, 2016). The
+preparation period was marked by a fairly large amount of
+conditioning trainings (i.e., jogging, endurance, tennis,
+strength and power training).
+
+Movement was recorded using a GPS unit (OptimEye S5,
+Catapult Innovations, Melbourne, Australia). The GPS unit
+included a tri-axial accelerometer and gyroscope sampling at
+100 Hz, which provided information on player load and volume
+of explosive efforts. The unit was worn in a small vest, on the
+upper back of the player.
+
+RESULTS
+The summary of time-motion analyses is presented in Table 1.
+In general, the figures seem to be very constant during the
+observed period. A total player load of 133 units during the
+period of 30-minutes with an average player load per minute
+of 4.75 units (Picture 1) can be observed. It is interesting to
+note that the player performed a high number (302) of low
+explosive efforts (locomotive movements) comparing with
+medium (rallying groundstrokes) and high explosive efforts
+(drives) (Picture 2). Interestingly, there are very few jumps,
+especially low jumps during the practice match-play (Picture
+3).
+
+DISCUSSION
+The preparation period of the top tennis player provided a
+unique opportunity to evaluate activity profiles that occur
+during prolonged high intensity activities. The objective of this
+study was to investigate the (1) activity profiles in
+approximately a 30-minute period of practice of a top tennis
+player, and (2) the intensity of activity during predefined
+periods of practice match-play of the player. The results of
+some previous studies demonstrate that compared with more
+successful players, less successful players covers greater total
+distance, perform more high-intensity running, and are
+involved in a greater number of repeated high-intensity effort
+bouts (Austin, Gabbett, Jenkins, 2011; Gabbett, 2012).
+Therefore, some findings suggest that greater amounts of
+high-intensity activity and total distance are not related to
+success in elite sport (Gabbett, Jenkins, Abernethy, 2012; Hulin
+et al. 2015). Hulin et al. (2015) suggest that a greater number
+of collisions are linked with a greater rate of success in elite
+rugby league teams. As a result, our findings are of importance
+to coaches and sport scientists when interpreting time motion
+analyses, as our results may indicate that overall technical and
+tactical effectiveness of the player rather than greater running
+workloads may indeed be a greater determinant of success.
+
+Recognition of physiological and psychological factors
+contributing to the development of performance, therefore,
+would be of particular value for those administering training
+routines (Terry, 2000). This type of practice activity tracking
+using the GPS technology could be very beneficial for fitness
+and tennis coaches for avoiding symptoms of decreased
+performance or overtraining. Also, using technology could be
+useful in analysis of sport performance and enabling coaches
+to greatly improve the quality of feedback to athletes, but also
+increase accuracy in time measurements of sport performance.
+It is, however, also worth pointing out that the sample size in
+this case study is too small to produce a clear picture, however,
+it is still considered important and beneficial to measure these
+changes during the preparation period.
+
+CONCLUSION
+Tennis today requires the tennis player to have a very high level
+of readiness. At the same time, one must be aware that the
+stress of overtraining may lead to the development of
+“staleness” (Ryan, 1983; Morgan et al., 1987). The GPS
+technology could be very beneficial tool to track activity
+profiles of tennis players especially during high intensity
+sessions.
+Additional
+studies
+are
+needed
+to
+identify
+interventions that can increase performance with the ultimate
+goal of achieving healthier athletes.

@@ -1,0 +1,318 @@
+Title: Proposal and evaluation of a practice session including a learning tennis wall
+Authors: Alexis Herbaut, Aurore Valgalier, Guillaume Divrechy, Damien Caby, Matthieu Foissac
+Year: 2023
+Issue: Vol. 31 No. 91 (2023)
+Article id: 396
+
+www.itfcoachingreview.com
+December 2023. 30th Year. Issue 91. 41-45
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i91.396
+Timmerman et al., 2015). Specific task constraints can be used
+to allow the learner to focus on the emergence of specific
+information–movement couplings and to discover new
+solutions to solve a problem (Reid et al., 2007). In a guideddiscovery lesson, the teacher provides a temporary structure
+(constraint) that assists or supports the child to successfully
+perform the skill (Newell & Rovegno, 2021).
+One solution which supports the coach to change the
+environment and to teach the tennis technique to novice
+players is the use of a rebounder net, which is usually a heavy
+structure put on the tennis court. In an attempt to increase
+the hitting volume during the tennis practice sessions and to
+ease the use of this kind of solutions, ©Artengo designed an
+equipment called: The Tennis Wall (Figure 1). It consists of
+an inflatable structure with stretched and inclined canvas on
+which the player can send the ball and see it coming back to
+hit it again. The claimed advantages compared to a traditional
+wall is that it allows the player to perform strong strikes and
+still have the time to place correctly for the next strike thanks
+to the attenuation of the impact by the canvas and the inflated
+tube that allows the ball to come back and bounce quite
+high. It is also believed that the Wall creates an environment
+constraint which forces the players to hit the ball on the side of
+the body with a proper forward swing and frame orientation
+at ball contact to avoid sending the ball above it, promoting
+both an efficient forehand technique and a more aggressive
+gameplay (Reid et al., 2013).
+INTRODUCTION
+Tennis is a challenging sport to learn due to its multidimensional
+nature, requiring the acquisition of complex technical and
+tactical skills (Kolman et al., 2019; Reid et al., 2007). Current
+recommendation from the International Tennis Federation
+for tennis coaches is to favor children novice players to
+perform a large volume and variety of strokes during their
+practice sessions (www.tennisplayandstay.com). It was
+demonstrated that the improvement in performance during
+the early learning stage is produced by repetitive practice
+of the tennis shots (Menayo et al., 2010). Blocked-practice
+sessions with repetition were shown to be effective in
+improving the forehand performance of younger or less
+skilled players, particularly in the immediate term (Farrow &
+Maschette, 1997; Menayo et al., 2010). The results of these
+studies suggest that novice players need a certain amount of
+repetition to reach both consistency and mastery in the task
+before benefitting from less predictable and more game-like
+practice exercises (Reid et al., 2007).
+Based on the constraints-led approach of learning, three
+elements (task, environment and individual) can be
+manipulated to help the acquisition of specific skills (Newell,
+1986; Regan, 2021; Renshaw & Chow, 2018). It was shown that
+modifying the environment (i.e. court dimensions, net height,
+kind of balls, racket properties or presence of an opponent)
+had an influence on biomechanics, game tactics and success
+rate of young tennis players (Buszard et al., 2016; Fadier et al.,
+2022; Herbaut et al., 2023; Kachel et al., 2015; Limpens et al.,
+2018; Larson & Guggenheimer, 2013; Shafizadeh et al., 2019;
+ABSTRACT
+Tennis is a challenging sport to learn. Novice children players (5-8 years old) need a
+certain amount of practice to reach both consistency and mastery in their strokes. In an
+attempt to support the coach and help the players to remain active, ©Artengo designed
+an equipment consisting of increasing the hitting volume during a practice session: The
+Tennis Wall. The objectives of the present study were i) to propose a practice session
+including the use of the Tennis Wall, ii) to evaluate the influence of adding the Tennis
+Wall on the hitting volume in a practice session with novice children tennis players. A
+practice session with the Tennis Wall allowed to hit about 3 times more balls for each
+young tennis player compared with a traditional practice session. Although the results
+of this study need to be confirmed with a larger sample of participants and more training
+sessions, they suggest that the Tennis Wall can be an interesting support to learn tennis
+due to the increased repetition of strikes which contributes to skill acquisition.
+Proposal and evaluation of a practice session
+including a learning tennis wall
+Alexis Herbaut1, Aurore Valgalier1, Guillaume Divrechy1, Damien Caby2 &
+Matthieu Foissac3
+1Decathlon SportsLab, 59000 Lille, France. 2Hem Tennis Club, 59510 Hem, France. 3Artengo, 59650 Villeneuve d’Ascq,
+France.
+Key words: Skill acquisition,
+constraints based approach,
+pedagogical equipment, exercises
+Received: 21 March  2023
+Accepted: 24 May 2023
+Corresponding author: Alexis
+Herbaut. Email: herbaut.alexis@
+gmail.com
+COACHING & SPORT
+SCIENCE REVIEW
+Figure 1. Player repeating forehands against the Tennis Wall
+The objectives of the present study were i) to propose a practice
+session including the use of the Tennis Wall, ii) to evaluate the
+influence of adding the Tennis Wall on the hitting volume in
+a practice session with novice children tennis players. It was
+hypothesized that training with the Wall increases the hitting
+volume, which should support the acquisition of forehand
+technical skills and improve performance.
+METHODS AND PROCEDURE
+Participants
+Twenty-four participants were involved in this study. They
+were distributed in 4 groups of 6 players (2 groups of red
+level and 2 groups of orange level). The criteria of inclusion
+were being aged between 5 and 8 years old, being injury-free
+and having less than 2 years of tennis experience. Parents
+were informed about the experimental procedures and the
+right to withdraw their child from the study during or after
+the experiment. They gave written consent for their child’s
+participation and the data collection.
+Procedure & Task
+Children participated in two practice sessions designed
+by a tennis coach, one week apart in a counterbalanced
+order. The specific skills to work in both practice sessions
+were the hitting plan (forward and lateral of the body) and
+the frame orientation of the racket at ball contact when
+performing forehands. The sessions were both composed of
+an observational situation (PRE-Test), 3 tennis-blocks (TB#1,
+TB#2 & TB#3) and a final evaluation (POST-Test) (Figure 2).
+The experimental session consisted of a training session with
+the Wall. The control session consisted of exactly the same
+training session but the block-practice against the Wall (TB#3)
+was replaced by a task of forehands with balls sent by each
+player himself, in autonomy, to the other side of the court.
+Balls used during the training session and court dimensions
+were adapted to players’ level (Red balls and 11x5.5-meters
+court for Red-level players, Orange balls and 18x8.2-meters
+court for Orange-level players).
+Figure 2. Tennis blocks (TB) used during the practice session with the Learning Wall.
+PRE-Test (Observational situation)
+•	 Objective: Observation of the difficulties encountered by
+the players and measurement of their initial performance.
+•	 Duration: 6 minutes
+•	 Description: The coach sends 10 balls to each player
+(ball color corresponding to player’s level), who performs
+forehands with the aim to send them back to the other
+side of the court and within the net and an overnet placed
+1 meter above the net.
+Tennis Block #1: Coach feeds the ball
+Same setup as the observational situation.
+•	 Objective: Working on gesture quality.
+•	 Duration: 12 minutes
+•	 Description: The coach sends balls to each player, who
+performs forehands with the aim to send them back to
+the other side of the court and within the net and an
+overnet placed 1 meter above the net.
+•	 Points of vigilance: Make sure that the player executes
+the right movements, with a proper hitting plan and with
+the intention to send the ball in the desired area
+Tennis Block #2: Motricity
+•	 Objective:
+Working
+on
+motricity
+and
+providing
+sensations.
+•	 Duration: 12 minutes
+•	 Description: The player rolls a gym ball (65 cm-diameter)
+forward with the racket, always keeping the gym ball
+forward and laterally of the body, and starting to push
+the gym ball from below.
+•	 Points of vigilance: Make sure that the player keeps
+the contact on the gym ball with the racket from the
+beginning to the end of the gesture to accompany the
+gym ball progression.
+Tennis Block #3: Wall feeds the ball
+•	 Objective: Working on repetition to develop consistency.
+•	 Duration: 12 minutes
+•	 Description: The player hits forehands against the
+Wall, which sends the ball back to him repetitively. It is
+important to have a good acceleration during the forward
+swing and a correct frame orientation at ball contact.
+•	 Points of vigilance: Make sure that the player keeps
+a sufficient distance with the Wall to favor correct
+placement and forward swing.
+POST-Test (Final evaluation)
+Same setup as the observational situation.
+•	 Objective: Evaluate the performance evolution of the
+players.
+•	 Duration: 6 minutes
+•	 Description: The coach sends 10 balls to each player,
+who performs forehands with the aim to send them back
+to the other side of the court and within the net and an
+overnet placed 1 meter above the net.
+•	 Points of vigilance: Make sure that the player executes
+the right movements, with a proper hitting plan and with
+the intention to send the ball in the desired area
+Variables of interest & Data analysis
+•	 Hitting volume: the total number of balls striked by
+each participant during the 1-hour practice session was
+recorded by the experimenters.
+•	 Performance score progression: the score during the
+PRE-test (observational situation) and the POST-test
+(final evaluation) were measured. Out of the 10 balls fed
+by the coach, 1 point was granted when a ball was sent
+back on the other side of the court and passed within the
+net and the overnet. The performance score progression
+was computed as POST-test score minus PRE-test score.
+All statistical analyses were done with XLSTAT (©Addinsoft
+Inc, NY, USA). Normality of data distribution was checked
+with a Shapiro-Wilk test. A 2x2 Repeated-measures ANOVA
+(repeated measure: Wall vs. No Wall, fixed factor: Red vs.
+Orange level) was conducted to evaluate the effectiveness
+of the Wall and the effect of game level on the 2 variables
+of interest. When a significant difference was found, t-tests
+with Bonferroni correction were applied. The significance
+threshold was set at p<0.05.
+RESULTS
+Hitting volume
+In terms of hitting volume, the repeated measures
+ANOVA revealed a significant main effect of players’ level
+(F1,25=34.4, p<0.001), significant main effect of Wall
+condition (F1,25=68.2, p<0.001) and a significant interaction
+effect (F1,25=13.1, p<0.001). On average, the hitting volume
+increased by 289% for a practice session with the Wall
+compared to a practice session without the Wall (p<0.001).
+The hitting volume increased more for Orange level players
+(+316%, p<0.001) than for Red level players (+243%, p=0.025)
+(Figure 3).
+Figure 3. Hitting volume during the practice session without and with
+the wall (red: mean of the players with a red level, orange: mean of the
+players with an orange level, red/orange: mean of all the players).
+Performance score progression
+In terms of performance score progression, the repeated
+measures ANOVA showed no significant main effect of
+players’ level (F1,25=1.1, p=0.305), no significant main effect
+of Wall condition (F1,25=0.0, p=1.000) and no significant
+interaction effect (F1,25=1.9, p=0.183). The performance
+score between PRE-test and POST-test was not statistically
+significant but tended to improve both for a practice session
+without the Wall (+0.7 points, p=0.054) and with the Wall
+(+1.1 points, p=0.054) (Figure 4).
+Figure 4. Performance score progression during the practice session
+without and with the Wall (red: mean of the players with a red level,
+orange: mean of the players with an orange level, red/orange: mean of
+all the players).
+DISCUSSION
+The objective of the present study was to evaluate the
+potential benefits for novice children tennis players to
+practice tennis in a training session including the use of a
+Tennis Wall compared to a traditional training session. The
+initial hypothesis that a training session with the Wall allowed
+increasing the hitting volume of novice children players was
+validated. It was observed both in red and orange level players
+but it seems that players with a higher level benefit even more
+from a practice session with the Wall, likely because they
+have a better capacity to make long rallies against it. Actually,
+increasing the number of strikes during tennis training sessions
+is crucial both to build the fundamental motor programs and
+to enhance the enjoyment of the players, which is key to keep
+them active and motivated to play tennis over the long-term
+(Anderson et al., 2009). It was shown that repeating tennis
+shots was effective in improving the forehand performance
+of young novice tennis players (Farrow & Maschette, 1997;
+Menayo et al., 2010). Indeed, repeated task-specific practice
+generates structural and functional changes throughout the
+central nervous system, which is necessary to reach both
+consistency and mastery in the task (Leech et al., 2022; Reid et
+al., 2007). However, only the number of balls hit by the players
+was recorded but not the quality of each strike. Repeating a
+bad gesture multiple times could be counterproductive and
+may lead to learning bad habits, which can be challenging to
+unlearn later. It was recently evidenced in a longitudinal study
+that the use of a tennis racket containing visual and haptic
+cues helped to facilitate the acquisition of a proper technique
+(Herbaut et al., 2023). Further similar analyses on the Wall
+are needed in order to determine if using it regularly allows
+a larger improvement in the technique, specifically a better
+forward swing and a proper frame orientation at ball contact.
+It made sense to observe an overall improvement trend in the
+performance of the players between the beginning and the end
+of the practice sessions. However, the absence of significant
+difference between a practice session with or without the
+Wall did not allow to conclude about the potential benefits of
+the Wall in terms of performance progression. As mastering
+complex movements such as tennis strokes requires time, it
+is definitely difficult to observe performance improvements
+in only one practice session (Reid et al., 2013). A severalweeks longitudinal study would be needed to observe more
+accurately the contribution of the Wall to support motor skill
+acquisition. Moreover, the fact that only one coach managed
+all the practice sessions was both a strength and a weakness
+of the study. It was needed to make the comparison reliable
+between a session with and without the Wall. Nevertheless,
+the outcomes in terms of hitting volume are also dependent
+on its teaching approach. It is likely that, with the help of the
+tennis coaches community, one could design new practice
+sessions in order to maximize the use of the Wall and
+optimize the learning process. It should result in even more
+multiplying the hitting volume during a practice and helping
+the acquisition of tennis-specific technical skills.
+CONCLUSION
+A practice session with the Tennis Wall allowed to hit about
+3 times more balls for each young tennis player. Even though
+no better improvement in performance was observed after
+a practice session with the Wall compared with a practice
+session without the Wall, it can be assumed that the increased
+repetition of forehands contributes to the acquisition of a
+proper technical skill.
+This study provides the first elements to demonstrate the
+interest of the Tennis Wall as a support to learn tennis,
+especially by the increase of repetition of the gesture
+(quantitative analysis). A long-term qualitative study
+consisting of an evaluation of the technique of each participant
+made by the coach during several weeks would be necessary
+to assess the relevance of this equipment to ease the learning
+of tennis technique.
+ACKNOWLEDGEMENTS
+The authors would like to thank Artengo for providing the
+Wall and Hem Tennis Club for welcoming the tests in their
+structure.
+CONFLICTS OF INTEREST
+AH, AV, GD and MF are employees of Decathlon which
+commercializes the Artengo Tennis Wall evaluated in this
+study.

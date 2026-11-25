@@ -1,0 +1,366 @@
+Title: Stefan Edberg's one-handed "safe elbow" backhand: A biomechanical point of view and a technical reference model for amateurs
+Authors: Rodolfo Lisi, Simone Cigni, Pietro Gussio, Marianna Meroni, Michele Perniola, Renato Rodano
+Year: 2025
+Issue: Vol. 33 No. 96 (2025)
+Article id: 664
+
+ABSTRACT
+Tennis champion Stefan Edberg is remembered not only for his top match results on the
+ATP tour, but also for the technical-stylistic elegance and effectiveness of some of his
+strokes. In addition to his backhand volley, the Swedish player also excelled with his onehanded backhand - OHB (flat, topspin and slice). This paper analyzes Edberg's topspin
+and flat backhand highlighting its peculiarities from a kinesiological and biomechanical
+point of view. The analysis evidence motor strategies aimed to prevent elbow and wrist
+pathologies (often implying a difficult and prolonged healing process) in amateurs.
+Starting from this analysis, an attempt has been made to define a technical reference
+model to approach the game of tennis without neglecting physical features related to it.
+INTRODUCTION
+ Former champion Percy Rosberg, Stefan Edberg's coach in his
+first years of activity, deserves credit for having transformed
+the Swedish’ cumbersome two-handed backhand (THB), into
+a one-handed shot, as elegant as effective. Edberg, who later
+became one of the strongest tennis players of all the times,
+never showed any severe pain on his epicondyle, affecting
+his competitive career as often happens in amateur players,
+sometimes even compromising their sport practice (De Smedt
+et al., 2007). Furthermore, if it’s true that the phenomena
+damaging the condylar insertion and the extensor tendons
+of the elbow are to be ascribed, primarily, to the vibrations
+induced by the ball-racket impact, it is equally true that
+the poor training, the precarious muscle coordination, and
+an inadequate muscular preparation of the humero-ulnar,
+proximal radio-ulnar and radio-humeral compartments, may
+easily represent risk factors. Edberg was able to synchronize
+muscle contractions by adopting the classical "closed stance"
+(Figure 1A) making them coordinating in a specific sequence
+connecting the lower limbs with the racket arm, in an efficient
+dynamic kinetic chain.
+Due to this integration an adequate transfer of energy,
+built up in the initial phase of the movement, is possible,
+implying a more rational distribution of the forces along the
+body segments. More precisely, the energy transfer comes
+from the feet to the trunk through the upward twist of the
+www.itfcoachingreview.com
+August 2025. 33th Year. Issue 96. 13-17
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i96.664
+Stefan Edberg's one-handed "safe elbow"
+backhand: A biomechanical point of view and a
+technical reference model for amateurs
+Rodolfo Lisi¹, Simone Cigni², Pietro Gussio3, Marianna Meroni4,
+Michele Perniola5 & Renato Rodano6
+1Ministry of Education and Merit, Cassino (FR), Italy. 2Asst Saints Paul and Charles, Division of Orthopedics
+and Traumatology, Milano, Italy. 3Tennis Coach, Milano, Italy. 4Humanitas University, Milano, Italy . 5Ministry of
+Education and Merit, Bologna, Italy. 6Biomedical engineer, Milano, Italy.
+Key words: One-handed
+backhand (OHB), kinetic chain,
+elbow injuries, leading with the
+elbow.
+Received: 27 November 2024
+Accepted: 8 May 2025
+Corresponding author: Rodolfo
+Lisi, rodolfo.lisi@libero.it
+legs, and from the trunk to the shoulders until it reaches the
+racket. In the past, this possibility was also determined by
+the speed of the game which was much lower than that of
+modern tennis. Some authors (Saal, 1996; Ruiz-Cotorro et al.,
+2006) highlighted how this technical approach significantly
+reduces the stress on the “pars interarticularis”, proving to
+be probably safer from a biomechanical point of view than
+COACHING & SPORT
+SCIENCE REVIEW
+Figure 1. Classic one-handed backhand (A); Modern one-handed
+backhand (B).
+oriented towards health and accident prevention, remember
+how the adoption of "leading with the elbow" exposes the
+elbow to a forced valgus stresses transmitted mainly to the
+anterior bundle of the ulnar collateral ligament. Pink and Jobe
+(2000) proposed the definition of “hyper-angulation” (Figure
+2), according to which an increase in the range of horizontal
+abduction of the shoulder, during the arm loading phase
+(“cock position”), is correlated with a greater predisposition
+to the onset of pathologies at the level of the anatomical
+districts above mentioned.
+modern methods of interpreting fundamental dynamic
+gestures (Figure 1B). Although the position in Figure 1B
+allows for a wider range of motor solutions (the tennis player
+is able to apply a greater force to the shot), we believe that in
+the one-backhand performed in a “classic and closed stance”
+(Figure 1A), the movement of the dominant arm provide
+for a lesser flexion of the elbow, reducing the supination
+movements of the forearm and extension of the wrist.
+Therefore, being a primary goal for amateurs competing until
+an old age without compromising their physical integrity,
+we support the use of the position mentioned in Figure 1A.
+Furthermore, the example of Stefan Edberg reminds us that
+it is possible to excel adopting a classic technique, even in an
+era (such as the 80’s and 90’s) characterized by the presence
+of a great number of performing tennis players and of court
+surfaces not so suited to his own way of playing (such as red
+clay is). Actually, at the end of his career, the Swedish player
+had a positive record in head-to-head meetings of 4-0, on the
+same red clay, against the Austrian Thomas Muster, one of
+the most clay court players of the 90’s.
+Finally: is that just a coincidence that Roger Federer chose
+the Swedish coach to train him on how to use one-handed
+backhand to unlock his net approach (Tignor, 2023)?
+TENNIS AND LATERAL EPICONDYLITIS
+On lateral epicondylitis, as Zati and colleagues remind us
+(Zati et al., 2008) «the most probable mechanical triggering
+factor is the continuous and repeated use of the forearm in
+extension, external rotation and supination, an execution
+technique common to many sports, but typical of the onehanded backhand in tennis». The suffering on the epicondyle
+and the surrounding areas, however, have various and
+multiple origins based on the anatomic structures injured by
+the athletic gesture, providing various symptomatic clinical
+evidences sometimes associated such as enthesitis, fasciitis,
+myalgia, neuralgia, dysaesthesia up to paresis (Clavert et al.,
+2009).
+Compared to the one-handed backhand (OHB), lateral
+epicondylitis is less observable in tennis players using the twohanded backhand - THB (Chung & Lark, 2017). In the range
+of motion related to the execution of the two-handed stroke,
+the non-dominant limb which acts mainly in opposition, helps
+to absorb a great part of the impact, while the dominant acts
+longitudinally. Generally speaking, and taking a right-handed
+player as a reference, the grip on the lower part of the handle
+is ensured by the right hand which, in ulnar deviation, creates
+a stiffening of the complex forearm-wrist-hand system, giving
+stability to the upper limb as a whole (De Gasperis et al., 2012)
+and avoiding reckless and potentially harmful movements on
+the entheses.
+” LEADING WITH THE ELBOW” IN TENNIS: YES, OR NOT?
+In some sports, such as baseball, the so-called “leading with
+the elbow”, a connecting element between the” loading phase”
+and the” acceleration phase”, embraces different opinions.
+This method, consisting of an exaggerated increase in
+horizontal adduction of the shoulder and flexion of the elbow,
+divides the expert’s opinions: some of them, more interested
+in achieving high ball exit speeds, are questioning about
+the real effectiveness of the prevalence of the elbow over
+the other joints in the dynamics of the throw; others, more
+Figure 2. The correctly performed loading phase sees the humerus
+aligned with the scapular plane (A). An excessive retreat in the coronal
+plane (hyper-angulation”) can lead to high tension on the anterior
+capsuloligamentous structures of the shoulder (B).
+Similar considerations could be applied to tennis. The
+advancement of the elbow both in the serve and in the
+backhand, useful for giving greater speed to the shot, can
+lead to tendon pathologies if the movement of the elbow is
+performed in extension/supination. A proper grip is required
+before the impact when, at the point of maximum extension
+of the arm, the forearm pronates, to bring the string plate
+into an adequate position towards the ball. In a nutshell,
+the various phases making up a throw must be executed,
+or rather synchronized, finely (throw coordination), i.e. they
+must respect a succession of motions to maximize the overall
+contribution of the various forces and, consequently, the
+mechanical effectiveness of the throw (kinetic chain). Leaving
+aside the biomechanical implications of the serve, shared
+with the ones required for the execution of the backhand,
+we wish anyway to focus our attention on the executive
+dynamics of the second one. Bernhang and colleagues
+(Bernhang, Dehner & Fogarty, 1974), as well as Elliott (Elliott,
+1989), advise avoiding the improper way of conducting
+the backhand technical gesture known under the heading
+“leading elbow backhand technique”. Beginner players, in
+other words, usually perform a "late" backhand with the
+elbow which anticipates the arm and points towards the net
+(Figure 3). An incorrect mechanism of action includes, among
+the others, incorrect kinematics of the wrist. When the
+hand is aligned with the forearm (Figure 4), the wrist is in a
+neutral position or in the anatomical reference position (wrist
+0 neutral, metacarpophalangeal and interphalangeal joints
+0 neutral). On the sagittal plane, the flexion and extension
+movements of the wrist around the axis that joins the styloid
+processes of the radius and ulna (Figure 4) normally vary in
+the order of 85° in extension (or dorsal inclination) and 90°
+in flexion (or palmar inclination). Amateurs hit the ball with
+the wrist flexed at 13° from neutral, with additional flexion at
+impact. Otherwise, professionals perform the backhand with
+the wrist extended by 23° with a further extension at impact
+(Blackwell & Cole, 1994).
+Figure 3. Leading elbow backhand technique. The tennis player "brings
+the shot" with a flexed elbow and, in the preparatory phase (A), the head
+of the racket is facing downwards or, in any case, positioned below the
+level of the wrist.
+Figure 5. Edberg’s one-handed backhand: A) pre-impact; B) impact.
+Figure 6. A) Eastern backhand’s grip; B) Continental grip.
+Figure 4. The flexion-extension movements of the wrist occur at the
+level of the radiocarpal joint. In the center of the figure is reported the
+basic anatomical position of the hand in relation to the forearm (neutral
+alignment).
+In the first ones, the incongruous posture of the hand-wristforearm area can be traced back to a multiplicity of factors.
+Instead considering Stefan Edberg and other professional
+tennis players, the specifications of a "correct" one-handed
+backhand (OHB) include (Figure 5):
+1) optimal execution timing;
+2) adequate transfer of body mass to the ball;
+3) dominant arm extended at the beginning of the movement
+to hit (a) and on impact (b).
+At the beginning of his career, Edberg played all the strokes
+with a continental grip (Figure 6B), limiting his ability to
+generate fast topspin balls off the forehand. Probably, the
+Swedish tennis player tried to avoid a greater comfort near
+the net, thus managing to intercept the ball without changing
+his grip. With coach Tony Pickard, Edberg begin to adopt an
+eastern backhand’s grip (Figure 6A) and this showed off being
+an appropriate choice, not only regarding certain aspects of
+his game (i.e. production of effective kick serves, especially
+against opponents with one-handed backhand - OHB), but
+also to protect wrist and elbow.
+In the eastern grip, in fact, the palm of the hand is placed on
+the handle with the thenar eminence surmounting the upper
+surface; the hypothenar eminence effectively supports the
+right part of the handle. In this way the wrist is quite stiff,
+with a lower functional load on the elbow.
+The continental grip is often adopted by the amateurs,
+but «[..]this way of holding the racket does not guarantee
+the dynamics essential for fast impacts. Only a variation in
+the position of the wrist can correct the backward impact,
+however at the cost of a notable increase in functional
+overload» (Candela, 1998). In other words, the athlete, in
+motor situations that are not fully controlled (backward
+impact, uncoordinated and dislocated positions), is forced to
+modulate the movement of the wrist beyond physiological
+limits, compromising the stabilization of the joint. It should
+be remembered that wrist kinematics and EMG data
+indicate that amateur players eccentrically contract the wrist
+extensors for the entire duration of the stroke, maintaining
+a constant level of activation in the presence of an increase
+in flexion (Blackwell & Cole, 1994). As far as we know, the
+repetition of actions performed with excessive eccentric
+muscular activity, associated with an attitude of reduced
+wrist extension, is considered the main cause of “tennis
+elbow” disease. Among the expert players, on the contrary,
+the muscles act concentrically with greater activity after the
+impact depending on the extension of the wrist (Blackwell &
+Cole, 1994).
+CONCLUSION AND OPERATIVE PROPOSALS
+The possibility of reducing the onset of pathologies affecting
+the epicondylar tendons is obviously linked to the execution
+of the gesture, which is carried out on a polyarticular path,
+in which the muscular structures coordinate execution.
+Specifically, the goal is to reduce the movements of wrist
+extension and active supination of the forearm, which act
+on the epicondylar enthesis, as well as obviously improving
+the basic technique. The execution of the backhand among
+tennis players, even professionals, ranges over a rather broad
+area, where the movement takes on different features. Ideally,
+elbow extension (to compensate for the flexion necessary
+in the preparation part of the shot) and the humeral head’s
+external rotation, both involved in the final part of motion,
+the forearm and wrist should constitute a stable kinetic
+chain throughout the entire execution, being however free
+of tension (as it happens in the musical gesture). This concept
+has been defined for a long time for any activity that involves
+the learning of a specific technique, where agonists' and
+antagonist's muscles coordinate without generating useless
+and counterproductive contractions. Furthermore, the distal
+portion of the limb remains fundamental in the management
+of the whole athletic gesture, where the grip of the racket, the
+only part that requires extreme stability, mainly given by the
+flexor tendons, mainly influences the activation of proximal
+muscle tensions: in relation to this aspect the eastern grip
+seems to be the best. However, it is important to note how
+looking for a rotational impact on the ball (specifically in the
+top spin), now increasingly exasperated, can constitute the
+cause of proximal stresses (both in the active movement and
+in its preparation), and could potentially cause epicondyle’s
+pathologies. The search for the perfect kinetic sequence
+remains a goal, perhaps unattainable as it is linked to the
+search for rotational effects of the ball. What matters,
+especially among the amateur tennis player, is to reduce the
+pathological risk by acting on the technique and, naturally, on
+the health of the athlete himself. All this is obviously acquired
+with an accurate and specific training, in order to codify and
+optimize central motor patterns becoming automatic over
+time, upstream of which will be the constant control of the
+team (considering professional tennis players) in charge of the
+competitive career of the athlete. The basic concept remains
+the search for an execution that follows a movement suitable
+for overloading the tendon structures of the epicondyle
+as little as possible. This is done by avoiding excessive or
+unnecessary movements in extension/supination. Treating
+this aspect greatly reduces the possibility of the onset of
+tendinopathies. The amateur who does not have a team
+following him will have much more difficulty in achieving
+correct execution, while a professional, certainly more aware
+of the problem (also to avoid slowdowns in the activity with
+economic damage) will be able to reach an optimal level in
+shot management. In the specific object of this paper, the
+execution methods of the backhand visible in Stefan Edberg's
+athletic gesture allow us to have a good executive example,
+that could certainly help even amateurs to improve the
+movement dynamics, consequently avoiding tendon damage,
+when the motion is repeated chronically, that could seriously
+affect the sport activity. Clearly, the central movement
+memorization mechanisms, typical of every sporting and
+artistic activity, will facilitate spontaneity of execution over
+time. In addition, we believe it is necessary to introduce some
+recommendations for amateurs: 1) Decreasing grip strength
+and relaxing forearm muscles (Figure 7B) during the so-called
+“down time”, such as changeovers, between sets, and breaks
+between points, even for just a few seconds (Lisi, 2014; Lisi,
+2017; Lisi, 2019).This precaution avoids prolonged isometric
+contraction of the arm muscles and especially of the hand,
+which could tire and lead to mistakes in correctly playing the
+ball (Lisi, 2019).
+In our opinion, however, it would be desirable to reduce the
+grip strength and relax the forearm muscles also in the followthrough phase of the backhand stroke (OHB and THB), as
+suggested by some studies (Wei et al., 2006). This precaution
+is particularly important for amateur tennis players, who have
+been shown to incorrectly maintain a tight grip both during
+ball impact and throughout the follow-through phase. In
+Figure 7. In the professional tennis player, the tensions generated by
+isometric contractions, although notable, are partially dampened by the
+coordinative activity of the agonist-antagonist muscle pair.
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2025 Rodolfo Lisi, Simone Cigni, Pietro Gussio, Marianna Meroni, Michele Perniola & Renato Rodano
+This text is under a Attribution 4.0 International (CC BY 4.0).
+You are free to share - copy and redistribute the material in any medium or format – and adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may
+do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms.
+contrast, experienced players apply a firm grip at impact but
+then quickly relax their grip during the follow-through (Wei
+et al., 2006).
+2) If an amateur has already suffered from lateral epicondylitis
+and wants to return to play, we recommend using multifilament
+strings at a low tension. Edberg himself, but almost all the
+greatest “serve and volley tennis players” uses strings with a
+very low tension. However, it is suggested to use a tension
+1.5/ 2,5 kg lower than usually used.
+3) It is preferable to use new balls, with intact felt. Felt, in
+fact, plays a peculiar role in absorbing the contact between
+the ball and the racket strings but also in facilitating the
+rotations of the ball itself.
+4) Incorrect grip size of the racquet handle influences the
+impact forces transmitted to the forearm extensor muscles
+and increases harmful force transmission to the elbow (Rossi
+et al., 2014). It is suggested to find a “personal balance point”
+within a not too wide range. If diameters that are too small
+may require an excessive grip, diameters that are too large on
+the contrary end up influencing the other basic movements
+of the hand-wrist-forearm complex. There is an empirical
+methodology simple and quick: take tennis racquet and, after
+holding the handle with a tennis forehand grip, place the
+index finger of the free hand in the space delimited by the
+tip and the palm of the dominant hand. If the index finger fits
+comfortably, the choice is correct.
+5) It is undeniable that emulation and motor observation
+significantly accelerate the acquisition of fundamental
+technical skills in each sport. In tennis, it has been reported
+that athletes’ physical performance improves following
+action observation training (Atienza, Balaguer & GarcíaMerita, 1998). This consideration applies not only to young
+tennis players but also to amateurs. However, we believe
+that emulation often focuses less on a champion’s motor
+and technical abilities and more on the aspects regarding his
+equipment. It is therefore not uncommon to see tennis players
+at local clubs arriving on the court dressed like the current star
+athlete, using the same brand of tennis racquet and wearing
+similar outfits. Customizing a tennis racquet is important and
+should be based on your physical characteristics and skill
+level, rather than the latest trends.
+CONFLICT OF INTEREST AND FINANCING
+No conflicts of interest are to be declared for this study,
+which received no funding.

@@ -1,0 +1,194 @@
+Title: Using Apps to Improve Coaching: The Tennis Australia Technique App
+Authors: Geoff Quinlan
+Year: 2013
+Issue: Vol. 21 No. 59 (2013)
+Article id: 445
+
+www.itfcoachingreview.com
+April 2013. 21st Year. Issue 59. 30-33
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v21i59.445
+
+Using apps to improve coaching: The Tennis
+Australia Technique App.
+Geoff Quinlan.
+Manager - Coach & Talent Development, Tennis Australia.
+ABSTRACT
+
+This article will describe how using apps can improve your coaching, detail the
+benefits of video analysis and explain the functionality of the Tennis Australia
+Technique App. It will also detail how the appropriate skill development and
+technique information for Red (5 – 8 years), Orange (8 – 10 years), Green (9 +
+years) and Yellow stage players can be communicated to players of that age.
+
+Key words: Apps, Coaching,
+Technique, Analysis.
+Received: 29 January 2013
+Acepted: 28 February 2013
+Corresponding author: Geoff
+Quinlan, Manager - Coach &
+Talent Development, Tennis
+Australia.
+Email: GQuinlan@Tennis.com.au
+
+INTRODUCTION
+In 2012, consumers spent on average two hours each day using
+apps, an increase of 35 percent over last year. There are in
+excess of 800,000 Apple Apps and 700,000 Android Apps
+available to consumers and this number will continue to grow
+in 2013. Apps are easy to use, easily accessible, inexpensive and
+available on a variety of platforms. There are apps available for
+everything imaginable, with an average retail price of US $1.58.
+Apps for teaching and education are the second most popular
+category (behind games). Many video analysis apps exist for
+sport, including tennis: Ubersense, Coaches Eye, Tennis Coach
+Plus HD, SwingReader, SwingPlane HD, MiiMOVE, Excelade
+and now the Tennis Australia Technique App.
+The use of innovative analysis tools such as apps can improve
+coaching, engage players and demonstrate that the coach is
+up to date with modern technology. Video analysis provides a
+powerful tool that gives the player evidence of where they are
+at technically and also allows for improvements to be tracked
+over time. It also allows for information to be shared and
+communicated via popular social media.
+The benefits of using apps to improve coaching
+The eye can only process about 10 frames per second and
+perceive them individually yet the use of the built in cameras
+in mobile devices allow a coach to capture 25 images per
+second. Capturing 25 images per second combined with the
+ability to pause, advance or go back frame by frame and zoom
+in is a significant advantage in analysing a player’s technique
+because you can detect detail that you otherwise would not.
+We also know that many learners prefer a visual learning style
+compared to an auditory learning style (VARK), these findings
+endorse the use of video analysis that can be easily
+implemented via video analysis apps on mobile devices (Apple
+and Android).
+Some of the most important benefits of using a video analysis
+app are that it creates a record of performance of the stroke so
+that improvement can be tracked over time. Likewise,
+regressions in technique can be easily identified, recorded and
+presented to the player to get them back on track quickly.
+The use of video analysis apps can provide evidence to players
+and parents that they are improving. The use of innovative
+apps with many annotation tools and functionality is engaging
+and promotes the coach as up to date with modern technology
+and can be seen as a value add benefit. One of the most critical
+benefits is that these types of apps provide real time analysis
+and feedback that can be provided to the player/coach, often
+opening up previously untapped communication channels
+between all of the stakeholders involved in the player’s
+development.
+TENNIS AUSTRALIA TECHNIQUE APP FUNCTIONALITY
+Record vision
+Vision can be recorded on the device (e.g. iPad or iPhone)
+easily via the record button. It is recommended that you
+position yourself so that the player being filmed fills up most
+of the screen and that you are perpendicular (at right angles)
+to the component of the stroke you wish to analyse.
+
+Image 1: The single-handed return of serve comparison of an
+Orange stage (top) v Green stage (bottom) player.
+
+Compare
+One of the most common and informative functions of the
+Tennis Australia Technique App is the ability to compare your
+player side by side. This functionality allows the coach to
+comment on the differences (and similarities) of the player’s
+stroke and the correct technique.
+Additionally it is valuable and motivating for the player to
+compare earlier versions of his/her. stroke to view
+improvements. The Tennis Australia Technique App also has an
+overlay function where the transparency can be altered for the
+players being compared.
+Analysis tools
+The Tennis Australia Technique App has a number of
+annotation tools to ighlight your analysis. The ability to draw
+lines, measure angles and insert shapes can be used effectively
+to highlight your analysis. Additionally, the ability to insert text,
+take screenshots and provide comments via the Voice Over
+function add to the analysis options available to the coach. It
+is recommended that a systematic observation of the player’s
+technique occur so that the most appropriate intervention is
+offered. The use of the annotation tools should focus on
+primary flaws or serve to reinforce positive aspects of the
+player’s technique.
+Learn mode
+The Tennis Australia Technique App has model strokes
+(Forehand,
+Double-handed
+backhand,
+Single-handed
+backhand,  Backhand slice, Forehand volley, Backhand volley,
+Overhead, Serve, Forehand return of serve, backhand return of
+serve and Double-handed return of serve) for players of all
+stages: Red (5 – 8 years), Orange (8 – 10 years), Green (9 +
+years) and Yellow ball . The Learn mode videos can be used as
+stand- alone videos to present ideal technique to a player or
+within the Compare mode via side by side or overlay
+functionality.
+
+Image 2: A screen grab of some of the annotation tools to
+highlight the coaches analysis.
+
+Image 3: The Learn mode information for the double-handed
+backhand return of an Orange stage player
+
+Image 4: The management and communication options for your
+files
+
+The Learn mode offers the stroke fundamentals for the
+preparation, backswing, forwardswing, contact and followthrough for each of the strokes. The information and detail
+provided is relative to the stage of development. For example,
+compare the information given for the serve in the Red stage
+(5 – 8 years) and a Yellow ball stage (Table 1).
+
+Table 1: Serve content for Red Stage (5 – 8 years of age) and
+Yellow ball player.
+Time Delay
+The Time Delay function allows the coach to delay the action
+(by a range of 5 to 30 secs) so that players can view themselves
+and get immediate feedback. This function lends itself ideally
+to group sessions or squad sessions where the coach is using
+a traditional drill or a Spanish style drill with a pre-determined
+number of shots. An example could be the coach asking the
+players to highlight or emphasise leg drive on ground-strokes.
+Having completed the stroke/ drill, the replay is delayed by a
+pre-determined length of time, to enable players to observe
+their performance against the goal of using leg drive in
+ground-strokes.
+Manage and communicate your files
+The Tennis Australia Technique App has the functionality to
+easily manage and communicate your files. Your files can be
+named and renamed, trimmed, split and copied to the camera
+roll. Files can be communicated via email and uploaded to
+Facebook, YouTube and Dropbox.
+This functionality is very useful to the coach. The coach is no
+longer required to transfer files from a video camera to his
+computer, open an analysis program, import the files and then
+analyse them. Consider a young player having a lesson with her
+coach, the coach can analyse the performance and
+immediately email to the parent who is watching the session
+from the side of the court and wants to view it on his/her
+phone, right there and then.
+CONCLUSION
+Players are becoming increasingly savvy with the use of
+technology. Coaches need to keep pace and the use of video
+analysis apps (this article featured the Tennis Australia
+Technique App) can improve coaching, especially as many
+learners are visual/kinaesthetic learners. Additionally, the files
+captured can motivate and engage the player even more as
+they have evidence of their improvement. Many annotation
+tools exist to assist the coach with their analysis and these can
+be easily communicated to many stake-holders. The Learn
+mode provides model strokes and content for all stages (ages)
+and all strokes. This allows the National Sporting Organisation
+(Tennis Australia) to provide a technical resource to many
+coaches and players.
+So what’s next? What other apps can improve coaching?
+Additional suggestions put forward include a Coach Activities
+App, Tactics App, Pro Player App, Hot Shots App, FPMS App,
+Cardio Tennis App, Movement App, Charting App, Strength &
+Conditioning App, Annual Plan App, Tennis in Schools App,
+Psychological Skills App, Competition Formats App and
+Tournament Formats App.

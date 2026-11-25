@@ -1,0 +1,331 @@
+Title: Summarizing Tennis Data to Enhance Elite Performance
+Authors: Tristan Barnett
+Year: 2013
+Issue: Vol. 21 No. 61 (2013)
+Article id: 473
+
+www.itfcoachingreview.com
+December 2013. 21st Year. Issue 61. 30-35
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v21i61.473
+
+Summarizing tennis data to enhance elite
+performance.
+Tristan Barnett.
+University of South Australia, Australia.
+ABSTRACT
+
+This article provides a classification of online and commercially available data for
+the men’s and women’s singles professional tennis circuit. The various data
+sources are categorized by data type (e.g. ratings, point-by-point data, match
+statistics), tournament type (e.g. Grand Slam, Olympics, ITF Circuit) and the year
+commencing. The results could be used in building decision support tools
+allowing for accessible data information for coaches in preparation for an
+upcoming match.
+
+Key words: Match statistics, Pointby-point
+data,
+Ratings,
+Decision
+support.
+Received: 17 May 2013
+Acepted: 16 June 2013
+Corresponding
+author:
+Tristan
+Barnett,
+University
+of
+South
+Australia, Australia.
+Email: strategicgames@hotmail.com
+
+INTRODUCTION
+The men’s professional circuit has undergone several structural
+changes since the Open Era in 1968. The Association of Tennis
+Professionals or ATP was formed in September 1972. Since
+1990, the association has organized the worldwide tennis tour
+for men and linked the title of the tour with the organization's
+name. In 1990 the organization was called the ATP Tour, which
+was renamed in 2001 as just ATP and the tour being called ATP
+Tour. In 2009 the name was changed again and is now known
+as the ATP World Tour. It is an evolution of the tour
+competitions previously known as Grand Prix tennis
+tournaments (1970 to 1989) and World Championship Tennis
+(1968 to 1990). The International Series (known before 2000 as
+the ATP World Series) and the International Series Gold were a
+series of professional tennis tournaments held internationally
+as part of the ATP from 1990 until 2008. The current structure
+being the ATP World Tour comprises a series of tournaments
+from ATP World Tour Finals, ATP World Tour Masters 1000, ATP
+World Tour 500 series, ATP World Tour 250 series and ATP
+Challenger Tour. Note that the ATP World Tour Masters 1000
+had emerged from 1990; originally known as the ATP
+Championship Series Singles Week (1990-1993), MercedesBenz Super 9 (1993-1999), Tennis Masters Series (2000-2003),
+ATP Masters Series (2004-2008), and the present name of ATP
+World Tour Masters 1000 took effect in 2009. Note also that
+the ATP World Tour Finals was known as the ATP Tour World
+Championship (1990-1999) and the Tennis Masters Cup (20002008). The ITF Men's Circuit is a series of professional tennis
+tournaments held around the world that are organized by the
+International Tennis Federation. Originally, the ITF Men's
+Circuit consisted of Satellite tournaments, each of which took
+place over four weeks. However, in 1998, the ITF introduced
+Futures tournaments, allowing for greater flexibility in the
+organization of the tournaments for national associations, and
+participation in tournaments for players.
+
+Over time, the ratio of Futures tournaments to satellites
+increased until 2007, when satellites were eliminated entirely.
+Similar tournament structural changes have occurred on the
+women’s professional circuit since the Open Era in 1968. The
+Women's Tennis Association (WTA), founded in 1973 by Billie
+Jean King, is the principal organizing body of women's
+professional tennis. Since 1983, the association has organized
+the worldwide tennis tour for women. Formed in 1970, the
+Virginia Slims Circuit eventually became the basis for the later
+
+named WTA Tour. The WTA Tier I, II, III and IV structure were a
+series of professional tennis tournaments held internationally
+as part of the WTA tour from 1988 until 2008. The current
+tournament structure of the WTA Tour was introduced in 2009
+and comprises a series of tournaments from WTA Tour
+Championships, Premier, International and Challenger events.
+Note that the Premier tournaments consist of Premier
+Mandatory, Premier Five and Premier. The ITF Women's Circuit
+is a series of professional tennis tournaments run by the
+International Tennis Federation for female professional tennis
+players.
+A vast amount of data is collected and stored in tennis either
+directly online or through various commercial software
+providers. This includes the typical set-by-set score line. For
+example Novak Djokovic defeated Andy Murray in the 2013
+Australian Open final 6-7, 7-6, 6-3, 6-2. Match statistics may
+also be available after the completion of matches; particularly
+for grand slam events. However point-by-point data or match
+statistics (broken down by each set) are not as commonly
+available as the former. This article will outline for various data
+sources the coverage (by tournament type) and year
+commencing for each data type. To simplify the analysis the
+initialization of data for men’s tennis will be from 1990; with the
+International Series tournament structure. Similarly for
+women’s tennis the initialization of data will be from 1988; with
+the Tiered Series tournament structure. Summarizing data in
+this fashion could be useful for building decision support tools
+to enhance elite performance (Bedford et al, 2010). For example
+a coach may be interested in knowing a player’s career average
+of points won on serve at a grand slam level as well as at an
+ATP World Tour Masters 1000 level. Whilst the focus is on the
+men’s and women’s professional singles circuit, similar
+methodology could be constructed for the men’s and women’s
+professional doubles circuits.
+METHOD
+Tournament classification
+Table 1 provides the current tournament structure for the
+men’s singles tour with the corresponding commencement
+year (with an initialization of 1990), number of tournaments
+played and winner’s rating points in 2012. Note how the ATP
+World 500 series replaced the International Series Gold in 2009,
+and similar replacements occurred for the ATP World 250 series
+and ATP Challenger in 2009. Similarly, table 2 provides the
+current tournament structure for the women’s singles tour with
+the corresponding commencement year (using an initialization
+of 1988), number of tournaments played and winner’s rating
+points in 2012. Table 3 provides a comparison of tournament
+structures between the men’s and women’s professional tennis
+circuits. Note how the tournament structure from table 2 for
+the women’s circuit is slightly modified to align with the men’s
+professional circuit. This consists of splitting the ITF circuit
+between tournaments where the prize money for the
+tournament is 10K and >10K, combining Premier Mandatory
+and Premier 5 events, including the WTA Tournament of
+Champions in International events, and combining Challenger
+WTA 125s and ITF>10K events. The information from table 3 in
+tournament classification is used below in classifying data.
+
+CATEGORY
+YEAR
+NUMBER OF
+TOURNAMENTS
+(2012)
+WINNER’S
+RATING
+POINTS (2012)
+Grand Slams
+1990
+onwards
+2000
+ATP World Tour
+Finals
+1990
+onwards
+1100 - 1500
+ATP World Tour
+Masters 1000
+1990
+onwards
+1000
+Olympic
+Games
+1990
+onwards
+1 (every 4
+years)
+ATP World Tour
+2009
+500 series
+onwards
+
+International
+
+Series Gold
+1990-2008
+
+ATP World Tour
+2009
+250 series
+onwards
+
+ATP International
+Series
+2000-2008
+
+ATP World
+Series
+1990-1999
+
+ATP Challenger
+2009
+80 - 125
+Tour
+onwards
+
+ATP Challenger
+Series
+1990-2008
+
+Futures
+1998
+18 - 35
+onwards
+
+Satellites
+1990-2006
+
+Table 1: Tournament structure for men’s singles tour.
+
+CATEGORY
+YEAR
+NUMBER OF
+TOURNAMEN
+TS (2012)
+WINNER’S
+RATING
+POINTS
+(2012)
+Grand Slams
+1988
+onwards
+2000
+WTA Tour
+Championships
+1988
+onwards
+1050 - 1370
+Premier
+2009
+1000
+Mandatory
+onwards
+Tier I
+1988-2008
+Premier 5
+2009
+
+onwards
+Tier I
+1988-2008
+Olympic Games
+1988
+onwards
+1 (every 4
+years)
+Premier
+2009
+onwards
+Tier II
+1988-2008
+
+WTA Tournament
+of Champions
+1998
+onwards
+366 - 435
+International
+2009
+Tier III/Tier IV
+onwards
+1988-2008
+
+Challenger WTA
+125s
+2012
+onwards
+ITF Circuit
+1988
+onwards
+12 - 150
+
+Table 2: Tournament structure for women’s singles tour
+
+Table 3: Comparison of tournament structures between the men’s and women’s tour.
+
+Table 4. Data availability for men’s professional circuit. * excludes qualifying matches. ^ data available online for
+approximately one year .
+
+Table 5. Rally Statistics for the 1st Set of the 2013 Australian Open final between Novak Djokovic and Andy Murray.
+
+Table 6. Data availability for women’s professional circuit. * excludes qualifying matches. ^ data available online for
+approximately one year.
+
+Data classification
+Table 4 outlines data availability for the men’s professional
+circuit. OnCourt1 and Tennis Navigator2 are commercially
+available software packages. The tennis ratings are given on a
+weekly basis for OnCourt (since 2003) and Tennis Navigator
+(since 2007). The Rating Tour refers to all the tournament types
+outlined in table 1. The Main Tour refers to tournaments in
+table 1 with the exclusion of the ATP Challenger Tour and
+Futures. OnCourt, Tennis Navigator and the ATP World Tour3
+pro- vide set-by-set (incl. game score) score lines. However the
+ATP World Tour provides this information for all tournament
+types since 1990. OnCourt provides game-by-game score lines
+for the Main Tour from 2007 and provides point-by-point score
+lines for the Main Tour as well as the ATP Challenger Tour.
+Match statistics are provided for both OnCourt and Tennis
+Navigator. However Tennis Navigator provides match statistics
+broken down by each set for Grand Slam matches since 2003.
+The various Grand Slam sites also provide match statistics
+broken down by each set at the completion of matches.
+However the Grand Slam sites are more detailed than the
+standard match statistics given in Tennis Navigator (and
+OnCourt). For example Rally Stats are given for each set
+consisting of Approach Shots, Drop Shots, Ground Strokes,
+Lobs, Overhead Shots, Passing Shots and Volleys; and each
+shot categorized as a Forehand or Backhand Winner, a
+Forehand or Backhand Forced Error, or a Forehand or Backhand
+Unforced Error. Ta- ble 5 gives the Rally Statistics for the 1st Set
+of the 2013 Australian Open final between Novak Djokovic and
+Andy Murray. Table 6 is given similarly to table 4 for the
+women’s professional circuit.
+CONCLUSIONS
+Data availability for the women’s and men’s singles
+professional tennis circuits are given in concise tables by
+categorizing for the various data sources the coverage
+(tournament type) and year commencing. The results could be
+
+used in building decision support tools allowing for accessible
+data information for coaches in preparation for an upcoming
+match. Whilst the focus is on the men’s and women’s
+professional singles circuit, similar methodology could be
+constructed for the men’s and women’s professional doubles
+circuits.

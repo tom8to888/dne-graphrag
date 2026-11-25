@@ -1,0 +1,212 @@
+Title: An evaluation and comparison of the height and mass of the top 250 ATP players
+Authors: Keith Leiting
+Year: 2015
+Issue: Vol. 23 No. 67 (2015)
+Article id: 145
+
+www.itfcoachingreview.com
+December 2015. 23rd Year. Issue 67 6-8
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v23i67.145
+
+An evaluation and comparison of the height
+and mass of the top 250 ATP players
+Keith Leiting (USA)
+ITF Coaching and Sport Science Review 2015; 67 (23): 6 - 8
+ABSTRACT
+Elite level tennis performance requires perfect skill and highly developed
+physiological characteristics. Very little research focuses on the physical
+characteristics of elite level tennis. This evaluation of height and mass suggests that
+both variables are, on average, larger the closer a player gets to the number one
+ranking. This suggests that physical characteristics may influence elite level tennis
+performance.
+
+Key words: ATP, physical
+characteristics, anthropometrics
+Received: 22 July 2015
+Accepted: 18 August 015
+Corresponding author:
+Keith Leiting
+Email:
+keith.leiting@integrationsports.com
+INTRODUCTION
+Development of elite level tennis performance takes years to
+develop. As the elite tennis player hones their skill and reaches
+the top 250 in the ATP rankings, the difference in skill between
+players may be minimal. Several studies have identified
+important physical characteristics of junior elite tennis players
+but to the author’s knowledge, no studies have been done on
+the top ATP players. The aforementioned studies suggest that
+height may positively influence ball velocity (Perry, Wang,
+Feldman, Ruth, & Signorile, 2004) and increasing strength may
+improve tennis performance (Groppel & Roetert, 1992). Due to
+the similarities in tennis skill at the elite level, physical
+characteristics may separate the best from the rest.
+The purpose of this study is to identify differences in height
+and weight of the top 250 ATP players.
+
+METHODS
+Data
+was
+collected
+from:
+http://www.atpworldtour.com/Rankings/ Singles.aspx on 21
+May 2015. Data for each player ranking from 1-250 was
+manually transferred into Microsoft Excel 2010©. Data
+included ranking, ATP points, date of birth, height, mass (body
+weight), and year the player turned pro (experience at the pro
+level). Player data was separated in 50 player increments.
+Statistical analysis included 20 two-tailed, student sample ttests assuming unequal variance (P < 0.05). Secondary analysis
+involved Cohen’s d estimate of effect size (how practically
+different are the results). Table 1 shows the number of data
+sets
+used
+for
+each
+variable.
+
+Limitations
+This study is limited by the potential inaccuracies and missing
+data on the www.atpworldtour.com website. If players do not
+report or update their information we do not know if they have
+grown taller, gained mass, or lost mass.
+
+RESULTS
+The results of this study indicated that there are statistically
+significant differences in points, age, height, mass, and
+experience as a pro player. The difference in points was
+expected as the players were separated by ranking, which is
+determined by points. Age and experience as a pro player were
+randomly statistically significant from the top 50 players, 51100 and 151-200 were statistically significant but not
+statistically significant for 101-150 and 201- 250. Therefore,
+age and experience as a pro provide no separation between the
+top 250 ATP players. Height and mass did not reach statistical
+significance until the top 50 were compared with the 201- 250
+ranked players. It is important to note that height and mass
+show a trending decrease from the top 50 players. Table 2 lists
+the mean, standard deviation, statistical significance, and
+Cohen’s d effect size for all variables.
+
+DISCUSSION
+Height
+The top 250 ATP players are an elite level group and can be
+considered homogenous. The top 250 ATP players represent
+only a small percentage of the tennis players in the world.
+Therefore, the difference in height among this sample suggests
+that height may play a role in reaching elite level tennis
+performance. The analysis of height also shows a downward
+trend as you get further from the top players. Height may be
+an advantage because taller players typically have a greater arm
+span. According to Reeves, Varakamin, & Henry, (1996) height
+and arm span are positively correlated (r = 0.73-0.89) meaning
+the taller the individual typically, the greater the arm span.
+The increase in arm span may positively influence racquet
+velocity and subsequent ball velocity during the serve and
+ground strokes.
+For example, if a player that is 170cm and a player that is
+190cm have the same shoulder angular velocity, the linear
+velocity of the racquet will be greater for the taller player. With
+all other variables the same, the taller player should hit the ball
+with greater force and velocity. In previous research player
+height was shown to positively influence ball velocity during
+the execution of ground strokes and serves (Perry et al., 2004).
+
+Another positive effect of being a taller player is the ability to
+cover more of the court with a simple reach of the arm. The
+size of the court is not changing therefore; longer arms allow
+the player to cover more of the court without moving their
+center of mass thus, saving valuable energy.
+
+Mass
+The body mass of the top 250 ATP players shows a downward
+trend the further a player is from the number one ranking. Data
+from this analysis suggests that the top 50 players are on
+average 2 - 4.5 kilograms heavier than other ATP players.
+According to Groppel & Roetert, (1992) elite level tennis
+players have 10.4±3.2% body fat. The difference in body mass
+between the top 50 and remaining ATP players may be due to
+an increase in muscle mass, not fat mass. The increase in muscle
+mass may give the player an advantage as Gabbett, Kelly, &
+Sheppard, (2008) suggested, stronger players are able to
+change direction and cover more distance faster than weaker
+players.
+
+Analysis of experience as a pro player showed that on average
+each group of players had between eight and ten years of
+experience at the pro level. Analysis of height and mass
+suggests, as a player progresses through the ATP rankings,
+physical characteristics may play a larger role in success. Skill
+and experience are still important, but because everyone at the
+elite level has similar skill and experience, this may not be the
+defining factor between winning and losing.
+Among the height and mass data, there is a consistent trend
+that moves downward as a player is further from the number
+one ranking. The downward trend supports the notion that
+height and mass may play an important part when attempting
+to
+be
+the
+best
+tennis
+player
+in
+the
+world.
+
+CONCLUSION
+As mentioned, age and experience were not that different
+among the top 250 players. The lack of large differences in age
+and experience suggest that physical characteristics may
+influence success more than age or experience. The
+combination of greater height and body mass may create, what
+is called a “heavy ball.” The heavy balls typically have a lot of
+velocity and spin, which may make the return more difficult
+technically and physically.
+The downward trend in height suggests that a taller player has
+a greater chance of making it to the elite level. Therefore, if a
+tennis academy or coach is going to invest in or sponsor an
+athlete, it may be wise to consider the player ́s maturation
+height. Mass also showed the downward trend which; suggests
+that participating in a quality strength program may increase
+muscle mass and improve the athlete’s performance.
+Further research needs to be conducted on elite ATP players
+to determine the influence of physical characteristics (aerobic,
+anaerobic, strength, and power) on tennis success.
+
+REFFERENCES
+Gabbett, T. J., Kelly, J. N., & Sheppard, J. M. (2008). Speed,
+change of direction speed, and reactive agility of
+rugby league players. The Journal of Strength &
+Conditioning
+Research,
+22(1),174181.https://doi.org/10.1519/JSC.0b013e31815ef7
+Groppel, J. L., & Roetert, E. P. (1992). Applied physiology of
+tennis.
+Sports
+Medicine,
+14(4),
+260268.https://doi.org/10.2165/00007256199214040-00004
+Perry, A. C., Wang, X., Feldman, B. B., Ruth, T., & Signorile, J.
+(2004). Can Laboratory-Based Tennis Profiles
+Predict Field Tests of Tennis Performance? The
+Journal of Strength & Conditioning Research, 18(1),
+136-143.https://doi.org/10.1519/00124278200402000-00020
+Reeves, S. L., Varakamin, C., & Henry, C. J. (1996). The
+relationship between arm-span measurement and
+height with special reference to gender and ethnicity.
+European Journal of Clinical Nutrition, 50(6), 398400.
+
+Copyright (c) Keith Leiting 2015
+
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any
+medium or format – and Adapt the content - remix, transform, and
+build upon the material for any purpose, even commercially under
+the following terms:
+
+Attribution: You must give appropriate credit, provide a link to
+the license, and indicate if changes were made. You may do so in
+any reasonable manner, but not in any way that suggests the
+licensor endorses you or your use.
+
+CC BY 4.0 license terms summary       CC BY 4.0 license terms

@@ -1,0 +1,174 @@
+Title: Kinematic differences between professionals and young players in the tennis serve
+Authors: Christos Mourtzios, Ioannis Athanailidis, Eleftherios Kellis, Vasileia Arvanitidou
+Year: 2021
+Issue: Vol. 29 No. 83 (2021)
+Article id: 52
+
+www.itfcoachingreview.com
+April 2021. 29th Year. Issue 83. 25-27.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i83.52
+COACHING & SPORT
+SCIENCE REVIEW
+METHODS
+Twelve (6 males, 6 females) right handed young tennis
+players, aged 12-16 participated in this study, that are playing
+in tournaments of the Hellenic Tennis Federation (age:
+13,8±1,22 years, height: 167,5±10,11 cm, mass: 55,20±11,15
+kg) and 12 professionals who participated in Roland Garros, 6
+men and 6 women.
+Instrumentation
+The Optitrack kinematic optical analysis system (Natural
+point Systems Inc., USA) was used to conduct the research.
+The system uses 9 infrared cameras (Flex 3, Natural Point
+Systems, USA) with a sampling frequency of 100 Hz, 0.3
+Megapixel resolution (640 x 480 pixels).  The system software
+Arena (V.1.15, Natural Point Inc., USA) was implemented for
+all measurements.
+Experimental set-up
+The subjects performed a standard warm-up, followed by
+a 10-minute working out of all three different serves. The
+athletes then performed the three different services, flat, slice
+and topspin with three attempts each, which were recorded.
+The best attempt that was considered representative to
+analyze was that in service, the ball had to pass over the line
+of a 0.914m-high tape.
+INTRODUCTION
+Tennis serve has attracted the attention of research because
+it is the most important stroke that starts the game (Cross &
+Lindsey, 2005). Although it has been well documented that
+service performance is related to upper extremity movement,
+very little is known about the impact of lower limps. There are
+very few research studies that have explored the kinematic
+characteristics of serve movement in young tennis athletes
+and much less studies compared the three basic serve types,
+namely the flat, slice and topspin (Abrams et al., 2011; Elliott,
+et al., 2009; Reid, Elliott, & Alderson, 2008; Elliott & Wood,
+1983; Elliott, Fleisig, Nicholls & Escamilla, 2003). The purpose
+of this study was to measure and examine the differences that
+may exist between the three different types of service, flat,
+slice and topspin, in the kinematic characteristics of the lower
+limps and in particular the beginning of the take-off which
+coincides with the time point of contact of the racket with the
+ball.
+As the mechanism of «leg drive» is an important factor
+for the efficiency and speed of service, the present study
+examines for the first time in young athletes the kinematic
+characteristics of the lower limbs. It is expected that by
+improving the movement of the legs, a better driving of the
+foot can be produced, which can enhance the rotation of the
+shoulder resulting in a better service, as concluded by Girard,
+Micallef & Millet, (2005).
+ABSTRACT
+The aim of the present study was to measure and examine the differences in lower limb
+kinematics between the flat, slice and topspin serves, in the kinematic features of the
+lower limbs, at two different times of the service movement, maximum knee bending
+and point of contact of the racket with the ball, in 12 young tennis athletes, aged 12-16
+years and in 12 professional players that they were playing on the main draw of Roland
+Garros. The results showed no significant differences in time between the three types of
+service in young athletes. Comparing the time of young athletes 34.56ms with the time
+of high level athletes with 30.67ms, the results showed that the professionals performed
+the service faster than the young athletes having a significant difference.
+Kinematic differences between professionals
+and young players in the tennis serve
+Christos Mourtziosa, Ioannis Athanailidisa, Eleftherios Kellisb & Vasileia
+Arvanitidoua.
+aDemocritus University of Thrace - Department of Physical Education and Sports, Komotini, Greece.
+bAristotle University of Thessaloniki - Laboratory of Neuromechanics, Department of Physical Education and Sports,
+Serres, Greece.
+Key words: flat, slice, topspin,
+tennis serve, biomechanics, young
+tennis athletes, professional
+tennis players
+Received: 20 January 2021
+Acepted: 15 March 2021
+Corresponding author: Christos
+Mourtzios. Democritus University
+of Thrace - Department of Physical
+Education and Sports, University
+Campus, 12 Vas. Sofias St.,
+67132 Komotini, Greece. Email:
+christosmourtzios@hotmail.gr
+The three-dimensional space was first calibrated using a
+calibration wand. A total of 34 markers were placed on the
+head, the trunk, the shoulders, the elbow, the wrists, the
+pelvis, the hip, the knee, the shank and the feet. Based on the
+3D coordinates of the reflective markers, the skeleton was
+represented in all frames of motion throughout the 3-D space.
+Skeleton motion was digitally stored in video format. Hence,
+video files were then used to calculate the time of each type
+of serve.
+For professional athletes, video analysis was used and time
+was measured using the max TRAQ Lite.
+RESULTS WITH DISCUSION
+The present study aimed to focus on the lower limps and
+biomechanically analyze the time from the maximum knee
+flexion to the point of contact with the ball in the three different
+services, flat, slice and topspin, in young athletes aged 12-16
+and high level professional athletes who participated in the
+main draw of Rolland Garros.
+From the results in figure 1, we conclude that the flat service
+took the shortest time 33.67ms and this is attributed to the
+fact that it is used mainly as a first service, which means that
+it is performed with more power and speed. The slice service
+took 34.92ms and the topspin 35.16ms due to the higher knee
+flexion during the preparation phase of these services, which
+are usually performed as second.
+Figure 2. Time from maximum bending of the knees to the point of
+contact with the ball, in professional athletes (n = 12).
+Due to the large degree of extension of the knees in a
+minimum of time, it is logical that high speeds of movement
+of the joints are created. Thus, the lack of strong knee
+extension after the phase of maximum knee flexion
+would reduce the speed of the racket and therefore
+the speed of the ball after contact (Reid et al., 2008).
+Therefore, the increase in knee extension speed seems to
+be very important in the early stages of development of
+tennis athletes, so that the pace of service movement is
+automated and with the development of young athletes
+more burdens and pressures are added with in order to
+increase the efficiency of the service, but also to facilitate
+the transfer of forces from the ground to the contact hand,
+thus increasing the speed of movement.
+From a training point of view, a quick movement of the
+legs from an angle of inclination to the knees of 90-110°
+and then with the maximum extent reaching the contact
+with the ball, is defined as a good practice according to the
+findings of (Elliot & Reid, 2004). An increasingly intense
+movement of the legs causes the upper end of the racket
+to rotate faster, leading to a greater displacement towards
+the ground (Elliot et al., 1986; Reid et al., 2008). This in
+turn improves the possibility of higher impact velocities,
+as although the racket moves away from the ball, the
+increased storage of elastic energy in the internal turns of
+the shoulder allows for greater acceleration and leads to
+contact (Elliot et al., 1986, Roetert & Groppel, 2001; Reid
+et al., 2008). Thus, the lack of strong knee extension after
+the counter-movement phase would reduce the speed
+of the racket and therefore the speed of the ball after its
+impact (Reid et al., 2008).
+PROPOSALS
+In the present study, differences were found in the
+three different types of service, which means that young
+athletes, in attempting to spin the ball and particular in
+slice and topspin serves used as second serves, they should
+have more knee flexion than flat service.
+Figure 1. Time from the maximum bending of the knees to the point of
+contact with the ball, in young athletes (n = 12).
+Knee extension, which is a sequence of their maximum flexion,
+is one of the most important movements in performing tennis
+service (Elliot et al., 1995). This can increase the speed of the
+leg extension through the use of stored energy and help move
+the lower limbs to lead the player towards the ball (Girard et
+al., 2005).
+Comparing the time of young athletes with mean 34.56ms
+with the time of high level athletes with mean 30.67ms, figure
+2, the results showed that the professionals performed the
+service with much faster and sharper knee extension than the
+young athletes having a significant difference.
+Figure 3. Digital representation of maximal knee flexion when
+performing flat service.
+Figure 5.  The maximum bending of the knees.
+Figure 6. The point of contact with the ball.
+Figure 4. Digital representation of maximal knee flexion when
+performing topspin service.

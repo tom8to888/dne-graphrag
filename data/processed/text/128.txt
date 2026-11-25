@@ -1,0 +1,190 @@
+Title: Stereotype threat and performance on sport specific motor tests
+Authors: Jo Ward, Richard M. Buscombe
+Year: 2019
+Issue: Vol. 27 No. 77 (2019)
+Article id: 128
+
+www.itfcoachingreview.com
+April 2019. 27th Year. Issue 77. 35-38
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i77.128
+
+Stereotype threat and performance on
+sport specific motor tests
+Jo Ward and Richard M. Buscombe
+ABSTRACT
+
+Female tennis worldwide has a participation problem, with severe gender
+disparity at competitive and older age groups despite a fairly even split
+amongst the much younger age groups. It seems logical to suggest that
+gender stereotype threat could contribute to an underperformance, and
+eventual demotivation, of girls in tennis. Twenty-six girls aged 9-14 were split
+into equal sized control and experimental groups and underwent a battery of
+common tennis tests, including forehand accuracy, standing broad jump, and
+agility ‘T’ testing. In the case of the experimental group, the participants read
+a short statement which suggested that females would produce inferior results
+relative to males. The results showed increases in performance in the
+experimental group, contrary to the hypothesis; however, the increase still
+highlights the effect of stereotyping on performance.
+
+Key words: stereotype threat,
+gender bias, female tennis,
+performance
+Received:
+March
+2019
+Acepted:
+March
+2019
+Corresponding
+author:
+Jo
+Ward
+Email: jward@wimx.org.uk
+
+INTRODUCTION
+Tennis in the UK has a participation problem, with women and
+girls comprising just 25% of the competitive player base. In fact,
+the UK is not alone in this regard, with three out of the four
+Grand Slam nations reporting similar figures (US data not
+attained). However, the problem worsens upon closer
+inspection. Mini tennis entry figures show that 45% of new
+players are female, so in fact the problem is one of retention
+more than attraction. In short, we can attract girls into tennis,
+but some aspect(s) of their early coaching, club membership,
+or competition experiences are turning girls away from our
+sport. Evidently, greater measures to understand and
+remediate the underlying causes of this problem are necessary.
+
+LITERATURE REVIEW
+Stereotype threat was first researched in the mid 1990s to
+investigate whether poor performance results from the
+psychological effect of a negative stereotype rather than
+biological or socio-economic factors. In the seminal study,
+Steele & Aronson (1995) found that black students consistently
+underperformed academically when the stereotype that blacks
+are less intelligent than whites was introduced. In the first
+study, the stereotype was activated by informing the
+stereotype threat (ST) group that the test determined
+intellectual ability (the control group (C) were informed that it
+did not). By the final study, the researchers discovered that the
+stereotype, and its harmful effect on performance, was so
+pervasive that performance worsened when black participants
+were asked to indicate their race on the pre-test questionnaire.
+Therefore, being reminded of their race, in an environment with
+negative racial stereotypes, was enough to activate ST effects.
+Steele
+Aronson
+also
+posited
+that
+chronic
+underperformance
+could
+lead
+to
+a
+devaluation
+disidentification with the domain, and ultimately lead to drop
+out. Work has shown that three factors need to prevail in order
+for ST to impact performance:
+
+• Test difficulty - at the limit of participants’ ability
+
+• Domain identification - participants must be invested in
+the domain
+
+• Stereotype salience - participants must be aware of the
+stereotype (Aronson et al., 1999)
+
+Stereotype threat has been investigated in motor-coordination
+and sports settings in a number of studies, using tasks ranging
+from golf putting to basketball shooting (e.g., see Beilock et al.,
+2006). Given that sport is still considered a male domain
+(ClémentGuillotin, Chalabaev & Fontayne, 2011), it is
+unsurprising that the predominant stereotyped group being
+studied is females (e.g., Beilock & McConnell, 2004).
+
+On this basis, research to ascertain whether negative female
+stereotypes in sport could be affecting young female tennis
+players is warranted. If ST effects exist within tennis, this could
+be a contributing factor to the retention deficit and therefore
+pave the way for subsequent intervention work to be
+undertaken in this area.
+
+METHOD
+Study 1 was a field-based, mixed factorial investigation with 26
+competitive female players aged 9-14. To participate, the girls
+were required to be British Tennis Members and have
+competed in county level and above tournaments. To activate
+ST participants read a short text explaining that the test results
+would indicate levels of athleticism and that previous tests had
+shown gender differences. This explicit activation replicated
+previous studies (see Beilock et al. 2006). The control group
+were instructed that the tests were simply fact-finding activities
+to ascertain individual test scores. Participants were randomly
+assigned to either a stereotype threat group (ST) or a control
+group (C), and the female experimenter was blind to the
+conditions. Testing was undertaken individually to remove
+social facilitation effects.
+
+Three motor tests recorded either tennis performance
+(forehand accuracy) or movements identified as integral to
+performance on court (standing broad jump and modified T
+test; Sassi et al., 2009).
+
+After familiarisation and warm-up, participants hit 15 forehands
+at a target cross court with depth and width error being
+captured by two cameras placed at 90 degrees to the target.
+
+Data was subsequently analysed via a software programme
+(Tracker for Mac) and radial error was calculated. Each of the
+motor tests were performed three times, with the broad jump
+being measured using tape measures, and the T-test times
+using light gates. After collection of pre-test data the condition
+was activated, and then participants repeated all tasks, in the
+same order, for the posttest measures.
+
+RESULTS
+Counter to the hypotheses for the study, the results indicated
+that for standing jump (figure 1) and agility (figure 2),
+performance improved pre to post in the ST condition. The
+change was small on both occasions but potentially meaningful
+given the number of times a tennis player is required to display
+these key motor skills during tennis practice and performance.
+There were no discernible differences in performance across
+condition in the forehand accuracy test scores (figure 3).
+
+DISCUSSION
+There are several potential explanations for the unanticipated
+direction of the results with one possible reason being that the
+tests were not sufficiently difficult to be at the limit of the
+participants’ abilities, which has been established as a
+necessary factor to elicit ST effects. Previous studies have
+shown that when test difficulty is not achieved, participants can
+actually improve performance (e.g., Ben-Zeev, Fein & Inzlicht,
+2005). A second possible consideration is that the method of
+stereotype activation was inappropriate for the age of the
+participants. Activation via reading a short text is common in
+studies of adult populations, however there are more diverse,
+and perhaps more appropriate, methods of engaging a
+younger audience. For example, Ambady et al., (2001) utilised
+a colouring in task, and a number of studies have delivered the
+threat activation verbally (e.g., Alter, et al., 2010; Chan &
+Rosenthal, 2014). A third potential factor is the nullifying effect
+of an ingroup experimenter who is both known to participants
+and also known to actively and explicitly dispel the types of
+negative stereotypes being used to activate ST. Further studies
+are planned that will seek to address these considerations and
+thus continue to explore the potential role of ST in performance
+and participation outcomes of competitive junior female
+players.
+
+In conclusion, this research demonstrates that there are small,
+but potentially meaningful, ST effects on sensorimotor
+performance. This, combined with the ST research across
+myriad domains and social groups, suggests that ST warrants
+further investigation. Indeed, for as long as women and girls in
+tennis continue to be outnumbered by 3:1 every effort must be
+made that could ultimately lead to the development of
+methods to alleviate or eradicate the effects of ST.

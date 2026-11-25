@@ -1,0 +1,235 @@
+Title: Tournament planning proposal for a junior player
+Authors: Francisco j. Peñalva
+Year: 2018
+Issue: Vol. 26 No. 74 (2018)
+Article id: 262
+
+www.itfcoachingreview.com
+April 2018. 26th Year. Issue 74. 4-7
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v26i74.259
+
+How do LTA mini tennis modifications shape
+children’s match-play performance?
+Anna Fitzpatrick , Keith Davids and Joseph Antony Stone
+University of Sheffield Hallam, United Kingdom
+ABSTRACT
+
+Modified versions of tennis, such as Tennis Play and Stay and Mini Tennis (MT)
+have been implemented around the world to influence children’s performance
+behaviours. However, it is not clear how modified versions of tennis shape
+match-play behaviours. We analysed 1010 match-play points, across four
+stages of tennis (MT Red, MT Orange, MT Green and Full Ball), to investigate
+effects of playing MT on children’s match-play performance behaviours
+(Fitzpatrick, Davids & Stone, 2017). MT Red and MT Orange rallies lasted longer
+than Full Ball rallies, indicating that MT can afford children more opportunities
+to develop their skills. Also, MT players performed a higher percentage of
+forehands and lower percentage of backhands than Full Ball players, which may
+signal an unintended, imbalanced effect of practice modifications on skill
+development. Findings suggested that coaches should consider possible
+effects on match-play behaviours when designing modified practice
+environments for young players.
+
+Key words: constraints-based
+coaching; court scaling; ball
+compression; mini tennis
+Received: 26 November 2017
+Acepted: 09 January 2018
+Corresponding author:
+Anna Fitzpatrick, University of
+Sheffield Hallam United
+Kingdom.
+Email:
+Anna.Fitzpatrick@shu.ac.uk
+INTRODUCTION
+Tennis is a challenging sport for young learners, requiring a
+significant level of physical competence in order to generate
+and maintain a rally (Farrow & Reid, 2010a). To reduce
+children’s dropout rates and facilitate skill development, tennis
+federations have implemented modified versions of the sport
+(e.g. Tennis Play and Stay and Mini Tennis). These formats aim
+to provide learning environments that better correspond to the
+current capacities of inexperienced, developing learners
+(Timmerman et al., 2015). For example, the Lawn Tennis
+Association’s (LTA) Mini Tennis (MT) consists of three
+progressive stages: MT Red (MTR), MT Orange (MTO) and MT
+Green (MTG). Game characteristics such as court dimensions,
+ball compression and scoring format are modified at each
+stage, assumed to facilitate young learners’ transition through
+MT and into Full Ball tennis (FB). However, these modified
+versions of tennis were introduced, based solely on the
+experiential knowledge and subjective opinions of coaches,
+and there is a need for empirical evaluations to understand how
+they might influence children’s performance skills (Larson &
+Guggenheimer, 2013).
+
+Since the inception of MT, some research has suggested that
+manipulating court dimensions and ball compression,
+individually, can enhance children’s skill development (Buszard,
+Reid, Masters & Farrow, 2016). However, investigating
+manipulation effects of a single modification (e.g., ball
+compression) on performance limits the potential practical
+application of results, because several modifications are
+applied simultaneously within the MT framework. Furthermore,
+studies have typically examined children’s behaviours within a
+practice environment, rather than examining how practising in
+a modified environment transfers to a match-play context.
+Additionally, several studies (e.g. Kachel, Buszard & Reid, 2015;
+Timmerman et al., 2015) have analysed performance of
+national-level players, rather than inexperienced young
+learners, for whom the modifications were originally designed.
+For these reasons, we examined the match-play performance
+of age- and playing standard-appropriate children, across four
+stages of tennis (MTR, MTO, MTG and FB). Our aim was to
+understand whether, and how, the modifications applied within
+the
+MT
+framework
+influenced
+children’s
+match-play
+behaviours.
+
+METHOD
+Participants
+
+Forty-eight children were recruited and stratified by their
+ageappropriate tennis stage (see Table 1).
+
+Procedure
+Performance during a total of 1010 match-play points (see
+Table 1) was filmed. Matches were contested on a Plexipave
+court surface, using new, stage-appropriate Wilson tennis
+balls, and adhered to MT Rules and Regulations. Video data
+were coded using a custom-notational analysis system, with
+‘very good’ intra-rater reliability, k = 0.96 (O’Donoghue, 2010).
+Key Performance Indicators included forehands, backhands,
+netplay and rally length (for full list see Fitzpatrick et al., 2017).
+The variables in Table 2 were subsequently calculated in
+Microsoft Excel.
+
+Data Analysis
+To identify inter-stage differences, data were analysed using a
+One-way Analysis of Variance (ANOVA) for rally length data,
+and a mixed design ANOVA for shot type data. Gabriel’s post
+hoc test was used where differences were identified
+(Toothaker, 1993).
+
+RESULTS
+Two key findings are presented here (see Fitzpatrick et al., 2017
+for all reported results).
+
+Rally length
+Findings showed that MTR rallies (7.4 shots) and MTO rallies
+(6.6 shots) were longer than MTG (4.3 shots) and FB rallies (3.8
+shots), respectively. Figure 1 demonstrates a progressive
+decline in rally length throughout the stages.
+
+Shot type
+Results revealed differences in shot type played; more
+forehands were played (62.4%) than backhands (35.0%), and
+net-play shots (2.6%). There was also a difference in the shot
+type that emerged at different stages of development. Figure
+2 shows that as MT stage progressed, the percentage of
+forehands played decreased: MTR (66.4%), MTO (65.0%), MTG
+(61.6%) and FB (46.0%); whereas the percentage of backhands
+played increased: MTR (30.9%), MTO (33.5%), MTG (37.0%) and
+FB (48.2%).
+
+DISCUSSION
+Our findings showed that MT modifications did indeed
+influence children’s match-play behaviours. When matches
+were played on smaller courts, using lower compression balls
+(i.e. MTR), an important outcome for skill acquisition was
+longer
+rallies.
+This
+finding
+demonstrates
+how
+task
+simplification can afford young learners more opportunities to
+perform strokes in a representative performance environment.
+
+There was a gradual decline in rally length as the task became
+more difficult (i.e. as court dimensions and ball compression
+increased). Our findings mirror the results of previous work
+showing how court scaling and ball modification can increase
+children’s rally lengths (Farrow & Reid, 2010b). Smaller courts
+reduce the distance a player is potentially required to move to
+retrieve each shot, and lower compression balls travel more
+slowly through the air and bounce lower, therefore adapting
+
+the range of movement responses available to players. In this
+context,, MTR modifications afforded players more time to act
+(Martens & de Vylder, 2007) and provided a more comfortable
+ball-contact height, better aligned with a young child’s physical
+stature, facilitating longer rallies; this may be more conducive
+to their long-term development (Kachel et al., 2015).
+
+Inter-stage differences were also identified in the shot types
+that emerged. The percentage of forehands performed
+decreased and the percentage of backhands performed
+increased as court dimensions and ball compression increased.
+The relatively high percentage of forehands, compared to
+backhands, in all three modified stages, suggests that players
+elected to play forehands more often than backhands (a ratio
+of approximately 2:1 at MTR), under modified match-play
+conditions. This behaviour may be due to the reduced distance
+a player needed to move and the increased time available for
+him/her to move around the ball and perform a forehand. This
+is often the first stroke taught to children and, therefore, the
+favoured stroke. Moving around the ball to perform a forehand
+is, however, an inefficient movement (using more energy and
+time), with a possible detrimental effect on recovery to the
+centre of the court (Hughes & Moore, 1998). This outcome also
+implies that MT modifications do not afford children as many
+opportunities to perform and develop the backhand as it does
+the forehand. However, the reliance on forehands (evident at
+all three MT stages) declined until FB, where no differences
+were observed between the percentage of forehands and
+backhands performed.
+
+Previous work has suggested the disparity between forehands
+and backhands may be even greater within MT coaching
+sessions, with Farrow and Reid (2010b) reporting a mean ratio
+of approximately 6:1 in favour of the forehand. This may lead
+to a skill imbalance over time, inhibiting a learner’s
+development. For example, if MT modifications do not afford
+children sufficient opportunity to perform backhands, the
+stroke may not adequately develop, therefore potentially
+allowing weaknesses to emerge, which can be exploited by
+opponents during matchplay. Taylor and Hughes (1998) noted
+that teenage players, who move around the ball to perform a
+forehand when a backhand may be more appropriate,
+exhibited relatively high backhand error rates. The importance
+of developing both groundstrokes is further supported by
+elite-level match-play data, which demonstrates forehand-tobackhand ratios closer to 1:1 (Reid, Morgan & Whiteside,
+2016).
+
+It is important for coaches to recognise that over-reliance on
+one set of modifications can cause participants to become
+dependent on a specific skill, which may result in other skills
+(i.e. the backhand) not being sufficiently developed. Therefore,
+creativity is required in coaching practice to design different
+modifications which can facilitate continuous skill adaptations
+by players.
+
+CONCLUSION
+Our findings demonstrated how MT facilitates children’s skill
+development. MT modifications provided young learners with
+more opportunities to perform strokes in a representative
+performance environment. The result was longer rally lengths
+on smaller courts when using lower compression balls. There
+was some disparity between the percentage of forehands and
+backhands performed within the three MT stages. Coaches
+should be aware of effects that MT modifications can have on
+the match-play behaviours emerging in young learners.
+Further research is needed to investigate whether appropriate
+adaptations can be applied during practice programmes, for
+coaches wishing to enhance opportunities for balanced stroke
+development in young players.
+
+A follow-up intervention study was undertaken; results will be
+presented in an upcoming issue of ITF Coaching and Sport
+Science Review.

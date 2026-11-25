@@ -1,0 +1,161 @@
+Title: Self talk optimizes the positive effects of mental imagery when learning the service in beginners
+Authors: Nicolas Robin, Robbin Carrien, Christophe Boudier, Laurent Dominique
+Year: 2021
+Issue: Vol. 29 No. 85 (2021)
+Article id: 143
+
+ABSTRACT
+The aim of this exploratory study was to test the effects of a combination of mental
+imagery (imagining oneself serving) and cognitive self-talk (instructions for serving)
+on the percentage of success and the technical quality of the serve of young beginner
+tennis players during a one-week training course, with the aim of providing practical
+recommendations to coaches. The results show an additional improvement in service
+performance when mental imagery is combined with self-talk.
+INTRODUCTION
+Mental training techniques are frequently used by mental
+trainers, coaches, and players as strategies to improve
+learning and performance (Hall & Fishburne, 2010). Among
+these techniques Motor Imagery (MI), which can be defined as
+a conscious process of mentally simulating a technical gesture
+(e.g., a forehand) or a sequence of actions such as doing a
+serve-volley (Robin et al., 2007), is one of the most frequently
+used strategies in racquet sports (Cece et al., 2020) because
+it can improve the performance of both experienced (e.g.,
+Dominique et al., in press; Guillot et al., 2013) and novice (e.g.,
+Mamassis et al., 2005) players. In particular, MI can improve
+the gestural technique, which has a fundamental role in tennis
+(Hegazy et al., 2015). Indeed, the greatest "danger" for a tennis
+player is to learn a "bad" technical gesture that it will be very
+complex to "unlearn" (Hegazy, 2012). This is why coaches pay
+particular attention to the quality of the technical execution
+and its optimal development, in particular by giving feedback
+and generally verbal instructions to carry out sequences of
+actions such as the serve for example (Schönborn, 2000).
+Thus, having memorized these instructions, the players will
+be able to "repeat them to themselves" before carrying out
+these actions by using the "self-talk focused on technique"
+or instructional discourse, which, just like MI, has shown
+its effectiveness in tennis, particularly in serving (Malouff
+et al., 2008). Self-talk thus represents what players say to
+themselves, expressed in the form of a small inner voice or in
+the form of verbalizations out loud (Theodorakis et al., 2000)
+and whose content can serve at least two functions: cognitive
+(i.e., verbalizations with an attentional focus directed towards
+the technique and movements adequate to the task) or
+motivational (i.e., discourse dealing with self-confidence, the
+increase of effort, the optimization of energy deployed, or
+favoring a positive mood)
+As recent work has shown the beneficial effect of combining
+MI with self-talk on players' self-efficacy (Dohme et al., 2019),
+the aim of this exploratory study was to assess the effects
+www.itfcoachingreview.com
+December 2021. 29th Year. Issue 85. 9-11
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i85.143
+Self-talk optimizes the positive effects of mental
+imagery in service learning for beginners
+Nicolas Robina,b, Robbin Carien1, Boudier Christophe & Laurent Dominiqueb,c
+aUniversité des Antilles, France. bUniversité de la Réunion, France. cLaboratoire ACTES (UPRES EA 3596), France.
+Key words: service, mental
+imagery, self-talk, beginner.
+Received: 2 August 2021
+Accepted: 10 September  2021
+Corresponding author: Nicolas
+Robin. Email: robin.nicolas@
+hotmail.fr
+COACHING & SPORT
+SCIENCE REVIEW
+of a combination of MI and cognitive self-talk, focusing on
+instructions to serve, on the performance and technical
+execution quality of the serve in novice players conducting a
+one-week club course.
+METHOD
+Twenty-four beginner tennis players (M = 9.8 years old, 10
+girls and 14 boys), who participated in a one-week tennis
+course at the Amicale Tennis Club, (Gosier, Guadeloupe,
+France) voluntarily participated in this experiment. They were
+randomly divided into 3 groups: Imaging, Imaging-self-talk and
+Control. Consent to take part in the study was obtained by the
+parents or tutors of the players. Ethics approval to conduct
+the research was obtained by the University of Antilles.
+PROCEDURE
+The players performed five 1.5-hour sessions during which,
+after a standardized warm-up, they were asked to serve 10
+times, with intermediate balls, changing sides each time. The
+Control group received no instructions other than verbal
+instructions on the steps to serve. The Imagery group was
+instructed, before each service ball, to imagine (in the third
+person) serving successfully to the "correct" service box.
+The Imagery-Self-talk group was instructed to repeat the
+instructions to themselves internally during the IM. The daily
+practice time for the service was approximately 15 minutes.
+During the first session, the players performed a pre-test: 10
+serves with intermediate balls. The percentage of success,
+the speed of the balls (with a radar) and the technical quality
+(scores of 6 items: starting position, ball toss, backswing armracket movement, forward swing arm-racket movement,
+contact point and follow through movement noted with a
+scale from "0" mediocre to "7" excellent) of each service were
+recorded and evaluated by federal and state certified coaches
+(for a similar procedure see Atienza et al., 1994) On the 5th
+and final day of the course, the players completed a post-test
+identical to the pre-test.
+RESULTS
+Statistical analysis performed on the speed of the serves
+showed no significant difference between the services of
+the groups: Control (M = 42 km/h), Imaging (M = 45 km/h),
+Imaging-self-talk (M = 46 km/h) at pre-test and post-test and
+between them.
+On the 	 other hand, the players in the Imaging and Imagingself-talk groups improved the percentage of success of their
+serves between the pre-test and post-test by (16.5% and
+15%) respectively, whereas the players in the Control group
+did not differ statistically (see Figure 1).
+Figure 1. Percentage of successful service completion for the Control,
+Imaging and Imaging-Self-talk groups in the pre- and post-test.
+Finally, the players in the Imaging-self-talk group improved
+the technical quality of their service between the pre-test and
+post-test and got better scores than the participants in the
+Control and Imaging groups on the post-test (see Figure 2).
+Figure 2. Technical quality scores of services performed by the Control,
+Imaging and Imaging-Self-talk groups in the pre- and post-test.
+DISCUSSION
+This experiment was conducted to evaluate the effects
+of the combination of self-talk and/or MI on the serving
+performance of young beginner tennis players. The results
+show, firstly, a significant improvement in the percentage
+of successful serves in the MI group while the performance
+of the control group remained stable. These results confirm
+those of studies that have shown positive effects of MI used
+in addition to real practice on serving performance (Desliens
+et al., 2011; Dominique et al., 2021; Guillot et al., 2013;
+Mamassis, 2005). Secondly, the results of this experiment
+show that participants who used self-talk during MI not only
+had a significantly higher percentage of success than the
+Control group, but also obtained better scores on the quality
+of the technical execution of the services than the participants
+of the Imaging group. These original results, confirm the value
+of using technique-focused self-talk (Malouff et al., 2008) and
+combining this technique with MI (Dohme et al., 2019).
+Control
+Control
+Imaging
+Imaging
+Imaging-Self-talk
+groups
+Imaging-Self-talk
+groups
+CONCLUSION
+The results of this exploratory study, carried out during a oneweek training programme, show that MI improves technical
+execution and the percentage of successful serves, and that
+self-talk based on personalized instructions optimizes its
+positive effects. We recommend coaches to combine real
+practice with mental imagery and self-talk especially when
+they have short intervention periods such as during a training
+course.
+ACKNOWLEDGEMENTS
+We warmly thank the Amicale Tennis Club for allowing us to
+carry out this experiment as well as all the participants of this
+study.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

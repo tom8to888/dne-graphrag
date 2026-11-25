@@ -1,0 +1,18 @@
+# Demo dialogue for the conversational agent. One user turn per line.
+A club player hasn't played for several weeks or months. How should they ease back into regular tennis training and match play to avoid injury?
+What kind of training sessions should they prioritise?
+What kind of drills would suit them?
+How long should they wait before getting back into match play?
+What if the player is 12 years old?
+---
+A club player often loses focus during doubles play, as they feel they have to wait around more to hit the ball and run around less than in singles. What kind of mental strategies exist to maintain focus during doubles sessions?
+How are strategies to maintain focus during doubles play different from focus strategies for singles play?
+---
+A club player struggles when his opponent gets emotional, overly tense or displays a negative attitude during match play. What mental strategies exist to handle this?
+Should the player avoid interaction with the opponent during changeovers?
+Is it generally recommended to avoid interaction with opponents during changeovers, or is some light-hearted conversation conducive to relaxation and releasing tension?
+What are strategies to handle opponents that actively try to play mind games or affect the player psychologically?
+---
+A club player struggles with back pain. What are the main culprits, and which parts of the tennis movement affect back or lower-back pain?
+What are recommended exercises to handle or prevent lower-back pain for tennis players?
+At what point should a tennis player stop playing to avoid a chronic injury?

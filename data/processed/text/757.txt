@@ -1,0 +1,688 @@
+Title: Rethinking talent pathways in wheelchair tennis: A call for inclusive and evidence informed development models
+Authors: Tayla Mounter
+Year: 2026
+Issue: Vol. 34 No. 99 (2026)
+Article id: 757
+
+Introduction
+Wheelchair tennis is a widely recognised Paralympic
+sport, now played in over 100 countries (International
+Paralympic Committee, 2026). Despite this global
+growth, its talent development structures have not
+evolved at the same pace as its competitive expansion.
+Many national federations continue to rely on nondisabled tennis models or generic disability sport
+frameworks, neither of which adequately captures the
+performance, developmental, and contextual demands
+of wheelchair tennis (Fliess‑Douer et al., 2012; Brittain,
+2016). This tension between participation growth and
+pathway misalignment raises fundamental questions
+about how talent is conceptualised, identified, and
+supported within wheelchair tennis. Traditional
+talent development models in tennis emphasise
+early specialisation, high training volumes, and
+uninterrupted progression from childhood (Côté &
+World Tennis Coaching & Sport Scienci Review
+www.itfcoachingreview.com
+August 2026. 34th  Year. Issue 99. 10-16
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v34i99.757
+Rethinking talent pathways in wheelchair tennis:
+A call for inclusive and evidence informed
+development models
+Tayla Mounter
+University of Edinburgh, Scotland
+Abstract
+Wheelchair tennis has grown rapidly as a high‑performance sport, yet its talent development pathways
+remain fragmented, unevenly resourced, and insufficiently informed by contemporary athlete
+development theory. This opinion paper argues that current models, often adapted from non-disabled
+tennis or general disability sport, fail to account for the unique biopsychosocial realities of wheelchair
+athletes. Drawing on conceptual frameworks from talent development, ecological dynamics, disability
+studies, and wheelchair‑specific performance research, the paper critiques prevailing assumptions
+about early identification, classification, and performance potential. It proposes a shift toward inclusive,
+context‑sensitive, and evidence‑informed pathways that recognise the diversity of impairment types,
+the prevalence of late entry, and the centrality of equipment, environment, and social support. In
+doing so, the paper positions wheelchair tennis as a case through which broader assumptions in talent
+development can be critically examined, particularly where late entry, impairment‑specific constraints,
+and fragmented access challenge conventional pathway logic. Practical implications are offered
+through example drills, coaching strategies, and structural recommendations. The paper concludes
+that wheelchair tennis requires a bespoke, athlete‑centred talent model that values adaptability,
+opportunity, and long‑term engagement over narrow performance metrics.
+Key words: wheelchair tennis; talent development; disability sport; athlete pathways.
+Received: 13 February 2026. Accepted: 30 April 2026.
+Corresponding author: Tayla Mounter, s1918193@ed.ac.uk
+Vierimaa, 2014). These assumptions are poorly aligned
+with wheelchair tennis, where athletes frequently
+enter the sport later following injury, illness, or
+delayed access to adaptive opportunities. As a result,
+developmental trajectories are often non‑linear,
+shaped by rehabilitation, functional adaptation,
+and variable access to coaching, equipment, and
+competition (Dehghansai et al., 2017). Importantly,
+these developmental patterns are not marginal
+exceptions but represent normative experiences
+within wheelchair tennis, calling into question the
+validity of early‑selection logics inherited from nondisabled sport. Existing pathways therefore fail to
+reflect the lived experiences and developmental needs
+of many wheelchair tennis athletes.
+This paper argues that wheelchair tennis consequently
+requires a fundamental rethinking of its talent pathways.
+Rather than retrofitting non-disabled models, the
+sport should adopt an inclusive, evidence‑informed
+approach that explicitly recognises the interaction
+between impairment, equipment, environment, and
+psychosocial factors (Martin, 2017; Shakespeare,
+2014). Although wheelchair tennis performance
+research has expanded in recent years, applied
+findings relating to court movement, propulsion
+demands, and learning constraints remain unevenly
+integrated into development systems (Sindall, 2016).
+Recent reviews further indicate fragmentation across
+domains such as physical demands, injury risk,
+psychosocial outcomes, and performance monitoring,
+reinforcing the need for integrated pathway design
+(Williamson et al., 2024; Leale et al., 2025). Similar
+misalignments between theory and applied coaching
+practice have been identified in other individual
+sports. For example, analysis of elite squash training
+environments revealed a persistent reliance on
+traditional practice regimes that were poorly aligned
+with established skill‑acquisition frameworks, despite
+a strong theoretical evidence base (Mounter et al.,
+2025). This pattern suggests that the challenge lies less
+in the absence of theory and more in how development
+systems conceptualise and operationalise it—an issue
+likely to be magnified in wheelchair tennis given
+additional impairment, equipment, and access‑related
+constraints. Rather than seeking to generate new
+empirical data, this paper therefore focuses on
+clarifying how existing theory and applied evidence
+have been interpreted, operationalised, and, in some
+cases, misapplied within current wheelchair tennis
+development systems.
+Methods and Procedures
+This paper adopts a conceptual synthesis methodology
+to generate theoretical insight in an area where
+empirical
+evidence
+is
+expanding
+but
+remains
+fragmented. Literature was purposefully reviewed
+across four domains relevant to wheelchair tennis
+development: performance science, classification
+and impairment research, talent development and
+coaching science, and disability sport psychosocial
+literature. Sources were selected based on relevance,
+conceptual
+contribution,
+influence
+within
+their respective fields. In addition to peer‑reviewed
+research, applied technical reports and doctoral work
+were included where they provided sport‑specific
+insight into wheelchair tennis performance, skill
+acquisition, and physical demands (e.g. Sindall, 2016;
+Mayrhuber et al., 2022). Using a qualitative thematic
+approach, the literature was analysed to identify
+recurring concepts, contradictions, and gaps. This
+process informed the development of a wheelchair
+tennis‑specific framework emphasising the athlete–
+chair–environment system (Davids et al., 2013), the
+interaction between impairment and equipment,
+and the role of social and structural constraints.
+The resulting framework provides a structured basis
+for interpreting how developmental assumptions
+manifest across pathway design, coaching practice,
+and athlete experience in wheelchair tennis.
+Results
+The conceptual synthesis identified four interrelated
+findings that highlight limitations within existing
+wheelchair tennis talent pathways and reinforce the
+need for sport‑specific development models. These
+findings relate to (i) structural misalignment with
+common athlete entry profiles, (ii) the developmental
+significance
+of
+impairment
+classification,
+(iii) the distinct skill‑acquisition demands of the
+athlete–chair–environment system, and (iv) the
+disproportionate influence of social and environmental
+constraints.
+First, current talent pathways remain structurally
+misaligned with the developmental realities of
+wheelchair tennis athletes. Many systems continue
+to
+assume
+early
+specialisation,
+uninterrupted
+progression, and high training volumes beginning in
+childhood—assumptions that reflect non-disabled
+tennis norms rather than typical wheelchair tennis
+entry pathways. In practice, many athletes enter the
+sport later following injury, illness, or rehabilitation,
+resulting in non‑linear developmental trajectories
+and variable access to coaching, equipment, and
+competition (Dehghansai et al., 2017). Second,
+impairment and classification emerged as central
+developmental variables rather than administrative
+considerations. Performance potential in wheelchair
+tennis is strongly shaped by factors such as trunk
+stability, limb function, balance, reach, propulsion
+efficiency, and chair configuration. Classification
+research indicates that these impairment‑related
+characteristics influence both the rate and nature
+of skill acquisition, creating distinct developmental
+trajectories
+(Tweedy
+&
+Vanlandewijck,
+2011;
+Beckman et al., 2017). When classification is treated
+procedurally rather than developmentally, talent
+systems risk inappropriate training loads, unrealistic
+expectations, and misinterpretation of long‑term
+potential. Injury‑focused research further highlights
+interactions
+between
+impairment
+profile
+repetitive propulsion demands, reinforcing the need
+for classification‑informed development and load
+management (Mayrhuber et al., 2022).
+Third, the synthesis highlighted that skill acquisition
+in wheelchair tennis is governed by a fundamentally
+different athlete–chair–environment system than
+that
+assumed
+in
+non-disabled
+tennis
+models.
+Ecological dynamics research demonstrates that skill
+emerges through continuous interaction between
+the athlete, the wheelchair, task demands, and the
+environment (Davids et al., 2013; Renshaw et al.,
+2019). Match‑play analyses further indicate that
+wheelchair tennis involves intermittent high‑intensity
+propulsion,
+frequent
+directional
+changes,
+substantial upper‑limb loading, with considerable
+variability across playing levels (Williamson et
+al., 2024). In parallel, assessment research reveals
+inconsistency in physical fitness testing, reflecting
+limited standardisation within development systems
+(Leale et al., 2025). Finally, social, psychological,
+and environmental factors were found to exert a
+disproportionate influence on talent development
+in wheelchair tennis. Disability sport research
+consistently identifies barriers including equipment
+cost, transport limitations, facility accessibility, and
+reliance on family or caregiver support (Martin, 2017;
+Ruffault et al., 2017). These constraints shape both
+entry into the sport and long‑term engagement, with
+implications for progression and retention across
+talent pathways. Collectively, these findings highlight
+not isolated weaknesses but interconnected tensions
+between pathway structure, coaching pedagogy, and
+athlete experience, which are examined in greater
+depth in the following discussion.
+Discussion
+Limitations of non-disabled talent models: early
+specialisation and performance markers
+The findings reinforce longstanding critiques of nondisabled talent development models, particularly
+their reliance on early specialisation, uninterrupted
+training trajectories, and early performance indicators
+(Bailey et al., 2010; Côté & Vierimaa, 2014). Such
+assumptions are poorly aligned with wheelchair
+tennis, where athletes frequently enter the sport
+later and progress through non‑linear developmental
+pathways
+shaped
+by
+rehabilitation,
+functional
+adaptation, and psychosocial transition (Dehghansai
+et al., 2017). Consequently, early performance
+markers—such as junior rankings or early technical
+proficiency—risk excluding athletes with substantial
+long‑term potential when performance reflects stages
+of adaptation rather than underlying capability
+(Vaeyens et al., 2008; Baker et al., 2012). Non-disabled
+models further under‑recognise impairment‑related
+constraints that shape skill acquisition in wheelchair
+tennis, including trunk stability, limb function,
+and propulsion mechanics (Fliess‑Douer et al.,
+2012; Tweedy & Vanlandewijck, 2011). When these
+factors are overlooked, developmental delays may
+be misinterpreted as indicators of low potential,
+particularly within systems that prioritise early
+selection and deselection. Taken together, these
+dynamics
+indicate
+that
+performance‑centric,
+early‑selection
+models
+are
+ill‑suited
+to
+the
+developmental realities of wheelchair tennis.
+Structural
+inequality
+psychosocial
+assumptions in pathway design
+Beyond developmental assumptions, non-disabled
+talent models implicitly presume equitable access
+to coaching, facilities, equipment, and competitive
+opportunities. In wheelchair tennis, development
+is strongly shaped by structural constraints such as
+equipment cost, transport limitations, and restricted
+access to local training and competition environments
+(Martin,
+2017;
+Brittain,
+2016).
+These
+barriers
+introduce variability in training continuity that is
+largely absent from non-disabled pathways, rendering
+early performance benchmarks inequitable. Structural
+constraints
+interact
+closely
+with
+psychosocial
+processes that influence sustained engagement
+long‑term
+development.
+Qualitative
+mixed‑methods research highlights the importance
+of identity reconstruction, perceived competence,
+autonomy, and social support in shaping wheelchair
+tennis
+participation
+(Richardson
+et
+al.,
+2010;
+Papathomas et al., 2015). Sustained engagement is
+therefore influenced less by early competitive success
+and more by meaningful progression opportunities
+and supportive environments.
+The role of impairment, classification, and skill
+acquisition
+Impairment and classification emerged as foundational
+developmental variables rather than administrative
+considerations. Functional characteristics such as
+trunk control, limb function, balance, reach, and
+propulsion efficiency profoundly influence technical
+execution, tactical options, and physical capacity
+(Tweedy & Vanlandewijck, 2011; Fliess‑Douer et
+al., 2012). Classification research demonstrates that
+these characteristics shape distinct developmental
+trajectories, influencing both the rate and nature
+of skill acquisition (Beckman et al., 2017). When
+classification is treated procedurally rather than
+developmentally, talent systems risk inappropriate
+training
+expectations
+misinterpretation
+of
+long‑term potential (Reina et al., 2020). Ecological
+dynamics
+provides
+a
+coherent
+framework
+for
+understanding these demands, emphasising that skill
+in wheelchair tennis emerges through continuous
+interaction between the athlete, the wheelchair, and
+the environment (Davids et al., 2013; Renshaw et al.,
+2019). Unlike non-disabled tennis, propulsion, braking,
+rotation, and stroke production are tightly coupled
+actions that reshape perceptual–motor demands
+and tactical possibilities (Fliess‑Douer et al., 2012).
+Match‑play analyses further demonstrate the high
+physical demands of wheelchair tennis (Williamson et
+al., 2024), while inconsistencies in fitness assessment
+reflect limited standardisation within development
+systems (Leale et al., 2025).
+Social and structural barriers
+Social and structural barriers play a central role
+in
+shaping
+talent
+development
+in
+wheelchair
+tennis, influencing both entry into the sport and
+long‑term progression. Athletes with disabilities
+commonly face constraints such as the high cost
+of specialised sports wheelchairs, limited facility
+accessibility, and reliance on family or caregivers
+for transport and logistical support (Martin, 2017).
+These barriers reflect wider structural inequalities
+that restrict access to organised sport rather than
+individual circumstances alone. Research in disability
+studies shows that access to adaptive equipment,
+transport, and inclusive environments is uneven,
+disproportionately
+disadvantaging
+athletes
+from
+lower socioeconomic backgrounds or rural locations
+(Shakespeare,
+2014;
+Brittain,
+2016).
+Regional
+variation in coaching expertise, training groups, and
+competitive opportunities further compounds these
+inequities. Psychosocial factors interact closely with
+these constraints, with social support identified as
+a key determinant of sustained participation and
+motivation in disability sport (Ruffault et al., 2017).
+Where such support is limited, athletes may struggle
+to maintain training consistency or develop a stable
+athletic identity, particularly as entry into wheelchair
+tennis often coincides with significant life transitions
+such as adjustment to impairment and changes in
+self‑concept (Martin, 2017). Collectively, these factors
+mean that talent pathways risk overlooking athletes
+with high potential due to contextual barriers rather
+than capability.
+Proposals – Drills – Exercises
+Evidence from individual sports indicates that
+misalignment between theory and applied coaching
+practice is common, even in high‑performance
+contexts (Mounter et al., 2025). In wheelchair tennis,
+this gap is compounded by impairment‑specific
+constraints,
+equipment
+demands,
+variable
+entry points. Accordingly, the following proposals
+emphasise representative, adaptable, athlete‑centred
+practice designs aligned with the athlete–chair–
+environment system and the developmental realities
+identified in this paper. Grounded in ecological
+dynamics and disability sport research, these practices
+prioritise perception–action coupling, functional
+exploration, and the emergence of individualised
+performance solutions rather than prescriptive
+technique replication (Farrow & Robertson, 2017;
+Williams & Hodges, 2005). Evidence also suggests
+that manipulating task constraints and equipment
+interaction
+can
+enhance
+movement
+efficiency,
+decision‑making, and self‑efficacy (Sindall, 2016), and
+coach‑education resources recommend prioritising
+chair control, confidence, and adaptable movement
+solutions over early outcome‑driven specialisation
+(ITF, 2019; Schrijver, 2021).
+At early and intermediate stages, a central priority
+is coordinating propulsion with stroke production.
+Dynamic propulsion–hit sequences (propel–brake–
+rotate–hit) reflect the tightly coupled demands
+of match play and support refinement of timing
+between braking, rotation, and stroke preparation
+(Fliess‑Douer et al., 2012). Task complexity can be
+increased via lateral movement, variable propulsion
+distances, or unpredictable feeds to elevate perceptual
+and motor demands. Perceptual attunement can be
+developed through variable bounce‑reading drills in
+which ball speed, trajectory, and spin are manipulated
+to promote earlier cue detection and rapid chair
+orientation adjustments (Reina et al., 2020). Tactical
+adaptability can be promoted through constraint‑led
+point scenarios that encourage exploration rather
+than replication, using manipulations such as reduced
+court width, limits on propulsion pushes, or opponent
+positioning (Davids et al., 2013; MacNamara &
+Collins, 2015). To support functional reach and stroke
+control—particularly where trunk function is limited—
+stability‑under‑load hitting tasks using resistance
+bands can develop stabilisation strategies relevant to
+powerful and accurate strokes (Burkett, 2010).
+Given the sport’s repetitive upper‑limb loading,
+propulsion efficiency should be developed alongside
+injury‑mitigation
+principles.
+Propulsion
+rhythm
+interval drills that combine propulsion, braking
+control, and immediate transition into hitting
+actions can support movement economy and braking
+precision, consistent with propulsion research and
+injury‑prevention priorities (Van der Woude et al.,
+2001). Progressive load management and monitoring
+remain important in this context, given reduced
+recovery capacity and cumulative loading risk in
+spinal cord injury populations (Jacobs et al., 2016).
+Decision‑making under pressure can be developed via
+rapid decision‑carousel drills requiring consecutive
+responses to multi‑zone feeds, enhancing perceptual
+speed and cognitive load management under time
+constraints.
+Finally,
+structured
+exploration
+of
+equipment adaptation should be embedded within
+development.
+Chair‑configuration
+trials
+(e.g.,
+seat height, camber, strapping) can help athletes
+and coaches understand how equipment affects
+propulsion, stability, and stroke production; objective
+comparisons (e.g., timed propulsion, turning‑radius
+tasks,
+stroke‑speed
+assessments)
+can
+support
+informed adjustments (Burkett, 2010). In parallel,
+evidence‑based strength and conditioning should
+prioritise shoulder health, trunk stability, propulsion
+efficiency, and injury prevention given the repetitive
+loading demands of racket‑assisted propulsion and
+high‑intensity court movement (Roetert et al., 2023;
+Mayrhuber et al., 2022).
+What needs to change in wheelchair tennis talent
+development?
+While the preceding drills and practice examples
+illustrate how theory‑informed coaching can be
+enacted at the applied level, their effectiveness
+ultimately depends on the broader talent pathway
+structures within which they are embedded. For the
+ambition articulated in the title—rethinking talent
+pathways toward inclusive and evidence‑informed
+development
+models—to
+be
+realised,
+several
+interconnected changes are required at structural,
+pedagogical, and cultural levels within wheelchair
+tennis. The literature reviewed in this paper indicates
+that current systems are not simply under‑resourced or
+inconsistently applied, but are frequently misaligned
+with the developmental realities of wheelchair tennis
+athletes. Addressing this misalignment requires
+moving beyond superficial adaptation of non-disabled
+models toward a more fundamental reconfiguration of
+how talent is identified, supported, and evaluated.
+First, talent identification processes must shift away
+from early, performance‑based selection models toward
+approaches that recognise late entry and non‑linear
+development as normative rather than exceptional.
+In wheelchair tennis, early performance is strongly
+influenced by factors such as stage of impairment
+adaptation,
+access
+to
+appropriate
+equipment,
+and prior sporting experience, all of which vary
+substantially across athletes. Development systems
+that prioritise early competitive success therefore risk
+excluding individuals with high long‑term potential
+whose performance is constrained by transitional or
+contextual factors. More inclusive pathways would
+emphasise broad engagement, extended sampling
+opportunities, and ongoing re‑entry points rather
+than narrow early selection thresholds. Second,
+classification and impairment profiles need to be
+integrated meaningfully into development planning
+rather than treated as administrative necessities.
+The reviewed evidence highlights that functional
+characteristics such as trunk stability, limb function,
+and propulsion capacity shape not only performance
+outcomes but also the rate and nature of skill
+acquisition. Talent pathways that fail to account for
+these factors risk misinterpreting developmental
+trajectories and applying inappropriate training
+expectations.
+Embedding
+classification‑informed
+frameworks within talent systems would allow
+for more realistic benchmarking, individualised
+progression timelines, and fairer evaluation of athlete
+potential.
+Third, coaching practice within wheelchair tennis
+must move away from the direct transplantation of
+non-disabled technical models toward pedagogies
+grounded in the athlete–chair–environment system.
+Ecological dynamics research indicates that effective
+skill acquisition in wheelchair tennis depends on
+exploration,
+adaptability,
+perception–action
+coupling rather than replication of idealised techniques.
+For this shift to occur, coach education programmes
+need to prioritise disability‑specific knowledge,
+constraint‑led learning principles, and equipment
+literacy. Without such changes, even well‑intentioned
+development initiatives risk reinforcing mismatches
+between coaching practice and performance demands.
+Fourth, greater recognition of social and structural
+constraints is required within talent pathway
+design. Access to specialised wheelchairs, transport,
+facilities, and qualified coaching remains uneven,
+with significant implications for training consistency
+and long‑term engagement. Inclusive development
+models must therefore extend beyond on‑court
+practices to incorporate financial support mechanisms,
+regional development hubs, and partnerships with
+rehabilitation and community organisations. Treating
+these factors as peripheral rather than central to
+development perpetuates inequities and narrows the
+effective talent pool.
+Finally, evaluation of success within wheelchair tennis
+pathways must be broadened beyond short‑term
+performance
+outcomes.
+Retention,
+progression,
+skill
+adaptability,
+sustained
+engagement
+are
+equally
+important
+indicators
+of
+pathway
+effectiveness, particularly in a sport characterised by
+diverse entry points and developmental timelines.
+Evidence‑informed
+systems
+would
+value
+these
+outcomes explicitly, aligning performance objectives
+with ethical commitments to opportunity and
+inclusion. Taken together, these changes suggest
+that rethinking talent pathways in wheelchair tennis
+requires more than incremental adjustment. It
+demands a coordinated shift in assumptions about
+who talent is, how it develops, and what conditions
+are necessary for it to flourish. Only through
+such changes can wheelchair tennis move toward
+development models that are genuinely inclusive,
+evidence‑informed, and aligned with the complex
+realities of the sport.
+Conclusions
+Wheelchair tennis requires a shift toward inclusive,
+evidence‑informed talent pathways that reflect
+the sport’s unique performance demands and
+developmental
+realities.
+Models
+adapted
+from
+non-disabled tennis continue to overlook the
+complex interplay between impairment, equipment,
+environment, and psychosocial factors that shape
+both participation and performance (Shakespeare,
+2014; Collins  & Winter, 2019). Through a synthesis
+of performance science, disability sport research,
+and talent development theory, this paper has
+demonstrated that such omissions are not peripheral,
+but central to the limitations of current pathway
+design.
+By
+integrating
+ecological
+principles,
+classification‑specific considerations, and applied
+coaching practices, this paper has illustrated how
+talent development systems can better accommodate
+late entry, non‑linear progression, and diverse
+functional profiles. The proposed drills and practice
+designs demonstrate how theory‑informed coaching
+can be operationalised in ways that support
+adaptable skill acquisition, sustained engagement,
+and long‑term athlete development. At a pathway
+level, the findings highlight the need to move beyond
+narrow performance benchmarks toward models
+that value progression, retention, and opportunity
+alongside competitive outcomes. This shift is not
+only a performance imperative, but also an ethical
+one. Developing pathways that recognise diversity
+in impairment, entry points, and support contexts is
+essential for ensuring equitable access to high‑quality
+development opportunities within wheelchair tennis.
+Collectively, evidence from applied performance
+research,
+injury
+science,
+inclusion‑focused
+studies reinforces the need for wheelchair‑specific,
+classification‑informed, and context‑sensitive talent
+pathways that extend beyond superficial adaptations
+of non-disabled models (Roetert et al., 2023;
+Montesano et al., 2022; Sindall, 2016; Williamson
+et al., 2024; Leale et al., 2025; Richardson et al.,
+2010). Only through such an integrated approach can
+wheelchair tennis create development systems that
+are both effective and just, supporting diverse forms
+of talent to flourish across the sport’s competitive
+lifespan.
+Conflict of Interest
+The author declares that she has no conflicts of
+interest.
+Funding
+The study received no external funding.

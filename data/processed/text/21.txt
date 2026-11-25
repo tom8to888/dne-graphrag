@@ -1,0 +1,297 @@
+Title: Proposal of a specific test in tennis: Test of shot speed and precision
+Authors: Manuel Alfonso–Asencio, Marta Hellín-Martínez, Javier Sánchez-Alcaraz Martínez, Ruperto Menayo
+Year: 2020
+Issue: Vol. 28 No. 82 (2020)
+Article id: 21
+
+www.itfcoachingreview.com
+December 2020. 28th Year. Issue 82. 35-38
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v28i82.21
+
+Proposal of a specific test in tennis: Test of shot
+speed and precision
+Manuel Alfonso–Asencio a, Marta Hellín-Martínez b, Bernardino Javier Sánchez-Alcaraz
+Martínez c, & Ruperto Menayo d
+a Ministry of Education, Valencian Community, Spain. B Faculty of Educational Sciences, Universidad de
+Murcia, Spain, c Faculty of Sports Sciences, University of Murcia, Spain. d Faculty of Education, University of
+Extremadura, Badajoz, Spain.
+
+ABSTRACT
+
+Tennis is a sport in which various variables related to performance influence
+the final result of a match. The speed and precision of the shots are among the
+most decisive of them. The objective of this study was to develop a test to
+assess the performance in terms of the speed and the precision of the
+forehand, backhand and serve of tennis players. The sample consisted
+of 4 amateur players. The analysis of the data obtained in the test provides the
+coach with information about the level of performance of the players and their
+progression.
+
+Key words: tennis,
+performance, speed, precision.
+Received: 18 May 2020
+Accepted: 20 June 2020
+Corresponding author:
+Manuel Alfonso–Asencio,
+Ministry of Education,
+Valencian Community, Spain.
+Email:
+alfonso_manase@gva.es
+
+INTRODUCTION
+Tennis is a sport that is characterised by a great variety of strokes,
+among which, due to its greater frequency, the serve, the
+forehand and the backhand stand out (Baiget, Iglesias, Vallejo, and
+Rodríguez,
+2011; Kovalchik
+Reid,
+2017). Tennis
+competition demands from players a high degree of technical
+precision in stroke production, being a fundamental component to
+achieve good performance (Haake, Chadwick, Dignall, Goodwill
+and Rose 2001; Menayo, Fuentes, Moreno, Clemente and García,
+2008). Different studies have shown a direct relationship between
+technical ability (measured through the level of precision and
+speed of the shots) and the competitive level of the tennis player
+(Kovacs, 2007; Reid, Crespo, Lay and Berry, 2007; Urbán,
+Hernández-Davó and Moreno, 2012).
+With the aim of understanding the technical ability of the players,
+the literature has proposed a wide variety of tests to evaluate the
+precision and speed of tennis shots in different game situations,
+considering parameters of shot resistance and performance
+(Ferrauti Kinner, and Fernández-Fernández, 2011; Lyons, Al-
+ Nakeed, Hankey and Nevill, 2013; Vergauwen, Madou and Behets,
+2004). These studies have allowed to design instruments for the
+evaluation of the player's technique, simulating the physical
+demands of tennis competition. These instruments are of
+special interest when designing specific tennis training sessions
+(Fernández-Fernández et al., 2012). Therefore, the objective of
+this study was to design a test to assess the performance in terms
+of speed and precision of the forehand, backhand and serve of
+tennis players.
+METHODOLOGY
+Participants
+The study sample consisted of a total of 4 amateur junior tennis
+players with ages between 11 and 14 years (mean age 12.75 ±
+1.50 years).
+Protocol for the development of the test
+The development of the test of speed and precision in tennis
+strokes is presented. This test evaluates the variables of speed and
+precision in the forehand, backhand and serve in prolonged
+playing situations. The design of the test has been based on similar
+previous research in tennis (Fernández-Fernández et al.,
+2012). Prior to the test, the players must perform a 5 minute
+general warm-up and a 10 minute specific warm-up (AlfonsoAsencio and Menayo, 2019).
+
+The test procedure consists of conducting three blocks of
+exercises
+for
+each
+stroke (Figure
+1).
+In
+block I the
+player performs forehands, in block II performs backhands, and in
+block III performs serves. The player rests 90 seconds between
+each block of exercises, and 20 seconds between each series of
+strokes.
+Before
+performing
+the
+test,
+the
+players should
+be instructed to try to achieve the highest speed in their strokes
+while maintaining precision. In addition, players should be
+instructed to recover to the centre of the court after each
+forehand and backhand hit.
+
+Test of precision and speed of tennis shots
+
+Warm up
+Block
+I.
+Forehand
+Block
+II.
+Block
+III.
+General warm
+up
+Joint mobility
+Movement
+Jumps
+Serie
+1.
+crosscourt FHs
+Serie
+1.
+crosscourt BHs
+Right side
+Serie
+2.
+crosscourt FHs
+Serie
+2.
+crosscourt BHs
+Serie 1. 10
+wide serves
+Specific warm
+up
+FH
+&
+BH
+shadows
+FH & BH with
+movement
+Serves
+Serie
+3.
+crosscourt FHs
+Serie
+3.
+crosscourt BHs
+Serie 2. 10
+wide serves
+Serie
+4.
+crosscourt FHs
+Serie
+4.
+crosscourt BHs
+Left side
+Serie
+5.
+crosscourt FHs
+Serie
+5.
+crosscourt BHs
+Serie 1. 10
+“T” serves
+Serie
+6.
+crosscourt FHs
+Serie
+6.
+crosscourt BHs
+Serie 2. 10
+“T” serves
+Figure 1. Development protocol of the speed and precision test of
+the forehand, backhand and serve in tennis.
+The points of maximum precision for the shots are: i) forehand
+and backhand shots: intersection of the baseline and the singles
+line; ii) open service: intersection of the singles line and the
+service line; iii) service to zone T: intersection of the line dividing
+the serve boxes and the service line.
+ Instruments
+Speed: A radar with an accuracy of ± 1 km / h is used to record the
+output ball speed.
+Accuracy: During the test, a video camera is used to record the
+bounce of the ball, at least at 240 fps.
+Ball feeding: A ball machine is used to feed the balls to the
+blocks I and II
+with
+the
+same
+speed,
+precision,
+frequency. Before carrying out the test, it is necessary to calibrate
+and verify the correct operation of the machine.
+Instrument placement during the test
+Block I - Forehand and Block II - Backhand
+The radar is placed on a 1-metre high tripod behind the player, at
+a distance of 3 metres from the baseline, 2-metres from the
+singles line and directed towards the direction of the shots. This
+radar placement is used on both the left and right sides of the
+court. A coach or an assistant will be placed besides the radar to
+write down the ball speed of each shot on a log sheet. On the
+other hand, the video camera is placed on a tripod 1 metre from
+the extension of the singles line and 4.5 metres from the baseline.
+Finally, the ball machine is placed on the baseline and 2 metres
+from the singles line. Figure 2 shows the placement of the radar,
+the ball machine, the video camera and the directions of the shots
+during the test.
+
+Ball machine
+Videocamera
+
+Ball fed
+
+Player shot
+Figure 2. Position of the instruments used and the directions of the
+shots in block I - forehand (court below) and block II - backhand
+(court above).
+Block III – Service
+In block III, the radar is placed on a tripod 2 metres high behind
+the player and at a distance 1.5 metres from the centre line and 3
+metres from the baseline. To avoid measurement errors, the radar
+is oriented in the direction of the serves. On the other hand, the
+video camera is placed on a tripod at a height of 2 metres, above
+the baseline. When hitting wide serves, the player stands at the
+intersection of the baseline and singles line. When serving “T”
+serves,
+the
+player
+stands
+on
+the
+central
+service
+line. Figure 3 shows the placement of the radar, the video camera
+and the direction of the serves during the test.
+
+Video camera
+Serve of the player
+Figure 3. Position of the instruments used and the direction of
+serves in block III - service for the right side (court above) and for
+the left side (court below).
+Analysis of the test data
+Once the test was finalised, ball bounces were digitalised using the
+software Kinovea to later export data to a spreadsheet. The shot
+precision was determined by radial error (ER), measuring the
+distance from the ball bounce to the point of maximum
+precision. The formula used was the one proposed by Van den
+Tillar and Ettema (2003), specifically:
+   √
+Finally, the speed and precision data were transferred to a
+spreadsheet for statistical analysis.
+RESULTS
+Table 1 shows the results of ball speed and precision in the serve
+and backhand shots obtained by each player. It should be noted
+that the data related to the forehand will be analysed in future
+research.
+Table 1. Descriptive results of the ball speed and precision
+obtained by each player in the serve and backhand shots.
+Player
+Speed
+(km/h)
+Precision
+(cm)
+Speed
+(km/h)
+Precision
+(cm)
+116.4±6.1
+238.0±161.173.5±5.8
+481.0±229.2
+121.3±10.2
+225.1±66.0 69.2±5.5
+368.7±152.8
+142.5±13.3
+249.1±269.471.7±8.2
+385.1±176.27
+118.5±7.8
+242.4±96.5 71.6±6.9
+449.5±175.4
+
+CONCLUSIONS AND PRACTICAL APPLICATIONS
+The objective of this test was to register the speed and precision
+of the forehand, backhand and serve shots in tennis through a
+simple protocol with inexpensive instruments. These variables are
+determinant in the player's performance (Menayo et al.,
+2008) and their progresson, allowing to determine the suitability
+of the training programs developed. Finally, future studies are
+encouraged to implement this test to find out the speed and
+precision values of the players according to different variables
+such as age, gender or level of play.

@@ -1,0 +1,7 @@
+,rater_1,rater_2,items,verdicts,agreement,kappa,both_decided,opposite_winner
+0,thomas,jc,20,80,0.512,0.232,52,21
+1,thomas,Opus,20,80,0.55,0.281,55,15
+2,thomas,Mistral,20,80,0.512,0.277,41,11
+3,jc,Opus,20,80,0.45,0.115,52,19
+4,jc,Mistral,20,80,0.475,0.213,43,20
+5,Opus,Mistral,20,80,0.525,0.304,44,9

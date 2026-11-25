@@ -1,0 +1,789 @@
+Title: Psychophysiological responses and heart rate variability in competitive tennis: a case study
+Authors: Paulo Figueiredo, Rui Machado, Raquel Barreto
+Year: 2024
+Issue: Vol. 32 No. 94 (2024)
+Article id: 662
+
+ABSTRACT
+This study aimed to monitor an elite tennis athlete during the National Tennis
+Championships
+by
+characterizing
+matches
+physiological,
+psychological,
+and
+observational variables, including heart rate (HR), heart rate variability (HRV), perceived
+exertion (RPE), and assessments at morning rest. Differences were found between the
+four matches' in-game characteristics and HR, and between service and return games'
+in-game characteristics and HR except for game 3. Statistically significant correlations
+were found between the variable’s duration of points and recovery time between points
+for match 2 (r = 0.349, p < 0.01), match 3 (r = 0.230, p < 0.03), and match 4 (r = 0.241, p
+< 0.01). We found a correlation between match duration and effective playing time (r =
+-0.930, p < 0.05); between match duration and RPE (r = 0.916, p < 0.05), and between RPE
+and effective playing time (r = -0.977, p < 0.05). Time spent on the >85% HRmax was 0;
+8; 9.2 and 42.7% for matches 1, 2, 3, and 4. Differences in HR before the start of match
+4 (the final match) and the previous matches were found. In the sitting recovery periods
+of match 4, SNSIndex decreased in the last two periods, unlike HR, which continued to
+increase slightly.
+INTRODUCTION
+Tennis is a multifaceted sport that has evolved from
+focusing primarily on technical ability to requiring complex
+interactions of various physical and metabolic abilities for
+high performance (Baiget et al., 2015; Edel et al., 2019;
+Fernandez-Fernandez et al., 2008; Mendez-Villanueva et
+al., 2010; Ulbricht et al., 2016). Identifying the physiological
+determinants of performance is crucial for athletes,
+involving monitoring training and evaluating performance in
+competition (Kilit et al., 2016). Heart rate (HR), the number
+of beats per minute, reflects the intensity of physical exertion
+and cardiovascular demand, which fluctuate in tennis due to
+the sport’s intermittent nature (Baiget et al., 2015; Kovacs,
+2006). HR responses can vary significantly between service
+and return games, as each situation involves distinct physical
+and mental demands. Heart rate variability (HRV), or the
+variation in time intervals between consecutive heartbeats,
+serves as a marker of autonomic nervous system activity,
+particularly the balance between the sympathetic and
+parasympathetic branches (TaskForce, 1996; Buchheit,
+2014). HRV is widely used to assess an athlete's recovery
+status, training load, and resilience to stress, making it
+valuable for understanding how consecutive matches affect
+autonomic regulation (Stanley et al., 2013; Le Meur et al.,
+2013). Additionally, the rate of perceived exertion (RPE),
+a subjective measure of how intensely an athlete feels they
+are working, complements objective HR data by capturing
+the athlete’s personal experience of exertion, fatigue, and
+psychological strain across matches (Borg, 1998; Foster et
+www.itfcoachingreview.com
+December 2024. 32th Year. Issue 92. 59-66
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v32i94.662
+Psychophysiological responses and heart rate
+variability in competitive tennis: a case study
+Paulo Figueiredo1,2, Rui Machado2 & Raquel Barreto1
+1CIDEFES - Centro de Investigação em Desporto, Educação Física, Exercício e Saúde, Faculty of Physical Education
+and Sport, Universidade Lusófona de Lisboa. 2FPT – Federação Portuguesa de Ténis, Portuguese Tennis Federation.
+Key words: heart rate variability,
+perceived exertion, training load,
+recovery.
+Received: 4 September 2024
+Accepted: 11 November 2024
+Corresponding author: paulo.
+figueiredo@ulusofona.pt
+al., 2001). The Stress Index and Sympathetic Nervous System
+Index (SNSIndex) provide further insight into stress levels and
+sympathetic activation, highlighting the athlete’s autonomic
+response to match intensity and recovery efficacy (AyusoMoreno et al., 2020; Schneider et al., 2018). Together, these
+physiological variables enable a multifaceted assessment of
+an athlete’s condition, allowing for better understanding of
+the activity profile and physiological responses in competition
+that is essential for planning effective training programs and
+has been the basis for preparing competitive players (MendezVillanueva et al., 2010).
+However, most research has been conducted in training
+situations and simulations, which are difficult to replicate the
+real game conditions (Kilit et al., 2016; Mendez-Villanueva
+et al., 2010) both at the level of movement characteristics
+(Hornery et al., 2007) and at the psychophysiological level
+(Fernandez-Fernandez et al., 2015). Another limitation
+is the level of subjects involved, as most studies in tennis
+research, including those by Fernandez-Fernandez et al.
+(2008), Mendez-Villanueva et al. (2007, 2010), and Kilit et al.
+(2016), have focused on regional or national-level athletes
+rather than elite or professional players. This limitation
+restricts the generalizability of findings to the highest levels
+of competition, where physiological and psychophysiological
+demands may differ significantly.
+COACHING & SPORT
+SCIENCE REVIEW
+OBJECTIVES
+This study aimed to investigate an elite tennis athlete during
+the National Tennis Championship:
+1.	Describing the activity patterns, perceived exertion,
+and cardiovascular parameters of HR and HRV in four
+matches.
+2.	Investigating the effects of service and return game
+situations on HR and match characteristics.
+3.	Investigating possible associations between HR and HRV
+and activity patterns during the matches.
+4.	Describing the behavior of HR and HRV at rest and
+before each match.
+5.	Describing the behavior of HR and HRV during rest
+situations, such as court changeovers, and investigating
+the potential influence of scoring situations on SNS
+activity.
+METHODOLOGY
+Participant
+Professional male athlete, 27 years, 22 years practicing Tennis,
+weighing 68.5 Kg, measuring 178 cm, Basal Metabolism (Kcal)
+1996, Fat Mass (%) 4,2, Fat-Free Mass (Kg) 65,5, BMI 21,62,
+ATP rank 300 (59 best).
+HRV and HR Monitoring
+HRV and HR were monitored after the participant woke
+up, before any significant physical activity, in the supine
+position, for 10 minutes following the recommendations of
+the European Society of Cardiology and The North American
+Society of Pacing and Electrophysiology (TaskForce, 1996).
+Five minutes were taken for analysis, starting at minute 4 and
+ending at minute 9.
+Match Conditions
+The tennis matches were held during the National
+Championship at the Estoril Tennis Club, on a clay court
+surface, outdoors, with air temperature during the encounters
+at 25 ± 2ºC. The matches were played at 11:45, 11:15,
+14:10, and 14:50 under the rules of the Portuguese Tennis
+Federation, regulated by the International Tennis Federation
+(ITF).
+Perceived Exertion
+The perceived exertion in each match and training session
+was obtained using Borg's CR-10 scale (Borg, 1998), adapted
+by Foster et al. (2001). The RPE of each match was collected
+30 minutes after its end to ensure it corresponded to the total
+match/training session and not just the final part (Foster et al.,
+2001; Singh et al., 2007).
+Match Analysis
+The matches were fully video recorded using a fixed camera
+positioned in an elevated location. The duration of each
+encounter, each point, rest times, number of beats, and changes
+of direction were analyzed using a protocol developed by
+Smekal et al. (2001), deemed reliable (Fernandez-Fernandez,
+Sanz-Rivas, & Mendez-Villanueva, 2009; Mendez-Villanueva
+et al., 2007). Variables analyzed included:
+•	 Duration of match(s)
+•	 Point duration(s)
+•	 Average duration of point(s)
+•	 Recovery time (s)
+•	 Recovery sitting(s)
+•	 Effective playing time (%)
+•	 Number of points (au)
+•	 Number of total strokes (au)
+•	 Stroke frequency (beat.min‾¹)
+•	 Strokes per point (au)
+•	 Total direction changes (au)
+•	 Direction changes per point (au)
+•	 Recovery between points (au)
+•	 HR and HRV Recording
+HR and HRV during matches were recorded using a
+Polar WearLink® W.I.N.D. sensor and Polar RS800CX™
+data recording clock configured for R-R interval. Data
+synchronization with video recording allowed for detailed
+analysis. HRV and HR were recorded at rest upon awakening
+the previous day and on match days. HRV and HR data were
+analyzed using Polar ProTrainer 5™ software and Kubios HRV
+software (version 3.5).
+Data Analysis
+Data are presented as mean and standard deviation,
+maximum and minimum value. Before using parametric tests,
+the Kolmogorov-Smirnov test was applied to verify data
+normality. A Friedman test examined whether the medians
+of the variables were equal, and pairwise comparisons were
+made in a post hoc study. Effect size (ES) was measured
+using the Kendall (W) estimate. Pearson's product-moment
+correlation coefficient determined relationships between
+match characteristics and physiological responses. A
+probability value of p<0.05 was defined for statistical validity.
+All analyses were performed using SPSS 28 software.
+Results and Discussion
+The average duration of the points was 6.83s, which is in line
+with values previously reported for international players
+on clay courts, 6.7 to 7.5s (Mendez-Villanueva, et al., 2010;
+Hornery et al., 2007; Mendez-Villanueva et al., 2007). The
+same did not occur for the recovery periods between points,
+as we found an average duration of 27.3s, while the values
+reported by those mentioned in the preceding paragraph
+are between 16.2 and 17.2s. A possible explanation for this
+discrepancy could be the strict control of game times under
+ITF rules that studies that seek to simulate real games comply
+with. The same may not happen in a real situation where the
+chair referee responsible for enforcing the time available to
+recover between points may be more flexible. Hornery et al.,
+(2007) for example, when they investigated 14 professional
+tennis athletes in official matches, they found that the average
+recovery time between points in matches on hard courts was
+25.1s.
+Regarding the number of strokes per point, we found average
+values of 5.3 while the values reported in the literature for
+clay encounters are lower: 2.7 (Mendez-Villanueva et al.,
+2007), and 4.5 (Hornery et al., 2007). This higher average
+of 5.3 strokes per point may reflect the significant skill
+difference, with the athlete opting for longer rallies over risky
+shots, confident that consistency would secure points. Match
+context and strategic play choices specific to the observed
+tournament may also have contributed to longer points.
+Table 1
+Average values of the variables Total duration of Points (s), Number
+of strokes (au), Changes in direction (au), Total match recovery (s),
+Recovery standing (s), Total HR (b.min‾¹) , HR seated recovery (b.min‾¹),
+for each match.
+Average
+SD
+Min
+Max
+Total duration of
+Points (s)
+6,83
+0,53
+0,33
+32,6
+Number of strokes
+(au)
+5,30
+0,62
+Changes in direction
+(au)
+0,88
+0,32
+Total match recovery
+(s)
+31,25
+4,0
+26,2
+36,7
+Recovery standing
+(s)
+27,30
+4,0
+23,4
+32,8
+Total HR (b.min‾¹)
+149,1
+15,5
+HR seated recovery
+(b.min‾¹)
+133,8
+7,12
+The average effective playing time (16.98%) that we recorded
+is lower than what has been observed in various studies, in
+which the percentages vary between 19.5% (Martin et al.,
+2011) and 29.3 % (Smekal et al., 2001). Once again, recovery
+time between points may be an explanatory factor.
+Table 2
+Duration of each match (s), stroke frequency (stroke.min‾¹), effective
+playing time (%) and RPE (Cr-10).
+Match
+Match
+Match
+Match
+Avg (SD)
+Duration of
+each match (s)
+3 063
+3936
+2670
+4868
+3634,5
+(846,8)
+Stroke
+frequency
+(stroke.min-¹)
+42,13
+42,88
+44,10
+44,33
+43,36
+(0,90)
+Effective playing
+time (%)
+17,76
+17,07
+17,5
+16,6
+16,98
+(0,55)
+RPE (Cr-10).
+5 (2,16)
+We sought to investigate whether there was any association
+between the duration of matches and actual playing time.
+We found that the increase in the duration of matches
+corresponded to a statistically significant decrease in the
+percentage of effective playing time. One of the possible
+explanations could be the increase in accumulated fatigue (the
+4 matches were played on consecutive days and the athlete
+trained the day before and in the first three days of matches),
+which could influence the athlete to increase recovery
+between points. We found a positive correlation between the
+duration of points and the recovery time between points in
+matches 2, 3, and 4. Gescheit et al., (2015), investigated the
+effects of 4 consecutive days of prolonged tennis matches
+in 7 advanced level tennis players and found a statistically
+significant reduction in effective playing time on days 3 and 4.
+Table 3
+Correlations between the variables Match duration (s), Stroke frequency
+(stroke.min‾¹), Effective playing time (%) and RPE (CR – 10).
+Match
+duration
+(s)
+Stroke
+frequency
+(stroke.
+min‾¹)
+Effective
+playing
+time (%)
+RPE (CR
+– 10)
+Match duration (s)
+-
+Stroke frequency
+(stroke.min‾¹)
+n.s.
+-
+Effective playing
+time (%)
+-0,930*
+n.s.
+-
+RPE (CR – 10)
+0,916*
+n.s.
+-0,977*
+-
+Note: * p < 0,05
+We also found a strong correlation between the RPE of each
+match and their duration (r=0.91; p<0.05), which is in line
+with the investigations by Mendez-Villanueva et al., (2007,
+2010), who found significant correlations (r=0.80 and r=0.47;
+p<0.05), between RPE and the variables number of beats
+and duration of points in tennis players, and refer to RPE as a
+useful technique for regulating the intensity of tennis training.
+In addition to the technical, tactical, and physical aspects,
+the characteristics and physiological returns to the game can
+be influenced by the service game or return game situation
+(Kilit et al., 2016). In this sense, we sought to investigate the
+effects of the service game or return game situation on the
+characteristics of the encounters. Concerning the duration of
+service and return points, we found that except in match 4, in
+all others the duration of return points was longer than that
+of service, and only in match 3, this difference was statistically
+significant but with a Moderate ES.
+For the variable number of beats, we also found that, except
+in match 4, in all others, the number of strokes in the return
+points was higher than in the service, and only in match 3, this
+difference was statistically significant but with a moderate ES.
+For changes in direction, there was a predominance of return
+games with statistically significant values in games 1 and 3.
+Finally, in terms of recovery between points, differences were
+only found during game 2.
+The analysis of the HR during the service and return games
+revealed statistically significant differences in all matches
+which, except for match 3, showed that the HR in the service
+games was higher than the HR in the return games. These data
+are in line with the studies by Kilit et al., (2016b) and Smekal
+et al., (2001), which showed average values for HR in service
+games of 146 and 152 b.min‾¹ and for games return rates 138
+and 150 b.min‾¹ respectively.
+In terms of average values for the four matches, in our study
+we found slightly higher values for service games – 156
+b.min‾¹ and for return games – 154 b.min‾¹. It should be
+noted, however, that the studies mentioned were carried out
+through the simulation of Tennis matches, unlike the present
+study. In match 3, the possible reason for the reversal of this
+trend could be linked to two factors: the duration of the return
+points, which was longer than the duration of the 8s and 4.8s
+service points, and the number of beats in the return games 5
+.9 and in service games 3.6.
+From a physiological point of view, the average HR of
+competitive tennis matches varies between 60 and 80% of
+HRmax and occasionally, during the most intense and long
+points, values of 95% of HRmax can be reached (Baiget et al.,
+2015a; Fernández et al., 2007; Gomes et al., 2011; Hornery et
+al., 2007; Kovacs, 2006; Mendez-Villanueva et al., 2007).
+Considering 3 intensity zones: low - < 70% HRmax, moderate
+– 70-85% HRmax, and high - > 85% HRmax (Baiget et al., 2015;
+R. V. Gomes et al., 2011), and considering the athlete's HRmax
+In this study, according to (Tanaka et al., 2001), we found that
+in the matches analyzed, the HR percentages above 85% were
+respectively 8.0; 39.7; 40.4 and 68.2% in matches 1, 2, 3 and
+4. If we consider that, as the literature states, HR values can
+reach 95% of HRmax during Tennis matches, for the athlete in
+our study this would represent a hypothetical HRmax of 200
+b.min‾¹. If we calculate the time spent above 85% HRmax for
+this value, we obtain 0; 8; 9.2, and 42.7% in matches 1, 2, 3,
+and 4 respectively.
+Table 4
+Intensity zones - % HRmax according to Tanaka et al., (2001).
+Match 1
+Match 2
+Match 3
+Match 4
+HR <70%
+36.7
+6,9
+10,3
+1,7
+HR 70-85%
+55,3
+53,4
+49,3
+30,2
+HR >85%
+8,0
+39,7
+40,4
+68,2
+In either situation, the values achieved, especially in match
+4, are much higher than those found in the only two studies
+with elite athletes. Gomes et al., (2011), investigated two
+professional elite athletes during a simulated match on a hard
+surface and found values of 8% for one player and 3% for
+the other player in the time interval spent in the zone > 85%
+of HRmax. Baiget et al., (2015a) investigated 20 high-level
+athletes during one set of a simulated match on a fast court
+and found a percentage of 3% of time spent in the zone > 85%
+of HRmax. It is necessary to highlight that the average HR in
+these two studies was 132 b.min‾¹ for Gomes et al., (2011) and
+138 b.min‾¹ for Baiget et al., (2015a), while in our study we
+found an average HR of the 4 matches of 149 b.min‾¹.
+These differences in values can eventually be explained by
+the fact that the authors investigated simulated encounters
+versus the real situation in the present study. On the other
+hand, the simulated matches were played on a hard surface
+(greenset), which could influence the intensity of the effort.
+Martin et al., (2011b) investigated 6 elite players in simulated
+matches of 16 games on 2 different surfaces: fast indoor and
+clay. They found differences between clay matches mean
+HR of 154 ± 12 b.min‾¹ and 141 ± 9 b.min‾¹. We only found
+in the literature one study that attempts to approximate the
+conditions of the investigation, (invitational tournament with
+monetary prizes), with the real conditions of the game in
+official competition, and in which the surface is clay, however,
+the professional athletes investigated were feminine. Values
+of 13% were found for the time interval spent in the zone >
+90% of HRmax (Fernandez-Fernandez et al., 2008).
+Table 5
+Training load (au), Subjective perceived exertion (RPE CR-10 – au),
+Training sessions (min) Resting Heart Rate (HRrep-b.min‾¹); Time
+interval between consecutive beats (R-R-ms); Square root of the mean
+of the sum of squares of the differences between adjacent R-R intervals
+( rMSSD-ms); Natural logarithm of the square root of the average of
+the sum of squares of the differences between adjacent R-R intervals
+(Ln rMSSD-au); Parasympathetic Nervous System Index (PNSIndex);
+Sympathetic Nervous System Index (SNSIndex).
+Day 0
+Match
+Match
+Match
+Match
+TL (au)
+RPE (CR-10-au)
+Training sessions
+(min)
+TL (corrected
+to the day of
+collection)
+-
+RPE (corrected
+to the day of
+collection)
+-
+4,5
+5,5
+4,5
+HR (b.min‾¹)
+R-R (ms)
+1463
+1359
+1250
+1438
+rMSSD (ms)
+52,9
+67,3
+69,1
+56,1
+66,9
+PNSIndex (au)
+2,87
+2,81
+2,33
+0,59
+3,07
+SNSIndex (au)
+- 1,97
+- 1,89
+- 1,85
+- 0,54
+- 2,14
+StressIndex (au)
+7,80
+7,20
+5,6
+7,5
+6,1
+The study of the behavior of HRrep and HRV collected in
+the morning upon awakening allowed us to find a positive
+relationship between TL and HRrest and a negative
+relationship between TL and the R-R intervals and PNSIndex.
+Thus, HRrest and the HRV variables that represent PNS
+activity appear to respond to variations in training load.
+These results are consistent with previous studies reporting
+the same type of variations (Buchheit, Chivot, et al., 2010; Le
+Meur et al., 2013; Plews et al., 2012; Plews, Laursen, Kilding,
+et al., 2013; Schneider et al., 2018; Stanley et al., 2015b).
+Considering that there is strong evidence that HRV is
+influenced by stress and can be used objectively to diagnose
+health and psychological stress (Kim et al., 2018; Lapo et al.,
+2022), we sought to understand how each tennis match could
+influence HR and HRV in the moments before its start.
+Table 6
+Values of the variables in the time intervals, entry into the court
+until the start of the warm-up, and sitting period after the warmup, in the 4 matches: Heart Rate (HR-b. min‾¹), Mean time between
+consecutive beats (R-R-ms), Square root of the mean of the sum of
+squares of the differences between adjacent R-R intervals (rMSSD-ms),
+Parasympathetic Nervous System Index (PNSIndex), Nervous System
+Index Sympathetic (SNSIndex) and Stress Index (StressIndex).
+Match
+Match
+Match
+Match
+HR (b.min‾¹)
+104**
+(ES –
+0,42)
+R-R (ms)
+CourtWarm-up
+rMSSD (ms)
+26,0
+24,2
+25,4
+13,2
+PNSIndex (au)
+- 1,76
+- 2,00
+- 1,81
+- 2,55
+SNSIndex (au)
+2,27
+2,54
+1,98
+4,17
+StressIndex
+(au)
+12,7
+12,1
+10,5
+18,8
+HR (b.min‾¹)
+124**
+(ES –
+0,73)
+R-R (ms)
+Sitting
+rMSSD (ms)
+9,70
+6,90
+7,20
+4,60
+PNSIndex (au)
+- 2,65
+- 2,76
+- 2,78
+- 3,43
+SNSIndex (au)
+5,58
+6,33
+6,21
+10,97
+StressIndex
+(au)
+27,3
+31,9
+29,8
+47,9
+** p<0.01
+From the descriptive analysis of the variations in the values of
+the variables, in the 4 defined time intervals, we verified that,
+for all the variables investigated, there is a clear difference
+between the first 3 matches and the 4th match. Thus, from
+the first 3 matches to the 4th match, there was a decrease
+in the values of the variables RMSSD, R-R, and PNSIndex,
+which represent the activity of the SNP, and an increase in
+the values of the variables FC, SNSIndex and StressIndex,
+which represent the activity of the SNS. Regarding HR, we
+found statistically significant differences for the period from
+entering the court until the start of the warm-up, and the
+sitting period after the warm-up, with a moderate and high
+ES, respectively.
+The two other time intervals (start of recording until the
+beginning of the first point and warm-up period) were not
+considered for statistical analysis, because in the first interval,
+there was no total recording of video images, and in the second
+interval, despite the existence of recording of video, a very
+similar duration between matches (355, 393, 364 and 359s)
+and a routine of activity similar and common to all official
+Tennis matches, we consider that the fact that the opponents
+have different levels could in some way influence the behavior
+of the variables. However, we continue to observe the same
+pattern.
+The results we found seem to be in line with recent studies.
+Ayuso-Moreno et al., (2020), investigated HRV and cognitive
+anxiety in 14 female soccer players (age 23.8 ± 4.9), in two
+microcycles that corresponded to two different games: one
+of high demand and the other small requirement. They found
+significant differences between the two microcycles in which
+there was a reduction in HRV and an increase in cognitive
+anxiety in the highly demanding game microcycle. Recently,
+Fuentes-García et al., (2022), investigated HRV in junior
+tennis players at two moments: 24h and 20 min before a
+competition. They found significant reductions in the variables
+that represent SNP activity and a significant increase in HR.
+On the other hand, athletes in individual sports are more
+likely to be influenced by competitive anxiety (Correia &
+Rosado, 2019), as the responsibility for the success of their
+performance depends solely on them (Koronas et al., 2020).
+In our study, not only does the level of the opponents increase
+with each match, but as it is a National Championship, it seems
+reasonable to expect some increase in competitive anxiety in
+the final.
+The investigation of HRV during tennis matches poses some
+important problems in capturing the signal and interpreting
+its variables. During exercise, not only is the ANS the main
+determinant of HRV, but also its intensity (Buchheit, Chivot,
+et al., 2010b; Sandercock & Brodie, 2006). On the other hand,
+during exercise, heartbeat recordings contain noise (e.g.,
+ectopic beats or lost recordings due to sensor movement)
+(Buchheit, 2014a). In this sense and given the intermittent
+characteristics and intensity peaks of the Tennis modality, we
+decided to investigate the values of the HR and HRV variables
+only during the moments of changing the court, when the
+athlete sits down.
+As previously mentioned, the minimum period in which the
+athlete remained seated throughout the 8 periods was 45s.
+The software (Kubios, 3.3) used in this investigation allows
+analysis for minimum periods of 30s. Esco & Flatt, (2014),
+investigated HRV using the Ln rMSSD index in 23 university
+athletes before and after exercising in a maximum effort
+protocol (treadmill), defining collection periods of 10s, 30s
+and 60s. They found acceptable validity levels for the 60s
+period, and a gradual decrease in the validity of measurements
+from 60s to 10s, however this decrease was smaller up to 30s
+with an ES considered trivial. In a recent study, Araújo et al.,
+(2020), revealed a high test-retest reproducibility for 30s
+measurements using the Ln SDNN and Ln rMSSD parameters
+after a maximum effort protocol in an ergometer cycle. Hung
+et al., (2020), also found very high levels of correlations
+between Ln SDNN and Ln rMSSD for measurements after
+1min of recovery after an intermittent Yo-Yo test, highlighting
+that these correlations were manifested even at the beginning
+of recovery.
+From the analysis of the sitting recovery periods in the 4
+matches (table 13 and figure 13), we found that the statistically
+significant differences in HR seem to highlight the different
+characteristics of the 4 matches. This difference is even more
+evident from the 1st match to the others, namely for the 4th
+match (Kendall's W 0.73). We also found the same pattern for
+the other variables analyzed. When we look at matches 2, 3 and
+4, we also find variations in the variables, which are, however,
+less evident, from match 3 to match 4. Some considerations
+may be relevant: The level of the opponent in the 1st match
+(experience and national ranking, 66) was lower than that of
+the opponents in matches 2 and 3 (national rankings, 4 and
+1 respectively) and much lower than the opponent in match
+4 (ranking ATP-560); The athlete in our study, in addition to
+the matches held, carried out training sessions on the days of
+the matches which could lead to some accumulated fatigue, it
+should be noted that the highest HRrep value it was exactly
+the morning of the 3rd match and the highest TL value the
+day before; finally, as previously mentioned, and investigated
+by Gescheit et al., (2015), the effect of 4 consecutive days of
+matches can lead to an increase in accumulated fatigue.
+The descriptive study of the 8 sitting recovery periods
+allowed us to observe the behavior of the various variables
+throughout the match 4. The average HR value showed a slight
+and gradual increase. We also observed a slight upward trend
+for HR for the entire encounter, but with a trivial effect (r=
+0.2), which would be in line with Coutts, (2010) and Baiget et
+al., (2015b), which suggests the possibility of cardiovascular
+deviation occurring during a tennis match. Another factor
+contributing to this slight increase would be the loss of fluids
+and corresponding dehydration (Bergeron, 2014; Hornery et
+al., 2007).
+CONCLUSIONS
+This case study documented physiological, psychological and
+match-characteristic returns during the Absolute National
+Tennis Championship of a professional tennis player. Data
+analysis allows us to present the following conclusions:
+•	 Differences were found between the 4 matches in the
+variables of game characteristics and HR.
+•	 Differences were found between service games and
+return games in game characteristics and FC except for
+game 3.
+•	 There are associations between the variable's duration of
+points and recovery time between points, and between
+RPE and duration of encounters.
+•	 In measurements at rest upon awakening, associations
+were found between TL and HRrep and R-R, and between
+TL and PNSIndex.
+•	 Before the start of the matches, differences were found
+in HR between the final match and the 3 previous ones.
+•	 In the sitting recovery periods, differences were found
+between matches.
+•	 During match 4, the athlete remained in the high intensity
+zone a considerable percentage of the time.
+•	 Throughout match 4, the score may have had some
+influence on the SNS's activity.
+PRACTICAL IMPLICATIONS
+This study offers several insights for enhancing training and
+recovery protocols in elite tennis. The findings highlight that
+managing recovery between matches is crucial, especially in
+tournaments with consecutive play. By monitoring HR and
+HRV, coaches can better assess the effects of accumulated
+fatigue on autonomic nervous system activity, guiding
+adjustments to training loads and rest periods. The influence of
+scoring situations on SNS activity also suggests incorporating
+psychological resilience and stress management techniques,
+such as pre-point breathing exercises, to help athletes
+maintain physiological control during high-stakes moments.
+Additionally, training regimens could be tailored to address
+the specific demands of high-intensity points versus extended
+rallies, with a focus on endurance and recovery strategies that
+mirror match conditions. Integrating individualized recovery
+practices, such as active rest sessions, hydration protocols,
+and sleep optimization, could further improve an athlete’s
+ability to sustain performance across multiple matches.
+By applying these insights, coaches can support athletes
+in achieving consistent, high-level performance under
+competitive conditions.
+Figure 1. Description of the variations in the 8 sitting periods of the 4th
+match, when we project the result of the match with the sitting period,
+of the variables: Heart Rate (b.min‾¹), square root of the mean of the
+sum of the squares of the differences between adjacent R-R intervals (
+ln rMSSD-ms) and Sympathetic Nervous System Index (SNSIndex-au).
+The HRV indices related to PNS activity showed a slight
+decrease until moment 4 and then remained relatively stable.
+The same can be said for SNSIndex, which represents SNS
+activity, but not for the SNSIndex. According to Stanley et al.,
+(2013), after the end of exercise, HR and HRV demonstrate a
+recovery that is time-dependent and rapid in the first minutes
+(Kaikkonen et al., 2008; Kaikkonen et al., 2007) , but when
+exercise is of high intensity, there is a slower recovery of
+HR and HRV (Al Haddad et al., 2011; Buchheit et al., 2009;
+Kaikkonen et al., 2008). Therefore, according to Michael et al.,
+(2017), recovery after high-intensity exercise in highly trained
+athletes results in a delay in the reestablishment of HRV
+values, which is dependent on the intensity of the exercise.
+For the SNSIndex index, we did not find the same variation
+pattern. Interestingly, when we project the HR and SNSIndex
+values with the result of the match at the time of recovery
+while seated (figure 1), we see that this index seems to
+respond to the increasing difficulty of the match and, after
+winning the 1st set and with the progress of the 2nd This index
+dropped considerably and at the end was showing a value
+relatively close to that at the beginning of the match. It seems
+reasonable to speculate that when the athlete managed to
+overcome the greatest difficulties and eventually realized
+that the chances of winning the match were very strong, this
+began to be reflected in this index, while at a physiological
+level, the needs did not ease.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they have no conflict of interest and
+that they did not receive any funding to conduct the research.
+ETHICAL CONSIDERATIONS
+This study was approved by the Ethics Review Committee
+of Faculty of Physical Education and Sport, Universidade
+Lusófona de Lisboa. The participants were provided with
+written information regarding the purpose and content of the
+study and signed a consent form to authorize the recording
+of video footage and to provide their perception of effort
+in each evaluated situation. Non-invasive physiological
+measurements will also be collected. Biographical data
+regarding their history in the sport will be gathered as well.

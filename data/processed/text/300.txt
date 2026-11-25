@@ -1,0 +1,241 @@
+Title: The ”Great Combat C”
+Authors: Natasha Bykanova-Yudanov
+Year: 2017
+Issue: Vol. 25 No. 73 (2017)
+Article id: 300
+
+www.itfcoachingreview.com
+December 2017. 25th Year. Issue 73. 16-18
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.300
+
+1616
+The ”Great Combat C”
+Natasha Bykanova-Yudanov
+
+ABSTRACT
+
+Modern technology presents lots of useful statistics about a tennis match. It
+helps us to dig deeper into its “fabric”, to understand tactical patterns, to detect
+underlying currents and simply follow the match flow being a better equipped
+spectator. We know where Nadal likes to go with his forehand, we know what
+serve Federer prefers to use on grass, we can foresee shot selection of Serena
+Williams from the mid-court and we can detect the preferable height of the
+ball for Kristina Mladenovic. Match statistics cover practically every bit of
+technical and tactical mastery of the contenders. Much could be understood
+about their current physical form. However, the psychological bit remains
+elusive. This article offers a new look at the tennis match through the
+introduction of a psychological measurement - the “Combat C” or “Combat
+Coefficient” - an easy and straightforward measure of contenders’ competitive
+effort.
+
+Key words: match analysis,
+deciding points, competitive
+effort
+Received: 20 Jan 2017
+Acepted: 30 May 2017
+Corresponding  author:
+Natasha Bykanova-Yudanov.
+Email: natby2003@gmail.com
+
+INTRODUCTION
+While tennis enjoys a comfortable and well-established
+position among the world’s most prestigious sports, there’s
+always room for improvement in terms of view value. For the
+last couple of decades, tennis researchers have been analysing
+the progress of the game in comparison with other
+professional sports – and tireless efforts are being made to fill
+the stands and raise the TV ratings. Lots of valuable data is
+collected. And, being as diverse a game as tennis is, there can
+never be too much of it for a tennis nut. What we also want are
+tennis statistics that can be easily understood and followed by
+an outsider, someone who might never be able to tell a
+forehand from a smash, but who nevertheless can enjoy a
+gripping duel.
+An uncompromising contest of two well-matched contenders
+is after all, the game’s major attraction. Tennis popularity
+peaked during the decade of the Borg-Connors-McEnroe
+rivalry. These were wellmatched warriors with an insatiable
+desire to conquer all – never happy with second best. Their
+rivalries personified the essence of competitive sport – the
+contest of wills. Can this be measured? And secondly: could it
+be put to good use?.
+
+METHODS AND RESULTS
+To evaluate the intensity of the match we usually rely on
+statistics such as: score line and length of the match.
+For example, 7:6, 6:7, 7:6 looks more like a fierce contest of
+equal players than 6:0 6:0. In reality though, a score line with
+tie-breaks on the ATP tour could hide easy games on serve and
+a Russian roulette in the tie-break. View value? – Not much
+higher than a “bagel set”. On the other hand, 6:0 can be equally
+deceptive, as every game could be fiercely contested and
+decided only after several “deuces”.
+Noting the length of a match implies the assumption that the
+longer battle goes, the tougher the resistance, a.k.a. the
+intensity. In reality, long points are no guarantee of battle
+ferocity. Just think of a contest of two clay court specialists, who
+often produce long matches even when the level of the players
+is quite different: the ball might always go over the net 20-odd
+times, but the rallies are won by one and the same player.
+Match time doesn’t filter time-dragging (up to 37sec between
+points), medicals -- which happen more and more often -- or
+toilet breaks. All these real or fake necessities can prolong a
+match by as much as half-an-hour. And that represents on
+average one third of a best-of-three sets match.
+
+The author suggests that the closest to real substance of the
+match is not the length of the match and not the score line, but
+the amount of “deciding” or “advantage points” in it. We know
+that to win a game one needs to win at least 4 points and to
+get to “deuce” each player needs to win at least three.
+By dividing the total amount of points played in the match on
+the total amount of games played in the match, we get the
+measure of competitive effort or the “Combat coefficient” of
+that match. Here, any amount over 6 will indicate a tough
+battle, whereas anything lower than 6 suggests a pretty onesided affair.
+Some examples from Roland Garros 2017:
+Male draw:
+1. Wawrinka - Murray 7:6 3:6 7:5 6:7 1:6. CC=6,28 (339:54)
+2. Raonic – Carreño Busta 6:4 6:7 7:6 4:6 6:8. CC= 6,37
+(382:60)
+3. Edmund – Anderson 7:6 6:7 7:5 1:6 6:4. CC= 6,0 (328:55)
+4. Pouille – Ramos Vinolas 2:6 6:3 7:5 2:6 1:6. CC = 7,0
+(307:44)
+5. Ferrer - Lopez 5:7 6:3 5:7 6:4 4:6. CC = 6,5 (345:53) Most
+fiercely contested set is the set with the lowest scoreline
+6:3. CC=7,55 (68:9).
+Female draw:
+1. Ostapenko – Bacsinszky 7:6 3:6 6:3. CC = 6,8 (211:31)
+
+2. Halep - Pliskova 6:4 3:6 6:3. CC = 6,93 (194:28 )
+
+3. Svitolina - Martic 4:6 6:3 7:5. CC= 5.77 (179:31) The score
+line indicates a gripping match, while the CC tells a more
+sober story. It was in fact a mediocre match plagued by 75
+unforced errors.
+
+4. Bacsinszky – Mladenovic 6:4 6:4. CC= 7.25 (145:20)
+1h45min
+
+5. Kuznetsova - McHale 7:5 6:4. CC= 7.5 (165:22). In the
+second set 82 points were played, thus CC reached a
+staggering 8,2! But the first set took longer time.
+
+DISCUSSION
+The “Combat Coefficient” is a rating which is not affected by
+format (best of three- or best of five-setter) or by sex, as it
+eliminates the advantage of physical strength.
+
+Examples from Roland Garros 2017 might give the impression
+that females produce a better battle. It should be noted that
+comparing both sexes was not the goal of this research, and
+more data is needed to confirm or reject this assumption.
+However Deaner (2016) in his article “Sex differences in sports
+interest and motivation: An evolutionary perspective”
+mentions one study which, in contrast to all others, revealed a
+greater competitiveness of females in comparison with their
+male counterparts. It was a study of professional tennis players.
+
+At the same time, the lower CC in male matches could simply
+indicate the greater role of the serve.
+
+A consistently low CC in lost matches can indicate flaws in a
+player’s tournament planning, as one should seek events more
+suitable to his level.
+
+While the “Combat coefficient” could serve as a match
+evaluation tool, it could also lead to the introduction of a
+player’s personal CC, which might serve as an indicator of his
+or her current form and effort: CC for winning matches and CC
+for losing matches.
+
+This could be done as follows: After a match, both players are
+awarded the same CC, but for a winner it goes to the “winning”
+column and for the loser to the “losing” column. An average in
+the “winning column” would be a player’s personal winning CC
+and an average in the “losing column” would be a player’s
+losing CC.
+
+Consistently low personal losing CC could help to encourage a
+player to exert better effort, or to adjust to a tournament
+schedule and seek events more suitable to his/her level.
+
+To eliminate the tie-break’s influence on CC, (where one needs
+to win at least 7 points and not 4 as in an ordinary game), a
+suggestion could be to discount tie-breaks completely,
+removing them from both the game and the point tally in
+calculations.
+
+CONCLUSIONS
+The introduced “Combat coefficient” can serve as a simple and
+adequate tool in match analysis, which is easy to understand
+and follow. It tells us a bit more about the competitive level of
+the game, player’s profile and might help coaches indicate the
+necessity to improve mental toughness of their pupils.
+
+REFERENCES:
+Crespo, M., & Reid, M. M. (2007). Motivation in tennis. British Journal of
+Sports
+Medicine,
+41(11),
+769–772.
+https://doi.org/10.1136/bjsm.2007.036285
+
+Deaner, R. O., Balish, S. M., & Lombardo, M. P. (2016). Sex differences in
+sports interest and motivation: An evolutionary perspective.
+Evolutionary
+Behavioral
+Sciences,
+10(2),
+73-97.
+https://doi.org/10.1037/ebs0000049
+
+Dienstbier, R. A. (1991). Behavioral correlates of sympathoadrenal
+reactivity: The toughness model. Medicine & Science in Sports &
+Exercise, 23(7), 846-852. https://doi.org/10.1249/00005768199107000-00013
+
+Fernandez, J., Mendez-Villanueva, A., & Pluim, B. M. (2006). Intensity of
+tennis match play. British Journal of Sports Medicine, 40(5), 387–
+391. https://doi.org/10.1136/bjsm.2005.023168
+
+Houston, J. M., Carter, D., & Smither, R. D. (1997). Competitiveness in
+elite professional athletes. Perceptual and Motor Skills, 84(3),
+1447-1454. https://doi.org/10.2466/pms.1997.84.3c.1447
+
+Kilduff, G. J., Elfenbein, H. A., & Staw, B. M. (2010). The psychology of
+rivalry: A relationally dependent analysis of competition.
+Academy
+of
+Management
+Journal,
+53(5),
+943-969.
+https://doi.org/10.5465/amj.2010.54533171
+
+Kilduff, G. J. (2014). Driven to win: Rivalry, motivation, and performance.
+Social Psychological and Personality Science, 5(8), 944-952.
+https://doi.org/10.1177/1948550614539770
+
+Loehr, J. E. (1994). The new toughness training for sports: Mental,
+emotional, and physical conditioning from one of the world’s
+premier sports psychologists. New York: Penguin Putnam.
+
+Weinberg, R. S., Richardson, P. A., & Jackson, A. (1981). Effect of situation
+criticality on tennis performance of males and females.
+International Journal of Sport Psychology, 12(4), 253-259.
+
+Copyright (c) 2017 Natasha Bykanova-Yudanov
+
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any
+medium or format – and Adapt the content - remix, transform, and
+build upon the material for any purpose, even commercially under
+the following terms:
+
+Attribution: You must give appropriate credit, provide a link to
+the license, and indicate if changes were made. You may do so in
+any reasonable manner, but not in any way that suggests the
+licensor endorses you or your use.
+
+CC BY 4.0 license terms summary       CC BY 4.0 license terms

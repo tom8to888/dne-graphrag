@@ -1,0 +1,218 @@
+Title: Comparing the traditional and constraints-led approaches to skill acquisition in tennis
+Authors: Luke Regan
+Year: 2021
+Issue: Vol. 29 No. 84 (2021)
+Article id: 205
+
+www.itfcoachingreview.com
+August 2021. 29th Year. Issue 84. 27-29.
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i84.205
+COACHING & SPORT
+SCIENCE REVIEW
+INTRODUCTION
+While  many  schools  of  thought  exist  on  the  most  effective
+methods  by  which  one  can  teach  motor  skills,  they  can
+be  broadly  divided  into  two  categories:  ‘information
+processing’  (IP)  approaches  and  ‘ecological’  approaches,  the
+foremost  of  which  is  the  constraints-led  approach  (CLA).
+IP  refers  to  what  could  be  termed  the  ‘traditional’  method
+of  direct,  explicit  instruction  based  on  expert  knowledge
+of  ‘correct’  technique  or  tactics,  honed  through  a  high
+volume  of  repetition,  for instance  as  recommended  by  Fitts
+&  Posner’s  (1979)  cognitive-associative-autonomous  stages
+model  of  skill  acquisition.  The  CLA  is   an  approach  to  skill
+acquisition  that  views  skill  as  evolving  adaptation  to  a
+dynamic environment,  harnessing  constraints  around  which
+the  athlete  is  encouraged  to  self-organise.  The  ensuing
+technical  and  tactical  solutions  arrived  at  then  constitute
+a  unique  fit  between  the  current  environment  and  the
+individual  qualities  or  ‘intrinsic dynamics’  of  the  athlete.
+DISCUSSION
+Self-Organisation
+The  IP  model  of  learning  is  based  on  a  dualist  assumption
+of  mind  and  body (Woods, McKeown,  Rothwell,  Araújo,
+Robertson  and  Davids,  2020).  It  can  be  likened  to  a
+computational  model  of  behaviour  whereby  motor
+programmes  are  created  and  stored  in  the  brain,  then
+later  called  upon  and  executed  as  necessary  e.g.  learning
+the  ideal  technique  for  a  forehand  (through  interpretation
+of  demonstrations,  verbal  instructions  and  corrections
+accompanied  by  repetition),  then  later  performing  it  in
+competition  as  required.  This  approach  has  been  criticised
+for  its  “organismic  asymmetry”  in  neglecting  the  performerenvironment  relationship  (Dunwoody,  2007)  and  the  unique
+importance   of  the  ever-changing  and  dynamic  nature  of
+an  athlete’s  surroundings  in  shaping  their  motor  abilities.
+In  contrast,  rather  than  assuming  the  control  of  a  central
+executive  in  the  brain  issuing  orders  and  delegating
+ABSTRACT
+The  following  article  aims to  highlight  the  differences  between  a  traditional  or
+‘information  processing’  approach  to  skill  acquisition  and  the  ‘constraints-led  approach’.
+The  terms  are  defined  then  various  aspects  of  each  method  are  considered  in  the
+context  of tennis  coaching.  Practical  examples   of  using  the  constraints-led  approach
+are  then  given.
+Comparing  the  traditional  and  constraints-led
+approaches  to  skill  acquisition in  tennis
+Luke Regan
+The Sports Think Thank, United Kingdom.
+Key words: skill acquisition,
+constraints, self-organisation
+Received: 19 June 2021
+Accepted: 10 July 2021
+Corresponding author: Luke
+Regan. Email: lwgregan@gmail.
+com
+movement  instructions  to  the  limbs  and  musculature
+according  to  a  pre-established  programme,  the  CLA  consists
+of  treating  the  performer  as  a  complex  adaptive  system
+and  allowing  her  to  self-organise  around  the  environment
+in  the  pursuit  of  a  task  goal  and  a  functional  solution.
+Employing  the  CLA  involves  the  manipulation  of  the
+environment  and  the  assumption  that,  as  each  interaction
+between  the  athlete-system  and  the  environment  is
+unique,  there  is  no  ‘optimal’  technique,  just  individual,  decentralised   regulation  of  system  components  in  order  to
+satisfy  the  demands  of  each  task  (Chow,  Davids,  Button,
+Renshaw,  Shuttleworth,  &  Uehara,  2009).
+Constraints
+The  CLA  stems  significantly  from  the  work  of  Newell
+(1986)  and  his  definition  of  “constraints”.  The  term  refers  to
+the  boundaries  for  action  that  arise  from  the  interactions
+between  the  athlete’s  own  physical  and  mental  state
+(individual  constraints  e.g.  height,  mood,  level  of  fatigue);
+environmental  constraints  (e.g.  humidity,  gravity,  court
+surface);  and  task  constraints  (e.g.  the  equipment  being
+used,  the  rules  of  the  game,  the  dimensions  of  the  court).
+Figure 1. Example table of potential constraints available to a tennis
+coach.
+The  focus  of  the  CLA  is  to  manipulate  these   boundaries
+(most  commonly  those  in  the  category  of  ‘task’  constraints),
+in  order  to  guide  the  intention  and  attention  of  the  athlete
+in  attuning  to  useful  information  in  the  environment,  as
+they  search  for  a  functional  movement  solution.
+Repetition without repetition
+Central  to  this  process  is  the  knowledge  that  in  the  dynamic
+environment  of  competitive  sport  no  two  movements  are
+ever  exactly  the  same,  no  shot  or  footwork  pattern  is
+ever  precisely  replicated.  This  knowledge  necessitates  the
+constant  presence  of  variability  in  the  practice  environment,
+so  that  the  athlete  can  develop  versatile  and  adaptive
+movements,  robust  and  flexible  enough  to  satisfy  a  wide
+variety  of  movement  problems.  This  is  in  contrast  the  IP
+aspiration  of  a  ‘champion’  model  for  a  skill,  where  the  goal
+is  to  achieve  a  movement  with  as  little  deviation  from  the
+optimal  technique  as  possible.  Hence  the  practice  mantra
+of  the  constraints-based  coach  or  practitioner;  “repetition
+without  repetition”.
+Instructions  and  feedback
+In  the  CLA therefore,  rather  than  prioritising  explicit
+information  on  idealised  movements,  verbal  feedback  from
+the  coach  supports  the  search  for  movement  solutions  by
+guiding  intention  and  attention  such  that  the  athlete  can
+more  readily  attune  to  the  relevant  information  in  the
+EXAMPLE EXERCISES
+In  this  section,  three  examples  are  provided  outlining
+possible  CLA  strategies  to  address  some  common  issues
+encountered  in  tennis  coaching.  The  examples  below  are  to
+be  juxtaposed  with  the  typical  major  elements  found  in  a
+traditional  skill acquisition approach  where  the  coach  would
+look  to identify  technical  errors  then  correct  them  with  a
+verbal  description  of  the  desired  technique  followed  by  a
+demonstration  from  the  coach,  or  an  elite-level  exemplar
+like  a  video  of  a  professional  player.  This  could  be  followed
+by  a  progression  of  hand-feeding,  basket-feeding  and  rallyfeeding  accompanied  by  a  high  volume  of  instructions,
+corrections  and  feedback  on  performance.
+Groundstroke  racket-speed
+Goal:  To  increase  the  separation  angle  on  a  forehand
+groundstroke
+Player  level:  Novice.  Constraints  used  (and  category):
+•	 Cord  or  ribbon to  bind  player’s  hands  (individual)
+•	 Instruction  (for a  basket-feed)  to  keep  toes  pointed
+forward  at  all  times;  “imagine  you’re  buried  up  to
+your  hips  in  concrete”  (task)
+With  a  player  who  struggles  to  generate  groundstroke
+racket-speed,  a  coach  may  decide  to  try  and  facilitate
+concentric  rotation  and  a  greater separation  angle  between
+hips  and  shoulders.  Without  resorting  to  explicit  instruction,
+a  constraints-led  approach  may   employ  constraints  to
+prevent  the  player’s  arms  from  moving  independently
+of  each  other  and  the  upper  body,  thereby  encouraging
+shoulder  rotation.  Simultaneously  the  instruction  to  keep
+the  toes  pointing  forwards  or  play  open-stance  locks  out
+the  hips  and  invites  the  solution  of  turning  the  shoulders
+past  the  hips  in  order  to  move  the  racket.  Instructions
+and  feedback  would  be  used  to  maintain  the  intention  of
+creating  racket-speed (“hit  hard!”)  and  draw  the  player’s
+attention  to  prominent  kinaesthetic  or  auditory  information
+in  the  environment,  for  instance  the  feeling  of  the  upper
+and  lower  body  moving  independently,  or  the  sound  of  the
+ball  coming  off  the  strings.
+Serving and volleying
+Goal:  To  improve  a  player’s  ability  to  serve  and  volley  in
+singles.
+Player  level:  Intermediate.  Constraints used:
+•	 A fast court, e.g.  grass/artificial  grass  (environmental)
+•	 No  bounces  allowed  on  the  server’s  side  (task)
+•	 Court shortened  and  narrowed  as  necessary  to
+create  the  optimal  level  of  challenge  for  the  server
+(task)
+Used  in  a  competitive  game  situation,  these  constraints
+exemplify  how  an  environment  might  be  designed  in  which
+a  player  could  explore  solutions  to  the  problem  of  winning
+from  the  serve  without  letting  the  ball  bounce  on  their
+side  of  the court.  Although  the  coach  would  not  volunteer
+explicit  technical  solutions,  she  would  make  herself  available
+to  offer  help  when  requested  and  to  pose  questions  that
+direct  the  attention  of  the  player  to  relevant  sources  of
+information  in  the  environment.
+Second  serve
+Goal:  To  reduce  the  number  of  double-faults  in  the  final
+set  of  matches
+Player  level:  Advanced.  Constraints  used:
+•	 Deliberately  fatiguing  the  player  with  shuttle  runs  or
+a  bleep  test (individual)
+•	 Second  serves  only  rule  for  the  server  in  a  practice
+set  (task)
+A  tendency  to  double-fault  in  the  final  set  of  a  match
+could  of  course  be  due  to  a  number  of  reasons.  Part
+of  a  constraints-based  solution  might  be  to  create  a
+representative  environment  that  allows  the  player  to
+explore  solutions  to  serving  when  fatigued.  As  a  player’s
+individual  constraints  can  change  during  the  course
+of  a  match  (dehydration,  increase  of  lactic  acid,  loss  of
+concentration)  she  is  effectively  playing  with  a  different
+body  to  that  with  which  the  match  was  started,  therefore  a
+different  second-serve  solution  is  required.  Such a  solution
+can  be  arrived  at  without  direct  prescription  from  a coach,
+just  through  giving  the  player  a  high  volume  of  chances
+to  adapt  their  serve  by  self-organising  in  a  constrained
+CONCLUSION
+Manipulating  constraints  is  not  new  to  coaching  per  se,
+coaches  have  always  utilised  tasks  and  environments  in
+ostensibly  similar  ways.  But  in  order  to  maximise  their
+effectiveness,  the  CLA  and  its  theoretical  foundations
+provide  a  basis  for  using  constraints  in  a  way  that  assumes
+a  model  of  behaviour  profoundly  different  from  the
+traditional,  cognitive  approach  of  transforming  ‘one  size
+fits  all’  technical  information  into  procedural  knowledge.
+The  use  of  constraints  to  impact  behaviour  change  will  not
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2021 Luke Regan
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms
+be  optimal  if  deployed  as  part  of  a  prescriptive  coaching
+style.  The  CLA  is  the  use  of  interacting  constraints  to
+facilitate  the  emergence  of  functional  behaviour  through
+self-organisation,  not   to  simply  provide  opportunities  for
+a  player  to  execute  a  pre-established  technique  dictated
+by  a  coach.
+Ongoing  developments  in  psychological  theory  are
+continuously  informing  best  practice  in  skill  acquisition
+and,  far  from  being  locked  into  the  assumption  that  skills
+can  only  be coached  through  the  prescriptive  transmission
+of  expert  information,  coaches  are  encouraged  to  explore
+more  ecological  and  implicit  approaches  to  developing  skill
+in  tennis  players.

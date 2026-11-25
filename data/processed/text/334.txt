@@ -1,0 +1,585 @@
+Title: A practical example of strengthening governance in Japanese College Tennis Clubs
+Authors: Shion Hotta, Mamoru Yamamoto
+Year: 2022
+Issue: Vol. 30 No. 87 (2022)
+Article id: 334
+
+ABSTRACT
+In 2019, the Japan Sports Agency formulated the Sports Organizations Governance
+Code, a code not directly applicable to college sports clubs. However, as seen in the
+scandal of the American football club of Nihon University, it is necessary to strengthen
+the governance of all college sports clubs, including tennis. Therefore, we conducted a
+governance survey at 268 Japanese college tennis clubs in 2021. The representatives of
+each college were asked to report their demographics and respond to the assessment
+measures regarding the governance of college tennis clubs. A simple tabulation and
+cross-analysis were conducted, and the Chi-square test or Fisher’s exact test were used
+at a significance level of five percent. Based on the results of the survey, we developed
+a “Governance Self-Assessment Sheet” for college tennis clubs. In this study, we
+introduce the outline of the results of the survey by comparing the governance of sports
+organizations in different countries. Moreover, a practical case study of Keio University
+in Japan, which is the world’s first university to use the Sheet, will be discussed based on
+the results of a new survey conducted in 2022.
+INTRODUCTION
+In recent years, the Japanese sports world has had numerous
+opportunities to be excited by glamorous topics related to
+mega sporting events, such as the Rugby World Cup and the
+Olympic Games (Kawabata, 2019). Conversely, there have
+been a series of scandals in sports organizations such as the
+Japan Boxing Federation and the American Football Club of
+Nihon University (Matsuyama, 2019).
+Therefore, in 2019, the Japan Sports Agency formulated
+the Sports Organizations Governance Code (SGC) (Japan
+Sports Agency, 2019a) to enhance the value of sports through
+preventing the occurrence of scandals that damage it.
+However, the SGC does not directly apply to college sports
+clubs, but only to “organizations of which the main purpose is
+to carry out business for the promotion of sport” as referred
+to in Article 2, Section 2 of the Basic Act on Sports (MEXT,
+2011). Other countries such as England (Sport England, 2020)
+and Canada (Canadian Olympic Committee, 2021) also have
+governance codes for sports organizations, but they are
+similar in that they do not directly apply to college sports
+clubs.
+The essence of the SGC is to enhance the value of sports
+through the prevention of misconduct (Japan Sports Agency,
+2019b), and not to limit the number of applicable sports
+organizations. Thus, it is desirable for college sports clubs to
+strengthen their governance with reference to the SGC as
+well.
+However, there has been little academic research on the
+governance of college sports clubs. In fact, excluding James
+www.itfcoachingreview.com
+August 2022. 30th Year. Issue 87. 18-24
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v30i87.334
+A practical example of strengthening governance
+in Japanese college tennis clubs
+Shion Hottaa   & Mamoru Yamamotob
+aKeio University, Japan. bTokyo Bar Association, Japan.
+Key words: college tennis,
+governance code, governance selfassessment sheet.
+Received: 1 June 2022
+Accepted: 4 July 2022
+Corresponding author: Shion
+Hotta, Faculty of Law, Keio
+University, Japan. Email: shionhotta@keio.jp
+and Elizabeth (2019), who examine policy change in college
+sports, and Carnegie and Tuck (2010), who examine the
+governance of college organizations, most of the previous
+studies focus on governance in organizations larger than
+university athletic departments.
+Therefore, we conducted a governance survey of Japanese
+college tennis clubs in 2021 (Hotta, 2022). Based on the
+results, we developed a “Governance Self-Assessment Sheet”
+for college tennis clubs in cooperation with Japanese sports
+lawyers and the All Japan Inter-Collegiate Tennis Federation.
+In this study, we introduce the outline of the results of the
+survey by comparing the governance of sports organizations
+in different countries. Additionally, a practical case study of
+Keio University in Japan, the world’s first university to use the
+“Governance Self-Assessment Sheet,” will be discussed based
+COACHING & SPORT
+SCIENCE REVIEW
+on the results of a new survey conducted in 2022 among
+the members of the Kanto Polytechnic University Tennis
+Federation.
+PROCEDURE
+Representatives of 268 college tennis clubs registered in
+the All Japan Inter-Collegiate Tennis Federation were asked
+to respond to the questionnaire. There were 110 responses
+(41.0%), all of which (100.0%) were valid. The survey period
+was from June 26, 2021 to July 28, 2021. The questionnaire
+consisted of demographics items, and the Assessment
+Measures Regarding Governance of College Tennis Teams
+(AG-CT scale). All items were answered online using the
+survey form of the Keio University Authentication System.
+The survey forms are protected by SSL/TLS encryption, server
+certification, firewall access control, and other security and
+personal information protection measures.
+Items
+Yes (%)
+No (%)
+① Does the club adopt the principle of majority decision-making?（n=110）
+73.0
+27.0
+　　・How exactly are decisions made?
+　　・Situations in which you felt there was a problem with the club's decision-making
+② Is the power relationship between the men's and women's clubs equal?（n=87）
+87.0
+13.0
+　　・Situations where the relationship between the men's and women's clubs was problematic.
+Free comments
+③ Is the selection of representative players fair and reasonable?（n=110）
+97.0
+3.0
+　　・What specific selection methods are used?
+Free comments
+　　・Situations where I felt there was a problem with the selection of the representative players
+Free comments
+④ Are the rules of the club set forth in the form of sentences?（n=110）
+73.0
+27.0
+　　・General rules and regulations
+72.7
+27.3
+　　・Regulations regarding the content and standards of penalties
+29.0
+71.0
+　　・Regulations for proper accounting and property management
+46.4
+53.6
+　　・Rules and Regulations for the Selection of the representative players
+10.0
+90.0
+⑤ Are measures taken to prevent abuse by coaches and upperclassmen?（n=110）
+7.0
+93.0
+　　・Preventive measures actually implemented
+Free comments
+⑥ Have there ever been problems of abuse or other behavior?（n=110）
+7.0
+93.0
+　　・Situations in which you have felt the need to prevent abuse, etc.
+Free comments
+⑦ Are precautionary measures in place for accidents during practice, heat stroke, etc.?（n=110）
+80.0
+20.0
+　　・Specific preventive measures
+Free comments
+⑧ Is there a supervisor or responsible person on site during practice?（n=110）
+36.0
+64.0
+　　・Who exactly are you placing and how often?
+Free comments
+⑨ Have you ever had any problems dealing with accidents, heat stroke, etc.?（n=110）
+6.0
+94.0
+　　・Situations in which you felt it was necessary to take precautionary measures against accidents
+Free comments
+⑩ Are records kept for accounting control within the department?（n=110）
+77.0
+23.0
+　　・Situations in which you felt a problem
+Free comments
+Democratic
+management
+Free comments
+Free comments
+Risk
+management
+The AG-CT scale is a 10-item scale of the governance of
+college tennis clubs, consisting of items related to democratic
+and crisis management (Table 1). The respondents were
+asked to self-evaluate their answers by “Yes” or “No” (Yajima
+et al., 2011), and were to respond to free comments when
+necessary. The AG-CT scale was developed by two sports
+jurists with reference to the SGC to ensure its validity.
+DATA ANALYSIS
+Simple tabulations and cross-analysis were conducted on their
+demographics and the AG-CT scale. From the crosstabulation
+table of the attributes of their demographics and the AG-CT
+scale, the chi-square test was used at a significance level of five
+percent to analyze whether the relationship between their
+demographics and the AG-CT scale is statistically significant.
+For cells with an expected frequency of less than five or a
+minimum expected frequency of less than one, Fisher’s exact
+test was conducted again to obtain an exact p-value.
+Table 1
+The contents of the AG-CT scale and its simple tabulation results.
+Cramer’s V, which indicates the strength of correlation
+between two variables in the L×M contingency table, is also
+used as reference. The closer Cramer’s V is to one, the stronger
+the association between the two qualitative variables (Akoglu,
+2018), and the specific effect size is considered to be 0.1 for
+small, 0.3 for medium, and 0.5 for large (Ohbuchi, 2020). The
+software used for these statistical analyses was R Version 4.1.1.
+ETHICAL CONSIDERATIONS
+Prior to the survey, the purpose of the survey, the survey
+method, and the protection of information were explained in
+writing to the representatives of the All Japan Inter-Collegiate
+Tennis Federation, and survey method was discussed. In the
+survey form, the following explanatory text was placed in a
+position easily recognizable by respondents: (1) the purpose
+of the survey, (2) the voluntary nature of the responses, and
+(3) the fact that the names of individuals and colleges will not
+be disclosed as identifiable information.
+RESULTS
+The contents of the AG-CT scale and its simple tabulation
+results are shown in Table 1.
+Table 2 shows the relationships among their demographics
+and the AG-CT scale. In the analysis, we categorized colleges
+in division four or lower as “Low Competitiveness (LC)” and
+those in division three or higher as “High Competitiveness
+(HC)” based on the median value of “Competitiveness” in their
+demographics. The median value of the “number of members”
+was used as a criterion to classify the teams into “Small Teams
+(ST)” with 19 or fewer members and “Large Teams (LT)” with
+20 or more members.
+First, to test the hypothesis that “the level of good governance
+on the AG-CT scale differs between the LC and HC groups,”
+the Chi-square test or Fisher’s exact test were conducted,
+and a statistically significant difference was found in the
+question “Is the selection of representative members fair and
+reasonable (p<.05) ?” Cramer’s V was 0.445, indicating that
+more respondents answered “yes” in the HC group than in the
+LC group.
+Next, to test the hypothesis that “the level of good governance
+in the AG-CT scale differs between the ST and LT groups,” the
+chi-square test or Fisher’s exact test were conducted, and a
+statistically significant difference was found in the question
+“Do you take precautionary measures against accidents and
+heat stroke during practice (p<.05)?” Cramer’s V was 0.355,
+and more respondents answered “yes” in the LT group than in
+the ST group.
+AG-CT scale
+Demographics
+Cramer's V
+Competitiveness
+.057
+Number of members
+.048
+Competitiveness
+.344
+Number of members
+.255
+Competitiveness
+.445
+*
+Number of members
+.047
+Competitiveness
+.192
+Number of members
+.007
+Competitiveness
+.123
+Number of members
+.055
+Competitiveness
+.036
+Number of members
+.087
+Competitiveness
+.139
+Number of members
+.355
+*
+Competitiveness
+.063
+Number of members
+.034
+Competitiveness
+.248
+Number of members
+.023
+Competitiveness
+.072
+Number of members
+.138
+Democratic
+management
+① Does the club adopt the principle of majority decision-making?（n=110）
+② Is the power relationship between the men's and women's clubs equal?（n=87）
+③ Is the selection of representative players fair and reasonable?（n=110）
+④ Are the rules of the club set forth in the form of sentences?（n=110）
+Note: * : p<.05
+Risk
+management
+⑤ Are measures taken to prevent abuse by coaches and upperclassmen?（n=110）
+⑥ Have there ever been problems of abuse or other behavior?（n=110）
+⑦ Are precautionary measures in place for accidents during practice, heat stroke, etc.?
+（n=110）
+⑧ Is there a supervisor or responsible person on site during practice?（n=110）
+⑨ Have you ever had any problems dealing with accidents, heat stroke, etc.?（n=110）
+⑩ Are records kept for accounting control within the department?（n=110）
+Table 2
+The relationships among their demographics and the  AG-CT scale.
+DISCUSSION: DEMOCRATIC MANAGEMENT
+In the section on democratic management, the respondents
+were asked about (1) appropriate decision-making and (2) the
+maintenance of rules and regulations.
+Appropriate Decision-making
+First, approximately 70% of the colleges answered that they
+adopt the principle of majority decision making in their college
+tennis clubs. Conversely, there were responses such as “the
+coach makes decisions unilaterally.” Next, approximately 90%
+of the colleges answered that the power relationship between
+men and women is equal in tennis clubs in which men’s and
+women’s clubs are active jointly. However, some respondents
+reported that women’s clubs often have fewer members than
+men’s clubs, and that this disadvantages their voice relatively
+more.
+Accordingly, referring to the SGC, in Principle 2, it is stated
+that a system should be established to ensure appropriate
+organizational management, including an external director, a
+female director, and an athletes’ committee. In other words,
+the decision making of the association should be conducted
+under a system that reflects diverse opinions. However, some
+college tennis clubs did not have a sufficient system, as shown
+in the responses such as “decisions are made by the coach’s
+own judgment without listening to the opinions of the club
+members.” Such a situation is considered to be inappropriate
+for maintaining and improving group condensation (Carron,
+1982) among members of college tennis clubs.
+Therefore, we propose that tennis clubs in each college be
+examined by a third party who is not the head or the director
+in the decision-making process. Such a third party is expected
+to play a role in pointing out problems in organizational
+management, which cannot be discovered and improved by
+students who have close relationships with each other.
+Maintenance of Rules and Regulations
+Next, more than 90% of the colleges answered that the
+selection process of representative players in their college
+tennis clubs was fair and reasonable. However, there was
+also a report that “the representative players are selected
+according to whether the coach likes their style of play,” and
+some members of the clubs are dissatisfied with the process.
+In the cross-analysis, the percentage of respondents who
+answered “fair and reasonable” was higher in the HC group
+than in the LC group, which may reflect the fact that the
+competition for representation in the department is fiercer.
+Next, we asked whether the rules of college tennis clubs are
+established in written form, and approximately 70% of the
+colleges responded that they are. However, only 10% of the
+colleges had “rules for the selection of representative players,”
+and only approximately 30% of the colleges had “rules for the
+content and standards of penalties.”
+Accordingly, referring to the SGC, it is stated in Principle 3 that
+rules for the fair and reasonable selection of representative
+players should be established. Additionally, Principle 10 states
+that a disciplinary system should be established. The contents
+of the disciplinary measures and the procedures leading up
+to them should be set forth in writing and widely publicized.
+The governance codes of the United Kingdom (Sport England,
+2022) and Canada (Canadian Olympic Committee, 2021) also
+emphasize “transparency” and “accountability” as the purpose
+of their codes and require that sports organizations publicize
+their articles of incorporation and rules.
+Therefore, we propose that each college tennis club should
+set forth the method of selection of representative players
+and the contents and procedures of penalties in written
+form, such as club rules. At the very least, it is desirable to
+establish a policy on what standpoints should be emphasized
+in the selection process when the final decision is made at the
+subjective discretion of the leader, after setting up guidelines
+for competition results and rankings.
+DISCUSSION: RISK MANAGEMENT
+In the section on risk management, we asked about (1) the
+prevention of abuse, etc., (2) accident prevention, and (3)
+proper accounting management.
+Prevention of abuse, etc.
+First, less than 10% of the colleges answered that they
+have implemented preventive measures against abuse by
+coaches and upper-class students. Conversely, less than 10%
+of the universities have ever punished their members due
+to problems of abuse and other behaviors. However, there
+were also cases reported, such as “There was harassment by
+a senior member, and I think guidance is needed, such as by
+setting up a course,” and “There was a case of slandering a
+specific member on social networking services (SNS), which
+was discovered by accident when I was consulted on a certain
+occasion.” Prevention is indispensable because such incidents
+can constitute serious problems if they occur.
+Accordingly, referring to the SGC, Principle 5 states that
+compliance education should be enhanced. In fact, some
+of the participants pointed out that “guidance is needed,
+such as setting up a course.” Therefore, we recommend that
+each college tennis club should conduct compliance training
+for their members. Furthermore, as shown in the case of
+“slandering and defaming a specific member on SNS, which
+was discovered by accident when the case was discussed
+with us,” it is difficult to discuss matters such as abuse and
+to identify them. Therefore, Principle 9 of SGC states that
+a reporting system should be established. Based on this
+principle, it would be desirable to appoint a person overseeing
+confidentiality counseling at each college tennis club, such as
+in the executive year.
+In this respect, efforts related to SafeSport are a worldwide
+trend. For example, the International Olympic Committee
+offers a training course for safeguarding officers (Sportsoracle,
+2022). The International Federation of Association Football
+(FIFA) offers a safeguarding course that is available to
+anyone worldwide (FIFA, 2022). The 2021 revision of the
+UK Code of Governance, mentioned above, requires that
+the Board of Directors employ a Welfare and Safety Lead
+Director and that the Legal Policy include a Safeguarding
+Act for both children and adults (with appropriate policies
+and procedures) (Sport England, 2021). Furthermore, the
+British Tennis Association (LTA) is actively publishing its
+policies and procedures on safeguarding (LTA, 2022). Thus,
+efforts to prevent harassment and abuse are being made in
+many parts of the world, notably including the creation of
+an independent Safe Sport Mechanism. In the U.S., the U.S.
+Center for SafeSport (USCSS, 2022) was established as a
+specialized organization to prevent abuse against athletes.
+In Canada, the Universal Code of Conduct to Prevent and
+Address Maltreatment in Sport (UCCMS) was established
+to provide a unified definition of abuse and harassment. The
+Sport Dispute Resolution Centre of Canada (SDRCC, 2021),
+a sports dispute resolution organization in Canada, has been
+commissioned by the government to establish a unified
+system to handle everything from reporting harassment to
+investigation and disciplinary action (SDRCC, 2021). It is true
+that it may be difficult to establish such a large-scale system
+in each college tennis club. However, it would be possible to
+establish a similar system in the organizations that oversee
+college tennis clubs, such as the All Japan Inter-Collegiate
+Tennis Federation in Japan or the NCAA in the United States.
+We look forward to further progress in this area.
+Prevention of accidents
+Next, 80% of the colleges answered that they have preventive
+measures against accidents and heat stroke during practice.
+The percentage of the LT group was higher than that of the
+ST group, which may be because the tennis clubs with more
+members take more systematic measures.
+Approximately 40% of the colleges answered that they have
+a supervisor or a person in charge on site during practice.
+However, even among such colleges, only approximately
+10% of the total number of cases had such a person in place
+for every activity. Conversely, less than 10% of the colleges
+answered that they have had problems in addressing accidents
+and heat stroke.
+Referring to the SGC, Principle 12 states that a crisis
+management system should be established. Therefore, we
+recommend that each college tennis club prepare a crisis
+management manual that describes how to deal with accidents
+and heat stroke. The manual should be prepared under the
+guidance of a specialist as much as possible and should be
+available at all times at practice sites and club rooms. There
+were also responses such as “All members had a classroom
+lecture on accident prevention,” “All members consulted the
+materials on measures against heat stroke,” and “A trainer or
+manager is assigned to the team.” It is indeed desirable to hold
+lectures and study sessions by medical experts. For example,
+it is considered that requiring a practical training course on
+cardiopulmonary resuscitation including AED would greatly
+contribute to improving the possibility of life saving actions
+by bystanders (Mathias et al., 2017).
+Proper accounting management
+Finally, approximately 80% of the colleges answered that
+they keep records for internal accounting control. However,
+some respondents answered that “there is a problem with
+the management system because of theft.” Considering this,
+referring to the SGC, Principles 6 and 4 of the SGC for general
+sports organizations state that a system should be established
+for appropriate accounting procedures. Therefore, we would
+like to recommend that each college tennis club establish
+a system of record-keeping of club expenses by multiple
+members to prevent unaccounted money and theft.
+GOVERNANCE SELF-ASSESSMENT SHEET
+Based on the above findings, we developed a “Governance
+Self-Assessment Sheet” (Figure 1) for college tennis clubs
+in cooperation with Japanese sports lawyers and the All
+Japan Student Tennis Federation. In Japan, Keio University,
+a member of the Kanto Polytechnic University Tennis
+Federation, implemented an initiative in which students who
+belong to the tennis club fill out the sheet themselves and
+disclose their governance self-assessment on the official
+website of their tennis club (Keio University Yagami Tennis
+Team, 2022).
+As a result, this college tennis club has developed a manual for
+penalties and accidents, and 95% of the members evaluated
+that they felt the effect of the improvement of governance.
+From this standpoint, we can expect that the use of this sheet
+is highly effective in strengthening the governance of the
+college tennis clubs. Furthermore, by using this “Governance
+Evaluation Sheet,” students themselves will be able to learn
+the concepts of compliance and the rule of law. This is expected
+to positively affect the governance of their workplaces when
+they graduate from colleges and start working in companies.
+In this sense, the sheet is being improved so that it can be used
+in other sports than tennis, and it is also being explored for
+use in sports teams in junior high schools and high schools.
+Furthermore, the sheet is currently being translated into
+multiple languages and being used in countries other than
+Japan.
+CONCLUSIONS
+The results of the analysis helped identify the actual state of
+governance in Japanese college tennis clubs, and the following
+recommendations for good governance were made. First, a
+third-party review should be conducted in the decision-making
+process. Second, the “Methods of selection of representative
+players” and “Details and procedures of penalties” should be
+documented. Third, compliance training should be provided
+to the members. Fourth, a person overseeing confidential
+Club：
+Date of entry：
+Status of compliant
+（1）Third-party review should be conducted in the decision-making process
+　　　・It is appropriate to have a review by an outside coach or an alumnus/alumnae
+(Current status of efforts, items to be improved in the future, etc.)
+（2）"Methods of selection of representative players" and "Details and procedures of penalties" should be
+…..... documented
+(Current status of efforts, items to be improved in the future, etc.)
+（3）Compliance training should be provided to the members
+(Current status of efforts, items to be improved in the future, etc.)
+（4）A person in charge of confidential consultations should be appointed in the executive grade and so on
+　　　・abuse, etc. are difficult to consult with and difficult to understand due to their nature.
+(Current status of efforts, items to be improved in the future, etc.)
+（5）Are sanctions for abuse included in the club rules?
+　　　・The details and procedures of disciplinary actions should be included in the club rules, and the members should be informed in advance.
+(Current status of efforts, items to be improved in the future, etc.)
+（6）Hold study sessions by experts on sports accidents and heat stroke
+  ・Practical training on cardiopulmonary resuscitation, including AED, is also recommended for all members.
+(Current status of efforts, items to be improved in the future, etc.)
+（7）Establish a crisis management manual in case of accidents and heat stroke
+　　・The crisis management manual should be available at all times in the practice rooms and club rooms.
+　　・AED locations and emergency contact information should be shared with all club members and posted prominently at activity sites.
+(Current status of efforts, items to be improved in the future, etc.)
+（8）Is there objective monitoring of the practice by the coach?
+(Current status of efforts, items to be improved in the future, etc.)
+（9）Establish a system to manage records of club expenses by multiple members
+(Current status of efforts, items to be improved in the future, etc.)
+Governance Self-Assessment Sheet for College Tennis Clubs
+Self-evaluation of response status
+A：Fully compliant…..
+B：Partially compliant
+C：Not compliant…....
+Figure 1. "Gobernance Self-Assessment Sheet" for college tennis clubs.
+consultations should be appointed in the executive grade
+and so on. Fifth, study sessions should be held by experts on
+sports accidents and heat stroke. Sixth, a crisis management
+manual should be established in case of accidents and heat
+stroke. Seventh, a system should be established to manage
+the records of club expenses by multiple members.
+Based
+on
+these
+recommendations,
+we
+developed
+a
+“Governance Evaluation Sheet” for college tennis clubs,
+which proved to be effective to a certain extent at Keio
+University in Japan. In the future, we hope that this kind of
+practical application will be further promoted, and that good
+governance will spread in college sports worldwide.
+RECOMMENDED ITF TENNIS ACADEMY CONTENT (CLICK BELOW)
+Copyright © 2022 Shion Hotta & Mamoru Yamamoto
+This text is under a Creative Commons BY 4.0 license
+You are free to Share - copy and redistribute the material in any medium or format – and Adapt the content - remix,
+transform, and build upon the material for any purpose, even commercially under the following terms:
+Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You
+may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+CC BY 4.0 license terms summary. CC BY 4.0 license terms
+ACKNOWLEDGEMENTS
+We would like to express our deepest gratitude to Professor
+Daisuke Hirata of Senshu University and Associate Professor
+Daisuke Mitsuhashi of the University of Tsukuba for their
+cooperation throughout the execution of this study. We also
+thank Professor Hiroyuki Hirano of Keio University, Professor
+Yoshiharu Yamamoto of the University of Tokyo, Professor
+Masaaki Katsuno of the University of Tokyo, and Research
+Assistant Professor Ichiro Hidaka of the University of Tokyo,
+as well as Ms. Kaya Kudo of Keio University, and Attorney
+Yuri Yagi of the Yagi Law Office for their detailed advice on
+this research. I would also like to express my gratitude to
+Ms. Keiko Ueno, Secretary General of the All Japan InterCollegiate Tennis Federation, and the members of the tennis
+clubs of each college for their cooperation in this research, as
+well as to the many other people whose support has made this
+study possible.
+CONFLICT OF INTEREST AND FUNDING
+This study was conducted as part of “A Survey on Good
+Governance in College Tennis Teams” and was supported by
+the 2019 JAPAN SOCIETY ON TENNIS SCIENCE Research
+Grant.

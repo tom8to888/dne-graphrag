@@ -1,0 +1,4 @@
+system,n,mean,sd,contradicts
+basic,30,1.767,0.858,3
+local,30,1.367,0.718,3
+global,30,1.133,0.571,7

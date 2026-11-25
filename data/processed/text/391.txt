@@ -1,0 +1,521 @@
+Title: Theories of Skill Acquisition: Implications for Tennis Coaching
+Authors: Tom Parry, Larissa O'Rourke
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 391
+
+Whether we articulate it or not, all coaching methods, practice
+activities and drills are driven by our underlying beliefs about
+skill learning (See Figure 1). All coaches believe that the drills
+chosen for practice “work”, but, we must quantify what “work”
+means. In many instances it should mean the skills transfer to
+and are effectively applied in game situations.
+TRANSFER OF LEARNING
+ Deciding whether a drill or practice activity “works”, must be
+framed in the context of transfer to the game environment. If
+skills performed in practice drills do not hold up in games, those
+drills did not positively influence skill learning. Skill transfer
+is commonly defined as the influence of previous practice on
+the performance of the skill in a novel context or performance
+of a new skill altogether (Coker, 2017; Magill, 2010; Schmidt
+et al., 2018). This is where a number of drills and practice
+activities fall short, as they fail to make an effective transition
+into game performance. Tennis is dynamic and full of complex
+interactions between players in a variable performance
+environment, something that repetitive, prescribed drills
+INTRODUCTION
+Skill
+acquisition
+theory
+is
+extremely
+important
+for
+coaches due to its foundational role in the development
+of skilled performance. However, many coaches either
+do not acknowledge their beliefs about skill learning, or
+attach themselves to traditional, sometimes unsupported
+explanations. The link between beliefs about learning and
+coaching methods is undeniable, therefore, methods should
+be grounded in evidence-based theoretical explanations of
+skill acquisition. The evidence in question, must be driven
+by academic research findings, and move away from a purely
+experiential knowledge-based rationale, as often cited by
+coaches (Reid et al., 2012, Anderson et al., 2021). This does
+not mean that experiential knowledge is somehow inferior,
+quite the opposite. It is coaching experiences that often
+inform research designs which study the efficacy of particular
+coaching methods. The findings of these studies either support
+or reject these methods as effective practices, which in turn
+should inform coaching behaviors. Unfortunately, this is not
+always the case with many coaching behaviors remaining
+unchanged even though our understanding of skill acquisition
+has advanced.
+ABSTRACT
+This article discusses different theories of skill learning, including ecological dynamics,
+and their implications for coaching and practice design. Concerns with current beliefs
+about skill acquisition and the associated traditional practice methods will be discussed.
+The major tenets of ecological dynamics will be presented, followed by some practice
+design recommendations for coaches. The goal of this paper is to introduce coaches
+to a more contemporary theoretical framework of skill acquisition that will drive the
+exploration of new practice methods to maximize skill development across all ages.
+Theories of skill acquisition: Implications for
+tennis coaching
+Tom Parry & Larissa O’Rourke
+Indiana University Kokomo, USA.
+Key words: Skill acquisition, motor
+skill learning, practice design,
+practice activities.
+Received: 9 February  2023
+Accepted: 18 March  2023
+Corresponding author: Tom Parry.
+Email: thparry@iu.edu
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 51-56
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i89.391
+COACHING & SPORT
+SCIENCE REVIEW
+Figure 1. Relationship between assumptions and beliefs about learning
+and chosen practice methods.
+do not replicate. Therefore, the question must be asked,
+does repetitive drilling of the “correct” technique positively
+transfer to the game? Although many coaches may believe
+that it does, the contemporary skill acquisition literature
+would suggest not (Renshaw, Davids et al., 2022; Renshaw,
+Davids & O’Sullivan, 2022; Pinder et al., 2011; Krause et al.,
+2018). It is more likely that game-like, representative practice
+experiences, that are unpredictable and variable in nature, is
+where transferrable skill learning occurs (Davids et al., 2013).
+If this is true, why are repetitive, technical drills so prevalent
+in practice sessions? It comes down to how we define skilled
+behavior, as that is what directs our methods and approach to
+coaching.
+DEFINITION OF SKILL
+Traditional descriptions of skill include statements such as ‘a
+task that has a specific purpose or goal’ and ‘the achievement
+of a high degree of proficiency’ (Coker, 2017; Magill &
+Anderson, 2010). Both of these definitions highlight important
+elements of skilled behavior – performing in relation to a task
+goal, and the successful production of a functional movement
+solution (proficiency). Notice the lack of how the task goal
+is achieved in these definitions, such as a specific technique.
+The assumption that ‘correct’ or ‘fundamental’ techniques are
+requirements of skilled performance is presumptuous at best.
+Plainly put, technique and skill are different (Martens, 2012).
+So called ‘textbook technique’ is only one way to achieve a
+task goal. The technique a player uses, and its potential for
+success, is highly dependent on individual constraints and the
+context (game conditions) being faced.
+Each individual player can achieve the same, successful
+movement outcome with their own unique, body-scaled
+movement solution. The interpretation of proficiency should
+also be questioned, with many coaches believing it alludes
+to the repeated reproduction of a specific technique. If the
+skill “looks good” but does not successfully achieve the task
+goal, the technique is redundant – the focus must be on task
+goal achievement. If we look at skill through another lens,
+proficiency could be defined as the ability to continually adapt
+to changing task constraints, while achieving the task goal.
+We could also view proficiency as the ability to effectively
+perform in different environments, identifying adaptability as
+a key component of skilled performance. Take court surface
+for example, grass, clay, and hard courts require skill to be
+adaptable, suggesting skill is in the relationship between
+the performer and the performance environment, termed
+individual-environment mutuality (Araújo & Davids, 2011).
+Thus, the practice environment should be a very important
+consideration in the development of skill – ultimately context
+is key (Otte et al., 2021). Sterile practice environments, such
+as same ball feed, same court position, same movement
+solution, has separated the skill from the environment
+(performance context). Assuming that skills practiced
+in these sterile environments transfer into a completely
+different, dynamic performance environment, like a match,
+is difficult to swallow. Skill is embodied for each individual,
+meaning it is relative to their organismic constraints and
+action capabilities, and embedded within a performance
+environment. The movements performed are shaped by the
+performance context, it is an integral part of what skill is.
+Therefore, repetitive technique drills are practicing entirely
+different skills than those used in competition, as the
+performance context is vastly different. This means there is
+not one, correct textbook technique applicable to everyone
+in every context, and therefore, practitioners should coach
+accordingly (Gray, 2021).
+Practicing a skill repeatedly, in a controlled environment,
+does not facilitate the development of the adaptable
+skills required in a match. In matchs, players have to make
+decisions and act based on information picked up from their
+opponent and the shot received. They also have to take into
+consideration game characteristics, such as the current
+score, which can act as psychological constraint on their
+decision making and performance. Each person responds to
+these constraints differently, therefore, the goal of coaching
+should not be to develop textbook, technical skills, but rather
+adaptable, functional ones (O’Sullivan et al., 2021). Because a
+coach’s beliefs about skill acquisition drive practice methods,
+addressing them has to be the main focus if positive changes
+to practice design are desired.
+TRADITIONAL VIEWS OF SKILL ACQUISITION
+Two common beliefs about skill learning persist among coaches
+in all sports, muscle memory and mental representations.
+Both of these ideas have flaws that should caution coaches
+from using them as rationale for practice drills and activities.
+Muscle Memory
+Muscle memory is often used in coaching circles as a rationale
+for the drills selected for practice, for example “we repeat
+this technique over and over to ingrain it in muscle memory”.
+The concept of muscle memory is often thought of as an
+explanation of skill acquisition (it is not) and is generally
+interpreted in one of two ways:
+1.	Following significant repeated practice of the correct
+technique, muscles remember what to do.
+2.	Following significant repeated practice of the correct
+technique, skills become automatic and can be performed
+without conscious processing (Smith, 2018).
+Take note of how beliefs about muscle memory is linked
+to specific coaching methods and practice drills, such as
+repetitive drilling of technique. Neither of these explanations
+are supported by the skill acquisition research literature,
+and therefore, the use of practice drills based on this belief is
+problematic. Ivancevic et al., (2012) put it quite bluntly in the
+following excerpt:
+“from the scientific perspective, the common term “muscle
+memory”, so popular with coaches and players is shear
+nonsense”.
+The truth is, the skill acquisition literature does not even
+entertain the idea as there is simply no evidence to support it.
+This does not mean that the term and associated assumptions
+do not permeate coaching practice, far from it. Roetert et al.
+(2018) identified the problem with the use and belief in the
+term in their commentary on Smith’s (2018) paper:
+“The colloquial phrase “muscle memory” is simply inaccurate
+and could certainly be misunderstood since it promotes the
+notion that somehow our muscles can store memories which
+are a brain function”.
+If coaches believe that their practice drills develop muscle
+memory, and that assumption is false, the associated methods,
+such as repetitive, technical drills, must be questioned.
+Mental Representations
+A more traditional theoretical approach to skill acquisition
+is based on the premise that significant practice helps to
+develop internal, mental representations of movements in
+the brain that can be recalled in the future. This concept is a
+key element of schema and motor program theory developed
+by Schmidt (1975). Although more robust than muscle
+memory, it still perpetuates a troubling idea, the myth of
+one correct, repeatable technique (Gray, 2021). If the ‘one
+correct technique’ idea is true, every tennis player should
+perform shots identically. Serena Williams, Rafa Nadal, Naomi
+Osaka, and Novak Djokovic should all serve, volley, and hit
+groundstrokes in the exact same way, which they clearly don’t.
+What their performance does demonstrate is that they have
+each found an optimal way to perform based on their unique
+organismic constraints and the environmental context they
+are performing in.
+Another weakness of this theory is that is does not clearly
+consider the important role of the environment, and the
+information present, in the performance of sport skills. The
+performer and environment have a shared mutuality, meaning
+skills are continuously influenced by the environment in
+which they are performed (Woods, McKeown, O’Sullivan et
+al., 2020). Performance changes as a function of the playing
+surface. Grass, clay or hard courts are significantly different
+due to the player-environment (surface) interaction. For
+example, players dive for shots significantly more on grass in
+comparison to hard courts, supporting the idea that skill is in
+the relationship between the individual and the environment.
+In this theory, memories or motor programs are stored in
+the brain, are retrieved in the moment prior to movement
+execution. It is unclear why stored representations of
+movements would be more beneficial than real-time, contextspecific information offered by the environment. This theory
+would suggest that information in the environment, such as
+movement of opponent or ball flight, is somehow impoverished
+and therefore must be interpreted and supplemented with
+these mental representations. More contemporary theories,
+such as ecological dynamics, would disagree and suggest
+information embedded in the environment is all we need to
+act effectively. It is logical to think that interacting directly
+with, and attuning to, the rich, real-time information in the
+environment would be preferable for successful action
+control (Otte et al., 2021). This highlights one of many key
+differences between traditional and contemporary skill
+acquisition approaches and has broad ramifications for how
+we coach and design practice.
+Ecological Dynamics: A New Lens
+Ecological dynamics is a theoretical approach to skill
+acquisition combining ideas from ecological psychology,
+dynamic systems, and complexity sciences (Davids et
+al., 2013). The theory is grounded in concepts, reviewed
+below, that fundamentally change how we view skill and its
+development.
+Individual-Environment Mutuality
+The performance environment has a direct influence on
+the individual, it is the mold that shapes how skills are
+performed. Araujo & Davids (2009) put it best “To do is
+always to do something, somewhere” emphasizing the
+functional relationship with the environment that must be
+realized to be skillful. Skill is not a quantity that we acquire
+and store as mental representations, it is embedded in the
+reciprocal, adaptive relationship between the performer and
+their environment (Araujo & Davids, 2011, Gomez, 2015).
+This has huge implications for coaching as it suggests the
+practice context and its representativeness is integral in the
+development of skilled game performance (Araujo & Davids,
+2011; Davids, Araújo et al., 2012; Yearby et al., 2022).
+Constraints
+A central tenet of this approach is that of constraints and
+their influence on how we perceive and act in the world.
+Newell (1986) identified three categories of constraint,
+labeled organismic, environmental and task, which interact
+influencing the perception-action cycle, leading to functional
+movement behavior (see Figure 2).
+Figure 2. The Constraints Model (Newell, 1986).
+Organismic constraints are categorized into structural, for
+example height, strength, flexibility and functional, that are
+more psychological in nature such as anxiety and confidence.
+Environmental constraints can be the performance context,
+for example playing surface, weather conditions, or sociocultural constraints such as societal perceptions of gender,
+and socially imposed values. Finally, task constraints are
+broken down into task goals, rules, and objects, which can
+be most easily manipulated by coaches in practice. Task goal
+constraints direct the search for movement solutions as they
+are ultimately what we are trying to achieve. Instructions are
+considered task goal constraints as they guide the performer
+toward certain solutions and away from others (e.g., powerful
+vs. accurate). Task rule constraints include the dimensions
+of the court, net height, and game rules, such as serves
+must bounce in the service box. Task rule constraints can be
+modified in practice to directly or indirectly encourage the
+search for individualized, functional movement solutions
+(Fonseca-Morales & Martinez-Gallego, 2021).
+For example, the practice area can be designed to be deep and
+thin (e.g. rallying on a half court), encouraging long and short
+shots versus utilizing court width which is no longer afforded.
+By focusing on achieving the task goal within the rules of
+the game or practice activity, unique, effective solutions will
+emerge. This focus on task goal achievement can explain
+the recent prevalence of underhand serves in top level
+competition, which are clearly effective. In practice, game
+conditions (e.g. no bounce zones) and incentivized scoring
+(e.g. more points for certain actions) are also common task
+constraints that can guide performance instead of prescribing
+a specific technique or solution. Finally, task object (and
+implement) constraints are related to the equipment used,
+namely racquets and tennis balls. Farrow & Reid (2010) and
+Buszard et al. (2014) showed that body-scaled racquets
+and stage-appropriate tennis balls have a positive effect on
+performance and learning, especially in young players. When
+taking into consideration the organismic constraints of the
+individual and appropriately implementing task constraints
+to suit, positive behavioral consequences emerge. Fitzpatrick
+et al. (2018) noted as much, showing stage-scaled courts,
+racquets and tennis balls resulted in greater rally length, shot
+variety, and serve success. Buszard et al. (2016) echoed this
+sentiment, finding full size courts and higher compression
+balls resulted in fewer hitting opportunities and fewer
+chances to use a variety of different shots. However, we must
+be aware that constraint manipulations may facilitate some
+objectives but possibly not others, it is a fine balance (Reid et
+al., 2012; Reid & Giblin, 2015). This highlights the importance
+of constraining to afford by presenting opportunities to solve
+the movement problem in the activity.
+There is always a danger of over-constraining practice tasks
+leaving only one viable solution - traditional prescriptions of
+one specific technique is an example. The goal of this approach
+is not to find the “correct” technique or solution. Instead, each
+performer is encouraged to search for functional movement
+solutions that are adaptable to the ever-changing constraints
+that are imposed. These theoretical ideas have spawned an
+exciting methodology, the Constraints-Led Approach [CLA]
+(Renshaw et al., 2010; Renshaw & Chow, 2019), which has
+been discussed as an excellent approach to develop skilled
+tennis players (Pill & Hewitt, 2017; Hewitt et al., 2018).
+Direct Perception of Affordances
+The nature of perception is a common distinction between
+traditional and more contemporary theories of skill
+acquisition. Ecological dynamics is grounded in work by
+J. J. Gibson who proposed that we could directly perceive
+information from our environment and act upon it without
+the need for internal mental representations (Gibson, 1979).
+Directly perceiving environmental information to guide
+action has significant ramifications for coaching drills and
+activities. Therefore, the goal as coaches must be focused
+on helping athletes attune to task relevant information in
+the environment. In tennis, players perceive opportunities
+to act, or affordances (Gibson, 1979), such as whether a ball
+is hittable, returnable or the opponent is passable. These
+affordances are a function of the player’s individual action
+capabilities. If players do not have the action capability to
+act effectively, they do not perceive the affordance, despite
+being a property of the individual-environment system. This is
+where carefully designed practice activities can be beneficial.
+A common occurrence in coaching is when the coach sees
+an opportunity to act but the player does not. This occurs
+because they are each perceiving affordances based on their
+own, embodied action capabilities. A short player may not see
+approaching the net as an affordance as they could easily get
+lobbed, whereas a tall player may perceive it very differently.
+This exemplifies how constraints influence the perceptionaction cycle, including the presence of affordances, resulting
+in very different movement behaviors between (See Figure
+2). This is also true to for task constraint manipulations in
+practice, as they will present some affordances but remove
+others. Helping athletes pick up the potential affordances
+offered to them will encourage the development of adaptable,
+functional solutions that are robust when exposed to the
+changing demands of the game.
+As coaches we must be comfortable in the fact that the best
+source of information to control action does not reside in a
+player’s head (or even worse, the coach’s head), but instead
+within the information-rich performance environment. In
+tennis, the best sources of information to guide action are the
+movements of the opponent and the movement of the ball,
+demonstrating the relationship between how we move and
+the information we perceive.
+Information-Movement Coupling
+The relationship between environmental information and
+our movements is an important consideration for coaches
+when designing practice activities. As Gibson (1979) put it
+"we perceive to move and we move to perceive", showing that
+movement changes the information and affordances we
+perceive, but also perceiving that information changes how
+we move. From an Ecological Dynamics perspective, it is the
+information-movement relationship that transfers between
+a faithfully simulated practice task and a competitive
+performance environment (Davids et al., 2013; Pinder et
+al., 2011). Therefore, in sport contexts, the attunement of
+an athlete’s attention to these action-relevant sources of
+information must be a key component of practice. Practice task
+design must authentically include this dynamic informationmovement relationship to develop skilled performers. This
+alludes to the need to shift away from repetitive drill-based
+practice to a more representative game-based approach,
+encouraging players to find effective, functional movement
+solutions.
+This is just a brief overview of a complex theoretical approach
+to skill acquisition with a description of a few of its key
+components. A significant benefit of this approach is that
+you can see it reflected in movement behavior, meaning
+the performer-environment and information-movement
+relationships can be directly observed. It is also important
+to note that adopting an ecological dynamics rationale to
+support your practice design does not reduce your coaching
+toolbox, far from it. A common misconception of this approach
+and associated methodologies such as the constraints-led
+approach, is that instructions are prohibited. As mentioned
+previously, instructions are task constraints and can help
+guide the search for movement solutions. The issue is with the
+provision of over-prescriptive instructions emphasizing the
+repetitive production of a specific technique. In this approach,
+the role of instruction changes in comparison to more
+traditional views. You should instruct athletes what to do,
+meaning the task goal, making them aware of task constraints
+and incentives, just not how to do it. Players must be provided
+the opportunity to search, explore and adapt (Chow et al.,
+2016) to the changing task constraints of the game.
+As coaches we have to be confident that with appropriately
+designed practice activities using constraints, players will
+self-organize a functional coordination pattern to achieve
+the task goal (Gray, 2021). By utilizing methods grounded
+in this approach, such as representative design and task
+simplification, coaches can design practice tasks that faithfully
+represent the actions and information sources present in
+a game. Obviously, a switch toward this approach from a
+traditional one has important connotations for coaching and
+practice design.
+IMPLICATIONS FOR COACHING AND PRACTICE DESIGN
+Adopting an Ecological Dynamics approach dramatically
+changes the traditional role of the coach, from a provider
+to a designer and facilitator (Woods, McKeown, Rothwell
+et al., 2020). The coach helps cultivate a rich performance
+environment to facilitate growth exemplified by the following
+quote:
+“The gardener cannot actually grow tomatoes, squash or
+beans, she can only foster an environment in which they do
+so” (McChrystal et al., 2015).
+Non-linear pedagogy, a method aligned with ecological
+dynamics, outlines five principles for the design of practice
+tasks: representativeness, constraints manipulation, task
+simplification, informational constraints, and functional
+variability, broadly discussed below.
+Design Representative Tasks
+Practice tasks should authentically represent features of
+the game. Representative design includes two components,
+action fidelity, meaning movements from the game are
+present in practice tasks, and functionality, meaning the
+information sources used to control those actions are also
+present. A key outcome of good representative design is the
+functional coupling between perception and action (Pinder et
+al, 2011). For tennis practice, ball feed location, speed and spin
+are important considerations when designing representative
+practice tasks as the ball and its movement is an excellent
+source of information (functionality). The presence of an
+authentic opponent is also important if we are to achieve high
+levels of representativeness. However, it is important to note
+that representative design does not mean just playing the full
+version of the game. Coaches can select slices of the game
+and then design practice tasks that accurately represent the
+movements and information sources required for success in
+competition.
+Constrain to Afford
+When applying task constraints, we want to avoid overconstraining, pushing them toward one specific solution or
+technique. Constraints set problems for the player which
+they must solve in order to be successful. When implementing
+constraints in practice activities, it is important that they
+present relevant affordances. Affordances are opportunities
+or invitations for action offered by the environment or task
+(Rudd, Pesce et al., 2020). Quality practice design can present,
+eliminate and/or incentivize particular actions. For example,
+if the goal is to work on the overhead smash, I can add an
+incentive constraint to their opponent by offering an extra
+point for a successful lob, which in turn will present varied
+opportunities to smash.
+Simplify skills, don’t break them down
+A common, traditional coaching practice is to break skills
+down into parts, termed task decomposition, the assumption
+being they can be put back together effectively later.
+Remember, skills are shaped by the context in which they
+are performed. Information-movement coupling is where
+skill exists, therefore this relationship must be preserved in
+practice tasks. Task simplification, achieves this by modifying
+games to meet the performance level of the player, including
+scaled equipment, the dimensions of the playing space, or
+game rules. The format of the LTA’s mini-tennis program is a
+notable example of task simplification with scaled equipment,
+smaller courts, and modified game rules to facilitate learning
+(Fitzpatrick et al., 2018).
+Repeat problems not solutions
+Bernstein (1967) coined the phrase “repetition without
+repetition”, noting that even in basic, stable movements (e.g.
+drawing a line back and forth), trial-to-trial variation exists.
+We simply don’t perform an idealized movement pattern each
+time, emphasizing that skill is in the ability to adapt to changing
+task constraints (Otte et al., 2021). By introducing variability,
+players have to attune to better sources of information to
+guide their action selection. Match-based practice activities,
+ensure functional variability is present, encouraging players
+to continually solve the movement problem in front of them.
+Not only is this more engaging (and fun), it significantly
+increases the transfer of these skills to the game.
+In conclusion, to enhance skill transfer, practice design should
+mirror the dynamic nature of the game. We simply don’t
+perform the same skill over and over, eloquently described by
+Nadal:
+“You might think that after millions and millions of balls I’ve
+hit, I’d have the basic shots of tennis show up, that reliably
+hitting a true, smooth clean shot every time would be a piece
+of cake. But it isn’t. Not just because every day you wake up
+feeling differently, but because every shot is different; every
+single one. From the moment the ball is in motion, it comes
+at you at an infinitesimal number of angles and speeds, with
+more topspin, or backspin, or flatter or higher. The differences
+might be minute, microscopic, but so are the variations your
+body makes – shoulders, elbows, wrists, hips, ankles, knees
+– in every shot. And there are so many other factors – the
+weather, the surface, the rival. No ball arrives the same as
+another; no shot is identical” (Nadal & Carlin, 2011).
+Every shot is different, design practice with that in mind.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

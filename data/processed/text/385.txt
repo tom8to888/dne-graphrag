@@ -1,0 +1,170 @@
+Title: Tennis Metrics
+Authors: Marcelo Albamonte
+Year: 2011
+Issue: Vol. 19 No. 55 (2011)
+Article id: 385
+
+www.itfcoachingreview.com
+December 2011. 19th Year. Issue 55.  27-29
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i55.385
+
+Tennis Metrics.
+Marcelo Albamonte.
+Argentine Tennis Association.
+
+ABSTRACT
+
+“Tennis Metrics” is a system which uses video to analyse and collate data on
+players, the court and the relationship between the two. The system
+automatically sends and gathers 24 pieces of data per second- including stroke
+angles, distance run and running speed among many others. This article outlines
+and introduces readers to the system that has powerful potential for multiple
+types of analyses relating to tennis.
+
+Key words: Tactics, strategy,
+analysis, software.
+Received: 10 September 2011
+Acepted: 28 November 2011
+Corresponding author:
+Marcelo Albamonte.,
+Argentine Tennis Association.
+Email:
+universitarios@aat.com.ar
+
+INTRODUCTION
+Our intuition is fundamental to coaching, but despite this
+invaluable tool, we never stop to think about how much
+information that a tennis match actually provides. The distance
+run during a point, a game, a set or a match, the speed of the
+sprints, the distances to the lines or the back fence, the net, or
+the side fence, the opponent, etc. Indirectly, all this information
+is related to the ‘tempo’ and time within a match and when
+harnessed can provide us with valuable information that can in
+turn inform our coaching.
+In order to analyse a match using this system, all that is needed
+is a film made with a standard video camera, set in a fixed point
+behind the court. Once filmed, the recorded match can be
+loaded into the “Tennis Metrics” programme. This is when the
+system calculates and draws the lines that will automatically
+measure the requested items and will start sending data
+reports. (Figure 1).
+
+Figure 1. Data visualization in “Tennis Metrics”.
+As with most statistical analysis, the evaluation does not end
+with the reception of the data, it is necessary to interpret the
+information and make the necessary recommendations about
+what is observed.
+By way of example, we will show some of the data from“Tennis
+Metrics”.
+
+Table 1. Comparison of the sprints of Nadal and Federer.
+Table 1 previously shows some of the sprints of Nadal and
+Federer (taken at random). The information is expressed in
+meters per second.
+Table 2 shows the meters run by outstanding players in the 14
+year old category of the COSAT tour (South American Junior
+Tour). The figures were taken from one service game and one
+returning game. Note that these particular averages do not
+represent full match, just one game.
+NADAL SPRINTS
+FEDERER SPRINTS
+7.053917844
+7.303977878
+7.727461778
+8.812776917
+9.118889512
+7.209121385
+10.02668024
+7.277399239
+7.788063934
+7.864547467
+8.308923621
+8.359976818
+Average of 6 sprints at
+random
+Average of 6 sprints at
+random
+8.337322821
+7.804633284
+
+Table 2. Summary of the meters run by two players of the 14 year old
+category.
+The data indicate that when Player 2 was serving, he ran 36.70
+% of the meters that his opponent ran. When he was receiving,
+his serving opponent ran 33.96% of the meters that he ran.
+The above data are just two examples of the items that “Tennis
+Metrics” can measure.
+WHY “TENNIS METRICS”?
+At first glance, it can be overwhelming and surprising to see
+the players followed by a number of lines, distance calculations
+and speed related information, but many of those who express
+surprise say: “Well, fine, this is incredible… but what is all this
+for?”.
+The origins of “Tennis Metrics” as with many tools, came from
+the developers needs- a necessity for information that could
+help develop players- and so was envisaged the idea over 20
+years ago. Initially, most of the details that “Tennis Metrics”
+measures today were measured in a very simple and
+improvised “home-made” system in order to get the estimated
+data surrounding aspects such as court positioning, running
+lengths and so on, as they imperceptibly occur behind the
+scenes of a tennis match seen with the naked eye.
+These improvised methods included tying ropes around the
+ankles of the two opponents to understand if the distance
+between them was generally consistent, and if the rope went
+loose, who won more points or what happened when they
+returned the service?
+Methods to assess player movement in the beginning included
+flattening the clay behind the baseline after each point to see
+exactly in what zone each player moved, and how their
+effectiveness changed when they changed the playing area,
+either voluntarily or because they were forced to do so by the
+coach.
+Another technique included blowing a whistle whereby at that
+precise time, the players would remain instantly static, so their
+playing positions could be analyzed.
+Each one of these techniques, which were limited and still are
+to this day, “crashed” against two constraints:
+• For obvious reasons, estimates from official competitions
+were not possible.
+• Gathering data from the opponent was more difficult, in
+comparison with the coach’s own player.
+Luckily, and on a tennis court, engineers who specialized in non
+traditional software came together with coaches to create
+“Tennis Metrics”.
+WHAT IS “TENNIS METRICS” FOR?
+Table 3 presents some criteria and some questions that if
+answered provide useful data.
+
+Table 3. Analysis opportunities with Tennis Metrics.
+
+PLAYER 1
+PLAYER 2
+Serving
+23.88
+70.3147
+Returning
+Returning
+55.8972
+20.5146
+Serving
+79.7772
+90.8293
+
+FINAL CONSIDERATIONS
+Having a response to all these questions and to some others,
+would undoubtedly lead us to have to change not only game
+tactics and strategy but also the plan of our work as coaches
+and trainers because we would all have new information with
+data from the competition setting.
+
+“Tennis Metrics” has begun making the first analyses and
+gleaning preliminary information to compile a database with
+the behaviour of different players from different categories and
+levels.
+“Tennis Metrics” might bring about a change, not only as
+regards the new data from our own players but also as to the
+comprehensive analysis of the opponent. Technology goes
+forward, and so, it must help us to improve tennis on a daily
+basis. That is the task we are involved in.

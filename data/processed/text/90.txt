@@ -1,0 +1,385 @@
+Title: The effect of tactical periodisation on technical effectiveness and intermittent resistance of university tennis players
+Authors: Diego Polanco Bustos, Nelson Mariño Landazábal
+Year: 2019
+Issue: Vol. 27 No. 78 (2019)
+Article id: 90
+
+www.itfcoachingreview.com
+August 2019. 27th Year. Issue 78. 25-28
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v27i78.90
+
+The effect of tactical periodisation on technical
+effectiveness and intermittent resistance of
+university tennis players
+Diego Polanco Bustos a &  Nelson Mariño Landazábal a
+a University of Pamplona, Pamplona, Colombia.
+
+ABSTRACT
+
+In tennis, the high demand and unpredictable duration of matches lead us to examine
+which are the most efficient methodologies for the development of athletes’ endurance.
+The objective of this study was to measure the evolution of technical effectiveness and
+intermittent endurance in tennis, through the comparison between the tactical
+periodization method (based on the game) and the ATR (traditional periodisation of
+accumulation, transformation and realization - based on physical abilities) in university
+players to establish the difference between methods. 16 university tennis players
+participated in this study; they were then divided into two groups. Both training methods
+were applied to each group in a different order, measuring the intermittent resistance
+after each intervention with an intermittent recovery yo-yo test of level-1 and the specific
+resistance and technical effectiveness by means of the set-test. The results show  that the
+tactical periodization has a positive effect on the technical effectiveness, achieving a
+greater number of successful strokes. This occurs without a lower performance in the
+intermittent resistance, whereas the ATR method achieves a greater ability to travel
+greater distances in situations decontextualized from the game. The results give insight to
+physical trainers on how training of resistance could be developed in situations based on
+the game such as in the tactical periodization method, without neglecting the specific
+resistance which primarily occurs best in training of isolated physical capacities such as
+the ATR method.
+
+Key words:  specific resistance,
+tactical periodization, physical
+training, game-based.
+Received: 20 May 2019
+Accepted: 28 June 2019
+Corresponding author: Diego
+Polanco Bustos, Physical
+Education, Recreation and
+Sports Program, University of
+Pamplona, Pamplona,
+Colombia. Email: diegopolco24@hotmail.com
+
+INTRODUCTION
+In a tennis match, power and speed can be seen in every action
+and a series of these game actions are usually carried out over
+very short periods of time (Vila, 2014). As a result, it is
+necessary to develop specific resistance, which in acyclic
+sports is  intermittent  for the short bursts of high intensity
+work and rest (Anselmi, 2012; Baiguet, 2011). Theories of
+traditional training maintain that the physical conditioning of
+players could be carried out in the same way as athletes’
+training (Tamarit & Frade, 2016). Traditional theories
+maintain
+that
+physical
+capacities
+must
+be
+trained
+independently and subsequently these will be transferred to
+the reality of the game through specific on-court training
+(Manso, Navarro & Caballero, 1996; Anselmi, 2012). New
+theories contradict these theories by assuming that the
+physical requirements of sports are specific and that physical
+capacities must be trained and manifested in the reality of the
+game to achieve an optimal development of fitness (Baiget,
+
+Iglesias & Rodríguez, 2008; Tamarit & Frade, 2016; Seirul-lo,
+1987). This contradicts the traditional model of training,
+where the reality of the game is said to be decontextualized.
+Some authors affirm that it is a loss of energy to train out of
+context and that energy on the court could be better used in
+real situations of play with specific cognitive and affective
+components (Tamarit & Frade, 2016; Manso et al., 1996).
+Technical effectiveness is known as the number of successes
+as a proportion of the total number of executions performed
+of a sporting skill (Acero, 2013). This technical effectiveness is
+a factor of utmost importance in the evaluation of the
+performance of tennis players (Baiget, Iglesias & Rodríguez,
+2008).The proposal of this study is to analyse by means of the
+ATR and Tactical Periodization methods, the technical
+effectiveness and the intermittent resistance in university
+tennis players.
+
+METHOD
+
+Participants
+
+For this study of 16 university players, eleven young male
+university tennis players aged on average 21.8 years old (S.D.:
+2.13), 73.3 kg (S.D.: 8.52) and 174 cm tall (S.D.: 0.08), and five
+female university tennis players aged on average 19.8 years
+old (S.D.: 2.77), 67.62 kg (S.D.: 9.29) and 161 cm tall (S.D.:
+0.04) were taken as samples and voluntarily agreed to
+participate in the study. The sample was divided into group 1
+and group 2. In order to avoid that the intervention methods
+and their order had a direct influence on the effects of each
+intervention, the interventions in the groups were applied in
+rotation as shown in table 1.
+
+Table 1. Distribution of groups and interventions.
+
+First intervention
+Second intervention
+
+method
+test
+method
+test
+Group 1
+P.T.
+Post-test
+A.T.R
+Post-test
+Group 2
+Post-test
+P.T.
+Post-test
+
+Measures and instruments
+
+Measures of resistance and technical effectiveness were
+taken by means of the following tests:
+
+
+The Set-test (Specific Endurance tennis test), was
+used a ball throwing machine brand tennis ‘Tutor
+Plus Player 3’. The test starts with a throwing
+frequency of 9 shots/min, increasing periodically to
+up to 13 shots/min until the exhaustion of the
+subject. The throwing speed was constant, and the
+test was carried out in stable environmental and
+wind conditions. The machine was adjusted so that
+the ball bounced alternately in the determined
+zones. Players made alternating forehand and
+backhand topspin strokes adjusting their speed to
+the machine rhythm.
+
+An objective evaluation of the technical effectiveness of the
+subjects was carried out by calculating the percentage of
+strokes and errors in the stroke, evaluating the precision and
+power of the strokes by means of lines marked on the court.
+The hits were successes or errors depending on precision
+criteria (falling on the target) and power (second bounce after
+a marked ‘power’ line). The total number of strokes executed
+is the sum of the errors and successes during the test. Heart
+rate was taken at the end of each period by means of the
+‘Polar H7 bluetooth’ and the ‘Polar Beat’ software.
+The test ended when the player could not hit two balls in a
+row or when at the discretion of the examiner, tennis players
+did not have to respect a minimum technical model in their
+strokes.
+
+Figure 1. Set-test. Reference. (Baiget, Iglesias & Rodríguez,
+2008) with modifications.
+
+
+The yoyo test of intermittent recovery features
+sprints of 2 x 20 mts between two markers back
+and forth. It is a progressive test with a speed
+increase given by the sound of the recording.
+Between each sprint there are rest periods of 10
+seconds in an area of 2x5 mts. When subjects fail to
+reach the mark twice the test will be finished, the
+time and distance of completion are recorded. It
+starts with 4 sprints at 10 - 13 km/h and 7 other
+sprints from 13.5 to 14 km/h followed by a staged
+increase of 0.5 k/h until exhaustion. The test was
+carried out on a uniform terrain (figure 2). Distance
+travelled and vo2max data were recorded indirectly
+using the Bangsbo forumla.
+
+Figure 2. Yo-yo intermittent recuperation test level 1.
+
+INTERVENTION
+
+We worked for 10 weeks. Each group performed both
+methods, the duration per intervention was 5 weeks
+performing 2 sessions per week.
+
+Intervention of the ATR method
+
+The planning was developed in three stages. The first stage is
+the accumulation of 3 weeks of working continuous speed
+sprints; the two following stages consist of a week. The
+transformation stage consisted of sprints with changes of
+direction and in the stage of realization, specific closedsituation drills on court were employed. Volume was taken as
+the number of meters and strokes to be made, and the
+intensity was taken to be defined by the relationship work –
+rest ratio. An example of a session is: speed sprints of 20mts x
+
+9 sets with 13 sec. of rest, 15mts x 12 sets with 10 sec. rest
+and 3 exercises of 48 sets of 4 repetitions of strokes with 25
+sec. Rest.
+
+Intervention of the tactical periodization method
+
+The model of play proposed by the coach were taken into
+account. Macro-principles and subprinciples were developed
+to use each day. the principles established are aimed at the
+overall game. We also take into account that the pattern
+morphocycle (working week in tactical periodization) includes
+a day of competition. We replace this day with a day of
+duration training of muscular contraction (resistance) bearing
+in mind that this is the day that represents maximum demand
+and similar characteristics to the competition. The game
+model was divided into a pro-set format without advantage
+and a system of direct elimination. From the model were
+established principles for each phase of the game. In the
+attacking phase, the following principles were established:
+controlled aggressiveness and selection of intelligent strokes.
+
+During the neutral phase: striking a  power-control balance
+and using a combination of strokes. Finally during the
+defensive phase: keeping the ball in play and counterattacking
+when under pressure. An example of an exercise of the
+session was: play from the baseline, trying to win the point
+from the red zone (sub-principle: control of the attack from
+the baseline). During a 27 minute period, 3 sets of 12
+repetitions in which a maximum of 6 strokes have to be
+executed, resting for 15-seconds between repetitions.
+
+Analyses of the data
+
+Descriptive statistics were created for the data. A one-way
+ANOVA design comparing test parameters was applied for
+data analysis. In order to test the validity of the models, a
+study of the data was applied: normality, trends, etc. and a
+homocedasticity contrast (homogeneity of variances between
+the groups). The statistical software was SPSS, STATIXTIX
+10.0.  The level of significance for all tests is 5%.
+
+RESULTS
+
+Table 2 and Table 3 show the averages, standard deviation
+and differences at statistical and sports level in each test.
+
+Table 2. Statistic analyse Set-test.
+
+SET-TEST
+
+T.P
+Differences
+Success
+44,12
+± 14,36
+30,62
+±17,88
+P>0,025
+13,5 golpes
+Error
+77,06
+± 17,27
+80,31
+±18,59
+P<0,612
+3,3 golpes
+Total strokes
+121,18
+± 21,58
+110,93
+±31,32
+P<0,289
+20,2 golpes
+Technical
+effectiveness
+36,33
+± 8,57
+25,98
+±9,23
+P>0,002
+10,4 golpes
+Cardiac
+frequency
+175,77
+± 4,74
+176,32
+±5,52
+P<0,763
+1,4 ppm
+
+Table 3. Statistic analyse yo-yo test R.I. level 1.
+
+YO-YO TEST R.I.
+
+T.P
+Differences
+Stade
+13,4
+±0,55
+13,7
+±0,67
+P<0,153
+0,6
+Distance
+410,00
+±85,79
+485,00
+±103,15
+p>0,032
+75 mts
+Vo2max
+39,84
+±0,72
+40,47
+±0,86
+p>0,032
+0,6 ml/kg/min
+
+Figures 3 and 4 show the comparison of the results between
+methods in the variable technical effectiveness in the set-test
+and distance in the yo-yo test.
+
+Figure 3. Differences between both tactical periodization and
+ATR methods for technical effectiveness.
+
+Figure 4. Differences between both tactical periodization and
+ATR methods for distance.
+
+DISCUSSION
+
+When we contrast the results obtained from the ATR and
+tactical periodisation methods we can observe that higher
+results were obtained in the technical aspects (table 2, figure
+3) in the tactical periodization model, which implies that it is a
+method more specific to training on court. The greater
+
+number of successes in tactical periodization method is
+reflected in an increase in technical effectiveness. Therefore,
+this demonstrates that on-court training methods are
+effective in developing sports performance in tennis in
+conjunction with improvements in endurance (Srihirun, 2014).
+This is in line with research in other sports such as football and
+rugby, that have demonstrated equal development of physical
+aspects by developing them through play (Hill-Haas, Coutts,
+Rowsell and Dawson, 2009; Gabbette, 2006).
+
+The results showed similar values in physiological variables as
+the cardiac frequency. and the vo2max (table 2, table 3)
+showing improvements in the assessment of physiological
+variables in both methods (Fernandez-Fernandez & cols,
+2011; Pialoux & cols, 2015). We have to mention, that the
+values of our study are from university players and the levels
+of university athletes are below those of competitive athletes
+(Castagna Álvarez and Barbero, 2006). The ATR method
+obtained the greatest distance travelled (table 3, figure 4);
+however, when using Bangsbo's calculation (2008) on the yoyo test results to assess the intermittent resistance capacity,
+we found that healthy active men can run 520mts with an
+improvement of 51.9mts and an elite soccer player can run
+873mts with an improvement of 11mts, this tells us that
+athletes are at a level of a healthy person. We can analyse that
+the ATR method has greater advantages in the parameter of
+distance travelled because a large part of the intervention is
+similar to the execution of the test, which is reflected in a
+higher distance covered.
+
+CONCLUSIONS
+
+The present study shows that there were differences between
+both methods during the five weeks of intervention. The
+method of tactical periodization had greater gains with the
+set-test in terms of technical effectiveness due to a greater
+number of successful strokes. The ATR method had greater
+values with the yo-yo test in terms of travelled distance. Both
+methods are adapted to the development of technical
+effectiveness and intermittent resistance. The method of
+tactical periodization offers greater gains in intermittent
+resistance
+parameters
+under
+decontextualized
+game
+conditions. Physical trainers, when performing endurance
+work on their athletes, can implement tactical-focused
+training without neglecting the development of the specific
+endurance in tennis.

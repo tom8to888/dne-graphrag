@@ -1,0 +1,568 @@
+Title: Diverse and inclusive tennis governance: Threading inclusive leadership practices into director selection
+Authors: Tracy Molloy, Kelly McCallum, Lesley Ferkins, Charlotte Jelleyman
+Year: 2023
+Issue: Vol. 31 No. 90 (2023)
+Article id: 461
+
+ABSTRACT
+The purpose of our article is to demonstrate how inclusive leadership practices can be
+threaded into the director selection process as a way to achieve more diverse and inclusive
+tennis governance. In this review article, we have brought together a growing body of
+knowledge on inclusive leadership practices for sport boards. We use this knowledge to
+propose suggestions for the director selection processes. We break down the concepts of
+diversity and inclusion, as well as director selection as they apply to sport governance to
+offer tangible ways for tennis boards to become more diverse and inclusive.
+INTRODUCTION
+Commentators and the public are increasingly expecting
+good global citizenship from our sport organisations. Broader
+societal goals such as respecting human rights and dignity
+(International Tennis Federation [ITF], 2023), ‘playing for
+peace’ (ITF email signature) and environmental wellbeing
+(United Nations, n.d.) are now part of sport governance. To
+address these goals, National Tennis Federation boards need
+to have their eye on governing in a way that embraces diverse
+and inclusive practices. This means they need to have the
+capacity to govern beyond a focus on oversight (compliance/
+risk management) and foresight (performance/strategy) and
+toward their insight objective (i.e., intra/extra-organisational
+reflections on matters such as societal contributions) (Ferkins
+& Kilmister, 2012; Molloy, 2023).
+Such societal goals are lofty, especially when, depending on
+the size of the National Tennis Federation, the core business
+of developing and delivering tennis (oversight and foresight),
+likely captures most of the management and governance
+time and attention. Capacity may restrict the Federation’s
+ability to promote its insight objective that is more orientated
+toward ‘societal contributions’, and related imperatives of
+diversity and inclusion. How then, to make such an ‘insight’-ful
+aspiration a reality?
+In this article, we propose two key strategies for unlocking
+the potential of the insight objective for a National Tennis
+Federation board as well as contributing to its oversight and
+foresight focus. Firstly, the pursuit of board composition that
+promotes diversity (demographic and thought) and inclusive
+leadership practices. Secondly, board selection procedures
+that attract and select people with these capacities. Together
+we call this ‘director selection’. These strategies are about
+www.itfcoachingreview.com
+August 2023. 30th Year. Issue 90. 17-23
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i90.461
+Diverse and inclusive tennis governance:
+Threading inclusive leadership practices into
+director selection
+Tracy Molloy, Kelly McCallum, Lesley Ferkins & Charlotte Jelleyman
+1Auckland University of Technology, AUT Sports Performance Research Institute New Zealand.
+Key words: Diversity, inclusion,
+leadership, governance.
+Received: 3 June 2023
+Accepted: 12 July 2023
+Corresponding author: Lesley
+Ferkins. Email: lesley.ferkins@aut.
+ac.nz
+shining a spotlight on who gets to sit on the tennis board.
+Within these two director selection strategies, we integrate
+a growing body of research that is helping to expand an
+understanding of inclusive leadership practices. Thus, in the
+sections below, we first offer the benefit of the latest research
+and insight about diversity and inclusion as it applies to
+sport governance in general, and tennis boards in particular.
+We explain the nuanced distinction between diversity and
+inclusion and relate these ideas to inclusive leadership
+practices by also threading in concepts of emotional and
+cultural intelligence. We then focus on director selection
+in tennis governance, teasing out the component parts of
+direction selection to reveal how inclusive leadership practices
+can be embedded into this process. Thus, the purpose of our
+article is to demonstrate how inclusive leadership practices
+can be threaded into the director selection process as a way
+to achieve more diverse and inclusive tennis governance.
+COACHING & SPORT
+SCIENCE REVIEW
+INCLUSIVE LEADERSHIP IN SPORT GOVERNANCE
+Global interest in creating a culture of diversity in sport
+governance, especially gender diversity has grown within
+the past decade (Adriannse, 2016; Burton, 2015). However,
+recent research has recognised that increasing diversity in
+organisations does not automatically lead to the associated
+potential benefits (i.e., increased levels of creativity and
+innovation) being realised (Cook & Glass, 2014; Giscombe
+& Mattis, 2002; Randel et al., 2018; Roberson, 2006). There
+needs to be a deeper understanding of the complexities and
+processes required to foster the potential value of diversity,
+through accompanying inclusive leadership practices (Jackson
+& Joshi, 2011; Randel et al., 2018; Shore, 2011). To advance
+this understanding we now explore the concepts of diversity
+and inclusion as well as emotional and cultural intelligence
+as they relate to inclusive leadership practices within sport
+governance (and tennis boards).
+Sport governance – Diversity and inclusion
+Although diversity and inclusion are frequently used
+interchangeably, they are thought to be conceptually distinct
+and refer to related but differing ideas (Mor Barak, 2019;
+Roberson, 2006). Cunningham (2015) defines diversity as “the
+presence of socially meaningful differences among members
+of a dyad or group” (p. 6) and inclusion as “the degree into
+which individuals are free to express themselves and have
+a sense of workplace connectedness and belonging” (p. 7).
+Or more simply put, “Diversity is what you have. Inclusion is
+what you do. Accepting and promoting diversity alone is not
+enough. Diversity is opening the door, but inclusion is the
+warmth welcoming you in” (Lovett et el., 2020, p. 7).
+In terms of diversity and inclusion in sport governance,
+recent global interest has been tinged with a focus on the
+associated problems of a lack of diversity and inclusion in
+organisations such as tokenism, discrimination and bias
+(Mayo et al., 2016). Another observation is that proactive
+diversity strategies have often focused on aspects such as
+gender (Mayo et al., 2016; van Knippenberg et al., 2013). In
+October 2018, the New Zealand Prime Minister and Minister
+for Sport and Recreation announced a new strategy, designed
+to grow female representation in sport governance, called
+the National Policy of Gender Equity (Sport New Zealand,
+2018). The government, together with Sport New Zealand
+(the government sport agency), committed $10million NZD
+over the next three years to ensure diversity and inclusion
+initiatives were implemented. As of May 2021, 65 out of the
+66 qualifying sport organisation partners reached the 40%
+self-identified female board composition quota requirements
+and the only non-compliant partner had a plan in place to
+achieve it.
+Tennis New Zealand (Tennis NZ) were among the 65 qualifying
+partners to achieve the policy with 63% self-identified
+females occupying director roles within the National Tennis
+Federation (NTF) board to date. It would appear that the
+Government’s Gender Equity Policy (with Sport NZ) helped
+Tennis NZ achieve its own gender equity aspirations as prior
+to 2021 there were few to no women on the 7–10-member
+board. Since 2021, inclusive of strategies such as co-option
+and intern appointments, there has been more than 50%
+women on the Tennis NZ board (i.e., 5-6). Refer Table 1 below.
+Table 1
+Females
+Year
+Board
+members
+N
+Notes
+2001
+2002-2004
+2005-2008
+2009-2011
+2012-2016
+2017-2019
+2020
+2021
+Inclusive of co-option
+and intern
+2022
+Inclusive of co-option
+and intern
+2023
+Inclusive of co-option
+However, whilst some sport organisation boards are looking
+to boost representation in broader terms with different
+ethnicities, LGBTIQA+ affinity, culture, age, disability, and
+backgrounds, diversity is unlikely to be sustainable without
+meaningful inclusion frameworks (Buse et al., 2014). Ospina
+and Foldy (2010) suggest that a diverse representative
+structure is not enough to foster differences and additional
+leadership practices need to be implemented to ensure a
+sense of inclusiveness, openness, and fairness to facilitate
+bridging the differences. Interestingly, Tennis Australia has
+reversed its reference to the common discourse of “Diversity
+and Inclusion” by framing this as “Inclusion and Diversity”,
+(Tennis Australia, n.d., para. 1), perhaps in an attempt to
+further emphasise the distinction and importance of inclusion
+as suggested by the authors above.
+The willingness of sport organisations’, and tennis boards in
+particular, to embrace diversity and inclusive practices, does
+not come without challenges (Sport New Zealand, 2018;
+Tennis Australia, n.d). The theoretical knowledge about
+how to integrate effective inclusive practices into the sport
+governance context is limited and the tennis leadership and
+governance landscape is complex. Existing literature and
+research indicate that inclusion initiatives have predominately
+focused on strategies and policies at an institutional
+change level and not necessarily at the intrapersonal and
+interpersonal level (Cunningham, 2015; Parker, 2019).
+Perhaps then, in order to ensure the sustainability of diversity
+occurring through inclusive initiatives, tennis governance
+practices need to consider how to embed diversity and
+inclusion practices at a micro level as well (Cunningham,
+2015; Parker, 2019).
+Creating an environment where members experience a sense
+of inclusion within tennis boards is therefore potentially
+dependent on how leaders facilitate this at the micro level,
+and, enact inclusive behaviours within the board leadership
+context directly (O’Boyle et al., 2020; Randel et al., 2018). This
+is supported by O'Boyle et al. (2020) who express concerns
+about how leadership behaviours and actions influence
+decision making processes at the board level. They stipulate
+that to significantly address the influence of leadership
+within governance requires an exploration of integration
+between group processes and dynamics (O’Boyle et al., 2020).
+Such a process view of leadership shifts the leadership lens
+from focusing on the individual to a focus on the influencing
+relationship between and among board members (Ferkins
+et al., 2018; Jackson & Parry, 2018). Thus, the complexity of
+group processes and inclusive practices in tennis governance
+requires appropriate mechanisms, and this potentially could
+be where the adoption of an emotional and cultural lens could
+be a means to achieve this.
+Tennis governance - Emotional and cultural intelligence
+Developing sustainable and inclusive practices within tennis
+governance structures requires more than a seamless
+integration of practices - it requires a system that captures
+leadership complexities and that addresses thoughts that
+embody the dynamics of intra and interpersonal interactions.
+If thoughts, emotions, and culture have been addressed as
+barriers to inclusion (Gerbert et al., 2017), then embedding an
+emotional and cultural intelligence lens could potentially be a
+contributor to sustainable diversity.
+Emotional intelligence (EI) is the ability to monitor one’s own
+emotions to guide one’s thinking and actions when working
+with others (Middleton, 2014). EI is about self-awareness, selfmanagement, social awareness, and relationship management
+(Goleman, 2020). Developing inclusive leaders with EI skills
+and abilities particularly at an intrapersonal and interpersonal
+level may help to promote healthy environments (Jada et al.,
+2016; Warrier, 2021), such as within a NTF board.
+Cultural intelligence (CQ) is also recognised as a core
+competence of inclusive leadership (Paiuc, 2021) and is
+often linked with EI (Darvishmotevali et al., 2018; RichardEaglin, 2021; Rockstuchl et al., 2011). CQ is defined as
+the capacity to communicate, relate and work effectively
+within environments that are characterised by high cultural
+complexity (Andreson, 2017; Ang & Van Dyne et al., 2007;
+Middleton, 2014). This concept of CQ applied to a leadership
+context has been garnering increasing interest amongst
+‘Western’ scholars (Ang & Van Dyne et al., 2007; Clark &
+Polesello, 2017; Middleton, 2014; Thomas, 2006). Whilst the
+CQ literature is evolving, research still tends to focus around
+CQ as an individual leader construct rather than an integral
+component of organisational or board leadership processes
+(Andreson 2017; Moon, 2010). However, Clark and Polesello
+(2017) argue that a combined application of EI and CQ can
+influence positive organisational change with respect to
+diversity and inclusion barriers.
+Thus, if EI and CQ are considered powerful elements of
+inclusive leadership practices, how then might they influence
+an aspiration for diverse and inclusive tennis governance?
+For this, we return to our two director selection strategies
+(the pursuit of diverse board composition through targeted
+processes). In other words, why not recruit for EI and CQ, so
+that those who sit on a tennis board can influence inclusive
+leadership practices to achieve more diverse and inclusive
+tennis governance?
+DIRECTOR SELECTION IN TENNIS GOVERNANCE
+Director selection is the “formal process by which individuals
+are identified, screened, nominated and elected (or
+appointed) to corporate boards” (Withers et al., 2012, p.
+245). If a NTF wants to achieve sustainable diversity in its
+board’s composition, with directors contributing EI and CQ
+to inclusive leadership practices, then its director selection
+processes could be the mechanism to unlock this potential.
+Importantly, the use of nomination committees (NCs) as part
+of nonprofit sport director selection processes have recently
+been recognised for their ‘board-shaping’ potential (Stenling
+et al., 2021).
+Tennis governance – Director selection
+The critical nature of director selection for sport organisation
+governance has been captured in a visual representation,
+referred to as the Expanded Integrated Board Performance
+model (Molloy, Ferkins & Dickson, 2020) set out in Figure 1.
+As captured in Figure 1 above, director selection has important
+implications for tennis governance. This is because identifying
+and recruiting directors is the important first step for tennis
+boards to “enjoy the performance-enhancing benefit of
+directors with the appropriate backgrounds and skill sets
+(individual factors)” (Molloy, Ferkins & Dickson, 2020, p. 329),
+who can contribute to the following board factors:
+•	 Structure - appropriate diversity in board composition;
+•	 Processes – adoption and implementation of relevant
+practices and policies; and
+•	 Intra-group dynamics – constructive engagement with
+each other in their oversight, foresight, and insight
+objectives.
+There is very little sport specific research about director
+selection (Molloy, Dickson & Ferkins, 2020), however we can
+identify four key features of director selection: the structure/
+model, method, processes, and criteria (Molloy, Dickson &
+Ferkins, 2020; Molloy, Ferkins & Dickson, 2020). We discuss
+each below.
+Feature 1: Director selection structure/model
+In New Zealand and Australia’s typically federated sport
+governance system, there has been a shift away from the
+traditional “delegate/representative (competitive democracy)
+model [to] the independent (whole-of-sport) model” (Molloy,
+Dickson & Ferkins, 2020, p. 338). In the independent model,
+directors are selected to promote the best interests of the
+organisation or sport as a whole, not to represent a particular
+constituency (whether it be club, regional sport organisation,
+or sport discipline).
+Feature 2: Director selection method
+National sport organisation (NSO) director selection methods
+in New Zealand commonly include election (by and/or from
+within the membership), appointment (by a nomination
+committee or appointments panel) and co-option (by the
+existing board). For example, the Ferkins and Shilbury (2010)
+action research project with Tennis NZ records its shift from
+a 10-person management committee to a 100% appointed
+board, to a hybrid approach with four appointed and four
+regionally elected board members. This hybrid approach
+addressed a sense of “disconnection between the national
+board and regional perspectives” (Ferkins & Shilbury, 2010,
+p. 241) associated with the prior 100% appointed board
+approach.
+Feature 3 and 4: Director selection processes and criteria
+Director selection processes include planning (e.g., identifying
+board needs, candidate criteria development) and assessment
+(e.g., interviews, reference checking, suitability synopsis
+development) type functions/activities (Molloy et al., 2022),
+with nomination committees (NCs) playing an increasingly
+visible role. In terms of criteria, Elms et al. (2015) advocate
+for the importance of achieving an effective balance between
+‘role-fit’ criteria (i.e., complementary skills and experience)
+and ‘group-fit’ criteria (i.e., social compatibility). Sport
+scholars recognise that “possessing cognitive competencies
+such as technical abilities, strategic skills or financial skills is
+not enough to be an outstanding performing board member.
+Emotional and social intelligence competencies are important
+pillars in perceptions of competencies” (Balduck et al., 2010,
+p. 228). However, many sport organisations still favour, in
+their constitutions at least, an emphasis on the role-fit type
+criteria.
+Figure 1. Director Selection in the Expanded Integrated Board Performance Model.
+Note. The Integrated Board Performance model was originally produced by Hoye & Doherty (2011) and recently expanded (as denoted by the
+broken lines and italics) by Molloy, Ferkins & Dickson (2020). From Routledge Handbook of Sport Governance (p. 328) edited by D. Shilbury & L.
+Ferkins, 2020, Routledge. Reprinted with permission.
+Tennis NZ - director selection criteria
+The Tennis NZ constitution requires its NC (or board
+appointment
+panel)
+to
+make
+merit-based
+decisions
+considering
+factors
+such
+as
+governance,
+sport,
+and
+occupational experiences “including skills in commerce,
+finance, marketing, law or business generally” (Tennis NZ,
+2012, p. 21). This constitutional focus on ‘role-fit’ over ‘groupfit’ and diversity/EI/CQ type criteria is common but may be
+overcome by how ‘criteria’ is outworked in practice.
+A practical example of ‘group-fit’ and diversity type criteria is
+demonstrated in recent changes made by the Tennis NZ board
+to its board needs matrix. The matrix now specifically includes
+‘Cultural Competency in New Zealand Context’ as well as
+consideration of board dynamics and interactions (T.A. Scorer,
+personal communication, 22 June 2023). Further evidence of
+Tennis NZ’s practices beyond what its constitution requires
+can be found in its board charter, which was updated in
+2023, some 11 years after the present constitution (Tennis
+NZ, 2023). The following clauses signal a stronger focus on
+inclusive leadership practices in relation to board member
+responsibilities and expectations and state that the board:
+•	 Determines the appropriate culture for Tennis NZ and
+models behaviours that both reflect and promulgate the
+desired culture (p. 3).
+•	 Bring[s] a diversity of opinions and views to bear on its
+decisions (p. 4).
+•	 Board
+Members
+must
+demonstrate
+high
+ethical
+standards and integrity in their personal and professional
+dealings and be willing to act on - and remain collectively
+accountable for - all board decisions and speak with one
+voice on all policy and directional matters (p. 6).
+There is also the opportunity for Tennis NZ to continue
+to evolve its board charter via the mechanism of board
+agreement, rather than constitutional change. In this way, it
+may continue to more strongly call out EI and CQ as elements of
+inclusive leadership practices within the written expectations
+and responsibilities of board members found within its
+charter. An evolving board charter, and more overt alignment
+of the charter content with the board needs matrix and NC
+briefings, also has the potential to have greater influence in
+director selection criteria, processes and outcomes.
+With NCs being an emerging phenomenon in the sport
+director selection literature (Molloy et al., 2022; Stenling et
+al., 2020), we turn now to explore the NC’s ‘board-shaping’
+and EI/CQ board capacity building potential.
+Sport governance – nomination committees
+NCs are described as the “primary institutional mechanism
+designed to strengthen director selection processes”
+(Kaczmarek et al., 2012, p.474) with the overarching role to
+enhance board composition. Again, there is very little sport
+specific research on NCs, however drawing from for-profit,
+nonprofit, and sport governance literature we can examine
+NCs from structural (composition and powers) and process
+perspectives.
+NC structure - composition and powers
+In terms of NC composition, in the for-profit sector, recent
+concerns relate to the ratio of independent versus executive
+directors and/or external experts on the NC (Aperte, 2016;
+Kaczmarek & Nyuur, 2016; Nachemson-Ekwall & Mayer,
+2018). Similar concerns echo in the nonprofit sport sector,
+with New Zealand NSO NCs being variously composed of a
+mix of external independents, board member nominees, and
+NSO member nominees (Molloy et al., 2022). Of significance
+are the links, in the for-profit sector, between NC gender
+and ‘nationality’ diversity and associated board diversity
+(Kaczmarek et al., 2012). Whilst needing empirical validation,
+we suggest the same may be true for EI/CQ capacity and
+inclusive leadership practices and pose the question - if an
+NTF wants these intra and inter-personal skills on its board -
+should it have people with, and who can recognise, such skills
+on its NC?
+In terms of NC powers, in the sport sector these include
+the power (and responsibilities) to identify, recruit, assess,
+recommend, appoint, monitor and/or evaluate board
+directors (Bradbury & O’Boyle, 2015; Brunzell & Söderman,
+2012; Enjolras & Waldahl, 2010; Ferkins & Shilbury, 2010; K.
+Ingram & O’Boyle, 2018; Stenling et al., 2021). From a balance
+of power perspective, Molloy et al. (2022) identified the need
+to explore the appropriate balance between community
+(democratic legitimacy) and corporate (professionalisation/
+efficiency) logics reflected in NC composition. NSO NCs in
+New Zealand range from those effectively having the power
+to select 100% of the board members to those appointing or
+recommending only the minority (Molloy et al., 2022) with
+the majority of board members being elected by the voting
+members.
+NC processes
+In terms of NC processes, the for-profit sector has identified
+a range of decision comprehensiveness (Walther et al.,
+2017): unplanned (low planning, low evaluation), projecting
+(high planning, low evaluation) and inclusive (high planning,
+high evaluation). In the sport sector, Swedish studies have
+identified NC processes involving minimal transparency and
+formalisation (Stenling et al., 2021) within an environment
+where NCs undertake a range of complex rankings of
+candidate evaluation criteria (Stenling et al., 2020). New
+Zealand NSO constitutional data (Molloy et al., 2022)
+suggests a low planning and high assessment approach with
+an assessment focus on role-fit over group-fit/diversity type
+criteria (see Molloy et al., 2022, Table 4). Accordingly, there
+may be an opportunity for NSOs (including NTFs) to better
+enshrine at constitutional level, as well as in their practices,
+a more balanced approach to the planning and assessment of
+candidate evaluation criteria.
+Tennis NZ - NC features
+The Tennis NZ (2012) constitution requires its NC to be
+composed of the Chair (or Deputy or other board member if
+the Chair is re-standing), a person appointed by the Regional
+Centre chairpersons and an independent expert (appointed
+by the board). The NC is responsible for identifying and
+inviting candidates, advertising for and assessing candidates,
+determining appointments (up to four directors) and making
+recommendations for the elected directors (such NC
+recommendations to be considered by the voting members
+along with all valid applications). As previously identified,
+the constitutionally mandated criteria to be applied by the
+NC has a strong ‘role-fit’ emphasis however this may differ
+operationally with ‘group-fit’ and diversity/EI/CQ type
+criteria being considered during the actual process.
+At the practice level, as noted above, Tennis NZ has more
+recently undertaken several initiatives to influence a greater
+focus on ‘group-fit’ criteria into its NC processes. In addition
+to updating its board needs matrix and board charter, Tennis
+NZ has also recently established a ‘new to governance’
+programme (to grow more diverse and inclusive governance
+capability), as well as invoked its co-option clause to enable
+a more inclusive board environment for indigenous (Māori)
+people. A recent board internship has also meaningfully
+contributed a youth, Māori and Pasifika voice to the Tennis NZ
+board (T.A. Scorer, personal communication, 22 June 2023).
+Another part of its practices is the Tennis NZ diversity, equity
+and inclusion policy. Approved in August, 2022:
+This policy provides a framework for Tennis NZ’s current and
+future diversity and inclusion initiatives and applies to every
+level and aspect of the sport, including but not limited to the
+Board and Staff of Tennis NZ and the wider tennis community.
+(Tennis New Zealand, Te Tēnehi o Aotearoa, p. 3, 2022)
+As noted in the scope of this policy, its purpose is to influence
+board leadership practices, which, as per our argument within
+the present article, needs to also influence not only what the
+NC’s are looking for but the very composition of the NC itself.
+A further key element of the diversity, equity and inclusion
+policy relates to a stated commitment to Te Tiriti o Waitangi
+(The Treaty of Waitangi) by Tennis NZ, to the founding
+agreement with the indigenous (Māori) peoples of New
+Zealand (also known as tangata whenua – peoples of the
+land). For this Tennis NZ (TNZ), recognises Te Tiriti o Waitangi
+as Aotearoa New Zealand’s founding document. TNZ is
+committed to upholding the mana of Te Tiriti o Waitangi….
+This commitment is brought to life in TNZ’s partnership
+with Aotearoa Māori Tennis Association and the Rangapū
+partnership agreement (p. 3).
+A recent Tennis NZ NC report reflected this commitment in
+noting the diversity of candidates (including eight females,
+three Māori and four other non-European ethnicities) and
+recommending that any unsuccessful Māori candidates
+be approached to explore other ways in which they could
+contribute to Tennis NZ’s bicultural aspirations (T.A., Scorer,
+personal communication, 22 June 2023). In this way, Tennis
+NZ is currently navigating its relationship with tangata
+whenua, Māori, as part of its ongoing practices to create a
+more diverse and inclusive environment for tennis in New
+Zealand.
+We argue that the success of Tennis NZ’s diversity and
+inclusion aspirations will be heavily influenced not only by
+a diverse and inclusive board, but by a diverse and inclusive
+NC. Linking back to the Tennis NZ constitution, the Regional
+Centre chairpersons and Tennis NZ board have the power,
+through their NC appointments, to support this vision of a
+diverse and inclusive NC and Tennis NZ board. They can do
+this by appointing people who reflect, and can recognise in
+others, diversity, EI, CQ and inclusive leadership potential.
+A final acknowledgement, regarding jurisdictional limitations,
+relates to the extent to which NTFs may be restricted by
+their national regulatory context. For example, the Australian
+Sports Commission (2020) recommends a majority of elected
+directors (but with all being ‘independent’ by holding no
+other ‘office’ within their membership structure). In Canada,
+nonprofit legislation requires that directors be elected by
+the members with the board having limited co-option rights
+(co-options not to exceed one third of the elected positions)
+(Canada Not-for-profit Corporations Act 2009; Parent,
+Naraine & Hoye, 2018). In Sweden, for all NSOs belonging to
+the Swedish sport confederation, their NC “must consist of
+members elected by the NSO [General Assembly]” (Stenling
+et al., 2021, p. 6). Notwithstanding any such restrictions,
+NTFs are encouraged to explore ways in which they can
+engage with their exiting director selection (and nomination
+committee) structures, powers, and processes to maximise
+the diversity, EI, CQ and inclusive leadership capacity in their
+board composition.
+SUMMARY AND CONCLUSION
+The purpose of our article was to demonstrate how inclusive
+leadership practices can be threaded into the director
+selection process as a way to achieve not only more diverse,
+but also inclusive tennis governance. To do this, we brought
+together a growing body of knowledge on inclusive leadership
+practices for sport boards which focused first on the nuanced
+distinction between diversity and inclusion. We then related
+these ideas to the inclusive leadership practices of EI and CQ.
+We used this evolving understanding of inclusive leadership
+practices to suggest considerations for the director selection
+process as a way to achieve more diverse and inclusive tennis
+governance. We argue that the time has come for the board’s
+insight objective (intra/extra-organisational reflections on
+matters such as societal contributions) to sit alongside its
+oversight (compliance/risk management), and foresight
+(performance/ strategy) objectives as ‘equal partners’ in the
+governance of sport organisations. Perhaps National Tennis
+Federations (as exemplified by Tennis NZ) may be able to lead
+the way as the insight-ful sport within a complex governance
+landscape.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

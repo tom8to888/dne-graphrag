@@ -1,0 +1,410 @@
+Title: Emotions in young tennis players: a new tennis-specific scale
+Authors: Antonio Daino, Vanessa Costa, Riccardo Martori, Sergio Costa
+Year: 2021
+Issue: Vol. 29 No. 85 (2021)
+Article id: 290
+
+ABSTRACT
+This article describes the development of the “Scale Perception Emotion Tennis” (SPET).
+This scale tries to contribute to the understanding and assessment of responses related
+to the inadequate management of emotions in tennis competition. It delineates how the
+SPET tool could represent a first step in the direction of increasing the awareness of the
+players and could be used by the coaches to compare their perception of the player’s
+emotions with the one of their athletes.
+INTRODUCTION
+Emotions are multifaceted subjective feelings reflecting
+expected, current, or past interactions with the environment
+and play a fundamental role in human adaptation and
+performance by improving sensory intake, detection of
+relevant stimuli, readiness to behavioral responses, decisionmaking and interpersonal social interactions (Robazza &
+Ruiz, 2018). These beneficial effects enhance human health
+and performance in any endeavor. For many years, sport
+psychologists have been concerned with the study of the
+deleterious effects of stress and anxiety purported to the main
+factors in the failure of performers to fully and effectively use
+their skills (Robazza, 2006).
+These aspects are present in tennis, too, where the selfefficacy degree to cope with the match tasks influences the
+emotions and their perception (Costa et al., 2015). For this
+reason, the matches arouse both in the audience and in the
+players an enormous emotional involvement; the young
+tennis players are often forced to deal with strong emotions
+that tend to affect their performance negatively. Anxiety,
+sadness, fear and anger are emotions felt very often, and
+young players in comparison with professional players are
+less able to understand and explain these oppressive feelings,
+and cope with them effectively during the tournament.
+The interest in the emotion field first appeared within the
+Italian Tennis Federation many years ago, but took shape in
+a research project which started in 2016 when the mental
+staff of the R. Lombardi Institute, under the direction of
+Michelangelo Dell'Edera and coordinated by Antonio Daino,
+put forward the “ABC of Emotion Project”. This project
+was designed to investigate the emotions connected to the
+competitive context in regarding players of national level
+Under-12 (Daino & Uberti, 2014). This work, conducted on
+30 selected (best) Italian tennis players (balanced by gender,
+age, and level of play), revealed that, asking the young tennis
+players to list the emotions they usually experience oncourt, 70% of them started with negative emotions as a first
+response (anxiety, anger and fear), while only 30% reported
+positive emotions (joy, happiness and serenity). This may
+be attributable to the fact that, in youth sports, excessive
+emphasis is placed on result instead of fun, which conversely
+should be a fundamental element in these phases of sport
+(Merkerl, 2013).
+www.itfcoachingreview.com
+December 2021. 29th Year. Issue 85. 18-21
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v29i85.290
+Emotions in young tennis players:
+A new tennis-specific scale
+Antonio Daino, Vanessa Costa, Riccardo Martoni & Sergio Costa
+Italian Tennis Federation, Italy.
+Key words: scale, emotions, tennis
+questionnaire, test SPET.
+Received: 3 October 2021
+Accepted: 24 November 2021
+Corresponding author: Antonio
+Daino. Email: adaino@libero.it
+COACHING & SPORT
+SCIENCE REVIEW
+For these reasons, a tool was developed to detect and measure
+these feelings with the goal of  using this knowledge to teach
+how to manage the emotions. It is called the “Scale Perception
+Emotion Tennis” (SPET) and could be established thanks to a
+self report questionnaire. The goal of this questionaire was
+to determine the more dominant emotional aspects while
+performing competitive tennis.
+The purpose of the following research was to monitor ideas,
+thoughts, beliefs, and emotional experiences in relation to
+tennis performance in the different age groups, levels and
+genders using the new proposed scale. This information
+would therefore be useful not only in improving the players’
+emotional awareness, but also in promoting the selfregulation of the emotions perceived during the matches.
+METHOD
+Participants
+The questionnaire was proposed to 136 participants, 93
+male and 43 female, with an average age of 20.27 years old,
+with SD 8.6, and grouped in 4 different groups based on each
+specific tennis role (coaches, Under-16 Italian national team
+players, Under-16 competitive tennis players and Under-16
+amateurs).
+Table 1
+Mean and SD of the 4 groups.
+Num.
+SD
+Coaches
+28.90
+7.09
+Italian National Team Players
+15.89
+1.84
+Competitive Tennis Players
+12.84
+1.74
+Amateurs
+14.25
+2.24
+Questionaire
+The
+“Scale
+Perception
+Emotion
+Tennis”
+(SPET)
+was
+administered in the post-game interviews of the players
+between 2012-2014 with the Italian Tennis Federation
+mental trainers, and produced a first version of 30 items in
+total. This version was revised to have a final version with 20
+items, using only those aimed at investigating the specificity
+of tennis emotions. The questionnaire evaluated 3 different
+areas:  Emotions, Thoughts and Behavior and it made up of of
+the following items.
+1.	 Competing makes me feel at ease and energised.
+2.	 My performance gets better while playing in front of
+a crowd.
+3.	 I tend to perform better during practice than during
+competitive matches.
+4.	 I am very afraid of losing the match.
+5.	 I hop on my toes to keep active and activated.
+6.	 I use a breathing technique to better adjust to the
+pressure of a match.
+7.	 I cannot stand the pressure of the third set and can’t
+wait for it to end.
+8.	 I keep my fingers crossed not to play against certain
+players.
+9.	 I am able to focus and not get distracted even during
+clutching moments.
+10.	 I play my best tennis during tough matches.
+11.	 I feel too much tension during a match.
+12.	 My opponents play best when they are playing against
+me.
+13.	 I am able to release tension between points.
+14.	 I am able to control my anger after an unforced error.
+15.	 I get stuck on clutching points.
+16.	 My timing gets worse when I am under pressure.
+17.	 I am able to relax and calm down during breaks
+between matches.
+18.	 I play better during competitive matches than in
+practice.
+19.	 I am overwhelmed by my thoughts.
+20.	 I miss opportunities due to indecision.
+The players were then asked to answer, thinking about what
+they felt during the tournament matches, indicating for each
+item, on the basis of a four-point Likert scale, if that feeling
+was perceived "always", "often", "sometimes" or "never". For
+the assessment, an increasing or decreasing score was then
+assigned, from four to one, depending on the orientation of
+the specific question.
+Procedure
+The participants, in groups, were invited to answer to the
+questionnaire, being as sincere as possible, since the test was
+absolutely anonymous with no right/wrong answers.
+Statistical Analysis
+Data analyses were performed using Statistica 8.0. The
+variables normality distribution was evaluated with the
+Shapiro-Wilk test and, since the variables results were not
+normally distributed, nonparametric tests were run for
+Groups Comparison and Cluster Analysis. Thresholds of
+significance were set at p < 0.05.
+RESULTS
+Figure 1. Total score comparison in the four groups.
+Figure 2. Plot of Means for each cluster.
+Kruskal-Wallis analysis shows that groups differed of the total
+score at the questionnaire (Fig.1) [H ( 3, N= 136) =47,67597 p
+=,0000]. Moreover, Mann-Whitney U Test comparisons show
+some differences between groups [Coaches vs Competitive
+Tennis Players (Z: 5.08; p: 0.000); Coaches vs Amateurs (Z:
+5.37; p:0.000); Italians Selected vs Competitive Tennis Players
+(Z: 3.96; p:0.000); Italians Selected vs Amateurs (Z: 4.27; p:
+0.000)], with the exception of Coaches vs. Italians Selected
+comparison (Z: 1.16; p: 0.245) and Competitive Tennis Players
+vs Amateurs comparison (Z: 0,43; p:0.781).
+According to the k-means data, the scree plot (Fig. 2) shows
+the two-cluster solution with 76 subjects in cluster 1 (Coaches
+and Italians Selected) and 60 subjects in cluster 2 (Competitive
+Tennis players and Amateurs).
+Table 2
+Means and SD of the two clusters for each questionnaire’s item.
+Cluster 1
+Cluster 2
+Mann-Whitney U Test
+Std.Dev.
+Std.Dev.
+Z
+p-level
+Energised
+E
+2,75
+0,75
+2,82
+0,60
+0,55
+0,580
+Crowd
+T
+2,12
+0,88
+2,71
+0,88
+3,57
+0,000
+Practice
+T
+2,43
+0,87
+2,72
+0,74
+2,18
+0,028
+Afraid
+E
+1,85
+0,80
+3,08
+0,69
+7,17
+0,000
+Activated
+B
+2,27
+0,90
+2,93
+0,85
+3,92
+0,000
+Breath
+B
+2,20
+1,02
+2,84
+0,92
+3,49
+0,000
+Third
+T
+1,63
+0,88
+3,49
+0,64
+8,48
+0,000
+Finger crossed
+T
+1,88
+0,98
+3,39
+0,75
+7,28
+0,000
+Clutching
+T
+2,50
+0,72
+2,54
+0,77
+0,39
+0,696
+Tough
+B
+2,70
+0,87
+2,89
+0,76
+1,13
+0,254
+Tense
+E
+2,02
+0,85
+2,88
+0,73
+5,33
+0,000
+Opponents
+T
+1,90
+0,66
+2,89
+0,78
+6,32
+0,000
+Relax
+B
+2,57
+0,79
+2,49
+0,70
+-0,79
+0,423
+Anger
+B
+2,68
+0,93
+2,64
+0,90
+-0,14
+0,886
+Stuck
+E
+2,17
+0,76
+3,00
+0,59
+5,88
+0,000
+Pressure
+E
+2,05
+0,81
+2,86
+0,76
+5,14
+0,000
+Calm
+B
+2,30
+0,79
+2,82
+0,87
+3,28
+0,001
+Competition
+B
+2,38
+0,94
+2,66
+0,84
+1,77
+0,075
+Thought
+T
+1,85
+0,94
+2,55
+0,89
+4,05
+0,000
+Indecision
+E
+2,83
+0,89
+2,62
+0,78
+-1,22
+0,220
+As shown in Table 2, the two clusters differ in 13 items, 6 of
+them related to the area of thoughts (items 2, 3, 7, 8, 12, 19),
+4 to the emotions (items 4, 11, 15, 16) and 3 to the behaviors
+(items 5, 6, 17).
+DISCUSSION
+This study shows how the awareness of one's own emotional
+experiences, the ability to recognize them in the court, to
+accept and manage them to obtain an effective performance
+seems to be more influenced by the expertise and the tennis
+skills rather than the players’ age and gender. Moreover, these
+differences are in the area of thought, most likely because
+they make the difference in the emotional management
+between expert and less expert players. For the latter  group
+small differences have been found in the behaviors to manage
+these difficulties, especially to release one's tension between
+the points rather than controlling anger after an unforced
+error.
+The second cluster, that is the one composed of nonprofessional tennis players, reported more negative emotions
+such as tension, fear,  pressure, and getting stuck. And most
+likely, for this reason, they perform different by behaviors
+to release tension and stay calm, such as breathing and
+activation.
+These observations, according with the Laborde and colleagues
+review (2015) on the Emotional Intelligence in sport, could
+suggest that the ability to recognize and effectively manage
+emotions in the field may be associated with physiological
+stress responses and successful psychological skill usage, like
+the functional thougth.
+For these reasons, since these skills are trainable, starting
+paths of literacy, recognition, awareness and then training
+will be necessary, will provide an increase in mental and
+emotional skills (not only tactics and technique), allowing the
+young players an optimal growth not only in tennis, but also
+as  human beings.
+CONCLUSION
+In conclusion, the SPET tool represents a first step in the
+direction of increasing players’ awareness and could be used
+by the coaches to compare their perception of the athletes
+with the one of their athletes, discussing about what happens
+on the court. Further studies should confirm the validity of
+the scale, as well as exceeding the limits of those groups wich
+are  not homogeneous by gender and level.
+However, SPET can also help sport psychologists to choose
+the best emotional training for each specific player, helping
+him/her to work on the emotional dimension that is most
+lacking during the match (awarness of emotions, thoughts
+or behaviors). The correct understanding of the assumptions
+that are in the minds of our children and athletes is an
+indispensable premise for an effective intervention and
+could help us create court-exercises allowing the athlete to
+experiment and manage their emotions.
+CONFLICT OF INTERESTS AND FUNDING
+The authors declare that they do not have any conflict of
+interest and that they did not receive any funding to conduct
+the research.

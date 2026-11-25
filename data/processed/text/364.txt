@@ -1,0 +1,340 @@
+Title: Experiments to identify the optimal sound to use in a new sound ball to improve recruitment, retention, health, and wellness for blind and visually impaired tennis players
+Authors: Jennifer Roth, Dana Squelch Costa, Stephan A. Roth, Christen Rose, Robert N. Gibbs, Kaihong Liu, Isabela Liu-Lopez, Marquelle Wagle, Michael J. Proulx
+Year: 2023
+Issue: Vol. 31 No. 89 (2023)
+Article id: 364
+
+ABSTRACT
+Within the sport of Blind and Visually Impaired (BVI) Tennis, the choice of sound is
+important in locating the ball. We conducted two experiments to choose a sound that will
+improve the localizability of the ball, in response to a request for new ball development
+from the International Blind Tennis Association (IBTA). We screened sounds (freesounds.
+com) for characteristics that the brain best exploits for sound source localization (Risoud
+et al, 2018). Sample sounds (23) were tested on an outdoor BVI court in a public park
+using five Bluetooth speakers, and then replicated in an indoor setting; the environments
+were otherwise naturalistic and unaltered. Blindfolded-sighted participants (n=29)
+pointed to where they believed sounds originated, by moving an arrow attached to a large
+protractor. Degree angles were recorded and converted to absolute degree angle error.
+The standard BVI tennis rattle ball sound resulted in 9.56 degrees of average angular
+error at a 30-foot distance. After eliminating sounds that 2 or more people either could
+not hear in either soundscape or that people had degree angle errors over 15 degrees,
+we discovered a superior localizable sound that resulted in only 4.00 degrees of average
+angular error at a 30-foot distance.
+INTRODUCTION
+Blind and Visually Impaired (BVI) Tennis is a growing sport
+worldwide. Since Mr. Takei Miyoshi invented Blind Tennis
+in Japan in 1984 (InternationalBlindTennis.org), the sport
+has grown to be played in at least 30 countries (IBTA) at the
+tournament level in Ireland, England, Scotland, Poland, Japan,
+etc., and at the club level in others. The growth potential
+is large, including expanding the sport to entire countries.
+In the US the Highland Park Tennis Club (blindtennis.org) is
+working at the grassroots level in partnership with the United
+States Tennis Association (USTA) to ‘plant’ new clinics for BVI
+players nationally and to improve the ease of learning the
+sport. Given the existing barriers to exercise faced by people
+with BVI (Richardson et al, 2022), there is a clear need for
+research to help enable increased participation.
+BVI Tennis has a modified format that adapts the sport to
+players with different visual acuities, rated as B1-B4 with
+B1 players being profoundly blind and B2-B3 players having
+varying degrees of vision (low to high). B2-B4 players use
+a smaller court than fully sighted players use, with highly
+visible tape lines and a center-of-net height of 90 cm. Players
+of all sight classifications must land the first bounce in their
+www.itfcoachingreview.com
+April 2023. 30th Year. Issue 89. 11-15
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v31i89.364
+Experiments to identify the optimal sound to
+use in a new sound ball to improve recruitment,
+retention, health, and wellness for blind and
+visually impaired tennis players
+Jennifer K. Roth1, Dana Squelch Costa2, Stephan A. Roth3, Christen Rose1, Robert N.
+Gibbs2, Kaihong Liu2, Isabella Liu-Lopez4, Marquelle Wagle1 & Michael J. Proulx5
+1Carlow University, USA. 2Highland Park Tennis Club, USA. 3Sensible Machines, USA. 4Case Western Reserve
+University, USA. 5University of Bath, UK.
+Key words: Blind tennis, sound
+ball, sound source localization,
+visually impaired athletes
+Received: 16 November 2022
+Accepted: 20 February 2023
+Corresponding author: Jennifer
+Roth. Email: jkroth@carlow.edu
+opponent’s court. B1 and B2 players must strike the ball prior
+to the fourth bounce, B3 before the third bounce, and B4
+before the second bounce. B1 players play on an even smaller
+COACHING & SPORT
+SCIENCE REVIEW
+Maggi Ostrowski, Board member of the United States Blind Tennis
+Association and two-time paralympic B1 athlete, hits a serve from
+behind a tactile baseline at the 2023 International Blind and Visually
+Impaired Tennis Education Conference and Tournament at the USTA
+National Campus in Orlando, Florida. Photo credit: Jennifer Roth /
+USBTA.
+court with tactile lines, with a lower net (center-of-net height:
+83 cm) than tennis for players with full vision. All BVI players
+use a sound ball, and a smaller racquet (B1 players’ racquets
+are up to 23 inches in length; B2-B3 up to 25 inches; B4 up
+to 27 inches). Court sizes are frequently reviewed, and
+sometimes change to accommodate the performance of the
+different balls that have been adopted by the sport (IBTA
+Technical Manual, 2019).
+One challenging aspect of Tennis for no-vision and lowvision athletes that we hope to facilitate with our research,
+is the need to track a moving ball by sound, determining its
+trajectory and velocity in a 3-dimensional space. The current
+standard BVI audible ball contains a ‘mechanical’ rattle
+constructed from a hollow plastic dimpled ball containing ball
+bearings, inserted into a foam outer ball (9 cm circumference,
+28-32 grams). This ball only generates a brief, rattle sound
+whenever the ball changes momentum (hit or bounce) but
+remains silent at steady velocities or constant spin, making
+localization and tracking the ball a difficult task to learn.
+Athletes are challenged to find this mostly-silent ball in the
+x-, y-, and z-planes while accounting for forward velocity and
+diminished height with each bounce. With these challenges, a
+volley is nearly impossible.
+Second, the rattle sound is not the optimal sound for source
+localization. Sound source localization is a challenge in the
+x-, y-, and z- dimensions for a moving object. The cognitive
+neuroscience of sound source localization informs us that the
+brain exploits different sound qualities to localize sounds in
+each of the x-, y-, and z-planes (Grothe, Pecka, & McAlpine,
+2010). The horizontal plane provides both interaural
+time differences and level differences (Møller, Sørensen,
+Hammershøi, & Jensen, 1995). The vertical plane does not
+have binaural cues, as human ears are relatively level on
+the sides of our heads, and therefore relies on spectral cues
+(Wallis & Lee, 2015) characterized by the head-related or
+anatomical transfer function specific to an individual. Depth
+is largely conveyed by intensity (Finnegan, Proulx, & O’Neill,
+2016), though reverberation contributes, too. Moreover,
+sound ‘color’ such as the varieties of frequencies that convey
+the meaning or relevance of a sound (Derey, Rauschecker,
+Formisano, Valente, & de Gelder, 2017), and the bandwidth of
+frequencies (Yost & Zhong, 2014) are important in a number
+of dimensions. For each of those sound qualities in those
+planes, there are optimal sound characteristics of amplitude
+and frequency of the sound wavelengths to achieve sound
+source localization (for a review of the physics of sound source
+localization, see Risoud et al, 2018). Furthermore, ambient
+sounds such as traffic noise, conversation, dogs barking, and
+birdsong, heard often on an outdoor tennis court, attenuate
+the frequencies produced by the sound ball (Docherty, 1972).
+Using the current IBTA standard rattle ball, new players work
+for years to achieve a rally, and international tournamentlevel players achieve only a short rally. Given that the ball
+only makes a noise when struck with the racquet and in a
+brief moment during and after a bounce, new B1 players at
+our clinic as well as sighted blindfolded players swat at the air
+where they believe the ball to be. An experienced B1 player
+from Germany and current IBTA Board member shared:
+“I have yet to see a B1 player who manages to consciously hit
+volleys. The balls currently available are either bouncing too
+low, moving too fast, or they are not making enough noise to
+track them easily during all stages of their journey across the
+net. The ability to track a blind tennis ball is key to delivering
+quality shots and to being at the right place at the right time.
+Finding a good sound is difficult, as sound changes as it travels
+at high speed. There are also noises around the player, and in
+this sound carpet the tennis ball has to stick out, no matter
+whether in a one on one or in a noisy tournament environment”
+(Kaplan, Chris, Personal communication 8/31/2021).
+The International Blind Tennis Association (IBTA) requested
+new ball development (Martin Etheridge, IBTA, personal
+communication, 2019). The Highland Park Tennis Club’s Blind
+and Visually Impaired (BVI) Tennis program (blindtennis.
+org), located at public courts in Pittsburgh, in partnership
+with the USTA, has the potential to expand the health and
+wellness opportunities that tennis can provide to the over
+2 million blind and 7 million visually impaired people living
+in the US (cdc.gov). We have the potential to revolutionize
+the sport, increasing the potential for longer rally, possibly
+introducing volleys altogether, and reaching more athletes
+by reducing the time to become proficient at ‘finding’ the
+ball from years to days. This combination has the potential
+to increase enjoyment, health, and wellness by maintaining
+players through the difficult learning phase. Given the
+correlation between enjoyment and commitment to the sport
+(Casper et al., 2007), we believe we can improve the potential
+health benefits of tennis in BVI player by extending their rally
+(Groppel & DiNubile, 2009; Kovacs et al., 2016; Oja et al.,
+2017; Pluim et al., 2007), as well as increase cognitive benefits
+including improved spatial cognition in blind athletes across
+multiple blind sports that translates to the player’s life (Shiota
+and Tokui, 2017; Velten et al, 2014).
+We conducted the experiments described here to optimize
+the development of a new electronic sound ball that is easier
+to localize than the standard BVI ‘rattle ball.’ This optimized
+ball could allow players to achieve greater proficiency faster,
+increasing the enjoyment of the sport, increasing the length of
+points that could improve recruitment, retention, health, and
+wellness benefits, promoting the love of tennis to new and
+existing players.
+METHODS AND PROCEDURES
+We interviewed blind tennis players, board members of the
+IBTA, and new B1 adult athletes at our BVI Tennis clinic to
+determine the needs for new ball development, compiled
+input on the performance of the current ball, generated a
+‘wish list’ of ball features for a new ball (durable, low cost,
+sound that is easy to localize, bounces well), as well as created
+a list of a variety of sounds they find to be easily localizable for
+later assessment.
+Sound selection
+We screened sounds (freesounds.org) for the characteristics
+that the brain best exploits for sound source localization
+(Risoud et al, 2018) via Fourier transformations of the sound
+wavelengths using a cell phone application (FFT Spectrum
+Analyzer, version 17). To compare performance to the
+standard BVI Tennis rattle sound, we recorded the rattle, then
+normalized this and all sounds to the same peak amplitude. All
+sounds repeated continuously. We selected 23 sample sounds
+with different characteristics for our sound localization
+experiments.
+Participants
+Participants completed and signed an informed consent form,
+and 22 sighted participants (ages 18-80 years, mean age 51.0
+years; 10 F, 12 M) completed a version of the experiment on
+an outdoor court; 7 completed the indoor experiment (ages
+18-70 years, mean age 35.7 years; 3F, 4M). This research
+protocol was approved by Carlow University’s Institutional
+Research Review Board.
+Procedures
+Twenty-three sample sounds were tested on an outdoor BVI
+court in a public park using five Bluetooth speakers placed
+9.144 meters (30 feet, the approximate baseline to baseline
+distance on a B1 BVI Tennis court) from the participants
+at 10-degree increments ranging from 70 to 110 degrees.
+A convenience sample of blindfolded sighted participants,
+recruited from the tennis and university communities, were
+given 3 seconds to point to where they believed sounds
+originated, using an arrow attached to a large protractor.
+Degree angles were recorded from the protractor and
+converted to absolute degree angular error relative to the
+actual location of the speaker generating the sound. Each
+participant located 90 sounds selected randomly and played
+from a randomly selected speaker by a Python script run in
+an Anaconda environment. The experiment was replicated in
+an indoor setting, both in unaltered, naturalistic soundscapes.
+For a video demonstration, visit https://www.youtube.com/
+watch?v=2UKlGfMdYLA.
+RESULTS
+Participants were able to localize 12 of the 23 new sounds
+better than the standard rattle sound used in BVI Tennis.
+Participants’ performance at localizing the best-performing
+sound (M = 4.0 degrees of error, SE = 0.92) was significantly
+better than their performance at localizing the rattle sound
+(M = 9.56 degrees of error, SE = 1.76) even after making the
+standard rattle sound continuous (t(21) = 20.76, p < .0001).
+Figure 1. Members of the research team (from left to right Dr. Kaihong
+Liu, Dr. Jennifer Roth, Christen Rose, and Isabella Liu-Lopez) standing
+behind the protractor participants used to indicate their best guess as to
+the location of each sound sampled.
+Figure 2. Average performance across participants in locating the
+source of 23 sounds. Performance is plotted as average degree angle
+error from the location of the sound source (average absolute difference
+between where participants pointed with the arrow on the protractor
+and where the sound source was located). The Continuous Rattle sound
+is a recording of the standard sound ball adopted by the International
+Blind Tennis Association at the time the experiment was conducted.
+Data analysis
+Before subjecting the data to a t-test to compare the
+performance on the standard rattle sound to the bestperforming sound, we eliminated sounds that 2 or more
+participants could not hear in either of the soundscapes, and
+that had average degree angle errors over 15 degrees. We
+have patent pending status for the process of developing this
+sound device.
+We conducted a brief pilot study on an outdoor tennis court
+comparing player performance using a foam ball containing
+the prototype circuit playing the best sound to player
+performance using the standard BVI Tennis ball. We hit each
+ball to 2 blindfolded players and asked them to make contact
+with the ball using their own tennis racquet.
+In the pilot study on an outdoor tennis court, blindfolded
+players successfully made contact with the foam ball
+containing the prototype circuit playing the best sound 100%
+of the time. They made contact with the standard BVI Tennis
+ball 50% of the time.
+DISCUSSION
+The results of the current experiments demonstrate that it
+is possible to develop an electronic sound ball for BVI tennis
+players that will lead to greater success in the sport. We
+identified a sound that blindfolded participants were able
+to localize with 4.0 degrees of angular error compared to
+the sound of the standard, BVI Tennis ball at 9.56 degrees of
+angular error, though both sounds were played continuously.
+One challenge in BVI Tennis is that the sound of the standard
+BVI Tennis ball occurs only briefly after a momentum change.
+This new, better-performing sound was then recorded onto an
+electronic circuit so that it can play continuously. This circuit
+was implanted in a foam ball similar to the foam ball used in
+BVI Tennis. In a brief pilot study, blindfolded tennis players
+were better able to locate this sound versus the current
+sound used in BVI tennis in a realistic tennis scenario. Initial
+testing of the current prototype ball, by hitting the ball at a
+participant across the net, revealed that players are roughly
+twice as likely to track the electronic sound ball successfully
+in a realistic tennis setting compared to the standard ball
+used currently in Blind/VI tennis. In these preliminary tests,
+our prototype sound-producing circuit, inserted in a standard
+foam BVI Tennis ball, is robust to the forces of tennis and
+bounces similarly to the standard BVI ball. Furthermore, the
+continuous sound allows B1 players to retrieve their own ball
+without assistance, adapting the equipment of tennis to the
+needs of the athletes, rather than asking the athletes to adapt
+to the equipment.
+We believe our selection of a new sound to be used in an
+electronic sound ball for BVI tennis will help to accomplish the
+USTA’s goals of expanding tennis while increasing the health
+and wellness of new and existing players (Allen, Townsend, &
+Davies, 2021) through the development of equipment that
+meets the needs of the players in a way that increases the
+enjoyment of the sport. This might even provide an interesting
+inclusive design for training even sighted tennis players, as
+multisensory cues tend to enhance performance and might
+make it enjoyable for people playing for the first time (LloydEsenkaya, Lloyd-Esenkaya, O’Neill, & Proulx, 2020), and
+like other accessible games could allow sighted and visually
+impaired players to play together (Gonçalves et al, 2021).
+This ongoing project has the potential to result in greater
+recruitment and retention of players to BVI Tennis. This has
+the potential to expand the health and wellness opportunities
+that tennis can provide to the over 2 million blind and 7
+million visually impaired people living in the US (cdc.gov),
+and equivalent groups in other countries. This project has
+the potential to result in longer rally, possibly introducing
+volleys altogether, and reach more athletes by reducing time
+and frustration to become proficient at ‘finding’ the ball.
+These potential improvements to the sport could increase
+enjoyment, health, and wellness, given the correlation
+between enjoyment and commitment to a sport (Casper et al.,
+2007). The potential health benefits of tennis in BVI players
+could improve if we do extend their rally (Groppel & DiNubile,
+2009; Kovacs et al., 2016; Oja et al., 2017; Pluim et al., 2007).
+An increase in duration of points, and increased commitment
+to the sport, could lead to improved spatial cognition
+(Pasqualotto & Proulx, 2012) that will likely translate to the
+player’s life outside of sport (Shiota & Tokui, 2017; Velten et
+al, 2014).
+CONCLUSION
+In conclusion, we identified a new electronic sound to be used
+in an electronic sound ball for BVI Tennis that is able to be
+localized more successfully than the rattle noise used currently
+in the standard BVI tennis ball. We believe that the use of this
+new, more localizable sound has the potential to increase the
+duration of rally, decrease the time and frustration involved in
+becoming proficient at ‘finding’ the ball, and generally attract
+and retain more players, allowing more players to experience
+the health and wellness benefits of tennis.
+CONFLICT OF INTEREST AND FUNDING
+The authors declare that they do not have any conflict of
+interest to conduct the research. This research was funded
+by the United States Tennis Association Research Challenge.
+M. J. Proulx’s research is partly funded by the UKRI Centre
+for the Analysis of Motion, Entertainment Research and
+Applications (CAMERA 2.0; EP/T022523/1).
+AKNOWLEDGEMENTS
+Special thanks to George Marshall and his team at Tri-State
+Signs and Reprographics for designing and donating the large
+protractor used to collect data. Special thanks to Stephan
+Roth, Principal Engineer at Sensible Machines for donating
+his time, materials, and expertise to design, troubleshoot and
+manufacture the circuits used in the prototype balls.

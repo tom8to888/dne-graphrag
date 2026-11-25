@@ -1,0 +1,347 @@
+Title: Game Theoretic Solutions to Tennis Serving Strategies
+Authors: Tristan Barnett, Machar Reid, Darren O’Shaughnessy, Darren McMurtrie
+Year: 2012
+Issue: Vol. 20 No. 56 (2012)
+Article id: 404
+
+www.itfcoachingreview.com
+April 2012. 20th Year. Issue 56. 22-25
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v20i56.404
+
+Game theoretic solutions to tennis serving
+strategies.
+Tristan Barnett, Machar Reid, Darren O’Shaughnessy & Darren McMurtrie.
+Swinburne University of Technology.
+ABSTRACT
+
+This paper analyzes risk-taking on serve to maximize a player’s chances of
+winning a point on the second serve by either serving a common low risk
+second serve (with a high second serve percentage) or a high risk second serve
+by decreasing the second serve percentage but increasing the proportion of
+points won if the second serve goes in. The notion of “importance” of points
+is defined and there is evidence to suggest that servers could be encouraged
+to take more risk on the more “important” points. The results could be used
+by coaches to help determine how much risk their players should take on the
+second serve. A working example between Andy Roddick and Rafael Nadal is
+given to support the results.
+
+Key words: Analysis, risk, serve
+and return.
+Received: 24 May 2011
+Acepted: 1 October 2011
+Corresponding author: Tristan
+Barnett, Swinburne University of
+Technology.
+Email:
+strategicgames@hotmail.com
+
+INTRODUCTION
+Analyzing risk-taking strategies in tennis is complicated. There
+has been a tendency to analyze risk-taking on the serve more
+often than other shots. This seems reasonable as the serve is
+the first shot to be played and therefore simplifies the analysis
+by not having to consider previous shots in the rally. Barnett et
+al. (2008) analyzed the situation where players may choose to
+serve two fast serves by taking into account the type of court
+surface, and the serving and receiving capabilities of both
+players. Pollard et al. (2009) extend on this model by allowing
+for the possibility of players changing serving strategies
+throughout the match in progress. Consideration of the ideal
+that a continuum amount of risk is available to players on their
+serve has further revealed a higher risk first serve and a lower
+risk second serve strategy as being optimal in most practical
+situations (Pollard et al., 2007). Pollard (2008) also analyzed the
+situation in which a medium risk serve (somewhere between a
+players ‘typical’ high risk first serve and low risk second serve)
+has a quadratic rather than linear outcome; one which gives
+greater weighting to the outcome of serving a high risk serve
+rather than the outcome of a low risk serve.
+All of the above articles analyze the situation where the server
+is the only decision maker and therefore the optimal strategy
+will be a single strategy with certainty e.g. a player should
+always serve a ‘typical’ high risk first serve on both the first and
+second serves. When analyzing risk taking on serve by also
+taking into account whether the receiver is expecting a low or
+high risk second serve (known more generally as game theory),
+the optimal strategy can be a mixed strategy e.g. a player
+should serve a ‘typical’ high risk first serve 20% of the time on
+the second serve and a ‘typical’ low risk second serve 80% of
+the time on the second serve.
+This game theory scenario will be analyzed in this article and
+extended to include the ‘importance’ of points; where it is
+suggested for the server to take more risk on the more
+‘important’ points i.e. 30-40 is shown to be the most
+‘important’ point in a game.
+
+DATA COLLECTION AND ANALYSIS
+Match statistics from OnCourt (www.oncourt.info) can be
+obtained for the majority of ATP and WTA matches dating back
+to 2003. Using a customized program, the average serving and
+receiving statistics for each player on each surface were
+calculated, as well as the average head-to-head serving and
+receiving statistics between any two players.
+Bedford et al. (2010) show how a range of statistics (such as
+the percentage of points won on serve and the 2nd Serve %)
+can be obtained from the broadcasted match statistics. Table
+1 gives the match statistics broadcast from The Artois
+Championships in 2008 (played on grass) where Rafael Nadal
+defeated Andy Roddick in two straight sets. Notice that the
+Serving Points Won is not given directly in the table. This
+statistic can be derived from the Receiving Points Won such
+that Serving Points Won for Nadal and Roddick are 114/61=77.0% and 1-24/71 =66.2% respectively. Note that the
+Winning % on 1st Serve is conditional on the 1st Serve going
+in whereas the Winning % on the 2nd Serve is unconditional
+on the 2nd Serve going in. The Serving Points Won for Nadal
+and Roddick along with the Winning % on 1st Serve (uncond.),
+Winning % on 2nd Serve (cond.) and 2nd Serve % are given in
+table 2.
+Table 1. Match statistics between Rafael Nadal and Andy Roddick
+at The Artois Championships in 2008.
+Table 2. Calculated statistics between Rafael Nadal and Andy
+Roddick at The Artois Championships in 2008.
+RESULTS
+Scenario a)
+The model developed in Barnett et al. (2008) is used to
+determine if the server can increase their chances of winning a
+point by serving high risk on the second serve. As outlined in
+the introduction this scenario is such that the server is the only
+decision maker and therefore the optimal strategy will be a
+single strategy with certainty.
+The following definitions are given to obtain a high and low
+risk serve for each player:
+• A high risk serve is a ‘typical’ first serve by a player and
+calculations are obtained by a player’s averaged percentage of
+points won on the first serve for a particular surface
+• A low risk serve is a ‘typical’ second serve by a player and
+calculations are obtained by a player’s averaged percentage of
+points won on the second serve for a particular surface
+
+Note the limitations in these definitions of a high and low risk
+serve in that to obtain a reasonable sample size a player’s
+serving statistics is across all players (rather than just head-tohead against the opponent). Also a ‘typical’ first and second
+serve by each player may not be consistent across each match,
+but rather a player may be taking more ‘risk’ on the second
+serve on particular matches for example.
+Let:
+dhijs = percentage of points won on high risk serves
+(unconditional) for player i, for when player i meets player j on
+surface s
+dlijs= percentage of points won on low risk serves
+(unconditional) for player i, for when player i meets player j on
+surface s
+
+ANDY
+RODDICK
+1st Serve %
+45 of 61 = 73%
+46 of 71 = 64%
+Aces
+Double Faults
+Winning % on 1st
+Serve (cond.)
+35 of 45 = 77%
+34 of 46 = 73%
+Winning % on 2nd
+Serve (uncond.)
+12 of 16 = 75%
+13 of 25 = 52%
+Break
+Point
+Conversion
+s
+2 of 7 = 28%
+0 of 4 = 0%
+Receiving Points
+Won
+24 of 71 = 33%
+14 of 61 = 22%
+Total Points
+Won
+Serving
+Points
+Won
+1-14/61=77.0%
+1-24/71 =66.2%
+Winning % on
+1st Serve
+(uncond.)
+(45/61)*(35/45)=57.4
+%
+(46/71)*(34/46)=47.9
+%
+Winning % on
+2nd Serve (cond.)
+(12/16)/(10/61)=75.0%
+(13/25)/(13/71)=54.3%
+2nd Serve %
+1-0/61=100.0%
+1-3/71=95.8%
+
+The following two serving strategies are defined:
+Strategy 1 – high risk serve followed by a high risk serve
+Strategy 2 – high risk serve followed by a low risk serve
+Thus, player i should use Strategy 1 (two high risk serves) rather
+than Strategy 2 if dhijs > dlijs
+An example of such a case is given in Barnett et al. (2008)
+between Andy Roddick (recognized as a ‘strong’ server) and
+Rafael Nadal (recognized as a ‘strong’ receiver), where the
+results from table 3 indicate that Roddick might be encouraged
+to serve high risk on both the first and second serve when
+playing Nadal on grass (since 0.535>0.512). However he
+should use a high risk first serve and low risk second serve
+when playing Nadal on both hard court (since 0.528<0.551)
+and clay (since 0.364<0.458). This example illustrates the fact
+that it can be important for players to identify the match
+statistics for themselves and their opponents – specific to court
+surfaces.
+Statistic
+Grass
+Hard
+Clay
+Grass
+Hard
+Clay
+dlijs
+0.512
+0.551
+0.458
+0.582
+0.571
+0.608
+dhijs
+0.535
+0.528
+0.364
+0.510
+0.495
+0.546
+Matches
+Table 3. Serving and receiving statistics for Andy Roddick and
+Rafael Nadal
+Scenario b)
+The model developed in scenario a) is now extended by taking
+into account strategies on whether the receiver is expecting a
+low or high risk second serve. From table 3, where Roddick is
+serving against Nadal on hard court, Roddick is expected to
+win 55.1% of points on the second serve when serving low risk
+on the second serve and expected to win 52.8% of points on
+the second serve when serving high risk on the second serve.
+Suppose these percentages are based on whether Nadal on
+the return of serve is expecting a high or low risk second serve.
+For example, if Roddick was serving a low risk second serve and
+Nadal was expecting a low risk second serve, then the
+percentage won on the second serve for Roddick would likely
+be less than 55.1%. This is represented in table 4 below in a
+game theory matrix with the following observation. If Nadal
+was expecting a low risk second serve 50% of the time and a
+high risk second serve 50% of the time (indifferent between
+strategies), then Roddick should always serve a low risk second
+serve since ½*0.53 + ½*0.57=0.55 and ½*0.55 + ½*0.51=0.53.
+These results are in agreement with the earlier model from
+scenario a) where decisions of the opponent were not taken
+into account.
+Using standard game theory techniques to solve this twoperson zero- sum game; gives mixed strategies for Roddick of
+50% low risk serve, 50% high risk serve and for Nadal of 75%
+expecting a low risk serve, 25% expecting a high risk serve. The
+outcome of the game with both players’ adopting these mixed
+strategies is such that Roddick will win 54% of points on the
+second serve. If either player deviated from these strategies
+then the other player could capitalize by changing strategies
+accordingly. For example, if Roddick changed strategies to 80%
+low risk serve, 20% high risk serve, then Nadal could choose
+the strategy of 100% expecting low risk serve, for an outcome
+of Roddick to win 0.53*0.8+0.55*0.2=53.4% of points on the
+second serve.
+
+Table 4. Game theory matrix of how much risk to take on the
+second serve in tennis.
+Scenario c)
+The model developed in scenario a) is now extended to include
+the ‘importance’ of points. The results obtained also extend to
+the model developed in scenario b). Morris (1977) defines the
+‘importance’ of a point for winning a game as the probability
+that the server wins the game given he wins the next point
+minus the probability that the server wins the game given he
+loses the next point. Table 5 gives the ‘importance’ of points to
+winning the game when the server has a 0.62 probability of
+winning a point on serve, and shows that 30-40 and Ad- Out
+are the most ‘important’ points in the game.
+
+Table 5. ‘Importance’ of points to winning a game when the server
+has a 0.62 probability of winning a point on serve.
+The following result follows from Klaassen and Magnus (2001),
+where it was established that a server’s probability of winning
+a point decreases with the more ‘important’ points.
+NADAL
+expecting low
+risk serve
+expecting
+high risk
+serve
+RODDICK low risk serve
+0.53
+0.57
+high risk
+serve
+0.55
+0.51
+
+RECEIVER’S
+SCORE
+SERVER’S
+SCORE
+Ad
+0.25
+0.34
+0.38
+0.28
+0.19
+0.31
+0.45
+0.45
+0.11
+0.23
+0.45
+0.73
+0.04
+0.10
+0.27
+0.45
+0.73
+Ad
+
+0.27
+
+Player i should use Strategy 1 (two high risk serves) rather than
+Strategy 2 if dhijs> d^lijs The superscript ^ is used as the server’s
+probability of winning a point on a low risk serve is now
+conditional on the ‘importance’ of the point
+This is evidence to suggest that the server would be
+encouraged to take more risk on the more ‘important’ points.
+CONCLUSION
+The results obtained in this paper could be used by coaches to
+help determine how much risk their players should take on the
+second serve. By using the definitions of a high risk serve as a
+‘typical’ first serve by each player and a low risk serve as a
+‘typical’ second serve by each player, a model where the server
+was the only decision maker (does not take into account
+strategies on whether the receiver is expecting a low or high
+risk second serve) was formulated to determine how much risk
+a player should take on the second serve. An example was
+provided between Roddick and Nadal, where it was shown that
+Roddick might do slightly better when playing Nadal on grass
+by using two high risk serves rather than using a high risk first
+serve and a low risk second serve. By establishing a game
+theory model (by taking into account strategies on whether the
+receiver is expecting a low or high risk second serve) it was
+then shown that Roddick against Nadal on hard court could
+use mixed strategies on serving low and high risk on the
+second serve, even though the earlier model (that does not
+take into account strategies on whether the receiver is
+expecting a low or high risk second serve) indicates that
+Roddick should be serving low risk on every second serve with
+certainty for the entire match. Finally, consideration was given
+to the ‘importance’ of points which then pointed to the server
+being encouraged to take more risk on the more ‘important’
+points.

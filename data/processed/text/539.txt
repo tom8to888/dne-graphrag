@@ -1,0 +1,198 @@
+Title: Online Resources for Coaches Education: Motivation for Applied Intellectual Capital Management in Tennis
+Authors: Joachim Mester, Ulrike Wigger
+Year: 2011
+Issue: Vol. 19 No. 54 (2011)
+Article id: 539
+
+www.itfcoachingreview.com
+August 2011. 19th Year. Issue 54. 28-31
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v19i54.539
+
+Online resources for coaches education:
+Motivation for applied Intellectual Capital
+Management in tennis.
+Joachim Mester & Ulrike Wigger.
+German Sport University, Cologne.
+ABSTRACT
+
+Over the past few years the opportunities and challenges associated with
+“eLearning” have changed as dramatically as information technologies have been
+and are still developing. This refers not only to the technologies themselves but
+also to the availability of information. The amount of information in general, also
+scientific findings, can be characterized by an exponential growth, too. This in
+turn causes a rapid decrease in half-time for current, valid information and
+knowledge. In natural sciences this half-time is appr. 2.5 years, in information
+technology less than one year, both half-times are decreasing.
+
+Key words: Online, Education,
+Tennis, Information, Knowledge.
+Received: 2 August 2011
+Acepted: 19 August 2011
+Corresponding author: Joachim
+Mester, German Sport University,
+Cologne.
+Email: Mester@dshs-koeln.de
+
+INTRODUCTION
+Regarding the various formats of information, printed types
+still have their own relevance and impact. It must be
+considered, however, that it could take around 2 to 4 years to
+publish e.g. a substantial textbook, and that it takes another 4
+years to bring out a completely revised version. It is easy to
+understand that over the course of these 8 years dramatic
+changes in valid information have been occurring and that
+practical problems and insights might have surpassed official
+doctrines by far. A special dilemma must be mentioned in this
+context:
+Young
+researchers
+are
+obliged
+to
+publish
+predominantly in journals with impact factors. Practically
+oriented journals do not fulfil this requirement. Thus, much
+information that might be needed urgently in practical
+settings, such as in coaching, are “hidden” in highly specialized
+journals and written in a language that too is highly specialized.
+“Traditional” eLearning modules comprise various formats,
+such as Computer-Based Training (CBT), Web-Based Training
+(WBT), Web-Lectures (WL) and Web-Meetings, sometimes in
+stand-alone versions and sometimes in combinations of these.
+It seems that all these formats have developed more in an
+evolutionary way than by proven and evaluated concepts. One
+may argue that evolution in a biological sense produces results
+that are not totally negative. The counter-argument in sport is
+that we take care of individuals at the extreme borders of their
+potential and their health status as well as of kids with all the
+necessities of prudence. Thus, we are obliged to gather and
+use all currently available and reliable information as fast as
+possible.
+The following two examples with respect to sport and exercise
+science shall illustrate that traditional formats tend not to
+picture the current state of scientific knowledge nor meet the
+requirements of modern training.
+1) Intensity control and meaning of lactate: For many years
+now, it has well been known that lactate is not an end- or
+waste-product of metabolism but rather a potent trigger for
+many bio-positive signaling pathways. In spite of this, most
+practical recommendations state that “too” high lactateconcentrations
+should
+be
+avoided.
+Following
+current
+international research, however, it has been shown that it is
+important to develop the lactate- transportation and
+metabolism capacity by enhancing the lactate-shuttle of MCTs
+(MonoCarboxylat-Transporters). This can be done primarily by
+using special protocols of High-Intensity-Training (HIT) in
+combination with adopted exercise-rest strategies (Gibala et al.
+2006; Helgerud et al. 2007; Wahl et al. 2010a; Wahl et al.
+2010b).
+2) Talents, age and genetic pre-disposition: Especially in tennis
+there has been a long-lasting discussion about when, how and
+with whom early talent-identification and –promotion should
+be started. Current neuro- biological research with regard to
+
+neurogenesis and synaptogenesis quite clearly shows that the
+period between the ages of two to four is extremely important
+for the development of high-performance motor skills. The
+contribution of genetic pre-disposition must be re- considered
+under these aspects as well as possible modifications by
+epigenetic mechanisms. This means that also at the level of the
+genes, effects of certain attitudes and of individual behaviors
+can be traced and can be influenced in their early stages
+(Csoka, Szyf 2009; Karberg 2009; Martin 2009). As exercise and
+training must be considered to be important contributors in
+this framework of stimuli, there is much reason to carry out
+more research in this field.
+
+Figure 1. Time-line of traditional research and transfer-rate into
+practical publications.
+
+A mapping of these examples to be reproduced in the format
+of traditional CBTs or WBTs is not practical. It cannot keep pace
+with the speed of progress in scientific research. Printing
+materials are hopelessly overstrained. The previous figure
+illustrates the problems and offers a conceptual approach.
+If current research - as in the above mentioned examples - is
+carried out, one can assume that it takes approximately:
+- One year before these results are published in international
+scientific publication databases, such as “Medline” and many
+others,
+- two years until abstracts are mentioned in practical journals,
+- 3 to 6 years until textbooks show the results,
+- 6 to 8 years before these results are transcribed into practical
+knowledge,
+- more than 8 years until research results show practical effects.
+Nowadays (nearly) all relevant information is available online –
+somewhere – and could easily be organized in the form of a
+so-called Intellectual Capital Management (ICM) System. It
+must be stated that today it is no longer a problem to get
+access to information. The challenge is rather to gather,
+harmonize and to adapt the information to the needs of the
+practical application and also to give feedback to the scientists.
+The choice of digital formats is self-evident since the Web has
+evolutionarily brought into use all kinds of well-known tools.
+
+Figure 2. Online Resources.
+
+According to these considerations:
+1) Research results should be picked up as early as possible,
+ideally through direct contact with the researchers.
+2) Scientific publication databases should be scanned for new
+insights.
+3) First, second and third results transformation in practical
+journals, textbooks and curricula should be documented and
+enhanced in an ICM System.
+4) The development of practical knowledge should be
+monitored.
+5) The effects of research should be evaluated.
+Of course, so far this is not a way to communicate the results
+of scientific research and to get into powerful interactions with
+practical demands. However, modern internet-/information-
+/communication technologies are now at hand to build such
+systems. In the age of social media, software, tools and
+platforms there are numerous online resources available for
+that.
+Fig. 2 shows tools and buzzwords. Fig. 3 illustrates the ICM
+concept of systematically structuring current scientific and
+practical knowledge and of connecting people – here coaches
+and scientists.
+
+An integrative approach of these ideas can generally be found
+in so- called modern “Cooperation-Systems”. These systems
+include the following elements:
+- Social Software,
+-  Web 2.0,
+- Computer-Supported Cooperative Work (CSCW),
+- Groupware,
+- Knowledge Management (in Communities of Practice),
+- Infrastructure Technologies for Groupware and Social
+Software,
+- Ubiquitous User Interfaces for Community Awareness
+
+Figure 3. Added value of individual intellectual capital and
+communication via online-resources.
+
+Such technical and organizational resources can be made
+available online and be used to stimulate exciting win-win cooperations. The - by far – most important issue, however, is the
+content which can only be and must be provided by experts. If,
+for example, the topic of “intensity in training and the meaning
+of lactate” is of interest, “communities” can easily be
+established around experts in physiology and practical
+training. Then, based on existing results in well-controlled labstudies, conclusions for quantitative and practical applications
+in tennis can be drawn quite rapidly. Although quantitative
+consequences in the field of epigenetics cannot be drawn so
+easily because the research is not far enough, together with
+existing results in talent research, potential implications can
+also be developed.
+There is no doubt that such a system requires significant
+resources in terms of development, installation, administration
+and maintenance. On the other hand as international
+competition and communication in sport belong to the most
+outstanding achievements of modern society, for a global
+institution such as the ITF it can be regarded as a real challenge
+to bring to life such an innovative system.

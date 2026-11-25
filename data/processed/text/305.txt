@@ -1,0 +1,246 @@
+Title: Ball velocity and spin at the impact of tennis serves: Reliability of a ball motion measurement instrument (TRACKMAN)
+Authors: Bumpei Sato, Ryo Wakatsuki, Yu Kashiwagi, Kazuo Funato
+Year: 2017
+Issue: Vol. 25 No. 73 (2017)
+Article id: 305
+
+www.itfcoachingreview.com
+December 2017. 25th Year. Issue 73. 35-38
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v25i73.305
+
+Ball velocity and spin at the impact of tennis
+serves: Reliability of a ball motion
+measurement instrument (TRACKMAN)
+Bumpei Sato, Ryo Wakatsuki, Yu Kashiwagi and Kazuo Funato
+
+ABSTRACT
+
+To verify the reliability of the precision of TRACKMAN measurements, we
+analyzed 3 types of serves (flat, slice, kick) and compared the results to values
+obtained with the 3D motion capture system (VICON). Positive linear strong
+correlations were observed in velocity calculated with TRACKMAN(x) and
+VICON(y) ; (r = 0.996, p<0.01), as well as number of ball spin; (r = 0.978,
+p<0.01). This suggests that ball velocity and the number of ball spin values
+calculated with TRACKMAN, can provide immediate feedback and is provides
+sufficient reliability and would be useful in training situations.
+
+Key words: TRACKMAN,
+VICON, velocity, spin
+Received: 29 May 2017
+Acepted: 10 August 2017
+Corresponding author:
+Bumpei Sato.
+Email:
+bumpei0214@yahoo.co.jp
+
+INTRODUCTION
+Takahashi(2007) and Cross and Pollard(2009) pointed out that
+serve velocity gradually increased for a decade from 1999 to
+2009, and that a high-speed serve is an important advantage
+for controlling games and can thus underpin winning or losing
+a match. However, their research focused on serve velocity and
+the number of points won without serve characteristics
+analyses.
+
+In 2011 to 2017, the author returned practice serves from
+Roger Federer, one of the top-ranked players in the world. This
+demonstrated to the author that in addition to higher ball
+velocity, Federer’s serve has particular characteristics regarding
+to higher spins, which include the trajectory of the ball from
+impact until its entry into the service area and its specific
+motion after the bounce.
+
+Kreighbaum and Hunt (1978) suggested 5 variables that
+influence pitched baseball trajectory: initial ball velocity, the
+direction of the ball’s axis of rotation, the number of spins, the
+angle of delivery, and air density. Tennis serves can be
+categorized into 3 types: flat, slice and kick which include
+different combinations of ball speed,
+spin and trajectory. In addition to velocity, the ball’s trajectory
+and rotation, both factors that can change how a ball behaves
+after the bounce, can confuse an opponent’s predictions and
+have a negative impact on the ability of the opponent to
+receive and respond to the serve. Consequently, these are
+considered factors that can induce errors and mistakes.
+Previous research has shown that among the top players in the
+world, the number of spins differs between the 1st and 2nd
+serves (Muramatsu et al.,2010, 2015). However, this analysis
+was performed based on image analysis of high-speed
+cameras; thus it was impossible to obtain immediate feedback
+on this data.
+
+The recent development of TARCKMAN which provides
+immediate feedback on ball motion data, has made it easy to
+accurately measure the motion and velocity of balls widely in
+golf and baseball. TRACKMAN is an instrument that applies the
+Doppler effect, a military-use, radar-based projectile tracking
+system, to perform specific measurements. For tennis, the
+development of “TRACKMAN TENNIS RADAR” in 2003 enabled
+the immediate calculation of trajectory data, such as initial ball
+velocity, the number of spins, and ball path, as well as
+positional data, such as the impact point.
+
+In a previous research study the precision of TRACKMAN was
+verified by using high speed cameras and speed guns, resulting
+in high levels of correlation in ball velocity and number of spins
+(Murakami et al.,2016). However, the data analysis in this
+experiment was
+
+performed visually using images obtained from one high
+speed camera. Consequently, more detailed studies of 3dimensional (3D) analysis of ball motion, using multiple
+cameras, are now required to further verify the reliability of
+TRACKMAN .
+
+In the present study, we simultaneously measured ball velocity,
+and the number of ball spins from flat, slice, and kick serves
+using VICON and TRACKMAN. 3-D motion analysis of balls
+were conducted to verify the reliability of TRACKMAN data.
+
+METHOD
+Subjects involved in this study included 1 champion of the All
+Japan Tennis Championships (a professional player) and 19
+male students belonging to sections 1 and 3 of the Kanto InterCollegiate Tennis Federation (mean age: 23.8±4.8 years; mean
+height: 171.8±3.3 cm; mean weight: 68.9±4.0 kg; mean
+competitive experience: 11.5±3 years). All the participants were
+right-handed. Experimental procedures and safety guidelines
+were explained and informed consent were approved for all
+subjects by the ethical committee of NSSU.
+
+Experimental task
+Before the measurements were taken, all participants warmed
+up by hitting each type of the 3 types of serve. The racquets
+used in the experiment were those that the participants used
+regularly; type Dunlop Fort balls were used in all experiments.
+A local coordinate system was constructed by placing 5
+reflective markers on the upper hemisphere of the balls.
+
+The experimental task consisted of hitting each of the 3 serves
+(flat, slice, kick) at full power until data was obtained on 5 balls
+for each type of serve. For flat and kick, the serves were hit to
+the center (T-zone), while for slice, the serves were hit wide. A
+successful task was defined as when the ball bounced on the
+court with the markers attached and hit the target area. In our
+experiment,
+used
+the
+experimental
+procedure
+developed measurements of service velocity and the number
+of spin, made by TRACKMAN and VICON were compared
+(Sakurai et al.,2012)
+Experimental equipment
+Ball velocity and the number of spins were measured using a
+3-D motion capture system (VICON MXV5) with 12 cameras,
+and TRACKMAN. VICON used a personal computer to control
+the cameras and perform the measurements, VICON MXV5
+cameras, a 16-bit 64-channel AD conversion box, and a VICON
+MXV5 wand to construct the 3D coordinates. VICON Nexus
+version 1.3 was used as the measurement software. Two MXV5
+cameras were attached to the ceiling and 5 cameras were
+placed on both the left and right sides of the server to surround
+the subject. Ball velocity and the number of spins for each serve
+were calculated based on the coordinates of the reflective
+markers. The TRACKMAN instruction manual was followed and
+the device was placed so that its center was on a line that
+extended from the center mark.
+
+Statistical processing [coordinate system definition]
+For the global coordinate system, the X axis was the direction
+of movement, the Z axis was in the vertical direction, and the Y
+axis was perpendicular to the X axis. Correlations with
+maximum ball velocity and the number of spins calculated with
+TRACKMAN were determined by calculating Pearson productmoment correlation coefficients. Statistical analysis software
+(IB) was used for all statistical processing. Data for the 3 serve
+tasks and figures calculated from the measurement
+instruments were subjected to 2-way analysis of variance
+(ANOVA). Multiple comparisons with the Bonferroni method
+were performed when significant main effects were observed.
+A risk ratio of 5% or less was considered to be statistically
+significant.
+
+RESULTS AND DISCUSSION
+Correlation
+service
+velocities
+measured
+by
+TRACKMAN and VICON
+Figure 2 shows the correlations between service velocities
+measured using TRACKMAN(x) and VICON(y). A high
+
+correlation coefficient was observed for the 3 serves; r = 0.996;
+p<0.01). High correlation coefficients were also obtained for
+the respective serve conditions (flat: [r = 0.996]; slice: [r = 0.992]
+; kick: [r = 0.996] , p<0.01). In this study, the velocities of 3
+serves performed by top Japanese players were measured
+using TRACKMAN and a speed gun. Although a high
+correlation coefficient (r = 0.997) was obtained, TRACKMAN
+generally tended to show higher velocity (5.5 km/h) than a high
+speed camera (Murakami et al., 2016). This shows that velocity
+cannot be measured accurately if the speed gun lens surface
+(an optical axis) does not line up with the direction that the
+object being measured is travelling and that the larger the
+angle between the electrical wave and the object’s trajectory,
+the larger the measurement error becomes(Morimoto et al.,
+2007). Consequently, it is possible that the values were affected
+by the angle between the speed gun and the ball’s trajectory
+(Murakami et al., 2016). In contrast, the ball velocity values
+obtained from TRACKMAN and VICON in the present study
+were almost an exact match. We believe that this is because
+the entire singles court could be exposed to radar with
+TRACKMAN,
+enabled
+more
+accurate
+velocity
+measurements over a larger area than is possible with a speed
+gun.
+
+Number of ball spin measured by TRACKMAN and
+VICON
+Figure 3 shows the correlation of the number of ball spins
+(rpm) from the three serves as measured using TRACKMAN(x)
+and VICON(y). A high correlation coefficient was observed for
+all 3 types of serve (flat, slice, kick ; r = 0.978, p<0.01). High
+correlation coefficients were also obtained for the serves
+individually (F: r = 0.949]; S:[r = 0.906,]; K:[r = 0.885] p<0.01).
+The r values for the number of spin for the 3 serves increased
+successively as the serve type changed from kick to slice to flat.
+The number of ball spins was obtained with TRACKMAN by
+exposing the entire singles court to radar and based on the
+information obtained 300 ms after ball impact. In the present
+study, the kick values exhibited a higher correlation than flat or
+slice when compared to the VICON values, although the error
+was very slight. This is thought to have occurred because this
+type of serve had the largest number of spins. In any case, the
+number of spins calculated with TRACKMAN exhibited a high
+level of reliability, suggesting that this instrument could be
+useful in training situations. For ball velocity, the 2-way ANOVA
+results between the TRACKMAN and VICON instruments
+showed no interaction and no statistically significant
+difference. Significant main effects were observed between the
+three types of serves (flat, slice, kick), but there was no
+significant difference between the measurement instruments.
+With regard to the number of ball spins, 2-way ANOVA results
+between the TRACKMAN and VICON instruments showed no
+interaction and no significant difference. However, while
+significant main effects were observed between the 3 types of
+serves, there was no significant difference between the
+instruments.
+
+CONCLUSION
+To verify the reliability of the precision of TRACKMAN
+measurements, we analyzed 3 types of serve and compared the
+results to values obtained with VICON. Data showed that the
+correlation coefficient of ball velocities calculated with
+TRACKMAN and VICON conformed to (r = 0.996, p<0.01) and
+both measuring equipment had no significant effect.
+Furthermore, there was a high correlation coefficient for the
+number of ball spins: (r = 0.978, p<0.01) and both measuring
+equipment had no significant effect. This suggests that ball
+velocity and the number of ball revolution values calculated
+with TRACKMAN which provides immediate feedback, are
+highly reliable and would be useful in training situations. When
+the player knows the information of ball flight immediately, the
+skill can be adjusted immediately on court with this feedback.

@@ -1,0 +1,367 @@
+Title: Neuromuscular fatigue and explosive strength in the legs. New approach to physical preparation in tennis
+Authors: Alberto Osete, Ignacio Mechón, Javier Gil Herrera, Fernando Cabaleiro, Diego González, Franco Squillari
+Year: 2025
+Issue: Vol. 33 No. 95 (2025)
+Article id: 645
+
+www.itfcoachingreview.com
+April 2025. 33th Year. Issue 95. 36-40
+ISSN 2225-4757
+https://doi.org/10.52383/itfcoaching.v33i95.645
+INTRODUCTION
+All sports have within the development of their game,
+particular characteristics referring to physical, technical,
+tactical and psychological effort, which makes sports training
+a complex activity, which implies the consideration of the
+numerous variables that intervene in the sporting fact when
+making decisions regarding the methodology to be used
+(Bompa and Harft, 2009).
+However, one of the primary tasks when undertaking a sports
+physical training plan (also tactical technical) is to study and
+analyse the primary motor skills involved and complementary
+sub-capacities of their game to design a program that
+maximizes results and reduces the risk of injury (Issurin,
+2010).
+Competitive tennis matches are one of the sports with the
+longest total duration; in Grand Slam tournaments to 5 sets
+they can last up to more than 4 hours, which is why endurance
+and its link with neuromuscular fatigue is one of the capacities
+that need to be analysed. In this spectrum, an important point
+to investigate is the incidence that the appearance of fatigue
+has on performance, and which are the physical aspects that
+can be most altered. To contribute to this type of study, the
+team of physical trainers of the Argentine Thesis Association
+developed research focusing on one of the physical capacities
+involved in physical performance within a tennis match in
+competition that has been little studied: the explosive power
+of the legs in a situation of neuromuscular fatigue at the end
+of a tennis match in a high competition tournament. Contrary
+ABSTRACT
+Despite the numerous existing studies, neuromuscular fatigue continues to be an
+inexhaustible topic in the study of sports training. The article addresses the study of
+explosive power in legs in tennis training for high competition. While most of the existing
+literature points to the decrease in endurance performance and coordination motor skills
+after a strenuous match, our study, carried out on a sample of 204 athletes between
+12 and 18 years old within the framework of competitions organized by the Argentine
+Tennis Association, demonstrates how the explosive power of the legs increases after
+a long-lasting match. Considering that the sporting fact is multifactorial and that
+the physiological, neurological and psychological factors that must be considered to
+enhance training, two conclusions emerge from the study: the value of the finding to
+reevaluate tennis training and the importance of research in real competition situations.
+Neuromuscular fatigue and explosive strength in
+the legs. New approach to physical preparation
+in tennis
+Alberto Osete, Ignacio Mechón, Javier Gil Herrera, Fernando Cabaleiro, Diego
+González & Franco Squillari
+Argentine Tennis Association, Argentine.
+Key words: Neuromuscular
+fatigue, leg power, highcompetition tennis
+Received: 5 August 2024
+Accepted: 10 March 2025
+Corresponding author: Alberto
+Osete, alberto@albertoosete.com
+COACHING & SPORT
+SCIENCE REVIEW
+to the general opinion that fatigue affects explosiveness
+(Kraemer & Ratamess, 2004), our study aims to show that,
+at least in the moments after the match, such explosiveness
+shows higher levels than at the beginning of the match. The
+following objective was proposed: to show in a competitive
+situation the incidence of fatigue on the explosive power of
+the legs in players of both sexes in the Juniors category.
+PREVIOUS STUDIES
+Although the concept of fatigue dates to the beginning of
+the twentieth century, its content continues to be constantly
+transformed. In the last thirty years, progress has been made
+in its characterization from various aspects, many of which
+point to its multifactorial and systemic character.
+Gómez Campos et al. (2009) dedicate an interesting article to
+reviewing the existing literature on the mechanisms involved
+in acute fatigue to show the different pathways that are related
+to the process of gestation and development. The work covers
+more than 50 articles published in scientific journals between
+1995 and 2008, a journey that leads them to propose that
+the etiological mechanisms responsible for fatigue have been
+considered by both physiologists and biochemists from three
+different angles: the perspective of improving performance in
+high-performance sport, the functional recovery of subjects
+with pathologies or injuries in the nervous system or the
+study of subjects with neuromuscular pathologies.
+The authors point out that, despite the large number of
+studies, due to the multifactorial nature of fatigue, the
+mechanisms associated with its aetiology have not yet been
+clearly determined. One way to organize this complexity
+is to consider peripheral and central fatigue, depending
+on whether the factors affect the muscles or the brain.
+Following Rossi and Tirapegui (1999), they consider that
+peripheral fatigue may be metabolic or come from a decrease
+in neuromuscular function (due to a decrease in muscle
+glycogen or protein degradation), while central fatigue is
+caused by an imbalance of amino acids with the consequent
+alteration of neurotransmitter activity (pp. 544).
+In relation to metabolic fatigue, Snyder (1998) hypothesizes
+that because of high-intensity exercise, glycogen depletion
+occurs; Depending on the intensity and duration of the effort,
+there is a use of different energy systems to supply the needs
+using other substrates, but they deplete the reserves so that
+the athlete enters a situation of fatigue. Along the same lines,
+the works of Bangsbo et al., (2006) and Nédélec et al., (2012)
+can be cited.
+Duchateau et al. (2002) and Boerio et al. (2005) point out in
+their conceptualizations that adaptations to fatigue have been
+widely studied under conditions of voluntary and electrical
+isometric muscular actions and conclude that much less is
+known about actual fatigue, that is, specific fatigue in a game
+situation since most studies are based on the interpretation
+of laboratory data.
+Other approaches to muscle fatigue consider the existence
+of subjective fatigue that is influenced by psychological and
+social factors such as performance expectations, cognitive
+effort for decision-making or emotional self-regulation
+(López-Chicharro & Fernández Vaquero, 2006).
+These general studies are complemented by specific works in
+which specific situations are analysed.
+Theoretically, much has been said about exercises or sports
+activities of long duration and intensity that produce an
+increase in lactic acid in the blood and muscles, influencing
+the appearance of fatigue, giving an increase in the
+concentration of H+ ions causing a decrease in PH, a
+factor that is associated with the inhibition of the enzyme
+phosphofrutokinase producing a decrease in glycolysis (Rosi
+& Tirapegui,  1999), that is, these authors propose an increase
+in acidosis as a negative factor in the obtaining of Adenosine
+Triphosphate (ATP).
+In this regard, Dr. Néstor Lentini , Argentine physiologist
+and traumatologist, director of the Department of Exercise
+Physiology of the CENARD (National Centre for High
+Performance Sports of Argentina), points out that in the latest
+research it has been proven that phosphocreatine reserves
+decreased by exercise or sports activity recover within two
+minutes of the end of the demand, for this reason, obtaining
+energy reserves in a non-oxidative system is not significant,
+they quickly enter a regenerative process of obtaining ATP by
+moving from ADP diphosphate to ATP triphosphate.
+Other authors attribute muscle fatigue to electrolyte
+imbalance due to long-term demands in hot environments
+with excessive water loss, referring to an alteration of the
+plasma membrane potential with alteration in the conduction
+of nerve impulses (Roses & Javierre, n.d.).
+A study by Lepers et al. (2002) with cyclists subjected to
+a 5-hour effort at an intensity of 55% of their maximum
+aerobic capacity found a decrease in voluntary contraction
+of the quadriceps muscle by 18%, at the end of the course.
+In another similar study by the same author (2013) also with
+cyclists, it is concluded in a similar way finding a reduction
+in the muscular capacity of the legs after prolonged cycling.
+Girard and Millet (2007) in laboratory studies aimed at
+racquet sports, arrive at a hypothesis with their research and
+potentially point out that performance may be limited (as the
+match progresses) due to reduced central activation linked
+to changes in neurotransmitter metabolism or in response to
+afferent sensory feedback. They indicate that, alternatively,
+with inhibition of the excitability of motor neurons due to
+changes in the metabolic or mechanical properties in the spinal
+structure or also by ionic disturbances and perturbations in
+the excitation-contraction coupling properties.
+Our conclusions in this task of investigating different sources
+of analysis and research of neuromuscular fatigue and
+personal consultations with specialists in the sports world
+is that most of the studies are oriented to the decrease in
+endurance performance and coordination motor skills,
+without addressing what happens to the explosive power in
+the legs after a strenuous tennis match.
+Therefore, the aim of our research was to study an unexplored
+bias: the explosive power in legs in a competitive tennis
+match.
+METHODOLOGY
+Study Framework
+For a few years now, within the development program of
+the Argentine Tennis Association, together with the physical
+preparation team, he stored data to investigate the incidence
+of neuromuscular fatigue in terms of explosive strength or
+leg power (smash jumps, serve, braking, starts to a short ball,
+changes of direction, explosive mobility, among others) in a
+tournament tennis match. The work was carried out in the
+Development Area directed by Franco Squilliari by the Physical
+Preparation team of the Argentine Tennis Association made
+up of professors Alberto Osete, Ignacio Menchón, Javier Gil
+Herrera, Fernando Cabaleiro and Diego González.
+Hypothesis
+From the observation of the behaviour of the players after
+each match, a general hypothesis was outlined according to
+which the power of the legs increases with respect to their
+initial state at the end of high competition matches.
+Design
+To validate it, an observational cross-sectional study was
+designed on the performance in the male and female juniors’
+category (12 to 18 years old) in a competitive situation over a
+period (2015, 2016, 2017, 2018, 2019, 2023). The condition
+of competence (different from a laboratory analysis) has
+a determining value for the verification of the hypothesis
+since all the elements involved in this situation concur in
+competition, especially tension, nervousness and stress that
+are impossible to generate in the laboratory.
+Sample
+The population was composed of 204 male and female
+participants in the National Tournaments of the AAT, Junior’s
+category (12 to 18 years old) during the years described in
+the previous text.
+Instrument and procedure
+The methodological design was carried out with direct
+measurement on two tests: Abalakov jump and long jump.
+In the first case, each player, in a standing position with
+parallel feet on a jumping plate connected to an Azón Jump
+4.0 program, performed two vertical jumps with arm and
+leg momentum. Of the jumps, made 3 to 5 minutes before
+heading to the tennis court, the best of the two was recorded.
+The same operation was repeated 3 to 5 minutes after the
+end of the match, also recording the best. In this way, in the
+period indicated there was a set of 120 jumps (70 for men,
+50 for women).
+Regarding the second type of jump, each player in the pre- and
+post-match instance, made two forward falling jumps falling
+with two feet; The distance reached from the starting line to
+the heel of the furthest back foot was measured, recording
+the greatest distance reached. 84 cases were tested, 50 male
+and 34 female. The length of matches and sets played were
+also considered.
+RESULTS
+The following figures and tables show the results obtained in
+the study.
+Figure 1 corresponds to 147 Abalakov jump shots (with arm
+impulse) and shows how the second jump after the match is
+superior to the first one -before the match- in 72% of the
+cases, both in matches of high volume in time (more than 2
+and a half hours) and high intensity of play, and in matches
+shorter in time and intensity.
+With another motor pattern of explosive force, the long jump
+was performed on firm foot, start with two feet and fall with
+two feet, continues to verify that the trend improves in the
+jump after the match.
+Figure 1. Jumping plate based on the Abalakov jumps.
+Figure 2. Results in percentages of pre- and post-effort jumps: Abalakov,
+CMJ and horizontal jump.
+Clarification: 2 before the match; 2 after the match.
+Figure 2 shows that the height reached in the post-match
+data improves the performance in leg power is also not an
+element that affects the power of the jump after the match.
+Table 1 presents the results in numbers of pre- and posteffort jumps Abalakov CMJ and horizontal jump in numbers.
+Table 1
+Results in numbers of jumps pre and post effort Abalakov CMJ and
+horizontal jump.
+Climb after
+exertion
+Casualty
+No
+ modifications
+Total
+Looking at Figures 1 and 2 and Table 1, the data taken, a
+total of 204, in many matches of different tournaments, were
+surprising: in the case of the Abalakov jumps, out of 147
+cases evaluated, at a percentage of 72%, the jump was higher
+after the match, including long matches of 2 hours, to three
+sets. With the other types of jumps, the trend was similar,
+obtaining higher jumps after the match.
+This revelation leads us to conceptualize that in terms of
+explosive power efforts, the neuromuscular and general
+fatigue accumulated after the effort of a tennis match, is not
+only not affected, but improves performance.
+The athletes, physical trainers, neuromotor specialists
+consulted also showed surprise at the results obtained, since
+it demystifies the generalized opinion that after a prolonged
+and intense effort there is a decrease in performance, since,
+at least, in relation to what is observed in terms of explosive
+power, performance is greater.
+Limitations of the study
+Outside of our analysis population (Juniors of 4 categories
+of competitive players with the best ranked Argentines),
+we cannot guarantee the effectiveness of the hypothesis.
+However, it can be inferred that the results are generalizable
+to other categories of tennis and possibly to other sports.
+Our study represents an interesting advance, and it
+would be desirable for the Federations of other sports to
+investigate along the same lines, to give more reliably with
+the conclusion we reached with our 204 cases of tennis in
+junior’s competition.
+The results in percentage are shown in Figure 2.
+On the other hand, the task was not focused on results, we
+did not propose to take performances, that would be within
+a framework of individual tests, the object of study explained
+in the text of rationale was comparative percentages were
+taken between the before and after the matches analysing
+the explosive strength of the legs, which is very involved in
+tennis.
+CONCLUSIONS
+The work carried out shows that at the end of a match, after
+5 minutes, the motor gestures of the explosive force shown
+in smash hits, serve, braking starts, reactive speed, are not
+affected in their performance.
+Considering the multiplicity of factors that combine to
+make a certain behaviour appear in a sporting event, in
+conjunction with the sports areas consulted, we can propose
+an explanatory hypothesis with reasons of neuromotor,
+physiological and psychological order.
+From neuromotor skills, it can be conjectured that if movement
+positively influences brain functions, it is feasible that in this
+prolonged and high-intensity activity, by increasing lactate
+production, lactate, acting as a neurotrophin triggering factor
+(BDNF) has a significant impact on the Central and Peripheral
+Nervous System, improving cortical synaptic plasticity. This
+would be complemented from a physiological analysis, since
+the dominant energy system in tennis is the non-oxidative
+-also called anaerobic- (the term is not absolute since there is
+formation of lactic acid that increases with the prolongation
+of the effort).
+From psychology, we can understand that after a match, the
+players – winners and losers – lower their level of pressure,
+as an internal struggle between desire and demand; At the
+end of this duality, the athletes are more freed from the
+demands of the test, that is, looser than in the jumps prior to
+the competition.
+However, these hypotheses need to be tested with more
+tests carried out in the same tournament effort. We want to
+emphasize the value of the numbers obtained by
+our study: they are made on the very practice of the sporting
+effort. We believe that it is important to pay attention to them
+since they could have consequences in the way we carry out
+our training and towards other sports, if studies are carried
+out in the same direction as the present.
+Practical applications: What and how to do
+The results obtained, evidenced in the following graphs and
+tables, show that the starting hypothesis could be verified
+since in most of the cases considered there is a positive
+difference in favour of the jumps made once the match is
+over. These conclusions lead us to propose some initial
+recommendations that contemplate the results achieved.
+In the warm-up or pre-match activation, several visual reactive
+exercises must be included to stimulate the neuromuscular
+system before the match.
+Examples:
+•	 After a previous mobility, articular of shoulders, hips
+and legs and gentle mobility of movement to activate
+the cardiocirculatory system, peripheral capillarization,
+increase in muscle temperature, decrease in muscle
+viscosity, joint lubrication.
+•	 Various reactive activation exercises at high intensity,
+stimulating the visual perceptual system for quick
+reading and consequent response
+	▪With the ball: respond in a backward direction to a
+defensive ball, to an attacking forward ball, to a high
+ball to take it up with a smash jump, in fronton quick
+short volleys, all done with specific movements of
+tennis.
+	▪No ball: Progressions in short distances, short kicks,
+changes of speed, changes of support and exit, few
+repetitions a lot of speed.
+•	 Concentration,
+visualization
+and
+game
+planning
+exercises that your coach elaborates, if you enter the
+court with confidence, confidence and high self-esteem,
+your tension, your pressure will be closer to your optimal
+point
+CONFLICT OF INTEREST AND FUNDING
+The authors declare no conflicts of interest and did not
+receive funding to conduct this research.
