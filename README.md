@@ -38,6 +38,28 @@ report/              ICML-style LaTeX report; report/tables/ is generated from r
 tests/               unit tests (pytest)
 ```
 
+## What is new
+
+The knowledge graph, the community reports and the local and global search come from Microsoft's
+[`graphrag`](https://github.com/microsoft/graphrag) library (version 3.3.0), used as released;
+`kaggle/common/prompts/` and `kaggle/common/settings.default.yaml` are its defaults, which
+`dne/graphrag_config.py` fills in for this setup. Everything else in this repository was written for
+this project:
+
+| Part | Files |
+|---|---|
+| GraphRAG on free Kaggle GPUs: one kernel serves Qwen2.5-14B and bge-m3 with vLLM and runs indexing, querying, the demo dialogues or the second judge | `kaggle/index/run_index.py`, `kaggle/common/serve.sh`, `dne/graphrag_config.py`, `dne/kaggle_bundle.py`, `tools/kaggle_run.py` |
+| Runs that fit Kaggle's 12-hour sessions: live progress and ETA, a watchdog that stops a run that is over budget or stalled, and resuming an index from graphrag's cache in the next session | `dne/progress.py`, `dne/resume.py` |
+| Basic search with a fix for graphrag 3.3's empty answers (its streaming call is never awaited), so that all three systems share the same chunks, embeddings and answer model | `dne/query_worker.py` (`basic_answer`) |
+| Domain extraction prompt: ten coaching entity types and two hand-written coaching examples | `kaggle/common/prompts_domain/extract_graph.txt` |
+| Conversational agent: a follow-up question is rewritten into a standalone question, then answered by any of the three systems | `dne/chat.py`, `dne/chat_worker.py` |
+| Cost measurement: GPU energy from `nvidia-smi`, token counts from vLLM, graph size | `dne/power.py`, `dne/vllm_metrics.py`, `dne/graph_stats.py` |
+| Evaluation: pairwise LLM judge on the four criteria of Edge et al. in both display orders, correctness grading against reference notes, a second judge from another model family, and an API spend cap | `dne/judge.py`, `dne/local_judge.py`, `dne/spend.py` |
+| Statistics: sign test, Wilcoxon signed-rank test, Holm correction, Cohen's κ, length bias | `dne/stats.py`, `dne/analysis.py` |
+| Blinded human sample | `dne/human_sample.py`, `tools/export_human_ratings.py` |
+| Corpus: harvesting, PDF-to-text extraction, the 200-article subset, the question set | `tools/harvest_itf.py`, `dne/extract.py`, `dne/subset.py`, `dne/questions.py` |
+| Report tables generated from the result files | `dne/report_tables.py`, `tools/make_report_tables.py` |
+
 ## Setup
 
 Python 3.11. With [uv](https://docs.astral.sh/uv/):
