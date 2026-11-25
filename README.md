@@ -135,3 +135,15 @@ rating page's export.
 | `results/human_ratings.csv` | blinded ratings of the two human raters |
 | `results/chat_demo.jsonl`, `chat_demo.md` | the four demo dialogues, answered by all three systems |
 | `results/spend_ledger.csv` | every API call and its cost |
+
+## Known limitations of the text extraction
+
+`dne/extract.py` is kept exactly as it was run, so that the index and every result can be reproduced from it.
+
+- Reference lists are cut at a heading spelled *References*, *Bibliography* (or the Spanish or French word).
+  19 articles have a heading the pattern does not match (e.g. *RERERENCES*, *REFERENCES:*), so their reference
+  lists remain in the text; 7 of them are in the 200-article subset.
+- In some two-column PDFs the reference list comes before the end of the article in reading order, so the text
+  after it is cut. About 14 articles lose their last section, 5 of them in the subset (45, 48, 799, 806, 815);
+  none of these is the source article of a question.
+- Lines that contain only a number are removed as page numbers, which also removes some table values.

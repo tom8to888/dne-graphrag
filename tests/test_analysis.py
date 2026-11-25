@@ -75,17 +75,20 @@ def test_correctness_tables_shapes_and_values():
     assert row.n_first_better == 2 and row.n_first_worse == 0
 
 
-def test_judge_agreement_counts_and_kappa():
+def test_judge_agreement_nets_both_display_orders():
     import pandas as pd
     from dne.analysis import judge_agreement
-    a = pd.DataFrame({"pair_id": ["p1", "p1", "p2", "p2"], "criterion": ["c", "d", "c", "d"],
-                      "winner": ["basic", "local", "tie", "basic"]})
+    # Q1: judge a wins both orders for basic on c (net: first); split on d (net: tie)
+    # Q2: judge a basic once + tie (net: first) on c; local both orders on d (net: second)
+    a = pd.DataFrame({"pair_id": ["Q1|basic|local|0", "Q1|basic|local|1"] * 2 + ["Q2|basic|local|0", "Q2|basic|local|1"] * 2,
+                      "criterion": ["c", "c", "d", "d", "c", "c", "d", "d"],
+                      "winner": ["basic", "basic", "basic", "local", "basic", "tie", "local", "local"]})
     b = a.copy()
-    b.loc[3, "winner"] = "local"
+    b["winner"] = ["basic", "local", "basic", "local", "basic", "basic", "local", "basic"]  # nets: tie, tie, first, tie
     t = judge_agreement(a, b)
-    assert t.loc["c", "agreement"] == 1.0 and t.loc["d", "agreement"] == 0.5
-    assert t.loc["all", "n"] == 4 and t.loc["all", "agreement"] == 0.75
-    assert t.loc["c", "kappa"] == 1.0
+    assert t.loc["all", "n"] == 4  # one netted verdict per (question, pair, criterion), not one per display order
+    assert t.loc["c", "agreement"] == 0.5 and t.loc["d", "agreement"] == 0.5
+    assert t.loc["all", "agreement"] == 0.5
 
 
 def test_judgments_long_and_order_consistency(tmp_path):

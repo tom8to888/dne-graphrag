@@ -108,10 +108,23 @@ def cohen_kappa(x: pd.Series, y: pd.Series) -> float:
     return 1.0 if pe == 1 else (po - pe) / (1 - pe)
 
 
+def _netted(j: pd.DataFrame) -> pd.DataFrame:
+    """Both display orders of a (question, system pair, criterion) netted into one verdict, as for the human
+    sample: 'first' / 'second' when the pair's first or second system won more of the two orders, else 'tie'.
+    pair_id is "qid|sys_1|sys_2|order"."""
+    p = j["pair_id"].str.split("|", expand=True)
+    d = j.assign(item=p[0] + "|" + p[1] + "|" + p[2],
+                 v=(j["winner"] == p[1]).astype(int) - (j["winner"] == p[2]).astype(int))
+    s = d.groupby(["item", "criterion"], as_index=False)["v"].sum()
+    s["winner"] = s["v"].map(lambda v: "first" if v > 0 else ("second" if v < 0 else "tie"))
+    return s[["item", "criterion", "winner"]]
+
+
 def judge_agreement(a: pd.DataFrame, b: pd.DataFrame) -> pd.DataFrame:
-    """Two judges on the same (pair_id, criterion): raw agreement and Cohen's kappa per criterion and overall.
-    Inputs have columns pair_id, criterion, winner (a system name or "tie")."""
-    m = a.merge(b, on=["pair_id", "criterion"], suffixes=("_a", "_b"))
+    """Two judges: raw agreement and Cohen's kappa per criterion and overall, on one netted verdict per
+    (question, system pair, criterion) (see _netted). Inputs have columns pair_id, criterion, winner
+    (a system name or "tie")."""
+    m = _netted(a).merge(_netted(b), on=["item", "criterion"], suffixes=("_a", "_b"))
     rows = {}
     for key, g in list(m.groupby("criterion")) + [("all", m)]:
         same = g.winner_a == g.winner_b

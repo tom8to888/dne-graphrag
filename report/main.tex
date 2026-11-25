@@ -171,7 +171,7 @@ Edge et al.\ report token counts and indexing time, but not energy or GPU-hours.
 \label{sec:corpus}
 The corpus is the ITF Coaching \& Sport Science Review, the open-access journal of the International
 Tennis Federation, published under CC BY. We collected 587 articles (2009--2026) with their metadata.
-Text was extracted with PyMuPDF, without running headers and reference lists, and with a header
+Text was extracted with PyMuPDF, without running headers and (where the heading was recognised) reference lists, and with a header
 (title, authors, year) so that every chunk can be traced to its article. After removing 46 articles
 without a PDF or usable text, 541 remain (1.64M tokens). Indexing all of them would take about 34 hours
 on our hardware, against Kaggle's limit of 12 hours per session and 30 hours of GPU time per week. The graph is therefore built on a subset of 200 articles (0.59M tokens): the
@@ -373,7 +373,7 @@ reference notes most often (7 of 30 answers, against 3 each for basic and local)
 The two human raters agreed only fairly, on the scale of \citet{landis1977measurement} (agreement 0.51,
 $\kappa = 0.23$; \cref{tab:human}). This is about as well as each agreed with the LLM judges ($\kappa$
 between 0.12 and 0.28), and as the two LLM judges agreed with each other on this sample ($\kappa = 0.30$).
-On the full test split, the two LLM judges agreed more (agreement 0.61, $\kappa = 0.41$;
+On the full test split, the two LLM judges agreed about as well (agreement 0.52, $\kappa = 0.28$;
 \cref{tab:judgeagreement}). All four
 raters gave basic RAG the most wins (\cref{tab:humanwins}), in line with the pairwise results. With
 20 answer pairs, the sample is a check on the LLM judges rather than a test of the hypotheses.
@@ -423,8 +423,8 @@ and global search ($p = 0.010$ and $0.005$). Diversity with Opus, global search 
 Mistral, and all results per question kind (15 questions each, descriptive only) are not significant.
 The overall picture is nevertheless consistent, because several measures point the same way: two LLM
 judges from different model families, two human raters, and the correctness check against the reference
-notes. These measures are not fully independent, however: Opus also grades correctness, one human rater is the
-author, and the second rater's wins were nearly even (basic 25, local 22; \cref{tab:humanwins}). Agreement among the raters was
+notes. These measures are not fully independent, however: Opus also grades correctness, the LLM judges saw the
+citation markers that reveal each system (the human raters did not), one human rater is the author, and the second rater's wins were nearly even (basic 25, local 22; \cref{tab:humanwins}). Agreement among the raters was
 low to fair ($\kappa$ between 0.12 and 0.30 on the human sample), so single verdicts are noisy.
 Judging both display orders balances position bias, which was substantial for Mistral: it gave the same
 verdict in both orders in 50\% of comparisons, against 80\% for Opus (all 60 questions). On
@@ -467,9 +467,8 @@ questions, the setting of limited budgets that motivated this study.
 The code is available at \url{https://github.com/tom8to888/dne-graphrag}. New relative to the \texttt{graphrag} library are:
 a Kaggle pipeline (vLLM on two T4 GPUs) that runs indexing, querying, the conversational agent and the
 second judge, with budget watchdogs and resumption from graphrag's cache; a fix for the empty answers of graphrag~3.3's basic search; the pairwise judge, the
-correctness grader and the statistics (sign test, Wilcoxon, Holm, $\kappa$); and the code that draws
-the blinded human sample. A README and \texttt{run\_all.sh} reproduce every stage, and
-the tables in this report are generated from the result files. The corpus is licensed CC BY 4.0.
+correctness grader and the statistics; and the code that draws the blinded human sample. A README and
+\texttt{run\_all.sh} reproduce every stage and table.
 
 \bibliography{references}
 \bibliographystyle{icml2025}
@@ -498,7 +497,8 @@ judges' verdicts net both display orders.}
 \end{table}
 
 \begin{table*}[t]
-\caption{Cost per answer (mean over the 60 questions). Prompt tokens include the retrieved context;
+\caption{Cost per answer (mean over the 60 questions). Prompt tokens include the retrieved context, as counted
+by graphrag; vLLM's totals, which add the question and the chat template, are about 7\% higher;
 latency is wall time per answer with three questions answered at once on 2$\times$T4. Articles: distinct
 source articles in the context.}
 \label{tab:costanswer}
@@ -613,7 +613,7 @@ questions, development and test).}
 \end{table}
 
 \begin{table}[h]
-\caption{Agreement between the two LLM judges (Opus and Mistral), test split, three pairs and both display orders at 12k.}
+\caption{Agreement between the two LLM judges (Opus and Mistral), test split, three pairs at 12k; both display orders netted into one verdict per question, pair and criterion.}
 \label{tab:judgeagreement}
 \vskip 0.05in
 \begin{center}\begin{small}
