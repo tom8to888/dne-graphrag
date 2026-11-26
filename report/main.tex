@@ -283,11 +283,11 @@ through the Anthropic API: a frontier model, so that the judgements are not limi
 model that generates the answers. A second judge from another model family, Mistral Small 24B Instruct
 (AWQ, run locally on the same GPUs), receives the same prompt. Neither judge sees the reference notes.
 
-\textbf{Correctness.} Because the four criteria do not check whether an answer is right, Opus also
+\textbf{Correctness.} As the four criteria do not check whether an answer is right, Opus also
 grades every answer to the look-up and connecting questions against the reference note of key points:
 coverage of all, most, some or none of them (scored 3 to 0), and whether the answer contradicts the
-note. Extra material that does not contradict the note is neither rewarded nor penalised. The
-big-picture questions have no such note.
+note. Extra material that does not contradict the note is neither rewarded nor penalised. Big-picture
+questions have no note.
 
 \textbf{Human sample.} Twenty answer pairs from the test set (20 different questions, spread over the
 three system pairs, with the display order alternated) were rated blind on the same four criteria by
@@ -346,7 +346,7 @@ global and 0.26 for local search against basic RAG (Opus, both significant). Mis
 direction (0.37 and 0.32), but only the difference with local search was significant.
 Global and local search performed similarly: no difference between them was significant with either
 judge (win rates of global over local between 0.38 and 0.63).
-With both systems at an 8k-token budget, as in Edge et al., basic RAG was still preferred on
+With basic and global search both at an 8k-token budget, as in Edge et al., basic RAG was still preferred on
 comprehensiveness, empowerment and directness, but only empowerment (0.17) and directness (0.23)
 remained significant; on diversity, global search was slightly ahead (0.57, not significant;
 \cref{tab:judge8k}).
@@ -441,7 +441,7 @@ without any relationship would remain isolated. Second, duplicate entities could
 communities are formed, for example by normalising their names or comparing their descriptions. Third,
 big-picture questions could be answered from the 329 smaller C1 reports instead of the 63 at C0, at
 about four times the report tokens (\cref{tab:levels}). The fourth, re-indexing with a larger extraction model, is the only direct test of whether the model was
-the main cause, but needs more GPU memory than two T4s, or API credits.
+the main cause, but requires significantly more GPU memory, and/or API credits.
 
 
 \section{Conclusion}
@@ -449,8 +449,8 @@ the main cause, but needs more GPU memory than two T4s, or API credits.
 
 We compared GraphRAG's local and global search with vector RAG on 200 tennis-coaching articles, using
 a 14B open model (Qwen2.5) on free Kaggle T4 GPUs. Contrary to Edge et al., basic RAG beat both
-GraphRAG systems on almost all criteria and on correctness, at lower cost: H1, H2 and the connecting
-half of H4 were not supported, while H3 was. Our analysis suggests that a likely cause is a fragmented graph (small model,
+GraphRAG systems on almost all criteria and on correctness, at lower cost. Global search did not win on big-picture questions (H1), nor local search on
+connecting questions, in judging (H2) or correctness (H4); basic RAG was the most direct (H3) and the most correct on look-up questions (H4). Our analysis suggests that a likely cause is a fragmented graph (small model,
 domain prompt) that, with graphrag's largest-component default, left 66\% of the entities out of the
 community reports that global search reads.
 Beyond the fixes in \cref{sec:discussion}, four directions follow from this study. First, LightRAG
@@ -459,12 +459,12 @@ skipping the step where most of our entities were lost, at a lower indexing cost
 system could give the answer model both the source chunks that carried basic RAG's detail and the graph
 connections that connecting questions need. Third, a larger evaluation, with more big-picture questions,
 more human raters and repeated judging, could detect smaller differences than our 15 questions per kind.
-Finally, the conversational agent could be built on the best system and tested with coaches on their own
-questions, the setting of limited budgets that motivated this study.
+Finally, the conversational agent could be built on basic RAG and tested by coaches with their own
+questions.
 
 \section*{Code and Data}
 \label{sec:code}
-The code is available at \url{https://github.com/tom8to888/dne-graphrag}. New relative to the \texttt{graphrag} library are:
+The code is available at \url{https://github.com/tom8to888/dne-graphrag}. New relative to \texttt{graphrag} are:
 a Kaggle pipeline that runs indexing, querying, the conversational agent and the
 second judge; a fix for the empty answers of graphrag~3.3's basic search; the pairwise judge, the
 correctness grader and the statistics; and the code that draws the blinded human sample. A README and
