@@ -116,14 +116,14 @@ Our contributions are:
 Retrieval-augmented generation was introduced by \citet{lewis2020rag} for knowledge-intensive questions
 that a model cannot answer from its training alone: before answering, the model retrieves passages from
 a large document collection (Wikipedia, in their case) and conditions its answer on them.
-Dense passage retrieval \cite{karpukhin2020dpr} encodes questions and passages with two neural
+Dense passage retrieval (DPR) \cite{karpukhin2020dpr} encodes questions and passages with two neural
 encoders into vectors that lie close together when their meanings are similar, even if their words
 differ, and retrieves the passages closest to the question; it outperformed keyword retrieval (BM25)
-and became the retriever of the original RAG. Our basic system follows this approach with bge-m3
+and became the retriever of the original RAG. Our basic system follows this dense-retrieval approach with bge-m3
 \cite{chen2024bgem3} as the encoder, filling the context budget with the chunks closest to the
 question; local search also starts from vector similarity, but to find entities in the knowledge graph.
 \citet{gao2023ragsurvey} distinguish naive, advanced and modular RAG: our basic system is the
-naive form, which simply retrieves the most similar chunks, while GraphRAG and LightRAG can be seen as
+naive form, which simply retrieves the most similar chunks, while graph-based methods such as GraphRAG can be seen as
 modular RAG, adding a graph to a flexible pipeline of retrieval modules.
 
 GraphRAG \cite{edge2024local} uses an LLM to extract entities, relationships and, optionally, claims
