@@ -423,8 +423,8 @@ and global search ($p = 0.010$ and $0.005$). Diversity with Opus, global search 
 Mistral, and all results per question kind (15 questions each, descriptive only) are not significant.
 The overall picture is nevertheless consistent, because several measures point the same way: two LLM
 judges from different model families, two human raters, and the correctness check against the reference
-notes. These measures are not fully independent, however: Opus also grades correctness, Claude, the main judge's family, drafted the questions and notes from specific articles, which may favour basic RAG, the LLM judges saw the
-citation markers that reveal each system (the human raters did not), one human rater is the author, and the second rater's wins were nearly even (basic 25, local 22; \cref{tab:humanwins}). Agreement among the raters was
+notes. These measures are not fully independent, however: Opus also grades correctness; Claude, the main judge's family, drafted the questions and notes from specific articles, which may favour basic RAG; the LLM judges saw the
+citation markers that reveal each system (the human raters did not); one human rater is the author; and the second rater's wins were nearly even (basic 25, local 22; \cref{tab:humanwins}). Agreement among the raters was
 low to fair ($\kappa$ between 0.12 and 0.30 on the human sample), so single verdicts are noisy.
 Judging both display orders balances position bias, which was substantial for Mistral: it gave the same
 verdict in both orders in 50\% of comparisons, against 80\% for Opus (all 60 questions). On
