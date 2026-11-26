@@ -1,4 +1,4 @@
-"""Human check on the judges (plan Task 9): 20 blinded pairs from the test split, a rater picks per criterion."""
+"""Human check on the judges: 20 blinded pairs from the test split, a rater picks per criterion."""
 import pandas as pd
 
 from dne.human_sample import make_human_sample
@@ -72,13 +72,13 @@ def test_ratings_from_docs_maps_choices_to_systems_and_skips_missing():
     from dne.human_sample import ratings_from_docs
     docs = {"H01": {"comprehensiveness": "1", "directness": "tie", "updated": "x", "note": "hard one"},
             "H02": {"comprehensiveness": "2"}}
-    r = ratings_from_docs(docs, KEY, "thomas").set_index(["item", "criterion"])
+    r = ratings_from_docs(docs, KEY, "human1").set_index(["item", "criterion"])
     assert len(r) == 3  # unrated criteria are left out, not counted as ties
     assert r.loc[("H01", "comprehensiveness"), "winner"] == "local"
     assert r.loc[("H01", "directness"), "winner"] == "tie"
     assert r.loc[("H02", "comprehensiveness"), "winner"] == "basic"
     assert r.loc[("H01", "comprehensiveness"), "note"] == "hard one"
-    assert set(r.rater) == {"thomas"} and r.loc[("H02", "comprehensiveness"), "qid"] == "B2"
+    assert set(r.rater) == {"human1"} and r.loc[("H02", "comprehensiveness"), "qid"] == "B2"
 
 
 def test_judge_item_verdicts_nets_both_display_orders():

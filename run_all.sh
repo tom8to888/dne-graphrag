@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Reproduce the study, stage by stage.
 #
-#   ./run_all.sh              tests + analysis + report from the shipped result files (offline, free, ~2 min)
+#   ./run_all.sh              tests + analysis + report from the shipped result files (offline, free, under a minute)
 #   ./run_all.sh corpus       re-extract the corpus text from the raw PDFs (needs data/raw/, see README)
 #   ./run_all.sh kaggle       index + answers + demo dialogue + second judge on Kaggle GPUs (hours, needs a Kaggle account)
 #   ./run_all.sh judge        Opus judge + correctness through the Anthropic API (costs money, needs --yes)
@@ -80,8 +80,6 @@ judge() {
 analysis() {
   step "Tests"
   $PY -m pytest -q
-  step "Correctness tables"
-  $PY tools/correctness_tables.py
   step "Results notebook -> results/tables/*.csv"
   $PY -m jupyter nbconvert --to notebook --execute --inplace notebooks/05_results.ipynb
   step "Report tables, demo dialogue, PDF"

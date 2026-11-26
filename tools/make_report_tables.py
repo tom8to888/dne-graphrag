@@ -2,7 +2,9 @@
 
     python tools/make_report_tables.py
 
-Re-run after notebook 05 changes; every number in the report's tables comes from here.
+Re-run after notebook 05 changes. Every table in the report is written here. Most numbers come from
+results/tables/*.csv; the compute, prompt-comparison and graph-size tables (sections 6, 12, 13) are
+copied from the Kaggle run logs, with the source noted at each table.
 """
 import sys
 from pathlib import Path
@@ -80,13 +82,13 @@ write("compute", tabular(["Stage", "GPU-h (T4)", "kWh", "API (USD)"], [
 
 # 7. Human sample: agreement between raters
 h = csv("human_agreement", index_col=0)
-rn = {"thomas": "Human 1", "jc": "Human 2", "Opus": "Opus", "Mistral": "Mistral"}
+rn = {"human1": "Human 1", "human2": "Human 2", "Opus": "Opus", "Mistral": "Mistral"}
 write("human_agreement", tabular(["Raters", "Verdicts", "Agreement", "$\\kappa$"],
                                  [[f"{rn[r.rater_1]} vs {rn[r.rater_2]}", str(r.verdicts), f"{r.agreement:.2f}",
                                    f"{r.kappa:.2f}"] for r in h.itertuples()]))
 
 # 8. Human sample: wins per system
-w = csv("human_wins").set_index("rater").loc[["thomas", "jc", "Opus", "Mistral"]]
+w = csv("human_wins").set_index("rater").loc[["human1", "human2", "Opus", "Mistral"]]
 write("human_wins", tabular(["Rater", "basic", "local", "global", "Ties"],
                             [[rn[k], str(int(r.basic)), str(int(r.local)), str(int(r["global"])), f"{r.tie_share:.0%}".replace("%", r"\%")]
                              for k, r in w.iterrows()]))

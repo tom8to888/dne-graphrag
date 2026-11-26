@@ -1,4 +1,4 @@
-"""Paired significance tests on pairwise-judge results (study guide LU10: statistical tests + argued p-value)."""
+"""Paired significance tests on pairwise-judge results (sign test, Wilcoxon signed-rank, Holm correction)."""
 from __future__ import annotations
 
 import numpy as np

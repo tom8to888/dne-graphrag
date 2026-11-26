@@ -16,8 +16,11 @@ from dne.paths import META_DIR, PDF_DIR, PROCESSED, TEXT_DIR  # noqa: E402
 def main() -> None:
     TEXT_DIR.mkdir(parents=True, exist_ok=True)
     enc = tiktoken.get_encoding("cl100k_base")
+    meta_paths = sorted(META_DIR.glob("*.json"), key=lambda p: int(p.stem))
+    if not meta_paths:
+        sys.exit(f"no article metadata in {META_DIR}: run tools/harvest_itf.py first (see README)")
     rows = []
-    for meta_path in sorted(META_DIR.glob("*.json"), key=lambda p: int(p.stem)):
+    for meta_path in meta_paths:
         meta = load_meta(meta_path)
         gid = english_galley_gid(json.loads(meta_path.read_text()))
         pdf = PDF_DIR / f"{meta.aid}_{gid}.pdf" if gid else None

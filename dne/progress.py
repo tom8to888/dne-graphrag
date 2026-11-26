@@ -1,4 +1,4 @@
-"""Live progress, ETA and the over-budget watchdog for long Kaggle index runs.
+"""Live progress, ETA, the over-budget watchdog and per-query time limits for long Kaggle runs.
 
 Progress = graphrag's extract_graph cache entries (one per extraction or gleaning call) against
 the expected number of calls, estimated from the input texts before graphrag starts.
@@ -7,7 +7,7 @@ from __future__ import annotations
 
 import math
 
-QUERY_BUDGET_GRACE_S = 1800  # query run: the first answers (3 started together) take ~8 min — judge after 30 min (21/11)
+QUERY_BUDGET_GRACE_S = 1800  # query run: the first answers (3 started together) take ~8 min, so judge after 30 min
 CHARS_PER_TOKEN = 4.4  # measured on the 541 corpus articles (cl100k)
 
 
@@ -52,7 +52,7 @@ def stalled(last_change: float, now: float, stall_s: float = 1200) -> bool:
 
 async def with_timeout(coro, seconds: float):
     """Await `coro`, but give up after `seconds` with a TimeoutError that names the limit — one hung query
-    becomes an error row (the next run retries it) instead of holding the GPU session open (21/11)."""
+    becomes an error row (the next run retries it) instead of holding the GPU session open."""
     import asyncio
     try:
         return await asyncio.wait_for(coro, seconds)

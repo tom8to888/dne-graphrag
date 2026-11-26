@@ -116,6 +116,8 @@ def main() -> None:
     if cmd == "push":
         r = run("kernels", "push", "-p", sys.argv[2], "--accelerator", "NvidiaTeslaT4")
         print(r.stdout.strip(), r.stderr.strip()[-500:])
+        if r.returncode:
+            sys.exit(f"kaggle push failed (exit {r.returncode})")
     elif cmd == "wait":
         kid = kernel_id(sys.argv[2])
         while True:
@@ -124,6 +126,8 @@ def main() -> None:
             if any(w in s.lower() for w in ("complete", "error", "cancel")):
                 break
             time.sleep(60)
+        if "complete" not in s.lower():
+            sys.exit(f"kernel did not complete: {s}")
     elif cmd == "pull":
         Path(sys.argv[3]).mkdir(parents=True, exist_ok=True)
         r = run("kernels", "output", kernel_id(sys.argv[2]), "-p", sys.argv[3], "-o")

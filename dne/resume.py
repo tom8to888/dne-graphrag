@@ -15,6 +15,18 @@ from pathlib import Path
 ARCHIVE = "cache.tar.gz"
 
 
+
+def _extract(tar: tarfile.TarFile, root: Path) -> None:
+    """Extract an archive into root; refuse members that would land outside it (absolute paths, '..', links)."""
+    try:
+        tar.extractall(root, filter="data")
+    except TypeError:  # Python without extraction filters: check the members by hand
+        base = Path(root).resolve()
+        for m in tar.getmembers():
+            if m.issym() or m.islnk() or not (base / m.name).resolve().is_relative_to(base):
+                raise ValueError(f"unsafe member in archive: {m.name}")
+        tar.extractall(root)
+
 def pack_cache(graphrag_root: Path, out: Path) -> Path:
     out = Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -33,10 +45,7 @@ def restore_cache(archive: Path, graphrag_root: Path) -> int:
         ex = root / "cache" / "extract_graph"
         return sum(1 for _ in ex.iterdir()) if ex.exists() else 0
     with tarfile.open(archive, "r:gz") as tar:
-        try:
-            tar.extractall(root, filter="data")
-        except TypeError:  # Python without extraction filters
-            tar.extractall(root)
+        _extract(tar, root)
     ex = root / "cache" / "extract_graph"
     return sum(1 for _ in ex.iterdir()) if ex.exists() else 0
 
@@ -75,10 +84,7 @@ def restore_output(src: Path, graphrag_root: Path) -> int:
         shutil.copytree(src, root / "output", dirs_exist_ok=True)
     else:
         with tarfile.open(src, "r:gz") as tar:
-            try:
-                tar.extractall(root, filter="data")
-            except TypeError:
-                tar.extractall(root)
+            _extract(tar, root)
     return sum(1 for _ in (root / "output").glob("*.parquet"))
 
 

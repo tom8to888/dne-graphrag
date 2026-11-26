@@ -1,15 +1,11 @@
-"""Win rates, bootstrap CIs, cost tables and the length-bias check for the report.
+"""Win rates, the length-bias check, correctness tables and judge agreement for the report.
 
 Judgments use the canonical form of dne.stats: qid, sys_a, sys_b, order, criterion, winner (system name or "tie").
 """
 from __future__ import annotations
 
-from typing import Callable
-
-import numpy as np
 import pandas as pd
 
-from dne.spend import cost_usd
 from dne.stats import question_scores
 
 
@@ -21,35 +17,6 @@ def win_rates(judgments: pd.DataFrame, questions: pd.DataFrame, by: list[str]) -
     keys = ["sys_a", "sys_b"] + by
     return (s.groupby(keys, as_index=False)
              .agg(win_rate_b=("win_b", "mean"), n_questions=("qid", "nunique")))
-
-
-def bootstrap_ci(df: pd.DataFrame, stat_fn: Callable[[pd.DataFrame], float], group_col: str = "qid",
-                 n: int = 2000, seed: int = 42, level: float = 0.95) -> tuple[float, float]:
-    """Percentile CI, resampling whole questions (not individual judgments)."""
-    rng = np.random.default_rng(seed)
-    groups = {g: d for g, d in df.groupby(group_col)}
-    keys = list(groups)
-    stats = [stat_fn(pd.concat([groups[k] for k in rng.choice(keys, len(keys))])) for _ in range(n)]
-    a = (1 - level) / 2
-    return float(np.quantile(stats, a)), float(np.quantile(stats, 1 - a))
-
-
-def cost_table(index_run: dict, answers: pd.DataFrame, t4_usd_per_hour: float) -> pd.DataFrame:
-    """Indexing cost and mean per-answer cost per system; $ at a cloud T4 rate and as if run on Claude."""
-    tot = index_run["totals"]
-    rows = [{"stage": "indexing", "wall_s": index_run["wall_seconds"], "gpu_hours": index_run["gpu_hours"],
-             "kwh": index_run["kwh"], "prompt_tokens": tot["prompt_tokens"],
-             "generation_tokens": tot["generation_tokens"], "llm_calls": tot["requests"]}]
-    for system, g in answers.groupby("system"):
-        rows.append({"stage": f"answer: {system}", "wall_s": g.latency_s.mean(),
-                     "gpu_hours": g.latency_s.mean() * index_run["gpu_hours"] / index_run["wall_seconds"],
-                     "kwh": np.nan, "prompt_tokens": g.prompt_tokens.mean(),
-                     "generation_tokens": g.generation_tokens.mean(), "llm_calls": g.llm_calls.mean()})
-    t = pd.DataFrame(rows)
-    t["usd_cloud_t4"] = t.gpu_hours * t4_usd_per_hour
-    for model, col in (("claude-haiku-5-5", "usd_if_haiku_5_5"), ("claude-sonnet-5-5", "usd_if_sonnet_5_5")):
-        t[col] = [cost_usd(model, p, g) for p, g in zip(t.prompt_tokens, t.generation_tokens)]
-    return t
 
 
 def length_bias(judgments: pd.DataFrame, answers: pd.DataFrame) -> pd.DataFrame:
@@ -67,9 +34,9 @@ CORRECT_SYSTEMS = ["basic", "local", "global"]
 
 def correctness_tables(records: pd.DataFrame, questions: pd.DataFrame, systems: list[str] | None = None,
                        pairs: list[tuple[str, str]] | None = None) -> dict[str, pd.DataFrame]:
-    """The correctness check as report tables (21/11): per system, coverage counts, per kind and split (mean +
+    """The correctness check as report tables: per system, coverage counts, per kind and split (mean +
     contradictions), paired per-question comparison (Wilcoxon, Holm over the pairs) and the per-question grid.
-    systems/pairs default to the 12k run's three systems; the 8k run passes its own (23/11)."""
+    systems/pairs default to the 12k run's three systems; the 8k run passes its own."""
     from scipy.stats import wilcoxon
 
     from dne.stats import holm

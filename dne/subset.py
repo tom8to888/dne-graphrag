@@ -1,4 +1,4 @@
-"""Pick the article subset for a size-limited index (200 of 541 on 16/11, Kaggle's 12 h limit)."""
+"""Pick the article subset for a size-limited index (200 of 541 articles, to fit Kaggle's 12 h session limit)."""
 from __future__ import annotations
 
 import numpy as np

@@ -1,4 +1,4 @@
-"""Run a scripted demo dialogue through basic / local / global search (brief §13.1: conversational agent).
+"""Run a scripted demo dialogue through basic / local / global search (the assignment asks for a conversational agent).
 
 Runs inside the graphrag venv on the Kaggle box (started by kaggle/index/run_index.py, mode 'chat').
 Each system gets the same dialogues (user turns in order; '---' starts a new conversation): a follow-up is first rewritten into a
@@ -6,7 +6,7 @@ standalone question by the served LLM (dne.chat.CONDENSE_PROMPT), then answered 
 engines, settings and context budget as the evaluated answers (dne.query_worker.make_engine). The three
 systems run side by side; turns within a system run one after another.
 Self-abort: no turn starts after --stop-after-hours (checked before every turn) and one turn is abandoned after
---query-timeout; the first turn's projection is logged only (24/11: warm-up made it 3-5x too pessimistic). One JSON line per turn goes to --out; chat_transcript.md at the end.
+--query-timeout; the first turn's projection is logged only (warm-up made it 3-5x too pessimistic). One JSON line per turn goes to --out; chat_transcript.md at the end.
 
     python chat_worker.py --root R --dialogue dialogue.txt --out chat.jsonl --model M
                           [--systems basic,local,global] [--global-level 0] [--stop-after-hours 1.0]
@@ -113,7 +113,7 @@ async def main() -> int:
                     f"{row.get('llm_calls', 0)} calls{' ERROR ' + row['error'] if row['error'] else ''} "
                     f"| ETA {eta / 60:.0f} min")
                 if n_done == 1:  # log only: the first turn includes warm-up and was 3-5x slower than later
-                    # turns on 24/11 (run 1 stopped global wrongly on it); the time limit below each turn stops the run
+                    # turns (an earlier run stopped global search wrongly on it); the time limit checked before each turn stops the run
                     projected = time.time() - T0 + eta
                     say(f"BENCHMARK {system}: first turn {row['latency_s']:.0f}s → projected end {projected / 60:.0f} min "
                         f"(limit {limit_s / 60:.0f} min; checked before every turn)")

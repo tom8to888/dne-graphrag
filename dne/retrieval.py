@@ -1,4 +1,4 @@
-"""Map retrieved graphrag text units back to article ids; hit@k against gold articles."""
+"""Map retrieved graphrag text units back to article ids."""
 from __future__ import annotations
 
 import pandas as pd
@@ -20,6 +20,3 @@ def text_units_to_aids(unit_ids: list[str], text_units: pd.DataFrame, documents:
             out.append(aid)
     return out
 
-
-def hit_at_k(retrieved: list[int], gold: list[int], k: int) -> bool:
-    return bool(set(retrieved[:k]) & set(gold))

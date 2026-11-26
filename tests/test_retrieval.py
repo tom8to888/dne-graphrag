@@ -1,12 +1,6 @@
 import pandas as pd
 
-from dne.retrieval import hit_at_k, text_units_to_aids
-
-
-def test_hit_at_k():
-    assert hit_at_k([5, 7, 9], [9], k=3)
-    assert not hit_at_k([5, 7, 9], [9], k=2)
-    assert not hit_at_k([], [9], k=5)
+from dne.retrieval import text_units_to_aids
 
 
 def test_text_units_to_aids_dedup_order():

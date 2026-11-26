@@ -1,6 +1,6 @@
 """Human sample ratings → results/human_ratings.csv (one row per rater, item and rated criterion).
 
-    python tools/export_human_ratings.py thomas=<dir> jc=<dir>
+    python tools/export_human_ratings.py human1=<dir> human2=<dir>
 
 Each <dir> holds one JSON file per item (H01.json ...) as saved from the rating page's database
 (owner: collection `ratings`; second rater: `raters/<id>/items`). Re-run whenever more items are rated;

@@ -1,4 +1,4 @@
-"""Judge + correctness for the 8k-context run (kernel v9; 320 calls, ≈$6.27).
+"""Judge + correctness for the 8k-context run (320 calls).
 
     python tools/run_judge_8k.py          # prints the plan, no API calls
     python tools/run_judge_8k.py --yes    # runs it (needs ANTHROPIC_API_KEY in .env)

@@ -64,7 +64,7 @@ if __name__ == "__main__":
     print(f"{len(s)} items → results/human_sample.csv (+ key)")
 
 
-# ---- ratings export + agreement (23/11) ------------------------------------------------------------------
+# ---- ratings export + agreement ------------------------------------------------------------------------
 
 CRITERIA = ("comprehensiveness", "diversity", "empowerment", "directness")
 

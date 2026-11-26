@@ -1,4 +1,4 @@
-"""Conversational agent over the index (brief §13.1: "implement a conversational agent").
+"""Conversational agent over the index (the assignment asks to "implement a conversational agent").
 
 graphrag 3.3's public query API answers one question at a time, so follow-ups are handled the usual
 conversational-RAG way: the LLM first rewrites the follow-up into a standalone question using the recent

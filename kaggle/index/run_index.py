@@ -1,5 +1,9 @@
-"""Kaggle GPU kernel: serve an open LLM + embedder with vLLM, then smoke-test, build the GraphRAG index,
-or answer the question set on a finished index (mode 'query').
+"""Kaggle GPU kernel: serve an open LLM + embedder with vLLM, then run one mode from run_config.json:
+'smoke' (a quick end-to-end test), 'index' (build the GraphRAG index), 'query' (answer the question set on a
+finished index), 'chat' (the demo dialogues) or 'judge' (the second, local LLM judge).
+
+kaggle/index/run_index.py and kaggle/query/run_index.py are the same file: `kaggle kernels push` takes one
+folder per kernel, each with its own kernel-metadata.json. tests/test_kaggle_bundle.py keeps them identical.
 
 Reads run_config.json from the private code dataset (dne-graphrag-code) and the article texts from
 the private text dataset (itf-ccsr-text). Everything worth keeping goes to /kaggle/working.

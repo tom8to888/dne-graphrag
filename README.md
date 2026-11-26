@@ -25,8 +25,10 @@ global search, out of 3). Global search used about 4.6 times the prompt tokens p
 
 ```
 dne/                 library code: extraction, subset, Kaggle bundle, judge, statistics, report tables …
-tools/               command-line scripts (one per stage, called by run_all.sh)
+tools/               command-line scripts (one per task; most are called by run_all.sh)
 kaggle/              Kaggle GPU kernels: index/ builds the graph, query/ answers, chats and runs the second judge
+                     (query/run_index.py is a copy of index/run_index.py: Kaggle pushes one folder per kernel;
+                     tests/test_kaggle_bundle.py keeps the two identical)
 kaggle/common/       vLLM start-up script, graphrag settings and prompts (prompts_domain/ = coaching extraction prompt)
 notebooks/           01_corpus (corpus check and size), 05_results (all results tables)
 data/processed/      extracted text (one file per article) + articles.csv + subset_200.csv
@@ -53,12 +55,12 @@ this project:
 | Basic search with a fix for graphrag 3.3's empty answers (its streaming call is never awaited), so that all three systems share the same chunks, embeddings and answer model | `dne/query_worker.py` (`basic_answer`) |
 | Domain extraction prompt: ten coaching entity types and two hand-written coaching examples | `kaggle/common/prompts_domain/extract_graph.txt` |
 | Conversational agent: a follow-up question is rewritten into a standalone question, then answered by any of the three systems | `dne/chat.py`, `dne/chat_worker.py` |
-| Cost measurement: GPU energy from `nvidia-smi`, token counts from vLLM, graph size | `dne/power.py`, `dne/vllm_metrics.py`, `dne/graph_stats.py` |
+| Cost measurement: GPU energy from `nvidia-smi`, token counts from vLLM | `dne/power.py`, `dne/vllm_metrics.py` |
 | Evaluation: pairwise LLM judge on the four criteria of Edge et al. in both display orders, correctness grading against reference notes, a second judge from another model family, and an API spend cap | `dne/judge.py`, `dne/local_judge.py`, `dne/spend.py` |
 | Statistics: sign test, Wilcoxon signed-rank test, Holm correction, Cohen's κ, length bias | `dne/stats.py`, `dne/analysis.py` |
 | Blinded human sample | `dne/human_sample.py`, `tools/export_human_ratings.py` |
 | Corpus: harvesting, PDF-to-text extraction, the 200-article subset, the question set | `tools/harvest_itf.py`, `dne/extract.py`, `dne/subset.py`, `dne/questions.py` |
-| Report tables generated from the result files | `dne/report_tables.py`, `tools/make_report_tables.py` |
+| Report tables: generated from the result files, except the compute, prompt-comparison and graph-size tables, whose numbers are copied from the Kaggle run logs (source noted in the script) | `dne/report_tables.py`, `tools/make_report_tables.py` |
 
 ## Setup
 
@@ -79,7 +81,7 @@ The report needs a LaTeX distribution with `latexmk` (e.g. TeX Live or MacTeX).
 
 | Command | What it does | Needs | Time / cost |
 |---|---|---|---|
-| `./run_all.sh` | tests, correctness tables, results notebook, report tables, PDF, all from the result files in `results/` | nothing else | under a minute, free |
+| `./run_all.sh` | tests, results notebook, report tables, PDF, all from the result files in `results/` | nothing else | under a minute, free |
 | `./run_all.sh corpus` | checks the raw corpus, extracts the text, draws the 200-article subset | `data/raw/` (below) | ~5 min |
 | `./run_all.sh kaggle` | builds the index, answers the questions (12k and 8k context), runs the demo dialogues and the second judge | Kaggle account | ~50 GPU-hours over several sessions, free |
 | `./run_all.sh judge --yes` | Opus judge and correctness grader (800 calls) | Anthropic API key | ~USD 16 |
@@ -98,9 +100,9 @@ python tools/harvest_itf.py all      # issues → article metadata → PDFs, int
 **Kaggle.** Install the Kaggle CLI credentials (`~/.kaggle/kaggle.json`) and accept the T4 GPU terms. The
 kernels read three private datasets that the scripts create under your username: the article texts
 (`itf-ccsr-text`), the code bundle (`dne-graphrag-code`) and the finished index (`itf-ccsr-graphrag-index`).
-Replace the owner in `kaggle/*/kernel-metadata.json` with your Kaggle username, and remove
-`dne-graphrag-answers` (our earlier answers, used to resume) from the query kernel's `dataset_sources`; the
-commands in `run_all.sh` start fresh runs (`fresh=1`). A Kaggle session ends after
+Replace the owner in `kaggle/*/kernel-metadata.json` with your Kaggle username; `tools/kaggle_run.py cache` adds
+the cache dataset to the index kernel when a second session is needed. The commands in `run_all.sh` start fresh
+runs (`fresh=1`). A Kaggle session ends after
 12 hours and GPU time is limited to 30 hours a week, so the index takes two sessions (the second finishes the
 community reports from the saved cache) and the 12k answers may need a continuation run (see the comments in
 `run_all.sh`). Queues can add 1–3 hours per session.

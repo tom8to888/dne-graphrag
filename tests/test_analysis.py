@@ -1,8 +1,7 @@
-import numpy as np
 import pandas as pd
 import pytest
 
-from dne.analysis import bootstrap_ci, cost_table, length_bias, win_rates
+from dne.analysis import length_bias, win_rates
 
 
 def _j(rows):
@@ -30,23 +29,6 @@ def test_win_rates_by_kind():
             ("q2", "basic", "global", 0, "diversity", "global"), ("q2", "basic", "global", 1, "diversity", "global")])
     r = win_rates(j, QS, by=["kind", "criterion"]).set_index("kind")
     assert r.loc["lookup", "win_rate_b"] == 0 and r.loc["big_picture", "win_rate_b"] == 1
-
-
-def test_bootstrap_ci_contains_mean():
-    df = pd.DataFrame({"qid": [f"q{i}" for i in range(50)], "x": np.linspace(0, 1, 50)})
-    lo, hi = bootstrap_ci(df, lambda d: d.x.mean(), n=500, seed=1)
-    assert lo < 0.5 < hi and hi - lo < 0.4
-
-
-def test_cost_table_claude_conversion():
-    index_run = {"wall_seconds": 3600, "gpu_hours": 2.0, "kwh": 0.1,
-                 "totals": {"prompt_tokens": 1_000_000, "generation_tokens": 100_000, "requests": 10}}
-    answers = pd.DataFrame({"system": ["basic"], "latency_s": [2.0], "prompt_tokens": [1000],
-                            "generation_tokens": [100], "llm_calls": [1]})
-    t = cost_table(index_run, answers, t4_usd_per_hour=0.35).set_index("stage")
-    assert t.loc["indexing", "usd_if_sonnet_5_5"] == pytest.approx(3.00)
-    assert t.loc["indexing", "usd_cloud_t4"] == pytest.approx(0.70)
-    assert t.loc["answer: basic", "prompt_tokens"] == 1000
 
 
 def test_length_bias_longer_wins():

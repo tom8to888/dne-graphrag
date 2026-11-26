@@ -9,8 +9,7 @@
   "enable_internet": true,
   "dataset_sources": [
     "<your-kaggle-username>/itf-ccsr-text",
-    "<your-kaggle-username>/dne-graphrag-code",
-    "<your-kaggle-username>/dne-graphrag-cache"
+    "<your-kaggle-username>/dne-graphrag-code"
   ],
   "competition_sources": [],
   "kernel_sources": []

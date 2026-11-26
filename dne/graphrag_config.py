@@ -1,6 +1,6 @@
 """Render graphrag 3.3 settings.yaml for vLLM servers on the Kaggle box.
 
-Fairness rule (spec §7): one generator model; the same final-answer context budget for basic,
+Fairness rule: one generator model; the same final-answer context budget for basic,
 local and global search; the same answer-length cap for every search mode (via `answer_model`,
 the same LLM with max_tokens). `response_type` is a query-time argument in graphrag 3.3, so the
 query runner passes it, not this file.

@@ -12,6 +12,7 @@ Prints progress + ETA after every query and stops starting new ones when project
 
     python query_worker.py --root R --questions Q.csv --out answers.jsonl --systems basic,local,global
                            [--per-kind N] [--budget-hours H] [--concurrency 3] [--global-level 0]
+                           [--query-timeout S] [--stop-after-hours H]
 """
 from __future__ import annotations
 
@@ -91,7 +92,7 @@ def make_engine(system: str, cfg, t: dict[str, pd.DataFrame], global_level: int)
 
 async def basic_answer(engine, query: str) -> SimpleNamespace:
     """graphrag 3.3's BasicSearch.search with its bug fixed: it calls model.completion_async(stream=True)
-    without `await`, iterates the coroutine, catches the TypeError and returns "" (benchmark 2, 17/11).
+    without `await`, iterates the coroutine, catches the TypeError and returns "".
     Same context, prompt, model call and token counting as graphrag's own code; stream_search awaits it."""
     ctx = engine.context_builder.build_context(query=query, conversation_history=None, **engine.context_builder_params)
     prompt = engine.system_prompt.format(context_data=ctx.context_chunks, response_type=engine.response_type)

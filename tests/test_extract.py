@@ -1,7 +1,6 @@
 import json
 
 import pymupdf
-import pytest
 
 from dne.extract import (ArticleMeta, article_header, clean_pages, english_galley_gid, extract_article,
                          load_meta, looks_english)
