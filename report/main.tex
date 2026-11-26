@@ -182,7 +182,7 @@ The evaluation uses 60 questions written from the point of view of a coach who a
 players, 20 of each of three kinds: \emph{look-up} questions, whose answer is in one article;
 \emph{connecting} questions, which need several articles; and \emph{big-picture} questions about
 themes across the corpus and its years, the kind of global sensemaking question for which GraphRAG
-was designed \cite{edge2024local}. An LLM drafted a pool of 110 candidate questions from the corpus, each look-up and connecting
+was designed \cite{edge2024local}. An LLM (Claude) drafted a pool of 110 candidate questions from the corpus, each look-up and connecting
 question with a short note of the key points a good answer contains, taken from its source article.
 The author approved a selection of 60 together with their notes. The questions are
 split into a development set of 15 (5 per kind), used for set-up choices such as the
@@ -423,15 +423,15 @@ and global search ($p = 0.010$ and $0.005$). Diversity with Opus, global search 
 Mistral, and all results per question kind (15 questions each, descriptive only) are not significant.
 The overall picture is nevertheless consistent, because several measures point the same way: two LLM
 judges from different model families, two human raters, and the correctness check against the reference
-notes. These measures are not fully independent, however: Opus also grades correctness, the LLM judges saw the
+notes. These measures are not fully independent, however: Opus also grades correctness, Claude, the main judge's family, drafted the questions and notes from specific articles, which may favour basic RAG, the LLM judges saw the
 citation markers that reveal each system (the human raters did not), one human rater is the author, and the second rater's wins were nearly even (basic 25, local 22; \cref{tab:humanwins}). Agreement among the raters was
 low to fair ($\kappa$ between 0.12 and 0.30 on the human sample), so single verdicts are noisy.
 Judging both display orders balances position bias, which was substantial for Mistral: it gave the same
 verdict in both orders in 50\% of comparisons, against 80\% for Opus (all 60 questions). On
 comprehensiveness, diversity and empowerment the longer answer won 58--73\% of decided verdicts
 (\cref{tab:lengthbias}), but the systems' answers were similar in length (586 to 638 tokens on
-average), so length bias is unlikely to explain basic RAG's lead. Finally, each pair was judged once
-per display order, whereas Edge et al.\ repeated every comparison five times; our API budget of USD 20
+average), so length bias is unlikely to explain basic RAG's lead. Each pair was judged once
+per display order, whereas Edge et al.\ judged each five times; our USD 20 API budget
 did not allow more.
 
 Four changes could give GraphRAG a fairer test. The first three reuse the existing extraction, which was
@@ -465,8 +465,8 @@ questions, the setting of limited budgets that motivated this study.
 \section*{Code and Data}
 \label{sec:code}
 The code is available at \url{https://github.com/tom8to888/dne-graphrag}. New relative to the \texttt{graphrag} library are:
-a Kaggle pipeline (vLLM on two T4 GPUs) that runs indexing, querying, the conversational agent and the
-second judge, with budget watchdogs and resumption from graphrag's cache; a fix for the empty answers of graphrag~3.3's basic search; the pairwise judge, the
+a Kaggle pipeline that runs indexing, querying, the conversational agent and the
+second judge; a fix for the empty answers of graphrag~3.3's basic search; the pairwise judge, the
 correctness grader and the statistics; and the code that draws the blinded human sample. A README and
 \texttt{run\_all.sh} reproduce every stage and table.
 
