@@ -41,12 +41,12 @@
 
 \begin{abstract}
 Vector retrieval-augmented generation (RAG) struggles with questions that span a whole corpus; GraphRAG
-addresses this by building a knowledge graph and community summaries from the text. It was evaluated with
-gpt-4-turbo on broad corpora, so whether this advantage holds with a smaller, accessible model on limited
+addresses this by building a knowledge graph and community summaries from the text. Edge et al.
+evaluated it with gpt-4-turbo on broad corpora, so whether this advantage holds with a smaller, accessible model on limited
 compute, in a specialised field, remains open. We compared GraphRAG's local and global search with basic vector RAG on
 200 tennis-coaching articles, using Qwen2.5-14B on free Kaggle GPUs and 60 questions of three kinds
-(look-up, connecting, big-picture). We evaluated the answers with two LLM judges, two human raters and a
-correctness check against expert notes, and measured the cost. Building on Edge et al., we expected global
+(look-up, connecting, big-picture). We evaluated the answers with two LLM judges (Claude Opus 5.5 and Mistral Small 24B),
+two human raters and a correctness check against reference notes, and measured the cost. Building on Edge et al., we expected global
 search to win on big-picture questions and, further, local search on connecting questions and basic RAG
 on look-up questions. Instead, basic RAG beat both GraphRAG systems on almost all criteria and on correctness
 (1.77 against 1.37 and 1.13 out of 3), while global search used about 4.6 times the prompt tokens per answer. Our analysis suggests that the
@@ -100,7 +100,7 @@ Our contributions are:
     articles, addressing whether the method generalises beyond general-interest data.
   \item An evaluation of GraphRAG's local search, which Edge et al.\ left for future work, alongside
     global search, on three kinds of questions: look-up, connecting and big-picture.
-  \item A correctness check against reference notes written by a tennis coach, in addition to the four
+  \item A correctness check against reference notes drafted from the source articles, in addition to the four
     criteria of Edge et al., and checks on the main LLM judge with a second judge from another model
     family and a human sample rated by two people.
   \item A pipeline that runs entirely on a 14B open model on free GPUs, with indexing and per-answer
@@ -148,7 +148,7 @@ mattered even for big-picture questions, where basic RAG also performed best. Un
 our local search lost to basic RAG on connecting, multi-hop questions. Han et al.\ built their graphs with GPT-4o-mini, whose
 size is not published but which is likely a stronger extractor than our 4-bit Qwen2.5-14B
 (\cref{sec:discussion}). In contrast to both studies, we use a specialised corpus, build the graph with a
-small (14B) open model run on free cloud GPUs, and add a correctness check against expert notes.
+small (14B) open model run on free cloud GPUs, and add a correctness check against reference notes.
 
 LLM judges agree with human raters about as often as humans agree with each other
 \cite{zheng2023judging}, and so did our raters (\cref{tab:human}). They are, however, biased by the
@@ -182,9 +182,9 @@ The evaluation uses 60 questions written from the point of view of a coach who a
 players, 20 of each of three kinds: \emph{look-up} questions, whose answer is in one article;
 \emph{connecting} questions, which need several articles; and \emph{big-picture} questions about
 themes across the corpus and its years, the kind of global sensemaking question for which GraphRAG
-was designed \cite{edge2024local}. An LLM drafted a pool of 110 candidate questions from the corpus;
-the author selected and edited the final 60 and wrote, for each look-up and connecting question, a
-short note of the key points a good answer contains, taken from the source article. The questions are
+was designed \cite{edge2024local}. An LLM drafted a pool of 110 candidate questions from the corpus, each look-up and connecting
+question with a short note of the key points a good answer contains, taken from its source article.
+The author approved a selection of 60 together with their notes. The questions are
 split into a development set of 15 (5 per kind), used for set-up choices such as the
 global-search community level,
 and a test set of 45 (15 per kind), on which all results are reported.
@@ -284,7 +284,7 @@ model that generates the answers. A second judge from another model family, Mist
 (AWQ, run locally on the same GPUs), receives the same prompt. Neither judge sees the reference notes.
 
 \textbf{Correctness.} Because the four criteria do not check whether an answer is right, Opus also
-grades every answer to the look-up and connecting questions against the author's note of key points:
+grades every answer to the look-up and connecting questions against the reference note of key points:
 coverage of all, most, some or none of them (scored 3 to 0), and whether the answer contradicts the
 note. Extra material that does not contradict the note is neither rewarded nor penalised. The
 big-picture questions have no such note.
