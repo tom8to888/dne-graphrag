@@ -173,7 +173,7 @@ The corpus is the ITF Coaching \& Sport Science Review, the open-access journal 
 Tennis Federation, published under CC BY. We collected 587 articles (2009--2026) with their metadata.
 Text was extracted with PyMuPDF, without running headers and (where the heading was recognised) reference lists, and with a header
 (title, authors, year) so that every chunk can be traced to its article. After removing 46 articles
-without a PDF or usable text, 541 remain (1.64M tokens). Indexing all of them would take about 34 hours
+without a PDF or usable text, 541 remain (1.64M tokens). Indexing all of them would take about 34 hours of wall time (elapsed clock time)
 on our hardware, against Kaggle's limit of 12 hours per session and 30 hours of GPU time per week. The graph is therefore built on a subset of 200 articles (0.59M tokens): the
 first 50 usable articles, the 91 source articles of the candidate questions, and a seeded random
 sample for the rest.
@@ -182,7 +182,7 @@ The evaluation uses 60 questions written from the point of view of a coach who a
 players, 20 of each of three kinds: \emph{look-up} questions, whose answer is in one article;
 \emph{connecting} questions, which need several articles; and \emph{big-picture} questions about
 themes across the corpus and its years, the kind of global sensemaking question for which GraphRAG
-was designed \cite{edge2024local}. An LLM (Claude) drafted a pool of 110 candidate questions from the corpus, each look-up and connecting
+was designed \cite{edge2024local}. Claude Opus 5.5 drafted a pool of 110 candidate questions from the corpus, each look-up and connecting
 question with a short note of the key points a good answer contains, taken from its source article.
 The author approved a selection of 60 together with their notes. The questions are
 split into a development set of 15 (5 per kind), used for set-up choices such as the
@@ -213,7 +213,7 @@ and a test set of 45 (15 per kind), on which all results are reported.
   \node[sys, right=of loc] (bas) {\textbf{basic}\\chunks by\\similarity};
   \node[box, below=3mm of loc, text width=66mm] (eva) {Answers (12k or 8k context) $\rightarrow$\\pairwise judges (Opus 5.5, Mistral),\\correctness against notes, human sample};
   \node[grp, fit=(glo)(bas)(eva), label={[font=\footnotesize\itshape, gray]below:Per question}] (qry) {};
-  \draw[arr] (idx.south) -- (loc.north);
+  \draw[arr] (idx.south) -- (idx.south |- qry.north);
   \draw[arr] (glo) -- (glo |- eva.north); \draw[arr] (loc) -- (eva); \draw[arr] (bas) -- (bas |- eva.north);
 \end{tikzpicture}
 \caption{Pipeline. The index is built once; each question is answered by the three systems (shaded),
@@ -226,7 +226,7 @@ and answer model. All generation runs on
 Qwen2.5-14B-Instruct with 4-bit AWQ quantisation \cite{qwen2025}, served with vLLM
 \cite{kwon2023vllm} on two NVIDIA T4 GPUs (16\,GB each) in Kaggle notebooks; embeddings come from
 bge-m3 \cite{chen2024bgem3}. The articles are split into chunks of 1,200 tokens with 100 tokens of
-overlap. The LLM extracts entities and relationships with one round of gleaning, and Leiden
+overlap. Qwen extracts entities and relationships with one round of gleaning, and Leiden
 communities are summarised in community reports (\cref{fig:pipeline}). Extraction uses a domain prompt with ten entity types (technique, tactic, drill, injury,
 physical quality, mental skill, equipment, person, organisation and event) and two hand-written
 coaching examples (\cref{sec:prompts}). The resulting graph has 6,862 entities, 4,731 relationships and 579
@@ -254,7 +254,7 @@ comprehensiveness and diversity while reading over 97\% fewer tokens than map-re
 text \cite{edge2024local}; lower levels remain untested here.
 
 The systems are also available as a conversational agent: a follow-up
-question is first rewritten by the LLM into a standalone question using the recent conversation, and
+question is first rewritten by Qwen into a standalone question using the recent conversation, and
 then answered by the chosen system, so that the same mechanism serves all three.
 \cref{app:dialogue} shows a four-turn dialogue answered by all three systems.
 
@@ -291,7 +291,7 @@ big-picture questions have no such note.
 
 \textbf{Human sample.} Twenty answer pairs from the test set (20 different questions, spread over the
 three system pairs, with the display order alternated) were rated blind on the same four criteria by
-two people independently: the author and a second tennis coach. Citation markers, which would reveal
+two people independently: the author and a second rater familiar with tennis. Citation markers, which would reveal
 the system, were replaced by a neutral \texttt{[ref]}.
 
 \textbf{Statistics.} For each question, system pair and criterion, the two verdicts are scored $+1$
@@ -423,7 +423,7 @@ and global search ($p = 0.010$ and $0.005$). Diversity with Opus, global search 
 Mistral, and all results per question kind (15 questions each, descriptive only) are not significant.
 The overall picture is nevertheless consistent, because several measures point the same way: two LLM
 judges from different model families, two human raters, and the correctness check against the reference
-notes. These measures are not fully independent, however: Opus also grades correctness; Claude, the main judge's family, drafted the questions and notes from specific articles, which may favour basic RAG; the LLM judges saw the
+notes. These measures are not fully independent, however: Opus also grades correctness; Claude Opus 5.5, also the main judge, drafted the questions and notes from specific articles, which may favour basic RAG; the LLM judges saw the
 citation markers that reveal each system (the human raters did not); one human rater is the author; and the second rater's wins were nearly even (basic 25, local 22; \cref{tab:humanwins}). Agreement among the raters was
 low to fair ($\kappa$ between 0.12 and 0.30 on the human sample), so single verdicts are noisy.
 Judging both display orders balances position bias, which was substantial for Mistral: it gave the same
